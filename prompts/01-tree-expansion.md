@@ -4,7 +4,7 @@ Push every branch of your family tree as far back as possible using web research
 
 ## Autoresearch Configuration
 
-**Goal**: For every ancestor currently in `[VAULT_PATH]/Family_Tree.md`, search for their parents, siblings, spouses' families, and any additional generations. Update the vault after each discovery. Keep iterating until no more ancestors can be found through free web sources.
+**Goal**: For every ancestor currently in `vault-template/Family_Tree.md`, search for their parents, siblings, spouses' families, and any additional generations. Update the vault after each discovery. Keep iterating until no more ancestors can be found through free web sources.
 
 **Metric**: Number of new ancestors/individuals added to Family_Tree.md
 
@@ -22,7 +22,7 @@ Push every branch of your family tree as far back as possible using web research
 
 **Protocol**:
 
-1. **Baseline**: Read `[VAULT_PATH]/Family_Tree.md` completely. Count every named individual. Record this as the baseline in `[VAULT_PATH]/Research_Log.md`.
+1. **Baseline**: Read `vault-template/Family_Tree.md` completely. Count every named individual. Record this as the baseline in `vault-template/Research_Log.md`.
 
 2. **Identify expansion targets**: For each leaf node (an ancestor with no listed parents), note:
    - Name, dates, and location
@@ -42,10 +42,10 @@ Push every branch of your family tree as far back as possible using web research
 
 5. **Update the vault**: For each confirmed new ancestor:
    - Add to Family_Tree.md in the correct position
-   - If sufficient data exists, create a person file using the template at `[VAULT_PATH]/templates/person.md`
+   - If sufficient data exists, create a person file using the template at `vault-template/templates/person.md`
    - Note the source in the person file's Document Sources section
 
-6. **Log the search**: In `[VAULT_PATH]/Research_Log.md`, record:
+6. **Log the search**: In `vault-template/Research_Log.md`, record:
    - Date and search target
    - Queries used
    - Results (positive or negative)

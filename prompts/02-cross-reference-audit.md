@@ -4,13 +4,13 @@ Find and fix every date, name, and place discrepancy between your family tree an
 
 ## Autoresearch Configuration
 
-**Goal**: For every named person in `[VAULT_PATH]/Family_Tree.md`, compare their dates, names, and places against the corresponding person files and transcription notes. For each mismatch, determine which source is correct and fix the wrong file.
+**Goal**: For every named person in `vault-template/Family_Tree.md`, compare their dates, names, and places against the corresponding person files and transcription notes. For each mismatch, determine which source is correct and fix the wrong file.
 
 **Metric**: Number of discrepancies remaining (mismatches between Family_Tree.md and person/transcription files)
 
 **Direction**: Minimize (lower is better)
 
-**Verify**: `grep -c "DISCREPANCY\|MISMATCH\|CONFLICT" [VAULT_PATH]/cross_reference_audit.md`
+**Verify**: `grep -c "DISCREPANCY\|MISMATCH\|CONFLICT" vault-template/cross_reference_audit.md`
 
 **Guard**:
 - When sources conflict, use this hierarchy: primary documents (certificates, vital records) > secondary sources (newspapers, published genealogies) > tertiary sources (family trees, oral history, photo captions)
@@ -21,7 +21,7 @@ Find and fix every date, name, and place discrepancy between your family tree an
 
 **Protocol**:
 
-1. **Build the master list**: Read `[VAULT_PATH]/Family_Tree.md` completely. For every named person, extract:
+1. **Build the master list**: Read `vault-template/Family_Tree.md` completely. For every named person, extract:
    - Full name (all variants)
    - Birth date and place
    - Death date and place
@@ -32,7 +32,7 @@ Find and fix every date, name, and place discrepancy between your family tree an
 2. **Compare against source files**: For each person, read their person file (if one exists) and any transcription notes that mention them. Compare every fact.
 
 3. **When a mismatch is found**:
-   a. Record it in `[VAULT_PATH]/cross_reference_audit.md` with: person name, field (date/name/place), value in Family_Tree.md, value in person file, authoritative source
+   a. Record it in `vault-template/cross_reference_audit.md` with: person name, field (date/name/place), value in Family_Tree.md, value in person file, authoritative source
    b. Determine which source is correct using the hierarchy above
    c. Fix the incorrect file using Edit
    d. Add a `## Data Discrepancies` section to the person file if one does not exist, documenting the conflict and resolution
