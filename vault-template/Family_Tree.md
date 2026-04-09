@@ -26,8 +26,9 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 │
 ├── PATERNAL: Alan Carl Salmanson + Kathryn Ann Kascher
 │   ├── Leonard Irving Salmanson (1910-1975) + Thelma Markel (1920-2011)
-│   │   └── Barnett Salmanson + Elizabeth Salk — Providence, RI
-│   │       └── [Eastern European Zalmanson/Salmanson line]
+│   │   └── Barnett (Berko) Zalmanson/Salmanson (1883-1960, b. Vilna, Lithuania) + Elizabeth Salk — Providence, RI
+│   │       └── Levi Itzhak Zalmanson + Rochel Tsine (Deych) — Vilnius, Lithuania
+│   │           └── [Eastern European Zalmanson line → possible Schneerson connection]
 │   └── Kascher / South Carolina ancestors — see Maternal Line below
 │
 ├── MATERNAL: Yaffit Shriki
@@ -90,24 +91,30 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 
 **Note on Jerrold:** Samuel Salmanson's 2004 obituary lists "his nephews, Jerrold and Alan" as working in the family business. **Cross-reference audit conclusion (Strong Signal):** Jerrold is **Charles and Hannah (Kushner) Salmanson's son**, not Leonard's. Hannah's obituary and Find a Grave memorial (#185239892) explicitly list "Jerrold A. Salmanson of Providence" as her surviving child. Charles's 2008 obituary confirms. Jerrold and Alan are cousins (sons of two different brothers), not siblings. See Discrepancy #7, resolved.
 
-**Thelma (Markel) Salmanson Rodbell** (Sept 12, 1920 - Sept 22, 2011)
+**Thelma (Markel) Salmanson Rodbell** (Sept 12, 1920 - Sept 22, 2011; age 91 years, 10 days)
+- Hebrew birth date: circa 5680; Hebrew death date: 23 Av 5771
 - Married Leonard Irving Salmanson, 1947
 - After Leonard's death in 1975, married **Leonard Rodbell** in 1978; moved to Atlanta
 - Sister: Anne (Markel) Schlusselberg
 - Established the Thelma S. Rodbell Charitable Foundation (Cranston, RI; tax-exempt since 1999; $2.3M in 386 grants since 2014)
 - Buried: Lincoln Park Cemetery, Warwick, Rhode Island
 - Parents: not yet identified (WALL: requires RI vital records or census)
-- Sources: Find a Grave #231959788, ProPublica Nonprofit Explorer
+- Sources: Find a Grave #231959788, MyHeritage, ProPublica Nonprofit Explorer
 
 ### Generation: Alan Carl's Grandparents
 
-**Barnett Salmanson + Elizabeth (Salk) Salmanson** (strong)
+**Barnett (Berko) Salmanson** (born **Berko Zalmanson**, May 15, 1883, Vilnius (Vilna), Lithuania; died December 14, 1960, Miami, FL) **(strong)**
+- **Birth name: Berko Zalmanson** (confirmed via MyHeritage family tree)
+- **Father: Levi Itzhak Zalmanson** (MyHeritage). Note: NOT the same as Rabbi Levi Yitzchok Zalmanson (1812-1872) who married Dvorah Leah Schneursohn; this is likely a descendant named after him (Barnett born 1883, 11 years after the Rabbi's death). The generational gap suggests: Rabbi Levi Yitzchok (1812-1872) → [child, e.g., Yosef Chaim b.1853] → Levi Itzhak (Barnett's father, b. ~1855-1865?) → Berko/Barnett (1883-1960).
+- **Mother: Rochel Tsine Zalmanson (born Deych)** (MyHeritage). Maiden name **Deych**.
+- **Sibling: Gita Zalmanson** (MyHeritage). Likely named after grandmother Gita (Srul + Gita, Gen 3 in family tree screenshots).
+- Married **Elizabeth (Salk) Salmanson** in Providence, RI area
 - Family in Brooklyn, NY by 1910 (Leonard b. June 1910); Samuel born June 24, 1912 in Brooklyn. Martha born in Providence (~1919-1920), indicating the family moved from Brooklyn to Providence between 1912 and ~1919.
 - Founded **Adams Drug Company** in 1932 in Woonsocket and Pawtucket, RI, selling health and beauty aids. Barnett and sons Leonard, Samuel, Charles, and Donald all worked in the business. Grew to **500+ stores in 14 states, 5,000+ employees**. NYSE-listed 1972. Sold to Pantry Pride in 1984 for $100 million. All stores converted to **Brooks Pharmacy** trade name in 1986; acquired by Rite Aid in 2006.
 - All known Salmanson burials at **Lincoln Park Cemetery** (Jewish, est. 1908), Warwick, RI
 - Members of **Temple Emanu-El** (Conservative, founded 1924), **Ledgemont Country Club**, trustees of Miriam Hospital, Jewish Federation of R.I.
 - **Possible relatives in Brooklyn/NY area** (unconfirmed, same era): David Salmanson (b. ~1891 Russia, wife Eva b. Rhode Island), Sam Salmanson (1901-1985, Manhasset NY, wife Mollie Greenberg), Abe Salmanson (Brooklyn, then El Paso TX). Geographic clustering suggests siblings or cousins of Barnett.
-- Sources: Multiple obituaries, Find a Grave, Wikipedia (Adams Drug Company, Brooks Pharmacy)
+- Sources: **MyHeritage family tree (19 matches)**, multiple obituaries, Find a Grave, Wikipedia (Adams Drug Company, Brooks Pharmacy)
 
 **Children of Barnett + Elizabeth (Salk) Salmanson:**
 
@@ -184,15 +191,16 @@ The names in the family tree screenshots (Dovber, Yekutiel, Rivka, Srul, Levi, R
 
 | Person | Spouse | Parents (probable) | Confidence |
 |--------|--------|--------------------|------------|
-| Levi | Rochel | from Srul + Gita line (?) | moderate |
+| **Levi Itzhak Zalmanson** | **Rochel Tsine (born Deych)** | from Srul + Gita line (?) | **strong** (confirmed via MyHeritage as Barnett's parents) |
 
-**Possible connection:** If "Levi" is Levi Yitzchok Zalmanson (married 1826 to Dvorah Leah Schneursohn), this would place the family within the Chabad-Lubavitch orbit and provide a bridge to the well-documented Schneerson genealogy. **(speculative, requires verification)**
+**Confirmed connection to Barnett:** MyHeritage records confirm that **Berko Zalmanson** (= Barnett Salmanson) was the son of **Levi Itzhak Zalmanson** and **Rochel Tsine (born Deych)**. "Levi" in the family tree screenshots = Levi Itzhak Zalmanson, and "Rochel" = Rochel Tsine Deych. This Levi Itzhak is NOT the same as Rabbi Levi Yitzchok Zalmanson (1812-1872) who married Dvorah Leah Schneursohn; he is likely a grandson or great-grandson named after the Rabbi. The Schneerson connection, if it exists, would run through the earlier generations (Srul, Yekutiel, Dovber, etc.).
 
 #### Generation 5
 
 | Person | Spouse | Parents (probable) | Confidence |
 |--------|--------|--------------------|------------|
-| Barnett | Elizabeth (Salk) | from Levi + Rochel (?) | strong (names), moderate (connection) |
+| **Barnett (Berko) Zalmanson/Salmanson** (May 15, 1883, Vilna, Lithuania; d. Dec 14, 1960, Miami FL) | **Elizabeth (Salk)** | **Levi Itzhak Zalmanson + Rochel Tsine Deych** (confirmed) | **strong** |
+| **Gita Zalmanson** (Barnett's sister) | | Levi Itzhak + Rochel Tsine (confirmed) | **strong** |
 
 **Profile pictures** appear on Dovber, Rivka, and Barnett in the digital tree, suggesting these are key documented ancestors.
 
@@ -517,7 +525,7 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 
 2. ~~**Richard Panciera**~~: RESOLVED. Half-sibling or step-sibling of Kathryn Kascher (different surname = different father). See Discrepancy #6. Family confirmation recommended.
 
-3. **Missing Salmanson generations**: How does Barnett connect back to the Eastern European line shown in Screenshot 125824 (Levi + Rochel → Barnett)? What was Barnett's birth name? When did the family immigrate? **Research progress:** Family was in Brooklyn by 1910, moved to Providence by ~1919. Cluster of possible relatives in Brooklyn: David Salmanson (b. ~1891 Russia), Sam (1901-1985), Abe. **WALL HIT:** Immigration/census/naturalization records are behind paywalls (Ancestry, FamilySearch). Next steps: search Statue of Liberty Foundation passenger database (free) for "Zalmanson"/"Salmanson"; search FamilySearch census records; check Brooklyn city directories 1910-1912.
+3. ~~**Missing Salmanson generations**~~: **RESOLVED.** MyHeritage confirms: Barnett Salmanson = **Berko Zalmanson**, born May 15, 1883, Vilnius (Vilna), Lithuania. Father: **Levi Itzhak Zalmanson**. Mother: **Rochel Tsine (born Deych)**. Sibling: **Gita Zalmanson**. Died December 14, 1960, Miami, FL. The Levi + Rochel in the family tree screenshots are confirmed as Barnett's parents. Remaining question: how does Levi Itzhak connect to the earlier Zalmanson/Schneerson line (Srul, Yekutiel, Dovber generations)?
 
 4. **How do the SC families connect to Kascher?** The Kascher surname is German/Central European (concentrated in Ohio in 1920 census), NOT from SC. The SC connection (Cox, Henderson, King, Stangle, Duff) likely traces through Kathryn's maternal or paternal line, not the Kascher name itself. The Panciera half/step-sibling connection points to Rhode Island Italian-American roots for one parent. **WALL:** Need marriage records or census for Kathryn's parents to determine which line carries the SC ancestry.
 
