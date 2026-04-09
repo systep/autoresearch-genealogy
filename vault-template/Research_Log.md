@@ -278,5 +278,34 @@ All 9 previously open discrepancies resolved (see cross_reference_audit.md). Key
 7. Stangle family in SC (check Ancestry.com/FamilySearch)
 8. Duff family records
 9. Higher-resolution photos of large handwritten chart (IMG_0782-0785)
-10. Cox line beyond William Cox Sr. (c.1726) (research in progress)
+10. Cox line beyond William Cox Sr.: WALL HIT. DNA + primary sources confirm parents unknown. Key correction: Isaac Cox is William Sr.'s SON (not brother). William Sr. b. c.1730-1735, NOT 1726. NOT son of William Richardson Cox (1692-1767, Quaker). Y-DNA: R1b-I "Carolina Coxes" (British Isles origin). Koch→Cox theory unlikely for this family. James Cox married Dianah/Diana Black. Alice (maiden name unknown) was William Sr.'s wife.
 11. Henderson deeper ancestry (research in progress)
+
+---
+
+## 2026-04-09: Deep Research — Cox Line Extension
+
+### Search: William Cox Sr. parents
+
+**Query**: Multiple searches across WikiTree, Cox Family History Project, Ancestry, FamilySearch, Geni.com
+**Results**: CONFIRMED BRICK WALL. Cox Family History Project (est. 2008, updated 2020) states parents unknown. Y-37 DNA test places this line in R1b-I "Carolina Coxes" subgroup, NOT matching Quaker/Delaware Cox line.
+**Critical correction**: Many databases (Ancestry, FamilySearch, Geni.com) ERRONEOUSLY merge William Cox Sr. with William Richardson Cox (1692-1767, Quaker from Delaware). This is proven wrong by DNA and primary sources.
+
+### Search: Isaac Cox relationship to William Sr.
+
+**Query**: WikiTree Cox-8529, Cox Family History Project, FamilySearch
+**Results**: FOUND. Isaac Cox (c.1755-1830) was William Cox Sr.'s SON. Born Orange County NC. Wife unknown. Children: James, Elizabeth, Abraham, Sarah, Frances, William. Appears on 1779 NC tax list and 1814 estate records.
+
+### Search: James Cox wife
+
+**Query**: WikiTree Cox-14020, Cox Family History Project
+**Results**: FOUND. James Cox married **Dianah/Diana Black** (b. 1784 NC, d. Jan 7, 1865 Greenville Co. SC).
+
+### Search: Koch/German origin for Cox
+
+**Query**: Orange County NC records, Koch surname, German settlers
+**Results**: NEGATIVE. No evidence of Koch→Cox for this family. Y-DNA is R-M269, consistent with British Isles. Cox Family History Project does not mention German origin theory.
+
+### Search: Orange County NC land records
+
+**Results**: FOUND. William Cox on 1755 tax list (one of 3 William Coxes). Purchased 110 acres April 22, 1772 (Deed Book #3 p. 599). Sold October 13, 1787 for 250 pounds before migrating to SC.

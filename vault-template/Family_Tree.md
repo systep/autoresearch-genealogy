@@ -205,10 +205,16 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 
 #### Branch 1: William Cox Sr. Line
 
-**William Cox Sr.** (c.1726 - c.1814) (strong)
-- Moved from Orange County, North Carolina to Greenville County, SC in the late 1780s
+**William Cox Sr.** (c.1730-1735 - Nov 1814) (strong)
+- **Parents: UNKNOWN (confirmed brick wall).** DNA testing (Y-37, FamilyTreeDNA) places this line in haplogroup **R1b-I "Carolina Coxes" subgroup (R-M269)**, consistent with British Isles origin. Y-DNA does NOT match the Quaker/Delaware Cox line.
+- **WARNING:** Many databases (Ancestry, FamilySearch, Geni.com) incorrectly list William Richardson Cox (1692-1767, Quaker from Delaware) as his father. The Cox Family History Project and WikiTree Cox-14022 confirm this is an **erroneous merger**. William Sr. was NOT a Quaker and NOT from Delaware.
+- Married **Alice** ("Alce"/"Alic"), surname unknown
+- Owned 110 acres on Haw River and Cane Creek, Orange County, NC (purchased April 22, 1772 from John Howlet for 60 pounds, Deed Book #3 p. 599)
+- Appears on the **1755 Orange County tax list** as one of three William Coxes (the Quaker William and his son being the other two)
+- Sold his NC land October 13, 1787 to John Millison for 250 pounds; migrated to Greenville County, SC
 - Migrated with intermarried families: **Longs**, Blacks, Payne/Paines, Lees, Brashiers/Brazures
-- Sources: WikiTree Cox-14022, Cox Family History Project
+- Estate administered after November 1814 death; January 4, 1817 sale of 155 acres by Abraham Cox, Mary Cox, Isaac Cox, Thomas Long, George Croft
+- Sources: WikiTree Cox-14022, Cox Family History Project (est. 2008, updated 2020), Orange County deed records, FamilyTreeDNA Cox DNA Study
 
 **William Cox Jr.** (d. 1798) (strong)
 - Son of William Cox Sr.
@@ -255,22 +261,37 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 9. **Thomas Langford Henderson** (married Mary Frances "Fannie" Cox, b. 1858, on Dec 25, 1877)
 10. Julia H. L. Henderson
 
-#### Branch 2: James Cox / Standing Springs Founder
+#### Branch 2: Isaac Cox / James Cox / Standing Springs Founder
 
-**Isaac Cox** (dates unknown; likely b. ~1750s) (moderate)
-- Father of James Cox
-- Relationship to William Cox Sr. unclear (possibly brother or cousin)
+**Isaac Cox** (c.1755 - before March 31, 1830) (strong)
+- **Son of William Cox Sr.** (confirmed by WikiTree Cox-8529, Cox Family History Project, estate records)
+- Born: Orange County, NC
+- Died: Greenville County, SC
+- Wife: unknown
+- Migrated with father William Sr. to Greenville County, SC in 1787
+- Appears on **1779 NC tax list** as landowner
+- Appears in William Cox Sr.'s 1814 estate records (January 4, 1817 land sale)
+- Sources: WikiTree Cox-8529, Cox Family History Project, FamilySearch KGC3-MD7
+
+**Children of Isaac Cox:**
+- **James Cox** (c.1778-1853) -- married Dianah/Diana Black (b. 1784 NC, d. Jan 7, 1865 Greenville Co. SC)
+- **Elizabeth Cox** (b. 1780 NC) -- married Brashier Henderson
+- **Abraham Cox** (b. 1783 NC) -- married Jane (possibly Pyle, b. 1792)
+- **Sarah Cox** (b. 1790) -- married Samuel Hix
+- **Frances Cox** (b. 1794 Greenville Co. SC) -- married Lewis Rodgers
+- **William Cox** (b. 1798 Greenville Co. SC, d. 1862)
 
 **James Cox** (c.1778 - May 22, 1853) (strong)
-- Son of Isaac Cox
-- Born: North Carolina
+- Son of Isaac Cox, grandson of William Cox Sr.
+- Born: Orange County, North Carolina
+- Married: **Dianah/Diana Black** (b. 1784 NC, d. Jan 7, 1865)
 - Died: Simpsonville, Greenville County, SC
 - Buried: **Standing Springs Cemetery**, Simpsonville, SC
 - **Standing Springs Baptist Church** organized in 1818 in his home
 - First meeting house constructed c. 1836 on land donated by him
-- Sources: WikiTree Cox-14020, hmdb.org Historical Marker #168369
+- Sources: WikiTree Cox-14020, hmdb.org Historical Marker #168369, Cox Family History Project
 
-**Children of James Cox:**
+**Children of James Cox and Dianah Black:**
 - First wife (Ms. Bonneau?): John Washington Cox (1803), Elizabeth Cox, Irena Cox, Mary Polly Cox, Rebecca Cox
 - Additional children: Sarah (1804), Marilla (1809), Burrell (1811), Percilla (1813), Hanna (1815), Jane (1820)
 
@@ -387,7 +408,7 @@ No web results found for "Kerben King." This name may be an unusual spelling or 
 A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 > "The church your great great grandfather gave the land for the church, the graveyard & the organ. [He was] a faithful German, Deacon in the church for [many years]."
 
-**Analysis:** James Cox (c.1778-1853) is confirmed as the land donor. The note describes the ancestor as "a faithful German." **Cross-reference audit conclusion (Moderate Signal):** The "German" identity is not contradictory with the available evidence. Three compatible explanations exist: (1) The Stangle surname is confirmed German (Stengel/Stangl), and John Stangle's description as "Born England" is consistent with the 1709 Palatine German migration via England (~13,000 Germans traveled to London; children born on English soil would be "born England" while ethnically German). (2) The Cox surname could derive from German "Koch" (cook), a documented anglicization (iGENEA, FamilyTreeDNA Cox DNA Study); Jacob Koch is recorded in North Carolina as early as 1722, matching this family's geography. (3) The note may conflate two ancestors: Cox as land donor, Stangle as the German line. **Recommended verification:** Y-DNA testing through the FamilyTreeDNA Cox DNA Study could determine whether this Cox line is of German or Anglo-Saxon origin. Also check Orange County, NC records for Koch/Cox variants. See Discrepancy #3, resolved.
+**Analysis:** James Cox (c.1778-1853) is confirmed as the land donor. The note describes the ancestor as "a faithful German." **Cross-reference audit conclusion (Strong Signal):** Y-DNA testing for this Cox line (R1b-I "Carolina Coxes" subgroup, R-M269) is consistent with **British Isles origin**, not German. The Koch-to-Cox theory is now **unlikely** for this specific family. The most probable explanation is that the family note **conflates two ancestors**: James Cox donated the land, but the "German" identity traces through the **Stangle line** (confirmed German surname Stengel/Stangl, "Born England" consistent with Palatine migration). The note writer combined the land donation story and the German heritage into a single narrative about "the church your great great grandfather gave the land for." The families intermarried over generations, causing the stories to merge. See Discrepancy #3, resolved.
 
 
 ## Data Discrepancies
@@ -396,7 +417,7 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 |---|---|---|---|---|---|
 | 1 | John Stangle immigration | "b. 1744" (IMG_0789) | Appears to read "Sept 1683" (IMG_0789) | Impossible (61 years before birth) | RESOLVED: Re-examination confirms "1783" not "1683" (age 39, plausible) |
 | 2 | Stangle children dates | Appear to read as 1600s (IMG_0789) | Father born 1744 | Children cannot predate father | RESOLVED: Century digits misread; dates are 1700s |
-| 3 | Church ancestor nationality | "A faithful German" (IMG_0791) | John Stangle "Born England" | German vs. English | RESOLVED: Not contradictory. Stangle surname is confirmed German; "Born England" consistent with Palatine migration. Note may conflate Cox (land donor) with Stangle (German line). |
+| 3 | Church ancestor nationality | "A faithful German" (IMG_0791) | John Stangle "Born England" | German vs. English | RESOLVED: Not contradictory. Stangle surname is confirmed German; "Born England" consistent with Palatine migration. Note likely conflates Cox (land donor) with Stangle (German line). **NOTE:** Y-DNA for the Cox line is R1b (R-M269), consistent with British Isles origin; no Koch→Cox evidence found for this specific family. The "German" identity most likely traces through the Stangle line, not Cox. |
 | 4 | William Stangle dates | b. Nov 10, ~1792 | d. ~1781? | Death before birth | RESOLVED: Death date corrected to ~18x1 (1831 or 1881); century/digit misread consistent with page-wide pattern |
 | 5 | Kopp vs. Huff | "Marcia (Mary) Kopp" (IMG_0786) | "Huff" (IMG_0792) | Same person, two surnames | RESOLVED: Confirmed source-level discrepancy; both names recorded. Needs family confirmation. |
 | 6 | Richard Panciera | Among Kascher siblings | Different surname | Relationship unclear | RESOLVED: Half-sibling or step-sibling (different father's surname). Family confirmation recommended. |
