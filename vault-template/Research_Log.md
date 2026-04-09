@@ -279,7 +279,42 @@ All 9 previously open discrepancies resolved (see cross_reference_audit.md). Key
 8. Duff family records
 9. Higher-resolution photos of large handwritten chart (IMG_0782-0785)
 10. Cox line beyond William Cox Sr.: WALL HIT. DNA + primary sources confirm parents unknown. Key correction: Isaac Cox is William Sr.'s SON (not brother). William Sr. b. c.1730-1735, NOT 1726. NOT son of William Richardson Cox (1692-1767, Quaker). Y-DNA: R1b-I "Carolina Coxes" (British Isles origin). Koch→Cox theory unlikely for this family. James Cox married Dianah/Diana Black. Alice (maiden name unknown) was William Sr.'s wife.
-11. Henderson deeper ancestry (research in progress)
+11. Henderson deeper ancestry: MAJOR FINDS. Traced back 4 generations to James Henderson + Mary Rhodes (~1716 Scotland?). Ezekiel Henderson (1763-1846) was Revolutionary War veteran (pension S6994). Key discovery: Olive Mary "Polly" Henderson and Brashier Henderson were SIBLINGS (both children of Ezekiel), making the Rebecca Cox + Henry Henderson marriage a first-cousin marriage.
+12. Kascher: Rare German/Central European surname. No SC connection found for the name itself. Panciera is Italian, concentrated in Westerly RI. SC ancestry likely traces through a non-Kascher line.
+
+---
+
+## 2026-04-09: Deep Research — Henderson Line Extension
+
+### Search: Rev. Henry Langford Henderson parents
+
+**Query**: WikiTree Henderson-12233, Henderson-6197
+**Results**: FOUND. Parents: Brashier Henderson (1790-1847) + Elizabeth Taylor. Brashier is WikiTree Henderson-6197.
+
+### Search: Olive Mary "Polly" Henderson parents
+
+**Query**: WikiTree, Geni.com
+**Results**: MAJOR FIND. Olive Mary "Polly" Henderson and Brashier Henderson were SIBLINGS, both children of Ezekiel Henderson (1763-1846) + Elizabeth Brasher. This means Rebecca Adeline Cox married her first cousin Rev. Henry Langford Henderson.
+
+### Search: Ezekiel Henderson
+
+**Query**: WikiTree Henderson-1855, RevWarApps
+**Results**: FOUND. Revolutionary War veteran, pension S6994 ($57.50/year). Served 1781-1783. 15 children documented. Moved from Chatham County NC to Greenville County SC after the war.
+
+### Search: Argaleus Hercules Henderson I
+
+**Query**: WikiTree Henderson-7309, Geni.com
+**Results**: FOUND. b. ~1720 Onslow NC, d. June 1806 Chatham NC. Married Molly Mary Clark. Participated in NC Regulators movement 1768-1771.
+
+### Search: Henderson earliest ancestor
+
+**Query**: Web search for James Henderson + Mary Rhodes, Scotland
+**Results**: Speculative claim of Scottish origin via S.S. Friendship (1716). Needs verification. WALL approaching.
+
+### Search: Kascher surname and SC connection
+
+**Query**: Multiple searches for Kascher in SC, RI, Ohio
+**Results**: NEGATIVE for SC connection. Kascher is rare, German/Central European origin, concentrated in Ohio in 1920. SC families likely connect through a non-Kascher parent of Kathryn. Panciera is Italian, Westerly RI roots.
 
 ---
 

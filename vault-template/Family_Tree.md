@@ -60,10 +60,12 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 **Note:** Shelly White appears alongside Alan's siblings in the digital tree (Screenshot 125748). She is NOT listed on Thelma's memorial as a child of Leonard Irving. **Cross-reference audit conclusion (Moderate Signal):** Shelly White is not a biological child of Leonard Irving and Thelma. Most likely a step-relation through Thelma's second marriage to Rodbell (e.g., Rodbell's daughter from a prior marriage). Her different surname (White, not Salmanson or Rodbell) suggests she married. Alternative: wife of a family member placed at sibling level in the tree app.
 
 **Kathryn Ann Kascher's siblings:**
-- Richard Panciera (half-sibling or step-sibling; different surname indicates different father. See Discrepancy #6, resolved.)
+- Richard Panciera (half-sibling or step-sibling; different surname indicates different father. **Panciera is an Italian surname**, concentrated in Westerly, RI area since early 1900s (granite quarrying industry). 6 Panciera families in RI in 1920 census. This suggests a Rhode Island Italian-American connection through one parent's prior relationship. See Discrepancy #6, resolved.)
 - David (surname unclear; Kascher?)
 - Nancy Kascher
 - Suzanne (surname unclear; Kascher?)
+
+**Kascher surname**: Rare globally (most common in Brazil, also found in US and Germany). Likely of **German/Central European origin** (related to Kacher, Karcher, Kaucher). 3 Kascher families in Ohio in 1920 census. 225 census records and 118 immigration records on Ancestry.com. The Kascher family itself is probably NOT from SC; the SC connection (Cox, Henderson, King, Stangle, Duff families in the handwritten notes) likely traces through Kathryn's maternal or paternal line, not the Kascher surname.
 
 ### Leonard Daniel Salmanson + Yaffit Shriki
 
@@ -246,6 +248,7 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 **Rebecca Adeline Cox** (Sept 13, 1813 - Sept 26, 1894) (strong)
 - Daughter of Thomas B. Cox and Olive Mary "Polly" Henderson
 - Married: **Rev. Henry Langford Henderson** (1812-1886)
+- **NOTE: This was a first-cousin marriage.** Olive Mary "Polly" Henderson (Rebecca's mother) and Brashier Henderson (Henry's father) were **siblings**, both children of Ezekiel Henderson and Elizabeth Brasher. See Henderson ancestry below.
 - Buried: Standing Springs Cemetery, Simpsonville, SC
 - Sources: WikiTree Cox-18821, Henderson-12233
 
@@ -258,8 +261,46 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 6. Winfield Jasper Henderson
 7. Annette Arline "Nettie" Henderson
 8. William H. B. Henderson
-9. **Thomas Langford Henderson** (married Mary Frances "Fannie" Cox, b. 1858, on Dec 25, 1877)
+9. **Thomas Langford Henderson** (b. Aug 11, 1855, d. Oct 12, 1930; married Mary Frances "Fannie" Cox, b. 1858, on Dec 25, 1877)
 10. Julia H. L. Henderson
+
+### Henderson Deep Ancestry (Greenville County, SC / North Carolina)
+
+*Sources: WikiTree Henderson-1855, Henderson-6197, Henderson-7309, RevWarApps S6994, Geni.com* **(strong)**
+
+**Generation 1 (earliest known): James Henderson + Mary (Rhodes)**
+- Possibly arrived from Scotland (one source claims via convict ship S.S. Friendship in 1716; indentured at Annapolis, MD until ~1732; settled Orange County, NC). **(speculative, needs verification)**
+
+**Generation 2: Argaleus Hercules Henderson I** (b. ~1720, Onslow, NC; d. June 1806, Chatham, NC) (moderate)
+- Married **Molly Mary (Clark)**
+- Participated in the **North Carolina Regulators movement** of 1768-1771, signing the Regulators' petition
+- Sources: WikiTree Henderson-7309, Find a Grave #11725276
+
+**Generation 3: Ezekiel Henderson** (b. 1763, Chatham County, NC; d. Nov 2, 1846, Greenville County, SC) (strong)
+- **Revolutionary War veteran**: served as private 1781-1783 (cavalry and infantry), discharged at Hillsboro, NC
+- **Pension S6994**: $57.50/year, granted 1833-1834
+- Married **Elizabeth Brasher** on October 10, 1782 in SC
+- Moved to Greenville County after the war; lived there 47 years
+- **15 children** including:
+  - Argaleus Hercules Henderson II (b. June 22, 1784)
+  - Sarah "Sary" Henderson (b. March 12, 1786)
+  - James Henderson (b. March 6, 1788; d. March 26, 1858)
+  - **Brashier Henderson** (b. May 10, 1790; d. before July 19, 1847) -- father of Rev. Henry L. Henderson
+  - Nancy Henderson (b. June 14, 1792; d. June 12, 1822)
+  - John Henderson (b. 1795)
+  - **Olive Mary "Polly" Henderson** (b. March 29, 1795; d. Aug 21, 1876) -- married Thomas B. Cox
+  - Frances "Franky" Henderson (b. Oct 10, 1799; d. 1878)
+  - William Henderson (b. Oct 15, 1802; d. Jan 7, 1822)
+  - Rebecca Adeline Henderson (b. March 3, 1804)
+  - Thomas Lawson Henderson (b. May 5, 1806; d. Feb 17, 1892)
+  - Delila "Lilla" Henderson (b. Sept 29, 1809)
+- Sources: WikiTree Henderson-1855, Geni.com, RevWarApps S6994
+
+**Generation 4: Brashier Henderson** (b. May 10, 1790, Simpsonville, SC; d. before July 19, 1847) (strong)
+- Son of Ezekiel Henderson and Elizabeth Brasher
+- Married **Elizabeth Taylor**
+- Children: Rev. Henry Langford Henderson (1812-1886), Elizabeth Rebecca, Samuel P., Frances E.
+- Sources: WikiTree Henderson-6197, Geni.com
 
 #### Branch 2: Isaac Cox / James Cox / Standing Springs Founder
 
@@ -478,7 +519,7 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 
 3. **Missing Salmanson generations**: How does Barnett connect back to the Eastern European line shown in Screenshot 125824 (Levi + Rochel → Barnett)? What was Barnett's birth name? When did the family immigrate? **Research progress:** Family was in Brooklyn by 1910, moved to Providence by ~1919. Cluster of possible relatives in Brooklyn: David Salmanson (b. ~1891 Russia), Sam (1901-1985), Abe. **WALL HIT:** Immigration/census/naturalization records are behind paywalls (Ancestry, FamilySearch). Next steps: search Statue of Liberty Foundation passenger database (free) for "Zalmanson"/"Salmanson"; search FamilySearch census records; check Brooklyn city directories 1910-1912.
 
-4. **How do the SC families connect to Kascher?** The Cox-Henderson-Long-King-Stangle-Duff families are documented in the handwritten notes. How do they ultimately connect to Kathryn Ann Kascher?
+4. **How do the SC families connect to Kascher?** The Kascher surname is German/Central European (concentrated in Ohio in 1920 census), NOT from SC. The SC connection (Cox, Henderson, King, Stangle, Duff) likely traces through Kathryn's maternal or paternal line, not the Kascher name itself. The Panciera half/step-sibling connection points to Rhode Island Italian-American roots for one parent. **WALL:** Need marriage records or census for Kathryn's parents to determine which line carries the SC ancestry.
 
 5. **Kerben King**: No web results found. Is this name spelled correctly? Could it be "Corbin," "Kirby," or another variant?
 
