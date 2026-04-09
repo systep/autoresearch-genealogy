@@ -83,10 +83,10 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 - Son of Barnett and Elizabeth (Salk) Salmanson
 - Buried: Lincoln Park Cemetery, Warwick, Rhode Island
 - Married: **Thelma Markel** in 1947
-- Children: Jerrold A. Salmanson (b. Jan 30, 1942; from prior relationship), Alan C. Salmanson, Barbara Salmanson, Carol S. Salmanson
-- Sources: Find a Grave #231959694, Samuel Salmanson obituary (2004)
+- Children: Alan C. Salmanson, Barbara Salmanson, Carol S. Salmanson
+- Sources: Find a Grave #231959694, Thelma's memorial #231959788, Samuel Salmanson obituary (2004)
 
-**Note on Jerrold:** Samuel Salmanson's 2004 obituary lists "his nephews, Jerrold and Alan" as working in the family business. Thelma's memorial lists only Alan, Barbara, and Carol as her children. **Cross-reference audit conclusion (Moderate Signal):** Jerrold is Leonard Irving's son from a prior relationship. Evidence: (a) born 1942, five years before the 1947 marriage to Thelma; (b) not listed on Thelma's memorial; (c) Samuel calls him "nephew" (= brother's son); (d) Donald had no children, so Jerrold must be Leonard's or Charles's. Leonard is the stronger candidate given Jerrold and Alan both worked together in the family business, suggesting they are brothers. Family confirmation recommended.
+**Note on Jerrold:** Samuel Salmanson's 2004 obituary lists "his nephews, Jerrold and Alan" as working in the family business. **Cross-reference audit conclusion (Strong Signal):** Jerrold is **Charles and Hannah (Kushner) Salmanson's son**, not Leonard's. Hannah's obituary and Find a Grave memorial (#185239892) explicitly list "Jerrold A. Salmanson of Providence" as her surviving child. Charles's 2008 obituary confirms. Jerrold and Alan are cousins (sons of two different brothers), not siblings. See Discrepancy #7, resolved.
 
 **Thelma (Markel) Salmanson Rodbell** (Sept 12, 1920 - Sept 22, 2011)
 - Married Leonard Irving Salmanson, 1947
@@ -105,9 +105,9 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 
 | Name | Born | Died | Spouse | Children | Source |
 |------|------|------|--------|----------|--------|
-| Leonard Irving | June 21, 1910 | May 15, 1975 | Thelma Markel (1920-2011) | Jerrold (from prior relationship), Alan C., Barbara, Carol | Find a Grave #231959694 |
+| Leonard Irving | June 21, 1910 | May 15, 1975 | Thelma Markel (1920-2011) | Alan C., Barbara, Carol | Find a Grave #231959694 |
 | Samuel | ~1912 (Brooklyn, NY) | Oct 21, 2004 (West Palm Beach, FL) | Hilda Mittleman (1916-2016) | James; Tobey (m. Richard Oresman) | Palm Beach Post obit |
-| Charles | 1914 | 2008 | Hannah Kushner (1914-2001) | (not confirmed) | AncientFaces, Find a Grave #185239892 |
+| Charles | 1914 | 2008 | Hannah Kushner (1914-2001) | Jerrold A. (b. 1942, d. 2024), Deborah (Roberts) | AncientFaces, Find a Grave #185239892, Charles obit (Legacy.com), Hannah obit |
 | Donald | 1924 | Sept 7, 2015 | Never married (companion: Lisle Whiteley) | None mentioned | Providence Journal obit |
 | Martha E. | ~1919-1920 | ~2014-2015 (age 95) | (1) Paul Corin, (2) Edward Schwartz | Rosalind Hill, Larry Schwartz | Jewish Rhode Island obit |
 
@@ -441,7 +441,7 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 
 6. ~~**Kopp vs. Huff**~~: RESOLVED as confirmed source-level discrepancy. Same person recorded with two different surnames by the same note-writer on two separate pages. Both names documented; needs family confirmation. See Discrepancy #5.
 
-7. ~~**Jerrold Salmanson**~~: RESOLVED. Most likely Leonard Irving's son from a prior relationship (born 1942, 5 years before 1947 marriage to Thelma). See Discrepancy #7. Family confirmation recommended.
+7. ~~**Jerrold Salmanson**~~: RESOLVED. **Son of Charles and Hannah (Kushner) Salmanson**, confirmed by Hannah's obituary, Charles's 2008 obituary, and RI Foundation records. Also discovered sibling: Deborah Salmanson Roberts. Jerrold and Alan are cousins (sons of two different brothers), not siblings. See Discrepancy #7.
 
 8. **Zalmanson-Schneerson connection**: PARTIALLY RESOLVED. The historical Zalmanson-Schneerson intermarriages are independently confirmed (Wikipedia, Chabad.org, geni.com). The specific claim that this Salmanson family descends from that Zalmanson line remains unverified. Verify through Chabad genealogical records, immigration records (search Ellis Island for "Zalmanson"), or DNA.
 
