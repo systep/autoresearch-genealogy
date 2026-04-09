@@ -121,13 +121,13 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 
 The surname **Salmanson** is an anglicization of **Zalmanson** ("son of Zalman/Solomon"). Web research reveals a Zalmanson family connected to the **Chabad-Lubavitch Schneerson** rabbinical dynasty through marriage:
 
-- **Levi Yitzchok Zalmanson** married **Dvorah Leah Schneursohn** (eldest daughter of Rabbi Menachem Mendel Schneersohn, the Tzemach Tzedek, 3rd Lubavitcher Rebbe) in 1826
-- **Rivkah Zalmanson** married **Yehuda Leib Shneursohn**
-- **Shneur Zalmanson** married **Perla Dvorah Shneursohn**
+- **Levi Yitzchok Zalmanson** married **Dvorah Leah Schneursohn** (eldest daughter of Rabbi Menachem Mendel Schneersohn, the Tzemach Tzedek, 3rd Lubavitcher Rebbe) in 1826. **Confirmed by chabad.org official timeline (Strong Signal).** The Tzemach Tzedek appointed Levi Yitzchok to head a yeshiva in Lubavitch. Their children included Shneur Zalman, Mordechai Ber, Yosef Chaim, Rivkah, and Pearl (geni.com).
+- **Rivkah Zalmanson** (daughter of Levi Yitzchok + Dvorah Leah) married **Yehuda Leib Shneursohn**. **Partially confirmed (Moderate Signal)**; the exact identity of which Yehuda Leib needs clarification.
+- **Shneur Zalmanson** (son of Levi Yitzchok + Dvorah Leah) married **Perla Dvorah Shneursohn** (granddaughter of the Tzemach Tzedek, daughter of his son R. Yisrael Noach). **Confirmed by a letter from the 7th Lubavitcher Rebbe (Strong Signal).** Their descendants include violinist Yehudi Menuhin (through granddaughter Sarah Liba).
 
-The names in the family tree screenshots (Dovber, Yekutiel, Rivka, Srul, Levi, Rochel) are consistent with Chabad naming conventions. **This connection is unverified** and requires confirmation from family records, DNA, or additional documentation.
+The names in the family tree screenshots (Dovber, Yekutiel, Rivka, Srul, Levi, Rochel) are consistent with Chabad naming conventions.
 
-**NOTE:** The loebtree.com data is a user-contributed tree. However, the historical Zalmanson-Schneerson marriages described above have been independently corroborated by Wikipedia, Chabad.org, and geni.com. The specific link from Barnett Salmanson back to this Zalmanson line still requires verification through immigration records, family papers, or DNA. Upgraded from speculative to **moderate confidence** for the historical connection.
+**NOTE:** The historical Zalmanson-Schneerson connection is now **strongly confirmed** by authoritative independent sources (chabad.org official timeline, the 7th Rebbe's letter, geni.com, ancestry.com). The specific link from Barnett Salmanson back to this Zalmanson line still requires verification through immigration records (search Ellis Island for "Zalmanson"), family papers, or DNA. Upgraded to **Strong Signal** for the historical connection; **speculative** for the family-specific link. If verified, this family would share common ancestry with Yehudi Menuhin.
 
 **From digital family tree screenshots** (reading oldest to most recent):
 
