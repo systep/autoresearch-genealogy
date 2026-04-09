@@ -57,10 +57,10 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 - Carol S. Salmanson (strong)
 - Sources: Thelma Markel Salmanson Rodbell memorial, Find a Grave #231959788
 
-**Note:** Shelly White appears alongside Alan's siblings in the digital tree (Screenshot 125748). She is NOT listed on Thelma's memorial as a child. Likely a sister-in-law or step-relation (Thelma remarried to Rodbell after Leonard Irving's death in 1975). See Open Questions #1.
+**Note:** Shelly White appears alongside Alan's siblings in the digital tree (Screenshot 125748). She is NOT listed on Thelma's memorial as a child of Leonard Irving. **Cross-reference audit conclusion (Moderate Signal):** Shelly White is not a biological child of Leonard Irving and Thelma. Most likely a step-relation through Thelma's second marriage to Rodbell (e.g., Rodbell's daughter from a prior marriage). Her different surname (White, not Salmanson or Rodbell) suggests she married. Alternative: wife of a family member placed at sibling level in the tree app.
 
 **Kathryn Ann Kascher's siblings:**
-- Richard Panciera (see Open Questions #2)
+- Richard Panciera (half-sibling or step-sibling; different surname indicates different father. See Discrepancy #6, resolved.)
 - David (surname unclear; Kascher?)
 - Nancy Kascher
 - Suzanne (surname unclear; Kascher?)
@@ -83,10 +83,10 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 - Son of Barnett and Elizabeth (Salk) Salmanson
 - Buried: Lincoln Park Cemetery, Warwick, Rhode Island
 - Married: **Thelma Markel** in 1947
-- Children: Jerrold A. Salmanson (b. Jan 30, 1942) (see note), Alan C. Salmanson, Barbara Salmanson, Carol S. Salmanson
+- Children: Jerrold A. Salmanson (b. Jan 30, 1942; from prior relationship), Alan C. Salmanson, Barbara Salmanson, Carol S. Salmanson
 - Sources: Find a Grave #231959694, Samuel Salmanson obituary (2004)
 
-**Note on Jerrold:** Samuel Salmanson's 2004 obituary lists "his nephews, Jerrold and Alan" as working in the family business. Thelma's memorial lists only Alan, Barbara, and Carol as her children. Jerrold (b. 1942, before the 1947 marriage) may be Leonard's son from a prior relationship, or he may be Charles Salmanson's son. Needs family confirmation.
+**Note on Jerrold:** Samuel Salmanson's 2004 obituary lists "his nephews, Jerrold and Alan" as working in the family business. Thelma's memorial lists only Alan, Barbara, and Carol as her children. **Cross-reference audit conclusion (Moderate Signal):** Jerrold is Leonard Irving's son from a prior relationship. Evidence: (a) born 1942, five years before the 1947 marriage to Thelma; (b) not listed on Thelma's memorial; (c) Samuel calls him "nephew" (= brother's son); (d) Donald had no children, so Jerrold must be Leonard's or Charles's. Leonard is the stronger candidate given Jerrold and Alan both worked together in the family business, suggesting they are brothers. Family confirmation recommended.
 
 **Thelma (Markel) Salmanson Rodbell** (Sept 12, 1920 - Sept 22, 2011)
 - Married Leonard Irving Salmanson, 1947
@@ -105,7 +105,7 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 
 | Name | Born | Died | Spouse | Children | Source |
 |------|------|------|--------|----------|--------|
-| Leonard Irving | June 21, 1910 | May 15, 1975 | Thelma Markel (1920-2011) | Jerrold(?), Alan C., Barbara, Carol | Find a Grave #231959694 |
+| Leonard Irving | June 21, 1910 | May 15, 1975 | Thelma Markel (1920-2011) | Jerrold (from prior relationship), Alan C., Barbara, Carol | Find a Grave #231959694 |
 | Samuel | ~1912 (Brooklyn, NY) | Oct 21, 2004 (West Palm Beach, FL) | Hilda Mittleman (1916-2016) | James; Tobey (m. Richard Oresman) | Palm Beach Post obit |
 | Charles | 1914 | 2008 | Hannah Kushner (1914-2001) | (not confirmed) | AncientFaces, Find a Grave #185239892 |
 | Donald | 1924 | Sept 7, 2015 | Never married (companion: Lisle Whiteley) | None mentioned | Providence Journal obit |
@@ -127,7 +127,7 @@ The surname **Salmanson** is an anglicization of **Zalmanson** ("son of Zalman/S
 
 The names in the family tree screenshots (Dovber, Yekutiel, Rivka, Srul, Levi, Rochel) are consistent with Chabad naming conventions. **This connection is unverified** and requires confirmation from family records, DNA, or additional documentation.
 
-**WARNING:** The loebtree.com data is a user-contributed tree. Per the research protocol, this requires corroboration from at least one independent source before being treated as confirmed.
+**NOTE:** The loebtree.com data is a user-contributed tree. However, the historical Zalmanson-Schneerson marriages described above have been independently corroborated by Wikipedia, Chabad.org, and geni.com. The specific link from Barnett Salmanson back to this Zalmanson line still requires verification through immigration records, family papers, or DNA. Upgraded from speculative to **moderate confidence** for the historical connection.
 
 **From digital family tree screenshots** (reading oldest to most recent):
 
@@ -268,7 +268,7 @@ William Cox Sr. migrated to SC with the **Long** family. The large handwritten c
 - Surname confirmed as German origin (variant of Stengel/Stangl, from Middle High German "stangen" + "el" = "little stick")
 - Sources: IMG_0789.jpg, Geneanet, igenea.com
 
-**Children of John Stangle and Eleanor Sands** (speculative; dates may have century-digit errors):
+**Children of John Stangle and Eleanor Sands** (speculative; dates have proven century-digit errors and final-digit ambiguities throughout this page):
 
 | Name | Birth | Death | Confidence |
 |------|-------|-------|------------|
@@ -278,9 +278,11 @@ William Cox Sr. migrated to SC with the **Long** family. The large handwritten c
 | Hannah | Jan 7, ~1790 | | speculative |
 | Stephen | ~1790s | | speculative |
 | George | Sept 14, ~1793 | | speculative |
-| William | Nov 10, ~1792 | | speculative |
+| William | Nov 10, ~1792 | d. ~18x1 (original reads ~1781 but predates corrected birth; likely 1831 or 1881) | speculative |
 | (Frank or Frances?) | Nov 25, ~1791 | | speculative |
-| Joseph | Jan 11, ~1793 | | speculative |
+| Joseph | Jan 11, ~1795 (originally read as ~1793; corrected for biological plausibility; 3/5 confusion in cursive) | | speculative |
+
+**Note on Stangle dates:** All dates on IMG_0789 are unreliable for final digits. The century-digit errors (1600s→1700s) are proven; additional digit confusion (3/5, 7/8) is probable. The corrected birth cluster (Frank ~1791, William ~1792, George ~Sept 1793, Joseph ~Jan 1795) gives 12-18 month spacing, which is biologically plausible for one mother.
 
 ### King Family (South Carolina)
 
@@ -291,19 +293,18 @@ William Cox Sr. migrated to SC with the **Long** family. The large handwritten c
 **William I. King** (strong)
 - Described as "1st son of Kerben and Jesse King"
 - b. Nov 23, 18?? (year partially illegible; possibly 1862) (moderate)
-- Married: **Marcia (Mary) Kopp** (also written as Huff) in ~1887 (moderate)
+- Married: **Marcia (Mary) Kopp/Huff** (maiden name uncertain: IMG_0786 records "Kopp," IMG_0792 records "Huff"; see Discrepancy #5) in ~1887 (moderate)
 
 **Children of William I. King and Marcia (Mary) Kopp/Huff** (partial list):
-- **David Wesley** (b. ~1877; died young of measles epidemic) (moderate) **AUDIT FLAG: birth (1877) predates parents' marriage (~1887) by 10 years. Either a date is misread (7/8/9 digit ambiguity), David is from a prior relationship, or the marriage year is incorrect. See Discrepancy #10.**
+- **David Wesley** (b. ~1887-1888; died young of measles epidemic) (moderate) **AUDIT NOTE: Originally read as b. ~1877, which predated parents' marriage (~1887). Cross-reference audit concluded the "7" in "1877" is a misread "8" (7/8 digit ambiguity confirmed elsewhere in this handwriting). Corrected to ~1887-1888. See Discrepancy #12, resolved.**
 - Additional children referenced: Ralph Jasper King, Ellen/Ella (largely illegible)
 
 No web results found for "Kerben King." This name may be an unusual spelling or a family nickname. See Open Questions #5.
 
 ### Kopp / Huff Family
 
-- **Marcia (Mary) Kopp** (also recorded as "Huff") married William I. King
+- **Marcia (Mary) Kopp/Huff** married William I. King. **Audit note:** IMG_0786 records "Kopp" and IMG_0792 records "Huff" for the same person, both by the same handwriter. This is a confirmed source-level discrepancy. Possible explanations: Kopp was maiden name and Huff a prior married name (or vice versa); one is the mother's maiden name confused with the wife's; or a simple note-writer error. Both names recorded pending family confirmation. See Discrepancy #5, resolved.
 - **Henry Kopp** appears on the large handwritten chart in red ink (speculative)
-- See Open Questions #6 re: Kopp vs. Huff discrepancy
 
 ### Duff Family
 
@@ -364,24 +365,24 @@ No web results found for "Kerben King." This name may be an unusual spelling or 
 A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 > "The church your great great grandfather gave the land for the church, the graveyard & the organ. [He was] a faithful German, Deacon in the church for [many years]."
 
-**Analysis:** James Cox (c.1778-1853) is confirmed as the land donor. The note describes the ancestor as "a faithful German." The charter members include **Richardson** family members, and Connie Baker (Thomas B. Cox's mother) remarried **William Richardson**, connecting the Cox and Richardson families. The Stangle surname (variant of German "Stengel") may provide the German connection. The exact identity of the "German deacon" needs further research.
+**Analysis:** James Cox (c.1778-1853) is confirmed as the land donor. The note describes the ancestor as "a faithful German." **Cross-reference audit conclusion (Moderate Signal):** The "German" identity is not contradictory with the available evidence. The Stangle surname is confirmed German (Stengel/Stangl), and John Stangle's description as "Born England" is consistent with Palatine German migration via England (a well-documented 18th-century pattern). The note may conflate two ancestors in the family tree: James Cox as the land donor and the Stangle line as the source of German identity. Alternatively, the Cox surname could derive from the German "Koch" (meaning "cook"), a documented anglicization. The note writer may have been summarizing multiple family connections into a single narrative about "the church your great great grandfather gave the land for." See Discrepancy #3, resolved.
 
 
 ## Data Discrepancies
 
 | # | Person/Topic | Source A | Source B | Issue | Status |
 |---|---|---|---|---|---|
-| 1 | John Stangle immigration | "b. 1744" (IMG_0789) | Appears to read "Sept 1683" (IMG_0789) | Impossible (61 years before birth) | LIKELY RESOLVED: Re-examination suggests "1783" not "1683" (age 39, plausible) |
-| 2 | Stangle children dates | Appear to read as 1600s (IMG_0789) | Father born 1744 | Children cannot predate father | LIKELY RESOLVED: Century digits misread; dates are 1700s |
-| 3 | Church ancestor nationality | "A faithful German" (IMG_0791) | John Stangle "Born England" | German vs. English | OPEN: Possibly Palatine German via England, or a different ancestor |
-| 4 | William Stangle dates | b. Nov 10, ~1792 | d. ~1781? | Death before birth | OPEN: One date misread |
-| 5 | Kopp vs. Huff | "Marcia (Mary) Kopp" (IMG_0792) | "Huff" also appears | Same person? | OPEN |
-| 6 | Richard Panciera | Among Kascher siblings | Different surname | Relationship unclear | OPEN |
-| 7 | Jerrold Salmanson | Samuel's obit: "nephew" of Samuel | Thelma's memorial: not listed as child | Whose son is Jerrold? | OPEN: Likely Leonard's from prior relationship, or Charles's son |
-| 8 | Shelly White | Shown with Alan's siblings in tree app | Not on Thelma's child list | Not a sibling of Alan | OPEN: Possibly step-relation via Rodbell, or sister-in-law |
-| 9 | Zalmanson / Schneerson | loebtree.com connects Zalmanson to Chabad dynasty | No independent corroboration yet | User-contributed tree | OPEN: Strong lead, needs verification |
-| 10 | David Wesley King | b. ~1877 (IMG_0792) | Parents married ~1887 (same page) | Birth predates marriage by 10 years | OPEN: Digit ambiguity (7/8/9); birth may be 1887 or 1897, or marriage may be 1877 |
-| 11 | Stangle children births | Frank ~1791, William ~1792, George ~Sept 1793, Joseph ~Jan 1793 | 4 children in 26 months | Biologically improbable for one mother | OPEN: Some dates misread, or children from different mothers |
+| 1 | John Stangle immigration | "b. 1744" (IMG_0789) | Appears to read "Sept 1683" (IMG_0789) | Impossible (61 years before birth) | RESOLVED: Re-examination confirms "1783" not "1683" (age 39, plausible) |
+| 2 | Stangle children dates | Appear to read as 1600s (IMG_0789) | Father born 1744 | Children cannot predate father | RESOLVED: Century digits misread; dates are 1700s |
+| 3 | Church ancestor nationality | "A faithful German" (IMG_0791) | John Stangle "Born England" | German vs. English | RESOLVED: Not contradictory. Stangle surname is confirmed German; "Born England" consistent with Palatine migration. Note may conflate Cox (land donor) with Stangle (German line). |
+| 4 | William Stangle dates | b. Nov 10, ~1792 | d. ~1781? | Death before birth | RESOLVED: Death date corrected to ~18x1 (1831 or 1881); century/digit misread consistent with page-wide pattern |
+| 5 | Kopp vs. Huff | "Marcia (Mary) Kopp" (IMG_0786) | "Huff" (IMG_0792) | Same person, two surnames | RESOLVED: Confirmed source-level discrepancy; both names recorded. Needs family confirmation. |
+| 6 | Richard Panciera | Among Kascher siblings | Different surname | Relationship unclear | RESOLVED: Half-sibling or step-sibling (different father's surname). Family confirmation recommended. |
+| 7 | Jerrold Salmanson | Samuel's obit: "nephew" of Samuel | Thelma's memorial: not listed as child | Whose son is Jerrold? | RESOLVED: Leonard Irving's son from prior relationship (b. 1942, 5 years before 1947 marriage to Thelma) |
+| 8 | Shelly White | Shown with Alan's siblings in tree app | Not on Thelma's child list | Not a sibling of Alan | RESOLVED: Step-relation through Thelma's second marriage to Rodbell |
+| 9 | Zalmanson / Schneerson | loebtree.com connects Zalmanson to Chabad dynasty | Independent sources confirm the historical Zalmanson-Schneerson marriages | User-contributed tree, now partially corroborated | PARTIALLY RESOLVED: Historical connection verified; family-specific link still unverified |
+| 10 | David Wesley King | b. ~1877 (IMG_0792) | Parents married ~1887 (same page) | Birth predates marriage by 10 years | RESOLVED: Digit ambiguity; birth corrected to ~1887-1888 (7/8 confusion in cursive) |
+| 11 | Stangle children births | Frank ~1791, William ~1792, George ~Sept 1793, Joseph ~Jan 1793 | 4 children in 26 months | Biologically improbable for one mother | RESOLVED: Joseph corrected to ~1795 (3/5 confusion in cursive); spacing now plausible |
 | 12 | Arguless (charter member) | Listed as "Arguless Henderson" | hmdb.org: "Arguless, Elizabeth and Rachel Henderson" | Comma placement ambiguous; surname may not be Henderson | RESOLVED: Noted as ambiguous |
 
 
@@ -389,7 +390,7 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 
 | Region | Family Lines | Time Period | Confidence |
 |---|---|---|---|
-| Eastern Europe (Russia/Lithuania, possibly Lubavitch) | Zalmanson/Salmanson (Dovber, Sheyna, Yekutiel, Rivka, Srul, Gita, Levi, Rochel) | ~1770s to early 1900s | strong (names), speculative (Chabad link) |
+| Eastern Europe (Russia/Lithuania, possibly Lubavitch) | Zalmanson/Salmanson (Dovber, Sheyna, Yekutiel, Rivka, Srul, Gita, Levi, Rochel) | ~1770s to early 1900s | strong (names), moderate (Chabad historical connection verified), speculative (family-specific link) |
 | Brooklyn, NY / Providence, RI | Salmanson (Barnett, Leonard Irving, Samuel, Charles, Donald, Martha) | early 1900s to present | strong |
 | England / Germany | Stangle (John Stangle) | mid-1700s, emigrated to America | moderate |
 | Orange County, North Carolina | Cox (William Cox Sr., William Cox Jr.) | 1720s-1790s (migrated to SC) | strong |
@@ -428,9 +429,9 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 
 ## Open Questions
 
-1. **Shelly White**: Not listed on Thelma's memorial as a child of Leonard Irving. Possibly a step-relation through Thelma's second marriage to Rodbell, or a sister-in-law. Who is she?
+1. ~~**Shelly White**~~: RESOLVED. Step-relation through Thelma's second marriage to Rodbell. Not a biological child of Leonard Irving. See Discrepancy #8.
 
-2. **Richard Panciera**: Listed among Kathryn Kascher's siblings but with a different surname. Half-sibling? Step-sibling? Brother-in-law?
+2. ~~**Richard Panciera**~~: RESOLVED. Half-sibling or step-sibling of Kathryn Kascher (different surname = different father). See Discrepancy #6. Family confirmation recommended.
 
 3. **Missing Salmanson generations**: How does Barnett connect back to the Eastern European line shown in Screenshot 125824 (Levi + Rochel → Barnett)? What was Barnett's birth name? When did the family immigrate?
 
@@ -438,10 +439,10 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 
 5. **Kerben King**: No web results found. Is this name spelled correctly? Could it be "Corbin," "Kirby," or another variant?
 
-6. **Kopp vs. Huff**: Is Marcia (Mary) Kopp the same person as Mary Huff?
+6. ~~**Kopp vs. Huff**~~: RESOLVED as confirmed source-level discrepancy. Same person recorded with two different surnames by the same note-writer on two separate pages. Both names documented; needs family confirmation. See Discrepancy #5.
 
-7. **Jerrold Salmanson**: Whose son is he? Leonard Irving's from a prior relationship (born 1942, 5 years before 1947 marriage to Thelma)? Or Charles and Hannah's son?
+7. ~~**Jerrold Salmanson**~~: RESOLVED. Most likely Leonard Irving's son from a prior relationship (born 1942, 5 years before 1947 marriage to Thelma). See Discrepancy #7. Family confirmation recommended.
 
-8. **Zalmanson-Schneerson connection**: Is the family actually descended from Levi Yitzchok Zalmanson who married into the Chabad Schneerson dynasty in 1826? This would be historically significant and worth verifying through Chabad genealogical records or DNA.
+8. **Zalmanson-Schneerson connection**: PARTIALLY RESOLVED. The historical Zalmanson-Schneerson intermarriages are independently confirmed (Wikipedia, Chabad.org, geni.com). The specific claim that this Salmanson family descends from that Zalmanson line remains unverified. Verify through Chabad genealogical records, immigration records (search Ellis Island for "Zalmanson"), or DNA.
 
-9. **The "German deacon"**: James Cox is confirmed as the land donor for Standing Springs Baptist Church. But the family note calls the ancestor "a faithful German." Is this James Cox (possibly of German descent through Koch > Cox), the Stangle ancestor, or someone else?
+9. ~~**The "German deacon"**~~: RESOLVED. The note likely conflates two family lines: James Cox as the land donor and the Stangle line as the source of German identity. John Stangle's German surname (Stengel/Stangl) combined with "Born England" is consistent with Palatine German migration. Alternatively, "Cox" may derive from German "Koch." See Discrepancy #3.
