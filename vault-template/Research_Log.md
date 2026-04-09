@@ -231,11 +231,50 @@ Chronological record of every archive searched, every query run, and every resul
 **Delta from baseline**: +60 individuals
 **Key additions**: Leonard Irving Salmanson, Thelma Markel, Samuel/Hilda/Charles/Hannah/Donald/Martha Salmanson families, William Cox Sr./Jr., Thomas B. Cox, Connie Baker, Olive Mary Henderson, James Cox, Rebecca Adeline Cox Henderson, Rev. Henry Langford Henderson, 10 Henderson children, 12 Cox children, Zalmanson-Schneerson connection lead
 
-**Remaining expansion targets for future sessions**:
-1. Barnett Salmanson's birth name and immigration records (try Ellis Island with "Zalmanson")
-2. Zalmanson-Schneerson connection verification (Chabad genealogy archives)
-3. Kascher surname origin and connection to SC families
-4. King family ("Kerben" spelling verification)
-5. Stangle family in SC (check Ancestry.com/FamilySearch)
-6. Duff family records
-7. Higher-resolution photos of large handwritten chart (IMG_0782-0785)
+---
+
+## 2026-04-09: Cross-Reference Audit Resolution
+
+All 9 previously open discrepancies resolved (see cross_reference_audit.md). Key corrections:
+- Jerrold Salmanson is Charles's son, not Leonard's (Hannah's obit + Charles's obit confirm)
+- Discovered Deborah Salmanson Roberts (Charles and Hannah's daughter)
+- Zalmanson-Schneerson historical connection upgraded to Strong Signal (chabad.org, Rebbe's letter)
+- Koch-to-Cox anglicization documented; Palatine German migration explains "Born England" + "faithful German"
+
+---
+
+## 2026-04-09: Deep Research — Salmanson Line Extension
+
+### Search: Barnett Salmanson immigration records
+
+**Query**: Multiple searches for "Barnett Salmanson" and "Zalmanson" in Ellis Island, census, naturalization records
+**Source**: Web search (Ancestry, FamilySearch, Statue of Liberty Foundation are behind paywalls)
+**Results**: WALL HIT on immigration records. Unable to access Ellis Island manifests, census, or naturalization papers through free web search. Ancestry.com reports 133 immigration records for "Salmanson" but they are paywalled.
+**Positive findings**:
+- Family was in Brooklyn, NY by 1910 (Leonard b. June 1910); Samuel born June 24, 1912 in Brooklyn
+- Martha born in Providence (~1919-1920), so family moved Brooklyn → Providence between 1912-1919
+- Adams Drug founded 1932 (not 1933) in Woonsocket and Pawtucket, RI
+- Possible Barnett relatives in Brooklyn: David Salmanson (b. ~1891 Russia, wife Eva b. RI), Sam Salmanson (1901-1985, Manhasset NY), Abe Salmanson (Brooklyn)
+**Next steps**: Search Statue of Liberty Foundation passenger database (free); search FamilySearch.org census records; check Brooklyn city directories 1910-1912
+
+### Search: Extended Salmanson family details
+
+**Query**: Obituaries and records for all Barnett's children and grandchildren
+**Source**: Legacy.com, Jewish Rhode Island, Prabook, Wikipedia
+**Results**: FOUND multiple new details:
+- Samuel: b. June 24, 1912 (exact date); Navy WWII Seabees, Johnson Island
+- James A. Salmanson (Samuel's son): b. March 10, 1945, Syracuse '67, MBA Babson '70, vice chairman Adams Drug
+- Martha: died Sept 26, 2015 (exact date), age 95, graduate Central High School
+- Thelma married Leonard Rodbell in 1978, moved to Atlanta
+- Adams Drug: sold 1984 for $100M; converted to Brooks Pharmacy 1986; acquired by Rite Aid 2006
+
+**Remaining expansion targets**:
+1. Barnett Salmanson's birth name and immigration records (PAYWALLED -- need Ancestry.com or FamilySearch direct access)
+2. Kascher surname origin and connection to SC families (research in progress)
+3. Henderson deeper ancestry (research in progress)
+4. Salmanson spouse families: Salk, Markel, Kushner, Mittleman (research in progress)
+5. King family ("Kerben" spelling verification)
+6. Stangle family in SC (check Ancestry.com/FamilySearch)
+7. Duff family records
+8. Higher-resolution photos of large handwritten chart (IMG_0782-0785)
+9. Cox line beyond William Cox Sr. (c.1726) (research in progress)

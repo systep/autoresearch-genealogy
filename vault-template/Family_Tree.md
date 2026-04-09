@@ -90,28 +90,33 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 
 **Thelma (Markel) Salmanson Rodbell** (Sept 12, 1920 - Sept 22, 2011)
 - Married Leonard Irving Salmanson, 1947
-- Later married Rodbell (after Leonard's death in 1975)
+- After Leonard's death in 1975, married **Leonard Rodbell** in 1978; moved to Atlanta
 - Buried: Lincoln Park Cemetery, Warwick, Rhode Island
 - Sources: Find a Grave #231959788
 
 ### Generation: Alan Carl's Grandparents
 
 **Barnett Salmanson + Elizabeth (Salk) Salmanson** (strong)
-- Based in Providence, Rhode Island (family originally from Brooklyn, NY per Samuel's obituary)
-- Founded family drug store business that became Adams Drug Company (est. 1933, Pawtucket, RI) and later Brooks Drug (500+ stores, 10 states, NYSE-listed)
-- Sources: Multiple obituaries, Find a Grave
+- Family in Brooklyn, NY by 1910 (Leonard b. June 1910); Samuel born June 24, 1912 in Brooklyn. Martha born in Providence (~1919-1920), indicating the family moved from Brooklyn to Providence between 1912 and ~1919.
+- Founded **Adams Drug Company** in 1932 in Woonsocket and Pawtucket, RI, selling health and beauty aids. Barnett and sons Leonard, Samuel, Charles, and Donald all worked in the business. Grew to **500+ stores in 14 states, 5,000+ employees**. NYSE-listed 1972. Sold to Pantry Pride in 1984 for $100 million. All stores converted to **Brooks Pharmacy** trade name in 1986; acquired by Rite Aid in 2006.
+- All known Salmanson burials at **Lincoln Park Cemetery** (Jewish, est. 1908), Warwick, RI
+- Members of **Temple Emanu-El** (Conservative, founded 1924), **Ledgemont Country Club**, trustees of Miriam Hospital, Jewish Federation of R.I.
+- **Possible relatives in Brooklyn/NY area** (unconfirmed, same era): David Salmanson (b. ~1891 Russia, wife Eva b. Rhode Island), Sam Salmanson (1901-1985, Manhasset NY, wife Mollie Greenberg), Abe Salmanson (Brooklyn, then El Paso TX). Geographic clustering suggests siblings or cousins of Barnett.
+- Sources: Multiple obituaries, Find a Grave, Wikipedia (Adams Drug Company, Brooks Pharmacy)
 
 **Children of Barnett + Elizabeth (Salk) Salmanson:**
 
 | Name | Born | Died | Spouse | Children | Source |
 |------|------|------|--------|----------|--------|
 | Leonard Irving | June 21, 1910 | May 15, 1975 | Thelma Markel (1920-2011) | Alan C., Barbara, Carol | Find a Grave #231959694 |
-| Samuel | ~1912 (Brooklyn, NY) | Oct 21, 2004 (West Palm Beach, FL) | Hilda Mittleman (1916-2016) | James; Tobey (m. Richard Oresman) | Palm Beach Post obit |
+| Samuel | June 24, 1912 (Brooklyn, NY) | Oct 21, 2004 (West Palm Beach, FL) | Hilda Mittleman (1916-2016) | James A. (b. Mar 10, 1945); Tobey (m. Richard Oresman) | Palm Beach Post obit |
 | Charles | 1914 | 2008 | Hannah Kushner (1914-2001) | Jerrold A. (b. 1942, d. 2024), Deborah (Roberts) | AncientFaces, Find a Grave #185239892, Charles obit (Legacy.com), Hannah obit |
 | Donald | 1924 | Sept 7, 2015 | Never married (companion: Lisle Whiteley) | None mentioned | Providence Journal obit |
-| Martha E. | ~1919-1920 | ~2014-2015 (age 95) | (1) Paul Corin, (2) Edward Schwartz | Rosalind Hill, Larry Schwartz | Jewish Rhode Island obit |
+| Martha E. | ~1919-1920 (Providence, RI) | Sept 26, 2015 (age 95) | (1) Paul Corin, (2) Edward Schwartz | Rosalind Hill (m. Herbert), Larry Schwartz (m. Maxine) | Jewish Rhode Island obit |
 
 **In-law families:**
+- **Samuel** served in US Navy in WWII (Seabees), stationed on Johnson Island, South Pacific
+- **James A. Salmanson** (Samuel's son, b. March 10, 1945, Providence): Syracuse University '67, MBA Babson College '70, married Eileen (May 16, 1971), rose to vice chairman of Adams Drug
 - **Hilda (Mittleman) Salmanson** (1916-2016): daughter of Max and Fannie Mittleman; siblings Harry Mittleman, Joseph Mittleman, Sara Goldberg
 - **Hannah (Kushner) Salmanson** (1914-2001): daughter of Jacob and Dora (Alpert) Kushner
 
@@ -433,7 +438,7 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 
 2. ~~**Richard Panciera**~~: RESOLVED. Half-sibling or step-sibling of Kathryn Kascher (different surname = different father). See Discrepancy #6. Family confirmation recommended.
 
-3. **Missing Salmanson generations**: How does Barnett connect back to the Eastern European line shown in Screenshot 125824 (Levi + Rochel → Barnett)? What was Barnett's birth name? When did the family immigrate?
+3. **Missing Salmanson generations**: How does Barnett connect back to the Eastern European line shown in Screenshot 125824 (Levi + Rochel → Barnett)? What was Barnett's birth name? When did the family immigrate? **Research progress:** Family was in Brooklyn by 1910, moved to Providence by ~1919. Cluster of possible relatives in Brooklyn: David Salmanson (b. ~1891 Russia), Sam (1901-1985), Abe. **WALL HIT:** Immigration/census/naturalization records are behind paywalls (Ancestry, FamilySearch). Next steps: search Statue of Liberty Foundation passenger database (free) for "Zalmanson"/"Salmanson"; search FamilySearch census records; check Brooklyn city directories 1910-1912.
 
 4. **How do the SC families connect to Kascher?** The Cox-Henderson-Long-King-Stangle-Duff families are documented in the handwritten notes. How do they ultimately connect to Kathryn Ann Kascher?
 
