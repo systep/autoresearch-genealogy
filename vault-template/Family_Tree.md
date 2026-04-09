@@ -91,8 +91,11 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 **Thelma (Markel) Salmanson Rodbell** (Sept 12, 1920 - Sept 22, 2011)
 - Married Leonard Irving Salmanson, 1947
 - After Leonard's death in 1975, married **Leonard Rodbell** in 1978; moved to Atlanta
+- Sister: Anne (Markel) Schlusselberg
+- Established the Thelma S. Rodbell Charitable Foundation (Cranston, RI; tax-exempt since 1999; $2.3M in 386 grants since 2014)
 - Buried: Lincoln Park Cemetery, Warwick, Rhode Island
-- Sources: Find a Grave #231959788
+- Parents: not yet identified (WALL: requires RI vital records or census)
+- Sources: Find a Grave #231959788, ProPublica Nonprofit Explorer
 
 ### Generation: Alan Carl's Grandparents
 
@@ -117,8 +120,22 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 **In-law families:**
 - **Samuel** served in US Navy in WWII (Seabees), stationed on Johnson Island, South Pacific
 - **James A. Salmanson** (Samuel's son, b. March 10, 1945, Providence): Syracuse University '67, MBA Babson College '70, married Eileen (May 16, 1971), rose to vice chairman of Adams Drug
-- **Hilda (Mittleman) Salmanson** (1916-2016): daughter of Max and Fannie Mittleman; siblings Harry Mittleman, Joseph Mittleman, Sara Goldberg
-- **Hannah (Kushner) Salmanson** (1914-2001): daughter of Jacob and Dora (Alpert) Kushner
+- **Hilda (Mittleman) Salmanson** (1916-2016): born Providence, RI; also lived Chestnut Hill, MA; died West Palm Beach, FL. Daughter of Max and Fannie Mittleman. Siblings: Harry Mittleman, Joseph Mittleman, Sara (Mittleman) Goldberg. Grandchildren: Matthew Oresman, Heather Wong, Lauren + Marc Regardie, Brian Salmanson, Nikki DeMartinis; 6 great-grandchildren. Sources: Jewish Rhode Island, Legacy.com (Boston Globe)
+- **Hannah (Kushner) Salmanson** (1914-2001): daughter of Jacob and Dora (Alpert) Kushner of Providence. Siblings: Esta (Kushner) Katz of Providence, Samuel Kushner (deceased), Phillip Kushner (deceased). Sources: Find a Grave #185239892, Charles obit, Esther Katz obit
+
+### Salk Family (Elizabeth Salk's family)
+
+*Source: Web research (obituaries)* **(moderate)**
+
+Elizabeth (Salk) Salmanson married Barnett Salmanson. Her parents are not yet identified. At least three Salk family branches existed in Providence, RI in the early 1900s:
+- **Samuel Salk** (b. Sept 25, 1884, d. Jan 1977): family founded Salk's Hardware & Marine in Providence in 1900 (still operating, 5th generation). Son Harold Salk (d. 2024, age 92) married Carolyn Bohn.
+- **Louis Salk + Belle (Feingold) Salk**: son Norton Elliot Salk (1927-2007), born Providence.
+- **Gabriel Salk + Frances (Shapiro) Salk**: son Stephen D. Salk (d. 2023, ~age 85), Classical High School '56.
+- **Ida Salk** (b. June 15, 1881, d. June 1982, age 101) of Providence.
+
+Elizabeth may be a sibling of one of these branches (born ~1885-1895 given Leonard's 1910 birth). No connection to Jonas Salk (1914-1995, born NYC) has been established; his family was based in East Harlem/Bronx NY. The surname "Salk" is Ashkenazi Jewish, likely from Yiddish "Zalk/Zalkind," of Lithuanian origin.
+
+**WALL:** Elizabeth's specific parents require RI vital records, census, or marriage records (paywalled).
 
 ### Eastern European Ancestry: Zalmanson Line
 

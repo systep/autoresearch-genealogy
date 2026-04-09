@@ -272,9 +272,11 @@ All 9 previously open discrepancies resolved (see cross_reference_audit.md). Key
 1. Barnett Salmanson's birth name and immigration records (PAYWALLED -- need Ancestry.com or FamilySearch direct access)
 2. Kascher surname origin and connection to SC families (research in progress)
 3. Henderson deeper ancestry (research in progress)
-4. Salmanson spouse families: Salk, Markel, Kushner, Mittleman (research in progress)
-5. King family ("Kerben" spelling verification)
-6. Stangle family in SC (check Ancestry.com/FamilySearch)
-7. Duff family records
-8. Higher-resolution photos of large handwritten chart (IMG_0782-0785)
-9. Cox line beyond William Cox Sr. (c.1726) (research in progress)
+4. Salmanson spouse families: PARTIALLY DONE. Found Thelma's sister Anne Schlusselberg, Hannah's siblings (Esta Katz, Samuel, Phillip Kushner), Hilda's grandchildren. WALL on all parents: requires census/vital records.
+5. Salk family: Found 3+ branches in Providence but could not identify Elizabeth's specific parents. WALL: paywalled.
+6. King family ("Kerben" spelling verification)
+7. Stangle family in SC (check Ancestry.com/FamilySearch)
+8. Duff family records
+9. Higher-resolution photos of large handwritten chart (IMG_0782-0785)
+10. Cox line beyond William Cox Sr. (c.1726) (research in progress)
+11. Henderson deeper ancestry (research in progress)
