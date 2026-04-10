@@ -244,8 +244,34 @@ The names in the family tree screenshots (Dovber, Yekutiel, Rivka, Srul, Levi, R
 1. **Maternal**: mother Rivka Beila was the Mitteler Rebbe's daughter (→ granddaughter of the Alter Rebbe)
 2. **Fraternal**: brother Rabbi Levi Yitzchok married Dvorah Leah Schneursohn (daughter of the Tzemach Tzedek, 3rd Rebbe)
 
-**Complete direct lineage from Alter Rebbe to present:**
-Shneur Zalman of Liadi (1745-1812) → Dovber Shneuri (1773-1827) → Rivka Beila + Yekutiel Zalman Volis → Srul Mendel Zalmanson (1820-1854) → Levi Itzhak Zalmanson (1851) → Berko/Barnett Salmanson (1883-1960) → Leonard Irving (1910-1975) → Alan Carl → Leonard Daniel (L.D.)
+**Complete direct lineage from 1600s to present (MyHeritage tree, Tier 3, verification in progress):**
+
+```
+Shneur Zalman KATZ (1600) + Rosa LURIA (1625)
+  └── Sara Katz (1665-1736) + Moshe Loew of Posen (1663-1736)
+      [Moshe's parents: Yehuda Leib (1615-1706) + Sara Loew Katz (1633-1680)]
+      └── Schneur Zalman Loew (1692-1735) + Rachel Portugaler (1693-1735)
+          [Rachel's father: Boruch Portugaler/Batlan (1670)]
+          └── Boruch Poisner (1721-1790) + Rivkah Loew Hirtz (1721)
+              └── SHNEUR ZALMAN OF LIADI (1745-1812) = ALTER REBBE, founder of Chabad
+                  + Sterna Boruchovitch (1745)
+                  └── DOVBER SHNEURI (1773-1827) = MITTELER REBBE, 2nd Admor
+                      + Sheyna/Sheine (1773-1855) "2nd Rebbetzin of Chabad"
+                      └── Rivka Beila Schneerson (1797) + Yekutiel Zalman Wallis (1794-1872)
+                          [Yekutiel's parents: Yosef Bonam (1770) + Luba Tirtsa Derbaremdiker (1781-1838)]
+                          └── Srul Mendel Zalmanson (1820-1854)
+                              └── Levi Itzhak Zalmanson (1851)
+                                  └── Berko/Barnett Salmanson (1883-1960)
+                                      └── Leonard Irving (1910-1975)
+                                          └── Alan Carl + Kathryn Ann Kascher
+                                              └── Leonard Daniel (L.D.)
+```
+
+**Also at the Mitteler Rebbe level:**
+- **Menachem Nachum** (1788-1868), son of the Mitteler Rebbe
+- **Chaya Mushka**, married **Menachem Mendel Schneersohn** (the Tzemach Tzedek, 3rd Rebbe)
+
+**Rosa LURIA** (1625) connection: the Luria surname is one of the most distinguished in Jewish genealogy, connected to Rabbi Solomon Luria (Maharshal, 1510-1573) and the Luria rabbinical dynasty.
 
 #### Generation 3: Srul Mendel Zalmanson + Gita
 
