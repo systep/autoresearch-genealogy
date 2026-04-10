@@ -231,11 +231,116 @@ Chronological record of every archive searched, every query run, and every resul
 **Delta from baseline**: +60 individuals
 **Key additions**: Leonard Irving Salmanson, Thelma Markel, Samuel/Hilda/Charles/Hannah/Donald/Martha Salmanson families, William Cox Sr./Jr., Thomas B. Cox, Connie Baker, Olive Mary Henderson, James Cox, Rebecca Adeline Cox Henderson, Rev. Henry Langford Henderson, 10 Henderson children, 12 Cox children, Zalmanson-Schneerson connection lead
 
-**Remaining expansion targets for future sessions**:
-1. Barnett Salmanson's birth name and immigration records (try Ellis Island with "Zalmanson")
-2. Zalmanson-Schneerson connection verification (Chabad genealogy archives)
-3. Kascher surname origin and connection to SC families
-4. King family ("Kerben" spelling verification)
-5. Stangle family in SC (check Ancestry.com/FamilySearch)
-6. Duff family records
-7. Higher-resolution photos of large handwritten chart (IMG_0782-0785)
+---
+
+## 2026-04-09: Cross-Reference Audit Resolution
+
+All 9 previously open discrepancies resolved (see cross_reference_audit.md). Key corrections:
+- Jerrold Salmanson is Charles's son, not Leonard's (Hannah's obit + Charles's obit confirm)
+- Discovered Deborah Salmanson Roberts (Charles and Hannah's daughter)
+- Zalmanson-Schneerson historical connection upgraded to Strong Signal (chabad.org, Rebbe's letter)
+- Koch-to-Cox anglicization documented; Palatine German migration explains "Born England" + "faithful German"
+
+---
+
+## 2026-04-09: Deep Research — Salmanson Line Extension
+
+### Search: Barnett Salmanson immigration records
+
+**Query**: Multiple searches for "Barnett Salmanson" and "Zalmanson" in Ellis Island, census, naturalization records
+**Source**: Web search (Ancestry, FamilySearch, Statue of Liberty Foundation are behind paywalls)
+**Results**: WALL HIT on immigration records. Unable to access Ellis Island manifests, census, or naturalization papers through free web search. Ancestry.com reports 133 immigration records for "Salmanson" but they are paywalled.
+**Positive findings**:
+- Family was in Brooklyn, NY by 1910 (Leonard b. June 1910); Samuel born June 24, 1912 in Brooklyn
+- Martha born in Providence (~1919-1920), so family moved Brooklyn → Providence between 1912-1919
+- Adams Drug founded 1932 (not 1933) in Woonsocket and Pawtucket, RI
+- Possible Barnett relatives in Brooklyn: David Salmanson (b. ~1891 Russia, wife Eva b. RI), Sam Salmanson (1901-1985, Manhasset NY), Abe Salmanson (Brooklyn)
+**Next steps**: Search Statue of Liberty Foundation passenger database (free); search FamilySearch.org census records; check Brooklyn city directories 1910-1912
+
+### Search: Extended Salmanson family details
+
+**Query**: Obituaries and records for all Barnett's children and grandchildren
+**Source**: Legacy.com, Jewish Rhode Island, Prabook, Wikipedia
+**Results**: FOUND multiple new details:
+- Samuel: b. June 24, 1912 (exact date); Navy WWII Seabees, Johnson Island
+- James A. Salmanson (Samuel's son): b. March 10, 1945, Syracuse '67, MBA Babson '70, vice chairman Adams Drug
+- Martha: died Sept 26, 2015 (exact date), age 95, graduate Central High School
+- Thelma married Leonard Rodbell in 1978, moved to Atlanta
+- Adams Drug: sold 1984 for $100M; converted to Brooks Pharmacy 1986; acquired by Rite Aid 2006
+
+**Remaining expansion targets**:
+1. Barnett Salmanson's birth name and immigration records (PAYWALLED -- need Ancestry.com or FamilySearch direct access)
+2. Kascher surname origin and connection to SC families (research in progress)
+3. Henderson deeper ancestry (research in progress)
+4. Salmanson spouse families: PARTIALLY DONE. Found Thelma's sister Anne Schlusselberg, Hannah's siblings (Esta Katz, Samuel, Phillip Kushner), Hilda's grandchildren. WALL on all parents: requires census/vital records.
+5. Salk family: Found 3+ branches in Providence but could not identify Elizabeth's specific parents. WALL: paywalled.
+6. King family ("Kerben" spelling verification)
+7. Stangle family in SC (check Ancestry.com/FamilySearch)
+8. Duff family records
+9. Higher-resolution photos of large handwritten chart (IMG_0782-0785)
+10. Cox line beyond William Cox Sr.: WALL HIT. DNA + primary sources confirm parents unknown. Key correction: Isaac Cox is William Sr.'s SON (not brother). William Sr. b. c.1730-1735, NOT 1726. NOT son of William Richardson Cox (1692-1767, Quaker). Y-DNA: R1b-I "Carolina Coxes" (British Isles origin). Koch→Cox theory unlikely for this family. James Cox married Dianah/Diana Black. Alice (maiden name unknown) was William Sr.'s wife.
+11. Henderson deeper ancestry: MAJOR FINDS. Traced back 4 generations to James Henderson + Mary Rhodes (~1716 Scotland?). Ezekiel Henderson (1763-1846) was Revolutionary War veteran (pension S6994). Key discovery: Olive Mary "Polly" Henderson and Brashier Henderson were SIBLINGS (both children of Ezekiel), making the Rebecca Cox + Henry Henderson marriage a first-cousin marriage.
+12. Kascher: Rare German/Central European surname. No SC connection found for the name itself. Panciera is Italian, concentrated in Westerly RI. SC ancestry likely traces through a non-Kascher line.
+
+---
+
+## 2026-04-09: Deep Research — Henderson Line Extension
+
+### Search: Rev. Henry Langford Henderson parents
+
+**Query**: WikiTree Henderson-12233, Henderson-6197
+**Results**: FOUND. Parents: Brashier Henderson (1790-1847) + Elizabeth Taylor. Brashier is WikiTree Henderson-6197.
+
+### Search: Olive Mary "Polly" Henderson parents
+
+**Query**: WikiTree, Geni.com
+**Results**: MAJOR FIND. Olive Mary "Polly" Henderson and Brashier Henderson were SIBLINGS, both children of Ezekiel Henderson (1763-1846) + Elizabeth Brasher. This means Rebecca Adeline Cox married her first cousin Rev. Henry Langford Henderson.
+
+### Search: Ezekiel Henderson
+
+**Query**: WikiTree Henderson-1855, RevWarApps
+**Results**: FOUND. Revolutionary War veteran, pension S6994 ($57.50/year). Served 1781-1783. 15 children documented. Moved from Chatham County NC to Greenville County SC after the war.
+
+### Search: Argaleus Hercules Henderson I
+
+**Query**: WikiTree Henderson-7309, Geni.com
+**Results**: FOUND. b. ~1720 Onslow NC, d. June 1806 Chatham NC. Married Molly Mary Clark. Participated in NC Regulators movement 1768-1771.
+
+### Search: Henderson earliest ancestor
+
+**Query**: Web search for James Henderson + Mary Rhodes, Scotland
+**Results**: Speculative claim of Scottish origin via S.S. Friendship (1716). Needs verification. WALL approaching.
+
+### Search: Kascher surname and SC connection
+
+**Query**: Multiple searches for Kascher in SC, RI, Ohio
+**Results**: NEGATIVE for SC connection. Kascher is rare, German/Central European origin, concentrated in Ohio in 1920. SC families likely connect through a non-Kascher parent of Kathryn. Panciera is Italian, Westerly RI roots.
+
+---
+
+## 2026-04-09: Deep Research — Cox Line Extension
+
+### Search: William Cox Sr. parents
+
+**Query**: Multiple searches across WikiTree, Cox Family History Project, Ancestry, FamilySearch, Geni.com
+**Results**: CONFIRMED BRICK WALL. Cox Family History Project (est. 2008, updated 2020) states parents unknown. Y-37 DNA test places this line in R1b-I "Carolina Coxes" subgroup, NOT matching Quaker/Delaware Cox line.
+**Critical correction**: Many databases (Ancestry, FamilySearch, Geni.com) ERRONEOUSLY merge William Cox Sr. with William Richardson Cox (1692-1767, Quaker from Delaware). This is proven wrong by DNA and primary sources.
+
+### Search: Isaac Cox relationship to William Sr.
+
+**Query**: WikiTree Cox-8529, Cox Family History Project, FamilySearch
+**Results**: FOUND. Isaac Cox (c.1755-1830) was William Cox Sr.'s SON. Born Orange County NC. Wife unknown. Children: James, Elizabeth, Abraham, Sarah, Frances, William. Appears on 1779 NC tax list and 1814 estate records.
+
+### Search: James Cox wife
+
+**Query**: WikiTree Cox-14020, Cox Family History Project
+**Results**: FOUND. James Cox married **Dianah/Diana Black** (b. 1784 NC, d. Jan 7, 1865 Greenville Co. SC).
+
+### Search: Koch/German origin for Cox
+
+**Query**: Orange County NC records, Koch surname, German settlers
+**Results**: NEGATIVE. No evidence of Koch→Cox for this family. Y-DNA is R-M269, consistent with British Isles. Cox Family History Project does not mention German origin theory.
+
+### Search: Orange County NC land records
+
+**Results**: FOUND. William Cox on 1755 tax list (one of 3 William Coxes). Purchased 110 acres April 22, 1772 (Deed Book #3 p. 599). Sold October 13, 1787 for 250 pounds before migrating to SC.

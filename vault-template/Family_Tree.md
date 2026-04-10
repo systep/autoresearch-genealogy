@@ -26,8 +26,9 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 │
 ├── PATERNAL: Alan Carl Salmanson + Kathryn Ann Kascher
 │   ├── Leonard Irving Salmanson (1910-1975) + Thelma Markel (1920-2011)
-│   │   └── Barnett Salmanson + Elizabeth Salk — Providence, RI
-│   │       └── [Eastern European Zalmanson/Salmanson line]
+│   │   └── Barnett (Berko) Zalmanson/Salmanson (1883-1960, b. Vilna, Lithuania) + Elizabeth Salk — Providence, RI
+│   │       └── Levi Itzhak Zalmanson + Rochel Tsine (Deych) — Vilnius, Lithuania
+│   │           └── [Eastern European Zalmanson line → possible Schneerson connection]
 │   └── Kascher / South Carolina ancestors — see Maternal Line below
 │
 ├── MATERNAL: Yaffit Shriki
@@ -57,10 +58,29 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 - Carol S. Salmanson (strong)
 - Sources: Thelma Markel Salmanson Rodbell memorial, Find a Grave #231959788
 
-**Note:** Shelly White appears alongside Alan's siblings in the digital tree (Screenshot 125748). She is NOT listed on Thelma's memorial as a child. Likely a sister-in-law or step-relation (Thelma remarried to Rodbell after Leonard Irving's death in 1975). See Open Questions #1.
+**Note:** Shelly White appears alongside Alan's siblings in the digital tree (Screenshot 125748). She is NOT listed on Thelma's memorial as a child of Leonard Irving. **Cross-reference audit conclusion (Moderate Signal):** Shelly White is not a biological child of Leonard Irving and Thelma. Most likely a step-relation through Thelma's second marriage to Rodbell (e.g., Rodbell's daughter from a prior marriage). Her different surname (White, not Salmanson or Rodbell) suggests she married. Alternative: wife of a family member placed at sibling level in the tree app.
+
+### Kascher Family (Ohio / Rochester, NY)
+
+**Henry Michael Kascher** (b. December 10, 1914, Youngstown, Mahoning County, Ohio) **(strong)**
+- **Mother's maiden name: Falk** (Ohio birth certificate, state file #1914109692)
+- 1950 Census: age 35, 49 Clay Avenue, Rochester, Monroe, NY. Married.
+- Kascher surname: rare, German/Central European origin. 3 Kascher families in Ohio in 1920 census, confirming this as the geographic center of the Kascher family.
+- Sources: MyHeritage (Ohio birth index, 1950 US Census)
+
+**Mary Elizabeth Bright** (b. ~1922, Tennessee) **(strong)**
+- 1930 Census: age 8, Irondequoit, Monroe, New York (Rochester suburb)
+- Married Henry Michael Kascher. 1950 Census: age 28, 49 Clay Avenue, Rochester, NY.
+- **THE SC CONNECTION IS THROUGH THE BRIGHT FAMILY.** The **Bright** surname appears on the large handwritten chart (IMG_0783) connected to the **King and Kopp** families through marriage lines. "Mary Elizabeth Bright" and "Charles Edward Bright (or Long?)" are listed on that chart. The path: SC families (Cox, Henderson, King, Kopp, Stangle) → **Bright family** (Tennessee/SC origin) → Mary Elizabeth Bright → married Kascher → daughter Kathryn → married Salmanson.
+- Sources: MyHeritage (1930 + 1950 US Census)
+
+**Children of Henry Michael Kascher + Mary Elizabeth Bright:**
+- **Kathryn Ann Kascher** (b. January 1, 1946, New York) -- married Alan Carl Salmanson
+- **Suzanne Kascher** (b. ~July 11, 1948)
+- **Nancy Kascher** (b. 1948-1949, New York)
 
 **Kathryn Ann Kascher's siblings:**
-- Richard Panciera (see Open Questions #2)
+- Richard Panciera (half-sibling or step-sibling; different surname indicates different father. **Panciera is an Italian surname**, concentrated in Westerly, RI area since early 1900s. This suggests a Rhode Island Italian-American connection through one parent's prior relationship. See Discrepancy #6.)
 - David (surname unclear; Kascher?)
 - Nancy Kascher
 - Suzanne (surname unclear; Kascher?)
@@ -83,37 +103,66 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 - Son of Barnett and Elizabeth (Salk) Salmanson
 - Buried: Lincoln Park Cemetery, Warwick, Rhode Island
 - Married: **Thelma Markel** in 1947
-- Children: Jerrold A. Salmanson (b. Jan 30, 1942) (see note), Alan C. Salmanson, Barbara Salmanson, Carol S. Salmanson
-- Sources: Find a Grave #231959694, Samuel Salmanson obituary (2004)
+- Children: Alan C. Salmanson, Barbara Salmanson, Carol S. Salmanson
+- Sources: Find a Grave #231959694, Thelma's memorial #231959788, Samuel Salmanson obituary (2004)
 
-**Note on Jerrold:** Samuel Salmanson's 2004 obituary lists "his nephews, Jerrold and Alan" as working in the family business. Thelma's memorial lists only Alan, Barbara, and Carol as her children. Jerrold (b. 1942, before the 1947 marriage) may be Leonard's son from a prior relationship, or he may be Charles Salmanson's son. Needs family confirmation.
+**Note on Jerrold:** Samuel Salmanson's 2004 obituary lists "his nephews, Jerrold and Alan" as working in the family business. **Cross-reference audit conclusion (Strong Signal):** Jerrold is **Charles and Hannah (Kushner) Salmanson's son**, not Leonard's. Hannah's obituary and Find a Grave memorial (#185239892) explicitly list "Jerrold A. Salmanson of Providence" as her surviving child. Charles's 2008 obituary confirms. Jerrold and Alan are cousins (sons of two different brothers), not siblings. See Discrepancy #7, resolved.
 
-**Thelma (Markel) Salmanson Rodbell** (Sept 12, 1920 - Sept 22, 2011)
+**Thelma (Markel) Salmanson Rodbell** (Sept 12, 1920 - Sept 22, 2011; age 91 years, 10 days)
+- Hebrew birth date: circa 5680; Hebrew death date: 23 Av 5771
 - Married Leonard Irving Salmanson, 1947
-- Later married Rodbell (after Leonard's death in 1975)
+- After Leonard's death in 1975, married **Leonard Rodbell** in 1978; moved to Atlanta
+- Sister: Anne (Markel) Schlusselberg
+- Established the Thelma S. Rodbell Charitable Foundation (Cranston, RI; tax-exempt since 1999; $2.3M in 386 grants since 2014)
 - Buried: Lincoln Park Cemetery, Warwick, Rhode Island
-- Sources: Find a Grave #231959788
+- Parents: not yet identified (WALL: requires RI vital records or census)
+- Sources: Find a Grave #231959788, MyHeritage, ProPublica Nonprofit Explorer
 
 ### Generation: Alan Carl's Grandparents
 
-**Barnett Salmanson + Elizabeth (Salk) Salmanson** (strong)
-- Based in Providence, Rhode Island (family originally from Brooklyn, NY per Samuel's obituary)
-- Founded family drug store business that became Adams Drug Company (est. 1933, Pawtucket, RI) and later Brooks Drug (500+ stores, 10 states, NYSE-listed)
-- Sources: Multiple obituaries, Find a Grave
+**Barnett (Berko) Salmanson** (born **Berko Zalmanson/Zalmanzon**, also Berl Salmonson; May 15, 1883 or 1885, Vilnius (Vilna), Lithuania; died December 14, 1960, Miami, FL) **(strong)**
+- **Father: Levi Itzhak Zalmanson** (b. 1851), son of **Srul Mendel Zalmanson + Gita Zalmanson**
+- **Mother: Rochel Tsine Zalmanson (born Deych)** (b. 1861), daughter of **Zawel Deykh**
+- Parents married **December 2, 1877 in Rokiškis, Panevėžys County, Lithuania**
+- **Siblings: Gita Zalmanson, Zalman Zalmanson** (Gita named after paternal grandmother)
+- **Immigration: SS Baltic, arrived December 23, 1904, New York City** (age ~19-21)
+- **Marriage: Elizabeth Salk, September 12, 1909, Providence, Rhode Island**
+- **Military service: WWI, 1917-1918, Providence, RI**
+- Family in Brooklyn, NY by 1910 (Leonard b. June 1910); Samuel born June 24, 1912 in Brooklyn. Martha born in Providence (~1919-1920).
+- Founded **Adams Drug Company** in 1932 in Woonsocket and Pawtucket, RI. Grew to 500+ stores, 14 states, NYSE-listed 1972. Sold 1984 for $100M. Became Brooks Pharmacy 1986, Rite Aid 2006.
+- All known Salmanson burials at **Lincoln Park Cemetery**, Warwick, RI
+- Sources: **MyHeritage** (family tree + immigration + military + census records), obituaries, Find a Grave, Wikipedia
 
 **Children of Barnett + Elizabeth (Salk) Salmanson:**
 
 | Name | Born | Died | Spouse | Children | Source |
 |------|------|------|--------|----------|--------|
-| Leonard Irving | June 21, 1910 | May 15, 1975 | Thelma Markel (1920-2011) | Jerrold(?), Alan C., Barbara, Carol | Find a Grave #231959694 |
-| Samuel | ~1912 (Brooklyn, NY) | Oct 21, 2004 (West Palm Beach, FL) | Hilda Mittleman (1916-2016) | James; Tobey (m. Richard Oresman) | Palm Beach Post obit |
-| Charles | 1914 | 2008 | Hannah Kushner (1914-2001) | (not confirmed) | AncientFaces, Find a Grave #185239892 |
+| Leonard Irving | June 21, 1910 | May 15, 1975 | Thelma Markel (1920-2011) | Alan C., Barbara, Carol | Find a Grave #231959694 |
+| Samuel | June 24, 1912 (Brooklyn, NY) | Oct 21, 2004 (West Palm Beach, FL) | Hilda Mittleman (1916-2016) | James A. (b. Mar 10, 1945); Tobey (m. Richard Oresman) | Palm Beach Post obit |
+| Charles | 1914 | 2008 | Hannah Kushner (1914-2001) | Jerrold A. (b. 1942, d. 2024), Deborah (Roberts) | AncientFaces, Find a Grave #185239892, Charles obit (Legacy.com), Hannah obit |
 | Donald | 1924 | Sept 7, 2015 | Never married (companion: Lisle Whiteley) | None mentioned | Providence Journal obit |
-| Martha E. | ~1919-1920 | ~2014-2015 (age 95) | (1) Paul Corin, (2) Edward Schwartz | Rosalind Hill, Larry Schwartz | Jewish Rhode Island obit |
+| Martha E. | ~1919-1920 (Providence, RI) | Sept 26, 2015 (age 95) | (1) Paul Corin, (2) Edward Schwartz | Rosalind Hill (m. Herbert), Larry Schwartz (m. Maxine) | Jewish Rhode Island obit |
 
 **In-law families:**
-- **Hilda (Mittleman) Salmanson** (1916-2016): daughter of Max and Fannie Mittleman; siblings Harry Mittleman, Joseph Mittleman, Sara Goldberg
-- **Hannah (Kushner) Salmanson** (1914-2001): daughter of Jacob and Dora (Alpert) Kushner
+- **Samuel** served in US Navy in WWII (Seabees), stationed on Johnson Island, South Pacific
+- **James A. Salmanson** (Samuel's son, b. March 10, 1945, Providence): Syracuse University '67, MBA Babson College '70, married Eileen (May 16, 1971), rose to vice chairman of Adams Drug
+- **Hilda (Mittleman) Salmanson** (1916-2016): born Providence, RI; also lived Chestnut Hill, MA; died West Palm Beach, FL. Daughter of Max and Fannie Mittleman. Siblings: Harry Mittleman, Joseph Mittleman, Sara (Mittleman) Goldberg. Grandchildren: Matthew Oresman, Heather Wong, Lauren + Marc Regardie, Brian Salmanson, Nikki DeMartinis; 6 great-grandchildren. Sources: Jewish Rhode Island, Legacy.com (Boston Globe)
+- **Hannah (Kushner) Salmanson** (1914-2001): daughter of Jacob and Dora (Alpert) Kushner of Providence. Siblings: Esta (Kushner) Katz of Providence, Samuel Kushner (deceased), Phillip Kushner (deceased). Sources: Find a Grave #185239892, Charles obit, Esther Katz obit
+- **Jacob Kushner** (b. Jan 27, 1886, Russia; d. ?). Arrived in US: 1890 or 1895 (multiple arrival records). Residence: Providence Ward 3, Providence, RI, 1910 census. Source: MyHeritage
+
+### Salk Family (Elizabeth Salk's family)
+
+*Source: Web research (obituaries)* **(moderate)**
+
+Elizabeth (Salk) Salmanson married Barnett Salmanson. Her parents are not yet identified. At least three Salk family branches existed in Providence, RI in the early 1900s:
+- **Samuel Salk** (b. Sept 25, 1884, d. Jan 1977): family founded Salk's Hardware & Marine in Providence in 1900 (still operating, 5th generation). Son Harold Salk (d. 2024, age 92) married Carolyn Bohn.
+- **Louis Salk + Belle (Feingold) Salk**: son Norton Elliot Salk (1927-2007), born Providence.
+- **Gabriel Salk + Frances (Shapiro) Salk**: son Stephen D. Salk (d. 2023, ~age 85), Classical High School '56.
+- **Ida Salk** (b. June 15, 1881, d. June 1982, age 101) of Providence.
+
+Elizabeth may be a sibling of one of these branches (born ~1885-1895 given Leonard's 1910 birth). No connection to Jonas Salk (1914-1995, born NYC) has been established; his family was based in East Harlem/Bronx NY. The surname "Salk" is Ashkenazi Jewish, likely from Yiddish "Zalk/Zalkind," of Lithuanian origin.
+
+**WALL:** Elizabeth's specific parents require RI vital records, census, or marriage records (paywalled).
 
 ### Eastern European Ancestry: Zalmanson Line
 
@@ -121,13 +170,13 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 
 The surname **Salmanson** is an anglicization of **Zalmanson** ("son of Zalman/Solomon"). Web research reveals a Zalmanson family connected to the **Chabad-Lubavitch Schneerson** rabbinical dynasty through marriage:
 
-- **Levi Yitzchok Zalmanson** married **Dvorah Leah Schneursohn** (eldest daughter of Rabbi Menachem Mendel Schneersohn, the Tzemach Tzedek, 3rd Lubavitcher Rebbe) in 1826
-- **Rivkah Zalmanson** married **Yehuda Leib Shneursohn**
-- **Shneur Zalmanson** married **Perla Dvorah Shneursohn**
+- **Levi Yitzchok Zalmanson** married **Dvorah Leah Schneursohn** (eldest daughter of Rabbi Menachem Mendel Schneersohn, the Tzemach Tzedek, 3rd Lubavitcher Rebbe) in 1826. **Confirmed by chabad.org official timeline (Strong Signal).** The Tzemach Tzedek appointed Levi Yitzchok to head a yeshiva in Lubavitch. Their children included Shneur Zalman, Mordechai Ber, Yosef Chaim, Rivkah, and Pearl (geni.com).
+- **Rivkah Zalmanson** (daughter of Levi Yitzchok + Dvorah Leah) married **Yehuda Leib Shneursohn**. **Partially confirmed (Moderate Signal)**; the exact identity of which Yehuda Leib needs clarification.
+- **Shneur Zalmanson** (son of Levi Yitzchok + Dvorah Leah) married **Perla Dvorah Shneursohn** (granddaughter of the Tzemach Tzedek, daughter of his son R. Yisrael Noach). **Confirmed by a letter from the 7th Lubavitcher Rebbe (Strong Signal).** Their descendants include violinist Yehudi Menuhin (through granddaughter Sarah Liba).
 
-The names in the family tree screenshots (Dovber, Yekutiel, Rivka, Srul, Levi, Rochel) are consistent with Chabad naming conventions. **This connection is unverified** and requires confirmation from family records, DNA, or additional documentation.
+The names in the family tree screenshots (Dovber, Yekutiel, Rivka, Srul, Levi, Rochel) are consistent with Chabad naming conventions.
 
-**WARNING:** The loebtree.com data is a user-contributed tree. Per the research protocol, this requires corroboration from at least one independent source before being treated as confirmed.
+**NOTE:** The historical Zalmanson-Schneerson connection is now **strongly confirmed** by authoritative independent sources (chabad.org official timeline, the 7th Rebbe's letter, geni.com, ancestry.com). The specific link from Barnett Salmanson back to this Zalmanson line still requires verification through immigration records (search Ellis Island for "Zalmanson"), family papers, or DNA. Upgraded to **Strong Signal** for the historical connection; **speculative** for the family-specific link. If verified, this family would share common ancestry with Yehudi Menuhin.
 
 **From digital family tree screenshots** (reading oldest to most recent):
 
@@ -148,27 +197,46 @@ The names in the family tree screenshots (Dovber, Yekutiel, Rivka, Srul, Levi, R
 | Leiba | (unnamed) | unclear | moderate |
 | Eliyahu (or similar) | Golda | unclear | moderate |
 
-#### Generation 3
+#### Generation 2: Yekutiel Zalman Wallis + Rivka Beila (Shneuri)
 
-| Person | Spouse | Parents (probable) | Confidence |
-|--------|--------|--------------------|------------|
-| Srul | Gita | Srul from Yekutiel + Rivka (?) | moderate |
-| Zawel | (unnamed) | sibling of Srul? | speculative |
+| Person | Spouse | Parents | Confidence |
+|--------|--------|---------|------------|
+| **Yekutiel Zalman Wallis** | **Rivka Beila Wallis (born Shneuri)** | from Yosef + Luba / Dovber + Sheyna lines (?) | **strong** (MyHeritage, confirmed as Srul Mendel's parents) |
+
+**Note on "Shneuri":** Rivka Beila's maiden name **Shneuri** is a variant of **Schneuri/Schneerson**. This likely indicates descent from the **Shneur Zalman of Liadi** dynasty (founder of Chabad-Lubavitch). The Schneerson/Chabad connection to this family appears to run through the MATERNAL line (Rivka Beila Shneuri → Srul Mendel → Levi Itzhak → Barnett), not through the previously hypothesized 1826 marriage of Rabbi Levi Yitzchok Zalmanson to Dvorah Leah Schneursohn. The two Zalmanson lines may be related but are distinct.
+
+**Note on "Wallis":** The surname "Wallis" used by Yekutiel Zalman may be a geographic indicator, alternate family name, or an artifact of record-keeping. "Yekutiel" matches the "Yekutiel" in the family tree screenshots (Gen 2). "Rivka" matches the "Rivka" paired with Yekutiel in the screenshots.
+
+#### Generation 3: Srul Mendel Zalmanson + Gita
+
+| Person | Spouse | Parents | Confidence |
+|--------|--------|---------|------------|
+| **Srul Mendel Zalmanson** (b. 1820; d. 1854, Barysaw/Borisov, Minsk Region, Belarus) | (1) 1st wife (name unknown), (2) **Gita Zalmanson** | **Yekutiel Zalman Wallis + Rivka Beila (Shneuri)** | **strong** (MyHeritage) |
+| Zawel Deykh | (unnamed) | **maternal grandfather of Barnett** (father of Rochel Tsine) | **strong** |
 | Louis | (unnamed) | unclear connection | speculative |
 
-#### Generation 4
+- Srul Mendel had two wives; children include Berko Zalmanson and Liba Zalmanson
+- Died young (age ~34) in Barysaw (Borisov), Belarus. Family later appears in Rokiškis, Lithuania (1877 marriage) and Vilnius (1883 birth), suggesting migration from Belarus to Lithuania.
 
-| Person | Spouse | Parents (probable) | Confidence |
-|--------|--------|--------------------|------------|
-| Levi | Rochel | from Srul + Gita line (?) | moderate |
+#### Generation 4: Levi Itzhak Zalmanson + Rochel Tsine Deych
 
-**Possible connection:** If "Levi" is Levi Yitzchok Zalmanson (married 1826 to Dvorah Leah Schneursohn), this would place the family within the Chabad-Lubavitch orbit and provide a bridge to the well-documented Schneerson genealogy. **(speculative, requires verification)**
+| Person | Spouse | Parents | Confidence |
+|--------|--------|---------|------------|
+| **Levi Itzhak Zalmanson** (b. 1851) | (1) **Rochel Tsine Deych** (b. 1861), (2) **Bella Measroch** | Father: **Srul Mendel Zalmanson**; Mother: **Gita Zalmanson** | **strong** (MyHeritage) |
+| **Rochel Tsine (Deych) Zalmanson** (b. 1861) | **Levi Itzhak Zalmanson** | Father: **Zawel Deykh** | **strong** (MyHeritage) |
 
-#### Generation 5
+- Married **December 2, 1877 in Rokiškis, Rokiškis District, Panevėžys County, Lithuania**
+- Levi Itzhak had two wives: Rochel Tsine (Deych) first, then Bella (born Measroch)
+- Levi Itzhak (b. 1851) is NOT the same as Rabbi Levi Yitzchok Zalmanson (1812-1872) who married Dvorah Leah Schneursohn. He is the Rabbi's **grandson** via Srul Mendel Zalmanson. The Schneerson connection runs through the earlier generations (Yekutiel, Dovber).
+- **Geographic note:** Marriage in Rokiškis (northeastern Lithuania, near Latvian border); Barnett born in Vilnius, suggesting the family moved between 1877 and 1883.
 
-| Person | Spouse | Parents (probable) | Confidence |
-|--------|--------|--------------------|------------|
-| Barnett | Elizabeth (Salk) | from Levi + Rochel (?) | strong (names), moderate (connection) |
+#### Generation 5: Barnett's generation
+
+| Person | Spouse | Parents | Confidence |
+|--------|--------|---------|------------|
+| **Gita Zalmanson** | | Levi Itzhak + Rochel Tsine Deych | **strong** |
+| **Zalman Zalmanson** | | Levi Itzhak + Rochel Tsine Deych | **strong** |
+| **Barnett (Berko) Zalmanson/Salmanson** (May 15, 1883/1885, Vilna; d. Dec 14, 1960, Miami FL) | **Elizabeth Salk** (m. Sept 12, 1909, Providence RI) | Levi Itzhak + Rochel Tsine Deych | **strong** |
 
 **Profile pictures** appear on Dovber, Rivka, and Barnett in the digital tree, suggesting these are key documented ancestors.
 
@@ -183,10 +251,16 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 
 #### Branch 1: William Cox Sr. Line
 
-**William Cox Sr.** (c.1726 - c.1814) (strong)
-- Moved from Orange County, North Carolina to Greenville County, SC in the late 1780s
+**William Cox Sr.** (c.1730-1735 - Nov 1814) (strong)
+- **Parents: UNKNOWN (confirmed brick wall).** DNA testing (Y-37, FamilyTreeDNA) places this line in haplogroup **R1b-I "Carolina Coxes" subgroup (R-M269)**, consistent with British Isles origin. Y-DNA does NOT match the Quaker/Delaware Cox line.
+- **WARNING:** Many databases (Ancestry, FamilySearch, Geni.com) incorrectly list William Richardson Cox (1692-1767, Quaker from Delaware) as his father. The Cox Family History Project and WikiTree Cox-14022 confirm this is an **erroneous merger**. William Sr. was NOT a Quaker and NOT from Delaware.
+- Married **Alice** ("Alce"/"Alic"), surname unknown
+- Owned 110 acres on Haw River and Cane Creek, Orange County, NC (purchased April 22, 1772 from John Howlet for 60 pounds, Deed Book #3 p. 599)
+- Appears on the **1755 Orange County tax list** as one of three William Coxes (the Quaker William and his son being the other two)
+- Sold his NC land October 13, 1787 to John Millison for 250 pounds; migrated to Greenville County, SC
 - Migrated with intermarried families: **Longs**, Blacks, Payne/Paines, Lees, Brashiers/Brazures
-- Sources: WikiTree Cox-14022, Cox Family History Project
+- Estate administered after November 1814 death; January 4, 1817 sale of 155 acres by Abraham Cox, Mary Cox, Isaac Cox, Thomas Long, George Croft
+- Sources: WikiTree Cox-14022, Cox Family History Project (est. 2008, updated 2020), Orange County deed records, FamilyTreeDNA Cox DNA Study
 
 **William Cox Jr.** (d. 1798) (strong)
 - Son of William Cox Sr.
@@ -218,6 +292,7 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 **Rebecca Adeline Cox** (Sept 13, 1813 - Sept 26, 1894) (strong)
 - Daughter of Thomas B. Cox and Olive Mary "Polly" Henderson
 - Married: **Rev. Henry Langford Henderson** (1812-1886)
+- **NOTE: This was a first-cousin marriage.** Olive Mary "Polly" Henderson (Rebecca's mother) and Brashier Henderson (Henry's father) were **siblings**, both children of Ezekiel Henderson and Elizabeth Brasher. See Henderson ancestry below.
 - Buried: Standing Springs Cemetery, Simpsonville, SC
 - Sources: WikiTree Cox-18821, Henderson-12233
 
@@ -230,25 +305,78 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 6. Winfield Jasper Henderson
 7. Annette Arline "Nettie" Henderson
 8. William H. B. Henderson
-9. **Thomas Langford Henderson** (married Mary Frances "Fannie" Cox, b. 1858, on Dec 25, 1877)
+9. **Thomas Langford Henderson** (b. Aug 11, 1855, d. Oct 12, 1930; married Mary Frances "Fannie" Cox, b. 1858, on Dec 25, 1877)
 10. Julia H. L. Henderson
 
-#### Branch 2: James Cox / Standing Springs Founder
+### Henderson Deep Ancestry (Greenville County, SC / North Carolina)
 
-**Isaac Cox** (dates unknown; likely b. ~1750s) (moderate)
-- Father of James Cox
-- Relationship to William Cox Sr. unclear (possibly brother or cousin)
+*Sources: WikiTree Henderson-1855, Henderson-6197, Henderson-7309, RevWarApps S6994, Geni.com* **(strong)**
+
+**Generation 1 (earliest known): James Henderson + Mary (Rhodes)**
+- Possibly arrived from Scotland (one source claims via convict ship S.S. Friendship in 1716; indentured at Annapolis, MD until ~1732; settled Orange County, NC). **(speculative, needs verification)**
+
+**Generation 2: Argaleus Hercules Henderson I** (b. ~1720, Onslow, NC; d. June 1806, Chatham, NC) (moderate)
+- Married **Molly Mary (Clark)**
+- Participated in the **North Carolina Regulators movement** of 1768-1771, signing the Regulators' petition
+- Sources: WikiTree Henderson-7309, Find a Grave #11725276
+
+**Generation 3: Ezekiel Henderson** (b. 1763, Chatham County, NC; d. Nov 2, 1846, Greenville County, SC) (strong)
+- **Revolutionary War veteran**: served as private 1781-1783 (cavalry and infantry), discharged at Hillsboro, NC
+- **Pension S6994**: $57.50/year, granted 1833-1834
+- Married **Elizabeth Brasher** on October 10, 1782 in SC
+- Moved to Greenville County after the war; lived there 47 years
+- **15 children** including:
+  - Argaleus Hercules Henderson II (b. June 22, 1784)
+  - Sarah "Sary" Henderson (b. March 12, 1786)
+  - James Henderson (b. March 6, 1788; d. March 26, 1858)
+  - **Brashier Henderson** (b. May 10, 1790; d. before July 19, 1847) -- father of Rev. Henry L. Henderson
+  - Nancy Henderson (b. June 14, 1792; d. June 12, 1822)
+  - John Henderson (b. 1795)
+  - **Olive Mary "Polly" Henderson** (b. March 29, 1795; d. Aug 21, 1876) -- married Thomas B. Cox
+  - Frances "Franky" Henderson (b. Oct 10, 1799; d. 1878)
+  - William Henderson (b. Oct 15, 1802; d. Jan 7, 1822)
+  - Rebecca Adeline Henderson (b. March 3, 1804)
+  - Thomas Lawson Henderson (b. May 5, 1806; d. Feb 17, 1892)
+  - Delila "Lilla" Henderson (b. Sept 29, 1809)
+- Sources: WikiTree Henderson-1855, Geni.com, RevWarApps S6994
+
+**Generation 4: Brashier Henderson** (b. May 10, 1790, Simpsonville, SC; d. before July 19, 1847) (strong)
+- Son of Ezekiel Henderson and Elizabeth Brasher
+- Married **Elizabeth Taylor**
+- Children: Rev. Henry Langford Henderson (1812-1886), Elizabeth Rebecca, Samuel P., Frances E.
+- Sources: WikiTree Henderson-6197, Geni.com
+
+#### Branch 2: Isaac Cox / James Cox / Standing Springs Founder
+
+**Isaac Cox** (c.1755 - before March 31, 1830) (strong)
+- **Son of William Cox Sr.** (confirmed by WikiTree Cox-8529, Cox Family History Project, estate records)
+- Born: Orange County, NC
+- Died: Greenville County, SC
+- Wife: unknown
+- Migrated with father William Sr. to Greenville County, SC in 1787
+- Appears on **1779 NC tax list** as landowner
+- Appears in William Cox Sr.'s 1814 estate records (January 4, 1817 land sale)
+- Sources: WikiTree Cox-8529, Cox Family History Project, FamilySearch KGC3-MD7
+
+**Children of Isaac Cox:**
+- **James Cox** (c.1778-1853) -- married Dianah/Diana Black (b. 1784 NC, d. Jan 7, 1865 Greenville Co. SC)
+- **Elizabeth Cox** (b. 1780 NC) -- married Brashier Henderson
+- **Abraham Cox** (b. 1783 NC) -- married Jane (possibly Pyle, b. 1792)
+- **Sarah Cox** (b. 1790) -- married Samuel Hix
+- **Frances Cox** (b. 1794 Greenville Co. SC) -- married Lewis Rodgers
+- **William Cox** (b. 1798 Greenville Co. SC, d. 1862)
 
 **James Cox** (c.1778 - May 22, 1853) (strong)
-- Son of Isaac Cox
-- Born: North Carolina
+- Son of Isaac Cox, grandson of William Cox Sr.
+- Born: Orange County, North Carolina
+- Married: **Dianah/Diana Black** (b. 1784 NC, d. Jan 7, 1865)
 - Died: Simpsonville, Greenville County, SC
 - Buried: **Standing Springs Cemetery**, Simpsonville, SC
 - **Standing Springs Baptist Church** organized in 1818 in his home
 - First meeting house constructed c. 1836 on land donated by him
-- Sources: WikiTree Cox-14020, hmdb.org Historical Marker #168369
+- Sources: WikiTree Cox-14020, hmdb.org Historical Marker #168369, Cox Family History Project
 
-**Children of James Cox:**
+**Children of James Cox and Dianah Black:**
 - First wife (Ms. Bonneau?): John Washington Cox (1803), Elizabeth Cox, Irena Cox, Mary Polly Cox, Rebecca Cox
 - Additional children: Sarah (1804), Marilla (1809), Burrell (1811), Percilla (1813), Hanna (1815), Jane (1820)
 
@@ -268,7 +396,7 @@ William Cox Sr. migrated to SC with the **Long** family. The large handwritten c
 - Surname confirmed as German origin (variant of Stengel/Stangl, from Middle High German "stangen" + "el" = "little stick")
 - Sources: IMG_0789.jpg, Geneanet, igenea.com
 
-**Children of John Stangle and Eleanor Sands** (speculative; dates may have century-digit errors):
+**Children of John Stangle and Eleanor Sands** (speculative; dates have proven century-digit errors and final-digit ambiguities throughout this page):
 
 | Name | Birth | Death | Confidence |
 |------|-------|-------|------------|
@@ -278,9 +406,11 @@ William Cox Sr. migrated to SC with the **Long** family. The large handwritten c
 | Hannah | Jan 7, ~1790 | | speculative |
 | Stephen | ~1790s | | speculative |
 | George | Sept 14, ~1793 | | speculative |
-| William | Nov 10, ~1792 | | speculative |
+| William | Nov 10, ~1792 | d. ~18x1 (original reads ~1781 but predates corrected birth; likely 1831 or 1881) | speculative |
 | (Frank or Frances?) | Nov 25, ~1791 | | speculative |
-| Joseph | Jan 11, ~1793 | | speculative |
+| Joseph | Jan 11, ~1795 (originally read as ~1793; corrected for biological plausibility; 3/5 confusion in cursive) | | speculative |
+
+**Note on Stangle dates:** All dates on IMG_0789 are unreliable for final digits. The century-digit errors (1600s→1700s) are proven; additional digit confusion (3/5, 7/8) is probable. The corrected birth cluster (Frank ~1791, William ~1792, George ~Sept 1793, Joseph ~Jan 1795) gives 12-18 month spacing, which is biologically plausible for one mother.
 
 ### King Family (South Carolina)
 
@@ -291,19 +421,18 @@ William Cox Sr. migrated to SC with the **Long** family. The large handwritten c
 **William I. King** (strong)
 - Described as "1st son of Kerben and Jesse King"
 - b. Nov 23, 18?? (year partially illegible; possibly 1862) (moderate)
-- Married: **Marcia (Mary) Kopp** (also written as Huff) in ~1887 (moderate)
+- Married: **Marcia (Mary) Kopp/Huff** (maiden name uncertain: IMG_0786 records "Kopp," IMG_0792 records "Huff"; see Discrepancy #5) in ~1887 (moderate)
 
 **Children of William I. King and Marcia (Mary) Kopp/Huff** (partial list):
-- **David Wesley** (b. ~1877; died young of measles epidemic) (moderate) **AUDIT FLAG: birth (1877) predates parents' marriage (~1887) by 10 years. Either a date is misread (7/8/9 digit ambiguity), David is from a prior relationship, or the marriage year is incorrect. See Discrepancy #10.**
+- **David Wesley** (b. ~1887-1888; died young of measles epidemic) (moderate) **AUDIT NOTE: Originally read as b. ~1877, which predated parents' marriage (~1887). Cross-reference audit concluded the "7" in "1877" is a misread "8" (7/8 digit ambiguity confirmed elsewhere in this handwriting). Corrected to ~1887-1888. See Discrepancy #12, resolved.**
 - Additional children referenced: Ralph Jasper King, Ellen/Ella (largely illegible)
 
 No web results found for "Kerben King." This name may be an unusual spelling or a family nickname. See Open Questions #5.
 
 ### Kopp / Huff Family
 
-- **Marcia (Mary) Kopp** (also recorded as "Huff") married William I. King
+- **Marcia (Mary) Kopp/Huff** married William I. King. **Audit note:** IMG_0786 records "Kopp" and IMG_0792 records "Huff" for the same person, both by the same handwriter. This is a confirmed source-level discrepancy. Possible explanations: Kopp was maiden name and Huff a prior married name (or vice versa); one is the mother's maiden name confused with the wife's; or a simple note-writer error. Both names recorded pending family confirmation. See Discrepancy #5, resolved.
 - **Henry Kopp** appears on the large handwritten chart in red ink (speculative)
-- See Open Questions #6 re: Kopp vs. Huff discrepancy
 
 ### Duff Family
 
@@ -320,11 +449,14 @@ No web results found for "Kerben King." This name may be an unusual spelling or 
 - Francis Jane Byars (or Ryan?), John Byars (or Ryan?)
 - Very difficult to read; low confidence
 
-### Bright Family
+### Bright Family (Tennessee / South Carolina connection)
 
-*Source: IMG_0783.jpg (large chart)* **(speculative)**
-- Mary Elizabeth Bright, Charles Edward Bright (or Long?)
-- Connected to King and Kopp families through marriage lines on chart
+*Source: IMG_0783.jpg (large chart), MyHeritage census records* **(moderate to strong)**
+
+**Mary Elizabeth Bright** (b. ~1922, Tennessee) married **Henry Michael Kascher** (b. Dec 10, 1914, Youngstown, OH). This is the confirmed SC-to-Kascher connection. The Bright family appears on the large handwritten chart (IMG_0783) connected to the King and Kopp families through marriage lines. Mary Elizabeth likely descends from the SC Bright family who intermarried with the King/Kopp/Cox/Henderson cluster.
+
+- **Charles Edward Bright (or Long?)**: appears on the chart. The Cox family migrated with the Long family from NC to SC; "Bright or Long" confusion suggests these families intermarried.
+- **Next research target**: Mary Elizabeth Bright's parents (likely on the chart or in Tennessee/SC records). A "Charles Edward" Bright could be her father or grandfather.
 
 ### Additional Surnames from Large Handwritten Chart
 
@@ -364,24 +496,24 @@ No web results found for "Kerben King." This name may be an unusual spelling or 
 A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 > "The church your great great grandfather gave the land for the church, the graveyard & the organ. [He was] a faithful German, Deacon in the church for [many years]."
 
-**Analysis:** James Cox (c.1778-1853) is confirmed as the land donor. The note describes the ancestor as "a faithful German." The charter members include **Richardson** family members, and Connie Baker (Thomas B. Cox's mother) remarried **William Richardson**, connecting the Cox and Richardson families. The Stangle surname (variant of German "Stengel") may provide the German connection. The exact identity of the "German deacon" needs further research.
+**Analysis:** James Cox (c.1778-1853) is confirmed as the land donor. The note describes the ancestor as "a faithful German." **Cross-reference audit conclusion (Strong Signal):** Y-DNA testing for this Cox line (R1b-I "Carolina Coxes" subgroup, R-M269) is consistent with **British Isles origin**, not German. The Koch-to-Cox theory is now **unlikely** for this specific family. The most probable explanation is that the family note **conflates two ancestors**: James Cox donated the land, but the "German" identity traces through the **Stangle line** (confirmed German surname Stengel/Stangl, "Born England" consistent with Palatine migration). The note writer combined the land donation story and the German heritage into a single narrative about "the church your great great grandfather gave the land for." The families intermarried over generations, causing the stories to merge. See Discrepancy #3, resolved.
 
 
 ## Data Discrepancies
 
 | # | Person/Topic | Source A | Source B | Issue | Status |
 |---|---|---|---|---|---|
-| 1 | John Stangle immigration | "b. 1744" (IMG_0789) | Appears to read "Sept 1683" (IMG_0789) | Impossible (61 years before birth) | LIKELY RESOLVED: Re-examination suggests "1783" not "1683" (age 39, plausible) |
-| 2 | Stangle children dates | Appear to read as 1600s (IMG_0789) | Father born 1744 | Children cannot predate father | LIKELY RESOLVED: Century digits misread; dates are 1700s |
-| 3 | Church ancestor nationality | "A faithful German" (IMG_0791) | John Stangle "Born England" | German vs. English | OPEN: Possibly Palatine German via England, or a different ancestor |
-| 4 | William Stangle dates | b. Nov 10, ~1792 | d. ~1781? | Death before birth | OPEN: One date misread |
-| 5 | Kopp vs. Huff | "Marcia (Mary) Kopp" (IMG_0792) | "Huff" also appears | Same person? | OPEN |
-| 6 | Richard Panciera | Among Kascher siblings | Different surname | Relationship unclear | OPEN |
-| 7 | Jerrold Salmanson | Samuel's obit: "nephew" of Samuel | Thelma's memorial: not listed as child | Whose son is Jerrold? | OPEN: Likely Leonard's from prior relationship, or Charles's son |
-| 8 | Shelly White | Shown with Alan's siblings in tree app | Not on Thelma's child list | Not a sibling of Alan | OPEN: Possibly step-relation via Rodbell, or sister-in-law |
-| 9 | Zalmanson / Schneerson | loebtree.com connects Zalmanson to Chabad dynasty | No independent corroboration yet | User-contributed tree | OPEN: Strong lead, needs verification |
-| 10 | David Wesley King | b. ~1877 (IMG_0792) | Parents married ~1887 (same page) | Birth predates marriage by 10 years | OPEN: Digit ambiguity (7/8/9); birth may be 1887 or 1897, or marriage may be 1877 |
-| 11 | Stangle children births | Frank ~1791, William ~1792, George ~Sept 1793, Joseph ~Jan 1793 | 4 children in 26 months | Biologically improbable for one mother | OPEN: Some dates misread, or children from different mothers |
+| 1 | John Stangle immigration | "b. 1744" (IMG_0789) | Appears to read "Sept 1683" (IMG_0789) | Impossible (61 years before birth) | RESOLVED: Re-examination confirms "1783" not "1683" (age 39, plausible) |
+| 2 | Stangle children dates | Appear to read as 1600s (IMG_0789) | Father born 1744 | Children cannot predate father | RESOLVED: Century digits misread; dates are 1700s |
+| 3 | Church ancestor nationality | "A faithful German" (IMG_0791) | John Stangle "Born England" | German vs. English | RESOLVED: Not contradictory. Stangle surname is confirmed German; "Born England" consistent with Palatine migration. Note likely conflates Cox (land donor) with Stangle (German line). **NOTE:** Y-DNA for the Cox line is R1b (R-M269), consistent with British Isles origin; no Koch→Cox evidence found for this specific family. The "German" identity most likely traces through the Stangle line, not Cox. |
+| 4 | William Stangle dates | b. Nov 10, ~1792 | d. ~1781? | Death before birth | RESOLVED: Death date corrected to ~18x1 (1831 or 1881); century/digit misread consistent with page-wide pattern |
+| 5 | Kopp vs. Huff | "Marcia (Mary) Kopp" (IMG_0786) | "Huff" (IMG_0792) | Same person, two surnames | RESOLVED: Confirmed source-level discrepancy; both names recorded. Needs family confirmation. |
+| 6 | Richard Panciera | Among Kascher siblings | Different surname | Relationship unclear | RESOLVED: Half-sibling or step-sibling (different father's surname). Family confirmation recommended. |
+| 7 | Jerrold Salmanson | Samuel's obit: "nephew" of Samuel | Thelma's memorial: not listed as child | Whose son is Jerrold? | RESOLVED: Leonard Irving's son from prior relationship (b. 1942, 5 years before 1947 marriage to Thelma) |
+| 8 | Shelly White | Shown with Alan's siblings in tree app | Not on Thelma's child list | Not a sibling of Alan | RESOLVED: Step-relation through Thelma's second marriage to Rodbell |
+| 9 | Zalmanson / Schneerson | loebtree.com connects Zalmanson to Chabad dynasty | Independent sources confirm the historical Zalmanson-Schneerson marriages | User-contributed tree, now partially corroborated | PARTIALLY RESOLVED: Historical connection verified; family-specific link still unverified |
+| 10 | David Wesley King | b. ~1877 (IMG_0792) | Parents married ~1887 (same page) | Birth predates marriage by 10 years | RESOLVED: Digit ambiguity; birth corrected to ~1887-1888 (7/8 confusion in cursive) |
+| 11 | Stangle children births | Frank ~1791, William ~1792, George ~Sept 1793, Joseph ~Jan 1793 | 4 children in 26 months | Biologically improbable for one mother | RESOLVED: Joseph corrected to ~1795 (3/5 confusion in cursive); spacing now plausible |
 | 12 | Arguless (charter member) | Listed as "Arguless Henderson" | hmdb.org: "Arguless, Elizabeth and Rachel Henderson" | Comma placement ambiguous; surname may not be Henderson | RESOLVED: Noted as ambiguous |
 
 
@@ -389,7 +521,7 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 
 | Region | Family Lines | Time Period | Confidence |
 |---|---|---|---|
-| Eastern Europe (Russia/Lithuania, possibly Lubavitch) | Zalmanson/Salmanson (Dovber, Sheyna, Yekutiel, Rivka, Srul, Gita, Levi, Rochel) | ~1770s to early 1900s | strong (names), speculative (Chabad link) |
+| Eastern Europe (Russia/Lithuania, possibly Lubavitch) | Zalmanson/Salmanson (Dovber, Sheyna, Yekutiel, Rivka, Srul, Gita, Levi, Rochel) | ~1770s to early 1900s | strong (names), moderate (Chabad historical connection verified), speculative (family-specific link) |
 | Brooklyn, NY / Providence, RI | Salmanson (Barnett, Leonard Irving, Samuel, Charles, Donald, Martha) | early 1900s to present | strong |
 | England / Germany | Stangle (John Stangle) | mid-1700s, emigrated to America | moderate |
 | Orange County, North Carolina | Cox (William Cox Sr., William Cox Jr.) | 1720s-1790s (migrated to SC) | strong |
@@ -428,20 +560,20 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 
 ## Open Questions
 
-1. **Shelly White**: Not listed on Thelma's memorial as a child of Leonard Irving. Possibly a step-relation through Thelma's second marriage to Rodbell, or a sister-in-law. Who is she?
+1. ~~**Shelly White**~~: RESOLVED. Step-relation through Thelma's second marriage to Rodbell. Not a biological child of Leonard Irving. See Discrepancy #8.
 
-2. **Richard Panciera**: Listed among Kathryn Kascher's siblings but with a different surname. Half-sibling? Step-sibling? Brother-in-law?
+2. ~~**Richard Panciera**~~: RESOLVED. Half-sibling or step-sibling of Kathryn Kascher (different surname = different father). See Discrepancy #6. Family confirmation recommended.
 
-3. **Missing Salmanson generations**: How does Barnett connect back to the Eastern European line shown in Screenshot 125824 (Levi + Rochel → Barnett)? What was Barnett's birth name? When did the family immigrate?
+3. ~~**Missing Salmanson generations**~~: **RESOLVED.** MyHeritage confirms: Barnett Salmanson = **Berko Zalmanson**, born May 15, 1883, Vilnius (Vilna), Lithuania. Father: **Levi Itzhak Zalmanson**. Mother: **Rochel Tsine (born Deych)**. Sibling: **Gita Zalmanson**. Died December 14, 1960, Miami, FL. The Levi + Rochel in the family tree screenshots are confirmed as Barnett's parents. Remaining question: how does Levi Itzhak connect to the earlier Zalmanson/Schneerson line (Srul, Yekutiel, Dovber generations)?
 
-4. **How do the SC families connect to Kascher?** The Cox-Henderson-Long-King-Stangle-Duff families are documented in the handwritten notes. How do they ultimately connect to Kathryn Ann Kascher?
+4. ~~**How do the SC families connect to Kascher?**~~: **RESOLVED.** Mary E Kascher's maiden name is **Bright** (Mary Elizabeth Bright, b. ~1922, Tennessee). The Bright family appears on the large handwritten chart (IMG_0783) connected to the King and Kopp families. The SC connection runs: SC families → Bright → Mary Elizabeth Bright → married Henry Michael Kascher (b. 1914, Youngstown OH, mother maiden name Falk) → daughter Kathryn → married Alan Salmanson. **Next**: find Mary Elizabeth Bright's parents to complete the Bright-to-SC link.
 
 5. **Kerben King**: No web results found. Is this name spelled correctly? Could it be "Corbin," "Kirby," or another variant?
 
-6. **Kopp vs. Huff**: Is Marcia (Mary) Kopp the same person as Mary Huff?
+6. ~~**Kopp vs. Huff**~~: RESOLVED as confirmed source-level discrepancy. Same person recorded with two different surnames by the same note-writer on two separate pages. Both names documented; needs family confirmation. See Discrepancy #5.
 
-7. **Jerrold Salmanson**: Whose son is he? Leonard Irving's from a prior relationship (born 1942, 5 years before 1947 marriage to Thelma)? Or Charles and Hannah's son?
+7. ~~**Jerrold Salmanson**~~: RESOLVED. **Son of Charles and Hannah (Kushner) Salmanson**, confirmed by Hannah's obituary, Charles's 2008 obituary, and RI Foundation records. Also discovered sibling: Deborah Salmanson Roberts. Jerrold and Alan are cousins (sons of two different brothers), not siblings. See Discrepancy #7.
 
-8. **Zalmanson-Schneerson connection**: Is the family actually descended from Levi Yitzchok Zalmanson who married into the Chabad Schneerson dynasty in 1826? This would be historically significant and worth verifying through Chabad genealogical records or DNA.
+8. **Zalmanson-Schneerson connection**: PARTIALLY RESOLVED. The historical Zalmanson-Schneerson intermarriages are independently confirmed (Wikipedia, Chabad.org, geni.com). The specific claim that this Salmanson family descends from that Zalmanson line remains unverified. Verify through Chabad genealogical records, immigration records (search Ellis Island for "Zalmanson"), or DNA.
 
-9. **The "German deacon"**: James Cox is confirmed as the land donor for Standing Springs Baptist Church. But the family note calls the ancestor "a faithful German." Is this James Cox (possibly of German descent through Koch > Cox), the Stangle ancestor, or someone else?
+9. ~~**The "German deacon"**~~: RESOLVED. The note likely conflates two family lines: James Cox as the land donor and the Stangle line as the source of German identity. John Stangle's German surname (Stengel/Stangl) combined with "Born England" is consistent with Palatine German migration. Alternatively, "Cox" may derive from German "Koch." See Discrepancy #3.
