@@ -203,9 +203,16 @@ The names in the family tree screenshots (Dovber, Yekutiel, Rivka, Srul, Levi, R
 |--------|--------|---------|------------|
 | **Yekutiel Zalman Wallis** | **Rivka Beila Wallis (born Shneuri)** | from Yosef + Luba / Dovber + Sheyna lines (?) | **strong** (MyHeritage, confirmed as Srul Mendel's parents) |
 
-**Note on "Shneuri":** Rivka Beila's maiden name **Shneuri** is a variant of **Schneuri/Schneerson**. This likely indicates descent from the **Shneur Zalman of Liadi** dynasty (founder of Chabad-Lubavitch). The Schneerson/Chabad connection to this family appears to run through the MATERNAL line (Rivka Beila Shneuri → Srul Mendel → Levi Itzhak → Barnett), not through the previously hypothesized 1826 marriage of Rabbi Levi Yitzchok Zalmanson to Dvorah Leah Schneursohn. The two Zalmanson lines may be related but are distinct.
+**SCHNEERSON CONNECTION CONFIRMED (Strong Signal).** Rivka Beila's maiden name **Shneuri** is confirmed: she was a **daughter of the Mitteler Rebbe** (Rabbi Dovber Shneuri, 1773-1827, 2nd Lubavitcher Rebbe) and a **granddaughter of Shneur Zalman of Liadi** (the Alter Rebbe, 1745-1812, founder of Chabad-Lubavitch). Sources: Geni.com (multiple profiles), Chabad.org, JewishGen, shulchanaruchharav.com.
 
-**Note on "Wallis":** The surname "Wallis" used by Yekutiel Zalman may be a geographic indicator, alternate family name, or an artifact of record-keeping. "Yekutiel" matches the "Yekutiel" in the family tree screenshots (Gen 2). "Rivka" matches the "Rivka" paired with Yekutiel in the screenshots.
+**Yekutiel Zalman Wallis/Volis** was a son-in-law of the Mitteler Rebbe (married Rivka Beila ~1807). The surname "Wallis" is a transliteration of "Volis," a Ukrainian Jewish surname. His father was **Yosef Bunim**, himself a son-in-law of Rabbi Levi Yitzchak of Berditchev.
+
+**Srul Mendel Zalmanson was a BROTHER of Rabbi Levi Yitzchok Zalmanson (1812-1872)**, not his descendant. Both were sons of Yekutiel Zalman + Rivka Beila. Other known siblings include Sarah Freida (married Israel Noah Schneerson, the Rebbe of Nizhyn). The family's connection to the Schneerson dynasty runs through BOTH lines:
+1. **Maternal**: mother Rivka Beila was the Mitteler Rebbe's daughter (→ granddaughter of the Alter Rebbe)
+2. **Fraternal**: brother Rabbi Levi Yitzchok married Dvorah Leah Schneursohn (daughter of the Tzemach Tzedek, 3rd Rebbe)
+
+**Complete direct lineage from Alter Rebbe to present:**
+Shneur Zalman of Liadi (1745-1812) → Dovber Shneuri (1773-1827) → Rivka Beila + Yekutiel Zalman Volis → Srul Mendel Zalmanson (1820-1854) → Levi Itzhak Zalmanson (1851) → Berko/Barnett Salmanson (1883-1960) → Leonard Irving (1910-1975) → Alan Carl → Leonard Daniel (L.D.)
 
 #### Generation 3: Srul Mendel Zalmanson + Gita
 

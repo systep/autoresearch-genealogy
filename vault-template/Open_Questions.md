@@ -20,12 +20,7 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Payoff**: HIGH
 
 ### 2. Yekutiel Zalman Wallis and Rivka Beila (Shneuri) identity
-- **The question**: Srul Mendel Zalmanson's father is listed as "Yekutiel Zalman Wallis" and mother as "Rivka Beila Wallis (born Shneuri)." Is "Wallis" a surname, a geographic indicator, or a recording artifact? Does "Shneuri" confirm descent from the Schneerson dynasty?
-- **Impact**: Resolving this would (a) clarify the Schneerson connection, (b) potentially extend the Zalmanson line back further, (c) connect to well-documented Chabad genealogy.
-- **Next step**: Search geni.com for Yekutiel Zalman Wallis. Search Chabad genealogy records for Rivka Beila Shneuri. Check if "Wallis" could mean "from Vilna" (Vilner = Wallis?).
-- **Evidence so far**: MyHeritage lists these as Srul Mendel's parents. "Shneuri" = variant of Schneuri/Schneerson. Yekutiel and Rivka match the names in the family tree screenshots.
-- **Solvability**: MODERATE
-- **Payoff**: HIGH
+- **RESOLVED (2026-04-10)**: Rivka Beila (Shneuri) was a **daughter of the Mitteler Rebbe** (Rabbi Dovber Shneuri, 2nd Lubavitcher Rebbe) and **granddaughter of Shneur Zalman of Liadi** (Alter Rebbe, founder of Chabad). "Wallis" = transliteration of "Volis" (Ukrainian Jewish surname). Yekutiel Zalman Volis's father was Yosef Bunim, a son-in-law of Rabbi Levi Yitzchak of Berditchev. Srul Mendel and Rabbi Levi Yitzchok Zalmanson (1812-1872) were BROTHERS. **Strong Signal**: Geni.com (multiple profiles), Chabad.org, shulchanaruchharav.com, JewishGen.
 
 ### 3. Kerben King identity
 - **The question**: "Kerben King" + wife "Jesse" appear in handwritten notes (IMG_0792) as ancestors of William I. King. No web results for "Kerben King." Is the name misspelled?
@@ -71,7 +66,7 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **RESOLVED (2026-04-09)**: Y-DNA for Cox line is R1b (British Isles). "German" identity traces through Stangle line. Note conflates two ancestors.
 
 ### R6. Zalmanson-Schneerson connection
-- **PARTIALLY RESOLVED (2026-04-10)**: Historical Zalmanson-Schneerson marriages confirmed (Strong Signal). Family-specific connection now traced through Rivka Beila Shneuri (Srul Mendel's mother), a maternal line. Specific link to Chabad dynasty plausible but not definitively documented.
+- **RESOLVED (2026-04-10)**: **CONFIRMED at Strong Signal.** Rivka Beila (Shneuri) was a daughter of the Mitteler Rebbe, granddaughter of the Alter Rebbe (founder of Chabad). Srul Mendel and Rabbi Levi Yitzchok Zalmanson were brothers. Direct lineage: Shneur Zalman of Liadi → Dovber Shneuri → Rivka Beila → Srul Mendel → Levi Itzhak → Barnett. Sources: Geni.com, Chabad.org, JewishGen, shulchanaruchharav.com.
 
 ## Data Acquisition Priorities
 
