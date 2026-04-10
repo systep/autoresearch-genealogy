@@ -21,7 +21,7 @@ tags: [genealogy, kascher, person, ohio, new-york]
 |---|---|---|
 | Full Name | Henry Michael Kascher | Ohio Birth Index |
 | Born | December 10, 1914, Youngstown, Mahoning County, Ohio | Ohio Birth Index |
-| Died | Unknown | |
+| Died | **January 10, 1987** (age 72), buried **Tod Homestead Cemetery, Youngstown, Ohio** | Gravestone, MyHeritage |
 | Father | **Michael Kascher** (Feb 11, 1889, Waldhütten, Transylvania, Austria-Hungary; d. June 7, 1975, Fort Lauderdale, FL) | MyHeritage |
 | Mother | **Rosina Falk** (m. 1913) | MyHeritage, Ohio Birth Index |
 | Spouse | [[Mary_Elizabeth_Bright]] (~1922, Tennessee) | 1950 Census, MyHeritage |
@@ -31,7 +31,21 @@ tags: [genealogy, kascher, person, ohio, new-york]
 
 Henry Michael Kascher was born December 10, 1914 in Youngstown, Mahoning County, Ohio, the son of **Michael Kascher** (b. Feb 11, 1889, Waldhütten, Transylvania, Austria-Hungary; d. June 7, 1975, Fort Lauderdale, FL) and **Rosina Falk** (m. 1913). His father was a **Transylvanian Saxon** (ethnic German community settled in present-day Romania since the 12th century). Siblings: Helen (m. Johnny Braendorf), Gerry, Sophia.
 
-**NOTE:** The handwritten family chart listed the father as "John Kascher" but MyHeritage confirms **Michael Kascher**. "John" may be a nickname, middle name, or chart error.
+**NOTE:** The handwritten family chart listed the father as "John Kascher" but MyHeritage and the 1930 census confirm **Michel/Michael Kascher**. The father's birthplace is listed as "Romania" in the 1930 census (Transylvania became part of Romania after WWI in 1918).
+
+**1930 Census**: age 15, Austintown, Mahoning County, Ohio (near Youngstown). Family home: 1559 Mahoning Avenue, Youngstown.
+
+**1935**: Traveled to Germany aboard **SS Hamburg**, arriving New York June 27, 1935 (age 20). Listed on passenger manifest as US citizen, returning from Hamburg. This trip was likely connected to his involvement in German basketball/sports officiating.
+
+**1936 Berlin Olympics**: Served as Timekeeper/Scorer for basketball, representing Germany (age 21).
+
+**~1940-1945**: Moved to Rochester, NY for employment at Eastman Kodak.
+
+**1945 Rochester City Directory** (R.L. Polk & Co.): "Kascher Henry M chem 755 Ridge rd r 405 Flower City pk" -- Chemist at 755 Ridge Road (Kodak DPI facility), renting at 405 Flower City Park.
+
+**1948 Rochester City Directory**: "Kascher Henry M (Mary E) chem 755 Ridge rd h" -- Married to Mary E (Bright), homeowner. Workplace unchanged.
+
+**Member, American Chemical Society.** Specialty: Pharmaceutical Chemistry (General). Employment specialty: Organic Chemistry. Career: Research/Development, later Technical Sales/Marketing.
 
 He was a **research chemist and inventor** at **Eastman Kodak** in Rochester, NY (Distillation Products, Inc. division, Research Laboratories). His published work and patents include:
 
