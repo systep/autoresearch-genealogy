@@ -1,7 +1,7 @@
 ---
 type: reference
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
+created: 2026-04-09
+updated: 2026-04-10
 tags: [genealogy, research, open-questions]
 ---
 
@@ -11,32 +11,74 @@ Research gaps and unresolved questions, organized by priority and family line. U
 
 ## High Priority (Would Significantly Advance Understanding)
 
-### 1. [Question Title]
-- **The conflict**: [Describe what two or more sources say differently]
-- **Impact**: [What resolving this would unlock]
-- **Next step**: [Specific action to take]
-- **Possible resolution**: [Hypotheses for what the answer might be]
-- **Evidence update**: [Date and any new findings]
+### 1. Mary Elizabeth Bright's parents and the SC connection
+- **The question**: Mary Elizabeth Bright (b. ~1922, Tennessee) married Henry Michael Kascher. She is the link between the Kascher family and the SC families (King, Kopp, Cox, Henderson, Stangle). Who are her parents? Is "Charles Edward Bright" from the handwritten chart her father or grandfather?
+- **Impact**: Resolving this would complete the path from the SC colonial families to the present-day family.
+- **Next step**: Search MyHeritage for Mary Elizabeth Bright's parents in 1930 census (Irondequoit, Monroe, NY). Search for Charles Edward Bright in Tennessee and South Carolina records.
+- **Evidence so far**: Bright surname on large handwritten chart (IMG_0783) connected to King and Kopp families. Mary E Bright born TN, in Irondequoit NY by 1930.
+- **Solvability**: HIGH
+- **Payoff**: HIGH
 
-### 2. [Question Title]
-- **RESOLVED ([Date])**: [Brief resolution statement and source]
+### 2. Yekutiel Zalman Wallis and Rivka Beila (Shneuri) identity
+- **The question**: Srul Mendel Zalmanson's father is listed as "Yekutiel Zalman Wallis" and mother as "Rivka Beila Wallis (born Shneuri)." Is "Wallis" a surname, a geographic indicator, or a recording artifact? Does "Shneuri" confirm descent from the Schneerson dynasty?
+- **Impact**: Resolving this would (a) clarify the Schneerson connection, (b) potentially extend the Zalmanson line back further, (c) connect to well-documented Chabad genealogy.
+- **Next step**: Search geni.com for Yekutiel Zalman Wallis. Search Chabad genealogy records for Rivka Beila Shneuri. Check if "Wallis" could mean "from Vilna" (Vilner = Wallis?).
+- **Evidence so far**: MyHeritage lists these as Srul Mendel's parents. "Shneuri" = variant of Schneuri/Schneerson. Yekutiel and Rivka match the names in the family tree screenshots.
+- **Solvability**: MODERATE
+- **Payoff**: HIGH
+
+### 3. Kerben King identity
+- **The question**: "Kerben King" + wife "Jesse" appear in handwritten notes (IMG_0792) as ancestors of William I. King. No web results for "Kerben King." Is the name misspelled?
+- **Next step**: Search for "Corbin King" OR "Kirby King" OR "Corben King" in Greenville County SC records. Check Ancestry/FamilySearch for King family in Greenville SC 1800s.
+- **Solvability**: MODERATE
+- **Payoff**: MODERATE
 
 ## Medium Priority
 
-### 3. [Question Title]
-- **The question**: [What we don't know]
-- **Minimum records needed**: [What document would answer this]
-- **Search strategy**: [Where to look]
-- **Solvability**: HIGH / MODERATE / LOW
-- **Payoff**: HIGH / MODERATE / LOW
+### 4. Barnett's birth year discrepancy
+- **The conflict**: MyHeritage family tree says 1883; MyHeritage records say 1885. Both cite Vilna, Lithuania.
+- **Minimum records needed**: SS Baltic passenger manifest (Dec 23, 1904) would list his age at arrival, narrowing the birth year.
+- **Solvability**: HIGH (manifest exists)
+- **Payoff**: LOW (minor date clarification)
 
-## Low Priority / Future Research
+### 5. Bella Measroch (Levi Itzhak's second wife)
+- **The question**: Levi Itzhak Zalmanson had two wives: Rochel Tsine Deych and Bella (born Measroch). Who was Bella? Were the marriages sequential (after Rochel Tsine's death) or was one a replacement for a data error?
+- **Next step**: Check Bella Measroch's profile on MyHeritage. Check if Rochel Tsine has a death date.
+- **Solvability**: MODERATE
+- **Payoff**: LOW
 
-### 4. [Question Title]
-- [Brief description. Lower priority because resolution would not significantly change the tree.]
+### 6. Richard Panciera's exact relationship to Kascher family
+- **The question**: Richard Panciera appears as a half/step-sibling of Kathryn Kascher. Panciera is Italian, concentrated in Westerly, RI. Which Kascher parent had a prior relationship with a Panciera?
+- **Next step**: Search for Henry M Kascher or Mary Elizabeth Bright marriage/divorce records. Search for Richard Panciera birth record.
+- **Solvability**: MODERATE
+- **Payoff**: LOW
+
+## Resolved Questions
+
+### R1. Missing Salmanson generations
+- **RESOLVED (2026-04-09)**: Barnett = Berko Zalmanson, born May 15, 1883, Vilna, Lithuania. Father: Levi Itzhak Zalmanson. Mother: Rochel Tsine Deych. Immigration: SS Baltic, Dec 23, 1904. Source: MyHeritage.
+
+### R2. How do SC families connect to Kascher?
+- **RESOLVED (2026-04-10)**: Mary E Kascher's maiden name is Bright (Mary Elizabeth Bright, b. ~1922 Tennessee). Bright family on handwritten chart connected to King/Kopp. Source: MyHeritage census records.
+
+### R3. Jerrold Salmanson's parentage
+- **RESOLVED (2026-04-09)**: Son of Charles and Hannah (Kushner) Salmanson. Source: Hannah's obit, Charles's obit, RI Foundation.
+
+### R4. Shelly White's relationship
+- **RESOLVED (2026-04-09)**: Step-relation via Thelma's second marriage to Rodbell.
+
+### R5. Church ancestor nationality ("German")
+- **RESOLVED (2026-04-09)**: Y-DNA for Cox line is R1b (British Isles). "German" identity traces through Stangle line. Note conflates two ancestors.
+
+### R6. Zalmanson-Schneerson connection
+- **PARTIALLY RESOLVED (2026-04-10)**: Historical Zalmanson-Schneerson marriages confirmed (Strong Signal). Family-specific connection now traced through Rivka Beila Shneuri (Srul Mendel's mother), a maternal line. Specific link to Chabad dynasty plausible but not definitively documented.
 
 ## Data Acquisition Priorities
 
 | Priority | Record Type | Location | Expected Yield | Cost |
 |---|---|---|---|---|
-| 1 | [Record type] | [Archive/database] | [What it would reveal] | Free / Paid / In-person |
+| 1 | SS Baltic passenger manifest, Dec 23, 1904 | Ellis Island / Ancestry.com | Barnett's exact age, traveling companions, last residence | Free (Ellis Island) or Subscription |
+| 2 | 1930 US Census: Bright family, Irondequoit NY | Ancestry / FamilySearch / MyHeritage | Mary Elizabeth Bright's parents and siblings | Subscription |
+| 3 | Geni.com: Yekutiel Zalman Wallis | geni.com | Parents, Schneerson connection | Free |
+| 4 | SC marriage records: Bright + King or Bright + Kopp | Ancestry / FamilySearch | Bright-SC family link | Subscription |
+| 5 | 1920 US Census: Barnett Salmanson, Providence RI | Ancestry / FamilySearch | Household composition, immigration year | Subscription |
