@@ -344,9 +344,32 @@ Samuel Moseley + Patty Holloway: confirmed. Rebecca Moseley + James Huff 1793: c
 ### Thomas Manning Cox: CONFIRMED (Tier 1 sources)
 Headstone + 1850 census + 1860 census all confirm. CORRECTION: Manning's father is William Cox (b. ~1798) + Eliza, NOT Thomas B. Cox directly. William is probably Thomas B.'s son William J. "Billy Slick" Cox.
 
-### New Lines from MyHeritage Tree (Tier 3, unverified)
+### New Salk/Markel ancestry from MyHeritage Tree (Tier 3, unverified)
 Elizabeth Salk's father: Abraham (Charles) Zolly Salk + mother Tauba. Grandparents: Louis E.L.S. + Rose.
 Thelma Markel's parents: Morris M.M.M. Markel + Helen Brandt. Morris's parents: Heschel Herman Markel + Leah Frei. Helen's parents: Joseph Brandt + Brina Goldbaum.
+
+---
+
+## 2026-04-10: MyHeritage Pedigree Charts (Tier 3, verification needed)
+
+### SC Maternal Side -- New Parents Identified
+- **Larkin Long** + **Sarah S.** = William Thomas Long's parents (confirms handwritten notes "Larken and Sarah Long")
+- **Lewis P Huff** + **Mary Brashier** = Mary Elizabeth Huff's parents. "Lewis P" confirms the handwritten notes said "Lewis" not "Philemon." Mother is a BRASHIER -- the Brashiers migrated with the Coxes from NC to SC!
+- **George Michael [Bright]** + **Mary M. Neil** = Samuel Graham Bright's parents
+- **James YOUN... [Youngblood]** + **Mary BAILEY** = William H. Youngblood's parents
+- **Jeddiah W. Clark** + **Gilley Elizabeth** confirmed on the chart
+- **William Cox** + **Eliza** confirmed as Manning Cox's parents
+
+### Transylvanian Kascher/Falk Side -- Great-Great-Grandparents
+All from MyHeritage tree, classic Transylvanian Saxon names:
+- Georg Kascher + Maria Wagner (already known)
+- Johann Schuller + Sara Benning (Sara Schuller's parents)
+- Johann Krause + Esthera Theil (connection to Kascher unclear)
+- Christian Weber + Sara Valetnin (Anna Weber's parents)
+- Mathias Johann + Katheri... Konnerth (Mathias Falk's maternal grandparents?)
+- Johann Probst... [Probstdorfer] + Maria Ranft (Agnetha Probstdorfer's parents)
+- Mathias Pfaff + Katheri... Reinerth (older Mathias Pfaff's parents)
+- Johann Dressler + Katheri... Sommer (Katherina Dressler's parents)
 
 ---
 
