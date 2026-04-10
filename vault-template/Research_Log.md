@@ -330,6 +330,14 @@ Verification found Thomas Manley Cox (son of Thomas B.) may have married Sarah E
 ### Kascher verification
 Georg Kascher 1792: corroborated (Genealogy.com). Anna Binder 1868-1915: corroborated (Siebenbuerger.de). Falk/Pfaff individuals: unverified. Rosina living to 103: unverified.
 
+### SC Pedigree Verification
+**CRITICAL CORRECTION**: William Cox (b.1798) = **Isaac Cox's son** (Cox Family History Project), NOT Thomas B. Cox's. Manning Cox descends from Isaac's branch: Wm Cox Sr. → Isaac → William (1798) → Manning (1828).
+**Lewis Huff + Mary Eliza Brashier**: CONFIRMED (WikiTree Huff-142). Lewis b. 1803 VA, d. 1873 SC. "Elizabeth" in children list may = Mary Elizabeth.
+**Larkin Long + Sarah**: UNVERIFIED (MyHeritage only).
+**James Youngblood + Mary Bailey**: UNVERIFIED (WikiTree says Bradley not Bailey).
+**Jeddiah Clark + Gilley Baldwin**: PARTIALLY CONFIRMED (Baldwin family in community, specific parents Tier 3 only).
+**George Michael + Mary Neil**: generation confusion; likely George (1782-1873) = Samuel Graham Bright's father.
+
 ### Independent Verification of Extended Lines
 
 **Brecht/Bright 1563-1794: CONFIRMED (6 generations, Strong Signal)**
