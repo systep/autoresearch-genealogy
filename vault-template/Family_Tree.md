@@ -430,7 +430,7 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 
 #### Connection: Cox intermarried families include **Longs** — CONFIRMED link to present family
 
-William Cox Sr. migrated to SC with the **Long** family in the 1780s. The original Cox-Long intermarriage was **Thomas Long + Rachel Cox** (daughter of Isaac Cox, granddaughter of William Cox Sr.). Thomas Long appears in the 1790 Greenville District census and in the **1817 Cox estate sale** as a connected family member. Rachel Cox died 1824. **The Cox-Long intermarriage is now fully documented**:
+William Cox Sr. migrated to SC with the **Long** family in the 1780s. The original Cox-Long intermarriage was **Thomas Long + Rachel Cox**. **CORRECTION: Rachel Cox was a DAUGHTER of William Cox Sr., not of Isaac Cox.** Rachel and Isaac were SIBLINGS, both children of William Cox Sr. + Alice. (Source: Cox Family History Project, more authoritative than WikiTree Cox-2286 which conflates two different Rachel Coxes.) Thomas Long appears in the 1790 Greenville District census and in the **1817 Cox estate sale** as a connected family member. Rachel Cox died 1824. **The Cox-Long intermarriage is now fully documented**:
 
 **Complete SC-to-present lineage (MyHeritage, Strong Signal):**
 ```
