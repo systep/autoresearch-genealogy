@@ -1,16 +1,17 @@
 ---
 type: person
 name: "Rosina Falk"
-born: 1896
-died: 1999
+born: 1905-07-04
+died: 1928-05-27
 family: "Falk"
 confidence: strong
 sources:
   - "Marriage record (microfilm #001290365)"
   - "MyHeritage family tree"
   - "Henry Michael Kascher person file"
+  - "Waldhutten church certificate (1938, Tier 1)"
 created: 2026-04-10
-tags: [genealogy, falk, kascher, person, pennsylvania, ohio, transylvanian-saxon]
+tags: [genealogy, falk, kascher, person, pennsylvania, ohio, colorado, transylvanian-saxon]
 ---
 
 # Rosina Falk
@@ -19,14 +20,16 @@ tags: [genealogy, falk, kascher, person, pennsylvania, ohio, transylvanian-saxon
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Rosina (Rasina) Falk | MyHeritage, marriage record |
-| Born | 1896 | MyHeritage |
-| Died | 1999 (age 103) | MyHeritage |
+| Full Name | Rosina (Rasina) Falk Kascher | MyHeritage, marriage record, church certificate |
+| Born | **July 4, 1905** | Waldhutten church certificate (1938, Tier 1) |
+| Died | **May 27, 1928, Denver, Colorado** (age 22) | Waldhutten church certificate (1938, Tier 1) |
+| Cause of Death | **Tuberculosis** | Waldhutten church certificate (1938, Tier 1) |
+| Burial | **Tod Homestead Cemetery, Youngstown, Ohio** | Waldhutten church certificate (1938, Tier 1) |
 | Father | Mathias Falk (1867-1934) | MyHeritage |
 | Mother | Katharina Pfaff (1871-deceased) | MyHeritage |
 | Paternal Grandparents | Mathias Falk (1837-1892) + Agnetha Probstdorfer (1847-1888) | MyHeritage |
 | Maternal Grandparents | Mathias Pfaff (1836-1899) + Katherina Dressler (1844-1934) | MyHeritage |
-| Spouse | [[Michael_Kascher_Transylvania]] (Feb 11, 1889, Waldhutten, Transylvania - June 7, 1975, Fort Lauderdale, FL), married May 10, 1913, Beaver, Pennsylvania (age 16) | Marriage record, MyHeritage |
+| Spouse | [[Michael_Kascher_Transylvania]] (b. Feb 11, 1899, Waldhutten, Transylvania; d. June 7, 1975, Fort Lauderdale, FL), married May 10, 1913, Beaver, Pennsylvania | Marriage record, MyHeritage |
 | Children | [[Henry_Michael_Kascher]] (Dec 10, 1914, Youngstown, OH), Helen (m. Johnny Braendorf), Gerry, Sophia | MyHeritage, Ohio Birth Index |
 
 ## Biography
