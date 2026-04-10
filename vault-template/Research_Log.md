@@ -516,3 +516,12 @@ UNVERIFIED: Rosa LURIA (1625), Shneur Zalman KATZ (1600). Rivkah "Hirtz" unconfi
 - Eli Baldwin wife: Edaline Transon (GEDCOM) vs Elizabeth (WikiTree Baldwin-2330)
 - Heschel Herman Markel "Vanyavitch Poland": town not found in gazetteers
 - William Goldsmith Long: 1862-1937 (vault) vs 1861-1938 (GEDCOM) both unverified
+
+### Cox GEDCOM Verification (135 individuals)
+**Isaac Cox birth**: GEDCOM 1752 is WRONG. Correct: ~1755 (WikiTree, Cox Family History Project, FamilySearch all agree).
+**William Cox (1798) + Eliza**: CONFIRMED as Isaac's son (Cox Family History Project). Wife possibly "Elizabeth Owens" per Geni. Son Abram Cox (1830) also documented.
+**Thomas Manning Cox 8 children**: CONFIRMED (matches headstone count). No independent source beyond MyHeritage.
+**James Cox children**: GEDCOM BLOATED with ~20 children (Smart Match errors). WikiTree lists 9-11 across two wives. Vault's 11 is reasonable.
+**Diana Black Cox**: GEDCOM wrong (ABT 1780 Greenville SC). Correct: 1784 North Carolina (WikiTree, Cox Family History Project). Full name possibly "Diannah Priscilla Jackson Black."
+**Quaker lineage**: CONFIRMED AS WRONG. GEDCOM contains ~50+ individuals from the Quaker William Richardson Cox (1692 Hockessin DE) line who are NOT related. DNA disproves connection. These should be flagged/removed.
+**William Cox (1798) identity**: This is Isaac Cox's son, NOT Thomas B. Cox's son "Billy Slick" as the vault previously suggested. The 1850 census head of household is Isaac's son William.
