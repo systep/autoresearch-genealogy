@@ -22,20 +22,27 @@ tags: [genealogy, kascher, person, ohio, new-york]
 | Full Name | Henry Michael Kascher | Ohio Birth Index |
 | Born | December 10, 1914, Youngstown, Mahoning County, Ohio | Ohio Birth Index |
 | Died | **January 10, 1987** (age 72), buried **Tod Homestead Cemetery, Youngstown, Ohio** | Gravestone, MyHeritage |
-| Father | **Michael Kascher** (Feb 11, 1889, Waldhütten, Transylvania, Austria-Hungary; d. June 7, 1975, Fort Lauderdale, FL) | MyHeritage |
-| Mother | **Rosina Falk** (m. 1913) | MyHeritage, Ohio Birth Index |
+| Father | **Michael Kascher** (Feb 11, 1889, Waldhütten/Valchid, Transylvania, Austria-Hungary; d. June 7, 1975, Fort Lauderdale, FL) | MyHeritage |
+| Mother | **Rosina Falk** (m. 1913; birthplace Romania per 1930 census) | MyHeritage, Ohio Birth Index, 1930 Census |
+| Paternal lineage | Georg Kascher (b. 1792, Wurmloch/Valea Viilor) → Michael Kascher (b. 1834, Wurmloch, d. 1880, Waldhütten, m. Sara Schuller) → Michael Kascher Jr. (b. 1889) | Genealogy.com, Siebenbuerger.de |
 | Spouse | [[Mary_Elizabeth_Bright]] (~1922, Tennessee) | 1950 Census, MyHeritage |
 | Children | Kathryn Ann Kascher (Jan 1, 1946), Suzanne Kascher (~July 11, 1948), Nancy Kascher (1948-1949) | MyHeritage |
 
 ## Biography
 
-Henry Michael Kascher was born December 10, 1914 in Youngstown, Mahoning County, Ohio, the son of **Michael Kascher** (b. Feb 11, 1889, Waldhütten, Transylvania, Austria-Hungary; d. June 7, 1975, Fort Lauderdale, FL) and **Rosina Falk** (m. 1913). His father was a **Transylvanian Saxon** (ethnic German community settled in present-day Romania since the 12th century). Siblings: Helen (m. Johnny Braendorf), Gerry, Sophia.
+Henry Michael Kascher was born December 10, 1914 in Youngstown, Mahoning County, Ohio, the son of **Michael Kascher** (b. Feb 11, 1889, Waldhütten, Transylvania, Austria-Hungary; d. June 7, 1975, Fort Lauderdale, FL) and **Rosina Falk** (m. 1913). His father was a **Transylvanian Saxon** (ethnic German community settled in present-day Romania since the 12th century). Waldhütten (Romanian: **Valchid**; Hungarian: Valdhid) is in Sibiu County, Transylvania, in the "Weinland" (wine country), ~17km west of Sighișoara. The village was economically devastated by the **phylloxera vine louse crisis circa 1895**, causing more than half the population to emigrate to America. Ohio (Cleveland, Youngstown) was a primary destination. The **Youngstown Saxon Club** (founded 1907, Branch 30 of the Alliance of Transylvanian Saxons) served this community.
+
+**Kascher family Transylvanian lineage** (MyHeritage tree, Genealogy.com, Siebenbuerger.de):
+- **Georg Kascher** (b. 1792, Wurmloch/Valea Viilor, Transylvania) married Maria Wagner
+- **Michael Kascher I** (1834-1880, Wurmloch→Waldhütten) married **Sara Schuller** (1829-1876)
+- **Michael Kascher Sr.** (1864-1935) married **Anna Binder** (1868-1915, Kreisch/Criș; died of TB in Waldhütten). Anna's parents: Martin Binder (1831-?) + Anna Weber (1841-?). Michael Sr. took children to America, leaving Anna in Waldhütten.
+- **Michael Kascher** (1889-1975) = Henry's father. Born Waldhütten, died Fort Lauderdale FL. Married Rosina Falk 1913. Siblings: Helen (m. Johnny Braendorf), Gerry, Sophia.
 
 **NOTE:** The handwritten family chart listed the father as "John Kascher" but MyHeritage and the 1930 census confirm **Michel/Michael Kascher**. The father's birthplace is listed as "Romania" in the 1930 census (Transylvania became part of Romania after WWI in 1918).
 
 **1930 Census**: age 15, Austintown, Mahoning County, Ohio (near Youngstown). Family home: 1559 Mahoning Avenue, Youngstown.
 
-**1935**: Traveled to Germany aboard **SS Hamburg**, arriving New York June 27, 1935 (age 20). Listed on passenger manifest as US citizen, returning from Hamburg. This trip was likely connected to his involvement in German basketball/sports officiating.
+**1935**: Traveled to Germany aboard **SS Hamburg**, arriving New York June 27, 1935 (age 20). Listed on passenger manifest as US citizen, returning from Hamburg. A Siebenbuerger.de entry confirms: "Henry Kascher (son of Michael Kascher Jr.) from Youngstown, Ohio, visited the old country in the 1930's and went to Petersdorf/Waldhutten/Dumbraveni to visit relatives." This visit connected him to the German sports community and led to his Olympic appointment.
 
 **1936 Berlin Olympics**: Served as Timekeeper/Scorer for basketball, representing Germany (age 21).
 
