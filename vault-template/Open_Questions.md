@@ -39,11 +39,8 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Solvability**: MODERATE
 - **Payoff**: LOW
 
-### 6. Richard Panciera's exact relationship to Kascher family
-- **The question**: Richard Panciera appears as a half/step-sibling of Kathryn Kascher. Panciera is Italian, concentrated in Westerly, RI. Which Kascher parent had a prior relationship with a Panciera?
-- **Next step**: Search for Henry M Kascher or Mary Elizabeth Bright marriage/divorce records. Search for Richard Panciera birth record.
-- **Solvability**: MODERATE
-- **Payoff**: LOW
+### 6. Richard Panciera's relationship to Kathryn
+- **RE-RESOLVED (2026-04-10)**: Richard Panciera was Kathryn's **THIRD HUSBAND**, not a sibling. Handwritten chart (IMG_0783-0785) clearly shows Kathryn's 4 marriages: (1) Paul Gaffney, (2) David [?], (3) Richard Panciera (Arizona, law), (4) Alan Carl Salmanson. The tree app displayed ex-spouses at sibling level, causing the original misidentification. **Lesson: tree apps display former spouses alongside siblings; always cross-reference with primary documents.**
 
 ## Resolved Questions
 

@@ -63,14 +63,18 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 ### Kascher Family (Ohio / Rochester, NY)
 
 **Henry Michael Kascher** (b. December 10, 1914, Youngstown, Mahoning County, Ohio) **(strong)**
+- **Father: John Kascher** (per handwritten chart IMG_0785)
 - **Mother's maiden name: Falk** (Ohio birth certificate, state file #1914109692)
+- Siblings: Helen (m. Johnny Braendorf), Gerry, Sophia
 - 1950 Census: age 35, 49 Clay Avenue, Rochester, Monroe, NY. Married.
 - Kascher surname: rare, German/Central European origin. 3 Kascher families in Ohio in 1920 census, confirming this as the geographic center of the Kascher family.
 - Sources: MyHeritage (Ohio birth index, 1950 US Census)
 
-**Mary Elizabeth Bright** (b. ~1922, Tennessee) **(strong)**
-- **Father: Albert Graham Bright** (1893-1961). Parents: George Michael Bright (1852-1939) + Willie H Youngblood (1863-1952). George Michael's parents: Samuel Graham Bright (1825-1909) + Mary Jane Bernard (1829-1900).
-- **Mother: Rebecca M Long** (1898-1985). Parents: **William Goldsmith Long** (1862-1937) + **Roxanne (Rooksaner/Roxana) Cox** (1865-1912). William Goldsmith's parents: William Thomas Long (1825-1887) + Mary Elizabeth Huff (1838-1922). Roxanne's parents: **Thomas Manning Cox** (1828-1897) + Sarah Elizabeth "Lizzie" Clark (1836-1879). Thomas Manning Cox = Thomas Manley Cox, son of Thomas B. Cox (1792-1857) + Olive Mary "Polly" Henderson.
+**Mary Elizabeth Bright** (b. June 5, 1921, Madison [County?]) **(strong)**
+- **Father: Albert Graham Bright** (b. Aug 19, 1893, Abingdon, Virginia; d. Sept 5, 1961, Delray Beach, FL). Parents: George Michael Bright (1852-1939) + **Willis Henrietta Youngblood** (1865-1952; noted as "1st Woman Graduate of U.S. [?]"). George Michael's parents: Samuel Graham Bright (1825-1909) + Mary Jane Bernard (1829-1900).
+- **Mother: Rebecca Moseley Long** (b. Sept 14, 1898, Greenville SC; d. 1985; attended Winthrop College). Parents: **William Goldsmith Long** (1862-1937) + **Roxanne (Rooksaner/Roxana) Cox** (b. Feb 21, 1865; d. Dec 5, 1912). Married **Sept 2, 1928, Johnson City, Tennessee** (per handwritten chart).
+- William Goldsmith's parents: William Thomas Long (b. Nov 25, 1825; d. 1887; "1st son of Larken and Sarah Long") + Mary Elizabeth Huff (June 21, 1838 - Aug 6, 1922; parents: Lewis Huff b. July 22, 1803 + Mary [?]; married Jan 19, 1857 by Rev. K. Callard).
+- Roxanne's parents: **Thomas Manning Cox** (1828-1897) + Sarah Elizabeth "Lizzie" Clark (1836-1879). Thomas Manning Cox = Thomas Manley Cox, son of Thomas B. Cox (1792-1857) + Olive Mary "Polly" Henderson.
 - Siblings: George M Bright (b. ~1924), Samuel Bright (b. ~1930), Robert Bright (b. ~1931)
 - 1930 Census: age 8, Irondequoit, Monroe, New York (Rochester suburb)
 - 1950 Census: parents Albert G (age 56) + Rebecca L (age 51) at Sagamore Drive, Irondequoit, Monroe, NY, with sons George, Samuel, Robert. Mary Elizabeth already married and at 49 Clay Ave with Kascher family.
@@ -78,12 +82,30 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 - Sources: MyHeritage (1930 + 1950 US Census)
 
 **Children of Henry Michael Kascher + Mary Elizabeth Bright:**
-- **Kathryn Ann Kascher** (b. January 1, 1946, New York) -- married Alan Carl Salmanson
-- **Suzanne Kascher** (b. ~July 11, 1948)
-- **Nancy Kascher** (b. 1948-1949, New York)
+- **Kathryn Ann Kascher** (b. ~1946) -- married (1) Paul Gaffney, (2) David [?], (3) Richard Panciera, (4) Alan Carl Salmanson
+- **Nancy Jean Kascher** (b. March 1948, Rochester NY) -- married James Philip Wright; son Sean Michael (b. Nov 6, 1968)
+- **Suzanne Bright Kascher** (b. March 1952)
 
-**Kathryn Ann Kascher's siblings:**
-- Richard Panciera (half-sibling or step-sibling; different surname indicates different father. **Panciera is an Italian surname**, concentrated in Westerly, RI area since early 1900s. This suggests a Rhode Island Italian-American connection through one parent's prior relationship. See Discrepancy #6.)
+**Address (from family letter):** Alan and Kathy Salmanson, 1180 Narragansett Blvd. #C1, Cranston, Rhode Island 02905
+
+**Kathryn Ann Kascher's siblings (actual siblings, per handwritten chart):**
+- Nancy Jean Kascher (b. March 1948, Rochester NY; m. James Philip Wright; son Sean Michael b. Nov 6, 1968)
+- Suzanne Bright Kascher (b. March 1952)
+
+**Kathryn's marriage history (per handwritten chart IMG_0783-0785):**
+1. Paul Gaffney
+2. David [surname unclear]
+3. Richard Panciera (Arizona, law)
+4. Alan Carl Salmanson → son Leonard Daniel Salmanson (b. 2-27-[year])
+
+**Previously misidentified as siblings (actually ex-spouses displayed at sibling level in tree app):**
+**CORRECTION: Richard Panciera is NOT a sibling. He was Kathryn's THIRD HUSBAND.** The handwritten chart (IMG_0783-0785) clearly shows Kathryn's marriage history:
+1. Paul Gaffney
+2. David [surname unclear]
+3. **Richard Panciera** (Arizona, law)
+4. **Alan Carl Salmanson**
+
+The digital family tree app (Screenshot 125748) displayed ex-spouses at sibling level, which was misinterpreted as a sibling relationship. Discrepancy #6 is re-resolved: Panciera was a former spouse, not a half-sibling.
 - David (surname unclear; Kascher?)
 - Nancy Kascher
 - Suzanne (surname unclear; Kascher?)
@@ -563,7 +585,7 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 | 3 | Church ancestor nationality | "A faithful German" (IMG_0791) | John Stangle "Born England" | German vs. English | RESOLVED: Not contradictory. Stangle surname is confirmed German; "Born England" consistent with Palatine migration. Note likely conflates Cox (land donor) with Stangle (German line). **NOTE:** Y-DNA for the Cox line is R1b (R-M269), consistent with British Isles origin; no Koch→Cox evidence found for this specific family. The "German" identity most likely traces through the Stangle line, not Cox. |
 | 4 | William Stangle dates | b. Nov 10, ~1792 | d. ~1781? | Death before birth | RESOLVED: Death date corrected to ~18x1 (1831 or 1881); century/digit misread consistent with page-wide pattern |
 | 5 | Kopp vs. Huff | "Marcia (Mary) Kopp" (IMG_0786) | "Huff" (IMG_0792) | Same person, two surnames | RESOLVED: Confirmed source-level discrepancy; both names recorded. Needs family confirmation. |
-| 6 | Richard Panciera | Among Kascher siblings | Different surname | Relationship unclear | RESOLVED: Half-sibling or step-sibling (different father's surname). Family confirmation recommended. |
+| 6 | Richard Panciera | Among Kascher siblings in tree app | Different surname | Former spouse, not sibling | **RE-RESOLVED: Panciera was Kathryn's 3rd husband (before Alan Salmanson), not a sibling. Tree app displayed ex-spouses at sibling level. Confirmed from handwritten chart (IMG_0783-0785).** |
 | 7 | Jerrold Salmanson | Samuel's obit: "nephew" of Samuel | Thelma's memorial: not listed as child | Whose son is Jerrold? | RESOLVED: Leonard Irving's son from prior relationship (b. 1942, 5 years before 1947 marriage to Thelma) |
 | 8 | Shelly White | Shown with Alan's siblings in tree app | Not on Thelma's child list | Not a sibling of Alan | RESOLVED: Step-relation through Thelma's second marriage to Rodbell |
 | 9 | Zalmanson / Schneerson | loebtree.com connects Zalmanson to Chabad dynasty | Independent sources confirm the historical Zalmanson-Schneerson marriages | User-contributed tree, now partially corroborated | PARTIALLY RESOLVED: Historical connection verified; family-specific link still unverified |
