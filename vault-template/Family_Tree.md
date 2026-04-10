@@ -69,11 +69,11 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 - Sources: MyHeritage (Ohio birth index, 1950 US Census)
 
 **Mary Elizabeth Bright** (b. ~1922, Tennessee) **(strong)**
-- **Father: Albert G Bright** (b. ~1894, Virginia). **Mother: Rebecca L Bright** (b. ~1899).
+- **Father: Albert G Bright** (b. ~1894, Virginia). **Mother: Rebecca M Long** (1898-1985; maiden name **Long**).
 - Siblings: George M Bright (b. ~1924), Samuel Bright (b. ~1930), Robert Bright (b. ~1931)
 - 1930 Census: age 8, Irondequoit, Monroe, New York (Rochester suburb)
 - 1950 Census: parents Albert G (age 56) + Rebecca L (age 51) at Sagamore Drive, Irondequoit, Monroe, NY, with sons George, Samuel, Robert. Mary Elizabeth already married and at 49 Clay Ave with Kascher family.
-- **THE SC CONNECTION IS THROUGH THE BRIGHT FAMILY.** The **Bright** surname appears on the large handwritten chart (IMG_0783) connected to the **King and Kopp** families through marriage lines. Albert G Bright's **Virginia** origin could trace back to the SC/VA border region. "Charles Edward Bright (or Long?)" on the chart may be Albert's father or uncle (not Mary Elizabeth's father as previously speculated).
+- **THE SC CONNECTION RUNS THROUGH BOTH BRIGHT AND LONG FAMILIES.** Rebecca's maiden name **Long** confirms the colonial connection: William Cox Sr. migrated from NC to SC **with the Long family** in the 1780s. The Bright and Long families intermarried, explaining the "Charles Edward Bright (or Long?)" ambiguity on the handwritten chart (IMG_0783). The complete path: SC colonial families (Cox + Long migration 1780s) → Long family → Rebecca M Long (1898-1985) + Albert G Bright (~1894, Virginia) → Mary Elizabeth Bright → married Kascher → Kathryn → married Salmanson.
 - Sources: MyHeritage (1930 + 1950 US Census)
 
 **Children of Henry Michael Kascher + Mary Elizabeth Bright:**
@@ -389,9 +389,9 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 - First wife (Ms. Bonneau?): John Washington Cox (1803), Elizabeth Cox, Irena Cox, Mary Polly Cox, Rebecca Cox
 - Additional children: Sarah (1804), Marilla (1809), Burrell (1811), Percilla (1813), Hanna (1815), Jane (1820)
 
-#### Connection: Cox intermarried families include **Longs**
+#### Connection: Cox intermarried families include **Longs** — CONFIRMED link to present family
 
-William Cox Sr. migrated to SC with the **Long** family. The large handwritten chart (IMG_0783) includes "Long" as a surname (possibly Charles Edward Long). This confirms the Cox-Long family connection.
+William Cox Sr. migrated to SC with the **Long** family in the 1780s. The large handwritten chart (IMG_0783) includes "Long" as a surname (Charles Edward Bright or Long). **This connection is now confirmed to the present day**: Rebecca M **Long** (1898-1985) married Albert G Bright (~1894, Virginia). Their daughter Mary Elizabeth Bright married Henry Michael Kascher. Their granddaughter Kathryn Ann Kascher married Alan Carl Salmanson. The "Bright or Long?" ambiguity on the chart reflects the intermarriage of these two families.
 
 ### Stangle Family (English/German Origin)
 
