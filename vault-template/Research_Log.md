@@ -279,6 +279,32 @@ All 9 previously open discrepancies resolved (see cross_reference_audit.md). Key
 8. Duff family records
 9. Higher-resolution photos of large handwritten chart (IMG_0782-0785)
 10. Cox line beyond William Cox Sr.: WALL HIT. DNA + primary sources confirm parents unknown. Key correction: Isaac Cox is William Sr.'s SON (not brother). William Sr. b. c.1730-1735, NOT 1726. NOT son of William Richardson Cox (1692-1767, Quaker). Y-DNA: R1b-I "Carolina Coxes" (British Isles origin). Koch→Cox theory unlikely for this family. James Cox married Dianah/Diana Black. Alice (maiden name unknown) was William Sr.'s wife.
+## 2026-04-10: Immigration Search (prompt 11)
+
+### Search: SS Baltic passenger manifest, Dec 23, 1904
+
+**Query**: Multiple searches for Zalmanson/Salmanson/Salmonson + SS Baltic + 1904
+**Results**: WALL. Manifest exists but is behind paywalls (Ellis Island Foundation, Ancestry, FamilySearch). SS Baltic confirmed as White Star Line, Liverpool-New York route.
+**Next step**: Search directly on FamilySearch (free) or MyHeritage for "Zalmanson" on SS Baltic Dec 1904.
+
+### Search: Siblings Gita and Zalman Zalmanson immigration
+
+**Results**: NEGATIVE. No records found for either sibling.
+
+### Search: Jacob Kushner (Providence) passenger manifest
+
+**Results**: DISAMBIGUATION needed. Found Jacob (Yankel) Kushner arriving Oct 7, 1905 (Philadelphia family, son Morris in Detroit) but this is DIFFERENT from our Jacob Kushner of Providence (b. Jan 27, 1886, Russia). Providence Jacob's manifest not found. Arrival 1890 would predate Ellis Island (opened 1892); would be Castle Garden.
+
+### Search: David Salmanson as possible sibling of Barnett
+
+**Results**: David Salmanson (b. ~1891 Russia, wife Eva b. RI) in Brooklyn. Moderate Signal as possible sibling/brother Zalman. Circumstantial: same surname, birthplace, era, RI wife.
+
+### Search: Barnett Salmanson WWI draft registration
+
+**Results**: WALL. Cards behind paywalls (FamilySearch free, Ancestry subscription). Barnett (b. 1883) would register in 3rd registration (Sept 12, 1918, ages 18-45).
+
+---
+
 11. Henderson deeper ancestry: MAJOR FINDS. Traced back 4 generations to James Henderson + Mary Rhodes (~1716 Scotland?). Ezekiel Henderson (1763-1846) was Revolutionary War veteran (pension S6994). Key discovery: Olive Mary "Polly" Henderson and Brashier Henderson were SIBLINGS (both children of Ezekiel), making the Rebecca Cox + Henry Henderson marriage a first-cousin marriage.
 12. Kascher: Rare German/Central European surname. No SC connection found for the name itself. Panciera is Italian, concentrated in Westerly RI. SC ancestry likely traces through a non-Kascher line.
 
