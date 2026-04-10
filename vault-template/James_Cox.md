@@ -22,10 +22,11 @@ tags: [genealogy, cox, person, south-carolina, standing-springs]
 | Full Name | James Cox | WikiTree Cox-14020 |
 | Born | c.1778, North Carolina | WikiTree |
 | Died | May 22, 1853, Simpsonville, Greenville County, SC | WikiTree |
-| Burial | Standing Springs Cemetery, Simpsonville, SC | WikiTree |
+| Burial | Standing Springs Cemetery, Simpsonville, SC | Find a Grave #8302482, WikiTree |
 | Father | [[Isaac_Cox]] (c.1755-1830) | WikiTree, Cox Family History Project |
 | Mother | Unknown | |
-| Spouse | Dianah/Diana Black (b. 1784 NC, d. Jan 7, 1865) | WikiTree, Cox Family History Project |
+| Spouse 1 | Dianah/Diana Black (b. 1784 NC, d. Jan 7, 1865) | WikiTree, Cox Family History Project |
+| Spouse 2 | Percilla (~1784 SC, per 1850 census, age 66) | Find a Grave #8302482 |
 | Children | John Washington (1803), Elizabeth, Irena, Mary Polly, Rebecca, Sarah (1804), Marilla (1809), Burrell (1811), Percilla (1813), Hanna (1815), Jane (1820) | WikiTree |
 
 ## Biography

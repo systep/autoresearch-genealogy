@@ -359,7 +359,7 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 - **Son of William Cox Sr.** (confirmed by WikiTree Cox-8529, Cox Family History Project, estate records)
 - Born: Orange County, NC
 - Died: Greenville County, SC
-- Wife: unknown
+- Wife: **Mary (Middleton)** (married ~1776, Greenville County SC) (FamilySearch, Find a Grave sweep)
 - Migrated with father William Sr. to Greenville County, SC in 1787
 - Appears on **1779 NC tax list** as landowner
 - Appears in William Cox Sr.'s 1814 estate records (January 4, 1817 land sale)

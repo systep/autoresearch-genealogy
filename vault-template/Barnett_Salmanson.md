@@ -25,7 +25,7 @@ tags: [genealogy, salmanson, zalmanson, person, immigrant]
 | Full Name | Barnett Salmanson (born Berko Zalmanson; also Berl Salmonson, Berko Zalmanzon) | MyHeritage |
 | Born | May 15, 1883 (or 1885), Vilnius (Vilna), Lithuania | MyHeritage family tree |
 | Died | December 14, 1960, Miami, FL | MyHeritage family tree |
-| Burial | Likely Lincoln Park Cemetery, Warwick, RI (all known Salmanson burials there) | Inference from family pattern |
+| Burial | Lincoln Park Cemetery, Warwick, RI | Find a Grave #97021158 |
 | Father | [[Levi_Itzhak_Zalmanson]] (b. 1851) | MyHeritage |
 | Mother | [[Rochel_Tsine_Deych]] (b. 1861) | MyHeritage |
 | Spouse | [[Elizabeth_Salk]] (m. September 12, 1909, Providence, RI) | MyHeritage |
