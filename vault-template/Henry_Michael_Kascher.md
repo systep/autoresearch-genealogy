@@ -23,7 +23,7 @@ tags: [genealogy, kascher, person, ohio, new-york]
 | Born | December 10, 1914, Youngstown, Mahoning County, Ohio | Ohio Birth Index |
 | Died | **January 10, 1987** (age 72), buried **Tod Homestead Cemetery, Youngstown, Ohio** | Gravestone, MyHeritage |
 | Father | **Michael Kascher** (Feb 11, 1889, Waldhütten/Valchid, Transylvania, Austria-Hungary; d. June 7, 1975, Fort Lauderdale, FL) | MyHeritage |
-| Mother | **Rosina Falk** (m. 1913; birthplace Romania per 1930 census) | MyHeritage, Ohio Birth Index, 1930 Census |
+| Mother | **Rasina (Rosina) Falk** (b. ~1897, Romania; m. **May 10, 1913, Beaver, Pennsylvania**, age 16). Father: **Mathias Falk**. Mother: [?] Falk. | Marriage record (microfilm #001290365), MyHeritage, 1930 Census |
 | Paternal lineage | Georg Kascher (b. 1792, Wurmloch/Valea Viilor) → Michael Kascher (b. 1834, Wurmloch, d. 1880, Waldhütten, m. Sara Schuller) → Michael Kascher Jr. (b. 1889) | Genealogy.com, Siebenbuerger.de |
 | Spouse | [[Mary_Elizabeth_Bright]] (~1922, Tennessee) | 1950 Census, MyHeritage |
 | Children | Kathryn Ann Kascher (Jan 1, 1946), Suzanne Kascher (~July 11, 1948), Nancy Kascher (1948-1949) | MyHeritage |
@@ -35,7 +35,7 @@ Henry Michael Kascher was born December 10, 1914 in Youngstown, Mahoning County,
 **Kascher family Transylvanian lineage** (MyHeritage tree, Genealogy.com, Siebenbuerger.de):
 - **Georg Kascher** (b. 1792, Wurmloch/Valea Viilor, Transylvania) married Maria Wagner
 - **Michael Kascher I** (1834-1880, Wurmloch→Waldhütten) married **Sara Schuller** (1829-1876)
-- **Michael Kascher Sr.** (1864-1935) married **Anna Binder** (1868-1915, Kreisch/Criș; died of TB in Waldhütten). Anna's parents: Martin Binder (1831-?) + Anna Weber (1841-?). Michael Sr. took children to America, leaving Anna in Waldhütten.
+- **Michael Kascher Sr.** (1864-1935) married **Anna Binder** (1868-1915, Kreisch/Criș; died of TB in Waldhütten). Anna's parents: Martin Binder (1831-?) + Anna Weber (1841-?). Michael Sr. took children to America, leaving Anna in Waldhütten. Lived in Youngstown OH and Martins Ferry OH. Former employee of **Hartzell Bros.** Died ~July 1935, Youngstown (age 71).
 - **Michael Kascher** (1889-1975) = Henry's father. Born Waldhütten, died Fort Lauderdale FL. Married Rosina Falk 1913. Siblings: Helen (m. Johnny Braendorf), Gerry, Sophia.
 
 **NOTE:** The handwritten family chart listed the father as "John Kascher" but MyHeritage and the 1930 census confirm **Michel/Michael Kascher**. The father's birthplace is listed as "Romania" in the 1930 census (Transylvania became part of Romania after WWI in 1918).
