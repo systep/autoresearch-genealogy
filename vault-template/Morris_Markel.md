@@ -4,12 +4,13 @@ name: "Morris Moishe Myer Markel"
 born: unknown
 died: 1963
 family: "Markel"
-confidence: low
+confidence: moderate
 sources:
   - "MyHeritage family tree (Tier 3, unverified)"
   - "Geni World Family Tree (Tier 3, unverified)"
+  - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
 created: 2026-04-10
-tags: [genealogy, markel, person, poland, jewish, immigrant]
+tags: [genealogy, markel, person, poland, jewish, immigrant, rabbi, rhode-island]
 ---
 
 # Morris Moishe Myer Markel
@@ -18,14 +19,16 @@ tags: [genealogy, markel, person, poland, jewish, immigrant]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Morris Moishe Myer Markel | MyHeritage (Tier 3, unverified) |
+| Full Name | Moishe Myer (Morris) Markel | MyHeritage (Tier 3); Yichus narrative (Tier 2) |
 | Born | Poland (date unknown) | MyHeritage (Tier 3, unverified) |
 | Died | 1963 | MyHeritage (Tier 3, unverified) |
-| Father | Heschel Herman Markel (nickname: Heschel; b. 1862, Vanyavitch, Poland; d. 1916, age 53-54) | MyHeritage (Tier 3, unverified) |
-| Mother | Leah Frei/Frye (nickname: Leije) | MyHeritage (Tier 3, unverified) |
-| Paternal Grandfather | Dov Markel | MyHeritage (Tier 3, unverified) |
-| Maternal Grandparents | Yoseph Frei + Toba Rivka Frei | MyHeritage (Tier 3, unverified) |
-| Spouse | Helen Brandt (b. ABT July 27, 1889, Poland; d. EST July 27, 1975) | MyHeritage (Tier 3, unverified) |
+| Father | [[Heschel_Herman_Markel]] (Heshel Markel; b. 1862, Vanyavitch, Galicia; d. 1916) | MyHeritage (Tier 3); Yichus (Tier 2) |
+| Mother | [[Leah_Frei]] (Leah Frei; b. 1864; d. 1940) | MyHeritage (Tier 3); Yichus (Tier 2) |
+| Paternal Grandfather | [[Dov_Markel]] | MyHeritage (Tier 3); Yichus (Tier 2) |
+| Paternal Great-Grandfather | [[Nissen_Mendel_Markel]] | Yichus narrative (Tier 2) |
+| Maternal Grandparents | [[Yoseph_Frei]] + [[Toba_Rivka_Frei]] (of Dubosari) | MyHeritage (Tier 3); Yichus (Tier 2) |
+| Spouse | [[Helen_Brandt]] (Helen Brandt Markel) | MyHeritage (Tier 3); Yichus (Tier 2) |
+| Occupation | Rabbi, Ahavath Sholom Synagogue, Arctic (West Warwick), RI | Yichus narrative (Tier 2) |
 | Children | Thelma (Tobi) Markel (1920-2011), Anne (m. Schlusselberg), Frieda Markel, Kay Markel (m. Kaplan), Joseph Markel | MyHeritage, Geni (Tier 3, unverified) |
 
 ## Biography
