@@ -499,14 +499,17 @@ No web results found for "Kerben King." This name may be an unusual spelling or 
 - Francis Jane Byars (or Ryan?), John Byars (or Ryan?)
 - Very difficult to read; low confidence
 
-### Bright Family (Tennessee / South Carolina connection)
+### Bright Family (German Palatinate → Pennsylvania → Virginia → South Carolina)
 
-*Source: IMG_0783.jpg (large chart), MyHeritage census records* **(moderate to strong)**
+*Source: IMG_0783.jpg (large chart), MyHeritage, WikiTree, RootsWeb* **(moderate to strong)**
 
-**Mary Elizabeth Bright** (b. ~1922, Tennessee) married **Henry Michael Kascher** (b. Dec 10, 1914, Youngstown, OH). This is the confirmed SC-to-Kascher connection. The Bright family appears on the large handwritten chart (IMG_0783) connected to the King and Kopp families through marriage lines. Mary Elizabeth likely descends from the SC Bright family who intermarried with the King/Kopp/Cox/Henderson cluster.
+**German origin confirmed:** The Bright family descends from **Johann Michael Brecht** (1706-1794), who emigrated in 1726 from the **Palatinate of Germany** to Germantown, Pennsylvania. His son **George Adam Bright (Brecht)** moved to Frederick County, Virginia in 1759 and began using the anglicized name "Bright." George Adam is buried in **Dutch Hollow Cemetery** west of Greenville, SC, establishing the family's arrival in the Greenville area. Source: RootsWeb "Descendants of Johann Brecht."
 
-- **Charles Edward Bright (or Long?)**: appears on the chart. The Cox family migrated with the Long family from NC to SC; "Bright or Long" confusion suggests these families intermarried.
-- **Next research target**: Mary Elizabeth Bright's parents (likely on the chart or in Tennessee/SC records). A "Charles Edward" Bright could be her father or grandfather.
+**Bright family in Greenville County:** WikiTree documents multiple Brights born in **O'Neal district**, Greenville County. Samuel Graham Bright (1825-1909) is confirmed as a sibling of John M. Bright (WikiTree Bright-409). George Michael Bright (1852-1939) has a WikiTree profile (Bright-3343). Commodorie S. Bright (1880-1959, Find a Grave #78562893) may be George Michael's son.
+
+**Albert Graham Bright** (1893-1961): son of George Michael Bright (1852-1939) + Willie H Youngblood (1863-1952). Married [[Rebecca_M_Long]] (1898-1985).
+
+- **"Charles Edward Bright (or Long?)"** on the handwritten chart: the "or Long" ambiguity reflects the Bright-Long intermarriage (Albert Bright married Rebecca Long). Charles Edward may be an uncle or cousin in the Bright line.
 
 ### Additional Surnames from Large Handwritten Chart
 
