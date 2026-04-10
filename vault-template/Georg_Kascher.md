@@ -37,7 +37,9 @@ His son **Michael Kascher** (b. September 20, 1834, Wurmloch; d. June 28, 1880, 
 
 Wurmloch (Valea Viilor) is a Transylvanian Saxon village in Sibiu County, Romania. The Kascher family moved from Wurmloch to the nearby village of Waldhütten (Valchid) by the next generation. The community was part of the ethnic German settlement in Transylvania dating to the 12th century.
 
-**Source assessment:** Georg Kascher's existence is documented only through MyHeritage Smart Match records linked to Siebenbuerger.de profiles. No primary documents (church registers, civil records) have been independently verified. All data should be treated as Tier 3 (unverified).
+**Source assessment:** Georg Kascher's existence is documented only through MyHeritage Smart Match records linked to Siebenbuerger.de profiles and one Genealogy.com forum post. No primary documents (church registers, civil records) have been independently verified. All data should be treated as Tier 3 (unverified).
+
+**Pre-1792 research (2026-04-10):** Extensive searching found no records predating Georg. The original Genealogy.com poster who provided Georg's data also noted they could not find anything earlier. Family folklore claims a **Flanders origin**, which is consistent with the documented 12th century migration of Flemish and German settlers to Transylvania under King Geza II of Hungary (1141-1162). The "Kascher" surname is rare and does not appear in standard Transylvanian Saxon surname lists. Best remaining avenues: (1) VGSS genealogy database (vgss.de/genealogie-datenbank/) for digitized Wurmloch church records, (2) Zentralarchiv of the Evangelical Church A.B. in Sibiu (TeutschHaus, Str. Mitropoliei 30) which holds Wurmloch Kirchenbucher, (3) Ancestry.com Transylvania collections (subscriptions 5412, 62878 covering 1607-1919). The 1819-1820 Transylvanian Census (FamilySearch microfilm) would confirm the Kascher family's presence in Wurmloch at that date.
 
 ## Document Sources
 

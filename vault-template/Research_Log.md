@@ -556,3 +556,87 @@ John Hough emigrant (b.~1653 Wilmslow Cheshire) son of Lawrance Hough (d.1668) +
 Culpepper: Sir Thomas de Colepeper "The Recognitor" (c.1170) → documented through 20+ generations to Dr. Martin Culpepper (1540-1605)
 Sandys: Simon de Sabulonibus (c.1205, Cumberland) → to Archbishop Edwin Sandys (1519-1588) → to Sir Edwin (Virginia Company) and Sir Samuel
 Bulkeley: Robert de Bulkeley (c.1210, Cheshire) → to Sir Richard of Beaumaris → Catherine married Sir Edwin Sandys
+
+---
+
+## 2026-04-10: Deeper Transylvanian Saxon Ancestry Research
+
+### Goal: Trace Kascher, Schuller, Binder, Probstdorfer, and Pfaff families before earliest known ancestors.
+
+### 1. Georg Kascher's Parents
+
+**Search**: Kascher family Wurmloch pre-1792, Genealogy.com forum, Siebenbuerger.de
+**Results**: The Genealogy.com forum post (the original source for Georg) confirms Georg b. 1792 Wurmloch, married Maria Wagner, son Michael b. 1834 Wurmloch d. 1880 Waldhuetten. The poster noted they had the family "down to current day" but could NOT find anything prior to Georg 1792. Family folklore says origin was **Flanders**, consistent with the documented 12th century migration of Flemish settlers to Transylvania under King Geza II of Hungary (1141-1162).
+**Kascher surname**: Rare surname. Forebears.io: found primarily in Americas (Brazil, USA). In 1920, only 3 Kascher families in the USA (all in Ohio). Not in standard Transylvanian Saxon surname lists.
+**Status**: BRICK WALL HOLDS. Primary source (Kirchenbuch) access required.
+
+### 2. Wurmloch (Valea Viilor) Church Records
+
+**Results**:
+- Wurmloch has a Lutheran fortified church (UNESCO World Heritage Site). By 1516, Wurmloch had 95 households (second largest town in the Schelk district).
+- Gustav Arz's 1939 "Die Matrikeln der evangelischen Gemeinden A.B. in Siebenbürgen" inventoried all evangelical church registers; this would list exact date ranges for Wurmloch registers but was not accessible online.
+- Church records in Transylvania begin as early as 1600.
+- **VGSS database** (vgss.de/genealogie-datenbank/): ~65 volunteers work on ~80 of ~260 villages; data from 19 villages publicly searchable. Wurmloch and Waldhutten are listed among Ortschaften. Must search directly.
+- Registers held in **Zentralarchiv** of the Evangelical Church A.B. in Sibiu (TeutschHaus, Str. Mitropoliei 30).
+
+### 3. The Krauss/Krause Binder Compound Surname
+
+**Results**:
+- GEDCOM shows: Georg Krauss → Johann Krause Binder (b. 1794) → Martin Binder (b. 1831). Siebenbuerger.de calls Martin's father "Petrus Krauss Binder."
+- **Beiname convention**: In Transylvanian Saxon villages, many families shared the same surname. To distinguish them, a supplementary Beiname was used. VGSS article on Zendersch documents 816 people named Bell in one village, 1082 named Weber; bynames were essential.
+- **Most likely explanation**: "Krauss" (curly haired) was the **Beiname** distinguishing this Binder family from other Binder families. "Petrus Krauss Binder" = "Petrus, of the Krauss Binders." This is NOT a maternal surname or hyphenated name.
+- **Discrepancy**: GEDCOM lists Johann Krause Binder as Martin's father; Siebenbuerger.de says Petrus Krauss Binder. These may be different generations, or a GEDCOM error.
+
+### 4. Probstdorf and Petersdorf Village Records
+
+**Probstdorf (Stejerisu)**: Founded 13th century. Fortified church. ~22 km SW of Sighisoara, Sibiu County. Surname "Probstdorfer" = "person from Probstdorf."
+**Petersdorf (Petresti)**: Church built 13th century. Demolished 1805, rebuilt. **Church records for Petresti held at Muhlbach (Sebes) Saxon Evangelical Lutheran Church** (separate from Sibiu archive).
+
+### 5. FamilySearch and Ancestry Availability
+
+- Ancestry collection 5412: Romania Vital Records 1607-1914 (SUBSCRIPTION)
+- Ancestry collection 62878: Transylvania Birth/Marriage/Death 1688-1919 (SUBSCRIPTION)
+- Ancestry collection 61116: Sibiu Tax Registers 1707-1902 (SUBSCRIPTION)
+- Ancestry collection 61256: Sibiu Military Conscriptions 1689-1807 (SUBSCRIPTION)
+- **1819-1820 Transylvanian Census** (Conscriptio Czirakyana): FamilySearch microfilm (53 rolls), covers 2200+ villages. Viewable at FamilySearch Centers. FREE.
+- Kreisch church register indexes exist (rootsweb bgwiehle site).
+- FamilySearch catalog must be searched directly with logged in account.
+
+### 6. Siebenbuergen-Institut Archives (Gundelsheim)
+
+- Schloss Horneck, Gundelsheim/Neckar, Germany. Most important Transylvanian Saxon collection outside Romania.
+- **Genealogisches Archiv (KGA)**: descendant tables, family tables, ancestor records, microfilms of church registers, municipal card files.
+- **USA-Auswanderer PDF** freely available at siebenbuergen-institut.de (previously provided Kascher data).
+- Journal "Siebenbürgische Familienforschung" published 1984-2016 (33 volumes).
+
+### 7. Zentralarchiv der Evangelischen Kirche A.B. (Sibiu)
+
+- TeutschHaus, Str. Mitropoliei 30, RO-550179 Sibiu. Established 2004.
+- **Over 280 parish church archives** centralized here, including handwritten Kirchenbucher.
+- Offers genealogical research assistance (fees apply).
+- **THE single most important archive** for pushing back Transylvanian Saxon lines.
+
+### 8. Additional Findings
+
+- **Kreisch (Cris)**: Unusually, was NOT a free Saxon village; belonged to Bethlen noble family. May affect record types.
+- **Waldhutten phylloxera**: Viticulture destroyed ~1895, half population emigrated to America.
+- **ATS records** (1902-1981) at University of Minnesota IHRC. May contain Kascher membership data.
+
+### Action Items (Prioritized)
+
+| Priority | Action | Cost |
+|---|---|---|
+| 1 | Search VGSS database for Kascher/Schuller/Binder/Wagner in Wurmloch/Waldhutten | Free |
+| 2 | Search Ancestry collections 5412, 62878, 61116 for Wurmloch/Waldhutten/Kreisch | Subscription |
+| 3 | Request Zentralarchiv Sibiu genealogical research | Fee |
+| 4 | Request Siebenbuergen-Institut Gundelsheim KGA search | Fee |
+| 5 | Search FamilySearch catalog directly (login required) | Free |
+| 6 | Access 1819-1820 Census at FamilySearch Center | Free |
+| 7 | Contact Muhlbach (Sebes) Church for Petersdorf records | Correspondence |
+
+### Negative Results
+
+- WikiTree: No Kascher profiles.
+- Geni.com: No relevant Kascher in Transylvania.
+- Genealogy.com poster also hit brick wall at Georg 1792.
+- Siebenbuerger.de guestbooks blocked during session.

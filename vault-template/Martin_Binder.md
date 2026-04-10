@@ -40,4 +40,4 @@ Martin Binder was born on 3 May 1831. He was the son of [[Johann_Krause_Binder]]
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Father's name | Johann Krause Binder (GEDCOM) | Petrus Krauss Binder (user notes) | Needs further investigation; the GEDCOM shows Johann Krause Binder as father, with Georg Krauss as grandfather |
+| Father's name | Johann Krause Binder (GEDCOM) | Petrus Krauss Binder (Siebenbuerger.de) | Unresolved. "Krauss/Krause" is a Beiname (by-name) distinguishing this Binder family from others; it is not a maternal surname. The GEDCOM shows Johann Krause Binder (b. 1794) as father with Georg Krauss as grandfather. Siebenbuerger.de names Petrus Krauss Binder as father. Possible explanations: (1) Johann and Petrus are different people (perhaps Johann is the grandfather, Petrus the father), (2) one source has the wrong first name, or (3) "Petrus" and "Johann" are different names for the same person (unlikely). Church register verification required. |

@@ -62,12 +62,38 @@ Research gaps and unresolved questions, organized by priority and family line. U
 ### R6. Zalmanson-Schneerson connection
 - **RESOLVED (2026-04-10)**: **CONFIRMED at Strong Signal.** Rivka Beila (Shneuri) was a daughter of the Mitteler Rebbe, granddaughter of the Alter Rebbe (founder of Chabad). Srul Mendel and Rabbi Levi Yitzchok Zalmanson were brothers. Direct lineage: Shneur Zalman of Liadi → Dovber Shneuri → Rivka Beila → Srul Mendel → Levi Itzhak → Barnett. Sources: Geni.com, Chabad.org, JewishGen, shulchanaruchharav.com.
 
+### 7. Georg Kascher's parents (pre-1792 Wurmloch)
+- **The question**: Georg Kascher (b. March 1792, Wurmloch) is the earliest known Kascher ancestor. Who were his parents? Family folklore claims Flanders origin, consistent with 12th century Saxon settlement history.
+- **Searched (2026-04-10)**: Genealogy.com (original poster also hit brick wall), Siebenbuerger.de, WikiTree, Geni.com, FamilySearch (catalog blocked), VGSS database references. No pre-1792 Kascher data found online.
+- **Best leads**: (1) VGSS database (vgss.de/genealogie-datenbank/) may have Wurmloch church records digitized. (2) Zentralarchiv, TeutschHaus, Sibiu holds Wurmloch Kirchenbucher. (3) Ancestry collections 5412/62878 may contain pre-1800 church records.
+- **Solvability**: MODERATE (records likely exist in archives; online access uncertain)
+- **Payoff**: HIGH (would extend the Kascher line by at least one generation)
+
+### 8. Krauss/Krause Binder naming discrepancy
+- **The question**: GEDCOM names Martin Binder's father as "Johann Krause Binder" (b. 1794); Siebenbuerger.de names him as "Petrus Krauss Binder." Are Johann and Petrus the same person (with one source in error), or different people (different generations)?
+- **Research (2026-04-10)**: "Krauss" is a Beiname (by-name) distinguishing this Binder family from other Binder families, not a maternal surname. "Krauss" = "curly haired." Father of Johann was Georg Krauss per GEDCOM. The compound name is standard Transylvanian Saxon practice.
+- **Next step**: Search VGSS database and Ancestry Transylvania collections for Binder families in Kreisch/Waldhutten. Church register would resolve Johann vs. Petrus.
+- **Solvability**: HIGH (if church registers accessed)
+- **Payoff**: MODERATE (clarifies one generation and naming convention)
+
+### 9. Transylvanian Saxon church record access
+- **The question**: What records exist for Wurmloch, Waldhutten, Kreisch, and Petersdorf, and how to access them?
+- **Research (2026-04-10)**: Wurmloch/Waldhutten registers in Zentralarchiv Sibiu. Petersdorf registers at Muhlbach (Sebes) Church. Ancestry has 5 relevant subscription collections (1607-1919). 1819-1820 Census on FamilySearch microfilm (free at Centers). VGSS actively digitizing ~80 villages.
+- **Next step**: Search VGSS database, then Ancestry subscription, then write to Zentralarchiv.
+- **Solvability**: HIGH (records exist; access is the barrier)
+- **Payoff**: HIGH (could extend all Transylvanian lines by 1-3 generations)
+
 ## Data Acquisition Priorities
 
 | Priority | Record Type | Location | Expected Yield | Cost |
 |---|---|---|---|---|
-| 1 | SS Baltic passenger manifest, Dec 23, 1904 | Ellis Island / Ancestry.com | Barnett's exact age, traveling companions, last residence | Free (Ellis Island) or Subscription |
-| 2 | 1930 US Census: Bright family, Irondequoit NY | Ancestry / FamilySearch / MyHeritage | Mary Elizabeth Bright's parents and siblings | Subscription |
-| 3 | Geni.com: Yekutiel Zalman Wallis | geni.com | Parents, Schneerson connection | Free |
-| 4 | SC marriage records: Bright + King or Bright + Kopp | Ancestry / FamilySearch | Bright-SC family link | Subscription |
-| 5 | 1920 US Census: Barnett Salmanson, Providence RI | Ancestry / FamilySearch | Household composition, immigration year | Subscription |
+| 1 | VGSS database search (Kascher/Schuller/Binder/Wagner) | vgss.de/genealogie-datenbank/ | Pre-1792 ancestors if village digitized | Free |
+| 2 | Ancestry Transylvania collections (5412, 62878, 61116) | Ancestry.com | Church records 1607-1919, tax registers | Subscription |
+| 3 | SS Baltic passenger manifest, Dec 23, 1904 | Ellis Island / Ancestry.com | Barnett's exact age, traveling companions, last residence | Free (Ellis Island) or Subscription |
+| 4 | 1819-1820 Transylvanian Census (Conscriptio Czirakyana) | FamilySearch microfilm (53 rolls) | Household heads in Wurmloch/Waldhutten circa 1819 | Free (at FamilySearch Center) |
+| 5 | Zentralarchiv Sibiu genealogical research request | TeutschHaus, Str. Mitropoliei 30, Sibiu | Georg Kascher baptism, parents | Fee (amount unknown) |
+| 6 | 1930 US Census: Bright family, Irondequoit NY | Ancestry / FamilySearch / MyHeritage | Mary Elizabeth Bright's parents and siblings | Subscription |
+| 7 | Siebenbuergen-Institut Gundelsheim KGA search | Schloss Horneck, Gundelsheim, Germany | Kascher/Binder/Schuller genealogical archive data | Fee (amount unknown) |
+| 8 | SC marriage records: Bright + King or Bright + Kopp | Ancestry / FamilySearch | Bright-SC family link | Subscription |
+| 9 | Muhlbach (Sebes) Church, Petersdorf records | Romania | Pfaff and Dressler deeper ancestry | Correspondence |
+| 10 | ATS records at University of Minnesota IHRC | Minneapolis, MN | Kascher family membership, emigration data | Research fee or visit |
