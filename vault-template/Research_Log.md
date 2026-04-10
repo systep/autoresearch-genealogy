@@ -491,3 +491,28 @@ UNVERIFIED: Rosa LURIA (1625), Shneur Zalman KATZ (1600). Rivkah "Hirtz" unconfi
 ### Search: Orange County NC land records
 
 **Results**: FOUND. William Cox on 1755 tax list (one of 3 William Coxes). Purchased 110 acres April 22, 1772 (Deed Book #3 p. 599). Sold October 13, 1787 for 250 pounds before migrating to SC.
+
+---
+
+## 2026-04-10: GEDCOM Cross-Reference (2,595 individuals vs 141 person files)
+
+### Discrepancies Resolved (GEDCOM wrong, vault correct):
+- Charles Salmanson birth: 1914-09-01 confirmed (GEDCOM said 1915)
+- Martha Corin death: Sep 26, 2015 confirmed (GEDCOM said 2013)
+- Anna Binder birth: Apr 1, 1868 confirmed via Siebenbuerger.de (GEDCOM said 1883)
+- Diana Black Cox: 1784 better supported (GEDCOM said ~1780)
+- Isaac Cox: ~1755 per WikiTree (GEDCOM said 1752)
+
+### New Confirmed Facts:
+- John Hough birthplace = Hough hamlet, Wilmslow Parish, Cheshire (surname = place name)
+- Eleanor Sands: born Oct 5, 1692, Bensalem, Bucks PA (WikiTree Sands-23, Quaker)
+- Stephen Sands: baptized Jun 16, 1658 Lancashire England, emigrated PA ~1682
+
+### New Discrepancies (need resolution):
+- Albert Graham Bright birthplace: Abingdon VA (chart Tier 2) vs Tarrant TX (GEDCOM Tier 3)
+- George Michael Bright birthplace: Greenville SC (implied) vs Rocky Mount VA (GEDCOM)
+- Boruch Poisner birthplace: Mukachevo Ukraine (Geni) vs Vitebsk Belarus (Chabadpedia)
+- Hannah Hough maiden name: Worthington (1680 parish record) vs Rossell (book speculation)
+- Eli Baldwin wife: Edaline Transon (GEDCOM) vs Elizabeth (WikiTree Baldwin-2330)
+- Heschel Herman Markel "Vanyavitch Poland": town not found in gazetteers
+- William Goldsmith Long: 1862-1937 (vault) vs 1861-1938 (GEDCOM) both unverified
