@@ -330,6 +330,24 @@ Verification found Thomas Manley Cox (son of Thomas B.) may have married Sarah E
 ### Kascher verification
 Georg Kascher 1792: corroborated (Genealogy.com). Anna Binder 1868-1915: corroborated (Siebenbuerger.de). Falk/Pfaff individuals: unverified. Rosina living to 103: unverified.
 
+### Independent Verification of Extended Lines
+
+**Brecht/Bright 1563-1794: CONFIRMED (6 generations, Strong Signal)**
+All generations verified across WikiTree, Geni, FamilySearch, Find a Grave, RootsWeb. Key corrections: George Adam Bright buried Augusta Co. VA (not Greenville SC). Conrad's wife full name: Catharina Claus Camerer.
+
+**Henderson 1632-1806: PARTIALLY CONFIRMED**
+James Sr. first in Northampton VA 1661, then Somerset MD. James "the Mariner" death date debated (1732 vs ~1752). May be same person as James Isaac. Argaleus birth 1720 vs 1727 varies by source.
+
+**Moseley-Huff-Long: PARTIALLY CONFIRMED**
+Samuel Moseley + Patty Holloway: confirmed. Rebecca Moseley + James Huff 1793: confirmed. Philemon Jr. + Louisa Amanda Dacus: confirmed (Find a Grave #8153971). Mary Elizabeth Huff + William Thomas Long: confirmed by handwritten notes + headstone, but WikiTree shows her as "Mary E. Pollard" (possible first marriage).
+
+### Thomas Manning Cox: CONFIRMED (Tier 1 sources)
+Headstone + 1850 census + 1860 census all confirm. CORRECTION: Manning's father is William Cox (b. ~1798) + Eliza, NOT Thomas B. Cox directly. William is probably Thomas B.'s son William J. "Billy Slick" Cox.
+
+### New Lines from MyHeritage Tree (Tier 3, unverified)
+Elizabeth Salk's father: Abraham (Charles) Zolly Salk + mother Tauba. Grandparents: Louis E.L.S. + Rose.
+Thelma Markel's parents: Morris M.M.M. Markel + Helen Brandt. Morris's parents: Heschel Herman Markel + Leah Frei. Helen's parents: Joseph Brandt + Brina Goldbaum.
+
 ---
 
 ## 2026-04-09: Deep Research — Henderson Line Extension
