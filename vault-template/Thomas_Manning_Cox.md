@@ -23,8 +23,9 @@ tags: [genealogy, cox, person, south-carolina]
 | Died | 1897 | MyHeritage |
 | Father | [[Thomas_B_Cox]] (1792-1857) | WikiTree Cox-18821 |
 | Mother | Olive Mary "Polly" Henderson | WikiTree Cox-18821 |
-| Spouse | Sarah Elizabeth "Lizzie" Clark (1836-1879) | MyHeritage |
-| Children | Roxanne (Rooksaner/Roxana) Cox (1865-1912) | MyHeritage |
+| Spouse | Sarah Elizabeth "Lizzie" Clark (Aug 13, 1836, Greenville SC - July 5, 1879, Standing Springs Church, Simpsonville SC) | Headstone (primary), Find a Grave #8304975, MyHeritage |
+| Wife's Parents | **Jedediah W Clark + Gilly Elizabeth Clark (born Baldwin)** | MyHeritage (Rogers Web Site, managed by Herman Rogers) |
+| Children | Perry Franklin Cox, Alexander J Cox, John Andrew Cox, Giddie Cox, William L Cox, **Roxanna A Cox** (1865-1912), Manning Cox, Florence Cox | MyHeritage |
 
 ## Biography
 
