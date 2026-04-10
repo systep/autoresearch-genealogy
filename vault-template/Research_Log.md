@@ -338,6 +338,25 @@ Georg Kascher 1792: corroborated (Genealogy.com). Anna Binder 1868-1915: corrobo
 **Jeddiah Clark + Gilley Baldwin**: PARTIALLY CONFIRMED (Baldwin family in community, specific parents Tier 3 only).
 **George Michael + Mary Neil**: generation confusion; likely George (1782-1873) = Samuel Graham Bright's father.
 
+### Transylvanian Pedigree Verification (8 great-great-grandparent couples)
+All from MyHeritage tree (Tier 3). Surnames confirmed in correct geographic area but specific couples unverified:
+1. Georg Kascher + Maria Wagner: PARTIALLY CONFIRMED (Genealogy.com forum)
+2. Johann Schuller + Sara Benning: UNVERIFIED (Benning surname documented in Kreisch)
+3. Johann Krause + Esthera Theil: UNVERIFIED (both surnames in Kreisch/Wurmloch area)
+4. Christian Weber + Sara Valentin: UNVERIFIED
+5. Mathias Johann + Konnerth: PARTIALLY (Konnerth confirmed in Wurmloch; John Konnerth m. Sophia Rienerth in Cleveland)
+6. Johann Probstdorfer + Maria Ranft: UNVERIFIED (Probstdorf village identified in Sibiu district)
+7. Mathias Pfaff + Reinerth: PARTIALLY (Pfaff confirmed in Petersdorf; Reinerth confirmed as Saxon surname)
+8. Johann Dressler + Sommer: PARTIALLY (Johan Dressler b.1889 Petersdorf → Montville OH on Ancestry)
+
+Critical: Sara Schuller was widow of Stephann Benning (not maiden name Benning). Petersdorf = Petersdorf bei Marktschelken (Petis). Lutheran church registers not indexed online.
+
+### Barnett Obituary and Elizabeth Census (Tier 1-2)
+Barnett obituary: "born in Russia, son of the late Lavi and Rachel Salmanson" (confirms Levi Itzhak + Rochel Tsine). Sister Mrs. Gittel (Gita confirmed). 56 years Providence. Founder/treasurer Adams Drug + 36 corporations.
+Elizabeth 1930 Census: born ~1887 POLAND, immigrated 1897. Both parents from Poland. Barnett = "Benjamin" on census.
+
+### ALL VERIFICATION AGENTS COMPLETE FOR THIS SESSION.
+
 ### Independent Verification of Extended Lines
 
 **Brecht/Bright 1563-1794: CONFIRMED (6 generations, Strong Signal)**
