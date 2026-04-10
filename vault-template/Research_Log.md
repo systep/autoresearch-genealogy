@@ -371,6 +371,14 @@ All from MyHeritage tree, classic Transylvanian Saxon names:
 - Mathias Pfaff + Katheri... Reinerth (older Mathias Pfaff's parents)
 - Johann Dressler + Katheri... Sommer (Katherina Dressler's parents)
 
+### Chabad Dynasty Verification (Independent)
+**Alter Rebbe + Mitteler Rebbe: CONFIRMED** (Wikipedia, Chabad.org = Tier 2).
+**Boruch Poisner (1721-1790): CONFIRMED** (Geni, Tier 3).
+**Schneur Zalman Loew + Rachel Portugaler: CONFIRMED** (Geni, Tier 3).
+**Moshe Loew of Posen + Sara Katz: CONFIRMED** (Geni, Tier 3).
+CORRECTIONS: Sterna's maiden name = Segal (not Boruchovitch). Yehuda Leib Segal death = ~1818 (not 1918, transcription error). Sheina born ~1774 (not 1773).
+UNVERIFIED: Rosa LURIA (1625), Shneur Zalman KATZ (1600). Rivkah "Hirtz" unconfirmed. Beila "Levinsohn" unconfirmed. Claims before ~1700 rely on Tier 3 only. Maharal descent contested in scholarship.
+
 ---
 
 ## 2026-04-09: Deep Research — Henderson Line Extension
