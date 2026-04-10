@@ -46,7 +46,13 @@ In 1932, Barnett and his sons Leonard, Samuel, Charles, and Donald founded **Ada
 
 The family were members of Temple Emanu-El (Conservative, founded 1924) and Ledgemont Country Club, and were active philanthropists (Miriam Hospital, Jewish Federation of R.I.).
 
-Barnett died December 14, 1960 in Miami, Florida.
+Barnett died December 14, 1960 (age 75). His funeral was held **December 16, 1960 at Temple Emanu-El, Morris Avenue, Providence**. He was buried the same day at **Lincoln Park Cemetery, Warwick, RI** (Find a Grave #97021158).
+
+His obituary states: "He was born in Russia, son of the late **Lavi and Rachel Salmanson**. He had lived in Providence 56 years." This confirms his parents' anglicized names (Lavi = Levi Itzhak; Rachel = Rochel Tsine). The obituary also names "a sister, Mrs. Gittel..." confirming Gita Zalmanson survived to at least 1960.
+
+His occupation was described as **"Founder and treasurer of Adams Drug Co. Inc. Treasurer and director of 36 affiliated corporations on the eastern seaboard."** He resided at **65 Laurel Avenue, Providence** and later **Miami Beach, Florida**.
+
+**Elizabeth (Salk) Salmanson** was born ~1887 in **Poland** (1930 census), NOT Lithuania. She immigrated to the US in **1897** (age ~10). Both her parents were born in Poland. On the 1930 census, Barnett is listed as "Benjamin Salmonson."
 
 ## Document Sources
 
