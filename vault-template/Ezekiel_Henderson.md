@@ -22,8 +22,11 @@ tags: [genealogy, henderson, person, revolutionary-war, south-carolina, north-ca
 | Full Name | Ezekiel Henderson | WikiTree Henderson-1855 |
 | Born | 1763, Chatham County, NC | WikiTree |
 | Died | November 2, 1846, Greenville County, SC | WikiTree |
-| Father | Argaleus Hercules Henderson I (~1720-1806) | WikiTree Henderson-7309 |
+| Father | Argaleus Hercules Henderson I (~1720-1806) | WikiTree Henderson-7309, Find a Grave #11725276 |
 | Mother | Molly Mary Clark (1722-1804) | WikiTree, Find a Grave #11725276 |
+| Paternal Grandfather | James Isaac Henderson Jr. (b. after 1705, Somerset Co. MD) + Mary Rhodes (~1700) | WikiTree Henderson-7310 |
+| Paternal Great-grandfather | James "the Mariner" Henderson (c.1689-1752, Somerset Co. MD) | Geni.com |
+| Paternal 2x Great-grandfather | William "the Sawyer" Henderson (b. before 1668, VA/MD Eastern Shore) + Sarah Bishop (m. 1685) | WikiTree, Geni.com |
 | Spouse | Elizabeth Brasher (m. October 10, 1782, SC) | WikiTree Brasher-153 |
 | Children | 15 children (see list below) | WikiTree |
 

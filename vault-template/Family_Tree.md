@@ -322,13 +322,29 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 
 *Sources: WikiTree Henderson-1855, Henderson-6197, Henderson-7309, RevWarApps S6994, Geni.com* **(strong)**
 
-**Generation 1 (earliest known): James Henderson + Mary (Rhodes)**
-- Possibly arrived from Scotland (one source claims via convict ship S.S. Friendship in 1716; indentured at Annapolis, MD until ~1732; settled Orange County, NC). **(speculative, needs verification)**
+**Generation 0 (earliest known): William "the Sawyer" Henderson** (b. before 1668, likely Accomack or Northampton County, Virginia) (moderate)
+- Married **Sarah Bishop** (m. 1685, Somerset County, Maryland)
+- Rooted in the Maryland/Virginia Eastern Shore since at least the 1660s
+- Sources: WikiTree, Geni.com
 
-**Generation 2: Argaleus Hercules Henderson I** (b. ~1720, Onslow, NC; d. June 1806, Chatham, NC) (moderate)
-- Married **Molly Mary (Clark)**
-- Participated in the **North Carolina Regulators movement** of 1768-1771, signing the Regulators' petition
-- Sources: WikiTree Henderson-7309, Find a Grave #11725276
+**Generation 0.5: James "the Mariner" Henderson** (c.1689-1752, Somerset County, Maryland) (moderate)
+- Son of William "the Sawyer" Henderson + Sarah Bishop
+- Mariner based in Somerset County, MD
+- Sources: WikiTree Henderson-7310, Geni.com
+
+**Generation 1: James Isaac Henderson Jr. + Mary Rhodes** (moderate)
+- Born after 1705, **Somerset County, Maryland** (NOT Scotland)
+- Married Mary Rhodes (~1700, possibly from Scotland per some trees)
+- Settled in Onslow County, North Carolina
+- **NOTE: The claim that James arrived as a convict on the ship "Friendship" in 1716 is NOT SUPPORTED.** The Friendship of Belfast is a real ship that carried 80 Jacobite prisoners to Maryland on Aug 20, 1716. However, NO James Henderson appears on any of the 10 Jacobite transport ships' passenger lists. The Henderson family was already established in Somerset County, MD by the 1680s. The "S.S. Friendship" designation is anachronistic (no steamships in 1716). This claim likely originated from user-contributed trees, not primary sources. (Strong Signal for negative result)
+
+**Generation 2: Argaleus Hercules Henderson I** (b. ~1720-1727, Onslow, NC; d. ~1804-1806, Chatham, NC) (strong)
+- Married **Molly Mary Clark** (1722-1804)
+- **Quaker** (Cane Creek Meeting), but **disowned** for participation in the **NC Regulators movement** (1768-1771). Signed Regulator Advertisement No. 9, May 1768.
+- Will dated September 6, 1804, Chatham County, NC
+- Property on south side of Haw River; 100 acres at mouth of Berry Branch (1778, Chatham County Deed Book B, p. 128)
+- **Name origin:** "Argaleus" derives from Sir Philip Sidney's romance *The Countess of Pembroke's Arcadia* (1590), via Francis Quarles' popular verse poem *Argalus and Parthenia* (1629, 30+ editions by 1730). A "Parthenia Merrill" married a Charles Henderson on the Eastern Shore, showing the name circulated in the Henderson family's social world.
+- Sources: WikiTree Henderson-7309, Find a Grave #11725276, NC Colonial Records
 
 **Generation 3: Ezekiel Henderson** (b. 1763, Chatham County, NC; d. Nov 2, 1846, Greenville County, SC) (strong)
 - **Revolutionary War veteran**: served as private 1781-1783 (cavalry and infantry), discharged at Hillsboro, NC
