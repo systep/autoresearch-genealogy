@@ -640,3 +640,17 @@ Bulkeley: Robert de Bulkeley (c.1210, Cheshire) → to Sir Richard of Beaumaris 
 - Geni.com: No relevant Kascher in Transylvania.
 - Genealogy.com poster also hit brick wall at Georg 1792.
 - Siebenbuerger.de guestbooks blocked during session.
+
+---
+
+## 2026-04-10: New PDF Document Intake (77 files)
+
+### Kascher Family Album (01-029.pdf) -- TIER 1 PRIMARY SOURCES
+Official Evangelical Church A.B. certificates from Waldhutten 1938, signed by Pastor Bogeschdorfer.
+CORRECTIONS: Michael Sr. born Mar 30 1864 (not Feb 11); died Jul 22 1935 Herzschlag. Sara Schuller born Jan 27 1829 died May 22 1876 uterine cancer. Michael (1834) born Sep 20 1834 died Jun 29 1880 pneumonia. Leonhard Schuller (~1770) = new generation. ROSINA born 1905 DIED 1928 Denver TB (NOT 103 years old!).
+
+### Pedigree Charts (1-46.pdf) -- Plantagenet royal descent
+Through Neville/DeAudley/De Clare to Joan Plantagenet (1272) to Henry II + Eleanor of Aquitaine to Anjou/Brittany/Gatinais counts ~800-900 CE. Albert Bright born Tarrant TX (not VA). Rebecca Long died 1965 (not 1985). William Thomas Long died 1897 (not 1887).
+
+### Yichus Narrative -- Markel/Frei family
+Vanyavitch/Waniowice confirmed. Nissen Mendel Markel = earliest. 1939 pogrom Rodzinka Forest. Ahavath Sholom confirmed. Pnei Yehoshua descent claimed.
