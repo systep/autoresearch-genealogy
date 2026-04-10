@@ -175,19 +175,27 @@ The digital family tree app (Screenshot 125748) displayed ex-spouses at sibling 
 - **Hannah (Kushner) Salmanson** (1914-2001): daughter of Jacob and Dora (Alpert) Kushner of Providence. Siblings: Esta (Kushner) Katz of Providence, Samuel Kushner (deceased), Phillip Kushner (deceased). Sources: Find a Grave #185239892, Charles obit, Esther Katz obit
 - **Jacob Kushner** (b. Jan 27, 1886, Russia; d. ?). Arrived in US: 1890 or 1895 (multiple arrival records). Residence: Providence Ward 3, Providence, RI, 1910 census. Source: MyHeritage
 
-### Salk Family (Elizabeth Salk's family)
+### Salk Family (Elizabeth Salk's ancestry)
 
-*Source: Web research (obituaries)* **(moderate)**
+*Source: MyHeritage family tree (unverified, Tier 3)* **(speculative until independently confirmed)**
 
-Elizabeth (Salk) Salmanson married Barnett Salmanson. Her parents are not yet identified. At least three Salk family branches existed in Providence, RI in the early 1900s:
-- **Samuel Salk** (b. Sept 25, 1884, d. Jan 1977): family founded Salk's Hardware & Marine in Providence in 1900 (still operating, 5th generation). Son Harold Salk (d. 2024, age 92) married Carolyn Bohn.
-- **Louis Salk + Belle (Feingold) Salk**: son Norton Elliot Salk (1927-2007), born Providence.
-- **Gabriel Salk + Frances (Shapiro) Salk**: son Stephen D. Salk (d. 2023, ~age 85), Classical High School '56.
-- **Ida Salk** (b. June 15, 1881, d. June 1982, age 101) of Providence.
+- **Elizabeth Salk** married Barnett (Berko) Salmanson, Sep 12, 1909, Providence RI
+- Father: **Abraham (Charles) Zolly Salk** + Mother: **Tauba [T.T.T.T....]**
+- Maternal grandparents: **Louis E.L.S.** + **Rose**
+- "Zolly" may be from Yiddish Zalman/Solomon, connecting to the broader Jewish naming patterns
 
-Elizabeth may be a sibling of one of these branches (born ~1885-1895 given Leonard's 1910 birth). No connection to Jonas Salk (1914-1995, born NYC) has been established; his family was based in East Harlem/Bronx NY. The surname "Salk" is Ashkenazi Jewish, likely from Yiddish "Zalk/Zalkind," of Lithuanian origin.
+### Markel Family (Thelma's ancestry)
 
-**WALL:** Elizabeth's specific parents require RI vital records, census, or marriage records (paywalled).
+*Source: MyHeritage family tree (unverified, Tier 3)* **(speculative until independently confirmed)**
+
+**Thelma (Tobi) Markel** (Sept 12, 1920 - Sept 22, 2011). Hebrew name: Tobi.
+- Parents: **Morris M.M.M. Markel** + **Helen Brandt**
+- Sister: Anne (Markel) Schlusselberg
+- **Morris Markel's parents**: Heschel Herman Markel + Leah Frei (Frye)
+- **Heschel Herman's parents**: Dov Markel + [wife unknown]
+- **Leah Frei's parents**: Yoseph Frei + Toba Rivka Frei
+- **Helen Brandt's parents**: Joseph Brandt + Brina Goldbaum
+- All names are Ashkenazi Jewish, likely Eastern European origin
 
 ### Eastern European Ancestry: Zalmanson Line
 
