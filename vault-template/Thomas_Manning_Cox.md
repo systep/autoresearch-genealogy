@@ -21,8 +21,9 @@ tags: [genealogy, cox, person, south-carolina]
 | Full Name | Thomas Manning Cox (also Thomas Manley Cox) | MyHeritage, WikiTree |
 | Born | 1828 | MyHeritage |
 | Died | 1897 | MyHeritage |
-| Father | [[Thomas_B_Cox]] (1792-1857) | WikiTree Cox-18821 |
-| Mother | Olive Mary "Polly" Henderson | WikiTree Cox-18821 |
+| Father | **William Cox** (b. ~1798, SC), probably William J. "Billy Slick" Cox, son of Thomas B. Cox | 1850 Census (Tier 1) |
+| Mother | **Eliza Cox** (b. ~1800, SC) | 1850 Census |
+| Grandfather | [[Thomas_B_Cox]] (1792-1857) + Olive Mary "Polly" Henderson | WikiTree Cox-18821 |
 | Spouse | Sarah Elizabeth "Lizzie" Clark (Aug 13, 1836, Greenville SC - July 5, 1879, Standing Springs Church, Simpsonville SC) | Headstone (primary), Find a Grave #8304975, MyHeritage |
 | Wife's Parents | **Jedediah W Clark + Gilly Elizabeth Clark (born Baldwin)** | MyHeritage (Rogers Web Site, managed by Herman Rogers) |
 | Children | Perry Franklin Cox, Alexander J Cox, John Andrew Cox, Giddie Cox, William L Cox, **Roxanna A Cox** (1865-1912), Manning Cox, Florence Cox | MyHeritage |
