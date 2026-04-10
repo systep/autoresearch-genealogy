@@ -306,7 +306,29 @@ All 9 previously open discrepancies resolved (see cross_reference_audit.md). Key
 ---
 
 11. Henderson deeper ancestry: MAJOR FINDS. Traced back 4 generations to James Henderson + Mary Rhodes (~1716 Scotland?). Ezekiel Henderson (1763-1846) was Revolutionary War veteran (pension S6994). Key discovery: Olive Mary "Polly" Henderson and Brashier Henderson were SIBLINGS (both children of Ezekiel), making the Rebecca Cox + Henry Henderson marriage a first-cousin marriage.
-12. Kascher: Rare German/Central European surname. No SC connection found for the name itself. Panciera is Italian, concentrated in Westerly RI. SC ancestry likely traces through a non-Kascher line.
+12. Kascher: Rare German/Central European surname. Panciera was Kathryn's EX-HUSBAND not sibling.
+
+---
+
+## 2026-04-10: Deep Line Research Results
+
+### Brecht/Bright line extended to 1563 (Strong Signal)
+Conrad Kuntz Brecht (~1563, Neudorf, Baden) → Christoph Stoffel (1591-1665, Schriesheim) → Hans Balthasar (1636-1703, Schriesheim councilman) → Johannes Michael (1662-1719) → Johann Michael Brecht (1706-1794, emigrated 1726 to PA, wife Margareta Simone, French Huguenot) → George Adam Bright (1730-1804, to VA then SC). All from Lutheran Church of Schriesheim records.
+
+### Henderson line extended to 1632 Scotland (Strong Signal)
+James Henderson Sr. (~1632, Perthshire Scotland → Somerset Co. MD 1661) → William "the Sawyer" (before 1668) → James "the Mariner" (~1689-1752, DNA confirmed) → James Isaac Jr. + Mary Rhodes → Argaleus Hercules Henderson I.
+
+### Moseley line to 1649 immigrant (Moderate Signal)
+Samuel Moseley's parents possibly Marvel Moseley Jr. (1682-1753) + Mary Davis. Connection to William Moseley (1649 Rotterdam immigrant) speculative; Arthur Moseley → Marvell Sr. link undocumented.
+
+### Huff origins
+Daniel Huff (c.1715-1777, Brunswick VA) parents unknown. Close relative (possibly brother) of William Huff who married Elizabeth Lundy. Both received adjacent land on Pigeon Roost Creek 1753.
+
+### Thomas Manning Cox DISCREPANCY
+Verification found Thomas Manley Cox (son of Thomas B.) may have married Sarah Elydia Dacus, NOT Sarah Elizabeth Clark. Thomas Manning Cox who married Clark may be a different person. Roxanne Cox not found among Thomas Manley's documented children. Needs resolution.
+
+### Kascher verification
+Georg Kascher 1792: corroborated (Genealogy.com). Anna Binder 1868-1915: corroborated (Siebenbuerger.de). Falk/Pfaff individuals: unverified. Rosina living to 103: unverified.
 
 ---
 
