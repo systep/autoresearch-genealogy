@@ -69,7 +69,8 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 - Sources: MyHeritage (Ohio birth index, 1950 US Census)
 
 **Mary Elizabeth Bright** (b. ~1922, Tennessee) **(strong)**
-- **Father: Albert G Bright** (b. ~1894, Virginia). **Mother: Rebecca M Long** (1898-1985; maiden name **Long**).
+- **Father: Albert Graham Bright** (1893-1961). Parents: George Michael Bright (1852-1939) + Willie H Youngblood (1863-1952). George Michael's parents: Samuel Graham Bright (1825-1909) + Mary Jane Bernard (1829-1900).
+- **Mother: Rebecca M Long** (1898-1985). Parents: **William Goldsmith Long** (1862-1937) + **Roxanne (Rooksaner/Roxana) Cox** (1865-1912). William Goldsmith's parents: William Thomas Long (1825-1887) + Mary Elizabeth Huff (1838-1922). Roxanne's parents: **Thomas Manning Cox** (1828-1897) + Sarah Elizabeth "Lizzie" Clark (1836-1879). Thomas Manning Cox = Thomas Manley Cox, son of Thomas B. Cox (1792-1857) + Olive Mary "Polly" Henderson.
 - Siblings: George M Bright (b. ~1924), Samuel Bright (b. ~1930), Robert Bright (b. ~1931)
 - 1930 Census: age 8, Irondequoit, Monroe, New York (Rochester suburb)
 - 1950 Census: parents Albert G (age 56) + Rebecca L (age 51) at Sagamore Drive, Irondequoit, Monroe, NY, with sons George, Samuel, Robert. Mary Elizabeth already married and at 49 Clay Ave with Kascher family.
@@ -391,7 +392,27 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 
 #### Connection: Cox intermarried families include **Longs** — CONFIRMED link to present family
 
-William Cox Sr. migrated to SC with the **Long** family in the 1780s. The large handwritten chart (IMG_0783) includes "Long" as a surname (Charles Edward Bright or Long). **This connection is now confirmed to the present day**: Rebecca M **Long** (1898-1985) married Albert G Bright (~1894, Virginia). Their daughter Mary Elizabeth Bright married Henry Michael Kascher. Their granddaughter Kathryn Ann Kascher married Alan Carl Salmanson. The "Bright or Long?" ambiguity on the chart reflects the intermarriage of these two families.
+William Cox Sr. migrated to SC with the **Long** family in the 1780s. **The Cox-Long intermarriage is now fully documented**:
+
+**Complete SC-to-present lineage (MyHeritage, Strong Signal):**
+```
+William Cox Sr. (c.1730) → William Cox Jr. (d.1798) → Thomas B. Cox (1792-1857)
+  + Olive Mary "Polly" Henderson
+    → Thomas Manning Cox (1828-1897) + Sarah Elizabeth "Lizzie" Clark (1836-1879)
+      → Roxanne (Rooksaner/Roxana) Cox (1865-1912)
+        + William Goldsmith Long (1862-1937)
+          [son of William Thomas Long (1825-1887) + Mary Elizabeth Huff (1838-1922)]
+            → Rebecca M Long (1898-1985)
+              + Albert Graham Bright (1893-1961)
+                [son of George Michael Bright (1852-1939) + Willie H Youngblood (1863-1952)]
+                  → Mary Elizabeth Bright (~1922, Tennessee)
+                    + Henry Michael Kascher (1914, Youngstown OH)
+                      → Kathryn Ann Kascher (1946)
+                        + Alan Carl Salmanson
+                          → Leonard Daniel Salmanson (L.D.)
+```
+
+**Note on "Huff":** Mary Elizabeth Huff (1838-1922) married William Thomas Long. This "Huff" surname also appears in Discrepancy #5 (Marcia King recorded as both "Kopp" and "Huff"), suggesting the Huff family was part of the intermarried SC cluster.
 
 ### Stangle Family (English/German Origin)
 
