@@ -63,7 +63,7 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 ### Kascher Family (Ohio / Rochester, NY)
 
 **Henry Michael Kascher** (b. December 10, 1914, Youngstown, Mahoning County, Ohio) **(strong)**
-- **Father: John Kascher** (per handwritten chart IMG_0785)
+- **Father: Michael Kascher** (b. Feb 11, 1889, Waldhütten, Transylvania, Austria-Hungary; d. June 7, 1975, Fort Lauderdale, FL). Transylvanian Saxon. MyHeritage. (Chart listed "John Kascher" but MyHeritage confirms Michael.)
 - **Mother's maiden name: Falk** (Ohio birth certificate, state file #1914109692)
 - Siblings: Helen (m. Johnny Braendorf), Gerry, Sophia
 - 1950 Census: age 35, 49 Clay Avenue, Rochester, Monroe, NY. Married.

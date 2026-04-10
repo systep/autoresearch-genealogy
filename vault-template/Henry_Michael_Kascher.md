@@ -22,14 +22,16 @@ tags: [genealogy, kascher, person, ohio, new-york]
 | Full Name | Henry Michael Kascher | Ohio Birth Index |
 | Born | December 10, 1914, Youngstown, Mahoning County, Ohio | Ohio Birth Index |
 | Died | Unknown | |
-| Father | Unknown Kascher | |
-| Mother | Unknown (maiden name **Falk**) | Ohio Birth Index |
+| Father | **Michael Kascher** (Feb 11, 1889, Waldhütten, Transylvania, Austria-Hungary; d. June 7, 1975, Fort Lauderdale, FL) | MyHeritage |
+| Mother | **Rosina Falk** (m. 1913) | MyHeritage, Ohio Birth Index |
 | Spouse | [[Mary_Elizabeth_Bright]] (~1922, Tennessee) | 1950 Census, MyHeritage |
 | Children | Kathryn Ann Kascher (Jan 1, 1946), Suzanne Kascher (~July 11, 1948), Nancy Kascher (1948-1949) | MyHeritage |
 
 ## Biography
 
-Henry Michael Kascher was born December 10, 1914 in Youngstown, Mahoning County, Ohio. His mother's maiden name was **Falk** (from the Ohio birth certificate). The Kascher surname is rare, of German/Central European origin, with 3 Kascher families in Ohio in the 1920 census.
+Henry Michael Kascher was born December 10, 1914 in Youngstown, Mahoning County, Ohio, the son of **Michael Kascher** (b. Feb 11, 1889, Waldhütten, Transylvania, Austria-Hungary; d. June 7, 1975, Fort Lauderdale, FL) and **Rosina Falk** (m. 1913). His father was a **Transylvanian Saxon** (ethnic German community settled in present-day Romania since the 12th century). Siblings: Helen (m. Johnny Braendorf), Gerry, Sophia.
+
+**NOTE:** The handwritten family chart listed the father as "John Kascher" but MyHeritage confirms **Michael Kascher**. "John" may be a nickname, middle name, or chart error.
 
 He was a **research chemist and inventor** at **Eastman Kodak** in Rochester, NY (Distillation Products, Inc. division, Research Laboratories). His published work and patents include:
 
