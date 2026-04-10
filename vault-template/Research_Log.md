@@ -535,3 +535,24 @@ UNVERIFIED: Rosa LURIA (1625), Shneur Zalman KATZ (1600). Rivkah "Hirtz" unconfi
 **Key action items**: Contact Lincoln Park Cemetery (401-737-5333), request RI death certificate for Abraham (1925), search Providence Journal microfilm Feb 1925.
 
 ### ALL GEDCOM CROSS-REFERENCE AND VERIFICATION COMPLETE.
+
+### Daniel Huff Parentage RESOLVED (Critical Correction)
+THREE different Daniel Huff/Houghs conflated in GEDCOM and MyHeritage tree:
+1. Daniel Hough (b.1693, Bucks PA, Quaker) = John Hough III's son. Married Judith Hartley. NOT our ancestor.
+2. Daniel Huff II (Stokes NC) = married Mary Worley 1741 in Burlington NJ. NOT our ancestor.
+3. Daniel Huff (d.1777, Brunswick VA) = OUR ancestor. Will dated 1773, probated 1777. Wife: Mary (probably Holloway). Sons: Daniel, Philemon, Reuben, Lewis, James.
+CORRECT LINEAGE: Daniel Huff (d.1777) + Mary Holloway → James Huff (1768-1842) → Lewis P Huff → Mary Elizabeth Huff → William Goldsmith Long → Rebecca Moseley Long
+
+### Holloway Line Extended to England
+George Holloway (1590-1641, Oxford, England) → David (1664, York VA) → George (1709, Lunenburg VA) → William (1737, Brunswick VA) → Martha Patty Holloway → m. Samuel Moseley
+
+### Brashier Line Complete: Maryland to South Carolina
+William B. Brasher Sr. (c.1674, England; d.1708, Baltimore MD) → Thomas Brasher (d.1770, Orange NC) → Thomas Levi Brasher Jr. (d.1789, Greenville SC) → Elizabeth Brasher (m. Ezekiel Henderson 1782)
+
+### Hough Line Corrected
+John Hough emigrant (b.~1653 Wilmslow Cheshire) son of Lawrance Hough (d.1668) + Elizabeth Barton. Wife = Hannah WORTHINGTON (not Rossell). Henry Hough (~1540-1618) "of The Hough" earliest in Wilmslow, will survives. Stephen Sands parents DISPUTED: probably Richard Sands + Isabella of Lancashire, NOT Richard Sandys + Hester Aucher of Kent.
+
+### Sandys/Culpepper Nobility Lines
+Culpepper: Sir Thomas de Colepeper "The Recognitor" (c.1170) → documented through 20+ generations to Dr. Martin Culpepper (1540-1605)
+Sandys: Simon de Sabulonibus (c.1205, Cumberland) → to Archbishop Edwin Sandys (1519-1588) → to Sir Edwin (Virginia Company) and Sir Samuel
+Bulkeley: Robert de Bulkeley (c.1210, Cheshire) → to Sir Richard of Beaumaris → Catherine married Sir Edwin Sandys
