@@ -401,7 +401,9 @@ William Cox Sr. (c.1730) → William Cox Jr. (d.1798) → Thomas B. Cox (1792-18
     → Thomas Manning Cox (1828-1897) + Sarah Elizabeth "Lizzie" Clark (1836-1879)
       → Roxanne (Rooksaner/Roxana) Cox (1865-1912)
         + William Goldsmith Long (1862-1937)
-          [son of William Thomas Long (1825-1887) + Mary Elizabeth Huff (1838-1922)]
+          [son of William Thomas Long (1825-1887) + Elizabeth Huff (1838-1922)]
+          [HEADSTONE CONFIRMED: Standing Springs area, reads "William T. Long 1825-1887 / Elizabeth Huff__ 18?0-1922"]
+          [POSSIBLE ENGLAND CONNECTION: 1911 England & Wales Census shows "Elizabeth Long" b. ~1839 Old Colcove, Somersetshire, living Periton Minehead, Somerset. If same person, she was English-born and returned to England after William's 1887 death. NEEDS VERIFICATION.]
             → Rebecca M Long (1898-1985)
               + Albert Graham Bright (1893-1961)
                 [son of George Michael Bright (1852-1939) + Willie H Youngblood (1863-1952)]
