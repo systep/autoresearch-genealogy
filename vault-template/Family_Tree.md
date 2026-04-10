@@ -60,10 +60,24 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 
 **Note:** Shelly White appears alongside Alan's siblings in the digital tree (Screenshot 125748). She is NOT listed on Thelma's memorial as a child of Leonard Irving. **Cross-reference audit conclusion (Moderate Signal):** Shelly White is not a biological child of Leonard Irving and Thelma. Most likely a step-relation through Thelma's second marriage to Rodbell (e.g., Rodbell's daughter from a prior marriage). Her different surname (White, not Salmanson or Rodbell) suggests she married. Alternative: wife of a family member placed at sibling level in the tree app.
 
-**Kathryn Ann Kascher** (b. ~1946, New York) **(strong)**
-- **Parents: Henry M Kascher + Mary E Kascher** (confirmed via 1950 US Census, MyHeritage)
-- 1950 Census: age 4, residing at **49 Clay Avenue, Rochester, Monroe County, New York**
-- The Kascher family is from **Rochester, NY**, not South Carolina. The SC connection (Cox, Henderson, King, Stangle, Duff) must trace through **Mary E Kascher's maiden name** or through an earlier generation.
+### Kascher Family (Ohio / Rochester, NY)
+
+**Henry Michael Kascher** (b. December 10, 1914, Youngstown, Mahoning County, Ohio) **(strong)**
+- **Mother's maiden name: Falk** (Ohio birth certificate, state file #1914109692)
+- 1950 Census: age 35, 49 Clay Avenue, Rochester, Monroe, NY. Married.
+- Kascher surname: rare, German/Central European origin. 3 Kascher families in Ohio in 1920 census, confirming this as the geographic center of the Kascher family.
+- Sources: MyHeritage (Ohio birth index, 1950 US Census)
+
+**Mary Elizabeth Bright** (b. ~1922, Tennessee) **(strong)**
+- 1930 Census: age 8, Irondequoit, Monroe, New York (Rochester suburb)
+- Married Henry Michael Kascher. 1950 Census: age 28, 49 Clay Avenue, Rochester, NY.
+- **THE SC CONNECTION IS THROUGH THE BRIGHT FAMILY.** The **Bright** surname appears on the large handwritten chart (IMG_0783) connected to the **King and Kopp** families through marriage lines. "Mary Elizabeth Bright" and "Charles Edward Bright (or Long?)" are listed on that chart. The path: SC families (Cox, Henderson, King, Kopp, Stangle) → **Bright family** (Tennessee/SC origin) → Mary Elizabeth Bright → married Kascher → daughter Kathryn → married Salmanson.
+- Sources: MyHeritage (1930 + 1950 US Census)
+
+**Children of Henry Michael Kascher + Mary Elizabeth Bright:**
+- **Kathryn Ann Kascher** (b. January 1, 1946, New York) -- married Alan Carl Salmanson
+- **Suzanne Kascher** (b. ~July 11, 1948)
+- **Nancy Kascher** (b. 1948-1949, New York)
 
 **Kathryn Ann Kascher's siblings:**
 - Richard Panciera (half-sibling or step-sibling; different surname indicates different father. **Panciera is an Italian surname**, concentrated in Westerly, RI area since early 1900s. This suggests a Rhode Island Italian-American connection through one parent's prior relationship. See Discrepancy #6.)
@@ -183,15 +197,26 @@ The names in the family tree screenshots (Dovber, Yekutiel, Rivka, Srul, Levi, R
 | Leiba | (unnamed) | unclear | moderate |
 | Eliyahu (or similar) | Golda | unclear | moderate |
 
+#### Generation 2: Yekutiel Zalman Wallis + Rivka Beila (Shneuri)
+
+| Person | Spouse | Parents | Confidence |
+|--------|--------|---------|------------|
+| **Yekutiel Zalman Wallis** | **Rivka Beila Wallis (born Shneuri)** | from Yosef + Luba / Dovber + Sheyna lines (?) | **strong** (MyHeritage, confirmed as Srul Mendel's parents) |
+
+**Note on "Shneuri":** Rivka Beila's maiden name **Shneuri** is a variant of **Schneuri/Schneerson**. This likely indicates descent from the **Shneur Zalman of Liadi** dynasty (founder of Chabad-Lubavitch). The Schneerson/Chabad connection to this family appears to run through the MATERNAL line (Rivka Beila Shneuri → Srul Mendel → Levi Itzhak → Barnett), not through the previously hypothesized 1826 marriage of Rabbi Levi Yitzchok Zalmanson to Dvorah Leah Schneursohn. The two Zalmanson lines may be related but are distinct.
+
+**Note on "Wallis":** The surname "Wallis" used by Yekutiel Zalman may be a geographic indicator, alternate family name, or an artifact of record-keeping. "Yekutiel" matches the "Yekutiel" in the family tree screenshots (Gen 2). "Rivka" matches the "Rivka" paired with Yekutiel in the screenshots.
+
 #### Generation 3: Srul Mendel Zalmanson + Gita
 
-| Person | Spouse | Parents (probable) | Confidence |
-|--------|--------|--------------------|------------|
-| **Srul Mendel Zalmanson** | **Gita Zalmanson** | from Yekutiel + Rivka (?) | **strong** (confirmed as Levi Itzhak's parents via MyHeritage) |
+| Person | Spouse | Parents | Confidence |
+|--------|--------|---------|------------|
+| **Srul Mendel Zalmanson** (b. 1820; d. 1854, Barysaw/Borisov, Minsk Region, Belarus) | (1) 1st wife (name unknown), (2) **Gita Zalmanson** | **Yekutiel Zalman Wallis + Rivka Beila (Shneuri)** | **strong** (MyHeritage) |
 | Zawel Deykh | (unnamed) | **maternal grandfather of Barnett** (father of Rochel Tsine) | **strong** |
 | Louis | (unnamed) | unclear connection | speculative |
 
-**Note on "Zawel":** The name "Zawel" that appeared in the family tree screenshots is now identified as **Zawel Deykh**, father of Rochel Tsine (Barnett's mother). He is on the maternal (Deych) side, not the Zalmanson side.
+- Srul Mendel had two wives; children include Berko Zalmanson and Liba Zalmanson
+- Died young (age ~34) in Barysaw (Borisov), Belarus. Family later appears in Rokiškis, Lithuania (1877 marriage) and Vilnius (1883 birth), suggesting migration from Belarus to Lithuania.
 
 #### Generation 4: Levi Itzhak Zalmanson + Rochel Tsine Deych
 
@@ -424,11 +449,14 @@ No web results found for "Kerben King." This name may be an unusual spelling or 
 - Francis Jane Byars (or Ryan?), John Byars (or Ryan?)
 - Very difficult to read; low confidence
 
-### Bright Family
+### Bright Family (Tennessee / South Carolina connection)
 
-*Source: IMG_0783.jpg (large chart)* **(speculative)**
-- Mary Elizabeth Bright, Charles Edward Bright (or Long?)
-- Connected to King and Kopp families through marriage lines on chart
+*Source: IMG_0783.jpg (large chart), MyHeritage census records* **(moderate to strong)**
+
+**Mary Elizabeth Bright** (b. ~1922, Tennessee) married **Henry Michael Kascher** (b. Dec 10, 1914, Youngstown, OH). This is the confirmed SC-to-Kascher connection. The Bright family appears on the large handwritten chart (IMG_0783) connected to the King and Kopp families through marriage lines. Mary Elizabeth likely descends from the SC Bright family who intermarried with the King/Kopp/Cox/Henderson cluster.
+
+- **Charles Edward Bright (or Long?)**: appears on the chart. The Cox family migrated with the Long family from NC to SC; "Bright or Long" confusion suggests these families intermarried.
+- **Next research target**: Mary Elizabeth Bright's parents (likely on the chart or in Tennessee/SC records). A "Charles Edward" Bright could be her father or grandfather.
 
 ### Additional Surnames from Large Handwritten Chart
 
@@ -538,7 +566,7 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 
 3. ~~**Missing Salmanson generations**~~: **RESOLVED.** MyHeritage confirms: Barnett Salmanson = **Berko Zalmanson**, born May 15, 1883, Vilnius (Vilna), Lithuania. Father: **Levi Itzhak Zalmanson**. Mother: **Rochel Tsine (born Deych)**. Sibling: **Gita Zalmanson**. Died December 14, 1960, Miami, FL. The Levi + Rochel in the family tree screenshots are confirmed as Barnett's parents. Remaining question: how does Levi Itzhak connect to the earlier Zalmanson/Schneerson line (Srul, Yekutiel, Dovber generations)?
 
-4. **How do the SC families connect to Kascher?** The Kascher surname is German/Central European (concentrated in Ohio in 1920 census), NOT from SC. The SC connection (Cox, Henderson, King, Stangle, Duff) likely traces through Kathryn's maternal or paternal line, not the Kascher name itself. The Panciera half/step-sibling connection points to Rhode Island Italian-American roots for one parent. **WALL:** Need marriage records or census for Kathryn's parents to determine which line carries the SC ancestry.
+4. ~~**How do the SC families connect to Kascher?**~~: **RESOLVED.** Mary E Kascher's maiden name is **Bright** (Mary Elizabeth Bright, b. ~1922, Tennessee). The Bright family appears on the large handwritten chart (IMG_0783) connected to the King and Kopp families. The SC connection runs: SC families → Bright → Mary Elizabeth Bright → married Henry Michael Kascher (b. 1914, Youngstown OH, mother maiden name Falk) → daughter Kathryn → married Alan Salmanson. **Next**: find Mary Elizabeth Bright's parents to complete the Bright-to-SC link.
 
 5. **Kerben King**: No web results found. Is this name spelled correctly? Could it be "Corbin," "Kirby," or another variant?
 
