@@ -358,7 +358,20 @@ Elizabeth 1930 Census: born ~1887 POLAND, immigrated 1897. Both parents from Pol
 ### Brecht Pre-1563 Research
 Conrad Kuntz Brecht (~1563) is the confirmed endpoint. Father may be "Hans Brecht" (1579 church record, uncertain ID). Deeper ancestry (Mayor von Hohenworth, Tyrol): legendary, no primary sources. Neudorf destroyed repeatedly in 1600s (8 families by 1683); pre-1600 records almost certainly lost. Catharina married Conrad March 24, 1584; her father Melchior Camerer + Anna Paulchen. Brecht = short form of Albrecht (berht = bright). Schriesheim church records from ~1558 available on Archion.de. Best resource: A.G. Green "Historical Sketch of the Bright Family" (1900, FamilySearch #1036369).
 
-### ALL VERIFICATION AND DEEP-LINE AGENTS COMPLETE FOR THIS SESSION.
+### Chabad Deep Line Research (Pre-1600)
+Maharal of Prague (c.1525-1609) confirmed as ancestor through 7-generation chain: Chaim of Worms (~1445) → Bezalel (~1480) → MAHARAL → Bezalel Charif → Shmuel Loew (1576) → Yehuda Leib (~1625) → Moshe Loew of Posen (1663) → Schneur Zalman Loew (1692) → Boruch Poisner (1721) → ALTER REBBE.
+Rosa Luria: UNVERIFIED. Maharal descent from King David: CONTESTED (Perels' 1745 source has errors). Katz line = second Maharal connection through Isaac Katz (Maharal's son-in-law). Portugaler = Sephardic Portuguese origin.
+
+### Brecht Pre-1563 Research
+Conrad Kuntz Brecht (~1563) confirmed as endpoint. Father possibly "Hans Brecht" (1579 church record). Deeper = legendary.
+
+### Huff = HOUGH Discovery
+Daniel Hough + Mary Worley = earliest Huff ancestor. Surname Hough→Huff. Colonial Hough/Sands connection: John Hough + Ann Heald, Richard Sandys + Hester Aucher (possibly English noble family).
+
+### Cox MyHeritage Tree WARNING
+Uses erroneous Quaker merger (William Richardson Cox). DNA disproves. Do NOT trust above Isaac Cox. Clark/Baldwin line new: Eli Baldwin + Edaline L → John Baldwin + Alice Frances.
+
+### ALL RESEARCH AGENTS COMPLETE.
 
 ### Independent Verification of Extended Lines
 
