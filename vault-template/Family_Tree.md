@@ -69,9 +69,11 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 - Sources: MyHeritage (Ohio birth index, 1950 US Census)
 
 **Mary Elizabeth Bright** (b. ~1922, Tennessee) **(strong)**
+- **Father: Albert G Bright** (b. ~1894, Virginia). **Mother: Rebecca L Bright** (b. ~1899).
+- Siblings: George M Bright (b. ~1924), Samuel Bright (b. ~1930), Robert Bright (b. ~1931)
 - 1930 Census: age 8, Irondequoit, Monroe, New York (Rochester suburb)
-- Married Henry Michael Kascher. 1950 Census: age 28, 49 Clay Avenue, Rochester, NY.
-- **THE SC CONNECTION IS THROUGH THE BRIGHT FAMILY.** The **Bright** surname appears on the large handwritten chart (IMG_0783) connected to the **King and Kopp** families through marriage lines. "Mary Elizabeth Bright" and "Charles Edward Bright (or Long?)" are listed on that chart. The path: SC families (Cox, Henderson, King, Kopp, Stangle) → **Bright family** (Tennessee/SC origin) → Mary Elizabeth Bright → married Kascher → daughter Kathryn → married Salmanson.
+- 1950 Census: parents Albert G (age 56) + Rebecca L (age 51) at Sagamore Drive, Irondequoit, Monroe, NY, with sons George, Samuel, Robert. Mary Elizabeth already married and at 49 Clay Ave with Kascher family.
+- **THE SC CONNECTION IS THROUGH THE BRIGHT FAMILY.** The **Bright** surname appears on the large handwritten chart (IMG_0783) connected to the **King and Kopp** families through marriage lines. Albert G Bright's **Virginia** origin could trace back to the SC/VA border region. "Charles Edward Bright (or Long?)" on the chart may be Albert's father or uncle (not Mary Elizabeth's father as previously speculated).
 - Sources: MyHeritage (1930 + 1950 US Census)
 
 **Children of Henry Michael Kascher + Mary Elizabeth Bright:**

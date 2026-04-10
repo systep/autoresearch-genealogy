@@ -12,12 +12,9 @@ Research gaps and unresolved questions, organized by priority and family line. U
 ## High Priority (Would Significantly Advance Understanding)
 
 ### 1. Mary Elizabeth Bright's parents and the SC connection
-- **The question**: Mary Elizabeth Bright (b. ~1922, Tennessee) married Henry Michael Kascher. She is the link between the Kascher family and the SC families (King, Kopp, Cox, Henderson, Stangle). Who are her parents? Is "Charles Edward Bright" from the handwritten chart her father or grandfather?
-- **Impact**: Resolving this would complete the path from the SC colonial families to the present-day family.
-- **Next step**: Search MyHeritage for Mary Elizabeth Bright's parents in 1930 census (Irondequoit, Monroe, NY). Search for Charles Edward Bright in Tennessee and South Carolina records.
-- **Evidence so far**: Bright surname on large handwritten chart (IMG_0783) connected to King and Kopp families. Mary E Bright born TN, in Irondequoit NY by 1930.
-- **Solvability**: HIGH
-- **Payoff**: HIGH
+- **PARTIALLY RESOLVED (2026-04-10)**: Parents identified: **Albert G Bright** (b. ~1894, Virginia) + **Rebecca L Bright** (b. ~1899). 1950 census: Sagamore Drive, Irondequoit, Monroe, NY, with sons George M (26), Samuel (20), Robert (19). Albert's Virginia origin could connect to the SC/VA region. "Charles Edward Bright" from the chart is NOT her father; may be Albert's father or uncle.
+- **Remaining**: Who are Albert G Bright's parents? Is Charles Edward Bright his father? What is Rebecca L's maiden name? How does the Bright line connect to King/Kopp in SC?
+- **Next step**: Search MyHeritage for Albert G Bright (b. ~1894 Virginia) parents. Search for Charles Edward Bright + Virginia + South Carolina.
 
 ### 2. Yekutiel Zalman Wallis and Rivka Beila (Shneuri) identity
 - **RESOLVED (2026-04-10)**: Rivka Beila (Shneuri) was a **daughter of the Mitteler Rebbe** (Rabbi Dovber Shneuri, 2nd Lubavitcher Rebbe) and **granddaughter of Shneur Zalman of Liadi** (Alter Rebbe, founder of Chabad). "Wallis" = transliteration of "Volis" (Ukrainian Jewish surname). Yekutiel Zalman Volis's father was Yosef Bunim, a son-in-law of Rabbi Levi Yitzchak of Berditchev. Srul Mendel and Rabbi Levi Yitzchok Zalmanson (1812-1872) were BROTHERS. **Strong Signal**: Geni.com (multiple profiles), Chabad.org, shulchanaruchharav.com, JewishGen.
