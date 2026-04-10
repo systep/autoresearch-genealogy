@@ -525,3 +525,13 @@ UNVERIFIED: Rosa LURIA (1625), Shneur Zalman KATZ (1600). Rivkah "Hirtz" unconfi
 **Diana Black Cox**: GEDCOM wrong (ABT 1780 Greenville SC). Correct: 1784 North Carolina (WikiTree, Cox Family History Project). Full name possibly "Diannah Priscilla Jackson Black."
 **Quaker lineage**: CONFIRMED AS WRONG. GEDCOM contains ~50+ individuals from the Quaker William Richardson Cox (1692 Hockessin DE) line who are NOT related. DNA disproves connection. These should be flagged/removed.
 **William Cox (1798) identity**: This is Isaac Cox's son, NOT Thomas B. Cox's son "Billy Slick" as the vault previously suggested. The 1850 census head of household is Isaac's son William.
+
+### Salk GEDCOM Verification (59 individuals)
+**Celia (Zipporah) Bella Salk (1872-1959)**: INDEPENDENTLY CONFIRMED via Ancestry.ca. Parents: Louis Salk + Dina (Deena) Hassel Hessel. Born Lithuania. This corroborates Louis as patriarch.
+**Abraham Zolly Salk d. Feb 22, 1925**: UNVERIFIED (no obit/FAG found). Need RI death certificate.
+**Louis Salk b. ~1840 Lithuania**: PARTIALLY CONFIRMED (Celia's Ancestry record names him as father).
+**6 Salk branches identified in Providence**: Louis/Dina, Hyman/Hardware, Louis/Belle, Benjamin/Lillian, Gabriel/Frances, Harris/NYC. Connection between branches unconfirmed.
+**Jonas Salk**: Separate NYC branch (Harris Salk 1865-1943). No confirmed Providence connection.
+**Key action items**: Contact Lincoln Park Cemetery (401-737-5333), request RI death certificate for Abraham (1925), search Providence Journal microfilm Feb 1925.
+
+### ALL GEDCOM CROSS-REFERENCE AND VERIFICATION COMPLETE.
