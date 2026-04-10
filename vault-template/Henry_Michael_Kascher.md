@@ -23,7 +23,7 @@ tags: [genealogy, kascher, person, ohio, new-york]
 | Born | December 10, 1914, Youngstown, Mahoning County, Ohio | Ohio Birth Index |
 | Died | **January 10, 1987** (age 72), buried **Tod Homestead Cemetery, Youngstown, Ohio** | Gravestone, MyHeritage |
 | Father | **Michael Kascher** (Feb 11, 1889, Waldhütten/Valchid, Transylvania, Austria-Hungary; d. June 7, 1975, Fort Lauderdale, FL) | MyHeritage |
-| Mother | **Rasina (Rosina) Falk** (b. ~1897, Romania; m. **May 10, 1913, Beaver, Pennsylvania**, age 16). Father: **Mathias Falk**. Mother: [?] Falk. | Marriage record (microfilm #001290365), MyHeritage, 1930 Census |
+| Mother | **Rasina (Rosina) Falk** (1896-1999, age 103!; m. **May 10, 1913, Beaver, Pennsylvania**, age 16). Parents: **Mathias Falk** (1867-1934) + **Katharina Pfaff** (1871-deceased). Paternal grandparents: Mathias Falk (1837-1892) + Agnetha Probstdorfer (1847-1888). Maternal grandparents: Mathias Pfaff (1836-1899) + Katherina Dressler (1844-1934). | Marriage record, MyHeritage tree |
 | Paternal lineage | Georg Kascher (b. 1792, Wurmloch/Valea Viilor) → Michael Kascher (b. 1834, Wurmloch, d. 1880, Waldhütten, m. Sara Schuller) → Michael Kascher Jr. (b. 1889) | Genealogy.com, Siebenbuerger.de |
 | Spouse | [[Mary_Elizabeth_Bright]] (~1922, Tennessee) | 1950 Census, MyHeritage |
 | Children | Kathryn Ann Kascher (Jan 1, 1946), Suzanne Kascher (~July 11, 1948), Nancy Kascher (1948-1949) | MyHeritage |
