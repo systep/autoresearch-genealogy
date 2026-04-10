@@ -408,7 +408,7 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 
 #### Connection: Cox intermarried families include **Longs** — CONFIRMED link to present family
 
-William Cox Sr. migrated to SC with the **Long** family in the 1780s. **The Cox-Long intermarriage is now fully documented**:
+William Cox Sr. migrated to SC with the **Long** family in the 1780s. The original Cox-Long intermarriage was **Thomas Long + Rachel Cox** (daughter of Isaac Cox, granddaughter of William Cox Sr.). Thomas Long appears in the 1790 Greenville District census and in the **1817 Cox estate sale** as a connected family member. Rachel Cox died 1824. **The Cox-Long intermarriage is now fully documented**:
 
 **Complete SC-to-present lineage (MyHeritage, Strong Signal):**
 ```
@@ -419,8 +419,10 @@ William Cox Sr. (c.1730) → William Cox Jr. (d.1798) → Thomas B. Cox (1792-18
         + William Goldsmith Long (1862-1937)
           [son of William Thomas Long (1825-1887) + Mary Elizabeth Huff (June 21, 1838, Butler Co. KY - Aug 6, 1922)]
           [HEADSTONE: "William T. Long 1825-1887 / Elizabeth Huff__ 18?0-1922"]
-          [1860 Census: Madison County, Kentucky, age 22, with husband William Long]
+          [Born Butler County, Kentucky; 1860 Census: Madison County, KY, age 22, with husband William Long]
           [Child: James Louis Long (sibling of William Goldsmith)]
+          [Huff family origin: Southside Virginia (Brunswick/Bedford Counties). Both KY and SC Huff branches share this VA origin.]
+          [SC Huff connection: Philemon Huff (1763-1843, VA→SC) married into Payne family; Paynes migrated with Coxes.]
           [NOTE: 1911 England census "Elizabeth Long" (Somersetshire) is a DIFFERENT person; disregarded]
             → Rebecca M Long (1898-1985)
               + Albert Graham Bright (1893-1961)
