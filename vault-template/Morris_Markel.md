@@ -33,11 +33,23 @@ tags: [genealogy, markel, person, poland, jewish, immigrant, rabbi, rhode-island
 
 ## Biography
 
-Morris Moishe Myer Markel was born in Poland, the son of **Heschel Herman Markel** (b. 1862, Vanyavitch, Poland; d. 1916) and **Leah Frei/Frye** (nickname Leije). The family was Ashkenazi Jewish. Heschel Herman's father was Dov Markel. Leah Frei's parents were Yoseph Frei and Toba Rivka Frei. The alternate spelling "Markiel" appears in Geni records (e.g., "Hersch Markiel"), suggesting the original Yiddish/Polish form of the surname.
+Moishe Myer (Morris) Markel was born in Vanyavitch, Galicia (near Lemberg/Lviv), the son of **[[Heschel_Herman_Markel]]** (Heshel Markel; b. 1862, Vanyavitch; d. 1916) and **[[Leah_Frei]]** (b. 1864; d. 1940) (Yichus narrative, Tier 2). The family was Ashkenazi Jewish. Heshel's father was [[Dov_Markel]], and Dov's father was [[Nissen_Mendel_Markel]], the earliest known Markel ancestor (Yichus narrative, Tier 2). Leah Frei's parents were [[Yoseph_Frei]] and [[Toba_Rivka_Frei]] (of Dubosari) (Yichus narrative, Tier 2). The alternate spelling "Markiel" appears in Geni records (e.g., "Hersch Markiel"), suggesting the original Yiddish/Polish form of the surname.
 
-Morris's siblings included: Florence Sura Feiga Mermelstein (born Markel), Avraham Chaim Markel, Masha Tachner (born Markel), Minnie Mircha Markel (1889-1975, m. Abraham David Sternbach), another sibling who married Tachner, Hannah Markiel, Pessel Markiel, and Faga Karp (born Markel). The family originated from the Galicia/Poland region (Vanyavitch, described as "Wamocoica, Austria, Galicia" in Minnie's records), which was part of the Austro-Hungarian Empire and later Poland.
+The Yichus narrative describes Morris as "a very learned man" (Tier 2). He entered the United States claiming to fill a position as a Rabbi at **Ahavath Sholom Synagogue** in Arctic (West Warwick), Rhode Island (Yichus narrative, Tier 2). His full Hebrew/Yiddish name was Moishe Myer.
 
-Morris married **Helen Brandt** (b. ABT July 27, 1889, Poland; d. EST July 27, 1975). Helen's parents were Joseph Brandt and Brina Goldbaum (per the Thelma Markel person file).
+Morris was one of eight surviving children of Heshel and Leah (14 born, 6 died in childhood) (Yichus narrative, Tier 2). His siblings, in birth order per the Yichus narrative:
+1. **[[Minnie_Markel_Sternbach]]** (1887-1975), settled Rhode Island
+2. **Avraham Chaim Markel** (murdered with family in Pogrom, 1939)
+3. **Masha Markel Tachner** (murdered with family in Pogrom, 1939)
+4. **Morris (Moishe Myer) Markel** (this individual), settled Rhode Island
+5. **Sarah Markel Tachner**
+6. **Hannah Markel** (murdered with family in Pogrom, 1939)
+7. **[[Florence_Markel_Mermelstein]]** (Sura Feiga; 1909-1990)
+8. **Pessel (Peppy) Frei** (murdered 1939/1940)
+
+Four of Morris's siblings (Avraham Chaim, Masha, Hannah, and Pessel) were murdered along with their families during a Pogrom in 1939. According to the Yichus narrative, on Rosh Hashanah 1939, "They were forced to leave the premises and were marched to the Rodzinka Forest where they were murdered" (Yichus narrative, Tier 2).
+
+Morris married **[[Helen_Brandt]]** (Helen Brandt Markel) (MyHeritage, Tier 3; confirmed by Yichus narrative, Tier 2). Helen's parents were Joseph Brandt and Brina Goldbaum (per the Thelma Markel person file).
 
 Morris and Helen had five documented children:
 1. **Thelma (Tobi) Markel** (Sept 12, 1920 - Sept 22, 2011), married (1) [[Leonard_Irving_Salmanson]] (1947), (2) Leonard Rodbell (1978)
@@ -50,7 +62,7 @@ Through his daughter Thelma's marriage to Leonard Irving Salmanson, Morris is th
 
 Morris died in 1963. The location and circumstances of his death are not documented in available sources.
 
-**Source assessment:** Morris Markel's data comes exclusively from MyHeritage and Geni World Family Tree records (both Tier 3, unverified). No primary source documents (vital records, immigration records, census entries) have been independently verified for Morris himself. His birth date is unknown; only his birthplace (Poland) and death year (1963) are recorded. All claims should be treated as Tier 3 (unverified).
+**Source assessment:** Morris Markel's identity and role as Rabbi at Ahavath Sholom Synagogue in Arctic, RI, is confirmed by the Yichus narrative (Tier 2, primary family document by Ruth Gold, Oct 9, 2011). His full name (Moishe Myer), description as "a very learned man," and immigration purpose are from this source. Birth date remains unknown; death year (1963) from MyHeritage (Tier 3). The Yichus narrative corroborates and elevates the MyHeritage/Geni data for family structure.
 
 ## Document Sources
 
@@ -58,11 +70,14 @@ Morris died in 1963. The location and circumstances of his death are not documen
 |---|---|---|
 | MyHeritage family tree | Family tree database (Tier 3, unverified) | MyHeritage |
 | Geni World Family Tree | Community genealogy (Tier 3, unverified) | Geni.com |
+| Yichus narrative by Ruth Gold, Oct 9, 2011 | Primary family document (Tier 2) | Assets/Yicchis and Narrative.PDF |
 | Vault: [[Thelma_Markel]] | Person file | Daughter's biographical detail, Markel ancestry |
 
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Father's name | "Heschel Herman Markel" (MyHeritage) | "Hersch Markiel" (Geni, via Minnie's record) | Variant spellings of the same person. "Heschel/Hersch" are Yiddish variants; "Markel/Markiel" are alternate romanizations. |
+| Father's name | "Heschel Herman Markel" (MyHeritage) | "Hersch Markiel" (Geni, via Minnie's record) | Variant spellings of the same person. "Heschel/Hersch" are Yiddish variants; "Markel/Markiel" are alternate romanizations. Yichus narrative uses "Heshel Markel" (Tier 2). |
 | Birth date | Not recorded | | Morris's birth date is entirely unknown. Only death year (1963) is documented. |
+| Full name | "Morris Moishe Myer Markel" (MyHeritage) | "Moishe Myer Markel" (Yichus narrative, Tier 2) | Consistent. "Morris" is the Americanized form of "Moishe Myer." |
+| Occupation | Not recorded (MyHeritage) | Rabbi at Ahavath Sholom Synagogue, Arctic (West Warwick), RI (Yichus narrative, Tier 2) | Yichus narrative is higher tier. Morris entered the US claiming to fill this rabbinical position. |

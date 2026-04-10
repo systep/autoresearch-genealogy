@@ -4,12 +4,13 @@ name: "Heschel Herman Markel"
 born: 1862
 died: 1916
 family: "Markel"
-confidence: low
+confidence: moderate
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500052)"
   - "MyHeritage Smart Match (Geni)"
+  - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
 created: 2026-04-10
-tags: [genealogy, markel, person, poland, tier-3]
+tags: [genealogy, markel, person, galicia, jewish, tier-2]
 ---
 
 # Heschel Herman Markel
@@ -18,23 +19,43 @@ tags: [genealogy, markel, person, poland, tier-3]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Heschel Herman Markel (nickname: Heschel) | GEDCOM |
-| Born | 1862 | GEDCOM |
-| Birthplace | Vanyavitch, Poland | GEDCOM |
-| Died | 1916 (age 53-54) | GEDCOM |
+| Full Name | Heshel Markel (also: Heschel Herman Markel) | GEDCOM; Yichus narrative (Tier 2) |
+| Born | 1862 | GEDCOM; Yichus narrative (Tier 2) |
+| Birthplace | Vanyavitch, Galicia (near Lemberg/Lviv, near Sombor, near Cracow; Austria/Poland; now Ukraine) | GEDCOM; Yichus narrative (Tier 2) |
+| Died | 1916 (age 53-54) | GEDCOM; Yichus narrative (Tier 2) |
 | Burial | Unknown | |
-| Father | [[Dov_Markel]] | GEDCOM |
+| Father | [[Dov_Markel]] | GEDCOM; Yichus narrative (Tier 2) |
+| Paternal Grandfather | [[Nissen_Mendel_Markel]] | Yichus narrative (Tier 2) |
 | Mother | [[Wife_Markel]] (unknown name) | GEDCOM |
-| Spouse | [[Leah_Frei]] (Leah Frei/Frye) | GEDCOM |
-| Children | [[Morris_Markel]] (Morris Moishe Myer Markel), Minnie Markel, and others | GEDCOM |
+| Brother | Mattis Markel | Yichus narrative (Tier 2) |
+| Spouse | [[Leah_Frei]] (b. 1864; d. 1940; m. 1878) | GEDCOM; Yichus narrative (Tier 2) |
+| Marriage | 1878 (he was 16, she was 14) | Yichus narrative (Tier 2) |
+| Children (total) | 14 born, 6 died in childhood, 8 surviving | Yichus narrative (Tier 2) |
+| Surviving Children | 1. [[Minnie_Markel_Sternbach]] (1887-1975); 2. Avraham Chaim Markel (d. 1939, Pogrom); 3. Masha Markel Tachner (d. 1939, Pogrom); 4. [[Morris_Markel]] (Moishe Myer); 5. Sarah Markel Tachner; 6. Hannah Markel (d. 1939, Pogrom); 7. [[Florence_Markel_Mermelstein]] (Sura Feiga, 1909-1990); 8. Pessel (Peppy) Frei (d. 1939/1940, Pogrom) | Yichus narrative (Tier 2) |
 
 ## Biography
 
-Heschel Herman Markel was born in 1862 in Vanyavitch, Poland (GEDCOM). He married [[Leah_Frei]] (Leah Frei, also spelled Frye) (GEDCOM). His father was [[Dov_Markel]] and his mother's name is unknown, recorded only as [[Wife_Markel]] (GEDCOM).
+Heshel Markel (also recorded as Heschel Herman Markel) was born in 1862 in Vanyavitch, Galicia. The Yichus narrative locates this village as "near Lemberg" (Lviv), "near Sombor," and "near Cracow," in Galicia under Austria/Poland (now Ukraine) (Yichus narrative, Tier 2).
 
-Heschel died in 1916 at age 53-54 (GEDCOM).
+Heshel's patrilineal line: [[Nissen_Mendel_Markel]] (great-grandfather) to [[Dov_Markel]] (father) to Heshel (Yichus narrative, Tier 2). His mother's name is unknown, recorded only as [[Wife_Markel]] (GEDCOM). Heshel had a brother named **Mattis** (Yichus narrative, Tier 2).
 
-Confidence: Tier 3 (user-contributed tree data, Smart Match).
+Heshel married [[Leah_Frei]] (b. 1864; d. 1940) in **1878**, when he was 16 and she was 14 (Yichus narrative, Tier 2). Together they had **14 children**, of whom **6 died in childhood** and **8 survived** (Yichus narrative, Tier 2).
+
+The eight surviving children, in birth order per the Yichus narrative:
+1. **[[Minnie_Markel_Sternbach]]** (1887-1975), settled Rhode Island; first sibling to emigrate
+2. **Avraham Chaim Markel**, murdered with family in Pogrom (1939)
+3. **Masha Markel Tachner**, murdered with family in Pogrom (1939)
+4. **[[Morris_Markel]]** (Moishe Myer), settled Rhode Island; Rabbi at Ahavath Sholom Synagogue
+5. **Sarah Markel Tachner**
+6. **Hannah Markel**, murdered with family in Pogrom (1939)
+7. **[[Florence_Markel_Mermelstein]]** (Sura Feiga; 1909-1990)
+8. **Pessel (Peppy) Frei**, murdered 1939/1940
+
+The Pogrom of Rosh Hashanah 1939: four of Heshel and Leah's children (Avraham Chaim, Masha, Hannah, and Pessel), along with numerous grandchildren, were "forced to leave the premises and were marched to the Rodzinka Forest where they were murdered" by "Polish Cossacks" (Yichus narrative, Tier 2). Note: the term "Polish Cossacks" likely refers to local collaborators or irregular forces during the German invasion of Poland in September 1939.
+
+Heshel died in 1916 at age 53-54 (GEDCOM; Yichus narrative, Tier 2).
+
+Confidence: Moderate. The Yichus narrative (Tier 2, primary family document) corroborates and substantially expands upon the GEDCOM/MyHeritage data (Tier 3).
 
 ## Document Sources
 
@@ -42,9 +63,11 @@ Confidence: Tier 3 (user-contributed tree data, Smart Match).
 |---|---|---|
 | GEDCOM (MyHeritage, entry I500052) | family tree database | |
 | MyHeritage Smart Match (Geni) | user-contributed tree | |
+| Yichus narrative by Ruth Gold, Oct 9, 2011 | Primary family document (Tier 2) | Assets/Yicchis and Narrative.PDF |
 
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| | | | No discrepancies identified at this time. |
+| Name spelling | "Heschel Herman Markel" (GEDCOM/MyHeritage) | "Heshel Markel" (Yichus narrative, Tier 2) | Variant romanizations of the same Yiddish name. "Herman" may be an Americanized middle name not used in the original. Yichus form "Heshel" is likely closer to the original. |
+| Location | "Vanyavitch, Poland" (GEDCOM) | "Vanyavitch, near Lemberg, near Sombor, near Cracow, in Galicia (Austria/Poland), now Ukraine" (Yichus, Tier 2) | Consistent. The Yichus provides more geographic context. At the time of Heshel's birth (1862), Galicia was part of Austria-Hungary. |
