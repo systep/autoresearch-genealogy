@@ -371,7 +371,14 @@ Daniel Hough + Mary Worley = earliest Huff ancestor. Surname Hough→Huff. Colon
 ### Cox MyHeritage Tree WARNING
 Uses erroneous Quaker merger (William Richardson Cox). DNA disproves. Do NOT trust above Isaac Cox. Clark/Baldwin line new: Eli Baldwin + Edaline L → John Baldwin + Alice Frances.
 
-### ALL RESEARCH AGENTS COMPLETE.
+### Cox/Henderson/Moseley/Huff Deep Research
+**Cox**: Brick wall holds. Virginia origin most likely (migration patterns). Lead: James Cox (d.1738 Orange Co. VIRGINIA) son William. Big Y-700 upgrade recommended.
+**Henderson**: "Johne Hendersone of Perth" found in Scottish OPR! Baptisms: Gilbert (1630), James (Oct 5 1632), Robert (1634). Strong circumstantial match to our James Sr.
+**Moseley CORRECTION**: Marvell Moseley Sr. was independent English immigrant (1678 headright Col. Travers), NOT descended from 1649 William Moseley. Chain Marvell→Arthur→William is WRONG.
+**Huff**: DNA CONFIRMS Cheshire England origin! Y-DNA matches Hough families from Cheshire. Hough→Huff pronunciation change. England → Isle of Wight VA → Brunswick VA.
+**Huff=Hough discovery**: Daniel Hough + Mary Worley (MyHeritage). John Hough + Ann Heald (colonial). Richard Sandys + Hester Aucher (English? Sands/Cowgill connection).
+
+### ALL RESEARCH AGENTS COMPLETE FOR THIS SESSION.
 
 ### Independent Verification of Extended Lines
 
