@@ -355,7 +355,10 @@ Critical: Sara Schuller was widow of Stephann Benning (not maiden name Benning).
 Barnett obituary: "born in Russia, son of the late Lavi and Rachel Salmanson" (confirms Levi Itzhak + Rochel Tsine). Sister Mrs. Gittel (Gita confirmed). 56 years Providence. Founder/treasurer Adams Drug + 36 corporations.
 Elizabeth 1930 Census: born ~1887 POLAND, immigrated 1897. Both parents from Poland. Barnett = "Benjamin" on census.
 
-### ALL VERIFICATION AGENTS COMPLETE FOR THIS SESSION.
+### Brecht Pre-1563 Research
+Conrad Kuntz Brecht (~1563) is the confirmed endpoint. Father may be "Hans Brecht" (1579 church record, uncertain ID). Deeper ancestry (Mayor von Hohenworth, Tyrol): legendary, no primary sources. Neudorf destroyed repeatedly in 1600s (8 families by 1683); pre-1600 records almost certainly lost. Catharina married Conrad March 24, 1584; her father Melchior Camerer + Anna Paulchen. Brecht = short form of Albrecht (berht = bright). Schriesheim church records from ~1558 available on Archion.de. Best resource: A.G. Green "Historical Sketch of the Bright Family" (1900, FamilySearch #1036369).
+
+### ALL VERIFICATION AND DEEP-LINE AGENTS COMPLETE FOR THIS SESSION.
 
 ### Independent Verification of Extended Lines
 
