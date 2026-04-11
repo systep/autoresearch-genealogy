@@ -1,8 +1,8 @@
 ---
 type: person
 name: "King John"
-born: 1166
-died: 1216
+born: 1166-12-24
+died: 1216-10-19
 family: "Plantagenet"
 confidence: moderate
 sources:
@@ -30,13 +30,13 @@ tags: [genealogy, plantagenet, person, medieval, royalty, england, king]
 | Mother | [[Eleanor_of_Aquitaine]] (b. ~1122, d. 1204) | Pedigree Charts (Tier 3); Wikipedia (Tier 2) |
 | Spouse 1 | Isabella of Gloucester (m. 1189, annulled 1199) | Wikipedia (Tier 2) |
 | Spouse 2 | Isabella of Angouleme (m. 1200, d. 1246) | Pedigree Charts (Tier 3); Wikipedia (Tier 2) |
-| Children (selected) | [[Henry_III]] (b. 1206), Richard of Cornwall, and others | Pedigree Charts (Tier 3); Wikipedia (Tier 2) |
+| Children (selected) | [[Henry_III]] (b. 1207), Richard of Cornwall, and others | Pedigree Charts (Tier 3); Wikipedia (Tier 2) |
 
 ## Biography
 
 King John, known as John Lackland, was born on December 24, 1166, at Beaumont Palace, Oxford. He was the youngest surviving son of King [[Henry_II]] and [[Eleanor_of_Aquitaine]] (Pedigree Charts; Wikipedia, Tier 2).
 
-John first married Isabella of Gloucester in 1189, but the marriage was annulled in 1199 (they had no children). He then married Isabella of Angouleme in 1200, and their eldest son, [[Henry_III]], was born in 1206 (Wikipedia, Tier 2).
+John first married Isabella of Gloucester in 1189, but the marriage was annulled in 1199 (they had no children). He then married Isabella of Angouleme in 1200, and their eldest son, [[Henry_III]], was born in 1207 (Wikipedia, Tier 2).
 
 John became king in 1199 upon the death of his brother Richard I (the Lionheart). His reign was marked by conflict with the barons, leading to the sealing of Magna Carta in 1215, the loss of most English possessions in France, and the First Barons' War. John died on October 19, 1216, at Newark Castle, reportedly from dysentery, and was buried at Worcester Cathedral (Wikipedia, Tier 2).
 

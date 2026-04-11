@@ -1,8 +1,8 @@
 ---
 type: person
 name: "Edward I"
-born: 1239
-died: 1307
+born: 1239-06-17
+died: 1307-07-07
 family: "Plantagenet"
 confidence: moderate
 sources:
@@ -26,7 +26,7 @@ tags: [genealogy, plantagenet, person, medieval, royalty, england, king]
 | Birthplace | Westminster Palace, London, England | Wikipedia (Tier 2) |
 | Died | July 7, 1307, Burgh by Sands, Cumberland, England | Wikipedia (Tier 2) |
 | Burial | Westminster Abbey, London, England | Wikipedia (Tier 2) |
-| Father | [[Henry_III]] (b. 1206, d. 1272) | Pedigree Charts (Tier 3); Wikipedia (Tier 2) |
+| Father | [[Henry_III]] (b. 1207, d. 1272) | Pedigree Charts (Tier 3); Wikipedia (Tier 2) |
 | Mother | Eleanor of Provence (b. ~1223, d. 1291) | Pedigree Charts (Tier 3); Wikipedia (Tier 2) |
 | Spouse | Eleanor of Castile (m. 1254, d. 1290) | Pedigree Charts (Tier 3); Wikipedia (Tier 2) |
 | Spouse 2 | Margaret of France (m. 1299, d. 1318) | Wikipedia (Tier 2) |

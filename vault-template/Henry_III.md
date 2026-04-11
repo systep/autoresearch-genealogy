@@ -1,8 +1,8 @@
 ---
 type: person
 name: "Henry III"
-born: 1206
-died: 1272
+born: 1207-10-01
+died: 1272-11-16
 family: "Plantagenet"
 confidence: moderate
 sources:
@@ -22,7 +22,7 @@ tags: [genealogy, plantagenet, person, medieval, royalty, england, king]
 | Field | Value | Source |
 |---|---|---|
 | Full Name | Henry III, King of England | Pedigree Charts (Tier 3); Wikipedia (Tier 2) |
-| Born | October 1, 1206, Winchester Castle, Hampshire, England | Wikipedia (Tier 2) |
+| Born | October 1, 1207, Winchester Castle, Hampshire, England | Wikipedia (Tier 2) |
 | Birthplace | Winchester Castle, Hampshire, England | Wikipedia (Tier 2) |
 | Died | November 16, 1272, Westminster, London, England | Wikipedia (Tier 2) |
 | Burial | Westminster Abbey, London, England | Wikipedia (Tier 2) |
@@ -33,7 +33,7 @@ tags: [genealogy, plantagenet, person, medieval, royalty, england, king]
 
 ## Biography
 
-Henry III was born on October 1, 1206, at Winchester Castle, the eldest son of King [[King_John]] and Isabella of Angouleme. He became king at age nine upon his father's death in 1216, with a regency governing during his minority (Pedigree Charts; Wikipedia, Tier 2).
+Henry III was born on October 1, 1207, at Winchester Castle, the eldest son of King [[King_John]] and Isabella of Angouleme. He became king at age nine upon his father's death in 1216, with a regency governing during his minority (Pedigree Charts; Wikipedia, Tier 2).
 
 Henry married Eleanor of Provence on January 14, 1236. Their eldest surviving son, [[Edward_I]], was born in 1239 and succeeded Henry as king. Henry's long reign (1216 to 1272) was marked by the Provisions of Oxford, the Second Barons' War led by Simon de Montfort, and extensive building projects including the reconstruction of Westminster Abbey (Wikipedia, Tier 2).
 

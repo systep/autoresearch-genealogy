@@ -1,8 +1,8 @@
 ---
 type: person
 name: "Henry II"
-born: 1133
-died: 1189
+born: 1133-03-05
+died: 1189-07-06
 family: "Plantagenet"
 confidence: moderate
 sources:
