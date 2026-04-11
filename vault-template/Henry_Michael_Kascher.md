@@ -22,7 +22,7 @@ tags: [genealogy, kascher, person, ohio, new-york]
 | Full Name | Henry Michael Kascher | Ohio Birth Index |
 | Born | December 10, 1914, Youngstown, Mahoning County, Ohio | Ohio Birth Index |
 | Died | **January 10, 1987** (age 72), buried **Tod Homestead Cemetery, Youngstown, Ohio** | Gravestone, MyHeritage |
-| Father | **Michael Kascher** (b. Feb 11, 1899, Waldhütten/Valchid, Transylvania, Austria-Hungary; d. June 7, 1975, Fort Lauderdale, FL). **NOTE: Church certificate says 1899, not 1889. See Data Discrepancies.** | MyHeritage, Waldhutten church certificate (1938) |
+| Father | **Michael Kascher** (b. **Feb 11, 1889**, Waldhütten/Valchid, Transylvania, Austria-Hungary; d. June 1975, Fort Lauderdale, FL 33312). **RESOLVED: Born 1889 confirmed by SSDI (Tier 1), marriage record (age 24 in 1913), and 1930 census (age 41). Church certificate's "1899" is a single-digit transcription error.** | SSDI, marriage record, 1930 Census, Waldhutten church certificate (1938) |
 | Mother | **Rasina (Rosina) Falk** (b. **July 4, 1905**; d. **May 27, 1928, Denver, Colorado**, of **tuberculosis**; buried **Tod Homestead Cemetery, Youngstown, Ohio**). Parents: **Mathias Falk** (1867-1934) + **Katharina Pfaff** (1871-deceased). **Henry's mother died when he was 13 years old.** | Waldhutten church certificate (1938, Tier 1), marriage record, MyHeritage tree |
 | Father's second wife | **Sophia Schuller Kascher** (b. Jan 5, 1903, Sendorf), married **July 12, 1947** | Waldhutten church certificate (1938) |
 | Paternal lineage | Georg Kascher (b. 1792, Wurmloch/Valea Viilor) → Michael Kascher (b. 1834, Wurmloch, d. 1880, Waldhütten, m. Sara Schuller) → Michael Kascher Sr. (1864-1935) → Michael Kascher Jr. (b. 1899) | Genealogy.com, Siebenbuerger.de, church certificate |
