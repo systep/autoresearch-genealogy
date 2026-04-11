@@ -34,9 +34,9 @@ tags: [genealogy, falk, kascher, person, pennsylvania, ohio, colorado, transylva
 
 ## Biography
 
-Rosina (also recorded as Rasina) Falk was born in 1896, the daughter of **Mathias Falk** (1867-1934) and **Katharina Pfaff** (1871-deceased). Her family was part of the **Transylvanian Saxon** community (ethnic Germans settled in present-day Romania since the 12th century). Her paternal grandparents were Mathias Falk (1837-1892) and Agnetha Probstdorfer (1847-1888); her maternal grandparents were Mathias Pfaff (1836-1899) and Katherina Dressler (1844-1934).
+Rosina (also recorded as Rasina) Falk was born **July 4, 1905**, the daughter of **Mathias Falk** (1867-1934) and **Katharina Pfaff** (1871-deceased). Her family was part of the **Transylvanian Saxon** community (ethnic Germans settled in present-day Romania since the 12th century). Her paternal grandparents were Mathias Falk (1837-1892) and Agnetha Probstdorfer (1847-1888); her maternal grandparents were Mathias Pfaff (1836-1899) and Katherina Dressler (1844-1934).
 
-She married **Michael Kascher** (1889-1975) on **May 10, 1913 in Beaver, Pennsylvania**, when she was just 16 years old. The marriage is documented on microfilm #001290365. Michael Kascher was born in Waldhutten (Romanian: Valchid), Transylvania, Austria-Hungary, part of the Transylvanian Saxon community. The village of Waldhutten was economically devastated by the phylloxera vine louse crisis circa 1895, causing more than half the population to emigrate to America, primarily to Ohio (Cleveland, Youngstown).
+She married **Michael Kascher** on **May 10, 1913 in Beaver, Pennsylvania**. The marriage is documented on microfilm #001290365. Michael Kascher was born **February 11, 1899** in Waldhutten (Romanian: Valchid), Transylvania, Austria-Hungary, part of the Transylvanian Saxon community. The village of Waldhutten was economically devastated by the phylloxera vine louse crisis circa 1895, causing more than half the population to emigrate to America, primarily to Ohio (Cleveland, Youngstown).
 
 Rosina and Michael had at least four children: **Henry Michael Kascher** (b. December 10, 1914, Youngstown, Ohio), **Helen** (married Johnny Braendorf), **Gerry**, and **Sophia**.
 
@@ -44,20 +44,29 @@ Henry Michael Kascher's Ohio birth certificate (state file #1914109692) lists th
 
 A notable connection to the 1936 Berlin Olympics: a **K. Falk** (Germany) served as a scorer at the basketball tournament, where Henry Michael Kascher also served as Timekeeper/Scorer. "Falk" is Rosina's maiden name, suggesting K. Falk may have been a family member.
 
-Rosina lived to the remarkable age of **103**, dying in 1999.
+**Rosina died on May 27, 1928 in Denver, Colorado of tuberculosis.** She was only 22 years old. Denver was a major center for tuberculosis treatment in the early 20th century; patients from across the country traveled there seeking the dry mountain climate as a cure. Rosina's body was returned to Ohio for burial at **Tod Homestead Cemetery, Youngstown, Ohio**, the same cemetery where her father-in-law Michael Kascher Sr. (1864-1935) would later be buried.
+
+Her death left her son Henry Michael Kascher motherless at age 13, and her other children (Helen, Gerry, Sophia) similarly young. Michael Kascher later remarried **Sophia Schuller Kascher** (b. January 5, 1903, Sendorf) on **July 12, 1947**.
 
 Her son Henry married Mary Elizabeth Bright, and their daughter Kathryn Ann Kascher married Alan Carl Salmanson, connecting the Transylvanian Saxon Falk/Kascher line to the Providence, Rhode Island Salmanson family.
+
+**NOTE on tuberculosis in the Kascher family:** Rosina's death from tuberculosis parallels that of her mother-in-law **Anna Binder** (1868-1915), who also died of tuberculosis in Waldhutten, Transylvania. Two generations of Kascher wives died of the same disease.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
-| Marriage record (Beaver, PA; microfilm #001290365) | Vital record | May 10, 1913 marriage to Michael Kascher |
-| Ohio Birth Index (state file #1914109692) | Vital record | Confirms "Falk" as mother's maiden name for Henry |
-| MyHeritage family tree | Family tree database | Full profile with dates and extended family |
+| Waldhutten church certificate (1938) | Church record (Tier 1, primary) | Birth date July 4, 1905; death May 27, 1928 Denver CO; cause: tuberculosis; burial: Tod Homestead Cemetery, Youngstown OH |
+| Marriage record (Beaver, PA; microfilm #001290365) | Vital record (Tier 1) | May 10, 1913 marriage to Michael Kascher |
+| Ohio Birth Index (state file #1914109692) | Vital record (Tier 1) | Confirms "Falk" as mother's maiden name for Henry |
+| MyHeritage family tree | Family tree database (Tier 3) | Full profile with dates and extended family |
 
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | Name spelling | "Rosina" (common usage) | "Rasina" (some records) | Both forms recorded; likely variant spellings of the same Transylvanian Saxon name. |
+| **Birth year** | **1896 (MyHeritage)** | **July 4, 1905 (Waldhutten church certificate, Tier 1)** | **RESOLVED: Church certificate is Tier 1 primary source, supersedes MyHeritage (Tier 3). Born 1905, not 1896. If born 1896 she would have been 16 at marriage (1913); if born 1905 she would have been 7, which is problematic. See note below.** |
+| **Death year** | **1999 (MyHeritage)** | **May 27, 1928 (Waldhutten church certificate, Tier 1)** | **RESOLVED: The MyHeritage 1999 death date belonged to a DIFFERENT Rosina. The church certificate (Tier 1) confirms death May 27, 1928 in Denver, Colorado of tuberculosis. Michael Kascher remarried Sophia Schuller in 1947, which is consistent with Rosina dying in 1928, not 1999.** |
+
+**NOTE on birth year and marriage date conflict:** If Rosina was born July 4, 1905 and married May 10, 1913, she would have been only 7 years old at marriage, which is not plausible. Possible resolutions: (1) the marriage date of 1913 may be incorrect, with the actual marriage occurring later (e.g., 1923 would make her 17); (2) the church certificate birth year may contain an error; (3) the marriage record may refer to a different event. This requires further investigation. The 1905 birth date is consistent with the 1928 death (age 22) and with Henry's birth in 1914 only if the marriage date is reconsidered. If born 1896, she would have been 32 at death, which is also plausible for TB. **The marriage date vs. birth date conflict is an open question requiring resolution.**
