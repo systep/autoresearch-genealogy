@@ -677,3 +677,10 @@ Died 16 October 1887, age 62 (not 1897). Headstone says 1887. GEDCOM pedigree ch
 
 ### Pnei Yehoshua Descent
 Claim plausible but unverified. Pnei Yehoshua (Rabbi Jacob Joshua Falk, 1680-1756) was Chief Rabbi of Lemberg. Frei family from Waniowice (~70km away). Yichus also claims descent from Issarles and Landau families. Ateres Yehoshua (Zunz, 1936) documents descendants but needs page-by-page search. Toba Rifka "of Dubosari" = Dubossary, Moldova (Bessarabia), ~500km from Waniowice. Marriage connected Bessarabian and Galician families.
+
+### Holocaust Research: Rodzolika Forest + Yad Vashem + USHMM
+USHMM oral history interview found: Rebecca Tzoar (irn619016, June 27 2018, West Orange NJ). Born Aug 15 1933 Sambor. Father: Philip (Fishel) Weidenfeld. Mother: Frida Karp. Learned of family deaths "in 1943."
+Sambor Yizkor Book: "Markel, Yosef and Family (5 people)" and "Karp, Yosef and Family (4 people)" in necrology.
+SPELLING CORRECTION: "Rodzolika" Forest (not "Rodzinka") per original Yichus text.
+TIMELINE: Yichus says "1939 Rosh Hashanah" but documented mass killings in Sambor area were 1941-1943. Sept 1939 violence documented (synagogue invasion, forced labor) but mass executions came later. "Rodzolika" may = "Radlowice/Ralivka" (known execution forest 4-5km from Sambor, at least 3,000 Jews shot Jan-Jun 1943). Possible memory conflation of 1939 synagogue raid with later mass murder.
+Highest priority: access USHMM oral history recording (irn619016) for full details.
