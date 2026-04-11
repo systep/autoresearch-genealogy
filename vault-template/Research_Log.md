@@ -654,3 +654,14 @@ Through Neville/DeAudley/De Clare to Joan Plantagenet (1272) to Henry II + Elean
 
 ### Yichus Narrative -- Markel/Frei family
 Vanyavitch/Waniowice confirmed. Nissen Mendel Markel = earliest. 1939 pogrom Rodzinka Forest. Ahavath Sholom confirmed. Pnei Yehoshua descent claimed.
+
+### Michael Kascher Birth Year RESOLVED
+Born Feb 11, 1889 (NOT 1899). SSDI (Tier 1): Born Feb 11, 1889, died June 1975, Fort Lauderdale FL 33312. Marriage record (age 24 in 1913) and 1930 census (age 41) agree. Church certificate "1899" = single-digit transcription error.
+
+### Plantagenet Royal Descent DEBUNKED
+Pedigree charts (1-46.pdf) claim descent through De Clare/De Audley/Neville/Cooke/Cox. FOUR fatal breaks:
+1. Alice de Audley = Hugh's SISTER not daughter (no Plantagenet blood)
+2. "Sir Norman Cooke of Lavenham" = KNOWN FABRICATION (WikiTree flagged)
+3. Margaret Neville married de Ros + Percy, NOT "Jean Ross" ("Ena Ross" fictitious)
+4. William Cox Sr. (SC) ≠ William Richardson Cox (DE) (DNA disproven)
+Medieval royals real but NOT connected to this family through claimed chain.
