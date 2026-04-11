@@ -684,3 +684,9 @@ Sambor Yizkor Book: "Markel, Yosef and Family (5 people)" and "Karp, Yosef and F
 SPELLING CORRECTION: "Rodzolika" Forest (not "Rodzinka") per original Yichus text.
 TIMELINE: Yichus says "1939 Rosh Hashanah" but documented mass killings in Sambor area were 1941-1943. Sept 1939 violence documented (synagogue invasion, forced labor) but mass executions came later. "Rodzolika" may = "Radlowice/Ralivka" (known execution forest 4-5km from Sambor, at least 3,000 Jews shot Jan-Jun 1943). Possible memory conflation of 1939 synagogue raid with later mass murder.
 Highest priority: access USHMM oral history recording (irn619016) for full details.
+
+### Michael Kascher Birth Year: DEFINITIVELY RESOLVED
+Born Feb 11, 1889. Kascher Family Album (02.pdf) clearly states "born February 11, 1889 in Waldhuetten" in unambiguous typed English. He was child #1 (firstborn), 13 months after parents' Jan 1888 marriage. Church certificate digit ambiguity (8 vs 9 in typewriter). "Two Michaels" hypothesis REFUTED -- only one Michael.
+
+### NEW DISCREPANCY: Rosina Falk birth year 1896 vs 1905
+Kascher Family Album (02.pdf): "born September 11, 1896 in Petersdorf." Fan chart (06.pdf): 1896. Church KINDER certificate: "4 July 1905." If born 1896, she was 16 at 1913 marriage (plausible). If born 1905, she was 7 (impossible). 1896 is almost certainly correct. Church certificate has similar digit ambiguity. She died May 27, 1928 in Denver CO of TB at age 31-32 (if born 1896) or 22 (if born 1905).
