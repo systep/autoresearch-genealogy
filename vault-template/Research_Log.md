@@ -665,3 +665,15 @@ Pedigree charts (1-46.pdf) claim descent through De Clare/De Audley/Neville/Cook
 3. Margaret Neville married de Ros + Percy, NOT "Jean Ross" ("Ena Ross" fictitious)
 4. William Cox Sr. (SC) ≠ William Richardson Cox (DE) (DNA disproven)
 Medieval royals real but NOT connected to this family through claimed chain.
+
+### Salk Family Deep Research
+4 Providence Salk branches identified: (A) Hardware/Hymen line, (B) Abraham/Elizabeth line (ours), (C) Benjamin/Lillian line, (D) Louis/Belle(Feingold) line. Relationship between branches unconfirmed. Ida Salk (1881-1982, age 101) found. Ann Salk Rosenberg (d. 2026, daughter of Hyman + Esther) found. Key: census records needed to map household structures.
+
+### Albert Bright Birthplace RESOLVED
+Born Abingdon, Washington County, VIRGINIA (not Tarrant TX). No Abingdon exists in Tarrant County TX. GEDCOM auto-complete error. Brother Bernard confirmed born Abingdon VA. 1950 census: born Virginia. Family documented in VA 1900 census. Research Log "Tarrant TX" entry was incorrect.
+
+### William Thomas Long Death Date RESOLVED
+Died 16 October 1887, age 62 (not 1897). Headstone says 1887. GEDCOM pedigree chart says 1887 age 62. Math: 1825+62=1887. "1897" in Research Log was a transcription error.
+
+### Pnei Yehoshua Descent
+Claim plausible but unverified. Pnei Yehoshua (Rabbi Jacob Joshua Falk, 1680-1756) was Chief Rabbi of Lemberg. Frei family from Waniowice (~70km away). Yichus also claims descent from Issarles and Landau families. Ateres Yehoshua (Zunz, 1936) documents descendants but needs page-by-page search. Toba Rifka "of Dubosari" = Dubossary, Moldova (Bessarabia), ~500km from Waniowice. Marriage connected Bessarabian and Galician families.
