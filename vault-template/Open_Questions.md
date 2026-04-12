@@ -83,6 +83,27 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Solvability**: HIGH (records exist; access is the barrier)
 - **Payoff**: HIGH (could extend all Transylvanian lines by 1-3 generations)
 
+### 10. Nissen Mendel Markel: Sambor vital records search
+- **The question**: Can Nissen Mendel Markel be found in the Gesher Galicia All Galicia Database or other Sambor district records?
+- **Searched (2026-04-12)**: Geni.com (no results), JewishGen KehilaLinks (found Markel family page under Drohobycz but could not access full content), web searches for the name.
+- **Best leads**: (1) Search the All Galicia Database (search.geshergalicia.org) for "Markel" in Sambor. (2) Search JRI-Poland for Sambor records. (3) Access the full Markel family page on JewishGen KehilaLinks. (4) Search TsDIAL Lviv Fond 701 records via FamilySearch microfilms.
+- **Solvability**: MODERATE (records exist and are indexed, but Nissen Mendel may predate the surviving register period)
+- **Payoff**: HIGH (would extend the Markel line and potentially identify dates, spouse, and parents)
+
+### 11. Heshel Markel in the Verlustlisten (WWI casualty lists)
+- **The question**: Can Heshel Markel be found in the digitized Austro-Hungarian casualty lists (Verlustlisten)?
+- **Searched (2026-04-12)**: Confirmed Verlustlisten are searchable at digi.landesbibliothek.at and on MyHeritage. Have not yet searched for "Markel" in these databases.
+- **Next step**: Search Verlustlisten and MyHeritage Austria-Hungary WWI Casualty Lists for "Markel" (and variant spellings: Merkel, Markl).
+- **Solvability**: HIGH (lists are digitized and searchable; if Heshel's death was recorded, it should appear)
+- **Payoff**: MODERATE (would confirm regiment, rank, and exact date/circumstances of death)
+
+### 12. Isserles/Landau rabbinical connection claimed in Yichus
+- **The question**: The Yichus narrative claims Markel family connections to the Isserles and Landau rabbinical families. Is this verifiable?
+- **Searched (2026-04-12)**: Geni profiles for Isserles (440 profiles) and Landau (12,656 profiles). No direct link to Markel found.
+- **Next step**: Requires a detailed genealogical chain from the Markel family to either the Isserles or Landau families. Could potentially be traced through Gesher Galicia records, rabbinical family databases (Neil Rosenstein's "The Unbroken Chain"), or JewishGen.
+- **Solvability**: LOW (many such claims are traditional rather than documented)
+- **Payoff**: LOW to MODERATE (would be significant if proven, but does not affect the core family tree)
+
 ## Data Acquisition Priorities
 
 | Priority | Record Type | Location | Expected Yield | Cost |

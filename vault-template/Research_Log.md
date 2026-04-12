@@ -1,13 +1,74 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-12
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-12: Markel Family Galicia Research
+
+### Search: Nissen Mendel Markel on Geni.com
+**Query**: "Nissen Mendel Markel" Geni.com genealogy
+**Source**: Web search, Geni.com
+**Results**: No matching profile found on Geni for Nissen Mendel Markel, Dov Markel, or Heshel Markel. The Jewish Communities of Galicia project (Geni #15745) does not include a Markel family from Sambor/Waniowice.
+**Implication**: The Markel family is not yet represented on Geni. This is a negative result.
+
+### Search: JewishGen Markel in Sambor District
+**Query**: JewishGen Markel Sambor district Galicia
+**Source**: Web search, JewishGen KehilaLinks
+**Results**: Found a Markel Family page on JewishGen KehilaLinks under the Drohobycz district: https://kehilalinks.jewishgen.org/Drohobycz/families/markel.html. The page documents Sara Hinde Markel (married Shamay Bartel, 1877) with Sambor area connections. Page returned 403 on direct fetch.
+**Implication**: A Markel family from the Sambor/Drohobycz area exists on JewishGen. Relationship to Nissen Mendel Markel is unknown and requires further investigation.
+
+### Search: Waniowice/Vanyavitch Jewish Community
+**Query**: Multiple searches for "Waniowice" + Sambor + Jewish community
+**Source**: Web search, Ahnenforschung.net forum, Gesher Galicia, Virtual Shtetl
+**Results**: Waniowice confirmed as a real village near Sambor in the Sambor administrative district of Galicia. Listed in 1910 Galician census. German genealogy forum discusses the village alongside Tarnawa nizn and Szandrowiec. No specific Jewish community records found for Waniowice itself.
+**Implication**: Jews in small Galician villages typically belonged to the nearest town's kahal. Waniowice Jews most likely belonged to the **Sambor kahal**, which had jurisdiction over surrounding villages. Jewish records for Waniowice residents would be filed under Sambor's metrical books.
+
+### Search: Sambor District Jewish Vital Records
+**Query**: Multiple searches for Sambor Jewish records, Austrian civil registration, archive locations
+**Source**: Gesher Galicia, FamilySearch wiki, JRI-Poland, AGAD
+**Results**: Sambor Jewish vital records held in two main archives: (1) Central State Historical Archives of Ukraine in Lviv (TsDIAL), Fond 701, Series 1; (2) AGAD Warsaw (1,750 Jewish metrical books, mainly 1877-1911). Gesher Galicia has completed indexing Sambor records, available on the All Galicia Database (free). FamilySearch microfilmed records from TsDIAL.
+**Implication**: Sambor records are accessible. The All Galicia Database should be searched for "Markel" to find any indexed vital records.
+**Next step**: Search the All Galicia Database (search.geshergalicia.org) for Markel entries from Sambor district.
+
+### Search: Heshel Markel Military Service Correction
+**Query**: WWI Galician Jewish soldiers, Austro-Hungarian army records, Verlustlisten
+**Source**: Web search, FamilySearch wiki, Kriegsarchiv, RadixIndex
+**Results**: The Yichus narrative's claim that Heshel was "conscripted into the Polish army" is anachronistic. Galicia was Austro-Hungarian 1772 to 1918. Heshel served in the k.u.k. Armee. The Verlustlisten (casualty lists) are digitized and searchable at digi.landesbibliothek.at. MyHeritage hosts Austria-Hungary WWI Casualty Lists 1914-1918. The Kriegsarchiv in Vienna holds registration sheets, though most Galician draftee records were destroyed.
+**Updated files**: Heschel_Herman_Markel.md (biography corrected, Data Discrepancies updated).
+**Next step**: Search the Verlustlisten for "Markel" to locate Heshel's regiment and casualty record.
+
+### Search: Isserles and Landau Family Connections
+**Query**: Geni.com Moses Isserles Rema Krakow Landau rabbinical family
+**Source**: Geni.com, JewishGen, Wikipedia
+**Results**: Rabbi Moses Isserles (Rema, c. 1530-1572) has 440 profiles on Geni. The Landau family has 12,656 profiles. Isserles and Landau families were interconnected through Krakow rabbinical circles (Moshe Landau served with the Rema on the Krakow Beit Din). Both families intermarried with Horowitz, Jaffe, Luria, Katzenellenbogen dynasties. A Markel family connection is plausible (many Galician Jewish families claimed rabbinical descent) but unverified.
+**Implication**: The Yichus "Issarles and Landau" claim remains speculative (Tier 3) without specific genealogical documentation of the link.
+
+---
+
+## 2026-04-12: Culpeper Ancestor Person Files Created
+
+### Files Created
+Created five Culpeper ancestor person files extending the line from [[Martin_Culpepper]] back to the 12th century:
+
+1. **Thomas_de_Colepeper_Recognitor.md**: Sir Thomas (c. 1170-1247). Recognitor of Grand Assize. Earliest documented Culpeper ancestor. Sources: WikiTree Culpepper-144, Geni, FamilySearch, culpepperconnections.com.
+2. **Thomas_Colepeper_Executed.md**: Sir Thomas (c. 1271-1321/22). Executed at Winchelsea for supporting Earl of Lancaster. Married Margery of Bayhall. Sources: WikiTree Colepeper-7, Geni.
+3. **John_Colepeper_Hardreshull.md**: Sir John (c. 1305-1376). Married Elizabeth Hardreshull. Sheriff of Kent 1364-1369. Restored after Edward III accession. Sources: WikiTree Colepeper-5, Geni.
+4. **Walter_Colepeper_Calais.md**: Walter (c. 1455-1515). Under-Marshal of Calais. Married Anne Aucher. Sources: WikiTree Culpepper-600, WikiTree Aucher-1.
+5. **William_Culpepper_Hunton.md**: William (c. 1509-1559). Married Cicely Barrett. "Most living Caucasian Culpeppers worldwide descend from him." Father of Dr. Martin Culpepper. Sources: WikiTree Culpeper-39, WikiTree Barrett-194.
+
+### Lineage Established
+Thomas the Recognitor (c. 1170) to Thomas of Brenchley to Thomas of Bayhall (executed 1321) to John of Hardreshull to Thomas of Bayhall to John Colepeper to Walter of Calais to William of Hunton to [[Martin_Culpepper]] (already in vault) to Mary/Mercy Culpepper to [[Samuel_Sandys_MP]] (already in vault).
+
+### Confidence Assessment
+All five files are rated Moderate confidence. The sources are predominantly Tier 3 (user-contributed trees: WikiTree, Geni, culpepperconnections.com). The medieval genealogies before c. 1400 should be treated with caution, though the Culpeper family is one of the better-documented English gentry families.
+
+---
 
 ## 2026-04-09: Baseline
 

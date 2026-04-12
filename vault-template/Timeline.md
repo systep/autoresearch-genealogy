@@ -1,13 +1,37 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-10
+updated: 2026-04-12
 tags: [genealogy, timeline, chronology]
 ---
 
 # Master Timeline
 
 Chronological index of all dated events across the family tree.
+
+## Medieval and Early Modern (pre-1700)
+
+| Date | Event | Person(s) | Location | Source |
+|---|---|---|---|---|
+| c. 1170 | Birth | [[Thomas_de_Colepeper_Recognitor]] | Brenchley, Kent, England | WikiTree Culpepper-144 |
+| c. 1200s | Recognitor of Grand Assize | [[Thomas_de_Colepeper_Recognitor]] | Kent, England | WikiTree Culpepper-144 |
+| c. 1247 | Death | [[Thomas_de_Colepeper_Recognitor]] | Kent, England | WikiTree Culpepper-144 |
+| c. 1271 | Birth | [[Thomas_Colepeper_Executed]] | Kent, England | WikiTree Colepeper-7 |
+| c. 1305 | Birth | [[John_Colepeper_Hardreshull]] | Kent, England | WikiTree Colepeper-5 |
+| 1321/22 | Execution at Winchelsea | [[Thomas_Colepeper_Executed]] | Winchelsea, Sussex, England | WikiTree Colepeper-7 |
+| 1324 | Lands restored to widow Margery | Margery (wife of [[Thomas_Colepeper_Executed]]) | Buxted and Maresfield, Sussex | Geni |
+| c. 1337 | Built church at Pembury | [[John_Colepeper_Hardreshull]] | Pembury, Kent | WikiTree Colepeper-5 |
+| 1355 | Built chantry chapel of St. Mary | [[John_Colepeper_Hardreshull]] | Pembury, Kent | WikiTree Colepeper-5 |
+| 1364-1369 | Sheriff of Kent (3 terms) | [[John_Colepeper_Hardreshull]] | Kent, England | WikiTree Colepeper-5 |
+| 1376 | Death (before Easter term) | [[John_Colepeper_Hardreshull]] | England | WikiTree Colepeper-5 |
+| c. 1465 | Birth | [[Walter_Colepeper_Calais]] | England (Kent probable) | WikiTree Culpepper-600 |
+| c. 1480 | Marriage | [[Walter_Colepeper_Calais]] + Anne Aucher | Bedgebury, Kent | WikiTree Aucher-1 |
+| 1508 | Under-Marshal of Calais; present at treaty for Mary Tudor's marriage | [[Walter_Colepeper_Calais]] | Calais | WikiTree Culpepper-600 |
+| c. 1509 | Birth | [[William_Culpepper_Hunton]] | Hunton, Kent, England | WikiTree Culpeper-39 |
+| c. 1515 | Death | [[Walter_Colepeper_Calais]] | Calais | WikiTree Culpepper-600 |
+| 1530-01-04 | Marriage settlement | [[William_Culpepper_Hunton]] + Cicely Barrett | Kent, England | WikiTree Barrett-194 |
+| 1540-03-02 | Birth | [[Martin_Culpepper]] | Salehurst, Sussex | GEDCOM, Wikipedia |
+| 1559-12-06 | Death | [[William_Culpepper_Hunton]] | Salehurst, Sussex | WikiTree Culpeper-39 |
 
 ## Pre-1800
 
@@ -75,6 +99,8 @@ Chronological index of all dated events across the family tree.
 | Sept 1, 1914 | Birth | Charles Salmanson | | AncientFaces |
 | June 26, 1914 | Birth | Hannah Kushner | | Find a Grave #185239892 |
 | Dec 10, 1914 | Birth | Henry Michael Kascher | Youngstown, Mahoning, Ohio | Ohio birth index |
+| 1914-1916 | Military service (WWI, Austro-Hungarian Army) | [[Heschel_Herman_Markel]] | Galicia (Eastern Front) | Yichus narrative (Tier 2), corrected from "Polish army" |
+| 1916 | Death (gangrene from leg wound, WWI) | [[Heschel_Herman_Markel]] | Galicia | Yichus narrative (Tier 2), GEDCOM |
 | 1917-1918 | Military service (WWI) | [[Barnett_Salmanson]] | Providence, RI | MyHeritage |
 | ~1919-1920 | Birth | Martha E. Salmanson | Providence, RI | Martha obit |
 | Sept 12, 1920 | Birth | Thelma Markel | | Find a Grave #231959788 |
