@@ -690,3 +690,9 @@ Born Feb 11, 1889. Kascher Family Album (02.pdf) clearly states "born February 1
 
 ### NEW DISCREPANCY: Rosina Falk birth year 1896 vs 1905
 Kascher Family Album (02.pdf): "born September 11, 1896 in Petersdorf." Fan chart (06.pdf): 1896. Church KINDER certificate: "4 July 1905." If born 1896, she was 16 at 1913 marriage (plausible). If born 1905, she was 7 (impossible). 1896 is almost certainly correct. Church certificate has similar digit ambiguity. She died May 27, 1928 in Denver CO of TB at age 31-32 (if born 1896) or 22 (if born 1905).
+
+### Culpepper Chain Verified: 11 generations, c.1170 to 1540
+Thomas the Recognitor (c.1170) → John (c.1200) → Thomas of Brenchley (c.1230) → Thomas executed (1321) → John of Hardreshull (1305) → Thomas (1355) → Walter (1398) → Sir John (1424) → Walter of Calais (1465) → William of Hunton (1509) → Dr. Martin Culpepper (1540).
+Chain is Moderate to Strong Signal. Weakest links: Thomas→John (tradition only) and Thomas(executed)→John (son vs brother confusion). Norman origin probable but pre-Thomas ancestry unknown.
+Catherine Howard connection confirmed: Thomas Culpeper (courtier, executed 1541) was Martin Culpepper's COUSIN (both grandsons of Sir John + Agnes Gainsford).
+Gainsford family: prominent Kent/Surrey gentry, connected to Tudor court.
