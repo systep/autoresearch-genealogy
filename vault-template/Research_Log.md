@@ -708,3 +708,18 @@ Earlier Brashiers in Maryland were Brasseur French Huguenots (Benjamin Brasseur 
 
 ### Worthington: Dulcebella Rossell born Helme
 Isaacke Worthington's wife = Dulcebella Rossell (born Helme). This explains the "Rossell" and "Helme" names appearing in the GEDCOM/pedigree charts for the Hough family.
+
+### Sandys: Burgh-by-Sands 1234 Charter (Tier 1)
+Simon de Sabulonibus documented in 1234 granting land to Holm Cultram Abbey. "De sabulonibus" = Latin "of the sands" from Burgh-by-Sands. Edward I died there 1307. Richard del Sandes III (c.1300) = common ancestor of ALL Sandys branches including Baron Sandys of The Vyne AND Archbishop Edwin Sandys. Confirmed by heraldic records though exact intermediate links debated.
+
+### Stephen Sands Parents CORRECTED
+Mother: Isabella Sands (per Lancaster Monthly Meeting certificate 1682, Tier 1). Father: unknown (probably Lancashire Sands, NOT Richard Sandys of Kent). Stephen likely from cadet branch of broader Lancashire Sands family, not the Archbishop's direct line. Vault files need correction.
+
+### Holloway: Governor Samuel Mathews Connection CONFIRMED
+Elizabeth Mathews (David Holloway's wife) was granddaughter of Governor Samuel Mathews Jr. (d.1660). 1678 land patent and 1702 court order (Tier 1) confirm chain: Gov. Mathews → John Mathews (1659) → Elizabeth → m. David Holloway. David's father: James Holloway (~1635-1676, York County VA).
+
+### Cowgill Deeper: John of Lothersdale (1572)
+Edmund Cowgill Sr.'s parents: John Cowgill "of Lothersdale" (bapt. Sep 27, 1572, Thornton in Craven) + Margaret Gardiner (m. May 3, 1601). John's father: Bryan Cowgill (d. 1599). Bryan's father: Richard Cowgill (b. 1540s). Parish records (Tier 1). "De Colgyll" in 1379 Poll Tax. Name = "charcoal ravine" (Old Norse/English), not "cow."
+
+### Settle Monthly Meeting: Records Survive 1666+
+University of Leeds Special Collections holds: Monthly Meeting minutes (1666-1971), Women's Meeting minutes (1701-1845), Ministers & Elders minutes (1699-1814). Digest Registers for Yorkshire Quaker births/marriages/burials from 17th century on open access.
