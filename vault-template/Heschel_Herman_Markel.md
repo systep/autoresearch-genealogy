@@ -55,7 +55,15 @@ The Pogrom of Rosh Hashanah 1939: four of Heshel and Leah's children (Avraham Ch
 
 Heshel died in 1916 at age 53-54 (GEDCOM; Yichus narrative, Tier 2).
 
-Confidence: Moderate. The Yichus narrative (Tier 2, primary family document) corroborates and substantially expands upon the GEDCOM/MyHeritage data (Tier 3).
+### Military Service and Death (Corrected)
+
+The Yichus narrative states Heshel was "conscripted into the Polish army." This is anachronistic. In 1914 to 1918, Galicia was part of Austria-Hungary, not Poland. Poland did not exist as an independent state until November 1918. Heshel was conscripted into the **Austro-Hungarian Imperial and Royal Army (k.u.k. Armee)**, not the Polish army. He died in 1916 of gangrene from a leg wound sustained in combat, at age approximately 53 to 54.
+
+Galician Jewish men were subject to universal conscription under Austro-Hungarian law. During WWI, the Sambor district fell within the mobilization zone for k.u.k. regiments based in Galicia. The fighting on the Eastern Front in Galicia was intense, particularly during the Brusilov Offensive of June to September 1916.
+
+**Records to search**: The Verlustlisten (Austro-Hungarian casualty lists, 1914 to 1918) are digitized and full-text searchable at the Upper Austrian Regional Library (digi.landesbibliothek.at). These lists contain approximately 3 to 3.5 million names of wounded, killed, and captured soldiers from all Crown Lands, including Jewish soldiers. Searching for "Markel" in the Verlustlisten could confirm Heshel's regiment, rank, and date of casualty. The Kriegsarchiv in Vienna holds Grundbuchblatter (registration sheets), military parish records, and rank/assignment lists 1914 to 1918. However, most registration sheets of draftees from Galicia have been destroyed. MyHeritage hosts an indexed collection of Austria-Hungary WWI Casualty Lists, 1914 to 1918.
+
+Confidence: Moderate. The Yichus narrative (Tier 2, primary family document) corroborates and substantially expands upon the GEDCOM/MyHeritage data (Tier 3). The "Polish army" reference is corrected to Austro-Hungarian army based on historical context (Strong Signal).
 
 ## Document Sources
 
@@ -71,3 +79,4 @@ Confidence: Moderate. The Yichus narrative (Tier 2, primary family document) cor
 |---|---|---|---|
 | Name spelling | "Heschel Herman Markel" (GEDCOM/MyHeritage) | "Heshel Markel" (Yichus narrative, Tier 2) | Variant romanizations of the same Yiddish name. "Herman" may be an Americanized middle name not used in the original. Yichus form "Heshel" is likely closer to the original. |
 | Location | "Vanyavitch, Poland" (GEDCOM) | "Vanyavitch, near Lemberg, near Sombor, near Cracow, in Galicia (Austria/Poland), now Ukraine" (Yichus, Tier 2) | Consistent. The Yichus provides more geographic context. At the time of Heshel's birth (1862), Galicia was part of Austria-Hungary. |
+| Military service | "Conscripted into the Polish army" (Yichus narrative, Tier 2) | Historical context: Galicia was Austro-Hungarian 1772 to 1918 (Tier 1, established fact) | **Corrected**: The Yichus is anachronistic. Heshel served in the Austro-Hungarian army (k.u.k. Armee), not the Polish army. Poland did not exist as an independent state during WWI. The Yichus writer (Ruth Gold, 2011) likely used "Polish" loosely to refer to the geographic area. |

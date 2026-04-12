@@ -696,3 +696,15 @@ Thomas the Recognitor (c.1170) → John (c.1200) → Thomas of Brenchley (c.1230
 Chain is Moderate to Strong Signal. Weakest links: Thomas→John (tradition only) and Thomas(executed)→John (son vs brother confusion). Norman origin probable but pre-Thomas ancestry unknown.
 Catherine Howard connection confirmed: Thomas Culpeper (courtier, executed 1541) was Martin Culpepper's COUSIN (both grandsons of Sir John + Agnes Gainsford).
 Gainsford family: prominent Kent/Surrey gentry, connected to Tudor court.
+
+### Hough Line Extended: Roger Hough (~1540)
+Henry Hough's parents: Roger Hough + Margery Mottershed (m. Jun 4 1564 Wilmslow). Henry christened Oct 29, 1564 Wilmslow. Roger resided Chorley, buried May 5, 1587 Wilmslow. Lawrence Hough (d. 1668) is likely Henry's grandson not son (Henry's 1618 will doesn't name Lawrence). Cheshire exempt from medieval poll taxes.
+
+### Baldwin: Three Brothers from Oxfordshire 1682
+Thomas, John, Francis Baldwin sailed from Oxfordshire as servants of Joshua Hastings (Quaker) in Penn colonization. Chatham County NC Baldwins confirmed Quaker (William Baldwin joined Cane Creek Meeting 1752). Sir John Baldwin (1470-1545) = Chief Justice of Common Pleas; father William Baldwin (~1441-1479); mother disputed (Jane Aylesbury vs Agnes Dormer).
+
+### Brasher: French Huguenot Connection
+Earlier Brashiers in Maryland were Brasseur French Huguenots (Benjamin Brasseur naturalized 1662). William B. Brasher Sr. (d. 1708) may descend from them or be separate Wiltshire immigrant. Sarah Constant (m. Thomas Brasher 1726) father: John Constance Sr. (1681-1735).
+
+### Worthington: Dulcebella Rossell born Helme
+Isaacke Worthington's wife = Dulcebella Rossell (born Helme). This explains the "Rossell" and "Helme" names appearing in the GEDCOM/pedigree charts for the Hough family.
