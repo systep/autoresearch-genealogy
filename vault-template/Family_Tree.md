@@ -282,11 +282,73 @@ William Cox Sr. migrated to SC with the **Long** family. The large handwritten c
 | (Frank or Frances?) | Nov 25, ~1791 | | speculative |
 | Joseph | Jan 11, ~1793 | | speculative |
 
-### King Family (South Carolina)
+### King Family (South Carolina, Irish origin)
 
-*Source: IMG_0792.jpg, IMG_0786.jpg* **(moderate)**
+*Source: Death certificates, 1850/1870/1880/1910/1920 Census, Confederate service index, Find a Grave, WikiTree, Geni, IMG_0792.jpg, IMG_0786.jpg* **(strong)**
+
+**Lineage: Robert King II (Ireland, c. 1750) > James King Sr. (~1788) > George Washington King (1815) > Judson King (1841)**
+
+**[[Robert_King_II]] + Tabitha Dolby** (strong)
+- Robert: c. 1750, Ireland; d. Dec 13, 1826, Anderson County, SC
+- Tabitha Dolby: c. 1750, Ireland; d. May 14, 1815
+- Emigrated from Ireland 1770; settled near Belton, Anderson Co, SC ~1772
+- Revolutionary War veteran (Battle of Kings Mountain)
+- 23 children, 21 survived to adulthood
+- Buried: King Family Cemetery, Belton, SC (Find a Grave #48870135)
+- Source: WikiTree King-12061, Find a Grave, DAR records (Tier 2/3)
+
+**[[James_King_Sr]] + Mary Nancy Parker** (moderate)
+- James: b. ~1787-1788, SC; d. ~1867; farmer, $3,000 real estate
+- Mary Nancy Parker: b. March 8, 1787; d. June 8, 1853; parents John Parker + Betty Parker
+- Son of Robert King II and Tabitha Dolby
+- 1850 Census: Eastern Sub Division, Anderson County, SC (Family 398)
+- Children: [[George_Washington_King]] (b. 1815), Sarah (Sallie) Ann King Fant, John King, Elizabeth A. King Haynie (b. ~1831)
+- **Brother (NOT son)**: Rev. Robert King III (1791-1879), Baptist clergyman at Neals Creek Baptist Church (Find a Grave #41323851). Married Frances E. Holland. Census age of 37 in 1850 was an error; he was actually ~59.
+
+**[[George_Washington_King]] + Lucinda Elizabeth Chamblee** (strong)
+- George W.: b. Dec 22, 1815, Belton, Anderson Co, SC; d. Sept 6, 1887
+- Lucinda Elizabeth Chamblee: b. ~1825, SC; went by "Elizabeth" in census records
+- Son of James King Sr. Confirmed father of [[Judson_King]].
+- 1850: Anderson County. 1870: SC. 1880: Oaklawn Twp, Greenville County.
+- Buried: Washington Cemetery, Ware Place, Greenville County (Find a Grave #8737547)
+- At least 10 children over ~30 years:
+- Source: 1850/1870/1880 Census (Tier 1), death certificates for Judson + George Jr. (Tier 1), Find a Grave, Geni (Tier 2/3)
+
+**Children of George W. + Lucinda Elizabeth Chamblee King:**
+- **[[Judson_King]]** (b. June 20, 1841; d. May 12, 1921)
+- **Mary E. King** (b. ~1842)
+- **Tabbitha King** (b. ~1844)
+- **Elizabeth King** (b. ~1847)
+- **James M. King** (b. ~1848)
+- **George W. King Jr.** (b. March 1, 1858; d. April 29, 1936; m. Lou A. King; Death Cert #7632)
+- **Martha E. King** (b. ~1860)
+- **William E. King** (b. ~1863)
+- **Robert Lee King** (b. ~1866; named for Gen. Robert E. Lee)
+- **Fannie King**
+
+**[[Judson_King]] + [[Charstee_King|Charstee A. Cooley]]** (strong)
+- Judson: b. June 20, 1841, SC; d. May 12, 1921, Greenville County, SC
+- Charstee A. Cooley: b. June 30, 1842; d. March 15, 1921 (predeceased Judson by 2 months)
+- Married before 1866; lived in Oaklawn Township, Greenville County, SC
+- Civil War: Judson enlisted 1862, Confederate Army, 16th SC Infantry (Greenville Regiment)
+- Both buried: Fork Shoals Baptist Church Cemetery, Pelzer, Greenville Co (Find a Grave #8422324)
+- Charstee's likely parents: John Joseph Cooley (1819-1896) + Emily Chapman (1823-1857), also buried at Fork Shoals
+- Source: Death Certificate (Tier 1), Census (Tier 1), Find a Grave (Tier 2), cemetery records
+
+**Children of Judson and Charstee Cooley King** (census + cemetery records):
+- **Tabitha J. King** (April 5, 1866 - Oct 17, 1882; died age 16)
+- **Bunie Adair King** (March 9, 1868 - June 24, 1957)
+- **Dora S. King**
+- **Bessie C. King** (1871 - 1964)
+- **John W. King** (1873 - 1957)
+- **Andrew L. King** (May 11, 1878 - Aug 16, 1960; m. Emma Coker, 1883-1945)
+- **Mary E. King**
+- **James E. King**
+- **William C. King**
+- **Charlie W. King** (1885 - 1885; died in infancy)
 
 **Kerben King + Jesse** (surname of Jesse unclear) (moderate)
+- Relationship to James King / George Washington King family unknown; both are Anderson/Greenville County King families. Could Kerben be another son of James King? See Open Questions.
 
 **William I. King** (strong)
 - Described as "1st son of Kerben and Jesse King"
