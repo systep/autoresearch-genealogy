@@ -71,8 +71,15 @@ Chronological index of all dated events across the family tree.
 
 | Date | Event | Person(s) | Location | Source |
 |---|---|---|---|---|
+| Aug 1801 | Land deed | John Baldwin Sr. to [[Eli_Baldwin]] | Chatham County, NC (Deed Book L, pp. 239-240) | WikiTree Baldwin-2336 |
+| 5 Mar 1801 | Birth | [[Jeddiah_W_Clark]] | South Carolina | GEDCOM |
+| Nov 1802 | Land deed | [[Eli_Baldwin]] to William Baldwin | Chatham County, NC | WikiTree Baldwin-2330 |
+| 1804 | Death | Molly Mary Clark Henderson | North Carolina | WikiTree, Geni |
+| 19 Aug 1805 | Birth | [[Gilley_Elizabeth_Baldwin]] | Greenville, SC | MyHeritage GEDCOM |
 | 1806 | Death | Argaleus Hercules Henderson I | Chatham, NC | Find a Grave #11725276 |
+| ~1811 | Death | [[John_Baldwin_Sr]] | Chatham County, NC | WikiTree Baldwin-2336 |
 | Sept 13, 1813 | Birth | Rebecca Adeline Cox | | WikiTree Cox-18821 |
+| 1812 | Land purchase (250 acres from John Croft) | [[Eli_Baldwin]] | Greenville County, SC (Deed Book I, p. 218) | WikiTree, Geni |
 | June 7, 1812 | Birth | Rev. Henry Langford Henderson | Greenville County, SC | WikiTree Henderson-12233 |
 | Nov 1814 | Death | William Cox Sr. | Greenville County, SC | Cox Family History Project |
 | 1818 | Church organized | Standing Springs Baptist Church | Simpsonville, SC (in James Cox's home) | hmdb.org #168369 |
