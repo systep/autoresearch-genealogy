@@ -91,6 +91,9 @@ Chronological index of all dated events across the family tree.
 | ~1836 | Land donation for church | [[James Cox]] | Standing Springs, Simpsonville, SC | hmdb.org #168369 |
 | 18 Jan 1840 | Death | [[Eli_Baldwin]] | Greenville, SC | WikiTree Baldwin-2330, Geni |
 | June 20, 1841 | Birth | [[Judson_King]] | Greenville, South Carolina | SC Death Certificate #7013 (Tier 1) |
+| ~1788 | Birth | [[James_King_Sr]] | South Carolina | 1850 Census: age 62 (Tier 1) |
+| ~1813 | Birth | Robert King (Baptist clergyman) | South Carolina | 1850 Census: age 37 (Tier 1) |
+| ~1815 | Birth | [[George_Washington_King]] | South Carolina | 1850 Census: age 35 (Tier 1) |
 | ~1843 | Birth | [[Charstee_King]] | South Carolina | 1880 Census (Tier 1) |
 | Nov 2, 1846 | Death | Ezekiel Henderson | Greenville County, SC | WikiTree |
 | Before July 19, 1847 | Death | Brashier Henderson | Greenville County, SC | WikiTree Henderson-6197 |

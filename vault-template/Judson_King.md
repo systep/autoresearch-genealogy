@@ -30,14 +30,19 @@ tags: [genealogy, king, person, south-carolina, greenville, oaklawn, dunklin, fa
 | Burial | Fork Shoals area, Greenville County, SC | SC Death Certificate #7013 (Tier 1, partially legible) |
 | Military Service | Confederate Army, 16th SC Infantry (Greenville Regiment), enlisted 1862, age 23 | Ancestry/Fold3 Confederate service index (Tier 2) |
 | Occupation | Farmer (general farm) | SC Death Certificate #7013 (Tier 1); 1880, 1920 Census (Tier 1) |
-| Father | [[Washington_King]], born SC | SC Death Certificate #7013 (Tier 1); 1920 Census (Tier 1) |
-| Mother | Maiden name [partial: Shambler] (unverified), born SC | SC Death Certificate #7013 (Tier 1, partially legible); 1920 Census (Tier 1) |
+| Father | [[George_Washington_King]] (b. ~1815, SC, farmer). "Washington King" on death certificate. | SC Death Certificate #7013 (Tier 1); 1850 Census (Tier 1) |
+| Mother | Elizabeth King, nee [partial: Shambler] (b. ~1825, SC) | 1850 Census (Tier 1); SC Death Certificate #7013 (Tier 1, partially legible) |
+| Grandfather | [[James_King_Sr]] (b. ~1788, SC, farmer, $3,000 real estate) | 1850 Census, Anderson County (Tier 1) |
+| Grandmother | Mary King (b. ~1795, SC) | 1850 Census (Tier 1) |
+| Siblings (1850 Census) | Mary E (b. ~1842), Tabbitha (b. ~1844), Elizabeth (b. ~1847), James M (b. ~1848) | 1850 Census (Tier 1) |
 | Spouse | [[Charstee_King]] (b. ~1843, SC) | 1880 Census (Tier 1); 1920 Census (Tier 1) |
 | Children | Dora S., Andrew L., Mary E., James E., William C., Tabitha J., John W. King (per 1880 Census) | 1880 Census, Oaklawn Twp, Greenville Co, SC (Tier 1) |
 
 ## Biography
 
-Judson King was born June 20, 1841 in Greenville, South Carolina, to [[Washington_King]] and a mother whose maiden name appears to be Shambler (reading uncertain from death certificate). Both parents were born in South Carolina (1920 Census, Tier 1).
+Judson King was born June 20, 1841 in South Carolina. His death certificate names "Washington King" as his father, which almost certainly refers to [[George_Washington_King]] (b. ~1815, SC). In the 1850 Census (Anderson County, SC, Eastern Sub Division, Family 401), Judson ("Judsan," age 9) appears in the household of George W. King (age 35) alongside siblings Mary E (8), Tabbitha (6), Elizabeth (3), and James M (2). George W. King's wife was Elizabeth (age 25). Both of Judson's parents were born in South Carolina (1920 Census, Tier 1).
+
+George Washington King is confirmed as Judson's father based on two independent Tier 1 sources: the 1850 census (Judson in George W.'s household) and the death certificate (naming "Washington King" as father). [[James_King_Sr]] (age 62, same census page) is Judson's grandfather.
 
 He married **[[Charstee_King]]** (b. ~1843, SC). By 1880 they had seven children: Dora S., Andrew L., Mary E., James E., William C., Tabitha J., and John W. King (1880 Census, Oaklawn Township, Greenville County, SC, Tier 1). "Charstee" is an unusual name, possibly a variant of "Charity" or "Chastity."
 
@@ -57,13 +62,21 @@ The death certificate informant was H.H. King of Pelzer, SC. None of the seven c
 
 ## Relationship to Other King Family Members
 
-The existing vault documents a King family in Greenville County through handwritten notes (IMG_0792, IMG_0786): [[Kerben_King]] (possibly "Corbin King") + Jesse, whose son [[William_I_King]] (b. ~1862) married Marcia (Mary) Kopp/Huff. Judson King's father is recorded as Washington King, a name not previously documented. Both families are in Greenville County, SC in the same era; a connection is probable but unproven. See [[Open_Questions]] for research leads.
+The 1850 Census (Anderson County, SC) places three King households on the same page:
+- [[James_King_Sr]] (age 62, farmer, $3,000) + Mary (55) + Elizabeth A (19) (Family 398)
+- **Robert King** (age 37, Baptist clergyman, $600) + Frances + 6 others (Family 397)
+- [[George_Washington_King]] (age 35, farmer) + Elizabeth (25) + Judson (9) + 4 others (Family 401)
+
+James King is the probable patriarch. Robert and George W. are likely his sons. Whether Judson is George W.'s son or James's youngest son (living with brother George W.) is under investigation.
+
+The existing vault also documents a separate King line from handwritten notes (IMG_0792, IMG_0786): [[Kerben_King]] (possibly "Corbin King") + Jesse, whose son [[William_I_King]] (b. ~1862) married Marcia (Mary) Kopp/Huff. The relationship between the James/George W. King family and the Kerben King family is unknown; both are in the Greenville/Anderson County area. Could Kerben/Corbin be another son of James King? See [[Open_Questions]].
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
 | SC Death Certificate File No. 7013 | certificate | [[Judson_King_Death_Certificate]] |
+| 1850 U.S. Federal Census, Anderson County, SC (M432, Family 401) | census | MyHeritage/Ancestry index (user-provided screenshots) |
 | 1880 U.S. Federal Census, Oaklawn Twp, Greenville Co, SC | census | Ancestry.com index (user-provided screenshots) |
 | 1920 U.S. Federal Census, Oaklawn Twp, Greenville Co, SC (T625, Sheet 3-B, Family 51) | census | Ancestry.com index (user-provided screenshots) |
 | Confederate Service Record, 16th SC Infantry (Greenville Regt) | military | Ancestry/Fold3 index (user-provided screenshots) |

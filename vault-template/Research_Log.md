@@ -1301,4 +1301,48 @@ Processed user-provided screenshots from Ancestry.com: 1880 Census (Oaklawn Twp,
 2. Search Find a Grave for Fork Shoals / Oaklawn area cemeteries for Judson and Charstee King.
 3. Search Greenville County marriage records for Judson King to find Charstee's maiden name.
 4. Obtain full compiled Confederate service record from NARA for company, rank, battles, and discharge details.
-5. Search 1850/1860 census for Washington King and/or Kerben/Corbin King in Greenville County to establish their relationship.
+5. Search 1860 census for George W. King and/or Judson King to clarify father-brother relationship.
+
+## 2026-04-13: 1850 Census Discovery: James King, George W. King, and King Family Structure
+
+### Session Summary
+Processed user-provided 1850 Census page (Eastern Sub Division, Anderson County, SC, page 54, enumerated August 15, 1850, M432, Image 536) plus MyHeritage and Ancestry index screenshots. This reveals three King households on the same census page, establishing the broader King family structure.
+
+### Key Positive Results
+
+1. **James King (b. ~1788)**: Patriarch. Age 62, farmer, $3,000 real estate, born SC. Wife Mary (55). Daughter Elizabeth A (19) at home. (1850 Census, Family 398, Tier 1)
+
+2. **Robert King (b. ~1813)**: Age 37, Baptist clergyman, $600, born SC. Large household (8 people). On same census page as James King, likely his son. (Family 397, Tier 1)
+
+3. **George Washington King (b. ~1815)**: Age 35, farmer, born SC. Wife Elizabeth (25). Children in household: **Judsan (Judson), 9; Mary E, 8; Tabbitha, 6; Elizabeth, 3; James M, 2**. (Family 401, Tier 1)
+
+4. **"Judsan King" age 9 is in George W. King's household**, listed among the children. This is consistent with the death certificate naming "Washington King" as Judson's father. George Washington King = "Washington King."
+
+5. **User identifies Judson and George Washington King as brothers**, with James King as their common father. This is plausible (James was ~53 when Judson was born) but conflicts with the census placement and death certificate. Both interpretations documented. See [[George_Washington_King]] for full analysis.
+
+6. **Naming pattern confirmed**: George W.'s 1850 household includes Tabbitha and Mary E. Judson's 1880 household includes daughters Tabitha J. and Mary E. This suggests siblings naming children after each other (if father-son) or after nieces/nephews (if brothers).
+
+7. **Anderson County, not Greenville County**: The 1850 census places all three King families in Anderson County (adjacent to Greenville). By 1880, Judson was in Oaklawn Township, Greenville County. The family moved between counties at some point.
+
+### Negative Results
+- James King's wife "Mary" has no maiden name recorded.
+- No prior census (1840, 1830) has been checked for James King to extend the line further.
+- Robert King's household members have not been fully identified.
+
+### Files Created
+- George_Washington_King.md (person file, moderate confidence, with parentage debate)
+- James_King_Sr.md (person file, moderate confidence)
+
+### Files Updated
+- Judson_King.md (1850 census, parentage note, added 1850 source)
+- Washington_King.md (retained as redirect; see George_Washington_King.md)
+- Family_Tree.md (King family fully restructured with James King patriarch, three households)
+- Timeline.md (births of James, Robert, George W. King added)
+- Research_Log.md (this entry)
+- Open_Questions.md (updated #3 with 1850 census data)
+
+### Next Steps
+1. Search 1860 census for George W. King AND Judson King. If Judson (age ~19) is still in George W.'s household, that strongly supports father-son. If Judson is in James King's household, that supports brotherhood.
+2. Search 1840 census for James King in Anderson County, SC to determine household composition (would show number of males/females by age range).
+3. Search Anderson County marriage records for George W. King + Elizabeth to find her maiden name and confirm his full name as "George Washington King."
+4. Determine if Robert King (clergyman) has any connection to the Kerben King line.
