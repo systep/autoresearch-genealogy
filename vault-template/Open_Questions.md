@@ -200,6 +200,48 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Next step**: Direct search of Yad Vashem for Goldbaum (Brina/Bryna/Brayna).
 - **Solvability**: MODERATE; **Payoff**: MODERATE
 
+### 25. Eli Baldwin's wife: Elizabeth (unknown) or Edaline L. Transon?
+- **The question**: WikiTree Baldwin-2330 names Eli Baldwin's wife as "Elizabeth (surname unknown), married in Forsyth, NC." The MyHeritage GEDCOM names her as "Edaline L. Transon (b. 1783, Chatham, NC; d. 1840, Standing Springs, Greenville, SC)." Are these the same person, or is one source wrong?
+- **Searched (2026-04-13)**: Web searches for "Edaline Transon" and "Adaline Transon" in Chatham County NC returned nothing. Found Rufus Transon in Wilkes County, NC. The name "Edaline" is extremely unusual for the period.
+- **Next step**: Search 1810 and 1820 Greenville District SC census for Eli Baldwin household (wife's age would narrow identity). Search Forsyth County NC marriage records for Baldwin. Search Chatham County NC estate files for Transon/Transou.
+- **Solvability**: MODERATE (census records should exist and would show wife's age)
+- **Payoff**: MODERATE (clarifies one generation on the Baldwin maternal line)
+
+### 26. James Hiriam Clark: Virginia county of origin and parents
+- **The question**: James Hiriam Clark was born c.1770 in Virginia and migrated to SC by 1800. Which Virginia county? Who were his parents? Is there any connection to Molly Mary Clark (1722-1804), wife of Argaleus Hercules Henderson?
+- **Searched (2026-04-13)**: Ancestry.com user tree confirms basic data but adds nothing. No primary sources found.
+- **Next step**: Search 1790 and 1800 Virginia census for James Clark heads of household. Search Greenville District SC 1800 and 1810 census for James Clark. Check Chatham County NC Clark families for any connection.
+- **Solvability**: LOW (common surname, no distinguishing data points)
+- **Payoff**: HIGH (would extend the Clark line deeper into Virginia)
+
+### 27. Mary Neale (wife of James Hiriam Clark): identity and family
+- **The question**: Mary Neale married James Hiriam Clark. Where was she from? What were her parents' names?
+- **Searched (2026-04-13)**: No results found for Mary Neale Clark in any combination.
+- **Next step**: Search 1800-1830 Greenville District SC census for Clark household. Search Neal/Neale families in Virginia and Greenville County SC.
+- **Solvability**: LOW
+- **Payoff**: MODERATE
+
+### 28. Jeddiah W. Clark: 1850 census record and complete children list
+- **The question**: The 1850 census for Greenville District should show Jeddiah Clark (age 49) with wife Gilley (age 44-45) and children. Are there additional children beyond Eli Berry, Perry F., Sarah Elizabeth, and Jane?
+- **Searched (2026-04-13)**: Census index PDFs for Greenville District available at scgenweb.org but could not be accessed (403).
+- **Next step**: Access 1850 Greenville District census through Ancestry or FamilySearch.
+- **Solvability**: HIGH (census records exist and are indexed)
+- **Payoff**: HIGH (would identify all children and confirm ages)
+
+### 29. Eliza Jane Cox (wife of Eli Berry Clark): parents and family
+- **The question**: Eliza Jane Cox married Eli Berry Clark. Is she from the James Cox family of Standing Springs?
+- **Searched (2026-04-13)**: Identified through WikiTree Henderson-12233 and Cox Family History Project. No specific parents found.
+- **Next step**: Search 1850 and 1860 census for Eli Berry Clark household. Search Cox family trees on WikiTree and FamilySearch.
+- **Solvability**: MODERATE
+- **Payoff**: MODERATE
+
+### 30. John Clarke (1558) to James Hiriam Clark: is there a valid connection?
+- **The question**: The GEDCOM links John Clarke (1558, Great Munden, Hertfordshire) to the SC Clark line through the Stackhouse family. Is this valid?
+- **Searched (2026-04-13)**: John Clark of Great Munden went to colonial Connecticut, not South Carolina. Connection appears to be through Stackhouse/Cowgill/Sands/Hough marriage lines, not the Clark patrilineal line.
+- **Next step**: Trace GEDCOM chain step by step.
+- **Solvability**: MODERATE
+- **Payoff**: LOW
+
 ## Data Acquisition Priorities
 
 | Priority | Record Type | Location | Expected Yield | Cost |
@@ -230,3 +272,9 @@ Research gaps and unresolved questions, organized by priority and family line. U
 | 24 | JewishGen Yizkor Book Master Name Index: Deych in Rokiskis | jewishgen.org/databases/yizkor/Names/ | Presence of Deych family in Rokiskis Yizkor book necrology | Free (requires account) |
 | 25 | Rokiskis 1897 census and 1908 Family List: Deych/Zalmanson | Rokiskis SIG (via JewishGen KehilaLinks) | Household composition, ages, occupations | Free (SIG membership may be needed) |
 | 26 | Ancestry Collection 1416: Lithuania Jewish Birth Records 1837-1940 | Ancestry.com | Rochel Tsine Deych birth record (~1861) | Subscription |
+| 27 | 1850 Greenville District SC census: Jeddiah Clark household | Ancestry / FamilySearch | Complete children list, ages, birthplaces | Subscription or Free |
+| 28 | 1810-1830 Greenville District SC census: Clark and Baldwin households | Ancestry / FamilySearch | James Hiriam Clark and Eli Baldwin household sizes and locations | Subscription or Free |
+| 29 | Standing Springs Baptist Church records (microfilm) | Furman University, James B. Duke Library, Special Collections | Clark-Cox marriage records, baptisms, membership rolls | Free (at library) |
+| 30 | Greenville County probate records: Jeddiah W. Clark estate (1860) | FamilySearch microfilm / Greenville County Probate Court | Will, inventory, heirs list | Free (FamilySearch) or fee |
+| 31 | Greenville County deed records: Clark land transactions 1800-1860 | FamilySearch microfilm / Greenville County ROD | Land ownership, neighbors, family network | Free (FamilySearch) or fee |
+| 32 | 1790-1800 Virginia census: James Clark heads of household | Ancestry / FamilySearch | Identify James Hiriam Clark's Virginia county of origin | Subscription or Free |

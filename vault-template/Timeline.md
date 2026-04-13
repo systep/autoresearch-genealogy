@@ -38,7 +38,11 @@ Chronological index of all dated events across the family tree.
 | Date | Event | Person(s) | Location | Source |
 |---|---|---|---|---|
 | ~1720 | Birth | Argaleus Hercules Henderson I | Onslow, NC | WikiTree Henderson-7309 |
+| 1722 | Birth | Molly Mary Clark | North Carolina | WikiTree, Geni |
+| ~1730 | Birth | [[John_Baldwin_Sr]] | Chester, Pennsylvania | WikiTree Baldwin-2336 |
 | ~1730-1735 | Birth | [[William Cox Sr.]] | Unknown | Cox Family History Project |
+| 1736 | Birth | Alice Francis Lindley | Chatham, NC | WikiTree Lindley-409 |
+| ~1740 | Marriage | Argaleus Hercules Henderson I + Molly Mary Clark | North Carolina | WikiTree, Geni |
 | 1744 | Birth | John Stangle | England | IMG_0789 |
 | ~1755 | Birth | [[Isaac Cox]] | Orange County, NC | WikiTree Cox-8529 |
 | 1755 | Tax list | William Cox (3 William Coxes) | Orange County, NC | NC Digital Collections |
