@@ -25,7 +25,7 @@ tags: [genealogy, markel, sternbach, person, galicia, jewish, rhode-island, tier
 | Father | [[Heschel_Herman_Markel]] (Heshel Markel; b. 1862; d. 1916) | Yichus narrative (Tier 2) |
 | Mother | [[Leah_Frei]] (b. 1864; d. 1940) | Yichus narrative (Tier 2) |
 | Spouse | Abraham David Sternbach (1886-1978) | MyHeritage (Tier 3, via Morris Markel file) |
-| Children | Unknown | |
+| Children | Florence Sternbach (m. David Futtersak) | David Futtersak obituary, Jewish Rhode Island, 2024 (Tier 2) |
 | Settled | Rhode Island | Yichus narrative (Tier 2) |
 
 ## Biography
@@ -33,6 +33,16 @@ tags: [genealogy, markel, sternbach, person, galicia, jewish, rhode-island, tier
 Minnie Markel Sternbach was born in 1887 and died in 1975 (Yichus narrative, Tier 2). She was the eldest of eight surviving children (out of 14 born) of **[[Heschel_Herman_Markel]]** (Heshel Markel; b. 1862; d. 1916) and **[[Leah_Frei]]** (b. 1864; d. 1940) (Yichus narrative, Tier 2).
 
 Minnie settled in Rhode Island (Yichus narrative, Tier 2). She married **Abraham David Sternbach** (1886-1978) (referenced in the Morris Markel file from MyHeritage/Geni, Tier 3). Note: the Morris Markel file previously listed her as "Minnie Mircha Markel (1889-1975)"; the Yichus narrative gives 1887 as her birth year, creating a minor discrepancy.
+
+### Independent Confirmation: Ahavath Sholom Founding
+
+The identification of Minnie Sternbach as Minnie Markel (Morris's sister) receives independent confirmation from the historical article "The Founding of a Jewish Community: The Early Years of Congregation Ahavath Shalom of West Warwick, Rhode Island" by Rebecca Twersky (RI Jewish Historical Notes, Vol. 7, 1977). This article states that **Abraham and Minnie Sternbach arrived in Arctic in 1912**, where they found a small Jewish community of some 12 families. Abraham became the first president of the congregation, and Minnie was an officer of the Hebrew Ladies Auxiliary. The Sternbach home was where the community's prayer quorum (minyan) met. Abraham Sternbach was one of the seven founding members of Congregation Ahavath Shalom (chartered December 12, 1919).
+
+This independently confirms: (a) Minnie's married name was Sternbach, (b) she and Abraham were in Arctic/West Warwick by 1912, and (c) their establishment in the community would have provided the "chain migration" connection for Morris Markel's later arrival (~1928).
+
+### Children
+
+David Futtersak's obituary (Jewish Rhode Island, 2024) identifies him as the husband of **Florence (Sternbach) Futtersak** and son-in-law of Abraham and Minnie Sternbach. This confirms at least one child: Florence Sternbach (married David Futtersak). David and Florence were married for 67 years. David served as a Korean War-era veteran and was an advertising artist in Providence.
 
 Minnie's siblings, in birth order per the Yichus narrative:
 1. **Minnie Markel Sternbach** (this individual; 1887-1975)
@@ -52,6 +62,8 @@ Confidence: Moderate. The Yichus narrative (Tier 2) provides birth year, death y
 |---|---|---|
 | Yichus narrative by Ruth Gold, Oct 9, 2011 | Primary family document (Tier 2) | Assets/Yicchis and Narrative.PDF |
 | MyHeritage family tree (via [[Morris_Markel]] file) | Family tree database (Tier 3, unverified) | |
+| "The Founding of a Jewish Community" by Rebecca Twersky, RIJH Notes Vol. 7, 1977 | Historical article (Tier 2) | rijha.org; confirms Abraham and Minnie Sternbach arrival in Arctic 1912, founding role |
+| David Futtersak obituary, Jewish Rhode Island, 2024 | Newspaper obituary (Tier 2) | jewishrhody.com; confirms daughter Florence (Sternbach) Futtersak |
 
 ## Data Discrepancies
 

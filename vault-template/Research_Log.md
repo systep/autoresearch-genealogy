@@ -9,6 +9,61 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-13: Youngblood Family Research and Willis Henrietta Youngblood Verification
+
+### Search: Willis Henrietta Youngblood Census Records
+**Query**: "Willis Henrietta Youngblood" Greenville SC census records; "Willie Youngblood" Lowndes Mississippi Columbus census 1880
+**Source**: Web search, FamilySearch, MyHeritage
+**Results**: No direct census images found via web search (login-required databases needed). Existing data confirmed: 1880 Census lists Willie Youngblood, age 17, in Beat 5, Lowndes, Mississippi. Family was in Lowndes County, MS, NOT Greenville County, SC. The SC connection is through the Bright family line.
+
+### Search: "First Woman Graduate" Claim Verification
+**Query**: "first woman graduate" United States 1880s; Mississippi Industrial Institute College Columbus first graduating class 1889
+**Source**: Web search, Wesleyan College, MUW history, Mississippi Encyclopedia, Wikipedia
+**Results**: SIGNIFICANT FINDING. The Mississippi Industrial Institute and College (II&C, now MUW) was chartered March 12, 1884 in Columbus, Mississippi (Willis's hometown), the first state-supported college for women in America. First 10 graduates received diplomas June 10, 1889. Willis was age 21-22 when classes began. Her death record lists "college school teacher." HYPOTHESIS: Willis may have been among the first 10 graduates of the II&C (1889). Known first-class member: Miriam "Minnie" Greene Paslay (1869-1932).
+**Next step**: Check II&C catalogs 1889-91 in the Beulah Culbertson Archives at MUW.
+
+### Search: James Youngblood Deeper Ancestry and Edgefield Migration
+**Query**: Youngblood Edgefield South Carolina Alabama Mississippi migration; WikiTree Youngblood-746; FamilyTreeDNA project
+**Source**: Web search, WikiTree, FamilyTreeDNA
+**Results**: Documented Edgefield-to-Alabama migration after War of 1812. Town of Youngblood, Alabama settled 1834 by Edgefield Youngbloods. GEDCOM James is likely son/grandson of WikiTree Youngblood-746 (c. 1740-1792), part of this migration wave. FamilyTreeDNA identifies two Y-DNA groups: pre-1708 English and post-1710 Palatinate German (Jungblut).
+
+### Search: Youngblood Surname Origin
+**Query**: Youngblood surname origin German Jungblut
+**Source**: FamilyTreeDNA, surname databases
+**Results**: Anglicization of German "Jungblut." Peter Jungblut naturalized 1739 from Palatinate, Germany. Dutch variant: Jongbloet. German Jungblut tested did NOT match American Youngblood Y-DNA.
+
+### Search: Bright-Youngblood Marriage Record
+**Query**: George Michael Bright Willis Youngblood marriage 1890 Lowndes Mississippi
+**Source**: Mississippi Genealogy & History Network, web search
+**Results**: No specific marriage record found. Also found: James W. Youngblood married Louisa Clark, Sep 16, 1841, Lowndes County, establishing Youngblood presence by 1841.
+
+### Search: Bernard Kyle Bright Confirmation
+**Query**: "Bernard Kyle Bright" 1892 Abingdon Virginia
+**Source**: Ancestry.com, Geni.com
+**Results**: CONFIRMED. Born June 17, 1892, Abingdon, VA. Parents: George Michael Bright and Willie H. Youngblood. Died December 1978, Jonesborough, TN. Married Velma Imogean Jamison.
+
+### Search: Viola E. Youngblood
+**Query**: FamilySearch Viola E. Youngblood 1857-1924
+**Source**: FamilySearch (ID LJ1H-YRB)
+**Results**: Confirmed 1857-1924. Sister of Willis. Consistent with 1880 Census.
+
+### Search: Commodorie S. Bright
+**Query**: Find a Grave Commodorie S Bright
+**Source**: Find a Grave (#78562893)
+**Results**: Born Jan 31, 1880; died Apr 15, 1959. Buried Woodlawn Memorial Park, Greenville, SC. Wife Stella E. Bright (1894-1965). 1880 birth predates 1890 Bright-Youngblood marriage. Likely not Willis's son.
+
+### Search: High Street Cemetery, Rocky Mount, VA
+**Query**: Find a Grave High Street Cemetery
+**Source**: Find a Grave (cemetery ID 1960179)
+**Results**: 1,372 memorials. No Bright or Youngblood memorials returned in web search.
+
+### Negative Results
+- No obituary found for Willis Henrietta Youngblood/Bright (d. 1952 Bristol, VA).
+- No Find a Grave memorial for William Henry Youngblood at Forest Hills Cemetery, Chattanooga, TN.
+- No Find a Grave memorial for Willis/Willie Bright at High Street Cemetery, Rocky Mount, VA.
+- No records found for William Wert Bright or Arthur Wade Bright.
+- No records found for Esther Lucy Kyle family.
+
 ## 2026-04-13: Brasher/Brashier Family Deep Research
 
 ### Search: Elizabeth Brasher parents and Thomas Levi Brasher Jr. will
