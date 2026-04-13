@@ -1,15 +1,16 @@
 ---
 type: person
 name: "Michael Kascher Sr."
-born: 1864-02-11
-died: 1935-07-20
+born: 1864-03-30
+died: 1935-07-22
 family: "Kascher"
-confidence: moderate
+confidence: strong
 sources:
-  - "MyHeritage family tree (Tier 3, unverified)"
-  - "FamilySearch Family Tree (via MyHeritage Smart Match)"
+  - "Waldhutten church certificate 'VATER' (Tier 1, 10 Feb 1938, Pastor A. Bogeschdorfer)"
+  - "Waldhutten church certificate 'KINDER' (Tier 1, 10 Feb 1938)"
+  - "Youngstown Vindicator obituary (July 23, 1935, Tier 2)"
   - "BillionGraves (Tod Homestead Cemetery)"
-  - "Youngstown Vindicator obituary (July 23, 1935)"
+  - "MyHeritage family tree (Tier 3)"
 created: 2026-04-10
 tags: [genealogy, kascher, person, transylvania, ohio, transylvanian-saxon]
 ---
@@ -20,24 +21,31 @@ tags: [genealogy, kascher, person, transylvania, ohio, transylvanian-saxon]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Michael Kascher Sr. | Youngstown Vindicator obituary (Tier 2) |
-| Born | February 11, 1864, Waldhutten (Waldhütten/Valchid), Siebenburgen (Transylvania), Austria | MyHeritage (Tier 3, unverified) |
-| Died | July 20, 1935, Youngstown, Mahoning County, Ohio | Youngstown Vindicator obituary (Tier 2) |
+| Full Name | Michael Kascher Sr. | Church certificate "VATER" (Tier 1) |
+| Born | **30 March 1864**, Waldhütten (Valchid), Transylvania | Church certificate "VATER" (Tier 1) |
+| Died | **22 July 1935**, Ohio, of heart attack (Herzschlag) | Church certificate "VATER" (Tier 1); obituary (Tier 2) |
 | Age at Death | 71 | Youngstown Vindicator obituary |
 | Burial | July 24, 1935, Tod Homestead Cemetery, Youngstown, Ohio | BillionGraves, obituary |
-| Father | Michael Kascher I (b. Sept 20, 1834, Wurmloch; d. June 28, 1880, Waldhütten) | MyHeritage (Tier 3, unverified) |
-| Mother | Sara Schuller (chr. Jan 27, 1829, Waldhütten; d. 1876) | MyHeritage (Tier 3, unverified) |
-| Paternal Grandparents | [[Georg_Kascher]] (b. Mar 1792, Wurmloch) + Maria Wagner (b. 1795, Wurmloch) | MyHeritage (Tier 3, unverified) |
-| Spouse | Anna Binder (b. ABT 1883, Waldhütten; m. ABT 1900, Waldhütten) | MyHeritage (Tier 3, unverified) |
-| Children | [[Michael_Kascher_Transylvania]] (b. Feb 11, 1889), George Kascher, John Kascher, Fred Kascher, Mrs. Martin Winter (New York City), Leslie Wilson (New York City) | Obituary (Tier 2) |
+| Father | **Michael Kascher I** (b. 20 Sept 1834, Wurmloch; d. 28 June 1880, Waldhütten, pneumonia) | Church certificate "VATER" (Tier 1) |
+| Mother | **Sara geb. Schuller** (b. 27 Jan 1829, Waldhütten; d. 22 Mai 1876, uterine cancer). Widowed Stephann Benning. | Church certificate "VATER" (Tier 1) |
+| Paternal Grandparents | **[[Georg_Kascher]]** (b. March 1792, Wurmloch) + **Maria geb. Wagner** (from Wurmloch) | Church certificate "VATER" (Tier 1) |
+| Maternal Grandparents | **[[Johann_Schuller]]** (b. Sept 1797, Waldhütten; d. 10 March 1858, liver disease) + **[[Sara_Benning]]** (b. Dec 1800, Waldhütten; d. 17 Oct 1855, tuberculosis). Married 20 Jan 1820. | Church certificate "VATER" (Tier 1) |
+| Maternal Gt-Grandfather | **[[Leonhard_Schuller]]** (b. circa 1770, Waldhütten). Father of Johann Schuller. Data missing. | Church certificate "VATER" (Tier 1) |
+| Spouse | **[[Anna_Binder]]** (b. 15 April 1868, Kreisch; d. 18 Oktober 1915, Waldhütten, tuberculosis). Married **29 January 1888**. | Church certificate "VATER" + "KINDER" (Tier 1) |
+| Sibling | **Regina Kascher** (b. 3 Aug 1861; d. 4 March 1933, Waldhütten) | Church certificate "VATER" (Tier 1) |
+| Children | (1) [[Michael_Kascher_Transylvania]] (b. 11 Feb 1889), (2) stillborn girl (23 Nov 1893), (3) Georg (28 May 1895), (4) Friedrich (15 Apr 1897, d. 7 Feb 1903), (5) Johann (28 Oct 1900), (6) Anna (17 May 1903), (7) Rosina (4 July 1905, d. 27 May 1928 Denver CO, TB), (8) Friedrich (10 Dec 1907), (9) Sara (1 May 1910), (10) Martin (17 Apr 1912, d. 18 Jan 1913) | Church certificate "KINDER" (Tier 1) |
 | Occupation | Former employee of Hartzell Bros. | Obituary |
 | Residences | Youngstown, Mahoning County, Ohio; Martins Ferry, Ohio | Obituary |
 
 ## Biography
 
-Michael Kascher Sr. was born February 11, 1864 in Waldhutten (Waldhütten, Romanian: Valchid), in the Siebenburgen (Transylvania) region of Austria (present day Romania). He was a **Transylvanian Saxon**, a member of the ethnic German community settled in Transylvania since the 12th century. His father Michael Kascher I (1834-1880) and mother Sara Schuller (1829-1876) lived in the Wurmloch/Waldhütten area; his paternal grandparents were Georg Kascher (b. 1792, Wurmloch) and Maria Wagner.
+Michael Kascher Sr. was born **30 March 1864** in Waldhütten (Romanian: Valchid), in Siebenburgen (Transylvania), Austria (present day Romania). Per the **1938 Waldhütten church certificate** (Tier 1 primary source, signed by Pastor A. Bogeschdorfer), all data is drawn from the Geburts-Tauf-Trauungs-und Toten Matrikeln (birth, baptism, marriage, and death registers) of the Evangelical Church A.B. in Waldhütten. He was a **Transylvanian Saxon**, a member of the ethnic German community settled in Transylvania since the 12th century.
 
-Michael Sr. married **Anna Binder** (b. ABT 1883, Waldhütten) around 1900 in Waldhütten. Anna Binder's parents were Martin Binder (b. May 3, 1831) and Anna Weber (b. Apr 25, 1841) (unverified). According to the Henry Michael Kascher person file, Anna Binder died of tuberculosis in 1915 in Waldhütten. After Anna's death, Michael Sr. emigrated to America with his children. The village of Waldhütten had been economically devastated by the **phylloxera vine louse crisis circa 1895**, causing mass emigration to Ohio.
+His father **Michael Kascher I** (b. 20 September 1834, Wurmloch) married his mother **Sara geb. Schuller** (b. 27 January 1829, Waldhütten; widowed Stephann Benning) on **4 January 1860** in Waldhütten. Sara died 22 May 1876 of uterine cancer (Gebärmutterkrebs). Michael I died 28 June 1880 of pneumonia (Lungenentzündung). Michael Sr. also had a sister, **Regina Kascher** (b. 3 August 1861; d. 4 March 1933, Waldhütten).
+
+Michael Sr. married **Anna Binder** (b. 15 April 1868, Kreisch/Cris) on **29 January 1888** in Kreisch. Anna died 18 October 1915 in Waldhütten of tuberculosis. Together they had **10 children** (per the "KINDER" certificate): (1) Michael (11 Feb 1889), (2) stillborn girl (23 Nov 1893, buried Waldhütten), (3) Georg (28 May 1895), (4) Friedrich (15 Apr 1897, d. 7 Feb 1903), (5) Johann (28 Oct 1900), (6) Anna (17 May 1903), (7) Rosina (4 July 1905, d. 27 May 1928 in Denver CO, USA, tuberculosis, buried Tod Homestead Cemetery), (8) Friedrich (10 Dec 1907, replacement name after first Friedrich's death), (9) Sara (1 May 1910), (10) Martin (17 Apr 1912, d. 18 Jan 1913, buried Waldhütten).
+
+After Anna's death in 1915, Michael Sr. emigrated to America with his surviving children. The village of Waldhütten had been economically devastated by the **phylloxera vine louse crisis circa 1895**, causing mass emigration to Ohio.
 
 He settled in **Youngstown, Mahoning County, Ohio**, and also resided in **Martins Ferry, Ohio**. He was a former employee of **Hartzell Bros.**
 
@@ -62,5 +70,7 @@ His son Michael Kascher (1889-1975) married Rosina Falk in 1913 and was the fath
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Anna Binder birth year | ABT 1883 (GEDCOM/FamilySearch) | 1868 (Henry Michael Kascher file) | Unresolved. 1868 is more consistent with marriage ABT 1900 and son born 1889. Requires primary source. |
-| Birth date | Feb 11, 1864 (GEDCOM) | Circa 1864 (obituary) | GEDCOM provides specific date; obituary gives approximate age of 71 at death in July 1935, consistent with 1864 birth. |
+| Anna Binder birth year | ABT 1883 (GEDCOM/FamilySearch) | 15 April 1868 (Church certificate, Tier 1) | **RESOLVED: Church certificate (Tier 1) confirms 1868. GEDCOM's "ABT 1883" is wrong by 15 years.** |
+| Birth date | Feb 11, 1864 (GEDCOM) | 30 March 1864 (Church certificate, Tier 1) | **RESOLVED: Church certificate says 30 March 1864. GEDCOM's "Feb 11" is wrong; Feb 11 is actually son Michael Jr.'s birth date (1889). The father and son share the same first name, causing confusion.** |
+| Marriage date | ABT 1900 (GEDCOM) | 29 January 1888 (Church certificate, Tier 1) | **RESOLVED: Married 1888, not 1900. First child born Feb 1889, 13 months after marriage.** |
+| Death date | July 20, 1935 (Obit) | July 22, 1935 (Church certificate "Ohio an Herzschlag") | **RESOLVED: Church certificate says July 22. Obituary published July 23. Minor 2-day difference; church cert preferred.** |

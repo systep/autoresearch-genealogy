@@ -4,9 +4,10 @@ name: "Sara Benning"
 born: 1800-11-28
 died: unknown
 family: "Benning"
-confidence: moderate
+confidence: strong
 sources:
-  - "GEDCOM f266i6 (MyHeritage/FamilySearch)"
+  - "Waldhutten church certificate 'VATER' (Tier 1, 10 Feb 1938, Pastor A. Bogeschdorfer)"
+  - "GEDCOM f266i6 (MyHeritage/FamilySearch, Tier 3)"
 created: 2026-04-10
 tags: [genealogy, Benning, person, Transylvanian-Saxon]
 ---
@@ -17,18 +18,21 @@ tags: [genealogy, Benning, person, Transylvanian-Saxon]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Sara Benning | GEDCOM (FamilySearch) |
-| Born | circa 28 Nov 1800 (christening date) | GEDCOM |
-| Birthplace | Waldhütten, Transylvania, Austria | GEDCOM |
-| Died | Unknown | |
+| Full Name | Sara geb. Benning | Church certificate "VATER" (Tier 1) |
+| Born | **December 1800**, Waldhütten | Church certificate "VATER" (Tier 1) |
+| Birthplace | Waldhütten, Siebenburgen (Transylvania) | Church certificate (Tier 1) |
+| Married | **20 January 1820** to Johann Schuller | Church certificate "VATER" (Tier 1) |
+| Died | **17 October 1855**, of **tuberculosis** (Tuberkulose) | Church certificate "VATER" (Tier 1) |
 | Father | Michael Benning | GEDCOM |
 | Mother | Sara Benning (same name) | GEDCOM |
-| Spouse | [[Johann_Schuller]] | GEDCOM |
-| Children | Johannes Schuller, Michael Schuller, [[Sara_Schuller]], Catharina Schuller | GEDCOM |
+| Spouse | **[[Johann_Schuller]]** (b. Sept 1797, Waldhütten; d. 10 March 1858, liver disease) | Church certificate (Tier 1) |
+| Children | Johannes Schuller, Michael Schuller, **[[Sara_Schuller]]** (b. 27 Jan 1829), Catharina Schuller | GEDCOM + Church cert |
 
 ## Biography
 
-Sara Benning was born circa November 1800 in Waldhütten, Transylvania, Austria (christening recorded 28 Nov 1800). Her parents were Michael Benning and Sara Benning. She had a brother named Michael Benning. She married [[Johann_Schuller]] and was the mother of [[Sara_Schuller]], who married Michael Kascher.
+Sara Benning was born in **December 1800** in Waldhütten, Transylvania, Austria. Per the **1938 Waldhütten church certificate "VATER"** (Tier 1 primary source), she married **[[Johann_Schuller]]** (b. September 1797, Waldhütten) on **20 January 1820**. Her parents per GEDCOM were Michael Benning and Sara Benning (same name). She was the mother of **[[Sara_Schuller]]** (b. 27 January 1829), who married Michael Kascher.
+
+Sara died **17 October 1855** of **tuberculosis** (Tuberkulose). Her husband Johann died 10 March 1858 of liver disease, less than three years later. Their daughter Sara Schuller had already married Michael Kascher on 4 January 1860, but Sara Benning did not live to see this marriage.
 
 ## Document Sources
 
@@ -40,4 +44,5 @@ Sara Benning was born circa November 1800 in Waldhütten, Transylvania, Austria 
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| | | | |
+| Birth date | 28 Nov 1800 (GEDCOM christening) | December 1800 (Church cert Tier 1) | **Consistent. GEDCOM gives specific christening date (28 Nov), church cert says "im Dezember 1800." November christening / December birth OR vice versa. Close enough to confirm.** |
+| Death date | Unknown (GEDCOM) | 17 October 1855, tuberculosis (Church cert Tier 1) | **RESOLVED: Church cert provides exact death date and cause of death.** |

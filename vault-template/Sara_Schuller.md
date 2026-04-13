@@ -4,10 +4,11 @@ name: "Sara Schuller"
 born: 1829-01-27
 died: 1876
 family: "Schuller"
-confidence: low
+confidence: strong
 sources:
-  - "MyHeritage GEDCOM (Tier 3, unverified)"
-  - "FamilySearch Family Tree (record 40001:776649442)"
+  - "Waldhutten church certificate 'VATER' (Tier 1, 10 Feb 1938, Pastor A. Bogeschdorfer)"
+  - "MyHeritage GEDCOM (Tier 3)"
+  - "FamilySearch Family Tree (record 40001:776649442, Tier 3)"
 created: 2026-04-10
 tags: [genealogy, Schuller, person, Transylvanian-Saxon]
 ---
@@ -21,12 +22,13 @@ tags: [genealogy, Schuller, person, Transylvanian-Saxon]
 | Full Name | Sara Schuller | MyHeritage GEDCOM (unverified) |
 | Born | Christened 27 Jan 1829 | FamilySearch Family Tree (40001:776649442) |
 | Birthplace | Waldhutten, Kis-Kukullo Megye, Hungary (now Valchid, Sibiu, Romania) | FamilySearch Family Tree |
-| Died | 1876 | FamilySearch Family Tree (40001:776649442) |
-| Burial | Unknown | |
-| Father | [[Johannes_Schuller]] (b. 3 Sep 1797, Waldhutten; d. 10 Mar 1858) | FamilySearch Family Tree (40001:360302307) |
-| Mother | [[Sara_Benning]] (b. ~Nov 1800, Waldhutten; d. 17 Oct 1855, tuberculosis) | FamilySearch Family Tree (40001:34504344) |
-| Spouse | [[Michael_Kascher]] (b. 20 Sep 1834, Wurmloch; d. 28 Jun 1880, Waldhutten) | FamilySearch Family Tree (40001:418178046) |
-| Children | [[Regina_Kascher]] (b. 3 Aug 1861), [[Michael_Kascher_Sr]] (b. 30 Mar 1864) | FamilySearch Family Tree |
+| Died | **22 Mai 1876**, of **uterine cancer** (Gebärmutterkrebs) | Church certificate "VATER" (Tier 1) |
+| Burial | Waldhütten (presumed) | |
+| Previous Marriage | **Widowed Stephann Benning** (verwitwete Stephann Benning) | Church certificate "VATER" (Tier 1) |
+| Father | **[[Johann_Schuller]]** (b. Sept 1797, Waldhütten; d. 10 March 1858, liver disease) | Church certificate "VATER" (Tier 1) |
+| Mother | **[[Sara_Benning]]** (b. Dec 1800, Waldhütten; d. 17 Oct 1855, tuberculosis) | Church certificate "VATER" (Tier 1) |
+| Spouse | **Michael Kascher** (b. 20 Sept 1834, Wurmloch; married **4 January 1860** in Waldhütten; d. 28 June 1880, Waldhütten, pneumonia) | Church certificate "VATER" (Tier 1) |
+| Children | **Regina Kascher** (b. 3 Aug 1861; d. 4 March 1933, Waldhütten), **[[Michael_Kascher_Sr_1864]]** (b. 30 March 1864) | Church certificate "VATER" (Tier 1) |
 
 ## Biography
 
