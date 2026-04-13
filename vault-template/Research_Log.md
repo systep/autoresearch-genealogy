@@ -9,6 +9,70 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-13: Brasher/Brashier Family Deep Research
+
+### Search: Elizabeth Brasher parents and Thomas Levi Brasher Jr. will
+**Query**: Multiple searches for Elizabeth Brasher parents, Thomas Levi Brasher Jr. will 1789, WikiTree Brasher-122, Empty Branches blog
+**Source**: Web search, WikiTree, Geni, Empty Branches on the Family Tree, Find a Grave, genealogy.com forums
+**Results**: 
+- **Critical finding**: Thomas Levi Brasher Jr.'s will (Sep 27, 1789, proved Apr 6, 1790, SC Will Book Vol A-B 1787-1820, p. 28) **named five sons and no daughters**: Thomas, Aquilla ("Quellea"), Henry, John, and Samuel. Elizabeth is NOT mentioned. However, she was already married (1782), and married daughters were commonly excluded from colonial-era wills.
+- **Mother name discrepancy**: Three different names appear for Thomas Levi's wife: (1) "Sarah" in his will and 1790 census (primary sources); (2) "Naomi" on Find a Grave memorial 129180905 for Jane Brasher Ashmore (claimed daughter); (3) "Elizabeth" in one Geni/WikiTree Henderson source. The "A Brazier/Brasher Saga" notes: "we think from circumstances that she is Sarah Lindsey." Some FHL sheets say "Sarah Custace" (likely confusion with grandmother Sarah Constant/Constance).
+- The parentage claim (Elizabeth as daughter of Thomas Levi Jr. and Sarah) remains SPECULATIVE. No primary source directly names her as his daughter.
+**Updated files**: Elizabeth_Brasher.md (confidence assessment, discrepancies, sources)
+
+### Search: Brasher/Brashier family Greenville County SC, WikiTree, land records
+**Query**: Multiple searches across WikiTree Brashier genealogy, Greenville SC, 1790 census, deed books, land grants
+**Source**: WikiTree, Find a Grave, Greenville County deeds, scgenweb.org census transcriptions
+**Results**:
+- 1790 Census Greenville District: Sarah (widow), Aquilla, James, John, Samuel, Thomas, and William Brasher all enumerated.
+- Thomas L. Brasher bought 500-acre parcel on Cripple Creek of Reedy River ~1785 for 110 pounds.
+- John Brasher: 208-acre grant, 96 District, Reedy Fork of Reedy Creek, Feb 5, 1787 (Book D, p. 195).
+- Aquilla B. Brasher: inherited 120 acres on Cripple Creek in 1790; purchased 86 more acres in 1811 (Deed Book L, p. 84).
+- Post-1800 dispersal confirmed: John and Aquilla to Christian County KY (~1808), Henry Collins to Shelby Co. AL (~1817), Samuel's widow to DeKalb Co. GA.
+**Updated files**: Elizabeth_Brasher.md (migration section, sibling details)
+
+### Search: Brashier/Brasher cemetery records, Find a Grave, Greenville SC
+**Query**: Find a Grave Brashier Greenville SC, Standing Springs Cemetery, Ashmore Family Cemetery
+**Source**: Find a Grave, web search
+**Results**:
+- Jane Brasher Ashmore (1776-1859): Find a Grave 129180905, Ashmore Family Cemetery #2, Greenville, SC. Father listed as "Thomas L. Brasher," mother as "Naomi Brasher." (Significant discrepancy with "Sarah" in will.)
+- Henry Collins Brasher Sr. (Mar 1, 1771 - Sep 22, 1857): Find a Grave 66620694, Old Chapel Cemetery, Wilsonville, Shelby Co., AL.
+- Austin Brashier (1920-1990): Find a Grave 8300037, Standing Springs Cemetery, Simpsonville, SC.
+- Walt Brashier (1934-2021): Find a Grave 225014646, Woodlawn Memorial Park, Greenville, SC.
+- Elizabeth Brasher Henderson: NO memorial found on Find a Grave. Burial location unknown.
+**Updated files**: Elizabeth_Brasher.md (Brashier Legacy section, cemetery details, new Find a Grave sources)
+
+### Search: French Huguenot Brasseur/Brasher origins
+**Query**: Robert Brasseur Huguenot France Maryland Virginia, sonsofdewittcolony.org
+**Source**: WikiTree Brasseur-19, Brasseur-2, Brasseur-20, sonsofdewittcolony.org, Geni, Find a Grave
+**Results**:
+- Robert Brasseur: baptized ~1595, Bouches-du-Rhone, France; died ~1663, Calvert Co., MD. Fled to Isle of Thanet, Kent, England; to Virginia ~1635 (1200-acre grant, Nansemond Co.); to Calvert Co., MD ~1658.
+- Children included Benois "Bennet" Brasseur (bef. 1620, Rennes, France; d. ~1663), Thomas (~1626), Martha (~1636), Mary (Jan 3, 1646), and an unnamed daughter (~1632).
+- The Brasseur surname has 35+ variant spellings.
+- Full proposed lineage: Robert Brasseur > Benois > Robert III > William B. Sr. > Thomas Sr. > Thomas Levi Jr. > Elizabeth. Steps 1-5 better documented than 5-7.
+**Updated files**: Elizabeth_Brasher.md (Huguenot ancestry section expanded with lineage chain)
+
+### Search: Chatham County NC land grants for Brasher family
+**Query**: Aquilla Brasher land grant Chatham County NC 1782, Terrell's Creek
+**Source**: Empty Branches on the Family Tree blog, ncgenweb.us Chatham County Deed Abstracts
+**Results**:
+- Oct 23, 1782: Aquilla Brasher, Thomas Brasher, and "orphans of William Brasher deceased" all recorded land grants from NC.
+- Aquilla's grant: 200 acres on Terrell's Creek, waters of Haw River. NC Land Grant #596: 300 acres on N fork of Terrell's Creek, survey certificate dated Nov 18, 1779.
+- Aquilla's land boundary adjoined Thomas Brasher's line.
+- Aug 5, 1784: Aquilla and wife Mary sold 200 acres to Eli Newlin (blacksmith) for 150 pounds.
+- Oct 27, 1784: Thomas and wife Sarah sold their Chatham County land before moving to SC.
+- "Orphans of William Brasher" indicates a deceased brother William who also held land.
+**Updated files**: Elizabeth_Brasher.md (migration section)
+
+### Search: tnyesterday.com Brasher family, Guilford County NC branch
+**Query**: tnyesterday.com Brasher family, Guilford County connections
+**Source**: Web search (page itself returned 403)
+**Results**:
+- Found a **separate Brasher branch** with Guilford County, NC connections: Philip Brashear (b. Dec 17, 1755, Guilford Co.; d. before 1812, Roane Co., TN), Nancy Brashear (b. May 11, 1773, Guilford Co.), Mary "Polly" Brashear (b. Mar 13, 1776, Guilford Co.), Robert B. Brashears (b. Jan 5, 1787, Guilford Co.), Elizabeth Brashear (~1778, Guilford Co., m. Jeremiah Satterfield ~1794, Pendleton District, SC).
+- This branch went from Guilford County NC to SC/TN, NOT to Greenville Co. specifically. May be related to Thomas's family but connection unclear.
+- The "Elizabeth Brashear" born ~1778 in Guilford County is a DIFFERENT person from Elizabeth Brasher Henderson (~1764/1765).
+**Implication**: "Guilford County" reference for Elizabeth Brasher Henderson's family may be a confusion with this separate branch.
+
 ## 2026-04-12: Markel Family Galicia Research
 
 ### Search: Nissen Mendel Markel on Geni.com

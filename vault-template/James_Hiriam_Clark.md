@@ -44,11 +44,21 @@ The Ancestry.com user-contributed tree record (james-hiriam-clark-24-7cqh41) con
 
 | Document | Type | Vault Note |
 |---|---|---|
-| User-provided family data | tertiary | |
-| Research data (birth, death, residence) | tertiary | |
+| User-provided family data | tertiary (Tier 3) | |
+| Research data (birth, death, residence) | tertiary (Tier 3) | |
+| Ancestry.com record james-hiriam-clark-24-7cqh41 | user-contributed tree (Tier 3) | Confirms basic biographical data |
 
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| | | | No discrepancies identified at this time. |
+| Spelling of middle name | "Hiriam" (GEDCOM, Ancestry) | "Hiram" (common alternate spelling) | Both spellings appear in sources. "Hiriam" is used in the GEDCOM and Ancestry tree. "Hiram" is a more standard spelling and may be the correct form. No primary source found to resolve. |
+
+## Research Gaps
+
+1. No primary source (census, deed, church record) has been found for James Hiriam Clark.
+2. His parents are unknown. Virginia county of origin is unknown.
+3. Wife Mary Neale's identity is entirely unsourced beyond user-provided data.
+4. Whether he had children besides Jeddiah is unknown.
+5. Relationship (if any) to Molly Mary Clark (wife of Argaleus Henderson) is unexplored.
+6. 1800, 1810, 1820, and 1830 census records for Greenville District, SC have not been searched for a James Clark head of household.

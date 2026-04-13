@@ -49,13 +49,21 @@ Morris was one of eight surviving children of Heshel and Leah (14 born, 6 died i
 
 Four of Morris's siblings (Avraham Chaim, Masha, Hannah, and Pessel) were murdered along with their families during a Pogrom in 1939. According to the Yichus narrative, on Rosh Hashanah 1939, "They were forced to leave the premises and were marched to the Rodzinka Forest where they were murdered" (Yichus narrative, Tier 2).
 
-Morris married **[[Helen_Brandt]]** (Helen Brandt Markel) (MyHeritage, Tier 3; confirmed by Yichus narrative, Tier 2). Helen's parents were Joseph Brandt and Brina Goldbaum (per the Thelma Markel person file).
+Morris married **[[Helen_Brandt]]** (Helen Brandt Markel) (MyHeritage, Tier 3; confirmed by Yichus narrative, Tier 2). Helen's parents were [[Joseph_Brandt]] and [[Brina_Goldbaum]] (per the Thelma Markel person file). The marriage likely took place in Poland/Galicia before the family immigrated to the United States.
+
+### Immigration
+
+The family immigrated to the United States approximately 1928. Evidence: daughter Kate (Markel) Kaplan was born December 6, 1925 in Poland and "moved to W. Warwick, RI at the age of 3" (Kate Kaplan obituary, Providence Journal, Jan 13, 2006; Find a Grave #232002112). The family settled in West Warwick (Arctic), Rhode Island, where Morris's sister [[Minnie_Markel_Sternbach]] and her husband Abraham Sternbach had been established since 1912 as founding members of the local Jewish community and Congregation Ahavath Shalom.
+
+### Ahavath Sholom Discrepancy
+
+The Yichus narrative states Morris "entered the United States claiming to fill a position as a Rabbi" at Ahavath Sholom. However, a historical article about the congregation ("The Founding of a Jewish Community: The Early Years of Congregation Ahavath Shalom of West Warwick, Rhode Island" by Rebecca Twersky, RI Jewish Historical Notes, Vol. 7, 1977) states that the small congregation of 30 families "could not afford a rabbi" and that the men who served the community were "not rabbis, just learned men." Morris, described as "a very learned man" in the Yichus narrative, may have functioned as a de facto religious leader without being formally employed as an ordained rabbi, or may have served in this capacity at a later date after the congregation grew. The Yichus narrative's phrasing ("claiming to fill a position") may refer to his immigration visa justification rather than actual employment.
 
 Morris and Helen had five documented children:
-1. **Thelma (Tobi) Markel** (Sept 12, 1920 - Sept 22, 2011), married (1) [[Leonard_Irving_Salmanson]] (1947), (2) Leonard Rodbell (1978)
+1. **Thelma (Tobi) Markel** (Sept 12, 1920, Poland, Sept 22, 2011), married (1) [[Leonard_Irving_Salmanson]] (1947), (2) Leonard Rodbell (1978)
 2. **Anne Markel** (m. Schlusselberg)
 3. **Frieda Markel**
-4. **Kay Markel** (m. Irving Kaplan)
+4. **Kate Markel** (Dec 6, 1925, Poland, Jan 11, 2006; m. Irving Kaplan). Born in Poland, moved to West Warwick at age 3. URI graduate. Biochemist at Sloan Kettering. Buried Lincoln Park Cemetery, Warwick, RI. (Kate Kaplan obituary, Providence Journal, Jan 13, 2006; Find a Grave #232002112)
 5. **Joseph Markel**
 
 Through his daughter Thelma's marriage to Leonard Irving Salmanson, Morris is the paternal grandfather of [[Alan_Carl_Salmanson]], [[Kathryn_Ann_Kascher]]'s husband, connecting the Polish Jewish Markel family to the Providence Salmanson family.

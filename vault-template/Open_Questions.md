@@ -25,6 +25,20 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Solvability**: MODERATE
 - **Payoff**: MODERATE
 
+### 13. Elizabeth Brasher's parentage: Thomas Levi Brasher Jr.'s will names no daughters
+- **The question**: Elizabeth Brasher (~1764/1765) is attributed as a daughter of Thomas Levi Brasher Jr. by all Tier 3 sources. However, Thomas Levi's 1789 will (SC Will Book Vol A-B 1787-1820, p. 28) names five sons (Thomas, Aquilla, Henry, John, Samuel) and **no daughters**. Elizabeth was already married to Ezekiel Henderson since 1782. Was she excluded because already married, or was she not his daughter?
+- **Searched (2026-04-13)**: WikiTree, Geni, Empty Branches blog, "A Brazier/Brasher Saga" references, genealogy.com forums. All Tier 3 sources list her as his daughter. No primary source confirms the connection.
+- **Best leads**: (1) Obtain the full text of Thomas Levi Brasher Jr.'s will from SC Will Book Vol A-B 1787-1820, p. 28. Even if daughters are not named, the will may reference "heirs" or contain other clues. (2) Search Greenville County probate records for any distribution that names Elizabeth Henderson. (3) Examine the pension file S6994 for Ezekiel Henderson (revwarapps.org/s6994.pdf) for any direct mention of Elizabeth's father. (4) Search Chatham/Orange County NC court records 1770-1785 for any Brasher family documentation.
+- **Solvability**: MODERATE (will exists but may simply not name married daughters; probate/pension records may help)
+- **Payoff**: HIGH (would confirm or refute the Brasher lineage back to Maryland and Huguenot roots)
+
+### 14. Thomas Levi Brasher Jr.'s wife: Sarah, Naomi, or Elizabeth?
+- **The question**: Three different names appear for Thomas Levi's wife: (1) "Sarah" in his 1789 will and 1790 census (Tier 1); (2) "Naomi" on Find a Grave memorial 129180905 for Jane Brasher Ashmore; (3) "Elizabeth" in one Geni/Henderson source. Was Thomas married twice (or three times)? Or are some names erroneous?
+- **Searched (2026-04-13)**: Multiple web searches. "A Brazier/Brasher Saga" says "we think from circumstances that she is Sarah Lindsey." FHL sheets say "Sarah Custace" (likely confusion with Thomas's mother Sarah Constant/Constance). Find a Grave for Jane Brasher Ashmore says "Naomi."
+- **Best leads**: (1) Full will transcript. (2) 1790 census original image for spelling. (3) Chatham County marriage records 1770s. (4) Jane Brasher Ashmore's memorial contributor (Mark & Liz Clayton) may have additional documentation.
+- **Solvability**: LOW to MODERATE
+- **Payoff**: MODERATE (affects identification of Elizabeth's mother)
+
 ## Medium Priority
 
 ### 4. Barnett's birth year discrepancy
