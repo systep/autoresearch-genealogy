@@ -10,8 +10,11 @@ sources:
   - "Multiple Smart Match confirmations"
   - "1910 US Census (implied)"
   - "1920 US Census (implied)"
+  - "Salk surname etymology (Ancestry.com, Geneanet)"
+  - "Children's obituaries confirming Elizabeth (Salk) maiden name (Tier 2)"
 created: 2026-04-10
-tags: [genealogy, salk, person, russia, rhode-island, providence, immigrant]
+updated: 2026-04-13
+tags: [genealogy, salk, person, russia, rhode-island, providence, immigrant, lithuania, zalk]
 ---
 
 # Abraham (Charles) Zolly Salk
