@@ -799,3 +799,12 @@ Louis (Elizar) Salk's specific Lithuanian shtetl still unidentified. "Leyzer Zal
 
 ### George Bright Sr. (1782-1873) person file created
 WikiTree Bright-298. Missing link between David Bright (1740) and Samuel Graham Bright (1825). Filed as George_Bright_Sr.md.
+
+### Verlustlisten: Databases identified, manual search required
+Five databases identified: digi.landesbibliothek.at, GenTeam.eu, RadixIndex, MyHeritage collection 10953, DES Genealogy.net. All blocked automated access. Verlustliste Nr. 354 (1916) identified as relevant timeframe. NEXT: Register GenTeam.eu (free), search manually in browser.
+
+### Galicia: KehilaLinks Markel family page found
+kehilalinks.jewishgen.org/Drohobycz/families/markel.html documents a Markel family from Lutowiska near Sambor. Sara Hinde Markel married Shamay Bartel 1877. Aaron Bartel named "after his Markel grandfather." Potential connection to Heshel Markel. Sambor records fully indexed in All Galicia Database (search.geshergalicia.org). JRI-Poland has no Sambor Jewish records (they're at Gesher Galicia/Ukrainian archives).
+
+### Dubossary (Toba Rifka's origin): 4,500 Jews murdered Sept 1941
+Community well-documented. 5,220 Jews in 1897. JewishGen Holocaust Database lists 490 families killed. Yizkor book published 1965. Cemetery records (235 burials). Bessarabia revision lists 1824-1875. No "Frei" found in open web results but databases require manual search.
