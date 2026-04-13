@@ -80,6 +80,9 @@ Morris died in 1963. The location and circumstances of his death are not documen
 | Geni World Family Tree | Community genealogy (Tier 3, unverified) | Geni.com |
 | Yichus narrative by Ruth Gold, Oct 9, 2011 | Primary family document (Tier 2) | Assets/Yicchis and Narrative.PDF |
 | Vault: [[Thelma_Markel]] | Person file | Daughter's biographical detail, Markel ancestry |
+| Kate Kaplan obituary, Providence Journal, Jan 13, 2006 | Newspaper obituary (Tier 2) | Legacy.com pid=16302813; confirms family born in Poland, moved to West Warwick ~1928 |
+| Kate Markel Kaplan, Find a Grave #232002112 | Cemetery record (Tier 1) | Lincoln Park Cemetery, Warwick, RI |
+| "The Founding of a Jewish Community" by Rebecca Twersky, RIJH Notes Vol. 7, 1977 | Historical article (Tier 2) | rijha.org; describes Ahavath Sholom founding, Sternbach role |
 
 ## Data Discrepancies
 
@@ -88,4 +91,6 @@ Morris died in 1963. The location and circumstances of his death are not documen
 | Father's name | "Heschel Herman Markel" (MyHeritage) | "Hersch Markiel" (Geni, via Minnie's record) | Variant spellings of the same person. "Heschel/Hersch" are Yiddish variants; "Markel/Markiel" are alternate romanizations. Yichus narrative uses "Heshel Markel" (Tier 2). |
 | Birth date | Not recorded | | Morris's birth date is entirely unknown. Only death year (1963) is documented. |
 | Full name | "Morris Moishe Myer Markel" (MyHeritage) | "Moishe Myer Markel" (Yichus narrative, Tier 2) | Consistent. "Morris" is the Americanized form of "Moishe Myer." |
-| Occupation | Not recorded (MyHeritage) | Rabbi at Ahavath Sholom Synagogue, Arctic (West Warwick), RI (Yichus narrative, Tier 2) | Yichus narrative is higher tier. Morris entered the US claiming to fill this rabbinical position. |
+| Occupation | Not recorded (MyHeritage) | Rabbi at Ahavath Sholom Synagogue, Arctic (West Warwick), RI (Yichus narrative, Tier 2) | Yichus narrative is higher tier. Morris entered the US claiming to fill this rabbinical position. However, RIJHA historical article (Tier 2) states congregation of 30 families "could not afford a rabbi" and had "learned men" instead. Morris was "a very learned man" (Yichus) but may not have held a formal rabbinical appointment. |
+| Daughter's name | "Kay Markel" (m. Irving Kaplan) (GEDCOM, Geni) | Kate Markel Kaplan (Find a Grave #232002112; Providence Journal obituary) | Actual name was Kate, not Kay. Find a Grave (Tier 1) and obituary (Tier 2) supersede GEDCOM (Tier 3). |
+| Immigration date | Not documented | ~1928 (Kate Kaplan obituary: born Poland, arrived West Warwick at age 3; Kate born Dec 1925) | Family immigrated ~1928. Kate Kaplan obituary (Tier 2). |

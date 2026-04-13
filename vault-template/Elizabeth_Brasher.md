@@ -35,7 +35,7 @@ sources:
   - "Chatham County NC Deed Abstracts (ncgenweb.us)"
   - "Greenville County Deed Book L (genealogytrails.com)"
 created: 2026-04-10
-updated: 2026-04-13-b
+updated: 2026-04-13
 tags: [genealogy, brasher, brashier, henderson, person, south-carolina, north-carolina, maryland, colonial, huguenot]
 ---
 
