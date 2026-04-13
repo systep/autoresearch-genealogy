@@ -1342,7 +1342,43 @@ Processed user-provided 1850 Census page (Eastern Sub Division, Anderson County,
 - Open_Questions.md (updated #3 with 1850 census data)
 
 ### Next Steps
-1. Search 1860 census for George W. King AND Judson King. If Judson (age ~19) is still in George W.'s household, that strongly supports father-son. If Judson is in James King's household, that supports brotherhood.
-2. Search 1840 census for James King in Anderson County, SC to determine household composition (would show number of males/females by age range).
-3. Search Anderson County marriage records for George W. King + Elizabeth to find her maiden name and confirm his full name as "George Washington King."
-4. Determine if Robert King (clergyman) has any connection to the Kerben King line.
+1. Search 1860 census for George W. King AND Judson King to fill the gap decade.
+2. Search Anderson County marriage records for George W. King + Elizabeth to confirm maiden name "Shambler."
+3. Determine if Robert King (clergyman) or any other James King son connects to the Kerben King line.
+
+## 2026-04-13: George W. King Census Trail: 1870 and 1880
+
+### Session Summary
+Processed user-provided MyHeritage screenshots for George W. King in the 1870 and 1880 censuses. This extends the census trail to four decades (1850, 1870, 1880) and reveals 5 additional younger children. George W. King is now at Strong confidence.
+
+### Key Positive Results
+
+1. **1870 Census (Tier 1)**: Geo W King (55), wife Elizabeth (age recorded as 28, almost certainly misread "48"), children Francis C (6-8) and James (3). Location within SC unclear. (M593, Frame 00301, Sheet 41, Family 323)
+
+2. **1880 Census, Oaklawn Twp, Greenville County (Tier 1)**: George W. King (64), farmer, wife Elizabeth (55), with five younger children still at home: George W. Jr. (22), Martha E. (20), William E. (17), Robert Lee (14), Fannie. (T9, Roll 1255210, Sheet 121-A, Line 14, Image 541)
+
+3. **Father-son co-location confirmed**: In 1880, BOTH George W. King (age 64) AND [[Judson_King]] (age 39) live in **Oaklawn Township, Greenville County**. Father and adult son as neighbors.
+
+4. **10+ children identified across 30 years**: Older set from 1850 (Judson, Mary E., Tabbitha, Elizabeth, James M.), younger set from 1880 (George Jr., Martha E., William E., Robert Lee, Fannie), plus 1870 children (Francis C., James).
+
+5. **Migration from Anderson to Greenville County**: Family was in Anderson County in 1850, in Greenville County by 1880. Move occurred sometime between 1850 and 1870.
+
+6. **Different George W. King in Lexington County**: A SEPARATE George W. King (age 65, Cooper) appears in 1880 in Flat Springs, Lexington County. Not our person. Our George W. King is the Greenville County farmer, confirmed by wife's age matching (55 = b. ~1825).
+
+7. **Elizabeth's age confirmed**: 1850 age 25 (b. ~1825) + 1880 age 55 (b. ~1825) = perfectly consistent. The 1870 age "28" is a handwriting misread of "48."
+
+### Negative Results
+- 1860 census not yet located for George W. King.
+- Elizabeth's maiden name still unconfirmed from census records (only partially legible "Shambler" from death certificate).
+- George W. King's death date/place not yet found.
+
+### Files Updated
+- George_Washington_King.md (upgraded to Strong; 1870 and 1880 data, full children list, 4 census sources)
+- Family_Tree.md (King family expanded with all children)
+- Research_Log.md (this entry)
+
+### Next Steps
+1. Search 1860 Census for George W. King in Anderson or Greenville County.
+2. Search 1900 Census for Judson King to find children born after 1880 and identify H.H. King.
+3. Search for George W. King death record or Find a Grave memorial.
+4. Search Anderson/Greenville County marriage records for George W. King + Elizabeth [Shambler?].

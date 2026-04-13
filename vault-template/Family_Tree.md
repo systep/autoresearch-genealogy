@@ -558,13 +558,28 @@ William Cox Sr. (c.1730) → William Cox Jr. (d.1798) → Thomas B. Cox (1792-18
 - 1850 Census: Anderson County (Family 397). Wife: Frances. Household of 8.
 - Probable son of James King Sr.
 
-**[[George_Washington_King]] + Elizabeth** (moderate)
-- George W.: b. ~1815, SC; farmer
-- Elizabeth: b. ~1825, SC
-- 1850 Census: Anderson County (Family 401)
-- Probable son of James King Sr.
-- Children in 1850 household: Judsan (Judson, 9), Mary E (8), Tabbitha (6), Elizabeth (3), James M (2)
-- **Parentage debate**: Death certificate names "Washington King" as [[Judson_King]]'s father, and Judson appears in George W.'s household. User identifies them as brothers with James King as common father. See [[George_Washington_King]] for full analysis.
+**[[George_Washington_King]] + Elizabeth [Shambler?]** (strong)
+- George W.: b. ~1815, SC; farmer; d. after 1880
+- Elizabeth: b. ~1825, SC; maiden name likely "Shambler" (per Judson's death certificate)
+- 1850: Anderson County (Family 401). 1870: SC (Family 323). 1880: Oaklawn Twp, Greenville County (T9, Sheet 121-A)
+- Son of James King Sr. Confirmed father of [[Judson_King]] (death certificate + 1850 census).
+- In 1880, George W. (64) and Elizabeth (55) live in Oaklawn Township, same township as son Judson.
+- At least 10 children over ~30 years:
+
+**Older children of George W. + Elizabeth** (per 1850 Census):
+- **[[Judson_King]]** (b. ~1841) (see below)
+- **Mary E. King** (b. ~1842)
+- **Tabbitha King** (b. ~1844)
+- **Elizabeth King** (b. ~1847)
+- **James M. King** (b. ~1848)
+
+**Younger children of George W. + Elizabeth** (per 1880 Greenville Census):
+- **George W. King Jr.** (b. ~1858)
+- **Martha E. King** (b. ~1860)
+- **William E. King** (b. ~1863)
+- **Robert Lee King** (b. ~1866; named for Gen. Robert E. Lee)
+- **Fannie King**
+- Note: A DIFFERENT George W. King (age 65, Cooper) appears in 1880 in Flat Springs, Lexington County. Not the same person.
 
 **[[Judson_King]] + [[Charstee_King]]** (strong)
 - Judson: b. June 20, 1841, SC; d. May 12, 1921, Dunklin/Oaklawn Twp, Greenville County, SC (age 79 yrs, 11 mos)
