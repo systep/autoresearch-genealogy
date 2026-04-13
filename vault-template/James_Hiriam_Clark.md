@@ -32,9 +32,13 @@ tags: [genealogy, clark, person, virginia, south-carolina, simpsonville]
 
 ## Biography
 
-James Hiriam Clark was born circa 1770 in Virginia. He married [[Mary_Neale]] (date and location unknown). They had at least one son, Jeddiah W. Clark.
+James Hiriam Clark was born circa 1770 in Virginia. He married [[Mary_Neale]] (date and location unknown). They had at least one known son, [[Jeddiah_W_Clark]] (b. 5 March 1801, South Carolina; d. 27 January 1860, Simpsonville, Greenville, SC).
 
-James relocated to Simpsonville, South Carolina, where he resided until at least 1835. The circumstances and date of his migration from Virginia to South Carolina are not yet documented.
+James relocated to Simpsonville, South Carolina, where he resided until at least 1835. The circumstances and exact date of his migration from Virginia to South Carolina are not yet documented. His migration coincided with a broader pattern of Virginia and North Carolina families moving to the Greenville County, SC area in the late 18th and early 19th centuries. Since his son Jeddiah was born in South Carolina in 1801, James must have arrived in SC by at least 1800.
+
+Note: A "Molly Mary Clark" (1722 to 1804) married Argaleus Hercules Henderson I (c.1720 to c.1806) in the same Chatham County/Orange County, North Carolina region from which many Greenville County settlers originated (Cox, Henderson, Baldwin, Long families). Whether this Clark family is the same as James Hiriam's is unknown. The Henderson-Clark connection at marriage (c.1740) precedes James's birth (c.1770) by 30 years, making Molly Mary Clark a possible relative (aunt, great-aunt) rather than a direct ancestor. This requires further investigation.
+
+The Ancestry.com user-contributed tree record (james-hiriam-clark-24-7cqh41) confirms the basic outline: born Virginia c.1770, married Mary Neale, had 1 child, died after 1835 in Simpsonville, SC. However, this is a Tier 3 source and should not be treated as independently verified.
 
 ## Document Sources
 

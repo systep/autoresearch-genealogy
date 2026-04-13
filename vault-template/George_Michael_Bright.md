@@ -55,5 +55,6 @@ George Michael Bright has a WikiTree profile (Bright-3343).
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Wife's name spelling | "Willis Henrietta Youngblood" (handwritten chart) | "Willie H Youngblood" (MyHeritage, 1950 Census) | Both forms recorded. "Willis" and "Willie" are variants of the same name. |
-| Wife's birth year | 1865 (handwritten chart) | 1863 (MyHeritage) | Two year discrepancy. Both recorded pending primary source. |
+| Wife's name spelling | "Willis Henrietta Youngblood" (handwritten chart) | "Willie H Youngblood" (MyHeritage, 1950 Census, Ancestry) | Both forms recorded. "Willis" and "Willie" are variants of the same name. Ancestry record for son Bernard Kyle Bright confirms "Willie H. Youngblood." |
+| Wife's birth year | 1865 (handwritten chart) | 1863 (MyHeritage) | Two year discrepancy. 1880 Census lists her as age 17, consistent with ~1863. Both recorded pending primary source. |
+| Commodorie S. Bright | Listed as possible son (MyHeritage, WikiTree) | Find a Grave #78562893: Commodorie S. Bright (Jan 31, 1880 to Apr 15, 1959), buried Woodlawn Memorial Park, Greenville, SC. Wife: Stella E. Bright (1894-1965). | Commodorie's 1880 birth date predates the 1890 marriage of George Michael and Willis. If Commodorie is George Michael's biological son, he is from a prior relationship or marriage, not from the marriage to Willis Youngblood. Alternatively, Commodorie may be a nephew or cousin in the wider Bright family of Greenville County, SC. His burial in Greenville (the Bright family's home county) rather than Virginia/Tennessee (where George Michael and Willis lived) supports the cousin/nephew hypothesis. Requires further investigation. |

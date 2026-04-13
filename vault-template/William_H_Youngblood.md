@@ -48,9 +48,13 @@ The death certificate of Robert Kyle Youngblood identifies his parents as "Willi
 | Database | Search Performed | Date | Result |
 |---|---|---|---|
 | WikiTree | Searched YOUNGBLOOD genealogy index for William Henry b. 1828 Mississippi | 2026-04-10 | No specific profile found; multiple Youngblood entries exist but none matched exactly |
-| Find a Grave | Searched Forest Hills Cemetery, Chattanooga, TN for William Henry Youngblood | 2026-04-10 | Cemetery confirmed in database; specific memorial not returned in search results |
+| Find a Grave | Searched Forest Hills Cemetery, Chattanooga, TN for William Henry Youngblood | 2026-04-10 | Cemetery confirmed in database (47,171 memorials, 57% photographed); specific memorial not returned in search results |
 | FamilySearch | FamilySearch Family Tree match via MyHeritage (record 40001:1857021737) | 2024-07-20 | Match confirmed in GEDCOM |
 | 1880 US Census | MyHeritage record 10129:67300055 | 2024-07-25 | Confirmed: William Youngblood, age 50, Head, Beat 5, Lowndes, Mississippi |
+| FamilySearch | Viola E. Youngblood profile (LJ1H-YRB) | 2026-04-13 | Daughter Viola confirmed 1857-1924, consistent with 1880 Census age 22 |
+| Web search | Lowndes County MS marriage records for James W. Youngblood | 2026-04-13 | Found: James W. Youngblood married Louisa Clark, Sep 16, 1841, Lowndes County. May be William's father or relative, placing the Youngblood family in Lowndes County by 1841 at minimum. |
+| Web search | Youngblood family migration from Edgefield SC to Alabama | 2026-04-13 | Documented Edgefield to Alabama migration after 1814. William's birth in Bibb County, Alabama (1828) fits the Edgefield-to-Alabama Youngblood migration pattern perfectly. |
+| Web search | Kyle family in Lowndes County MS / Alabama | 2026-04-13 | No specific records for Esther Lucy Kyle found online. Kyle family research requires login-required databases. |
 
 ## Document Sources
 

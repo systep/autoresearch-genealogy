@@ -113,6 +113,7 @@ Chronological index of all dated events across the family tree.
 | Sept 12, 1920 | Birth | Thelma Markel | | Find a Grave #231959788 |
 | ~1922 | Birth | Mary Elizabeth Bright | Tennessee | MyHeritage 1930 census |
 | 1924 | Birth | Donald Salmanson | | Donald obit |
+| Feb 22, 1925 | Death | [[Abraham_Zolly_Salk]] (age ~64-65) | Rhode Island | MyHeritage (Tier 3) |
 | 1932 | Business founded | Adams Drug Company | Woonsocket and Pawtucket, RI | Wikipedia |
 | 1933-1834 | Pension awarded ($57.50/yr) | Ezekiel Henderson (Rev. War) | | Pension S6994 |
 | Jan 30, 1942 | Birth | Jerrold A. Salmanson | Providence, RI | MyHeritage |
@@ -125,6 +126,7 @@ Chronological index of all dated events across the family tree.
 | Date | Event | Person(s) | Location | Source |
 |---|---|---|---|---|
 | Apr 1, 1950 | Census | Henry M + Mary E Kascher + Kathryn | 49 Clay Ave, Rochester, Monroe, NY | MyHeritage 1950 Census |
+| Jan 26, 1958 | Death | Anna (Salk) Zipperman | Fulton, Georgia | MyHeritage (Tier 3) |
 | Dec 14, 1960 | Death | [[Barnett_Salmanson]] | Miami, FL | MyHeritage |
 | 1972 | NYSE listing | Adams Drug Company | | Wikipedia |
 | May 15, 1975 | Death | [[Leonard_Irving_Salmanson]] | | Find a Grave |
