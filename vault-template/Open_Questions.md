@@ -278,3 +278,18 @@ Research gaps and unresolved questions, organized by priority and family line. U
 | 30 | Greenville County probate records: Jeddiah W. Clark estate (1860) | FamilySearch microfilm / Greenville County Probate Court | Will, inventory, heirs list | Free (FamilySearch) or fee |
 | 31 | Greenville County deed records: Clark land transactions 1800-1860 | FamilySearch microfilm / Greenville County ROD | Land ownership, neighbors, family network | Free (FamilySearch) or fee |
 | 32 | 1790-1800 Virginia census: James Clark heads of household | Ancestry / FamilySearch | Identify James Hiriam Clark's Virginia county of origin | Subscription or Free |
+
+### 30. Helen Brandt's parents (Joseph Brandt + Brina Goldbaum)
+- **Searched (2026-04-13)**: No records found. GEDCOM dates for Joseph are data errors. Both surnames Ashkenazi Jewish, in Tarnopol 1910 Census.
+- **Best leads**: 1930 Census West Warwick, Ellis Island ~1928, Gesher Galicia, Yad Vashem, JRI-Poland.
+- **Solvability**: MODERATE; **Payoff**: HIGH
+
+### 31. Markel family immigration ~1928 ship manifest
+- **Searched (2026-04-13)**: Kate Kaplan obit confirms family born Poland, arrived West Warwick ~1928. No manifest found.
+- **Best leads**: Ellis Island Passenger Search, JewishGen EIDB, Ancestry passenger lists.
+- **Solvability**: HIGH; **Payoff**: HIGH
+
+### 32. Brina Goldbaum Holocaust victim identification
+- **Searched (2026-04-13)**: Yad Vashem, USHMM (403 errors). No results yet.
+- **Next step**: Direct access to Yad Vashem collections for Goldbaum (Brina/Bryna/Brayna).
+- **Solvability**: MODERATE; **Payoff**: MODERATE

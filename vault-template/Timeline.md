@@ -51,9 +51,12 @@ Chronological index of all dated events across the family tree.
 | ~1764 | Birth | Elizabeth Brasher | | WikiTree Brasher-153 |
 | 1768-1771 | Regulators movement | Argaleus Hercules Henderson I | Orange County, NC | WikiTree |
 | April 22, 1772 | Land purchase (110 acres) | William Cox Sr. | Haw River/Cane Creek, Orange Co., NC | Deed Book #3 p. 599 |
+| ~1775 | Birth | [[Eli_Baldwin]] | Chatham County, NC | WikiTree Baldwin-2330, Geni |
+| ~1770 | Birth | [[James_Hiriam_Clark]] | Virginia | Ancestry, user data |
 | ~1778 | Birth | [[James Cox]] | North Carolina | WikiTree Cox-14020 |
 | 1779 | Tax list | Isaac Cox, Abraham Cox | North Carolina | NC Tax Lists |
 | Oct 10, 1782 | Marriage | Ezekiel Henderson + Elizabeth Brasher | South Carolina | WikiTree |
+| 1781 | Death | Alice Francis Lindley Baldwin | North Carolina | WikiTree Lindley-409 |
 | 1781-1783 | Military service (Rev. War) | Ezekiel Henderson | Discharged Hillsboro, NC | Pension S6994 |
 | ~1783 | Immigration | John Stangle | England to America | IMG_0789 (corrected from 1683) |
 | 1784 | Birth | Dianah/Diana Black | North Carolina | WikiTree |
