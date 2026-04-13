@@ -544,9 +544,24 @@ William Cox Sr. (c.1730) → William Cox Jr. (d.1798) → Thomas B. Cox (1792-18
 
 ### King Family (South Carolina)
 
-*Source: IMG_0792.jpg, IMG_0786.jpg* **(moderate)**
+*Source: IMG_0792.jpg, IMG_0786.jpg, SC Death Certificate File No. 7013* **(moderate)**
+
+**Washington King + [partial: Shambler]** (maiden name partially legible) (stub)
+- Known only from son Judson's death certificate. See [[Washington_King]].
+
+**[[Judson_King]]** (moderate)
+- b. June 20, 1841, Greenville, SC
+- d. May 12, 1921, Dunklin Township, Greenville County, SC (age 79 yrs, 11 mos)
+- Occupation: Farmer
+- Cause of death: Chronic Nephritis
+- Buried: Fork Shoals area, Greenville County, SC
+- Father: Washington King; Mother: maiden name [partial: Shambler]
+- Informant on death certificate: H.H. King, Pelzer, SC (probable son)
+- Photograph exists showing Judson with an unidentified woman (presumably wife)
+- Source: SC Death Certificate File No. 7013 (Tier 1), user-provided photograph (Tier 3)
 
 **Kerben King + Jesse** (surname of Jesse unclear) (moderate)
+- Relationship to Washington King / Judson King unknown; both Greenville County King families. See Open Questions.
 
 **William I. King** (strong)
 - Described as "1st son of Kerben and Jesse King"

@@ -19,11 +19,26 @@ Research gaps and unresolved questions, organized by priority and family line. U
 ### 2. Yekutiel Zalman Wallis and Rivka Beila (Shneuri) identity
 - **RESOLVED (2026-04-10)**: Rivka Beila (Shneuri) was a **daughter of the Mitteler Rebbe** (Rabbi Dovber Shneuri, 2nd Lubavitcher Rebbe) and **granddaughter of Shneur Zalman of Liadi** (Alter Rebbe, founder of Chabad). "Wallis" = transliteration of "Volis" (Ukrainian Jewish surname). Yekutiel Zalman Volis's father was Yosef Bunim, a son-in-law of Rabbi Levi Yitzchak of Berditchev. Srul Mendel and Rabbi Levi Yitzchok Zalmanson (1812-1872) were BROTHERS. **Strong Signal**: Geni.com (multiple profiles), Chabad.org, shulchanaruchharav.com, JewishGen.
 
-### 3. Kerben King identity
-- **The question**: "Kerben King" + wife "Jesse" appear in handwritten notes (IMG_0792) as ancestors of William I. King. No web results for "Kerben King." Is the name misspelled?
-- **Next step**: Search for "Corbin King" OR "Kirby King" OR "Corben King" in Greenville County SC records. Check Ancestry/FamilySearch for King family in Greenville SC 1800s.
+### 3. Kerben King identity and relationship to Washington King
+- **The question**: "Kerben King" + wife "Jesse" appear in handwritten notes (IMG_0792) as ancestors of William I. King. No web results for "Kerben King." Is the name misspelled? Additionally, Judson King's 1921 death certificate (SC File No. 7013, Tier 1) names his father as **Washington King**, a previously unknown individual. Both are Greenville County King families of the same era. What is the relationship between Kerben King and Washington King? Could they be brothers, father/son, or the same person under different names?
+- **Research done (2026-04-13)**: Processed Judson King death certificate. Judson b. 1841, father Washington King. William I. King (Kerben's son) b. ~1862. The 21 year gap between Judson and William I. is consistent with a generational difference (uncle/nephew) or near-contemporary cousins.
+- **Next step**: (1) Search for "Corbin King" OR "Kirby King" OR "Corben King" in Greenville County SC records. (2) Search census records 1850-1880 for Washington King AND Kerben/Corbin King in Greenville County to see if they appear in the same household or as neighbors. (3) Check Ancestry/FamilySearch for King family in Greenville SC 1800s.
 - **Solvability**: MODERATE
+- **Payoff**: MODERATE (would connect two branches of the King family)
+
+### 15. Judson King's wife
+- **The question**: A photograph shows Judson King with an unidentified woman, presumably his wife. The death certificate (SC File No. 7013) does not record her name, and the marital status field is illegible. Who was she?
+- **Research done (2026-04-13)**: Death certificate processed. No wife's name found.
+- **Next step**: (1) Search census records 1860-1920 for Judson King in Greenville County, SC; wife should appear in household. (2) Search Greenville County marriage records for Judson King. (3) Search Find a Grave for Fork Shoals area cemeteries for King burials.
+- **Solvability**: HIGH (census records should name her)
 - **Payoff**: MODERATE
+
+### 16. Judson King Civil War service
+- **The question**: Judson King was born 1841, making him 20 at the start of the Civil War. Did he serve? If so, in which unit?
+- **Research done (2026-04-13)**: None yet.
+- **Next step**: (1) Search SC Confederate service records for "Judson King" in Greenville County. (2) Check Fold3 for Confederate pension applications. (3) Search FamilySearch military index.
+- **Solvability**: MODERATE (many SC Confederate records survived)
+- **Payoff**: LOW (biographical detail, unlikely to extend the tree)
 
 ### 13. Elizabeth Brasher's parentage: Thomas Levi Brasher Jr.'s will names no daughters
 - **The question**: Elizabeth Brasher (~1764/1765) is attributed as a daughter of Thomas Levi Brasher Jr. by all Tier 3 sources. However, Thomas Levi's 1789 will (SC Will Book Vol A-B 1787-1820, p. 28) names five sons (Thomas, Aquilla, Henry, John, Samuel) and **no daughters**. Elizabeth was already married to Ezekiel Henderson since 1782. Was she excluded because already married, or was she not his daughter?

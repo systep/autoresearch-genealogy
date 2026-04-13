@@ -1188,3 +1188,47 @@ Complete page-by-page extraction of all 29 pages of the Kascher Family Album. Do
 - No data found predating Georg Kascher (b. 1792, Wurmloch) or Leonhard Schuller (b. ~1770, Waldhütten) in the album
 - Georg Krauss (Alias Binder, bapt. 1794): mother listed as "unknown" in church register
 - Fan chart outer rings (positions 32-63) mostly empty, indicating brick walls at the great-great-grandparent level for most lines
+
+## 2026-04-13: Judson King Death Certificate Processing
+
+### Session Summary
+Processed user-provided death certificate (SC File No. 7013) and photograph for Judson King. This is the first primary source document for Judson King, a new individual in the Greenville County, SC King family line.
+
+### Source Documents
+1. South Carolina Certificate of Death, File No. 7013 (Tier 1 primary source)
+2. User-provided photograph of Judson King with unidentified woman (Tier 3)
+
+### Key Positive Results
+1. **Judson King identified**: b. June 20, 1841, Greenville, SC; d. May 12, 1921, Dunklin Township, Greenville County, SC. Farmer. Died of Chronic Nephritis at age 79 years, 11 months. (SC Death Certificate #7013, Tier 1)
+2. **Father identified**: Washington King. New name, not previously in the vault. (Tier 1)
+3. **Mother's maiden name partially legible**: Best reading is "Shambler" but alternatives (Shamler, Shanler) possible. (Tier 1, partial)
+4. **Informant**: H.H. King of Pelzer, SC, probable son or close relative. (Tier 1)
+5. **Burial location**: Fork Shoals area, Greenville County, SC. (Tier 1, partially legible)
+6. **Undertaker**: H.E. Welborn, Pelzer, SC. (Tier 1)
+7. **Photograph**: Shows Judson King with an unidentified woman (presumably wife), late 19th/early 20th century. (Tier 3)
+
+### Negative Results
+- No prior records for Judson King existed in the vault.
+- No connection yet established between Washington King (Judson's father) and Kerben King (William I. King's father), though both are Greenville County King families.
+- Wife's name not found on the death certificate.
+- Marital status field on certificate is illegible.
+
+### Files Created
+- Judson_King.md (person file, moderate confidence)
+- Washington_King.md (person stub)
+- Judson_King_Death_Certificate.md (certificate transcription)
+
+### Files Updated
+- Family_Tree.md (King Family section expanded with Judson King and Washington King)
+- Timeline.md (birth 1841, death 1921 added)
+- Research_Log.md (this entry)
+- Open_Questions.md (updated Kerben King question; new questions for Judson King's wife and Civil War service)
+- Data_Inventory.md (death certificate added)
+
+### Next Steps
+1. Search census records (1850-1920) for Judson King in Greenville County, SC to identify wife, children, and household.
+2. Search Find a Grave for Fork Shoals area cemeteries for Judson King and wife.
+3. Search SC Confederate service records and pension applications for Judson King (b. 1841, military age during Civil War).
+4. Determine relationship between Washington King and Kerben King (both Greenville County).
+5. Identify H.H. King of Pelzer, SC (death certificate informant, probable son).
+6. Verify mother's maiden name reading ("Shambler" or variant) via marriage records for Washington King.

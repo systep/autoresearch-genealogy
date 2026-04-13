@@ -21,7 +21,7 @@ Complete inventory of all ancestry-related data assets. Each tagged with source,
 
 | Document | Family | Location |
 |---|---|---|
-| [Document description] | [Surname] | [[vault_note_link]] |
+| SC Death Certificate File No. 7013 (Judson King, d. 1921) | King | [[Judson_King_Death_Certificate]] |
 
 ### Moderate Reliability (newspaper, secondary sources)
 

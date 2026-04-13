@@ -90,6 +90,7 @@ Chronological index of all dated events across the family tree.
 | 13 Aug 1836 | Birth | [[Sarah_Elizabeth_Clark]] | Greenville County, SC | GEDCOM |
 | ~1836 | Land donation for church | [[James Cox]] | Standing Springs, Simpsonville, SC | hmdb.org #168369 |
 | 18 Jan 1840 | Death | [[Eli_Baldwin]] | Greenville, SC | WikiTree Baldwin-2330, Geni |
+| June 20, 1841 | Birth | [[Judson_King]] | Greenville, South Carolina | SC Death Certificate #7013 (Tier 1) |
 | Nov 2, 1846 | Death | Ezekiel Henderson | Greenville County, SC | WikiTree |
 | Before July 19, 1847 | Death | Brashier Henderson | Greenville County, SC | WikiTree Henderson-6197 |
 | 1851 | Birth | [[Levi_Itzhak_Zalmanson]] | | MyHeritage |
@@ -106,6 +107,7 @@ Chronological index of all dated events across the family tree.
 | Jan 27, 1886 | Birth | Jacob Kushner | Russia | MyHeritage |
 | Nov 18, 1886 | Death | Rev. Henry Langford Henderson | Greenville County, SC | WikiTree |
 | ~1887 | Marriage | William I. King + Marcia (Mary) Kopp/Huff | | IMG_0792, IMG_0786 |
+| May 12, 1921 | Death (Chronic Nephritis, age 79) | [[Judson_King]] | Dunklin Township, Greenville County, SC | SC Death Certificate #7013 (Tier 1) |
 | Mar 12, 1884 | Institution chartered | Mississippi Industrial Institute and College (II&C, first state-supported women's college in America) | Columbus, Lowndes County, Mississippi | MUW history, Mississippi Encyclopedia (Tier 2) |
 | Oct 22, 1885 | First classes begin | II&C (341 students enrolled) | Columbus, Mississippi | MUW history (Tier 2) |
 | Jun 10, 1889 | First graduating class (10 women) | Miriam "Minnie" Greene Paslay and 9 others; possibly [[Willis_Henrietta_Youngblood]] | Columbus, Mississippi | MUW history (Tier 2); Willis enrollment speculative |
