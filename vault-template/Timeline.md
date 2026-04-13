@@ -132,6 +132,7 @@ Chronological index of all dated events across the family tree.
 | Date | Event | Person(s) | Location | Source |
 |---|---|---|---|---|
 | Apr 1, 1950 | Census | Henry M + Mary E Kascher + Kathryn | 49 Clay Ave, Rochester, Monroe, NY | MyHeritage 1950 Census |
+| Jun 28, 1952 | Death | [[Willis_Henrietta_Youngblood]] (age ~88; occupation: college school teacher) | Bristol, Washington County, Virginia. Buried High Street Cemetery, Rocky Mount, Franklin Co, VA. | MyHeritage (Tier 3) |
 | Jan 26, 1958 | Death | Anna (Salk) Zipperman | Fulton, Georgia | MyHeritage (Tier 3) |
 | Dec 14, 1960 | Death | [[Barnett_Salmanson]] | Miami, FL | MyHeritage |
 | 1972 | NYSE listing | Adams Drug Company | | Wikipedia |

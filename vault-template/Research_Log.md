@@ -9,6 +9,34 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-13: Salk Family Research, Providence Rhode Island
+
+### Summary
+Conducted comprehensive web research on the Salk family of Providence, RI to extend Elizabeth (Salk) Salmanson's branch. Ran 30+ web searches covering Find a Grave, obituaries, census context, surname etymology, Lincoln Park Cemetery, Jonas Salk connection, other Providence Salk families, and Adams Drug Company history.
+
+### Key Positive Results
+1. **Surname etymology confirmed**: Salk = altered form of Zalk, Lithuanian Jewish, from Yiddish Zalkind (kinui for Shlomo/Solomon). Sources: Ancestry.com, Geneanet, JewishGen.
+2. **Troskunai Zalk family identified**: JewishGen KehilaLinks documents a Zalk family from Troskunai (Trashkun), Lithuania. Earliest member Leyzer Zalk; grandson Samuel Zalk (b. ~1830) emigrated to Duluth, MN. Possible connection to Louis (Elizar/Lazar) Salk (b. ~1840 Lithuania): "Leyzer" and "Elizar/Lazar" are both forms of Eleazar.
+3. **Hyman Salk hardware family mapped**: Hyman Salk (immigrant) founded tailor shop in Providence 1900. Sons Sam and Lewis. Sam's son Harold (3rd gen, d. 2024); Harold's son Jeffrey (4th gen). Lewis's son Norton (1927-2007, architect). Business now spans 5 generations with multiple RI/MA locations.
+4. **Elizabeth (Salk) maiden name confirmed**: Verified by 4 independent Tier 2 obituary sources (Martha Corin, Donald Salmanson, Samuel Salmanson, Charles Salmanson).
+5. **Tobey Oresman naming pattern**: Samuel Salmanson's daughter Tobey likely named for grandmother Tauba/Toby (Ashkenazi tradition).
+6. **Adams Drug Company**: Founded 1932 by Barnett and sons; grew to 500+ stores, sold 1984 for $100M; became Brooks Pharmacy then Rite Aid.
+7. **Jonas Salk**: No direct connection. His parents (Daniel + Dora Press) were NYC based Ashkenazi Jewish from Russian Empire.
+
+### Key Negative Results
+- No Find a Grave memorial for Abraham Salk found
+- No obituary for Abraham Salk (d. 1925) found online
+- "Abraham Zolly Salk" or "Abraham Zolly" returns zero results; name exists only in GEDCOM
+- No records found for Anna Salk Zipperman or Mary/Marry Salk Lyons
+- No direct documentary link between Abraham Salk and Hyman Salk families
+- No 1910/1920 Census data accessible without Ancestry subscription
+- Tauba Salk's maiden surname remains unknown
+
+### Files Updated
+Abraham_Zolly_Salk.md, Elizabeth_Salk.md, Louis_Elizar_Salk.md, Family_Tree.md, Timeline.md, Open_Questions.md (#13-17 added), Research_Log.md
+
+---
+
 ## 2026-04-13: Clark Family of Greenville County, SC (Deep Research)
 
 ### Search: "James Hiriam Clark" OR "James Hiram Clark" Greenville County South Carolina

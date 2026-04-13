@@ -181,6 +181,25 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Solvability**: MODERATE
 - **Payoff**: MODERATE
 
+### 21. Helen Brandt's parents (Joseph Brandt + Brina Goldbaum): identity, dates, origin
+- **Searched (2026-04-13)**: No records found. GEDCOM dates for Joseph are data errors. Both surnames in Tarnopol 1910 Census.
+- **Best leads**: 1930 Census West Warwick RI, Ellis Island ~1928, Gesher Galicia, Yad Vashem, JRI-Poland.
+- **Solvability**: MODERATE; **Payoff**: HIGH
+
+### 22. Markel family immigration ~1928: ship manifest
+- **Searched (2026-04-13)**: No manifest found. Kate Kaplan obit confirms family born Poland, arrived West Warwick ~1928.
+- **Best leads**: Ellis Island search, JewishGen EIDB, Ancestry passenger lists for "Markel" ~1926-1930.
+- **Solvability**: HIGH; **Payoff**: HIGH
+
+### 23. Morris Markel: rabbi or learned man at Ahavath Sholom?
+- **Searched (2026-04-13)**: Yichus says rabbi; RIJHA article says congregation could not afford one.
+- **Solvability**: MODERATE; **Payoff**: LOW
+
+### 24. Brina Goldbaum: Holocaust victim identification
+- **Searched (2026-04-13)**: Yad Vashem, USHMM (403 errors). No results.
+- **Next step**: Direct search of Yad Vashem for Goldbaum (Brina/Bryna/Brayna).
+- **Solvability**: MODERATE; **Payoff**: MODERATE
+
 ## Data Acquisition Priorities
 
 | Priority | Record Type | Location | Expected Yield | Cost |
