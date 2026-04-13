@@ -118,6 +118,41 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Solvability**: LOW (many such claims are traditional rather than documented)
 - **Payoff**: LOW to MODERATE (would be significant if proven, but does not affect the core family tree)
 
+### 13. Abraham Salk's death record and burial location
+- **The question**: Abraham (Charles) Zolly Salk died February 22, 1925 in Rhode Island (MyHeritage, Tier 3). Where is he buried? What does his death record say about parents, birthplace, and informant?
+- **Searched (2026-04-13)**: Find a Grave (no result), web searches for obituary (no result). Rhode Island State Archives holds death records 1853-1975; records 50+ years old are public.
+- **Next step**: Request Abraham Salk death record from Rhode Island State Archives (sos.ri.gov). Search FamilySearch Rhode Island death indexes 1921-1930. Search Lincoln Park Cemetery (Warwick, RI) records directly (401-737-5333).
+- **Solvability**: HIGH (record should exist; publicly accessible)
+- **Payoff**: HIGH (would confirm birth year, birthplace, parents' names, and burial location)
+
+### 14. Tauba Salk's identity and death
+- **The question**: Tauba (wife of Abraham Salk) has many name variants (Toby, Tobe, Teibe, Tobrey, Theresa, Fannie, Pheabe). When did she die? What was her maiden surname? The naming of Samuel Salmanson's daughter "Tobey" suggests Tauba may have died before Tobey's birth.
+- **Searched (2026-04-13)**: No independent records found for Tauba beyond the MyHeritage GEDCOM.
+- **Next step**: Check 1910 and 1920 Census for Providence Ward 3 (Salk household) via Ancestry/FamilySearch. If Tauba appears on 1920 but not 1930, that narrows death window. Check Abraham's 1925 death record for surviving spouse information.
+- **Solvability**: MODERATE
+- **Payoff**: MODERATE (would establish maiden name and clarify family structure)
+
+### 15. Relationship between Abraham Salk and Hyman Salk (Hardware founder)
+- **The question**: Both Abraham Salk (d. 1925) and Hyman Salk (founded store 1900) were Lithuanian Jewish immigrants to Providence in the 1890s-1900s. Were they brothers, cousins, or unrelated?
+- **Searched (2026-04-13)**: No documentary evidence of connection found. Salk's Hardware is now 5 generations old. Harold Salk (3rd gen) was son of Samuel and Ruth (Fleisig) Salk. Lewis/Louis Salk (Hyman's other son) had son Norton E. Salk (1927-2007, architect).
+- **Next step**: Compare 1910 Census entries for both Abraham Salk and Hyman Salk households in Providence. Check if they lived near each other in Providence Ward 3. Look for immigration records showing same town of origin in Lithuania.
+- **Solvability**: MODERATE (census comparison could establish or rule out connection)
+- **Payoff**: MODERATE (would either extend or clarify the Salk family network)
+
+### 16. Elizabeth Salk's birthplace discrepancy: Russia vs. Poland
+- **The question**: Abraham's records say "Russia"; Elizabeth's 1930 Census lists parents' birthplace as "Poland." Were they from a region that could be described both ways?
+- **Searched (2026-04-13)**: Noted in Data Discrepancies. The Russian/Polish border shifted repeatedly; Congress Poland was part of the Russian Empire.
+- **Next step**: Obtain Abraham's 1925 death record (would list birthplace). Check 1910/1920 Census entries for birthplace listings. Compare with Elizabeth's 1930 Census.
+- **Solvability**: MODERATE
+- **Payoff**: LOW (geographic clarification)
+
+### 17. Louis (Elizar)(Lazar) Salk: connection to Troskunai Zalk family?
+- **The question**: The Zalk family of Troskunai (Trashkun), Lithuania is documented on JewishGen. Earliest member: Leyzer Zalk; grandson Samuel Zalk (b. ~1830) emigrated to Duluth, MN. Louis (Elizar)(Lazar) Salk (b. ~1840 Lithuania) has a similar profile. Are they related?
+- **Searched (2026-04-13)**: JewishGen KehilaLinks page for Troskunai Zalk family (403 on fetch). Leyzer Zalk > Zalkind Zalk + Freyda > Samuel Zalk (~1830). Charles Zalk (1853-1937) married Esther Lindeke and settled in Duluth, MN.
+- **Next step**: Access the full Troskunai Zalk family page. Compare names: "Leyzer Zalk" and "Louis (Elizar/Lazar) Salk" are very close (Lazar/Leyzer are variants of the same name Eleazar). Search JewishGen Lithuania Database for Zalk/Salk in Kovno/Vilna gubernia.
+- **Solvability**: MODERATE (naming similarity is suggestive but not conclusive)
+- **Payoff**: HIGH (if confirmed, would extend the Salk line back to the 1700s in Lithuania)
+
 ## Data Acquisition Priorities
 
 | Priority | Record Type | Location | Expected Yield | Cost |
@@ -132,3 +167,9 @@ Research gaps and unresolved questions, organized by priority and family line. U
 | 8 | SC marriage records: Bright + King or Bright + Kopp | Ancestry / FamilySearch | Bright-SC family link | Subscription |
 | 9 | Muhlbach (Sebes) Church, Petersdorf records | Romania | Pfaff and Dressler deeper ancestry | Correspondence |
 | 10 | ATS records at University of Minnesota IHRC | Minneapolis, MN | Kascher family membership, emigration data | Research fee or visit |
+| 11 | Abraham Salk death record (Feb 22, 1925, Rhode Island) | RI State Archives (sos.ri.gov) or FamilySearch death indexes 1921-1930 | Birth year, birthplace, parents' names, burial location | Free (FamilySearch) or small fee (State Archives) |
+| 12 | 1910 US Census: Salk household, Providence Ward 3 | Ancestry / FamilySearch | Abraham + Tauba + children details, birthplaces, immigration years | Subscription (Ancestry) or Free (FamilySearch) |
+| 13 | 1920 US Census: Salk household, Providence Ward 3 | Ancestry / FamilySearch | Updated household composition, confirm Tauba alive in 1920 | Subscription or Free |
+| 14 | Lincoln Park Cemetery records: Salk burials | Lincoln Park Cemetery, Warwick RI (401-737-5333) | Abraham and Tauba burial locations and headstone data | Free (phone inquiry) |
+| 15 | JewishGen Lithuania Database: Zalk/Salk in Kovno/Vilna gubernia | JewishGen.org | Possible birth/marriage/death records for Louis Salk or ancestors | Free (requires account) |
+| 16 | Abraham Salk passenger manifest (arrival 1894 or 1896) | Ellis Island / Ancestry / FamilySearch | Town of origin, age, traveling companions | Free (Ellis Island) or Subscription |

@@ -30,7 +30,7 @@ tags: [genealogy, markel, salmanson, rodbell, person, rhode-island, atlanta]
 
 ## Biography
 
-Thelma (Tobi) Markel was born September 12, 1920, the daughter of Morris M.M.M. Markel and Helen (Brandt) Markel. Her Hebrew name was Tobi. She had a sister, Anne (Markel) Schlusselberg.
+Thelma (Tobi) Markel was born September 12, 1920, the daughter of Morris M.M.M. Markel and Helen (Brandt) Markel. Her Hebrew name was Tobi. She was likely born in Poland (Galicia), as the Markel family did not immigrate to the United States until approximately 1928 (see [[Helen_Brandt]] and [[Morris_Markel]]). She had siblings: Anne (m. Schlusselberg), Frieda, Kate (m. Kaplan; 1925-2006), and Joseph.
 
 Thelma married **Leonard Irving Salmanson** in 1947. They had three children: Alan C. Salmanson, Barbara Diana Salmanson, and Carol S. Salmanson. The family lived in Providence, Rhode Island, where Leonard was involved in the family's Adams Drug Company business.
 
@@ -45,9 +45,9 @@ Thelma's parents and grandparents are documented in a MyHeritage family tree but
 - **Morris Markel's parents**: Heschel Herman Markel + Leah Frei (Frye)
 - **Heschel Herman's parents**: Dov Markel + wife unknown
 - **Leah Frei's parents**: Yoseph Frei + Toba Rivka Frei
-- **Helen Brandt's parents**: Joseph Brandt + Brina Goldbaum
+- **Helen Brandt's parents**: [[Joseph_Brandt]] + [[Brina_Goldbaum]] (Brina died in the Holocaust)
 
-All names are Ashkenazi Jewish, likely of Eastern European origin.
+All names are Ashkenazi Jewish, of Eastern European (likely Galician) origin. The family immigrated from Poland to West Warwick, RI approximately 1928 (based on Kate Kaplan obituary: born Poland 1925, arrived West Warwick at age 3).
 
 ## Document Sources
 
@@ -62,4 +62,5 @@ All names are Ashkenazi Jewish, likely of Eastern European origin.
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Parents' names | Morris M.M.M. Markel + Helen Brandt (MyHeritage) | No corroborating source | Unverified. MyHeritage tree is Tier 3. Requires RI vital records or census for confirmation. |
+| Parents' names | Morris M.M.M. Markel + Helen Brandt (MyHeritage) | Yichus narrative confirms "Helen Brandt Markel" (Tier 2) | Partially corroborated. Helen as Morris's wife confirmed by Yichus narrative; parents' names (Morris + Helen) still Tier 3 for Thelma specifically. |
+| Birthplace | Not recorded | Family in Poland until ~1928 (Kate Kaplan obit) | Thelma born 1920, family immigrated ~1928. Thelma likely born in Poland (Galicia). |

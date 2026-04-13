@@ -25,7 +25,7 @@ tags: [genealogy, huff, person, virginia, south-carolina, simpsonville]
 | Died | February 24, 1873, Simpsonville, Greenville, South Carolina | MyHeritage (Tier 3, unverified) |
 | Father | James Huff (b. Feb 14, 1768, Brunswick County, Colonial Virginia; d. May 31, 1842, Golden Grove, Greenville, SC) | MyHeritage (Tier 3, unverified) |
 | Mother | Rebecca Moseley (b. Apr 11, 1772, Brunswick, Virginia; d. Jan 7, 1838, Golden Grove, Greenville Co., SC) | MyHeritage (Tier 3, unverified) |
-| Spouse | Mary Brashier (b. 1806, USA; d. BET 1841 AND 1906) | MyHeritage (Tier 3, unverified) |
+| Spouse | **Mary Eliza Brashier** (b. 1806, USA; d. BET 1841 AND 1906). Connects Huff and Brasher/Brashier families. | MyHeritage (Tier 3); WikiTree Huff-1775 |
 | Children | [[Mary_Elizabeth_Huff]] (b. June 21, 1838, SC; d. Aug 6, 1922), and others | Handwritten family notes, MyHeritage |
 | Siblings | Philemon Huff, Avery Huff, Sarah Huff, Mary H. Huff, Nelly Huff, Martha Patsy Huff, Amy Huff, Rebecca Jane Huff | MyHeritage (Tier 3, unverified) |
 
@@ -35,7 +35,9 @@ Lewis P Huff was born July 22, 1803 in Brunswick, Virginia. He was the son of **
 
 Lewis's paternal grandfather was **Daniel Hough** (b. February 5, 1724; originally surnamed "Hough," later changed to "Huff"). See [[Daniel_Hough]] for the Hough/Huff surname transition.
 
-Lewis married **Mary Brashier** (b. 1806, USA). The Brashier surname connects to the broader Greenville County network; the Brashiers/Brazures were among the intermarried families that migrated with the Coxes from Orange County, North Carolina to Greenville County, South Carolina in the 1780s.
+Lewis married **Mary Eliza Brashier** (b. 1806, USA). The Brashier surname connects to the broader Greenville County network; the Brashiers/Brazures were among the intermarried families that migrated with the Coxes from Orange County, North Carolina to Greenville County, South Carolina in the 1780s. The identification of Lewis's wife as a Brashier adds another intermarriage to the densely connected Greenville SC cluster (Cox, Long, Henderson, Brasher, Huff, Moseley).
+
+**Rebecca Moseley Long naming convention:** Lewis's mother was **Rebecca Moseley** (1772-1837). His granddaughter [[Rebecca_Moseley_Long]] (1898-1985) was named after this ancestor, using the Southern convention of giving a maternal family surname as a middle name. The chain: Rebecca Moseley → Lewis P. Huff → Mary Elizabeth Huff → William Goldsmith Long → Rebecca Moseley Long.
 
 Lewis had numerous siblings: Philemon, Avery, Sarah, Mary H., Nelly, Martha Patsy, Amy, and Rebecca Jane Huff.
 

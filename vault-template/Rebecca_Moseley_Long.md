@@ -31,6 +31,10 @@ tags: [genealogy, long, bright, person, south-carolina, tennessee, new-york]
 
 Rebecca Moseley Long was born September 14, 1898 in Greenville, South Carolina, the daughter of **William Goldsmith Long** (1862-1937) and **Roxanne (Rooksaner/Roxana) Cox** (Feb 21, 1865 - Dec 5, 1912).
 
+**Middle name "Moseley" explained (Strong Signal):** Rebecca was named after her great-great-grandmother **Rebecca Moseley** (Apr 11, 1772 - Jan 7, 1837), who married **James Huff** (Feb 14, 1768 - May 31, 1842) on Nov 9, 1793 in Brunswick, Virginia. The naming chain: Rebecca Moseley (1772) → Lewis P. Huff (1803) → Mary Elizabeth Huff (1838) → William Goldsmith Long (1862) → **Rebecca Moseley Long** (1898). This is a Southern naming convention where a maternal ancestor's surname is used as a middle name. Source: WikiTree, Brunswick VA records.
+
+**Lewis Huff's wife identified:** **Mary Eliza Brashier** (previously "Mary [?]" in the vault). This connects the Huff and Brasher families, adding another intermarriage to the Greenville SC cluster.
+
 Her ancestry runs deep in the South Carolina colonial families. Her mother Roxanne Cox was the daughter of **Thomas Manning Cox** (1828-1897) and Sarah Elizabeth "Lizzie" Clark (1836-1879). Thomas Manning Cox was the son of [[Thomas_B_Cox]] (1792-1857) and Olive Mary "Polly" Henderson, connecting to the colonial Cox line through [[William_Cox_Sr]] (c. 1730-1814) who migrated from Orange County, North Carolina to Greenville County, South Carolina in the 1780s. Her father William Goldsmith Long's family had migrated with the Coxes; the original Cox-Long intermarriage was Thomas Long married to Rachel Cox, a daughter of William Cox Sr.
 
 Rebecca attended **Winthrop College** (now Winthrop University, Rock Hill, South Carolina).
