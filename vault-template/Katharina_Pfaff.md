@@ -1,12 +1,13 @@
 ---
 type: person
 name: "Katharina Pfaff"
-born: 1871
+born: 1871-10-08
 died: unknown
 family: "Pfaff"
-confidence: low
+confidence: strong
 sources:
-  - "MyHeritage GEDCOM (Tier 3, unverified)"
+  - "Petersdorf church register Entry #7 (Tier 1, certified 25.6.39 by Brandsch)"
+  - "MyHeritage GEDCOM (Tier 3)"
   - "MyHeritage Smart Match"
   - "MyHeritage Photo Discovery"
 created: 2026-04-10
@@ -19,19 +20,21 @@ tags: [genealogy, Pfaff, person, Transylvanian-Saxon]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Katharina Pfaff | MyHeritage GEDCOM (unverified) |
-| Born | 1871 | MyHeritage GEDCOM |
-| Birthplace | Unknown (likely Petreşti, Alba, Romania based on family) | Inference from family records |
-| Died | Deceased (date unknown) | MyHeritage GEDCOM (DEAT Y, no date) |
+| Full Name | Katharina Pfaff | Church register Entry #7 (Tier 1) |
+| Born | **8 October 1871** | Church register Entry #7, Petersdorf (Tier 1) |
+| Birthplace | **Petersdorf** (Petresti), Transylvania | Church register Entry #7 (Tier 1) |
+| Died | Deceased (date unknown) | MyHeritage GEDCOM |
 | Burial | Unknown | |
-| Father | [[Mathias_Pfaff]] (b. 1836; d. 14 Dec 1899) | MyHeritage GEDCOM |
-| Mother | [[Katherina_Reinerth]] (b. 1813, Petreşti; d. 14 Jun 1876, Petreşti) | MyHeritage GEDCOM; FamilySearch (40001:2128849808) |
+| Father | **Michael Pfaff** + mother geb. **Dressler** | Church register Entry #7 (Tier 1) |
+| Mother | geb. **Dressler** (possibly [[Katherina_Dressler]]) | Church register Entry #7 (Tier 1) |
 | Spouse | [[Mathias_Falk]] (b. 3 Jun 1867; d. 1934) | MyHeritage GEDCOM |
 | Children | [[Rosina_Falk]] (b. est. 1896, Romania) | MyHeritage GEDCOM |
 
 ## Biography
 
-Katharina Pfaff was born in 1871, likely in the Transylvanian Saxon community of Petreşti (Alba district, Romania), based on her parents' residence there. She was the daughter of Mathias Pfaff (1836 to 1899) and Katherina Reinerth (also recorded as Reinert; 1813 to 1876, Petreşti).
+Katharina Pfaff was born **8 October 1871** in **Petersdorf** (Petresti), Transylvania. Per the **Petersdorf church register Entry #7** (Tier 1, certified 25 June 1939 by Brandsch, Kirchenbuchführer), she was the daughter of **Michael Pfaff** and a mother surnamed **Dressler** (possibly [[Katherina_Dressler]], b. 1844, d. 1934).
+
+**NOTE on father's name**: The church register (Tier 1) clearly reads "Michael Pfaff." MyHeritage GEDCOM (Tier 3) lists "Mathias Pfaff (1836-1899)." These could be the same person (Michael/Mathias confusion is common in Transylvanian Saxon records), or they could be different people. The church register is the higher authority source.
 
 Katharina married Mathias Falk (b. 3 June 1867; d. 1934), the son of Mathias Falk (1837 to 1892) and [[Agnetha_Probstdorfer]] (1847 to 1888). Together they had at least one daughter, Rosina Falk (b. est. 1896, Romania).
 
@@ -52,4 +55,5 @@ Her date of death is recorded as "deceased" with no specific date provided. Furt
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Mother's surname | Reinerth (GEDCOM) | Reinert (FamilySearch) / Dressler (GEDCOM alternate record for Katharina married to Mathias Pfaff b. 1836) | The GEDCOM contains a Katherina Dressler (b. 1844, d. 1934) also married to a Mathias Pfaff (b. 1836); this appears to be a second wife after Katherina Reinerth died in 1876. User identifies Reinerth as Katharina Pfaff's mother. |
+| Mother's surname | Reinerth (GEDCOM) | Dressler (Church register Tier 1) | **Church register (Tier 1) says mother was geb. Dressler. Katherina Reinerth (d. 1876) may have been a first wife who died before Katharina Pfaff was born in 1871... BUT Reinerth died 1876 and Katharina born 1871, so Reinerth COULD be the mother. Dressler (b. 1844) could be a second wife. OPEN: requires further investigation.** |
+| Father's name | Mathias Pfaff (GEDCOM) | Michael Pfaff (Church register Tier 1) | **Church register reads "Michael." Could be same person (Michael/Mathias confusion common). Church register preferred.** |

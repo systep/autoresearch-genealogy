@@ -4,9 +4,11 @@ name: "Mathias Falk"
 born: 1867-06-03
 died: 1934
 family: "Falk"
-confidence: moderate
+confidence: strong
 sources:
-  - "MyHeritage family tree (Tier 3, unverified)"
+  - "Petersdorf church register Entry #6 (Tier 1, certified 25.6.39 by Brandsch)"
+  - "Fan chart (06.pdf, Kascher Family Album)"
+  - "MyHeritage family tree (Tier 3)"
   - "Multiple Smart Match confirmations (Siebenbuerger profiles)"
 created: 2026-04-10
 tags: [genealogy, falk, person, transylvania, petresti, transylvanian-saxon]
@@ -18,11 +20,11 @@ tags: [genealogy, falk, person, transylvania, petresti, transylvanian-saxon]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Mathias Falk | MyHeritage (Tier 3, unverified) |
-| Born | June 3, 1867 | MyHeritage (Tier 3, unverified) |
-| Died | 1934 | MyHeritage (Tier 3, unverified) |
-| Father | Mathias Falk (b. Aug 3, 1837, Petresti, Alba, Romania; d. Nov 7, 1892, Petresti, Alba, Romania) | MyHeritage (Tier 3, unverified) |
-| Mother | Agnetha Probstdorfer (b. Feb 12, 1847; d. Aug 20, 1888, Petresti, Alba, Romania) | MyHeritage (Tier 3, unverified) |
+| Full Name | Mathias Falk | Church register Entry #6 (Tier 1), MyHeritage |
+| Born | **1867**, **Petersdorf** (Petresti), Transylvania | Church register Entry #6 (Tier 1); MyHeritage gives June 3, 1867 |
+| Died | 1934 | MyHeritage (Tier 3); Fan chart (06.pdf) lists 1867-1934 |
+| Father | **Mathias Falk** (b. Aug 3, 1837; d. Nov 7, 1892, Petresti) + mother **Konnerth** | Church register Entry #6 (Tier 1) confirms father Mathias + Konnerth; MyHeritage adds dates |
+| Mother | **Agnetha Probstdorfer** (b. Feb 12, 1847; d. Aug 20, 1888, Petresti) OR mother "Konnerth" per church register | Church register + MyHeritage (possible confusion; Konnerth may be paternal grandmother Katherina Konnerth) |
 | Paternal Grandparents | Mathias Johann Falk (1811-1873) + Katherina Konnerth (1817-1876) | MyHeritage (Tier 3, unverified) |
 | Paternal Great-Grandparents | Mathias Falk (dates unknown) + Maria Brosert (dates unknown) | MyHeritage (Tier 3, unverified) |
 | Spouse | Katharina Pfaff (b. 1871; d. unknown) | MyHeritage (Tier 3, unverified) |

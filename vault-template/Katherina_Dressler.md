@@ -4,9 +4,10 @@ name: "Katherina Dressler"
 born: 1844
 died: 1934
 family: "Dressler"
-confidence: moderate
+confidence: strong
 sources:
-  - "GEDCOM f266i6 (MyHeritage)"
+  - "Petersdorf church register Entry #15 (Tier 1, certified by Brandsch)"
+  - "GEDCOM f266i6 (MyHeritage, Tier 3)"
 created: 2026-04-10
 tags: [genealogy, Dressler, person, Transylvanian-Saxon]
 ---
@@ -18,17 +19,17 @@ tags: [genealogy, Dressler, person, Transylvanian-Saxon]
 | Field | Value | Source |
 |---|---|---|
 | Full Name | Katherina Dressler | GEDCOM |
-| Born | 1844 | GEDCOM |
-| Birthplace | Unknown | |
-| Died | 1934 | GEDCOM |
-| Father | [[Johann_Dressler]] | GEDCOM (FAMC @F500482@) |
-| Mother | [[Katherina_Sommer]] | GEDCOM |
-| Spouse | Mathias Pfaff (b. 1836, d. 14 Dec 1899) | GEDCOM |
+| Born | **1844**, **Petersdorf** (Petresti), Transylvania | Church register Entry #15 (Tier 1) |
+| Birthplace | **Petersdorf** | Church register Entry #15 (Tier 1) |
+| Died | **1934**, Petersdorf | GEDCOM; church register marriage entry #1045 |
+| Father | **[[Johann_Dressler]]** | Church register Entry #15 (Tier 1); GEDCOM |
+| Mother | **geb. Sommer** ([[Katherina_Sommer]]) | Church register Entry #15 (Tier 1); GEDCOM |
+| Spouse | **Mathias Pfaff** (b. 1836, d. 14 Dec 1899) | Church register Entry #14 + #1045 (Tier 1); GEDCOM |
 | Children | [[Katharina_Pfaff]] (if applicable) | |
 
 ## Biography
 
-Katherina Dressler was born in 1844, the daughter of [[Johann_Dressler]] (b. 1814, d. 1888) and [[Katherina_Sommer]] (b. 1824, d. 1893). She married Mathias Pfaff (b. 1836, d. 14 Dec 1899). She lived to 1934, reaching approximately 90 years of age.
+Katherina Dressler was born in **1844** in **Petersdorf** (Petresti), Transylvania. Per the **Petersdorf church register Entry #15** (Tier 1, certified by Brandsch, Kirchenbuchführer), she was the daughter of **[[Johann_Dressler]]** (b. 1814, d. 1888) and mother geb. **Sommer** ([[Katherina_Sommer]], b. 1824, d. 1893). She married **Mathias Pfaff** (b. 1836, d. 14 Dec 1899). Their daughter **[[Katharina_Pfaff]]** (b. 8 Oct 1871, Petersdorf) married **[[Mathias_Falk]]** (b. 1867). Katherina Dressler lived to 1934, reaching approximately 90 years of age.
 
 ## Document Sources
 

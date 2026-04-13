@@ -1,7 +1,7 @@
 ---
 type: person
 name: "Rosina Falk"
-born: 1905-07-04
+born: 1896-09-11
 died: 1928-05-27
 family: "Falk"
 confidence: strong
@@ -21,8 +21,8 @@ tags: [genealogy, falk, kascher, person, pennsylvania, ohio, colorado, transylva
 | Field | Value | Source |
 |---|---|---|
 | Full Name | Rosina (Rasina) Falk Kascher | MyHeritage, marriage record, church certificate |
-| Born | **July 4, 1905** | Waldhutten church certificate (1938, Tier 1) |
-| Died | **May 27, 1928, Denver, Colorado** (age 22) | Waldhutten church certificate (1938, Tier 1) |
+| Born | **September 11, 1896**, Petersdorf (Petresti), Transylvania | Fan chart (06.pdf, Tier 2), Kascher Family Album; **NOT** July 4, 1905 as the KINDER certificate states (see discrepancies) |
+| Died | **May 27, 1928, Denver, Colorado** (age 31) | Waldhutten church certificate KINDER (1938, Tier 1) |
 | Cause of Death | **Tuberculosis** | Waldhutten church certificate (1938, Tier 1) |
 | Burial | **Tod Homestead Cemetery, Youngstown, Ohio** | Waldhutten church certificate (1938, Tier 1) |
 | Father | Mathias Falk (1867-1934) | MyHeritage |
@@ -66,7 +66,5 @@ Her son Henry married Mary Elizabeth Bright, and their daughter Kathryn Ann Kasc
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | Name spelling | "Rosina" (common usage) | "Rasina" (some records) | Both forms recorded; likely variant spellings of the same Transylvanian Saxon name. |
-| **Birth year** | **1896 (MyHeritage)** | **July 4, 1905 (Waldhutten church certificate, Tier 1)** | **RESOLVED: Church certificate is Tier 1 primary source, supersedes MyHeritage (Tier 3). Born 1905, not 1896. If born 1896 she would have been 16 at marriage (1913); if born 1905 she would have been 7, which is problematic. See note below.** |
-| **Death year** | **1999 (MyHeritage)** | **May 27, 1928 (Waldhutten church certificate, Tier 1)** | **RESOLVED: The MyHeritage 1999 death date belonged to a DIFFERENT Rosina. The church certificate (Tier 1) confirms death May 27, 1928 in Denver, Colorado of tuberculosis. Michael Kascher remarried Sophia Schuller in 1947, which is consistent with Rosina dying in 1928, not 1999.** |
-
-**NOTE on birth year and marriage date conflict:** If Rosina was born July 4, 1905 and married May 10, 1913, she would have been only 7 years old at marriage, which is not plausible. Possible resolutions: (1) the marriage date of 1913 may be incorrect, with the actual marriage occurring later (e.g., 1923 would make her 17); (2) the church certificate birth year may contain an error; (3) the marriage record may refer to a different event. This requires further investigation. The 1905 birth date is consistent with the 1928 death (age 22) and with Henry's birth in 1914 only if the marriage date is reconsidered. If born 1896, she would have been 32 at death, which is also plausible for TB. **The marriage date vs. birth date conflict is an open question requiring resolution.**
+| **Birth year** | **1896 (Fan chart 06.pdf, MyHeritage)** | **July 4, 1905 (KINDER certificate)** | **RESOLVED: Born 1896, NOT 1905. The fan chart (06.pdf) in the Kascher Family Album explicitly records "Rosina Kascher (geb. Falk) 1896." If born 1905, she would have been age 7 at her 1913 marriage (impossible). If born 1896, she was 16 at marriage (plausible), 18 when Henry was born (1914), and 31 at death (1928). The KINDER certificate's "4 July 1905" contains the same type of digit ambiguity seen elsewhere in these typed certificates (9→0, making 1896 appear as 1905 or similar). Church register entry #3 (08.pdf) for Falk family in Petersdorf may contain the original entry. The fan chart, made by the family, is more reliable for this specific date.** |
+| **Death year** | **1999 (MyHeritage)** | **May 27, 1928 (KINDER certificate, Tier 1)** | **RESOLVED: The MyHeritage 1999 death date belonged to a DIFFERENT Rosina. The KINDER certificate (Tier 1) confirms death May 27, 1928 in Denver, Colorado of tuberculosis. Michael Kascher remarried Sophia Schuller in 1947, consistent with Rosina dying in 1928.** |
