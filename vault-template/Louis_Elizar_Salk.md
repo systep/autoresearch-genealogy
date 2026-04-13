@@ -8,8 +8,11 @@ confidence: low
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500065)"
   - "MyHeritage Smart Match"
+  - "Salk surname etymology (Ancestry.com, Geneanet)"
+  - "Zalk family of Troskunai, Lithuania (JewishGen KehilaLinks)"
 created: 2026-04-10
-tags: [genealogy, salk, person, lithuania, rhode-island, tier-3]
+updated: 2026-04-13
+tags: [genealogy, salk, person, lithuania, rhode-island, tier-3, zalk, troskunai]
 ---
 
 # Louis (Elizar)(Lazar) Salk

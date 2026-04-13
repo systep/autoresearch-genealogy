@@ -7,10 +7,13 @@ family: "Salk"
 confidence: strong
 sources:
   - "1930 US Census (Providence, RI)"
-  - "Multiple children's obituaries"
+  - "Multiple children's obituaries (Martha Corin, Donald, Samuel, Charles Salmanson)"
   - "MyHeritage family tree"
+  - "Adams Drug Company (Wikipedia)"
+  - "Hilda Salmanson obituary (Boston Globe, 2016)"
 created: 2026-04-10
-tags: [genealogy, salk, salmanson, person, immigrant, poland, rhode-island]
+updated: 2026-04-13
+tags: [genealogy, salk, salmanson, person, immigrant, poland, rhode-island, zalk, adams-drug]
 ---
 
 # Elizabeth (Salk) Salmanson

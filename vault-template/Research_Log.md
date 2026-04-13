@@ -9,6 +9,57 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-13: Brandt and Goldbaum Family Research (Thelma's Maternal Line)
+
+### Summary
+Conducted comprehensive web research on the Brandt and Goldbaum families to extend Thelma Markel's maternal line. Helen Brandt married Morris Markel; Helen's parents are Joseph Brandt + Brina Goldbaum (Tier 3 only). Ran 40+ web searches covering Find a Grave, obituaries, RIJHA articles, JewishGen, Gesher Galicia, Yad Vashem, surname etymology, Ahavath Sholom congregation history, census resources, Ellis Island databases, and Rhode Island vital records.
+
+### Key Positive Results
+1. **Kate Markel Kaplan (1925-2006) confirmed**: Find a Grave #232002112. Born Dec 6, 1925 (Poland), died Jan 11, 2006. Buried Lincoln Park Cemetery, Warwick RI. Obituary (Providence Journal, Jan 13, 2006): "Born in Poland, Mrs. Kaplan moved to W. Warwick, RI at the age of 3." URI graduate, biochemist at Sloan Kettering. This is the "Kay Kaplan" in the GEDCOM. Maiden name confirmed as Markel.
+2. **Immigration date established (~1928)**: Kate born in Poland 1925, arrived West Warwick at age 3 = family immigrated ~1928. This means Thelma (b. 1920) and likely Anne and Frieda were also born in Poland.
+3. **Minnie Sternbach = Minnie Markel independently confirmed**: RIJHA article by Rebecca Twersky (RI Jewish Historical Notes, Vol. 7, 1977) independently confirms "Abraham and Minnie Sternbach arrived in Arctic in 1912." The Yichus narrative identifies Minnie as Morris Markel's sister. This cross-confirmation (Tier 2 + Tier 2) elevates the Minnie Markel-Sternbach identification to Strong Signal.
+4. **Ahavath Sholom founding history**: Chartered Dec 12, 1919. Seven founding members: Barney Hirshfield, Abraham Sternbach, Morris Shafrin, Joseph Dressler, Harry Fishtein, David Frank, and one Glantz. Congregation of 30 families "could not afford a rabbi"; had "learned men" instead. This creates a discrepancy with the Yichus claim that Morris served as rabbi.
+5. **Florence Sternbach Futtersak confirmed as Minnie's daughter**: David Futtersak obituary (Jewish Rhode Island, 2024) identifies Florence (Sternbach) Futtersak as his wife and daughter of Abraham and the late Minnie Sternbach.
+6. **Joseph Brandt GEDCOM dates debunked**: Birth ~1815 / death ~1891 are data errors. The identical "27 Jul" in both birth and death dates is a system artifact. A father born 1815 when daughter Helen was born ~1889 is biologically implausible (~74 years old).
+7. **Surname etymology**: Brandt = Ashkenazi Jewish, from German/Yiddish "Brand" meaning "fire/conflagration." Goldbaum = Ashkenazi ornamental name, German "Gold" + "Baum" = "golden tree." Both surnames appear in Tarnopol 1910 Jewish Census surname list (Gesher Galicia).
+8. **Thelma Rodbell obituary details**: Confirmed as mother of Barbara, Alan (and Shelly), and Carol Salmanson, and sister of Anne Schlusselberg. Stepmother of Sidney, Paul, and Arthur Rodbell.
+
+### Negative Results (Logged)
+1. "Joseph Brandt" Jewish immigration Rhode Island: no results
+2. "Brina Goldbaum" OR "Bryna Goldbaum" immigration: no results
+3. "Helen Brandt" "Morris Markel" marriage Providence Rhode Island: no results
+4. "Anne Schlusselberg" obituary Markel Providence: no results
+5. "Morris Markel" rabbi Rhode Island census 1920 1930: no results
+6. "Helen Markel" OR "Helen Brandt" Find a Grave Lincoln Park Cemetery: not found (different Helen Markel in Virginia)
+7. "Morris Markel" Find a Grave Rhode Island: not found
+8. "Morris Markel" obituary 1963 Rhode Island: not found
+9. "Frieda Markel" Rhode Island: no results
+10. Yad Vashem search for "Goldbaum Brina": 403 error on direct database access
+11. JewishGen KehilaLinks Drohobycz Markel family page: 403 error
+12. RIJHA PDF article: 403 error on direct access
+13. Geni.com profiles for Helen Brandt / Morris Markel: 403 errors on profile pages
+14. MyHeritage Helen Markel records: 403 error
+
+### Files Updated
+- [[Helen_Brandt]]: Major update with immigration data, Kate Kaplan details, corrected dates, research leads
+- [[Joseph_Brandt]]: Dates corrected, GEDCOM errors documented, surname research added
+- [[Brina_Goldbaum]]: Enhanced with surname research, estimated dates, Holocaust research leads
+- [[Morris_Markel]]: Immigration section added, Ahavath Sholom discrepancy documented, Kate Kaplan details
+- [[Minnie_Markel_Sternbach]]: Ahavath Sholom founding role confirmed, daughter Florence identified
+- [[Thelma_Markel]]: Birthplace and siblings updated
+- [[Family_Tree]]: Markel section updated with corrected information and new sources
+- [[Open_Questions]]: Added questions 30-32 (Brandt/Goldbaum identity, immigration manifest, Brina Holocaust ID)
+
+### Next Steps
+1. Search 1930 US Census for Markel household in West Warwick, RI (Ancestry/FamilySearch)
+2. Search Ellis Island / Ancestry passenger manifests for Markel family arriving ~1926-1930
+3. Search Gesher Galicia All Galicia Database for Brandt and Goldbaum
+4. Search Yad Vashem Central Database for Brina Goldbaum
+5. Contact Lincoln Park Cemetery for Morris and Helen Markel headstone data
+6. Search Morris Markel naturalization records (FamilySearch RI Naturalization Records)
+
+---
+
 ## 2026-04-13: Salk Family Research, Providence Rhode Island
 
 ### Summary

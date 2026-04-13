@@ -38,7 +38,11 @@ Chronological index of all dated events across the family tree.
 | Date | Event | Person(s) | Location | Source |
 |---|---|---|---|---|
 | ~1720 | Birth | Argaleus Hercules Henderson I | Onslow, NC | WikiTree Henderson-7309 |
+| 1722 | Birth | Molly Mary Clark | North Carolina | WikiTree, Geni |
+| ~1730 | Birth | [[John_Baldwin_Sr]] | Chester, Pennsylvania | WikiTree Baldwin-2336 |
 | ~1730-1735 | Birth | [[William Cox Sr.]] | Unknown | Cox Family History Project |
+| 1736 | Birth | Alice Francis Lindley | Chatham, NC | WikiTree Lindley-409 |
+| ~1740 | Marriage | Argaleus Hercules Henderson I + Molly Mary Clark | North Carolina | WikiTree, Geni |
 | 1744 | Birth | John Stangle | England | IMG_0789 |
 | ~1755 | Birth | [[Isaac Cox]] | Orange County, NC | WikiTree Cox-8529 |
 | 1755 | Tax list | William Cox (3 William Coxes) | Orange County, NC | NC Digital Collections |
@@ -47,9 +51,12 @@ Chronological index of all dated events across the family tree.
 | ~1764 | Birth | Elizabeth Brasher | | WikiTree Brasher-153 |
 | 1768-1771 | Regulators movement | Argaleus Hercules Henderson I | Orange County, NC | WikiTree |
 | April 22, 1772 | Land purchase (110 acres) | William Cox Sr. | Haw River/Cane Creek, Orange Co., NC | Deed Book #3 p. 599 |
+| ~1775 | Birth | [[Eli_Baldwin]] | Chatham County, NC | WikiTree Baldwin-2330, Geni |
+| ~1770 | Birth | [[James_Hiriam_Clark]] | Virginia | Ancestry, user data |
 | ~1778 | Birth | [[James Cox]] | North Carolina | WikiTree Cox-14020 |
 | 1779 | Tax list | Isaac Cox, Abraham Cox | North Carolina | NC Tax Lists |
 | Oct 10, 1782 | Marriage | Ezekiel Henderson + Elizabeth Brasher | South Carolina | WikiTree |
+| 1781 | Death | Alice Francis Lindley Baldwin | North Carolina | WikiTree Lindley-409 |
 | 1781-1783 | Military service (Rev. War) | Ezekiel Henderson | Discharged Hillsboro, NC | Pension S6994 |
 | ~1783 | Immigration | John Stangle | England to America | IMG_0789 (corrected from 1683) |
 | 1784 | Birth | Dianah/Diana Black | North Carolina | WikiTree |
@@ -64,14 +71,25 @@ Chronological index of all dated events across the family tree.
 
 | Date | Event | Person(s) | Location | Source |
 |---|---|---|---|---|
+| Aug 1801 | Land deed | John Baldwin Sr. to [[Eli_Baldwin]] | Chatham County, NC (Deed Book L, pp. 239-240) | WikiTree Baldwin-2336 |
+| 5 Mar 1801 | Birth | [[Jeddiah_W_Clark]] | South Carolina | GEDCOM |
+| Nov 1802 | Land deed | [[Eli_Baldwin]] to William Baldwin | Chatham County, NC | WikiTree Baldwin-2330 |
+| 1804 | Death | Molly Mary Clark Henderson | North Carolina | WikiTree, Geni |
+| 19 Aug 1805 | Birth | [[Gilley_Elizabeth_Baldwin]] | Greenville, SC | MyHeritage GEDCOM |
 | 1806 | Death | Argaleus Hercules Henderson I | Chatham, NC | Find a Grave #11725276 |
+| ~1811 | Death | [[John_Baldwin_Sr]] | Chatham County, NC | WikiTree Baldwin-2336 |
 | Sept 13, 1813 | Birth | Rebecca Adeline Cox | | WikiTree Cox-18821 |
+| 1812 | Land purchase (250 acres from John Croft) | [[Eli_Baldwin]] | Greenville County, SC (Deed Book I, p. 218) | WikiTree, Geni |
 | June 7, 1812 | Birth | Rev. Henry Langford Henderson | Greenville County, SC | WikiTree Henderson-12233 |
 | Nov 1814 | Death | William Cox Sr. | Greenville County, SC | Cox Family History Project |
 | 1818 | Church organized | Standing Springs Baptist Church | Simpsonville, SC (in James Cox's home) | hmdb.org #168369 |
 | 1820 | Birth | Srul Mendel Zalmanson | | MyHeritage |
+| 31 Jul 1825 | Birth | [[Eli_Berry_Clark]] | Greenville County, SC | MyHeritage GEDCOM |
 | ~1830 | Death | Isaac Cox | Greenville County, SC | WikiTree Cox-8529 |
+| 1831 | Birth | Perry F. Clark | South Carolina | rootsweb sc12164 |
+| 13 Aug 1836 | Birth | [[Sarah_Elizabeth_Clark]] | Greenville County, SC | GEDCOM |
 | ~1836 | Land donation for church | [[James Cox]] | Standing Springs, Simpsonville, SC | hmdb.org #168369 |
+| 18 Jan 1840 | Death | [[Eli_Baldwin]] | Greenville, SC | WikiTree Baldwin-2330, Geni |
 | Nov 2, 1846 | Death | Ezekiel Henderson | Greenville County, SC | WikiTree |
 | Before July 19, 1847 | Death | Brashier Henderson | Greenville County, SC | WikiTree Henderson-6197 |
 | 1851 | Birth | [[Levi_Itzhak_Zalmanson]] | | MyHeritage |
