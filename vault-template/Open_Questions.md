@@ -139,21 +139,21 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Solvability**: MODERATE
 - **Payoff**: MODERATE (would establish maiden name and clarify family structure)
 
-### 15. Relationship between Abraham Salk and Hyman Salk (Hardware founder)
+### 16. Relationship between Abraham Salk and Hyman Salk (Hardware founder)
 - **The question**: Both Abraham Salk (d. 1925) and Hyman Salk (founded store 1900) were Lithuanian Jewish immigrants to Providence in the 1890s-1900s. Were they brothers, cousins, or unrelated?
 - **Searched (2026-04-13)**: No documentary evidence of connection found. Salk's Hardware is now 5 generations old. Harold Salk (3rd gen) was son of Samuel and Ruth (Fleisig) Salk. Lewis/Louis Salk (Hyman's other son) had son Norton E. Salk (1927-2007, architect).
 - **Next step**: Compare 1910 Census entries for both Abraham Salk and Hyman Salk households in Providence. Check if they lived near each other in Providence Ward 3. Look for immigration records showing same town of origin in Lithuania.
 - **Solvability**: MODERATE (census comparison could establish or rule out connection)
 - **Payoff**: MODERATE (would either extend or clarify the Salk family network)
 
-### 16. Elizabeth Salk's birthplace discrepancy: Russia vs. Poland
+### 17. Elizabeth Salk's birthplace discrepancy: Russia vs. Poland
 - **The question**: Abraham's records say "Russia"; Elizabeth's 1930 Census lists parents' birthplace as "Poland." Were they from a region that could be described both ways?
 - **Searched (2026-04-13)**: Noted in Data Discrepancies. The Russian/Polish border shifted repeatedly; Congress Poland was part of the Russian Empire.
 - **Next step**: Obtain Abraham's 1925 death record (would list birthplace). Check 1910/1920 Census entries for birthplace listings. Compare with Elizabeth's 1930 Census.
 - **Solvability**: MODERATE
 - **Payoff**: LOW (geographic clarification)
 
-### 17. Louis (Elizar)(Lazar) Salk: connection to Troskunai Zalk family?
+### 18. Louis (Elizar)(Lazar) Salk: connection to Troskunai Zalk family?
 - **The question**: The Zalk family of Troskunai (Trashkun), Lithuania is documented on JewishGen. Earliest member: Leyzer Zalk; grandson Samuel Zalk (b. ~1830) emigrated to Duluth, MN. Louis (Elizar)(Lazar) Salk (b. ~1840 Lithuania) has a similar profile. Are they related?
 - **Searched (2026-04-13)**: JewishGen KehilaLinks page for Troskunai Zalk family (403 on fetch). Leyzer Zalk > Zalkind Zalk + Freyda > Samuel Zalk (~1830). Charles Zalk (1853-1937) married Esther Lindeke and settled in Duluth, MN.
 - **Next step**: Access the full Troskunai Zalk family page. Compare names: "Leyzer Zalk" and "Louis (Elizar/Lazar) Salk" are very close (Lazar/Leyzer are variants of the same name Eleazar). Search JewishGen Lithuania Database for Zalk/Salk in Kovno/Vilna gubernia.
@@ -201,3 +201,13 @@ Research gaps and unresolved questions, organized by priority and family line. U
 | 14 | Lincoln Park Cemetery records: Salk burials | Lincoln Park Cemetery, Warwick RI (401-737-5333) | Abraham and Tauba burial locations and headstone data | Free (phone inquiry) |
 | 15 | JewishGen Lithuania Database: Zalk/Salk in Kovno/Vilna gubernia | JewishGen.org | Possible birth/marriage/death records for Louis Salk or ancestors | Free (requires account) |
 | 16 | Abraham Salk passenger manifest (arrival 1894 or 1896) | Ellis Island / Ancestry / FamilySearch | Town of origin, age, traveling companions | Free (Ellis Island) or Subscription |
+| 17 | II&C catalogs 1889-91 (Willis Youngblood enrollment) | MUW Beulah Culbertson Archives / athenacommons.muw.edu | Confirm or refute Willis as early graduate of first state women's college | Free (online) or correspondence |
+| 18 | 1830-1850 Bibb County AL census (Youngblood) | Ancestry / FamilySearch | James Youngblood household, link to Edgefield SC | Subscription or Free (FamilySearch) |
+| 19 | Lowndes County MS marriage records: Bright-Youngblood 1890 | MS Dept of Archives and History / Lowndes County Circuit Clerk | Confirm marriage date and details | Correspondence |
+| 20 | 1850 Lowndes County MS census (Youngblood/Kyle) | Ancestry / FamilySearch | William and Lucy Youngblood household, Kyle family | Subscription or Free |
+| 21 | LitvakSIG All Lithuania Database: Deych/Deich/Daych in Zarasai District | litvaksig.org/search-ald/ | Vital records for Zawel Deykh and Deych family in Rokiskis | Free (requires registration) |
+| 22 | Rokiskis SIG vital records index: 1877 Deych-Zalmanson marriage | kehilalinks.jewishgen.org/rokiskis/ (contact SIG) | Marriage record naming Zawel Deykh with occupation, age, residence | Free (SIG membership may be needed) |
+| 23 | LVIA full 1877 Rokiskis Jewish marriage record | Lithuanian State Historical Archives, Vilnius (email in English) | Father of bride details, witnesses, rabbi | Fee (amount unknown; email request) |
+| 24 | JewishGen Yizkor Book Master Name Index: Deych in Rokiskis | jewishgen.org/databases/yizkor/Names/ | Presence of Deych family in Rokiskis Yizkor book necrology | Free (requires account) |
+| 25 | Rokiskis 1897 census and 1908 Family List: Deych/Zalmanson | Rokiskis SIG (via JewishGen KehilaLinks) | Household composition, ages, occupations | Free (SIG membership may be needed) |
+| 26 | Ancestry Collection 1416: Lithuania Jewish Birth Records 1837-1940 | Ancestry.com | Rochel Tsine Deych birth record (~1861) | Subscription |
