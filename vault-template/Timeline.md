@@ -84,8 +84,12 @@ Chronological index of all dated events across the family tree.
 | Nov 1814 | Death | William Cox Sr. | Greenville County, SC | Cox Family History Project |
 | 1818 | Church organized | Standing Springs Baptist Church | Simpsonville, SC (in James Cox's home) | hmdb.org #168369 |
 | 1820 | Birth | Srul Mendel Zalmanson | | MyHeritage |
+| 31 Jul 1825 | Birth | [[Eli_Berry_Clark]] | Greenville County, SC | MyHeritage GEDCOM |
 | ~1830 | Death | Isaac Cox | Greenville County, SC | WikiTree Cox-8529 |
+| 1831 | Birth | Perry F. Clark | South Carolina | rootsweb sc12164 |
+| 13 Aug 1836 | Birth | [[Sarah_Elizabeth_Clark]] | Greenville County, SC | GEDCOM |
 | ~1836 | Land donation for church | [[James Cox]] | Standing Springs, Simpsonville, SC | hmdb.org #168369 |
+| 18 Jan 1840 | Death | [[Eli_Baldwin]] | Greenville, SC | WikiTree Baldwin-2330, Geni |
 | Nov 2, 1846 | Death | Ezekiel Henderson | Greenville County, SC | WikiTree |
 | Before July 19, 1847 | Death | Brashier Henderson | Greenville County, SC | WikiTree Henderson-6197 |
 | 1851 | Birth | [[Levi_Itzhak_Zalmanson]] | | MyHeritage |
