@@ -8,7 +8,9 @@ confidence: moderate
 sources:
   - "User-provided data"
   - "Research data (Virginia birth, South Carolina residence)"
+  - "Ancestry.com record james-hiriam-clark-24-7cqh41 (Tier 3)"
 created: 2026-04-10
+updated: 2026-04-13
 tags: [genealogy, clark, person, virginia, south-carolina, simpsonville]
 ---
 
@@ -25,8 +27,8 @@ tags: [genealogy, clark, person, virginia, south-carolina, simpsonville]
 | Burial | Unknown | |
 | Father | Unknown | |
 | Mother | Unknown | |
-| Spouse | [[Mary_Neale]] | User data |
-| Children | Jeddiah W. Clark | User data, research data |
+| Spouse | [[Mary_Neale]] | User data, Ancestry.com tree |
+| Children | [[Jeddiah_W_Clark]] (b. 5 Mar 1801, SC; d. 27 Jan 1860, Simpsonville, SC) | User data, GEDCOM, Ancestry.com tree |
 
 ## Biography
 

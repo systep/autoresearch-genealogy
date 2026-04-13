@@ -49,10 +49,15 @@ Jeddiah died on 27 January 1860 in Simpsonville, Greenville, South Carolina. His
 
 | Document | Type | Vault Note |
 |---|---|---|
-| GEDCOM f266i6 individual I501510 | family tree extract | |
+| GEDCOM f266i6 individual I501510 | family tree extract (Tier 3) | |
+| rootsweb sc12164 | compiled genealogy (Tier 3) | Lists children: Eli Berry (1825), Perry F. (1831), Sarah Elizabeth, Jane |
+| WikiTree Henderson-12233 (Henry Langford Henderson) | user-contributed tree (Tier 3) | Documents Eli Berry Clark's daughter Martha marrying Winfield Jasper Henderson |
+| Cox Family History Project (sites.google.com) | compiled genealogy (Tier 3) | Clark-Cox-Henderson-Long intermarriage network |
+| MyHeritage (Eli Berry Clark record) | user-contributed tree (Tier 3) | Burial: Sonpoint Baptist Fellowship Church Cemetery |
 
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| | | | |
+| Death date | 27 Jan 1860 (GEDCOM) | 29 Jan 1860 (rootsweb sc12164) | Minor discrepancy (2 days). Favor GEDCOM pending primary source verification. |
+| Number of children | GEDCOM lists Sarah Elizabeth and "others" | Rootsweb lists Eli Berry, Perry F., Sarah Elizabeth, Jane | rootsweb provides more detail; GEDCOM does not contradict. Adopt combined list pending census confirmation. |

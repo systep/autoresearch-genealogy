@@ -78,6 +78,9 @@ Chronological index of all dated events across the family tree.
 | May 22, 1853 | Death | [[James Cox]] | Simpsonville, Greenville Co., SC | WikiTree |
 | 1854 | Death | [[Srul_Mendel_Zalmanson]] | Barysaw (Borisov), Minsk Region, Belarus | MyHeritage |
 | June 12, 1857 | Death | Thomas B. Cox | South Carolina | WikiTree Cox-18821 |
+| ~1840 | Birth | [[Louis_Elizar_Salk]] (Louis (Elizar)(Lazar) Salk) | Lithuania | MyHeritage GEDCOM (Tier 3) |
+| ~1850 | Birth | [[Tauba_Salk]] | Russia | MyHeritage GEDCOM (Tier 3) |
+| ~1860 | Birth | [[Abraham_Zolly_Salk]] | Russia (Russian Empire) | MyHeritage (Tier 3) |
 | 1861 | Birth | Rochel Tsine Deych | | MyHeritage |
 | Dec 2, 1877 | Marriage | [[Levi_Itzhak_Zalmanson]] + Rochel Tsine Deych | Rokiškis, Panevėžys County, Lithuania | MyHeritage |
 | Dec 25, 1877 | Marriage | Thomas Langford Henderson + Mary Frances "Fannie" Cox | | WikiTree |
@@ -92,6 +95,10 @@ Chronological index of all dated events across the family tree.
 
 | Date | Event | Person(s) | Location | Source |
 |---|---|---|---|---|
+| ~1894 or ~1896 | Immigration | [[Abraham_Zolly_Salk]] | United States (from Russia) | MyHeritage GEDCOM (Tier 3); two conflicting dates |
+| ~1897 | Immigration | [[Elizabeth_Salk]] (age ~10) | United States (from Poland) | 1930 Census (Tier 1) |
+| ~1898 or ~1901 | Immigration | [[Tauba_Salk]] | United States (from Russia) | MyHeritage GEDCOM (Tier 3); two conflicting dates |
+| 1900 | Business founded | Hyman Salk (tailor shop, later Salk's Hardware) | Providence, RI | Warwick Beacon, Salk's Hardware website |
 | Dec 23, 1904 | Immigration (SS Baltic) | [[Barnett_Salmanson]] (Berko Zalmanson) | New York City | MyHeritage |
 | Sept 12, 1909 | Marriage | [[Barnett_Salmanson]] + [[Elizabeth_Salk]] | Providence, Rhode Island | MyHeritage |
 | June 21, 1910 | Birth | [[Leonard_Irving_Salmanson]] | | Find a Grave |
