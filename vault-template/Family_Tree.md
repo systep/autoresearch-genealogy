@@ -205,16 +205,19 @@ The digital family tree app (Screenshot 125748) displayed ex-spouses at sibling 
 
 ### Markel Family (Thelma's ancestry)
 
-*Source: MyHeritage family tree (unverified, Tier 3)* **(speculative until independently confirmed)**
+*Sources: MyHeritage family tree (Tier 3); Yichus narrative by Ruth Gold (Tier 2); Kate Kaplan obituary, Providence Journal Jan 13 2006 (Tier 2); Kate Markel Kaplan Find a Grave #232002112 (Tier 1); RIJHA historical article by Rebecca Twersky (Tier 2)*
 
-**Thelma (Tobi) Markel** (Sept 12, 1920 - Sept 22, 2011). Hebrew name: Tobi.
-- Parents: **Morris M.M.M. Markel** + **Helen Brandt**
-- Sister: Anne (Markel) Schlusselberg
-- **Morris Markel's parents**: Heschel Herman Markel + Leah Frei (Frye)
-- **Heschel Herman's parents**: Dov Markel + [wife unknown]
-- **Leah Frei's parents**: Yoseph Frei + Toba Rivka Frei
-- **Helen Brandt's parents**: Joseph Brandt + Brina Goldbaum
-- All names are Ashkenazi Jewish, likely Eastern European origin
+**Thelma (Tobi) Markel** (Sept 12, 1920, Poland, Sept 22, 2011). Hebrew name: Tobi.
+- Parents: **[[Morris_Markel]]** (Moishe Myer / Morris Markel) + **[[Helen_Brandt]]**
+- Siblings: Anne (m. Schlusselberg), Frieda, Kate (Dec 6 1925, Poland, Jan 11 2006; m. Irving Kaplan), Joseph
+- Family immigrated from Poland to West Warwick (Arctic), RI approximately 1928 (Kate born Poland, arrived West Warwick at age 3)
+- **Morris Markel's parents**: [[Heschel_Herman_Markel]] (b. 1862 Vanyavitch, Galicia; d. 1916) + [[Leah_Frei]] (b. 1864; d. 1940)
+- **Heschel Herman's parents**: [[Dov_Markel]] + [wife unknown]
+- **Dov Markel's father**: [[Nissen_Mendel_Markel]] (earliest known Markel ancestor)
+- **Leah Frei's parents**: [[Yoseph_Frei]] + [[Toba_Rivka_Frei]] (of Dubosari)
+- **Helen Brandt's parents**: [[Joseph_Brandt]] (dates unknown; GEDCOM dates ~1815/~1891 are data errors) + [[Brina_Goldbaum]] (d. Holocaust)
+- Morris's sister [[Minnie_Markel_Sternbach]] (1887-1975) married Abraham Sternbach; they arrived in Arctic 1912 and were founding members of Congregation Ahavath Shalom (chartered Dec 12, 1919). Their daughter Florence (Sternbach) married David Futtersak.
+- All names are Ashkenazi Jewish, of Eastern European (Galician) origin
 
 ### Eastern European Ancestry: Zalmanson Line
 

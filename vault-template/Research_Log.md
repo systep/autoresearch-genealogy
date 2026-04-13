@@ -9,6 +9,61 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-13: Deych Family Research (Barnett Salmanson's Maternal Line)
+
+### Search: "Deych" / "Deich" / "Deutsch" Jewish family Rokiskis Lithuania
+**Query**: Multiple web searches combining surname variants with Rokiskis, Lithuania, Jewish genealogy
+**Source**: Web search (multiple databases and resources consulted)
+**Results**: No specific individual records for the Deych/Deich family in Rokiskis were found via public web search. The surname is confirmed as an Ashkenazic Jewish variant of "Deutsch" (German), meaning "German" or denoting migration from a German speaking area. Variant spellings include Deych, Deich, Daych, Daitsh, Daitch, Deiches, Deutsch, Teutsch. The Forebears surname database shows "Daych" is most common in Russia (43 bearers), primarily in Moscow, Chelyabinsk Oblast, and St. Petersburg.
+**Implication**: The surname is well documented etymologically. No individual records surfaced via web search alone; login-required databases (JewishGen ALD, LitvakSIG, Ancestry, FamilySearch) are needed.
+
+### Search: "Zawel Deykh" / "Sawel Deich" Lithuania genealogy
+**Query**: Exact name searches across web
+**Source**: Web search
+**Results**: **NEGATIVE.** No results found for any spelling variant of Zawel Deykh as an individual. The name does not appear in any publicly indexed web source.
+**Implication**: Zawel Deykh is known only from the GEDCOM and Geni.com. His records, if they exist, are in databases requiring login (LitvakSIG ALD, Ancestry, LVIA) or in untranslated archival sources.
+
+### Search: Given name "Zawel" / "Zavel" etymology
+**Query**: Yiddish given name Zavel meaning Hebrew equivalent
+**Source**: Wikipedia (Zavel Kwartin article), JewishGen Given Names databases references
+**Results**: "Zavel" (also Zawel, Savel) is the Yiddish diminutive of the Hebrew name Zevulun (Zebulun). Confirmed by cantor Zevulun "Zavel" Kwartin (1874-1952), who was universally known by the Yiddish form. In Russian documents, the name may appear as "Savely" or "Sawel."
+**Implication**: Zawel Deykh's Hebrew name was likely Zevulun. This is useful for searching Russian language archival records.
+
+### Search: Rokiskis Jewish community resources and records
+**Query**: Multiple searches for Rokiskis KehilaLinks, LitvakSIG, vital records
+**Source**: JewishGen KehilaLinks, LitvakSIG, JewishGen Yizkor Book Project
+**Results**: Rokiskis (Yiddish: Rakishok) had a Jewish population of 2,067 (75% of town) in 1900, and 3,500 (40%) in 1939. **Virtually all Jews in Rokiskis were Chabad (Lubavitch) Hasidim.** The Rokiskis SIG owns: 1897 All-Russian Census, candle/box tax records, 1891-1915 Postal Bank Records, 1908 Family List, and an index to vital records from Kaunas Archives. The Rokiskis town administration created a **book of abstracts from Jewish vital records covering 1876-1894** (held in Kaunas Regional Archives). These are abstracts, not full records; birth abstracts omit the mother's name.
+**Implication**: CRITICAL. The Rokiskis vital records abstracts (1876-1894) should contain the 1877 Deych-Zalmanson marriage. The Rokiskis SIG may have an index to these records.
+
+### Search: Rokiskis Yizkor Book (Yisker-bukh fun Rakishok un umgegnt)
+**Query**: Searches for Deych/Deich in Rokiskis Yizkor book index
+**Source**: JewishGen Yizkor Book Project
+**Results**: The Yizkor book was published in Johannesburg in 1952 (626 pages, Yiddish). ~367 pages translated. Name index and necrology (165 entries) are searchable on JewishGen. Direct access blocked (403 errors); cannot confirm whether "Deych" appears in name index.
+**Implication**: Must search JewishGen Yizkor Book Master Name Index directly (login required).
+
+### Search: Daiches/Deiches rabbinic family of Lithuania
+**Query**: "Deiches" family Lithuania rabbinic genealogy
+**Source**: JewishEncyclopedia.com, Geni.com
+**Results**: Documented Lithuanian rabbinic family. Key members include Rabbi David of Eishishok (c. 1750-1842), Lob Hirsch Daiches (1806-1891, Kovno), Israel Hayyim Daiches (1850-1937, Leeds, England). Centered on Eishishok/Kovno/Vilna, NOT Rokiskis.
+**Implication**: Same etymological surname origin as Deykh but no direct connection established. Speculative.
+
+### Search: Lithuanian archival access for Rokiskis Jewish records
+**Query**: LVIA, Kaunas Regional Archives, FamilySearch microfilms
+**Source**: LitvakSIG, FamilySearch wiki
+**Results**: LVIA (Vilnius) holds Jewish vital records for all Lithuania up to 1940. Accepts email requests in English. Kaunas Regional Archives holds revision lists, family lists, tax records. FamilySearch has microfilmed many records. LitvakSIG VRT Project has translated 650,000+ of ~800,000 existing records.
+**Implication**: The 1877 Rokiskis marriage record is most likely at LVIA. Can be requested by email.
+
+### Actionable Research Steps (Prioritized)
+1. **HIGH**: Search LitvakSIG All Lithuania Database for "Deych"/"Deich"/"Daych" in Zarasai District (free, requires registration).
+2. **HIGH**: Contact Rokiskis SIG to search vital records index for 1877 Deych-Zalmanson marriage.
+3. **HIGH**: Email LVIA for full 1877 Rokiskis Jewish marriage record.
+4. **MEDIUM**: Search JewishGen Yizkor Book Master Name Index for Deych/Deich in Rokiskis.
+5. **MEDIUM**: Search Avotaynu Consolidated Surname Index for Deych variants.
+6. **MEDIUM**: Search Ancestry Collection 1416 (Lithuania Jewish Birth Records) and Collection 1448 (1897 Census). Subscription required.
+7. **LOW**: Search JewishGen JOWBR for Rokiskis Jewish cemetery Deych burials.
+
+---
+
 ## 2026-04-13: Youngblood Family Research and Willis Henrietta Youngblood Verification
 
 ### Search: Willis Henrietta Youngblood Census Records
