@@ -32,7 +32,7 @@ tags: [genealogy, king, person, south-carolina, greenville, oaklawn, dunklin, fa
 | Military Service | Confederate Army, 16th SC Infantry (Greenville Regiment), enlisted 1862, age 23 | Ancestry/Fold3 Confederate service index (Tier 2) |
 | Occupation | Farmer (general farm) | SC Death Certificate #7013 (Tier 1); 1880, 1920 Census (Tier 1) |
 | Father | [[George_Washington_King]] (b. ~1815, SC, farmer). "Washington King" on death certificate. | SC Death Certificate #7013 (Tier 1); 1850 Census (Tier 1) |
-| Mother | Elizabeth King, nee [partial: Shambler] (b. ~1825, SC) | 1850 Census (Tier 1); SC Death Certificate #7013 (Tier 1, partially legible) |
+| Mother | Lucinda Elizabeth Chamblee King (b. ~1825, SC). Went by "Elizabeth" in census records. Death cert reads "Shambler" which is likely a misread of "Chamblee." | 1850 Census (Tier 1); George Jr.'s Death Cert (Tier 1); Geni (Tier 3) |
 | Grandfather | [[James_King_Sr]] (b. ~1788, SC, farmer, $3,000 real estate) | 1850 Census, Anderson County (Tier 1) |
 | Grandmother | Mary King (b. ~1795, SC) | 1850 Census (Tier 1) |
 | Siblings (1850 Census) | Mary E (b. ~1842), Tabbitha (b. ~1844), Elizabeth (b. ~1847), James M (b. ~1848) | 1850 Census (Tier 1) |

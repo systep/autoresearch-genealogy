@@ -542,66 +542,70 @@ William Cox Sr. (c.1730) → William Cox Jr. (d.1798) → Thomas B. Cox (1792-18
 
 **Note on Stangle dates:** All dates on IMG_0789 are unreliable for final digits. The century-digit errors (1600s→1700s) are proven; additional digit confusion (3/5, 7/8) is probable. The corrected birth cluster (Frank ~1791, William ~1792, George ~Sept 1793, Joseph ~Jan 1795) gives 12-18 month spacing, which is biologically plausible for one mother.
 
-### King Family (South Carolina)
+### King Family (South Carolina, Irish origin)
 
-*Source: IMG_0792.jpg, IMG_0786.jpg, SC Death Certificate File No. 7013, 1850/1880/1920 Census, Confederate service index* **(strong)**
+*Source: Death certificates, 1850/1870/1880/1910/1920 Census, Confederate service index, Find a Grave, WikiTree, Geni, IMG_0792.jpg, IMG_0786.jpg* **(strong)**
 
-**[[James_King_Sr]] + Mary** (moderate)
-- James: b. ~1788, SC; farmer, $3,000 real estate
-- Mary: b. ~1795, SC
+**Lineage: Robert King II (Ireland, c. 1750) > James King Sr. (~1788) > George Washington King (1815) > Judson King (1841)**
+
+**[[Robert_King_II]] + Tabitha Dolby** (strong)
+- Robert: c. 1750, Ireland; d. Dec 13, 1826, Anderson County, SC
+- Tabitha Dolby: c. 1750, Ireland; d. May 14, 1815
+- Emigrated from Ireland 1770; settled near Belton, Anderson Co, SC ~1772
+- Revolutionary War veteran (Battle of Kings Mountain)
+- 23 children, 21 survived to adulthood
+- Buried: King Family Cemetery, Belton, SC (Find a Grave #48870135)
+- Source: WikiTree King-12061, Find a Grave, DAR records (Tier 2/3)
+
+**[[James_King_Sr]] + Mary Nancy Parker** (moderate)
+- James: b. ~1787-1788, SC; d. ~1867; farmer, $3,000 real estate
+- Mary Nancy Parker: b. March 8, 1787; d. June 8, 1853; parents John Parker + Betty Parker
+- Son of Robert King II and Tabitha Dolby
 - 1850 Census: Eastern Sub Division, Anderson County, SC (Family 398)
-- Daughter at home in 1850: Elizabeth A. (age 19)
-- Probable sons (separate households, same census page): Robert King (37, Baptist clergyman), [[George_Washington_King]] (35, farmer)
+- Children: [[George_Washington_King]] (b. 1815), Sarah (Sallie) Ann King Fant, John King, Elizabeth A. King Haynie (b. ~1831)
+- **Brother (NOT son)**: Rev. Robert King III (1791-1879), Baptist clergyman at Neals Creek Baptist Church (Find a Grave #41323851). Married Frances E. Holland. Census age of 37 in 1850 was an error; he was actually ~59.
 
-**Robert King** (moderate)
-- b. ~1813, SC; Baptist clergyman, $600 real estate
-- 1850 Census: Anderson County (Family 397). Wife: Frances. Household of 8.
-- Probable son of James King Sr.
-
-**[[George_Washington_King]] + Elizabeth [Shambler?]** (strong)
-- George W.: b. ~1815, SC; farmer; d. after 1880
-- Elizabeth: b. ~1825, SC; maiden name likely "Shambler" (per Judson's death certificate)
-- 1850: Anderson County (Family 401). 1870: SC (Family 323). 1880: Oaklawn Twp, Greenville County (T9, Sheet 121-A)
-- Son of James King Sr. Confirmed father of [[Judson_King]] (death certificate + 1850 census).
-- In 1880, George W. (64) and Elizabeth (55) live in Oaklawn Township, same township as son Judson.
+**[[George_Washington_King]] + Lucinda Elizabeth Chamblee** (strong)
+- George W.: b. Dec 22, 1815, Belton, Anderson Co, SC; d. Sept 6, 1887
+- Lucinda Elizabeth Chamblee: b. ~1825, SC; went by "Elizabeth" in census records
+- Son of James King Sr. Confirmed father of [[Judson_King]].
+- 1850: Anderson County. 1870: SC. 1880: Oaklawn Twp, Greenville County.
+- Buried: Washington Cemetery, Ware Place, Greenville County (Find a Grave #8737547)
 - At least 10 children over ~30 years:
+- Source: 1850/1870/1880 Census (Tier 1), death certificates for Judson + George Jr. (Tier 1), Find a Grave, Geni (Tier 2/3)
 
-**Older children of George W. + Elizabeth** (per 1850 Census):
-- **[[Judson_King]]** (b. ~1841) (see below)
+**Children of George W. + Lucinda Elizabeth Chamblee King:**
+- **[[Judson_King]]** (b. June 20, 1841; d. May 12, 1921)
 - **Mary E. King** (b. ~1842)
 - **Tabbitha King** (b. ~1844)
 - **Elizabeth King** (b. ~1847)
 - **James M. King** (b. ~1848)
-
-**Younger children of George W. + Elizabeth** (per 1880 Greenville Census):
-- **George W. King Jr.** (b. ~1858)
+- **George W. King Jr.** (b. March 1, 1858; d. April 29, 1936; m. Lou A. King; Death Cert #7632)
 - **Martha E. King** (b. ~1860)
 - **William E. King** (b. ~1863)
 - **Robert Lee King** (b. ~1866; named for Gen. Robert E. Lee)
 - **Fannie King**
-- Note: A DIFFERENT George W. King (age 65, Cooper) appears in 1880 in Flat Springs, Lexington County. Not the same person.
 
-**[[Judson_King]] + [[Charstee_King]]** (strong)
-- Judson: b. June 20, 1841, SC; d. May 12, 1921, Dunklin/Oaklawn Twp, Greenville County, SC (age 79 yrs, 11 mos)
-- Charstee: b. ~1843, SC; maiden name unknown
-- Married before 1880; lived in Oaklawn Township, Greenville County, SC
-- Judson: Farmer; Charstee: Keeping House
+**[[Judson_King]] + [[Charstee_King|Charstee A. Cooley]]** (strong)
+- Judson: b. June 20, 1841, SC; d. May 12, 1921, Greenville County, SC
+- Charstee A. Cooley: b. June 30, 1842; d. March 15, 1921 (predeceased Judson by 2 months)
+- Married before 1866; lived in Oaklawn Township, Greenville County, SC
 - Civil War: Judson enlisted 1862, Confederate Army, 16th SC Infantry (Greenville Regiment)
-- Buried: Fork Shoals area, Greenville County, SC
-- Death certificate: Father "Washington King" = likely [[George_Washington_King]]; Mother: maiden name [partial: Shambler]; both parents born SC
-- Informant on death certificate: H.H. King, Pelzer, SC (not among the 7 children in 1880 census; possibly a later child or grandchild)
-- Photograph exists showing Judson and Charstee King
-- Source: SC Death Certificate (Tier 1), 1850/1880/1920 Census (Tier 1), Confederate service index (Tier 2), photograph (Tier 3)
+- Both buried: Fork Shoals Baptist Church Cemetery, Pelzer, Greenville Co (Find a Grave #8422324)
+- Charstee's likely parents: John Joseph Cooley (1819-1896) + Emily Chapman (1823-1857), also buried at Fork Shoals
+- Source: Death Certificate (Tier 1), Census (Tier 1), Find a Grave (Tier 2), cemetery records
 
-**Children of Judson and Charstee King** (per 1880 Census, Oaklawn Twp):
+**Children of Judson and Charstee Cooley King** (census + cemetery records):
+- **Tabitha J. King** (April 5, 1866 - Oct 17, 1882; died age 16)
+- **Bunie Adair King** (March 9, 1868 - June 24, 1957)
 - **Dora S. King**
-- **Andrew L. King**
-- **Mary E. King** (name echoes Mary E in George W. King's 1850 household)
+- **Bessie C. King** (1871 - 1964)
+- **John W. King** (1873 - 1957)
+- **Andrew L. King** (May 11, 1878 - Aug 16, 1960; m. Emma Coker, 1883-1945)
+- **Mary E. King**
 - **James E. King**
 - **William C. King**
-- **Tabitha J. King** (name echoes Tabbitha in George W. King's 1850 household)
-- **John W. King**
-- Possibly additional children born after 1880 (parents were 39 and 37 in 1880)
+- **Charlie W. King** (1885 - 1885; died in infancy)
 
 **Kerben King + Jesse** (surname of Jesse unclear) (moderate)
 - Relationship to James King / George Washington King family unknown; both are Anderson/Greenville County King families. Could Kerben be another son of James King? See Open Questions.

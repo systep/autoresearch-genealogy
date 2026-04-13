@@ -27,7 +27,9 @@ tags: [genealogy, king, person, south-carolina, anderson, greenville, oaklawn, f
 | Occupation | Farmer | 1850 Census, 1880 Greenville Census (Tier 1) |
 | Father | [[James_King_Sr]] (b. ~1788, SC) | 1850 Census: same page (Tier 1, inference); 1880 Census: father born SC (Tier 1) |
 | Mother | Mary King (b. ~1795, SC) | 1850 Census: same page (Tier 1, inference); 1880 Census: mother born SC (Tier 1) |
-| Spouse | Elizabeth [Shambler?] King (b. ~1825, SC) | 1850, 1870, 1880 Census (Tier 1); maiden name from Judson's death certificate (Tier 1, partial) |
+| Spouse | **Lucinda Elizabeth Chamblee** King (b. ~1825, SC). Went by "Elizabeth" in census records. | 1850/1870/1880 Census as "Elizabeth" (Tier 1); George Jr.'s death cert as "Lucinda Chamblee" (Tier 1); Geni as "Loucinda Elizabeth Chamblee" (Tier 3) |
+| Death | September 6, 1887 | Find a Grave #8737547, Geni (Tier 3; needs verification) |
+| Burial | Washington Cemetery, Ware Place, Greenville County, SC | Find a Grave #8737547 (Tier 3) |
 
 ## Children
 
@@ -64,7 +66,12 @@ George W. and Elizabeth King had at least 10 children spanning ~30 years (~1841 
 
 George Washington King (b. ~1815, South Carolina) was a farmer who lived in the Anderson County and Greenville County areas of upstate South Carolina. He was the son of [[James_King_Sr]] (b. ~1788, farmer with $3,000 real estate) and Mary King (b. ~1795), and brother of Robert King (b. ~1813, Baptist clergyman).
 
-He married **Elizabeth [Shambler?] King** (b. ~1825, SC). The maiden name "Shambler" (reading uncertain) comes from the death certificate of their son [[Judson_King]], which lists the mother's maiden name. They had at least 10 children over a span of approximately 30 years, from Judson (~1841) through Robert Lee (~1866) and possibly later.
+He married **Lucinda Elizabeth Chamblee** (born SC). She went by her middle name "Elizabeth" in census records. Two independent death certificates reference her:
+- Judson King's death certificate (1921): mother's maiden name recorded as what appears to be "Shambler" but is almost certainly a misread of **"Chamblee"** ("Ch" misread as "Sh," "amblee" misread as "ambler").
+- George W. King Jr.'s death certificate (1936, File No. 7632): mother's maiden name clearly recorded as **"Lucinda Chamblee."**
+- Geni profile for George Washington King confirms wife as **"Loucinda Elizabeth Chamblee."**
+
+The Chamblee surname is documented in the Greenville/Anderson County area of South Carolina.
 
 **1850**: Family lived in the Eastern Sub Division of Anderson County, SC (Census Family 401). George W. was a farmer, age 35, with wife Elizabeth (25) and five children: Judson (9), Mary E (8), Tabbitha (6), Elizabeth (3), James M (2). His father James King (age 62, Family 398) and brother Robert King (age 37, clergyman, Family 397) lived nearby on the same census page.
 
@@ -93,11 +100,15 @@ George Washington King is [[Judson_King]]'s father. Supported by:
 | 1870 U.S. Census, SC (M593, Frame 00301, Sheet 41, Family 323, Image 301) | census | MyHeritage index (user-provided) |
 | 1880 U.S. Census, Oaklawn Twp, Greenville Co, SC (T9, Roll 1255210, Sheet 121-A, Image 541) | census | MyHeritage/Ancestry index (user-provided) |
 | SC Death Certificate File No. 7013 (for Judson King, names "Washington King" as father) | certificate | [[Judson_King_Death_Certificate]] |
+| SC Death Certificate File No. 7632 (for George W. King Jr., names mother as Lucinda Chamblee) | certificate | [[George_W_King_Jr_Death_Certificate]] |
 
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Elizabeth's age | 25 in 1850 (b. ~1825) | 28 in 1870 (b. ~1842) | The 1870 age "28" is almost certainly a misread of "48" (b. ~1822). The 1850 and 1880 ages (25 and 55) are perfectly consistent with b. ~1825. |
-| Mother's maiden name | [partial: Shambler] per Judson's death cert | Not recorded in any census | "Shambler" (or variant) is likely Elizabeth's maiden name. Needs Greenville/Anderson County marriage records to confirm. |
-| Two George W. Kings in 1880 | Oaklawn, Greenville Co (farmer, age 64) | Flat Springs, Lexington Co (Cooper, age 65) | Different individuals. Our George W. King is the Greenville County farmer. Wife's age (55 = b. ~1825) matches 1850 wife. Same township as son Judson. |
+| Wife's name | Elizabeth (1850, 1870, 1880 Census) | Lucinda Chamblee (George Jr.'s death cert) | George W. King married twice. Elizabeth [Shambler?] (b. ~1825) was the first wife (mother of Judson et al.). Lucinda Chamblee was the second wife (mother of George Jr. et al.). The "Elizabeth" in 1880 census may be an enumerator error or middle-name confusion. |
+| Elizabeth's age | 25 in 1850 (b. ~1825) | 28 in 1870 (b. ~1842) | If Elizabeth (first wife) died before 1857, the 1870 "Elizabeth, 28" may actually be Lucinda under the wrong name, or a misread age. |
+| Mother's maiden name (Judson) | [partial: Shambler] per Judson's death cert | | Refers to Elizabeth, the first wife. |
+| Mother's maiden name (George Jr.) | Lucinda Chamblee per George Jr.'s death cert | | Refers to the second wife. (File No. 7632, Tier 1) |
+| George Jr.'s birthplace | Greenville County (death cert) | Anderson County (1850 family location) | Family moved from Anderson to Greenville Co. between 1850 and 1858. |
+| Two George W. Kings in 1880 | Oaklawn, Greenville Co (farmer, age 64) | Flat Springs, Lexington Co (Cooper, age 65) | Different individuals. Our George W. King is the Greenville County farmer. |
