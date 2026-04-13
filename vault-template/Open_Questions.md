@@ -160,6 +160,27 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Solvability**: MODERATE (naming similarity is suggestive but not conclusive)
 - **Payoff**: HIGH (if confirmed, would extend the Salk line back to the 1700s in Lithuania)
 
+### 18. Willis Henrietta Youngblood: Was she among the first graduates of the Mississippi Industrial Institute and College?
+- **The question**: Family chart notes Willis as "1st Woman Graduate of U.S. [?]". The II&C (now Mississippi University for Women) opened 1885 in Columbus, MS (Willis's hometown) and graduated its first class of 10 women on June 10, 1889. Was Willis one of them?
+- **Researched (2026-04-13)**: The II&C was the first state-supported women's college in America. Willis was age 21-22 when classes began. Her death record lists occupation as "college school teacher." She married September 18, 1890, consistent with completing education in 1889. The 1889-90 and 1890-91 II&C catalogs exist in the Beulah Culbertson Archives at MUW and on Athena Commons.
+- **Next step**: (1) Search scanned II&C catalogs 1889-91 on athenacommons.muw.edu for Willis/Willie Youngblood. (2) If not online, contact MUW Archives directly for the list of 1889 graduates. (3) Check Lowndes County newspaper archives for June 10, 1889 commencement.
+- **Solvability**: HIGH (archives exist; catalogs may be digitized)
+- **Payoff**: HIGH (would confirm or refute a remarkable family distinction)
+
+### 19. James Youngblood (GEDCOM) identity: Which generation?
+- **The question**: GEDCOM lists "James Youngblood" (b. SC) as father of William Henry Youngblood (b. 1828, Bibb, AL). WikiTree Youngblood-746 (c. 1740-1792) cannot be William's father. Which James?
+- **Researched (2026-04-13)**: Edgefield-to-Alabama migration documented post-1814. James W. Youngblood married Louisa Clark in Lowndes County, MS, Sep 16, 1841.
+- **Next step**: Search 1830-1850 Bibb County AL and Lowndes County MS census for Youngblood households.
+- **Solvability**: MODERATE
+- **Payoff**: MODERATE
+
+### 20. Esther Lucy Kyle family origin
+- **The question**: Who were Esther Lucy Kyle's parents?
+- **Researched (2026-04-13)**: No records found online. Robert Kyle Youngblood's death cert lists "Lucy Kyle."
+- **Next step**: Search Kyle families in Bibb County AL and Lowndes County MS census 1820-1850.
+- **Solvability**: MODERATE
+- **Payoff**: MODERATE
+
 ## Data Acquisition Priorities
 
 | Priority | Record Type | Location | Expected Yield | Cost |
