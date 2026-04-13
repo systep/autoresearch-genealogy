@@ -544,21 +544,32 @@ William Cox Sr. (c.1730) → William Cox Jr. (d.1798) → Thomas B. Cox (1792-18
 
 ### King Family (South Carolina)
 
-*Source: IMG_0792.jpg, IMG_0786.jpg, SC Death Certificate File No. 7013* **(moderate)**
+*Source: IMG_0792.jpg, IMG_0786.jpg, SC Death Certificate File No. 7013, 1880 Census, 1920 Census, Confederate service index* **(strong)**
 
-**Washington King + [partial: Shambler]** (maiden name partially legible) (stub)
-- Known only from son Judson's death certificate. See [[Washington_King]].
+**[[Washington_King]] + [partial: Shambler]** (maiden name partially legible) (stub)
+- Both born in SC (per 1920 Census of son Judson, Tier 1). Known only from son Judson's death certificate and census records. See [[Washington_King]].
 
-**[[Judson_King]]** (moderate)
-- b. June 20, 1841, Greenville, SC
-- d. May 12, 1921, Dunklin Township, Greenville County, SC (age 79 yrs, 11 mos)
-- Occupation: Farmer
-- Cause of death: Chronic Nephritis
+**[[Judson_King]] + [[Charstee_King]]** (strong)
+- Judson: b. June 20, 1841, Greenville, SC; d. May 12, 1921, Dunklin/Oaklawn Twp, Greenville County, SC (age 79 yrs, 11 mos)
+- Charstee: b. ~1843, SC; maiden name unknown
+- Married before 1880; lived in Oaklawn Township, Greenville County, SC
+- Judson: Farmer; Charstee: Keeping House
+- Civil War: Judson enlisted 1862, Confederate Army, 16th SC Infantry (Greenville Regiment)
 - Buried: Fork Shoals area, Greenville County, SC
-- Father: Washington King; Mother: maiden name [partial: Shambler]
-- Informant on death certificate: H.H. King, Pelzer, SC (probable son)
-- Photograph exists showing Judson with an unidentified woman (presumably wife)
-- Source: SC Death Certificate File No. 7013 (Tier 1), user-provided photograph (Tier 3)
+- Father: Washington King; Mother: maiden name [partial: Shambler]; both parents born SC
+- Informant on death certificate: H.H. King, Pelzer, SC (not among the 7 children in 1880 census; possibly a later child or grandchild)
+- Photograph exists showing Judson and Charstee King
+- Source: SC Death Certificate (Tier 1), 1880 Census (Tier 1), 1920 Census (Tier 1), Confederate service index (Tier 2), photograph (Tier 3)
+
+**Children of Judson and Charstee King** (per 1880 Census, Oaklawn Twp):
+- **Dora S. King**
+- **Andrew L. King**
+- **Mary E. King**
+- **James E. King**
+- **William C. King**
+- **Tabitha J. King**
+- **John W. King**
+- Possibly additional children born after 1880 (parents were 39 and 37 in 1880)
 
 **Kerben King + Jesse** (surname of Jesse unclear) (moderate)
 - Relationship to Washington King / Judson King unknown; both Greenville County King families. See Open Questions.

@@ -26,19 +26,26 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Solvability**: MODERATE
 - **Payoff**: MODERATE (would connect two branches of the King family)
 
-### 15. Judson King's wife
-- **The question**: A photograph shows Judson King with an unidentified woman, presumably his wife. The death certificate (SC File No. 7013) does not record her name, and the marital status field is illegible. Who was she?
-- **Research done (2026-04-13)**: Death certificate processed. No wife's name found.
-- **Next step**: (1) Search census records 1860-1920 for Judson King in Greenville County, SC; wife should appear in household. (2) Search Greenville County marriage records for Judson King. (3) Search Find a Grave for Fork Shoals area cemeteries for King burials.
-- **Solvability**: HIGH (census records should name her)
-- **Payoff**: MODERATE
+### 15. Judson King's wife: maiden name
+- **PARTIALLY RESOLVED (2026-04-13)**: Wife identified as **Charstee King** (b. ~1843, SC) from 1880 and 1920 Census records (Tier 1). "Charstee" is an unusual name, possibly a variant of "Charity." Her maiden name remains unknown.
+- **Remaining question**: What was Charstee's maiden name and parentage?
+- **Next step**: (1) Search Greenville County marriage records for Judson King. (2) Search 1860 census for Charstee in her parents' household (she would be ~17). (3) Search Find a Grave for Fork Shoals / Oaklawn area.
+- **Solvability**: MODERATE (marriage record would resolve it)
+- **Payoff**: MODERATE (opens a new family line)
 
-### 16. Judson King Civil War service
-- **The question**: Judson King was born 1841, making him 20 at the start of the Civil War. Did he serve? If so, in which unit?
-- **Research done (2026-04-13)**: None yet.
-- **Next step**: (1) Search SC Confederate service records for "Judson King" in Greenville County. (2) Check Fold3 for Confederate pension applications. (3) Search FamilySearch military index.
-- **Solvability**: MODERATE (many SC Confederate records survived)
-- **Payoff**: LOW (biographical detail, unlikely to extend the tree)
+### 16. Judson King Civil War service: unit details
+- **RESOLVED (2026-04-13)**: Judson King served in the **Confederate Army, 16th South Carolina Infantry (Greenville Regiment)**, enlisted 1862, age 23 (Ancestry/Fold3 index, Tier 2). The "Greenville Regiment" is the expected unit for a Greenville County man.
+- **Remaining question**: What company, rank, and specific service did he have? Was he wounded, captured, or paroled?
+- **Next step**: Obtain full compiled service record from National Archives (NARA). Check Fold3 for SC Confederate pension applications.
+- **Solvability**: HIGH (NARA records accessible via Fold3)
+- **Payoff**: LOW (biographical detail)
+
+### 17. H.H. King identity (death certificate informant)
+- **The question**: H.H. King of Pelzer, SC served as informant on Judson King's 1921 death certificate. None of the 7 children listed in the 1880 census (Dora S., Andrew L., Mary E., James E., William C., Tabitha J., John W.) have initials H.H. Who was this person?
+- **Research done (2026-04-13)**: 1880 census lists 7 children, none with H.H. initials. Parents were 39 and 37 in 1880, so additional children could have been born after 1880.
+- **Next step**: (1) Search 1900 and 1910 censuses for Judson King household. (2) Search Pelzer, SC city directories or census for H.H. King.
+- **Solvability**: HIGH (1900/1910 census should resolve)
+- **Payoff**: LOW (identifying a family member)
 
 ### 13. Elizabeth Brasher's parentage: Thomas Levi Brasher Jr.'s will names no daughters
 - **The question**: Elizabeth Brasher (~1764/1765) is attributed as a daughter of Thomas Levi Brasher Jr. by all Tier 3 sources. However, Thomas Levi's 1789 will (SC Will Book Vol A-B 1787-1820, p. 28) names five sons (Thomas, Aquilla, Henry, John, Samuel) and **no daughters**. Elizabeth was already married to Ezekiel Henderson since 1782. Was she excluded because already married, or was she not his daughter?

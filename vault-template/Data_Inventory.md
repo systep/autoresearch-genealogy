@@ -22,6 +22,9 @@ Complete inventory of all ancestry-related data assets. Each tagged with source,
 | Document | Family | Location |
 |---|---|---|
 | SC Death Certificate File No. 7013 (Judson King, d. 1921) | King | [[Judson_King_Death_Certificate]] |
+| 1880 U.S. Census, Oaklawn Twp, Greenville Co, SC (Judson + Charstee King, 7 children) | King | [[Judson_King]], [[Charstee_King]] |
+| 1920 U.S. Census, Oaklawn Twp, Greenville Co, SC (T625, Sheet 3-B, Family 51) | King | [[Judson_King]], [[Charstee_King]] |
+| Confederate Service Record index: Judson King, 16th SC Infantry (Greenville Regt), 1862 | King | [[Judson_King]] |
 
 ### Moderate Reliability (newspaper, secondary sources)
 

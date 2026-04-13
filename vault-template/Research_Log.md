@@ -1232,3 +1232,73 @@ Processed user-provided death certificate (SC File No. 7013) and photograph for 
 4. Determine relationship between Washington King and Kerben King (both Greenville County).
 5. Identify H.H. King of Pelzer, SC (death certificate informant, probable son).
 6. Verify mother's maiden name reading ("Shambler" or variant) via marriage records for Washington King.
+
+## 2026-04-13: King Family of Suffield, Connecticut (King.pdf) Review
+
+### Session Summary
+Reviewed user-provided 742-page published genealogy: "The King Family of Suffield, Connecticut: Its English Ancestry A.D. 1389-1662 and American Descendants A.D. 1662-1908" by Cameron Haight King (San Francisco, California). This is a Tier 2 published genealogy covering the descendants of James King (baptized Nov 7, 1647, Ugborough, Devon, England) through his settlement in Suffield, Connecticut in 1662.
+
+### Search Method
+Full-text search of all 742 pages for: Judson, Washington King, Greenville, South Carolina, Kerben, Corbin, Shambler, Dunklin, Fork Shoals, Pelzer, William I. King, Marcia, Kopp, Huff, Carolina, and broader terms (farmer, migration, southern).
+
+### Negative Results (IMPORTANT)
+1. **No connection to Greenville County, SC King family.** The book covers Connecticut, New York, Ohio, Iowa, California branches only. No branch migrated to South Carolina.
+2. **Different Judson King found**: The book documents a Judson King (b. Feb 22, 1837, North Sanford, N.Y.; m. 1859 Betsey Ann Groat; no issue), son of Eli King, from the Connecticut line. This is NOT our Judson King (b. June 20, 1841, Greenville, SC). Different birth dates, different locations, different parentage.
+3. **"Washington King" not found** as a person name in the book. The "Washington-Lewis-Steele-King" appendix (p. 586/PDF p. 670) documents a King who married into the George Washington family, not a person named Washington King.
+4. **No mention of Kerben, Corbin, Shambler, or any Greenville County SC individuals.**
+
+### Implication
+The Greenville County, SC King family (Washington King, Judson King, Kerben King, William I. King) is **not** part of the Suffield, Connecticut King line documented in this book. "King" is a very common English surname with multiple unrelated families in colonial America. The SC Kings likely have a separate origin, possibly among the many King families who settled the Carolina backcountry in the 1700s-1800s.
+
+### Files Updated
+- Research_Log.md (this entry)
+- Data_Inventory.md (King.pdf added as reference)
+
+## 2026-04-13: Judson King Census Records and Confederate Service Record
+
+### Session Summary
+Processed user-provided screenshots from Ancestry.com: 1880 Census (Oaklawn Twp, Greenville Co, SC), 1920 Census (Oaklawn Twp, Greenville Co, SC, Series T625, Sheet 3-B, Family 51), and Confederate military service index (Ancestry/Fold3). These are three new sources for Judson King, upgrading his confidence to Strong.
+
+### Key Positive Results
+
+1. **Judson King's wife identified**: **Charstee King** (b. ~1843, SC). Appears as wife in both 1880 and 1920 censuses. "Charstee" is an unusual name, possibly a variant of "Charity." Maiden name still unknown. (1880 Census, 1920 Census, both Tier 1)
+
+2. **Seven children identified (1880 Census, Tier 1)**:
+   - Dora S. King
+   - Andrew L. King
+   - Mary E. King
+   - James E. King
+   - William C. King
+   - Tabitha J. King
+   - John W. King
+
+3. **1920 Census (Tier 1)**: Judson (78) and Charstee (77) living alone in Oaklawn Township, Greenville County, SC. Both literate. Judson still farming. All children had left the household. Both parents born in SC (confirms death certificate's partially legible mother's birthplace as SC).
+
+4. **Confederate military service confirmed (Tier 2)**: Judson King enlisted 1862, age 23, Confederate Army, **16th South Carolina Infantry (Greenville Regiment)**. The "Greenville Regiment" is exactly the expected unit for a Greenville County man.
+
+5. **Birth year discrepancy noted**: Death certificate says b. June 20, 1841. Military record says age 23 in 1862, implying b. ~1839. This ~2 year gap is common with self-reported military ages. Death certificate date preferred (Tier 1 vs. Tier 2).
+
+6. **H.H. King mystery remains**: None of the 7 children in 1880 have initials "H.H." The informant was likely a child born after 1880 or a grandchild.
+
+### Negative Results
+- Charstee's maiden name not found in either census (censuses don't record maiden names).
+- No 1900 or 1910 census data yet (would reveal additional children and potentially H.H. King).
+- Marriage date and place still unknown.
+
+### Files Created
+- Charstee_King.md (person file, moderate confidence)
+
+### Files Updated
+- Judson_King.md (upgraded to Strong; wife, children, military service added)
+- Family_Tree.md (King family section fully expanded)
+- Timeline.md (Charstee birth, 1862 enlistment added)
+- Research_Log.md (this entry)
+- Open_Questions.md (#15 resolved, #16 resolved, H.H. King updated)
+- Data_Inventory.md (census records and military record added)
+
+### Next Steps
+1. Search 1900 and 1910 censuses for Judson King in Greenville County to identify children born after 1880 and potentially H.H. King.
+2. Search Find a Grave for Fork Shoals / Oaklawn area cemeteries for Judson and Charstee King.
+3. Search Greenville County marriage records for Judson King to find Charstee's maiden name.
+4. Obtain full compiled Confederate service record from NARA for company, rank, battles, and discharge details.
+5. Search 1850/1860 census for Washington King and/or Kerben/Corbin King in Greenville County to establish their relationship.
