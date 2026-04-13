@@ -814,3 +814,62 @@ Verlustlisten: Familia Austria (2.7M records), RadixIndex, DES Genealogy.net, Ge
 Galicia: KehilaLinks Markel family page (Drohobycz) documents Sara Hinde Markel m. Shamay Bartel 1877, Lutowiska near Sambor. Aaron Bartel's family deported to Sambor ghetto 1942, sent to Belzec Nov 1942. Separate Troskunai (Lithuania) Markel family also found.
 Dubossary: 490-family USHMM victim list, 631-entry Yizkor necrology, Bessarabia vital records all available but require manual search for "Frei."
 Lincoln Park Cemetery: No Abraham Salk memorial found online. Cemetery office: 401-737-5333.
+
+## 2026-04-13: Full Kascher Family Album Processing (01-029.pdf)
+
+### Session Summary
+Complete page-by-page extraction of all 29 pages of the Kascher Family Album. Documents fall into three categories:
+1. **Typed certificates** (03-05.pdf): KINDER, MUTTER, VATER summaries signed by Pastor A. Bogeschdorfer, Waldhütten, Feb/Apr 1938
+2. **Official church register entries** (07-022.pdf): Sealed/stamped extracts from Waldhütten, Kreisch, and Petersdorf Kirchenbücher, certified 25 June 1939 by Brandsch, Kirchenbuchführer
+3. **Fan charts** (06.pdf, 029.pdf): Handwritten Ahnentafel charts mapping both paternal (Kascher) and maternal (Falk) ancestry
+
+### Key Findings (all Tier 1 unless noted)
+
+**Michael Kascher Sr. birth date CORRECTED**: Born **30 March 1864** (not Feb 11 as GEDCOM stated). Feb 11 is actually his SON Michael Jr.'s birthday (1889). Father-son name confusion.
+
+**Marriage date CORRECTED**: Michael Sr. + Anna Binder married **29 January 1888** (not ~1900 as GEDCOM stated). First child born Feb 1889, 13 months after marriage.
+
+**All 10 children documented with exact dates** (KINDER certificate):
+1. Michael (11 Feb 1889), 2. Stillborn girl (23 Nov 1893), 3. Georg (28 May 1895), 4. Friedrich (15 Apr 1897, d. 7 Feb 1903), 5. Johann (28 Oct 1900), 6. Anna (17 May 1903), 7. Rosina (4 July 1905 per cert; 1896 per fan chart), 8. Friedrich II (10 Dec 1907), 9. Sara (1 May 1910), 10. Martin (17 Apr 1912, d. 18 Jan 1913)
+
+**Rosina Falk birth year RESOLVED**: Born **1896** (NOT 1905). Fan chart (06.pdf) and Family Album typed page (02.pdf) both say 1896. KINDER certificate says "4 July 1905" but this creates impossible 7-year-old marriage. Digit ambiguity in church certificate (1896→1905).
+
+**Anna Binder ancestry (MUTTER certificate)**: Complete maternal line through Kreisch church registers:
+- Anna Binder (b. 1 Apr 1868, Kreisch) daughter of Martin Binder (b. 3 May 1831, Organist) + Anna Weber
+- Martin's parents: Johann Binder (eigentlich Krauss) + Esthera Theil (Malmkrog, m. 15 Jan 1817)
+- Anna Weber's parents: Christian Weber (Organist, Kreisch) + Sara (geb. Valentin Mansch, Meschen)
+- Johann Binder's father: Georg Krauss (Alias Binder), bapt. 14 Feb 1794, son of Johannes, mother unknown
+
+**Kascher paternal ancestry (VATER certificate)**: Complete line through Waldhütten registers:
+- Michael Kascher I (b. 20 Sept 1834, Wurmloch; d. 28 June 1880, pneumonia)
+- Sara Schuller (b. 27 Jan 1829; d. 22 May 1876, uterine cancer). Widowed Stephann Benning.
+- Georg Kascher (b. March 1792, Wurmloch) + Maria Wagner (Wurmloch)
+- Johann Schuller (b. Sept 1797; d. 10 March 1858, liver disease) + Sara Benning (b. Dec 1800; d. 17 Oct 1855, TB)
+- Leonhard Schuller (b. circa 1770, Waldhütten) = earliest documented Schuller, data missing
+
+**Petersdorf Falk/Pfaff cluster (church register entries)**:
+- Mathias Falk: born 1867, Petersdorf. Confirmed by Entry #6.
+- Katharina Pfaff: born **8 October 1871**, Petersdorf. Father: **Michael Pfaff** + mother geb. **Dressler**
+- Mathias Falk (grandfather): born 1837, Petersdorf. Father also Mathias + mother Konnerth
+- Agnetha Probstdorfer: born **12 February 1847**, Petersdorf. Confirmed by Entry #13.
+- Katherina Dressler: born **1844**, Petersdorf. Parents: **Johann Dressler** + mother geb. **Sommer**
+- Deeper generations: Brosert, Konnerth, Sommer families all from Petersdorf, extending to late 1700s
+
+**Discrepancy: Michael vs Mathias Pfaff**: Church register Entry #7 reads "Michael Pfaff" as Katharina's father. GEDCOM says "Mathias Pfaff (1836-1899)." Could be same person (Michael/Mathias confusion common) or different.
+
+### Person Files Updated
+- Michael_Kascher_Sr_1864.md: upgraded to Strong, all dates corrected from church cert
+- Anna_Binder.md: upgraded to Strong, full ancestry from MUTTER cert
+- Johann_Schuller.md: upgraded to Strong, death date + cause
+- Sara_Benning.md: upgraded to Strong, death date + cause
+- Sara_Schuller.md: upgraded to Strong, widowed status confirmed
+- Georg_Kascher.md: confirmed by VATER cert
+- Rosina_Falk.md: birth year corrected to 1896
+- Katharina_Pfaff.md: upgraded to Strong, exact birth date + place
+- Mathias_Falk.md: upgraded to Strong, confirmed by Entry #6
+- Katherina_Dressler.md: upgraded to Strong, birthplace Petersdorf confirmed
+
+### Negative Results
+- No data found predating Georg Kascher (b. 1792, Wurmloch) or Leonhard Schuller (b. ~1770, Waldhütten) in the album
+- Georg Krauss (Alias Binder, bapt. 1794): mother listed as "unknown" in church register
+- Fan chart outer rings (positions 32-63) mostly empty, indicating brick walls at the great-great-grandparent level for most lines
