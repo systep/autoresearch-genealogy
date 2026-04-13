@@ -784,3 +784,18 @@ Edmund Cowgill Sr.'s parents: John Cowgill "of Lothersdale" (bapt. Sep 27, 1572,
 
 ### Settle Monthly Meeting: Records Survive 1666+
 University of Leeds Special Collections holds: Monthly Meeting minutes (1666-1971), Women's Meeting minutes (1701-1845), Ministers & Elders minutes (1699-1814). Digest Registers for Yorkshire Quaker births/marriages/burials from 17th century on open access.
+
+### Baldwin Line FULLY CONNECTED: Oxfordshire 1682 → Greenville SC
+John Baldwin Sr. (~1657, Oxfordshire) → John Baldwin Jr. (1697, Chester PA) + Hannah Johnson → John Baldwin (c.1730, Chester PA → Chatham NC) + Alice Frances LINDLEY → Eli Baldwin (c.1775, Chatham NC → Greenville SC) → Gilley Elizabeth Baldwin → Sarah Elizabeth Clark. Quaker chain confirmed through Chester Meeting Records (Tier 1) and Chatham Historical Journal (Tier 2). Alice Frances confirmed as Lindley surname (prominent Chester County PA Quaker family). Missing generation: the Oxfordshire immigrant (c.1657) needs person file.
+
+### Eleanor Sands / John Stangle: CONFIRMED IMPOSSIBLE
+Eleanor Sands (b. Oct 5 1692, d. 1744) married John Hough III, NOT John Stangle. She died the same year Stangle was born (1744). GEDCOM merge error confirmed. Stephen Sands' 1731 will names "my daughter Elinor Hough." John Stangle's wife was either a different Eleanor Sands or a different name entirely.
+
+### Kerben King = likely "Corbin King" (handwriting misread)
+"Corbin" is a documented Anglo-Norman name. C/K and o/e confusion common in 19th century cursive. Peter Corbin documented in adjacent Pickens County SC. Requires census search.
+
+### Salk: Troskunai Zalk family found on JewishGen but went to DULUTH not Providence
+Louis (Elizar) Salk's specific Lithuanian shtetl still unidentified. "Leyzer Zalk" patriarch name matches Louis's alternate name "Elizar."
+
+### George Bright Sr. (1782-1873) person file created
+WikiTree Bright-298. Missing link between David Bright (1740) and Samuel Graham Bright (1825). Filed as George_Bright_Sr.md.
