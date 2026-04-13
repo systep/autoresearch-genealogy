@@ -808,3 +808,9 @@ kehilalinks.jewishgen.org/Drohobycz/families/markel.html documents a Markel fami
 
 ### Dubossary (Toba Rifka's origin): 4,500 Jews murdered Sept 1941
 Community well-documented. 5,220 Jews in 1897. JewishGen Holocaust Database lists 490 families killed. Yizkor book published 1965. Cemetery records (235 burials). Bessarabia revision lists 1824-1875. No "Frei" found in open web results but databases require manual search.
+
+### Database Searches (Manual Access Required)
+Verlustlisten: Familia Austria (2.7M records), RadixIndex, DES Genealogy.net, GenTeam.eu, digi.landesbibliothek.at all identified. Verlustliste Nr. 354 (1916) potentially relevant. All blocked automated access.
+Galicia: KehilaLinks Markel family page (Drohobycz) documents Sara Hinde Markel m. Shamay Bartel 1877, Lutowiska near Sambor. Aaron Bartel's family deported to Sambor ghetto 1942, sent to Belzec Nov 1942. Separate Troskunai (Lithuania) Markel family also found.
+Dubossary: 490-family USHMM victim list, 631-entry Yizkor necrology, Bessarabia vital records all available but require manual search for "Frei."
+Lincoln Park Cemetery: No Abraham Salk memorial found online. Cemetery office: 401-737-5333.
