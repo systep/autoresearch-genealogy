@@ -39,6 +39,13 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Solvability**: LOW to MODERATE
 - **Payoff**: MODERATE (affects identification of Elizabeth's mother)
 
+### 15. Zawel Deykh: identity, dates, spouse, parents, and Rokiskis Deych family
+- **The question**: Zawel Deykh (Zavel Deych/Deich) is the father of Rochel Tsine Deych (b. 1861) and the maternal grandfather of Barnett Salmanson. Nothing is known beyond his name and his role as Rochel Tsine's father. Who was his wife? When and where was he born and died? Who were his parents? Did the Deych family remain in Rokiskis into the 20th century?
+- **Searched (2026-04-13)**: Web searches for "Zawel Deykh"/"Sawel Deich" (negative); surname etymology confirmed (Deych = variant of Deutsch); Rokiskis community resources identified (Rokiskis SIG, LitvakSIG ALD, LVIA, Yizkor book); Daiches rabbinic family researched (no connection proven); Rokiskis vital records abstracts 1876-1894 identified as key source.
+- **Best leads**: (1) Search LitvakSIG All Lithuania Database for Deych/Deich/Daych in Zarasai District. (2) Contact Rokiskis SIG for vital records index search for 1877 marriage. (3) Request full 1877 marriage record from LVIA (would name Zawel with occupation, age, residence). (4) Search JewishGen Yizkor Book Master Name Index for Deych in Rokiskis memorial book. (5) Search Rokiskis 1897 census and 1908 Family List (owned by Rokiskis SIG).
+- **Solvability**: HIGH (the 1877 marriage record should exist and would contain father-of-the-bride information)
+- **Payoff**: HIGH (would extend the Deych line by at least one generation and provide biographical data for Zawel)
+
 ## Medium Priority
 
 ### 4. Barnett's birth year discrepancy
