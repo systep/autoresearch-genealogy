@@ -9,6 +9,96 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-13: Salk Family Research, Providence Rhode Island
+
+### Summary
+Conducted comprehensive web research on the Salk family of Providence, RI to extend Elizabeth (Salk) Salmanson's branch. Ran 30+ web searches covering Find a Grave, obituaries, census context, surname etymology, Lincoln Park Cemetery, Jonas Salk connection, other Providence Salk families, and Adams Drug Company history.
+
+### Key Positive Results
+1. **Surname etymology confirmed**: Salk = altered form of Zalk, Lithuanian Jewish, from Yiddish Zalkind (kinui for Shlomo/Solomon). Sources: Ancestry.com, Geneanet, JewishGen.
+2. **Troskunai Zalk family identified**: JewishGen KehilaLinks documents a Zalk family from Troskunai (Trashkun), Lithuania. Earliest member Leyzer Zalk; grandson Samuel Zalk (b. ~1830) emigrated to Duluth, MN. Possible connection to Louis (Elizar/Lazar) Salk (b. ~1840 Lithuania): "Leyzer" and "Elizar/Lazar" are both forms of Eleazar.
+3. **Hyman Salk hardware family mapped**: Hyman Salk (immigrant) founded tailor shop in Providence 1900. Sons Sam and Lewis. Sam's son Harold (3rd gen, d. 2024); Harold's son Jeffrey (4th gen). Lewis's son Norton (1927-2007, architect). Business now spans 5 generations with multiple RI/MA locations.
+4. **Elizabeth (Salk) maiden name confirmed**: Verified by 4 independent Tier 2 obituary sources (Martha Corin, Donald Salmanson, Samuel Salmanson, Charles Salmanson).
+5. **Tobey Oresman naming pattern**: Samuel Salmanson's daughter Tobey likely named for grandmother Tauba/Toby (Ashkenazi tradition).
+6. **Adams Drug Company**: Founded 1932 by Barnett and sons; grew to 500+ stores, sold 1984 for $100M; became Brooks Pharmacy then Rite Aid.
+7. **Jonas Salk**: No direct connection. His parents (Daniel + Dora Press) were NYC based Ashkenazi Jewish from Russian Empire.
+
+### Key Negative Results
+- No Find a Grave memorial for Abraham Salk found
+- No obituary for Abraham Salk (d. 1925) found online
+- "Abraham Zolly Salk" or "Abraham Zolly" returns zero results; name exists only in GEDCOM
+- No records found for Anna Salk Zipperman or Mary/Marry Salk Lyons
+- No direct documentary link between Abraham Salk and Hyman Salk families
+- No 1910/1920 Census data accessible without Ancestry subscription
+- Tauba Salk's maiden surname remains unknown
+
+### Files Updated
+Abraham_Zolly_Salk.md, Elizabeth_Salk.md, Louis_Elizar_Salk.md, Family_Tree.md, Timeline.md, Open_Questions.md (#13-17 added), Research_Log.md
+
+---
+
+## 2026-04-13: Clark Family of Greenville County, SC (Deep Research)
+
+### Search: "James Hiriam Clark" OR "James Hiram Clark" Greenville County South Carolina
+**Query**: Web search for James Hiriam Clark in Greenville County, SC
+**Source**: Web search, Ancestry.com record page
+**Results**: Found Ancestry.com user-contributed tree record (james-hiriam-clark-24-7cqh41) confirming: born Virginia c.1770, married Mary Neale, 1 child, died after 1835 in Simpsonville, Greenville, SC. No primary sources found. No census records, deeds, or church records located.
+**Implication**: James Hiriam Clark remains thinly documented. Only Tier 3 sources exist. Census searches for 1800-1830 Greenville District should be conducted.
+
+### Search: "Jeddiah Clark" / "Jedidiah Clark" South Carolina WikiTree Find a Grave
+**Query**: Multiple web searches with name variants
+**Source**: Web search, rootsweb sc12164
+**Results**: WikiTree has no direct profile for Jeddiah Clark. Rootsweb sc12164 page lists Jeddiah W. Clark (b. 5 Mar 1801; d. 29 Jan 1860) married Gilla "Gilly" Baldwin (b. 9 Aug 1805; d. 25 May 1886). Children: Eli Berry (b. 1825), Perry F. (b. 1831), Jane, and Sarah Elizabeth. No Find a Grave memorial found for Jeddiah.
+**Implication**: Rootsweb provides the most detailed children list found so far. Death date differs slightly from GEDCOM (29 Jan vs 27 Jan 1860). Four children now identified.
+
+### Search: Eli Baldwin, Chatham County NC to Greenville County SC
+**Query**: Multiple searches for Eli Baldwin WikiTree, Geni, land records
+**Source**: WikiTree Baldwin-2330, Geni 6000000105789453937, Greenville County Deed Book I p.218, Chatham County Deed Book L pp.239-240
+**Results**: **SIGNIFICANT FINDINGS.** Eli Baldwin (c.1775, Chatham NC; d. 18 Jan 1840, Greenville SC). Son of John Baldwin Sr. (c.1730, Chester PA; d. c.1811, Chatham NC) and Alice Francis Lindley (1736-1781, Quaker). Eli received land from father in Chatham Co. (Aug 1801), deeded land to brother William (Nov 1802), appeared in 1810 Greenville SC census, purchased 250 acres from John Croft in 1812 (Deed Book I, p.218). Married Elizabeth (unknown surname) per WikiTree, or Edaline L. Transon per GEDCOM. Children: Gilley Elizabeth Baldwin and Sylvanus Julius Baldwin.
+**Implication**: Baldwin line extended back two generations with Tier 1 land records as corroboration. Quaker connection through Alice Lindley/James Lindley established. Mother's name discrepancy (Elizabeth vs. Edaline Transon) requires resolution.
+
+### Search: John Baldwin Sr. and Alice Lindley
+**Query**: WikiTree Baldwin-2336, Geni, FamilySearch
+**Source**: WikiTree, Geni, Chatham Historical Journal (March 1994)
+**Results**: John Baldwin Sr. (c.1730, Chester, PA; d. c.1811, Chatham, NC) married Alice Francis "Alsey" Lindley (1736-1781). Seven known children: Rachel (married Thompson, TN), Samuel (Baldwin's Mill), John James (moved to SC), Nancy (married Reeves, SC), Eli (SC), John Jr., William. Alice was daughter of James Lindley, Quaker from Chester County PA. Some genealogists question whether "Alsey Lindley" existed as documented.
+**Implication**: Baldwin line now extends to Chester County, Pennsylvania with Quaker roots. Multiple Baldwin siblings migrated to SC.
+
+### Search: Eli Berry Clark (1825-1895), son of Jeddiah Clark
+**Query**: Multiple searches for Eli Berry Clark, Greenville SC
+**Source**: WikiTree Henderson-12233 (indirect), MyHeritage, Cox Family History Project
+**Results**: Eli Berry Clark (b. 31 Jul 1825; d. 26 Nov 1895). Married Eliza Jane Cox. Daughter Martha Ann "Mattie" Clark married Winfield Jasper Henderson (b. 9 Jul 1847; d. 10 Jan 1918) on 15 Dec 1868 in Greenville County. Buried at Sonpoint Baptist Fellowship Church Cemetery (formerly Bethuel Baptist Church), Greenville, SC. No Find a Grave memorial found.
+**Implication**: New person file created. Eli Berry Clark's marriage to Eliza Jane Cox demonstrates Clark-Cox intermarriage pattern.
+
+### Search: Eli Baldwin wife discrepancy (Elizabeth vs. Edaline Transon)
+**Query**: Searches for "Edaline Transon" / "Adaline Transon" / "Edaline Transou" in NC
+**Source**: Web search
+**Results**: **NEGATIVE.** No results for "Edaline Transon" in Chatham County, NC. Found Rufus Transon in Wilkes County, NC (NC Digital Collections). No other Transon/Transou references in Chatham County.
+**Implication**: The name "Edaline L. Transon" from the GEDCOM is very unusual and unverifiable. WikiTree says wife was "Elizabeth (unknown)" married in Forsyth, NC. This discrepancy remains open.
+
+### Search: Molly Mary Clark Henderson connection
+**Query**: Searches for Molly Mary Clark, Henderson, Chatham County NC
+**Source**: WikiTree Henderson-7309, Geni, Find a Grave 11725276
+**Results**: Molly Mary Clark (1722-1804) married Argaleus Hercules Henderson I (c.1720-1806) c.1740 in NC. Their children: Isaac, Nancy, Elizabeth, Ezekiel, John, Lewis, Hezekiah, Abner, James, Frances. Ezekiel Henderson married Elizabeth Brasher and their descendants intermarried with Cox and Clark families in Greenville County SC.
+**Implication**: The Clark-Henderson connection through Molly Mary Clark (1722) predates James Hiriam Clark (c.1770) by two generations. She may be a relative of James Hiriam's. The Clark and Henderson families had intermarriage ties in both NC and SC. This is speculative and requires investigation.
+
+### Search: Standing Springs Cemetery Clark burials
+**Query**: Find a Grave, cemetery records, Clark family burials
+**Source**: Find a Grave 8304975, BillionGraves
+**Results**: Only Sarah Elizabeth "Lizzie" Clark Cox (1836-1879) confirmed at Standing Springs Cemetery. No other Clark burials found at Standing Springs. Eli Berry Clark is at Sonpoint/Bethuel Baptist Cemetery instead.
+**Implication**: Clark family may have been divided between Standing Springs and Bethuel Baptist church communities.
+
+### Search: Clark-Cox marriage record
+**Query**: Thomas Manning Cox + Sarah Elizabeth Clark marriage Greenville SC
+**Source**: Web search, Greenville County marriage records
+**Results**: **NEGATIVE.** No specific marriage record found. South Carolina did not require marriage licensing until 1911. Record may exist in Standing Springs Baptist Church records (Furman University Special Collections has SC Baptist church records on microfilm).
+**Implication**: Furman University's SC Baptist Collection is a key next step for primary source verification.
+
+### Search: John Clarke (1558, Colonial) connection to SC Clarks
+**Query**: John Clarke 1558 Great Munden Hertfordshire colonial America South Carolina
+**Source**: Web search, Geni, WikiTree
+**Results**: A John Clark of Great Munden went to colonial Connecticut (Saybrook, Milford) c.1632, not South Carolina. The existing GEDCOM links John Clarke (1558, Hertfordshire) through Ellen Clark to the Stackhouse family, not directly to the SC Clark line. No evidence of a direct connection between the 1558 John Clarke and James Hiriam Clark of Virginia/SC.
+**Implication**: The John Clarke (1558) to SC Clark connection remains unverified and likely spurious. The GEDCOM connects them through the Stackhouse line, not through a direct Clark-to-Clark paternal line. This should be flagged as speculative.
+
 ## 2026-04-13: Deych Family Research (Barnett Salmanson's Maternal Line)
 
 ### Search: "Deych" / "Deich" / "Deutsch" Jewish family Rokiskis Lithuania

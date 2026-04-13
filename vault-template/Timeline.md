@@ -88,7 +88,13 @@ Chronological index of all dated events across the family tree.
 | Jan 27, 1886 | Birth | Jacob Kushner | Russia | MyHeritage |
 | Nov 18, 1886 | Death | Rev. Henry Langford Henderson | Greenville County, SC | WikiTree |
 | ~1887 | Marriage | William I. King + Marcia (Mary) Kopp/Huff | | IMG_0792, IMG_0786 |
+| Mar 12, 1884 | Institution chartered | Mississippi Industrial Institute and College (II&C, first state-supported women's college in America) | Columbus, Lowndes County, Mississippi | MUW history, Mississippi Encyclopedia (Tier 2) |
+| Oct 22, 1885 | First classes begin | II&C (341 students enrolled) | Columbus, Mississippi | MUW history (Tier 2) |
+| Jun 10, 1889 | First graduating class (10 women) | Miriam "Minnie" Greene Paslay and 9 others; possibly [[Willis_Henrietta_Youngblood]] | Columbus, Mississippi | MUW history (Tier 2); Willis enrollment speculative |
 | ~1890-1895 | Immigration | Jacob Kushner | Russia to USA | MyHeritage |
+| Sept 18, 1890 | Marriage | [[George_Michael_Bright]] + [[Willis_Henrietta_Youngblood]] | Lowndes County, Mississippi | MyHeritage (Tier 3, unverified) |
+| Jun 17, 1892 | Birth | Bernard Kyle Bright | Abingdon, Washington County, Virginia | Ancestry, Geni (Tier 3) |
+| Aug 19, 1893 | Birth | [[Albert_Graham_Bright]] | Abingdon, Washington County, Virginia | MyHeritage (Tier 3) |
 | Sept 26, 1894 | Death | Rebecca Adeline Cox Henderson | | WikiTree |
 
 ## 1900-1949
@@ -126,6 +132,7 @@ Chronological index of all dated events across the family tree.
 | Date | Event | Person(s) | Location | Source |
 |---|---|---|---|---|
 | Apr 1, 1950 | Census | Henry M + Mary E Kascher + Kathryn | 49 Clay Ave, Rochester, Monroe, NY | MyHeritage 1950 Census |
+| Jun 28, 1952 | Death | [[Willis_Henrietta_Youngblood]] (age ~88; occupation: college school teacher) | Bristol, Washington County, Virginia. Buried High Street Cemetery, Rocky Mount, Franklin Co, VA. | MyHeritage (Tier 3) |
 | Jan 26, 1958 | Death | Anna (Salk) Zipperman | Fulton, Georgia | MyHeritage (Tier 3) |
 | Dec 14, 1960 | Death | [[Barnett_Salmanson]] | Miami, FL | MyHeritage |
 | 1972 | NYSE listing | Adams Drug Company | | Wikipedia |
