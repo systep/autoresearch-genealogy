@@ -11,12 +11,29 @@ sources:
   - "WikiTree Henderson-1855"
   - "WikiTree Brasher-122 (father Thomas Levi Brasher Jr.)"
   - "WikiTree Brasher-37 (grandfather Thomas Brasher Sr.)"
+  - "WikiTree Brasseur-19, Brasseur-2, Brasseur-20 (Huguenot ancestors)"
+  - "WikiTree Brasher-121 (Henry Collins Brasher)"
+  - "WikiTree Brasher-147 (Aquilla B Brasher)"
+  - "WikiTree Brasher-52 (John Brasher Jr.)"
+  - "WikiTree Henderson-6197 (Brashier Henderson)"
+  - "WikiTree Henderson-12233 (Rev. Henry Langford Henderson)"
   - "Geni.com Thomas-Brasher-Jr/6000000011504098266"
   - "Geni.com Thomas-Brasher-I/6000000013093733873"
+  - "Geni.com Robert-Brasseur/6000000000696749408"
   - "RevWarApps S6994 (Ezekiel Henderson pension)"
-  - "A Brazier/Brasher Saga by Charles Brashear and Shirley Brasher McCoy"
+  - "A Brazier/Brasher Saga by Charles Brashear and Shirley Brasher McCoy (532pp, FamilySearch 734009)"
+  - "A Brashear(s) Family History (FamilySearch catalog 721589)"
   - "Empty Branches on the Family Tree blog (emptybranchesonthefamilytree.com)"
   - "FamilySearch LBZD-XWJ (Thomas Levi Brasher Jr.)"
+  - "sonsofdewittcolony.org Brashear/Brasseur family page"
+  - "Find a Grave 129180905 (Jane Brasher Ashmore)"
+  - "Find a Grave 66620694 (Henry Collins Brasher Sr.)"
+  - "Find a Grave 8300037 (Austin Brashier, Standing Springs)"
+  - "Find a Grave 225014646 (Walt Brashier)"
+  - "1790 Federal Census, Greenville District, SC"
+  - "SC Will Book Vol A-B 1787-1820, p. 28 (Thomas Levi Brasher Jr. will)"
+  - "Chatham County NC Deed Abstracts (ncgenweb.us)"
+  - "Greenville County Deed Book L (genealogytrails.com)"
 created: 2026-04-10
 updated: 2026-04-13-b
 tags: [genealogy, brasher, brashier, henderson, person, south-carolina, north-carolina, maryland, colonial, huguenot]
@@ -218,8 +235,14 @@ In modern times, the Brashier name remains prominent: Brashier Middle College Ch
 | Search | Result |
 |---|---|
 | Find a Grave: Elizabeth Brasher Henderson, Greenville SC | No memorial found |
-| Find a Grave: Brashier cemetery, Greenville County | No historic "Brashier Cemetery" identified (modern Brashier burials found at Woodlawn Memorial Park and other cemeteries) |
-| NC Land Grants database (nclandgrants.com) for "Brasher" | General resource identified but specific Brasher grants not returned in web search; requires direct database search |
-| Primary source linking Elizabeth Brasher to Thomas Levi Brasher Jr. | Not found; all evidence is Tier 3 compiled sources |
-| Primary source for "Sarah Lindsey" as mother's name | Not found |
-| Standing Springs Cemetery records for Elizabeth Brasher Henderson | Not found; Henderson and Cox family members are buried there but Elizabeth's burial is unrecorded |
+| Find a Grave: Brashier cemetery, Greenville County | No historic "Brashier Cemetery" identified. Modern Brashier burials at Woodlawn Memorial Park, Standing Springs Cemetery, and other Greenville cemeteries |
+| NC Land Grants database (nclandgrants.com) for "Brasher" | Database has 217,460+ searchable grants; specific Brasher grants not returned in web search. Requires direct nclandgrants.com database query. NC Land Grant #596 referenced by secondary sources. |
+| Primary source linking Elizabeth Brasher to Thomas Levi Brasher Jr. | Not found. Thomas Levi's 1789 will names 5 sons and NO daughters. Elizabeth is not mentioned. All evidence is Tier 3 compiled sources. |
+| Primary source for "Sarah Lindsey" as mother's name | Not found. "A Brazier/Brasher Saga" authors state: "we think from circumstances that she is Sarah Lindsey." |
+| Standing Springs Cemetery records for Elizabeth Brasher Henderson | Not found. Henderson and Cox family members buried there (Rebecca Adeline Cox Henderson, Rev. Henry L. Henderson, Austin Brashier) but Elizabeth's burial is unrecorded. |
+| Ezekiel Henderson pension file S6994 (revwarapps.org) | PDF exists at revwarapps.org/s6994.pdf but could not be fetched for full text extraction. Web search summaries confirm he served in cavalry and infantry, discharged at Hillsboro NC, received $57.50/year pension. |
+| "Thomas Brasher" daughters in will | Thomas Levi Brasher Jr.'s 1789 will named only five sons. No daughters named. This is a critical negative result for the parentage claim. |
+| Brasher/Brashier marriage records, Greenville County | Greenville County marriage license search available at greenvillecounty.org but requires direct database access. No results returned via web search. |
+| WeRelate.org Brasher profiles | Found Person:John_Brasher_(1) and Person:Samuel_Brasher_(2). Could not fetch full content (403 errors). |
+| tnyesterday.com Brasher family page | Page exists but could not be fetched (403). Web search snippets reveal it documents a separate Brasher branch (Philip Brashear, b. 1755, Guilford Co., NC to Roane Co., TN) that may or may not connect to Thomas Levi's family. |
+| SC Department of Archives: State Plats for Land Grants 1784-1868 | Now digitized and online (scdah.sc.gov). Not yet searched directly for Brasher/Brashier entries. |

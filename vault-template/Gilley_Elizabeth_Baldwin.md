@@ -56,13 +56,22 @@ Gilley Elizabeth survived her husband by 26 years, dying on 25 May 1886 in Simps
 
 | Document | Type | Vault Note |
 |---|---|---|
-| MyHeritage GEDCOM export | user-contributed tree | |
-| MyHeritage Smart Match (Eli Baldwin, role 2000521) | user-contributed tree | |
-| MyHeritage Smart Match (Edaline Transon, role 2000768) | user-contributed tree | |
-| MyHeritage Smart Match (Eli Berry Clark) | user-contributed tree | |
+| MyHeritage GEDCOM export | user-contributed tree (Tier 3) | |
+| MyHeritage Smart Match (Eli Baldwin, role 2000521) | user-contributed tree (Tier 3) | |
+| MyHeritage Smart Match (Edaline Transon, role 2000768) | user-contributed tree (Tier 3) | |
+| MyHeritage Smart Match (Eli Berry Clark) | user-contributed tree (Tier 3) | |
+| WikiTree Baldwin-2330 (Eli Baldwin) | user-contributed tree (Tier 3) | Managed profile with sources |
+| WikiTree Baldwin-2336 (John Baldwin Sr.) | user-contributed tree (Tier 3) | Managed by Kevin Kistler |
+| WikiTree Lindley-409 (Alice Lindley) | user-contributed tree (Tier 3) | |
+| Geni.com Eli Baldwin profile 6000000105789453937 | user-contributed tree (Tier 3) | |
+| Greenville County Deed Book I, p. 218 | land record (Tier 1) | Eli Baldwin purchase of 250 acres from John Croft, 1812 |
+| Chatham County Deed Book L, pp. 239-240 | land record (Tier 1) | John Baldwin Sr. to Eli Baldwin, Aug 1801 |
+| Chatham Historical Journal Vol 7 No 1, March 1994 | published genealogy (Tier 2) | "Some Early Baldwin and Related Families of Chatham County, NC" |
 
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| No discrepancies currently documented. | | | All data from Tier 3 sources only; requires independent verification. |
+| Mother's name | Edaline L. Transon (b. 1783, Chatham, NC; d. 1840) per MyHeritage GEDCOM | Elizabeth (surname unknown), married in Forsyth, NC per WikiTree Baldwin-2330 | UNRESOLVED. The GEDCOM and WikiTree disagree on the name of Eli Baldwin's wife. "Edaline L. Transon" is specific but unverified. WikiTree says "Elizabeth (Unknown)." These could be the same person (Edaline Elizabeth Transon?) or different sources may be conflating two wives. No primary source found for either name. Requires census or church record verification. Logged in Open_Questions.md. |
+| Father's birth year | 1770 per MyHeritage GEDCOM | c.1775 per WikiTree Baldwin-2330 and Geni | Both are estimates. WikiTree and Geni agree on c.1775, which is more consistent with John Baldwin Sr.'s estimated dates (c.1730). Favor c.1775 pending census confirmation. |
+| Father's death location | Standing Springs, Greenville, SC per GEDCOM | Greenville, SC per WikiTree | Compatible; Standing Springs is within Greenville County. |

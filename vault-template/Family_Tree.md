@@ -177,12 +177,31 @@ The digital family tree app (Screenshot 125748) displayed ex-spouses at sibling 
 
 ### Salk Family (Elizabeth Salk's ancestry)
 
-*Source: MyHeritage family tree (unverified, Tier 3)* **(speculative until independently confirmed)**
+*Source: MyHeritage family tree (unverified, Tier 3), supplemented by surname analysis (2026-04-13)* **(speculative until independently confirmed)**
 
-- **Elizabeth Salk** married Barnett (Berko) Salmanson, Sep 12, 1909, Providence RI
-- Father: **Abraham (Charles) Zolly Salk** + Mother: **Tauba [T.T.T.T....]**
-- Maternal grandparents: **Louis E.L.S.** + **Rose**
-- "Zolly" may be from Yiddish Zalman/Solomon, connecting to the broader Jewish naming patterns
+**Surname etymology:** Salk = Americanized form of **Zalk**, a Lithuanian Jewish surname derived from Yiddish **Zalkind** (kinui for Shlomo/Solomon). Sources: Ancestry.com, Geneanet, JewishGen.
+
+**Generation 1 (oldest known):**
+- **[[Louis_Elizar_Salk]]** (Louis (Elizar)(Lazar) Salk), b. ~1840 Lithuania, d. before 1910 Providence RI
+- Wife 1: **[[Rose_Salk]]**, b. Lithuania, d. Lithuania (did not emigrate)
+- Wife 2: **Deena (Hessel)**, daughter Sarah Salk (b. June 1869, Lithuania)
+- Son: **[[Abraham_Zolly_Salk]]**
+
+**Generation 2:**
+- **[[Abraham_Zolly_Salk]]** (Abraham "Charles" Zolly Salk), b. ~1860 Russia/Lithuania, d. Feb 22, 1925 Rhode Island
+- Wife: **[[Tauba_Salk]]** (Toby/Tobe/Teibe/Tobrey/Theresa/Fannie/Pheabe), b. ~1850 Russia
+- Immigration: Abraham 1894 or 1896; Tauba 1898 or 1901
+- Residence: Providence Ward 3, RI (1910, 1920 Census)
+- Children:
+  - **[[Elizabeth_Salk]]** (~1887, m. [[Barnett_Salmanson]] Sept 12, 1909)
+  - **Anna Salk** (b. Jul 22, 1893 RI; d. Jan 26, 1958 Fulton GA; m. Samuel Zipperman)
+  - **Marry Salk** (m. Lyons)
+
+**Naming pattern note:** Samuel Salmanson's daughter Tobey (m. Richard Oresman) likely named for grandmother Tauba/Toby (Ashkenazi naming tradition).
+
+**Other Providence Salk families (possible kin, unverified):**
+- **Hyman Salk** (immigrant, tailor, founded Salk's Hardware 1900 in Providence). Sons: Sam Salk, Lewis/Louis Salk. Sam's son Harold (d. 2024) was 3rd generation; Harold's son Jeffrey is 4th generation. Harold's parents: Samuel + Ruth (Fleisig) Salk. Lewis's son: Norton E. Salk (1927-2007, architect). Both branches Lithuanian Jewish.
+- **Ida Salk** (1881-1982, Providence), **Belle B. Salk** (1902-2003, Providence): relationships unknown.
 
 ### Markel Family (Thelma's ancestry)
 
