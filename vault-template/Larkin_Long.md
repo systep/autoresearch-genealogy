@@ -56,5 +56,5 @@ Note: MyHeritage shows a later Larken Long (b. 1877) who is likely a descendant,
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Wife's maiden name | Sarah S. (no surname, GEDCOM) | Sarah "Sally" Goldsmith (Geni, via William Thomas Long record) | Goldsmith maiden name appears in one Tier 3 source; recorded as (unverified). |
+| Wife's maiden name | Sarah S. (no surname, GEDCOM) | Sarah "Sally" Goldsmith (Geni via William Thomas Long record; pedigree chart page 6) | RESOLVED: Goldsmith maiden name confirmed by two Tier 3 sources (Geni and pedigree chart) plus corroborated by grandson's name "William Goldsmith Long." |
 | Larkin vs. Larken | Larkin (GEDCOM) | Larken (MyHeritage, later individual b. 1877) | The b. ~1801 individual is "Larkin"; the b. 1877 individual "Larken" is likely a descendant. |
