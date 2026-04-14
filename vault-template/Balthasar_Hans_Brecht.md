@@ -27,7 +27,7 @@ tags: [genealogy, brecht, person, germany, schriesheim]
 | Burial | Not recorded | |
 | Occupation | Ratsverwandter und Herrenwingerter (councilman and estate wine grower); Stadtrat und Almonier in Schriesheim (city councilman and almoner) | GEDCOM |
 | Father | [[Christoph_Stoffel_Brecht]] (b. 1591, Neudorf; d. Aug 3, 1665, Schriesheim) | GEDCOM |
-| Mother | Anna Barbara Wolpack (b. 1559, Schriesheim; d. Dec 23, 1683, Schriesheim) | GEDCOM |
+| Mother | Anna Barbara Wolpack (b. 1599, Schriesheim; d. Dec 23, 1683, Schriesheim) | GEDCOM (corrected from 1559 per pedigree chart 13.pdf) |
 | Spouse | Anna Margaretha Christmann (b. Jan 1, 1637, Schriesheim; d. Sep 9, 1703, Schriesheim; m. August 24, 1658, Schriesheim) | GEDCOM |
 | Children | 14 known children including: Johann Ludwig Brecht, Anna Margarete Brecht, Johannes Michael Brecht (father of [[Johann_Michael_Brecht]]), Hieronymus Brecht, Paul Brecht, Anna Maria Brecht, Hans Balthasar Brecht II (b. Oct 2, 1670), Dorothea Brecht, Johann Mathias Brecht, Maria Magdalena Brecht, Wilhelm Brecht, Eva Brecht, Anna Barbara Brecht, Hans Philipp Brecht (b. Jun 17, 1683) | GEDCOM, Geni |
 
@@ -61,4 +61,4 @@ WikiTree profile Brecht-11 documents this individual.
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | Wife's death date | September 9, 1703 (GEDCOM, same as Balthasar) | | Identical death dates for husband and wife warrant investigation. Could be epidemic or recording error. No alternative date found. |
-| Anna Barbara Wolpack birth year | 1559 (GEDCOM) | Balthasar born 1636 | If mother born 1559, she would have been 77 at Balthasar's birth. This is clearly incorrect. Birth year 1559 likely a data error; possibly ~1600-1610. Flagged for correction. |
+| Anna Barbara Wolpack birth year | 1559 (GEDCOM) | **1599** (MyHeritage pedigree chart, page 13) | **RESOLVED**: 1559 was a GEDCOM data entry error. The pedigree chart shows 1599, making her 37 at Balthasar's birth in 1636, which is biologically plausible. |

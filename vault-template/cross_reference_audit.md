@@ -12,9 +12,9 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 ## Audit Summary
 
 - **Total named individuals audited**: ~125
-- **Discrepancies found**: 15
+- **Discrepancies found**: 18
 - **Resolved this session**: 3
-- **Remaining open**: 12
+- **Remaining open**: 15
 
 ---
 
@@ -37,6 +37,9 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 | 13 | Stangle children | birth_dates cluster | Frank ~1791, William ~1792, George ~Sept 1793, Joseph ~Jan 1793 | 4 children in 26 months is biologically improbable for one mother | Some dates are misread, or children are from different mothers, or includes stepchildren | Handwritten notes (single source) | OPEN: Dates need verification |
 | 14 | Arguless (charter member) | surname | "Arguless Henderson" (Family_Tree.md) | hmdb.org: "Arguless, Elizabeth and Rachel Henderson" -- comma placement ambiguous | **Surname uncertain** -- "Arguless" may not be a Henderson; could be separate person | Historical marker (primary) | **RESOLVED: Noted as ambiguous in Family_Tree.md** |
 | 15 | Ezekiel Henderson / Elizabeth Brasher | marriage_date_and_location | "October 10, 1782, Greenville, SC" (WikiTree Henderson-1855, Geni, Family_Tree.md) | "October 17, 1782, Chatham County, NC" (WikiTree Brasher-122) | **Chatham County, NC more likely**: (a) Greenville County did not exist until 1786; (b) Brasher family in Chatham Co. 1782 (land grants Oct 23, 1782); (c) Pension says Ezekiel "moved into South Carolina shortly after the Revolutionary War." Oct 10 vs. Oct 17 date unresolved. | WikiTree (Tier 3) vs. WikiTree (Tier 3); pension declaration (Tier 1) supports NC. | OPEN: Chatham Co. NC favored over Greenville SC on geographic and chronological grounds. Marriage bond in FamilySearch catalog 191194 could resolve. Added 2026-04-14. |
+| 16 | George Michael Bright Jr. | marriage_date | "18 Sep 1891" (MyHeritage pedigree chart, page 4) | "Marriage Date: 18 Sep 1892" (Mississippi Marriages 1826-1900, cited ON the same pedigree chart page) | **One year discrepancy from same source page.** The MS Marriages database record (Tier 2) says 1892; the chart heading says 1891. 1892 is from the indexed record. | Pedigree chart (Tier 3) vs. Mississippi Marriages index (Tier 2) | OPEN: 1892 preferred (Tier 2 source). Added 2026-04-14. |
+| 17 | Albert Graham Bright | marriage_date | "2 Sep 1920" (MyHeritage pedigree chart, page 1) | "September 2, 1928" (vault transcription of handwritten chart IMG_0783) | **1920 strongly preferred**: daughter Mary Elizabeth born June 5, 1921 (9 months after Sep 1920 marriage). A 1928 date means she was born 7 years before the marriage. The "2" in "1920" likely misread as "8" on the handwritten chart. | Pedigree chart (Tier 3) vs. handwritten chart (Tier 3, ambiguous handwriting) | LIKELY RESOLVED: 1920 is correct. Added 2026-04-14. |
+| 18 | Albert Graham Bright | birth_date_month | "19 Apr 1893" (MyHeritage pedigree chart) | "Aug 19, 1893" (George_Michael_Bright.md, handwritten chart) | Day (19th) is consistent; month differs (April vs August). Could be a month/day format confusion. | Both Tier 3 | OPEN: Primary source needed. Added 2026-04-14. |
 
 ---
 

@@ -26,7 +26,7 @@ tags: [genealogy, brecht, person, germany, schriesheim, neudorf]
 | Burial | Not recorded | |
 | Father | [[Conrad_Kuntz_Brecht]] (b. ~1563, Neudorf; d. ~1612, Neudorf) | GEDCOM |
 | Mother | Catharina Claus Camerer (b. ~1569, Neudorf; d. 1664, Neudorf) | GEDCOM |
-| Spouse | Anna Barbara Wolpack (b. 1559, Schriesheim; d. Dec 23, 1683, Schriesheim) | GEDCOM |
+| Spouse | Anna Barbara Wolpack (b. 1599, Schriesheim; d. Dec 23, 1683, Schriesheim) | GEDCOM (corrected from 1559 per pedigree chart 13.pdf) |
 | Children | [[Balthasar_Hans_Brecht]] (b. Aug 24, 1636, Schriesheim; d. Sep 9, 1703, Schriesheim), and others | GEDCOM |
 
 ## Biography
@@ -53,5 +53,5 @@ WikiTree profile Brecht-12 documents this individual.
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Wife's birth year | 1559 (GEDCOM) | Husband born 1591, son born 1636 | 1559 is likely a data error. If she was born in 1559, she would have been 32 years older than Christoph and 77 at the birth of their son Balthasar. Probable correct range: ~1600-1615. Flagged for correction. |
+| Wife's birth year | 1559 (GEDCOM) | **1599** (MyHeritage pedigree chart, page 13) | **RESOLVED**: 1559 was a GEDCOM data entry error. The pedigree chart (13.pdf) shows 1599, which is consistent with husband born 1591 (8 year age gap) and son Balthasar born 1636 (age 37 at birth). 1599 is correct. |
 | Anna Barbara Wolpack also married | Listed as spouse of Christoph Stoffel Brecht (FAMS @F500504@) | Also listed in FAMS @F500563@ (another family) | She may have had a second marriage, or this is a GEDCOM data linkage error. Needs investigation. |

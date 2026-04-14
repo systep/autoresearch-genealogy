@@ -24,17 +24,25 @@ tags: [genealogy, bright, person, virginia, new-york]
 | Father | George Michael Bright (1852-1939) | MyHeritage |
 | Mother | Willie H Youngblood (1863-1952) | MyHeritage |
 | Spouse | [[Rebecca_M_Long]] (1898-1985) | MyHeritage |
-| Children | Mary Elizabeth Bright (~1922), George M Bright (~1924), Samuel Bright (~1930), Robert Bright (~1931) | 1950 Census |
+| Children | Mary Elizabeth Bright (Jun 5, 1921), George M Bright (~1924), Samuel Bright (~1930), Robert Bright (~1931) | 1950 Census, MyHeritage pedigree chart |
 
 ## Biography
 
-Albert Graham Bright was born in 1893 in Virginia. His father was George Michael Bright (1852-1939, WikiTree Bright-3343), son of Samuel Graham Bright (1825-1909) and Mary Jane Bernard (1829-1900). His mother was Willie H Youngblood (1863-1952), daughter of William H. Youngblood (1828-1916) and Ester Lucy (1827-deceased).
+Albert Graham Bright was born April 19, 1893 in Abingdon, Virginia (MyHeritage pedigree chart; note: GEDCOM garbles location as "Tarrant, Texas" which is a data error; Abingdon is in Washington County, VA). His father was George Michael Bright (1852-1939, WikiTree Bright-3343), son of Samuel Graham Bright (1825-1909) and Mary Jane Bernard (1829-1900). His mother was Willie H Youngblood (1863-1952), daughter of William H. Youngblood (~1830, Alabama) and Ester Lucy (b. Jul 1827, Alabama).
 
-The Bright family descends from **Johann Michael Brecht** (1706-1794), who emigrated from the Palatinate of Germany to Germantown, Pennsylvania in 1726. His son George Adam Bright (Brecht) moved to Frederick County, Virginia in 1759, anglicizing the name to "Bright." George Adam is buried in Dutch Hollow Cemetery west of Greenville, SC.
+The Bright family descends from **Johann Michael Brecht** (1706-1794), who emigrated from Schriesheim in the Palatinate of Germany to Germantown, Pennsylvania in 1726. His son George Adam Bright (Brecht) moved to Frederick County, Virginia in 1759, anglicizing the name to "Bright." George Adam is buried in Dutch Hollow Cemetery west of Greenville, SC. The family crest (Brecht) is documented.
 
-He married **Rebecca M Long** (1898-1985), daughter of William Goldsmith Long and Roxanne (Roxana) Cox. By 1950, the family lived at Sagamore Drive, Irondequoit, Monroe County, New York.
+He married **Rebecca Moseley Long** (Sep 14, 1898, South Carolina; d. Oct 20, 1985, Atlanta, Fulton, Georgia) on **September 2, 1920 in Johnson City, Washington County, Tennessee** (MyHeritage pedigree chart). Rebecca was the daughter of William Goldsmith Long (1862-1937) and Roxana A. Cox (1865-1912). Rebecca attended Winthrop College. By 1950, the family lived at Sagamore Drive, Irondequoit, Monroe County, New York.
 
-Their daughter Mary Elizabeth Bright (~1922, born Tennessee) married Henry Michael Kascher, connecting the Bright family to the Kascher/Salmanson line.
+Their daughter Mary Elizabeth Bright (Jun 5, 1921, Johnson City, Washington County, Tennessee) married Henry Michael Kascher (Dec 10, 1914; d. Jan 10, 1987, Rochester, NY; SSDI SSN 201-14-1399), connecting the Bright family to the Kascher/Salmanson line.
+
+## Data Discrepancies
+
+| Field | Source A | Source B | Resolution |
+|---|---|---|---|
+| Birth date | April 19, 1893 (MyHeritage pedigree chart) | August 19, 1893 (George_Michael_Bright.md, handwritten chart) | Day matches (19th) but month differs (April vs August). Primary source needed. |
+| Birthplace | "Abingdon; Tarrant, Texas" (GEDCOM) | "Abingdon, Virginia" (vault, WikiTree) | GEDCOM garbled the state. Abingdon is in Washington County, Virginia. No Abingdon exists in Tarrant County, Texas. Virginia is correct. |
+| Marriage date | 2 Sep 1920 (MyHeritage pedigree chart) | "September 2, 1928" (earlier vault transcription of handwritten chart IMG_0783) | 1920 is strongly preferred: Mary Elizabeth was born June 5, 1921, one year after a 1920 marriage. A 1928 marriage would mean she was born 7 years before the marriage. The "2" in "1920" may have been misread as "8" on the handwritten chart. |
 
 ## Document Sources
 
