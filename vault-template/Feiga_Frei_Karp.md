@@ -26,7 +26,8 @@ tags: [genealogy, frei, karp, person, galicia, jewish, holocaust, tier-2]
 | Mother | [[Toba_Rivka_Frei]] (Toba Rifka Frei, of Dubosari) | Yichus narrative (Tier 2) |
 | Sisters | [[Leah_Frei]], Bashe Frei, Frieda Frei Sternback | Yichus narrative (Tier 2) |
 | Spouse | Joseph Karp | Yichus narrative (Tier 2) |
-| Children | Nissan Karp (deceased), Abraham Karp (deceased), [[Frieda_Karp_Weidenfeld]] (deceased) | Yichus narrative (Tier 2) |
+| Husband's siblings | Moishe Myer Karp (lived in Rhode Island; son Mark Karp, professor at Harvard); Nathan Karp (older brother, wife Shendelle, 3 children); Abraham Karp (younger brother, wife Tillie, 2 sons: Beryl, Herschel) | Yichus typed family tree listing, page 10 (Tier 2) |
+| Children | Nissan Karp (deceased), [[Frieda_Karp_Weidenfeld]] (Friedelle; deceased) | Yichus narrative (Tier 2); Yichus typed family tree listing, page 10 (Tier 2) |
 
 ## Biography
 
@@ -34,14 +35,22 @@ Feiga Frei Karp was a daughter of **[[Yoseph_Frei]]** (Yusef Frei) and **[[Toba_
 
 Feiga was the sister of [[Leah_Frei]], who married [[Heschel_Herman_Markel]], making Feiga an aunt to the Markel children.
 
-Feiga married **Joseph Karp** (Yichus narrative, Tier 2). Both Feiga and Joseph were murdered in the Holocaust (Yichus narrative, Tier 2). The exact date and circumstances of their deaths are not recorded in the narrative.
+Feiga married **Joseph Karp** (Yichus narrative, Tier 2). Both Feiga and Joseph were murdered in the Holocaust (Yichus narrative, Tier 2). The Sambor Yizkor Book lists "Karp, Yosef and Family (4 people)" in the necrology (Tier 2).
 
-Their children:
+### Joseph Karp's Siblings (Feiga's brothers-in-law)
+
+The Yichus typed family tree listing, page 10 (Tier 2), describes the broader Karp family. Joseph Karp had at least three siblings:
+
+1. **Moishe Myer Karp**: Lived in Rhode Island. His son **Mark Karp** became a professor at Harvard (Yichus typed family tree listing, page 10, Tier 2).
+2. **Nathan Karp** (older brother): Wife **Shendelle**. Three children (names not recorded in the Yichus) (Yichus typed family tree listing, page 10, Tier 2).
+3. **Abraham Karp** (younger brother): Wife **Tillie**. Two sons: **Beryl** and **Herschel** (Yichus typed family tree listing, page 10, Tier 2).
+
+### Children of Feiga and Joseph Karp
+
 1. **Nissan Karp** (deceased)
-2. **Abraham Karp** (deceased)
-3. **[[Frieda_Karp_Weidenfeld]]** (deceased), married Fishel Weidenfeld; both murdered. Their daughter **Renya Tzoar** (nee Weidenfeld) survived the war by being hidden in a convent and later provided the eyewitness information about the Rodzinka Forest murders.
+2. **[[Frieda_Karp_Weidenfeld]]** (Friedelle; deceased), married Fishel (Philip) Weidenfeld; both murdered. Their daughter **Renya Tzoar** (nee Weidenfeld; b. Aug 15, 1933, Sambor) survived the war by being hidden in a convent and later provided the eyewitness information about the family's wartime fate. USHMM oral history interview irn619016 (June 27, 2018, West Orange, NJ) confirms: mother Frida Karp, father Philip (Fishel) Weidenfeld.
 
-All three of Feiga and Joseph's children are recorded as deceased in the Yichus narrative (Tier 2). It is not specified whether Nissan and Abraham were also murdered in the Holocaust or died of other causes.
+**Note on Abraham Karp (2026-04-14)**: The earlier version of this file listed "Abraham Karp (deceased)" as a child of Feiga and Joseph. However, the Yichus page 10 identifies Abraham Karp (wife Tillie, sons Beryl and Herschel) as Joseph Karp's younger brother, not as a child of Feiga and Joseph. This has been corrected. It is possible that Feiga and Joseph had a son named Abraham (distinct from Joseph's brother Abraham), but this cannot be confirmed from the available source material. The children confirmed in the Yichus are Nissan and Friedelle (Frieda).
 
 Confidence: Moderate. Named in the Yichus narrative (Tier 2, primary family document by Ruth Gold, Oct 9, 2011). Feiga is identified as a sister of Leah Frei; the specific circumstances of death (Holocaust) are stated, though without dates or detailed descriptions.
 
@@ -50,9 +59,13 @@ Confidence: Moderate. Named in the Yichus narrative (Tier 2, primary family docu
 | Document | Type | Vault Note |
 |---|---|---|
 | Yichus narrative by Ruth Gold, Oct 9, 2011 | Primary family document (Tier 2) | Assets/Yicchis and Narrative.PDF |
+| Yichus typed family tree listing, page 10 (Karp family) | Primary family document (Tier 2) | Assets/Yicchis and Narrative.PDF, page 10 |
+| Sambor Yizkor Book (Sefer Sambor, ed. Aleksander Manor, Tel Aviv, 1980) | Yizkor book necrology (Tier 2) | jewishgen.org/yizkor/sambor/Sam258.html |
+| USHMM oral history interview irn619016 (Rebecca Tzoar, June 27, 2018) | Oral history (Tier 2) | Confirms mother: Frida Karp, father: Philip (Fishel) Weidenfeld |
 
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| | | | No discrepancies identified at this time. Single source only. |
+| Abraham Karp: child or sibling? | Earlier vault version listed Abraham Karp as Feiga's child | Yichus page 10 identifies Abraham Karp (wife Tillie, sons Beryl, Herschel) as Joseph's younger brother | Corrected per Yichus page 10 (Tier 2). Abraham Karp is Joseph Karp's brother, not a child of Feiga and Joseph. A separate child named Abraham may exist but is unconfirmed. |
+| Daughter's name | "Frieda" (earlier vault entries) | "Friedelle" (Yichus typed family tree listing, page 10, Tier 2) | "Friedelle" is the more formal form; "Frieda" is likely a diminutive. Both refer to the same person. The vault file is named [[Frieda_Karp_Weidenfeld]] for continuity. |

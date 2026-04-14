@@ -27,7 +27,7 @@ tags: [genealogy, kascher, person, transylvania, ohio, florida, transylvanian-sa
 | Died | June 7, 1975, Fort Lauderdale, FL | MyHeritage |
 | Father | Michael Kascher Sr. (1864-1935, Wurmloch/Valea Viilor to Waldhütten; married Sara Schuller? or Anna Binder?) | Genealogy.com, Siebenbuerger.de |
 | Mother | Anna Binder (1868-1915, Kreisch/Cris; died of TB in Waldhütten) | MyHeritage |
-| Paternal grandparents | Michael Kascher I (1834-1880, Wurmloch to Waldhütten) + Sara Schuller (1829-1876) | Genealogy.com |
+| Paternal grandparents | Michael Kascher I (1834-1880, Wurmloch to Waldhütten) + **Stephania Benning** (1829-1876; GEDCOM incorrectly says "Sara Schuller"; see cross_reference_audit.md #19) | Genealogy.com, Church certificate "VATER" (Tier 1) |
 | Spouse | Rosina (Rasina) Falk (1896-1999; m. May 10, 1913, Beaver, Pennsylvania) | Marriage record, MyHeritage |
 | Children | [[Henry_Michael_Kascher]] (b. Dec 10, 1914, Youngstown OH), Helen (m. Johnny Braendorf), Gerry, Sophia | MyHeritage, Ohio Birth Index |
 
@@ -35,7 +35,7 @@ tags: [genealogy, kascher, person, transylvania, ohio, florida, transylvanian-sa
 
 Michael Kascher was born February 11, 1889 in Waldhütten (Romanian: Valchid), a village in the Sibiu County of Transylvania, then part of Austria-Hungary. He was a **Transylvanian Saxon**, a member of the ethnic German community that had been settled in Transylvania since the 12th century. Waldhütten sits in the "Weinland" (wine country), approximately 17 kilometers west of Sighisoara.
 
-**Transylvanian lineage:** The Kascher family can be traced through Transylvanian records: Georg Kascher (b. 1792, Wurmloch/Valea Viilor) married Maria Wagner; their son Michael Kascher I (1834-1880) married Sara Schuller (1829-1876) in Wurmloch/Waldhütten; their son Michael Kascher Sr. (1864-1935) married Anna Binder (1868-1915, of Kreisch/Cris). Michael Sr. and Anna Binder were Michael's parents.
+**Transylvanian lineage:** The Kascher family can be traced through Transylvanian records: Georg Kascher (b. 1792, Wurmloch/Valea Viilor) married Maria Wagner; their son Michael Kascher I (1834-1880) married **Stephania Benning** (1829-1876; GEDCOM incorrectly calls her "Sara Schuller"; see cross_reference_audit.md #19) in Wurmloch/Waldhütten; their son Michael Kascher Sr. (1864-1935) married Anna Binder (1868-1915, of Kreisch/Cris). Michael Sr. and Anna Binder were Michael's parents.
 
 Anna Binder died of tuberculosis in 1915 in Waldhütten. Michael Sr. took the children to America, eventually settling in Youngstown, Ohio, where he was a former employee of Hartzell Bros. He died around July 1935 in Youngstown at age 71.
 

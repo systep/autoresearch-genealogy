@@ -4,12 +4,13 @@ name: "Maria Wagner"
 born: 1795
 died: 
 family: "Wagner"
-confidence: stub
+confidence: moderate
 sources:
+  - "Waldhutten church certificate 'VATER' (Tier 1, 10 Feb 1938, Pastor A. Bogeschdorfer)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I501329)"
   - "MyHeritage Smart Match (profile 2005924)"
 created: 2026-04-10
-tags: [genealogy, wagner, kascher, person, transylvania, saxon, stub]
+tags: [genealogy, wagner, kascher, person, transylvania, saxon]
 ---
 
 # Maria Wagner
@@ -18,9 +19,9 @@ tags: [genealogy, wagner, kascher, person, transylvania, saxon, stub]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Maria Wagner | GEDCOM |
+| Full Name | Maria geb. Wagner | Church certificate "VATER" (Tier 1); GEDCOM |
 | Born | circa 1795 (VGSS: 1805) | GEDCOM |
-| Birthplace | Wurmloch, Valea Viilor, Sibiu, Transylvania | GEDCOM |
+| Birthplace | Wurmloch, Valea Viilor, Sibiu, Transylvania | Church certificate "VATER" (Tier 1: "aus Wurmloch"); GEDCOM |
 | Died | Unknown | |
 | Burial | Unknown | |
 | Father | Unknown | |
@@ -30,9 +31,11 @@ tags: [genealogy, wagner, kascher, person, transylvania, saxon, stub]
 
 ## Biography
 
-Minimal data available. Maria Wagner was born circa 1795 in Wurmloch (Valea Viilor), Sibiu, Transylvania (GEDCOM). She was a Transylvanian Saxon. A VGSS note records 1805 as an alternative date.
+Maria Wagner was born circa 1795 in Wurmloch (Valea Viilor), Sibiu, Transylvania (GEDCOM). She was a Transylvanian Saxon. A VGSS note records 1805 as an alternative date.
 
-Maria married [[Georg_Kascher]] (Georg Kascher, born March 1792, Wurmloch) (GEDCOM). The GEDCOM notes their children as Katharina, Maria, Anna, Mathias, Michael, and Johann Kascher. A note in the GEDCOM confirms: "Eltern: Georg Kascher und Maria Wagner."
+The **VATER church certificate** (Tier 1, 10 Feb 1938, Pastor A. Bogeschdorfer) confirms her as "Maria geb. Wagner aus Wurmloch," wife of Georg Kascher. This Tier 1 source corroborates the GEDCOM data for her name and birthplace.
+
+Maria married [[Georg_Kascher]] (Georg Kascher, born March 1792, Wurmloch). The GEDCOM notes their children as Katharina, Maria, Anna, Mathias, Michael, and Johann Kascher.
 
 ## Document Sources
 

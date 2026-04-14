@@ -15,7 +15,7 @@ tags: [genealogy, plantagenet, person, medieval, royalty, england, king]
 
 # Edward I
 
-**Caveat**: The connection from colonial American families to this medieval ancestor requires verification of intermediate links.
+**Caveat**: The claimed connection from colonial American families (Cox line) to this medieval ancestor has been assessed and contains FOUR fatal breaks in the chain. See Gateway Ancestor Assessment below.
 
 ## Vital Information
 

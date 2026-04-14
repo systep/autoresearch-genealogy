@@ -31,7 +31,7 @@ tags: [genealogy, markel, person, galicia, jewish, tier-2]
 | Spouse | [[Leah_Frei]] (b. 1864; d. 1940; m. 1878) | GEDCOM; Yichus narrative (Tier 2) |
 | Marriage | 1878 (he was 16, she was 14) | Yichus narrative (Tier 2) |
 | Children (total) | 14 born, 6 died in childhood, 8 surviving | Yichus narrative (Tier 2) |
-| Surviving Children | 1. [[Minnie_Markel_Sternbach]] (1887-1975); 2. Avraham Chaim Markel (d. 1939, Pogrom); 3. Masha Markel Tachner (d. 1939, Pogrom); 4. [[Morris_Markel]] (Moishe Myer); 5. Sarah Markel Tachner; 6. Hannah Markel (d. 1939, Pogrom); 7. [[Florence_Markel_Mermelstein]] (Sura Feiga, 1909-1990); 8. Pessel (Peppy) Frei (d. 1939/1940, Pogrom) | Yichus narrative (Tier 2) |
+| Surviving Children (birth order per Yichus narrative) | 1. [[Minnie_Markel_Sternbach]] (Freitca Miritza, 1887-1975); 2. [[Masha_Markel_Tachner]] (Mashe, d. 1939, Pogrom); 3. [[Morris_Markel]] (Moishe Myer); 4. [[Sarah_Markel_Tachner]] (Tsirl); 5. [[Avraham_Chaim_Markel]] (d. 1939, Pogrom); 6. [[Hannah_Markel]] (d. 1939, Pogrom); 7. [[Florence_Markel_Mermelstein]] (Sura Feiga, 5/15/1909-11/24/1990); 8. [[Pessel_Peppy_Frei]] (Pessel/Peggy, d. 1939/1940, Pogrom) | Yichus narrative (Tier 2) |
 
 ## Biography
 
@@ -41,15 +41,17 @@ Heshel's patrilineal line: [[Nissen_Mendel_Markel]] (great-grandfather) to [[Dov
 
 Heshel married [[Leah_Frei]] (b. 1864; d. 1940) in **1878**, when he was 16 and she was 14 (Yichus narrative, Tier 2). Together they had **14 children**, of whom **6 died in childhood** and **8 survived** (Yichus narrative, Tier 2).
 
-The eight surviving children, in birth order per the Yichus narrative:
-1. **[[Minnie_Markel_Sternbach]]** (1887-1975), settled Rhode Island; first sibling to emigrate
-2. **Avraham Chaim Markel**, murdered with family in Pogrom (1939)
-3. **Masha Markel Tachner**, murdered with family in Pogrom (1939)
-4. **[[Morris_Markel]]** (Moishe Myer), settled Rhode Island; Rabbi at Ahavath Sholom Synagogue
-5. **Sarah Markel Tachner**
-6. **Hannah Markel**, murdered with family in Pogrom (1939)
-7. **[[Florence_Markel_Mermelstein]]** (Sura Feiga; 1909-1990)
-8. **Pessel (Peppy) Frei**, murdered 1939/1940
+The eight surviving children, in birth order per the Yichus narrative (pages 6-8, Ruth Gold):
+1. **[[Minnie_Markel_Sternbach]]** (Freitca Miritza; 1887-1975), settled Rhode Island; first sibling to emigrate
+2. **[[Masha_Markel_Tachner]]** (Mashe), murdered with family in Pogrom (1939)
+3. **[[Morris_Markel]]** (Moishe Myer), settled Rhode Island; Rabbi at Ahavath Sholom Synagogue
+4. **[[Sarah_Markel_Tachner]]** (Tsirl)
+5. **[[Avraham_Chaim_Markel]]**, murdered with family in Pogrom (1939)
+6. **[[Hannah_Markel]]**, murdered with family in Pogrom (1939)
+7. **[[Florence_Markel_Mermelstein]]** (Sura Feiga; 5/15/1909-11/24/1990)
+8. **[[Pessel_Peppy_Frei]]** (Pessel/Peggy), murdered 1939/1940
+
+**Note on birth order correction (2026-04-14)**: The birth order above is corrected from an earlier version that placed Avraham Chaim as child #2 and Masha as #3. The Yichus narrative (pages 6-8) explicitly lists the children in order as: "Freitca Miritza, Mashe, Moishe Myer, Tsirl, Avraham Chaim, Hannah, Sura Feiga, Pessel." This places Morris and Sarah before Avraham Chaim, not after. Source: Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2).
 
 The Pogrom of Rosh Hashanah 1939: four of Heshel and Leah's children (Avraham Chaim, Masha, Hannah, and Pessel), along with numerous grandchildren, were "forced to leave the premises and were marched to the Rodzinka Forest where they were murdered" by "Polish Cossacks" (Yichus narrative, Tier 2). Note: the term "Polish Cossacks" likely refers to local collaborators or irregular forces during the German invasion of Poland in September 1939.
 

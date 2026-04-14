@@ -17,7 +17,7 @@ tags: [genealogy, markel, tachner, goodman, person, galicia, jewish, new-york, t
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Sarah Markel Tachner (also: Sarah Markel Goodman) | Yichus narrative (Tier 2) |
+| Full Name | Sarah Markel Tachner (also: Sarah Markel Goodman; Hebrew/Yiddish: Tsirl) | Yichus narrative (Tier 2) |
 | Born | Unknown | |
 | Birthplace | Vanyavitch, Galicia (near Lemberg/Lviv; Austria/Poland; now Ukraine) (presumed, family residence) | Yichus narrative (Tier 2) |
 | Died | Unknown | |
@@ -31,7 +31,7 @@ tags: [genealogy, markel, tachner, goodman, person, galicia, jewish, new-york, t
 
 ## Biography
 
-Sarah Markel Tachner was the fifth of eight surviving children (out of 14 born) of **[[Heschel_Herman_Markel]]** (Heshel Markel; b. 1862; d. 1916) and **[[Leah_Frei]]** (b. 1864; d. 1940) (Yichus narrative, Tier 2). She emigrated from Galicia/Poland to the United States and settled in New York.
+Sarah Markel Tachner was the fourth of eight surviving children (out of 14 born) of **[[Heschel_Herman_Markel]]** (Heshel Markel; b. 1862; d. 1916) and **[[Leah_Frei]]** (b. 1864; d. 1940) (Yichus narrative, Tier 2). She emigrated from Galicia/Poland to the United States and settled in New York.
 
 Sarah married first **Arthur Goodman**, who was a mortician (Yichus narrative, Tier 2). The marriage ended in divorce (Yichus narrative, Tier 2).
 
@@ -41,15 +41,15 @@ Sarah and Max had two sons:
 1. **Harold Tachner**
 2. **Irving Tachner**, who was trampled by a runaway horse as an infant (Yichus narrative, Tier 2). The Yichus does not state whether Irving survived this injury.
 
-Her siblings, in birth order per the Yichus narrative:
-1. **[[Minnie_Markel_Sternbach]]** (1887-1975), settled Rhode Island
-2. **[[Avraham_Chaim_Markel]]** (murdered 1939)
-3. **[[Masha_Markel_Tachner]]** (murdered 1939)
-4. **[[Morris_Markel]]** (Moishe Myer), Rabbi, settled Rhode Island
-5. **Sarah Markel Tachner** (this individual)
+Her siblings, in birth order per the Yichus narrative (pages 6-8):
+1. **[[Minnie_Markel_Sternbach]]** (Freitca Miritza; 1887-1975), settled Rhode Island
+2. **[[Masha_Markel_Tachner]]** (Mashe; murdered 1939)
+3. **[[Morris_Markel]]** (Moishe Myer), Rabbi, settled Rhode Island
+4. **Sarah Markel Tachner** (Tsirl; this individual)
+5. **[[Avraham_Chaim_Markel]]** (murdered 1939)
 6. **[[Hannah_Markel]]** (murdered 1939)
-7. **[[Florence_Markel_Mermelstein]]** (Sura Feiga; 1909-1990)
-8. **[[Pessel_Peppy_Frei]]** (murdered 1939/1940)
+7. **[[Florence_Markel_Mermelstein]]** (Sura Feiga; 5/15/1909-11/24/1990)
+8. **[[Pessel_Peppy_Frei]]** (Pessel/Peggy; murdered 1939/1940)
 
 Four of Sarah's siblings (Avraham Chaim, Masha, Hannah, and Pessel) were murdered along with their families during the Rosh Hashanah 1939 Pogrom in the Rodzinka Forest (Yichus narrative, Tier 2). Sarah, having emigrated to the United States, survived.
 

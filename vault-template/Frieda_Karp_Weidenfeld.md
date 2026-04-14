@@ -17,7 +17,7 @@ tags: [genealogy, karp, weidenfeld, frei, person, galicia, jewish, holocaust, ti
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Frieda Karp Weidenfeld | Yichus narrative (Tier 2) |
+| Full Name | Friedelle (Frieda) Karp Weidenfeld | Yichus narrative (Tier 2); Yichus typed family tree listing, page 10 (Tier 2) |
 | Born | Unknown | |
 | Birthplace | Unknown | |
 | Died | Unknown (murdered in the Holocaust) | Yichus narrative (Tier 2) |
@@ -26,7 +26,7 @@ tags: [genealogy, karp, weidenfeld, frei, person, galicia, jewish, holocaust, ti
 | Mother | [[Feiga_Frei_Karp]] | Yichus narrative (Tier 2) |
 | Siblings | Nissan Karp (deceased), Abraham Karp (deceased) | Yichus narrative (Tier 2) |
 | Spouse | Fishel Weidenfeld (murdered) | Yichus narrative (Tier 2) |
-| Children | Renya Tzoar (nee Weidenfeld; survived) | Yichus narrative (Tier 2) |
+| Children | Renya Tzoar (nee Weidenfeld; b. Aug 15, 1933, Sambor; survived) | Yichus narrative (Tier 2); USHMM oral history irn619016 (Tier 2) |
 
 ## Biography
 

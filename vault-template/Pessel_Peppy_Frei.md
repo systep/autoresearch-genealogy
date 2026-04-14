@@ -33,15 +33,15 @@ Pessel (Peppy) Frei was the eighth and youngest surviving child of **[[Heschel_H
 
 On Rosh Hashanah 1939, Pessel was among those "forced to leave the premises and marched to the Rodzinka Forest where they were murdered" (Yichus narrative, Tier 2). The perpetrators are described as "Polish Cossacks" in the narrative, likely referring to local collaborators or irregular forces during the German invasion of Poland in September 1939. The information about the Rodzinka Forest murders was provided by **Renya Tzoar** (nee Weidenfeld), a surviving relative who was hidden in a convent during the war (Yichus narrative, Tier 2).
 
-Her siblings, in birth order per the Yichus narrative:
-1. **[[Minnie_Markel_Sternbach]]** (1887-1975), settled Rhode Island
-2. **[[Avraham_Chaim_Markel]]** (murdered 1939)
-3. **[[Masha_Markel_Tachner]]** (murdered 1939)
-4. **[[Morris_Markel]]** (Moishe Myer), Rabbi, settled Rhode Island
-5. **[[Sarah_Markel_Tachner]]**
+Her siblings, in birth order per the Yichus narrative (pages 6-8):
+1. **[[Minnie_Markel_Sternbach]]** (Freitca Miritza; 1887-1975), settled Rhode Island
+2. **[[Masha_Markel_Tachner]]** (Mashe; murdered 1939)
+3. **[[Morris_Markel]]** (Moishe Myer), Rabbi, settled Rhode Island
+4. **[[Sarah_Markel_Tachner]]** (Tsirl)
+5. **[[Avraham_Chaim_Markel]]** (murdered 1939)
 6. **[[Hannah_Markel]]** (murdered 1939)
-7. **[[Florence_Markel_Mermelstein]]** (Sura Feiga; 1909-1990)
-8. **Pessel (Peppy) Frei** (this individual; murdered 1939/1940)
+7. **[[Florence_Markel_Mermelstein]]** (Sura Feiga; 5/15/1909-11/24/1990)
+8. **Pessel (Peppy) Frei** (Pessel/Peggy; this individual; murdered 1939/1940)
 
 Confidence: Moderate. Named in the Yichus narrative (Tier 2, primary family document by Ruth Gold, Oct 9, 2011), with specific circumstances of death described by a surviving family member (Renya Tzoar).
 

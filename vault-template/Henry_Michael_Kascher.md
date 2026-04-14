@@ -25,7 +25,7 @@ tags: [genealogy, kascher, person, ohio, new-york]
 | Father | **Michael Kascher** (b. **Feb 11, 1889**, Waldhütten/Valchid, Transylvania, Austria-Hungary; d. June 1975, Fort Lauderdale, FL 33312). **RESOLVED: Born 1889 confirmed by SSDI (Tier 1), marriage record (age 24 in 1913), and 1930 census (age 41). Church certificate's "1899" is a single-digit transcription error.** | SSDI, marriage record, 1930 Census, Waldhutten church certificate (1938) |
 | Mother | **Rasina (Rosina) Falk** (b. **July 4, 1905**; d. **May 27, 1928, Denver, Colorado**, of **tuberculosis**; buried **Tod Homestead Cemetery, Youngstown, Ohio**). Parents: **Mathias Falk** (1867-1934) + **Katharina Pfaff** (1871-deceased). **Henry's mother died when he was 13 years old.** | Waldhutten church certificate (1938, Tier 1), marriage record, MyHeritage tree |
 | Father's second wife | **Sophia Schuller Kascher** (b. Jan 5, 1903, Sendorf), married **July 12, 1947** | Waldhutten church certificate (1938) |
-| Paternal lineage | Georg Kascher (b. 1792, Wurmloch/Valea Viilor) → Michael Kascher (b. 1834, Wurmloch, d. 1880, Waldhütten, m. Sara Schuller) → Michael Kascher Sr. (1864-1935) → Michael Kascher Jr. (b. 1899) | Genealogy.com, Siebenbuerger.de, church certificate |
+| Paternal lineage | Georg Kascher (b. 1792, Wurmloch/Valea Viilor) → Michael Kascher (b. 1834, Wurmloch, d. 1880, Waldhütten, m. **Stephania Benning**, GEDCOM incorrectly says "Sara Schuller"; see cross_reference_audit.md #19) → Michael Kascher Sr. (1864-1935) → Michael Kascher Jr. (b. 1889) | Genealogy.com, Siebenbuerger.de, church certificate "VATER" (Tier 1) |
 | Spouse | [[Mary_Elizabeth_Bright]] (~1922, Tennessee) | 1950 Census, MyHeritage |
 | Children | Kathryn Ann Kascher (Jan 1, 1946), Suzanne Kascher (~July 11, 1948), Nancy Kascher (1948-1949) | MyHeritage |
 
@@ -35,7 +35,7 @@ Henry Michael Kascher was born December 10, 1914 in Youngstown, Mahoning County,
 
 **Kascher family Transylvanian lineage** (MyHeritage tree, Genealogy.com, Siebenbuerger.de):
 - **Georg Kascher** (b. 1792, Wurmloch/Valea Viilor, Transylvania) married Maria Wagner
-- **Michael Kascher I** (1834-1880, Wurmloch→Waldhütten) married **Sara Schuller** (1829-1876)
+- **Michael Kascher I** (1834-1880, Wurmloch→Waldhütten) married **Stephania Benning** (1829-1876; GEDCOM incorrectly says "Sara Schuller"; see cross_reference_audit.md #19)
 - **Michael Kascher Sr.** (1864-1935) married **Anna Binder** (1868-1915, Kreisch/Criș; died of TB in Waldhütten). Anna's parents: Martin Binder (1831-?) + Anna Weber (1841-?). Michael Sr. took children to America, leaving Anna in Waldhütten. Lived in Youngstown OH and Martins Ferry OH. Former employee of **Hartzell Bros.** Died ~July 1935, Youngstown (age 71).
 - **Michael Kascher** (1899-1975) = Henry's father. Born Waldhütten, died Fort Lauderdale FL. Married (1) Rosina Falk (d. 1928, Denver CO, tuberculosis); married (2) Sophia Schuller (b. Jan 5, 1903, Sendorf) on July 12, 1947. Henry's siblings: Helen (m. Johnny Braendorf), Gerry, Sophia.
 
@@ -79,7 +79,7 @@ Their daughter **Kathryn Ann Kascher** (b. January 1, 1946) married **Alan Carl 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | Mother's death | 1999, age 103 (MyHeritage) | May 27, 1928, age 22, Denver CO, tuberculosis (Waldhutten church certificate, Tier 1) | **RESOLVED: The MyHeritage 1999 death date belonged to a DIFFERENT Rosina. Church certificate (Tier 1) confirms Rosina died in 1928. Michael Kascher's 1947 remarriage to Sophia Schuller corroborates that Rosina was deceased well before 1947.** |
-| Father's birth year | 1889 (MyHeritage, Tier 3) | February 11, 1899 (Waldhutten church certificate, Tier 1) | **OPEN: Church certificate says 1899. See [[Michael_Kascher_Transylvania]] for full analysis. If 1889, Michael was 24 at 1913 marriage; if 1899, he was 13 at marriage (implausible unless marriage date is wrong). Requires further investigation.** |
+| Father's birth year | 1889 (MyHeritage, Tier 3; SSDI, Tier 1; 1930 census age 41, Tier 1; 1913 marriage record age 24, Tier 1) | February 11, 1899 (alternate reading of KINDER church certificate digit) | **RESOLVED: 1889 is correct.** SSDI, 1913 marriage record (age 24), 1930 census (age 41), and chronological sequence of KINDER children (next sibling born 1893) all confirm 1889. The church certificate digit was ambiguous but 1889 is the only possibility. See cross_reference_audit.md #22. |
 
 ## Document Sources
 

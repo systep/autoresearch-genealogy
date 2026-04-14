@@ -25,7 +25,7 @@ tags: [genealogy, markel, sternbach, person, galicia, jewish, rhode-island, tier
 | Father | [[Heschel_Herman_Markel]] (Heshel Markel; b. 1862; d. 1916) | Yichus narrative (Tier 2) |
 | Mother | [[Leah_Frei]] (b. 1864; d. 1940) | Yichus narrative (Tier 2) |
 | Spouse | Abraham David Sternbach (1886-1978) | MyHeritage (Tier 3, via Morris Markel file) |
-| Children | Florence Sternbach (m. David Futtersak) | David Futtersak obituary, Jewish Rhode Island, 2024 (Tier 2) |
+| Children | Maurice Sternbach (1912-1998); Florence Buchwald Sternbach (1917, dec.; m. David Futtersak); Hinda Lea Sternbach Hoffman (b. 1942; m. Victor Hoffman, b. 1940) | Yichus typed family tree listing (Tier 2); David Futtersak obituary, Jewish Rhode Island, 2024 (Tier 2) |
 | Settled | Rhode Island | Yichus narrative (Tier 2) |
 
 ## Biography
@@ -40,19 +40,25 @@ The identification of Minnie Sternbach as Minnie Markel (Morris's sister) receiv
 
 This independently confirms: (a) Minnie's married name was Sternbach, (b) she and Abraham were in Arctic/West Warwick by 1912, and (c) their establishment in the community would have provided the "chain migration" connection for Morris Markel's later arrival (~1928).
 
-### Children
+### Children and Descendants
 
-David Futtersak's obituary (Jewish Rhode Island, 2024) identifies him as the husband of **Florence (Sternbach) Futtersak** and son-in-law of Abraham and Minnie Sternbach. This confirms at least one child: Florence Sternbach (married David Futtersak). David and Florence were married for 67 years. David served as a Korean War-era veteran and was an advertising artist in Providence.
+The Yichus typed family tree listing (pages 1-5, Tier 2) provides the following Sternbach descendants:
 
-Minnie's siblings, in birth order per the Yichus narrative:
-1. **Minnie Markel Sternbach** (this individual; 1887-1975)
-2. **Avraham Chaim Markel** (murdered with family in Pogrom, 1939)
-3. **Masha Markel Tachner** (murdered with family in Pogrom, 1939)
-4. **[[Morris_Markel]]** (Moishe Myer), Rabbi at Ahavath Sholom Synagogue, settled Rhode Island
-5. **Sarah Markel Tachner**
-6. **Hannah Markel** (murdered with family in Pogrom, 1939)
-7. **[[Florence_Markel_Mermelstein]]** (Sura Feiga; 1909-1990)
-8. **Pessel (Peppy) Frei** (murdered 1939/1940)
+1. **Maurice Sternbach** (1912-1998). First child of Abraham David and Minnie (Yichus typed family tree listing, Tier 2).
+2. **Florence Buchwald Sternbach** (1917, deceased). The Yichus listing uses the middle name "Buchwald" (Yichus typed family tree listing, Tier 2). Married **David Futtersak**. David Futtersak's obituary (Jewish Rhode Island, 2024) identifies him as the husband of **Florence (Sternbach) Futtersak** and son-in-law of Abraham and Minnie Sternbach. David and Florence were married for 67 years. David served as a Korean War-era veteran and was an advertising artist in Providence.
+3. **Hinda Lea Sternbach Hoffman** (b. 1942). Married **Victor Hoffman** (b. 1940) (Yichus typed family tree listing, Tier 2).
+
+Note: the Yichus narrative (pages 6-8) states "Uncle Abe Sternbach came to Arctic, RI" in 1912. The RIJHA article independently confirms Abraham and Minnie Sternbach arrived in Arctic in 1912. Maurice Sternbach's birth year of 1912 is consistent with his being their first child born shortly after their arrival in the United States.
+
+Minnie's siblings, in birth order per the Yichus narrative (pages 6-8):
+1. **Minnie Markel Sternbach** (Freitca Miritza; this individual; 1887-1975)
+2. **[[Masha_Markel_Tachner]]** (Mashe; murdered with family in Pogrom, 1939)
+3. **[[Morris_Markel]]** (Moishe Myer), Rabbi at Ahavath Sholom Synagogue, settled Rhode Island
+4. **[[Sarah_Markel_Tachner]]** (Tsirl)
+5. **[[Avraham_Chaim_Markel]]** (murdered with family in Pogrom, 1939)
+6. **[[Hannah_Markel]]** (murdered with family in Pogrom, 1939)
+7. **[[Florence_Markel_Mermelstein]]** (Sura Feiga; 5/15/1909-11/24/1990)
+8. **[[Pessel_Peppy_Frei]]** (Pessel/Peggy; murdered 1939/1940)
 
 Confidence: Moderate. The Yichus narrative (Tier 2) provides birth year, death year, parents, and settlement location. Spouse data comes from MyHeritage (Tier 3). The birth year discrepancy (1887 vs 1889) requires resolution.
 

@@ -37,15 +37,15 @@ Moishe Myer (Morris) Markel was born in Vanyavitch, Galicia (near Lemberg/Lviv),
 
 The Yichus narrative describes Morris as "a very learned man" (Tier 2). He entered the United States claiming to fill a position as a Rabbi at **Ahavath Sholom Synagogue** in Arctic (West Warwick), Rhode Island (Yichus narrative, Tier 2). His full Hebrew/Yiddish name was Moishe Myer.
 
-Morris was one of eight surviving children of Heshel and Leah (14 born, 6 died in childhood) (Yichus narrative, Tier 2). His siblings, in birth order per the Yichus narrative:
-1. **[[Minnie_Markel_Sternbach]]** (1887-1975), settled Rhode Island
-2. **Avraham Chaim Markel** (murdered with family in Pogrom, 1939)
-3. **Masha Markel Tachner** (murdered with family in Pogrom, 1939)
-4. **Morris (Moishe Myer) Markel** (this individual), settled Rhode Island
-5. **Sarah Markel Tachner**
-6. **Hannah Markel** (murdered with family in Pogrom, 1939)
-7. **[[Florence_Markel_Mermelstein]]** (Sura Feiga; 1909-1990)
-8. **Pessel (Peppy) Frei** (murdered 1939/1940)
+Morris was one of eight surviving children of Heshel and Leah (14 born, 6 died in childhood) (Yichus narrative, Tier 2). His siblings, in birth order per the Yichus narrative (pages 6-8):
+1. **[[Minnie_Markel_Sternbach]]** (Freitca Miritza; 1887-1975), settled Rhode Island
+2. **[[Masha_Markel_Tachner]]** (Mashe; murdered with family in Pogrom, 1939)
+3. **Morris (Moishe Myer) Markel** (this individual), settled Rhode Island
+4. **[[Sarah_Markel_Tachner]]** (Tsirl)
+5. **[[Avraham_Chaim_Markel]]** (murdered with family in Pogrom, 1939)
+6. **[[Hannah_Markel]]** (murdered with family in Pogrom, 1939)
+7. **[[Florence_Markel_Mermelstein]]** (Sura Feiga; 5/15/1909-11/24/1990)
+8. **[[Pessel_Peppy_Frei]]** (Pessel/Peggy; murdered 1939/1940)
 
 Four of Morris's siblings (Avraham Chaim, Masha, Hannah, and Pessel) were murdered along with their families during a Pogrom in 1939. According to the Yichus narrative, on Rosh Hashanah 1939, "They were forced to leave the premises and were marched to the Rodzinka Forest where they were murdered" (Yichus narrative, Tier 2).
 

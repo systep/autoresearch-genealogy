@@ -31,7 +31,7 @@ tags: [genealogy, frei, frye, markel, person, galicia, jewish, tier-2]
 | Spouse | [[Heschel_Herman_Markel]] (Heshel Markel; b. 1862; d. 1916; m. 1878) | GEDCOM; Yichus narrative (Tier 2) |
 | Marriage | 1878 (she was 14, he was 16) | Yichus narrative (Tier 2) |
 | Children (total) | 14 born, 6 died in childhood, 8 surviving | Yichus narrative (Tier 2) |
-| Surviving Children | 1. [[Minnie_Markel_Sternbach]] (1887-1975); 2. Avraham Chaim Markel (d. 1939); 3. Masha Markel Tachner (d. 1939); 4. [[Morris_Markel]] (Moishe Myer); 5. Sarah Markel Tachner; 6. Hannah Markel (d. 1939); 7. [[Florence_Markel_Mermelstein]] (Sura Feiga, 1909-1990); 8. Pessel (Peppy) Frei (d. 1939/1940) | Yichus narrative (Tier 2) |
+| Surviving Children (birth order per Yichus narrative) | 1. [[Minnie_Markel_Sternbach]] (Freitca Miritza, 1887-1975); 2. [[Masha_Markel_Tachner]] (Mashe, d. 1939); 3. [[Morris_Markel]] (Moishe Myer); 4. [[Sarah_Markel_Tachner]] (Tsirl); 5. [[Avraham_Chaim_Markel]] (d. 1939); 6. [[Hannah_Markel]] (d. 1939); 7. [[Florence_Markel_Mermelstein]] (Sura Feiga, 5/15/1909-11/24/1990); 8. [[Pessel_Peppy_Frei]] (Pessel/Peggy, d. 1939/1940) | Yichus narrative (Tier 2) |
 
 ## Biography
 
@@ -43,15 +43,15 @@ Leah had three sisters: **Bashe**, **Feiga**, and **Frieda** (Yichus narrative, 
 
 Leah married **[[Heschel_Herman_Markel]]** (Heshel Markel; b. 1862; d. 1916) in **1878**, when she was 14 and he was 16 (Yichus narrative, Tier 2). They lived in Vanyavitch, Galicia (near Lemberg/Lviv). Together they had **14 children**, of whom **6 died in childhood** and **8 survived to adulthood** (Yichus narrative, Tier 2).
 
-The eight surviving children, in birth order:
-1. **[[Minnie_Markel_Sternbach]]** (1887-1975), settled Rhode Island
-2. **Avraham Chaim Markel**, murdered with family in Pogrom (1939)
-3. **Masha Markel Tachner**, murdered with family in Pogrom (1939)
-4. **[[Morris_Markel]]** (Moishe Myer), Rabbi, settled Rhode Island
-5. **Sarah Markel Tachner**
-6. **Hannah Markel**, murdered with family in Pogrom (1939)
-7. **[[Florence_Markel_Mermelstein]]** (Sura Feiga; 1909-1990)
-8. **Pessel (Peppy) Frei**, murdered 1939/1940
+The eight surviving children, in birth order per the Yichus narrative (pages 6-8):
+1. **[[Minnie_Markel_Sternbach]]** (Freitca Miritza; 1887-1975), settled Rhode Island
+2. **[[Masha_Markel_Tachner]]** (Mashe), murdered with family in Pogrom (1939)
+3. **[[Morris_Markel]]** (Moishe Myer), Rabbi, settled Rhode Island
+4. **[[Sarah_Markel_Tachner]]** (Tsirl)
+5. **[[Avraham_Chaim_Markel]]**, murdered with family in Pogrom (1939)
+6. **[[Hannah_Markel]]**, murdered with family in Pogrom (1939)
+7. **[[Florence_Markel_Mermelstein]]** (Sura Feiga; 5/15/1909-11/24/1990)
+8. **[[Pessel_Peppy_Frei]]** (Pessel/Peggy), murdered 1939/1940
 
 Leah was widowed in 1916 when Heshel died. She survived him by 24 years, dying in 1940. Four of her children and numerous grandchildren were murdered in the Rosh Hashanah Pogrom of 1939 in the Rodzinka Forest (Yichus narrative, Tier 2).
 
