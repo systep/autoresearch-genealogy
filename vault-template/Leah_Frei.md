@@ -72,3 +72,24 @@ Confidence: Moderate. The Yichus narrative (Tier 2, primary family document) pro
 | Birth/death dates | Not recorded (GEDCOM) | Born 1864, died 1940 (Yichus narrative, Tier 2) | Yichus provides dates not present in GEDCOM. No contradiction. |
 | Father's name | "Yoseph Frei" (GEDCOM) | "Yusef Frei" (Yichus narrative, Tier 2) | Variant romanizations of the same Hebrew/Yiddish name. Consistent. |
 | Mother's origin | Not recorded (GEDCOM) | "of Dubosari" (Yichus narrative, Tier 2) | Yichus adds geographic detail not in GEDCOM. |
+
+## Rabbinical Descent Claim: Assessment (2026-04-14)
+
+The Yichus narrative (Ruth Gold, 2011, Tier 2) states Leah came from "great yichus" and was descended from the **Pnei Yehoshua** (Rabbi Jacob Joshua ben Tzvi Hirsch Falk, 1680-1756), and further claims connections to the **Isserles** and **Landau** rabbinical families. Research conducted 2026-04-14 produced the following assessment.
+
+**What is confirmed about the Pnei Yehoshua's family connections:**
+1. The Pnei Yehoshua married the daughter of **Solomon Segal Landau** of Lemberg (Encyclopedia.com, Wikipedia, Tier 2). This establishes a direct Landau connection through the Pnei Yehoshua's first wife.
+2. The Pnei Yehoshua's maternal grandfather was **Rabbi Yehoshua Heschel of Krakow** (author of Maginne Shelomoh). The Heschel family intermarried with the **Isserles** family: Hesya Miriam Isserles was wife of Rabbi Abraham Joshua Heschel (1596-1663), Chief Rabbi of Krakow (Geni.com, Wikipedia, Tier 2). This establishes an Isserles connection through the Pnei Yehoshua's maternal ancestry.
+3. Therefore, IF descent from the Pnei Yehoshua is proven, the Isserles and Landau connections follow from published rabbinical genealogies.
+
+**What is NOT confirmed: the Frei to Falk link:**
+1. Documented descendant surnames of the Pnei Yehoshua include: Bernstein, Lebenstein, Herzig, Rosanes, Babad-Rabinowicz, Berend-Lowenstein (JGSB Pnei Yehoshua Research; Geni.com). The surname "Falk" was rarely used by descendants. **"Frei" does not appear among any documented descendant surnames.**
+2. "Frei" (German: "free," a status name) and "Falk" (German: "falcon," also the Yiddish kinnui for Yehoshua) are **etymologically unrelated**. There is no documented phonetic or administrative pathway from Falk to Frei.
+3. No Frei family members appear in any Pnei Yehoshua descendant genealogy consulted (Geni.com trees, JewishGen Rav-SIG, JGSB research page).
+
+**Published genealogies that could resolve this:**
+1. **Ateres Yehoshua** by Rabbi Dovid Aryeh Leib Zunz (Bilgoray, 1936; reprinted New York, 1982): documents Pnei Yehoshua descendants but lacks name index; requires page-by-page search in Hebrew.
+2. **Lewenstein genealogy** by Rabbi Yosef Lewenstein of Serotsk, published in Hapeles (1902-1903), available on HebrewBooks.org starting page 479.
+3. **The Unbroken Chain** by Neil Rosenstein (3rd ed., 2016-present): covers Katzenellenbogen and related rabbinical families; may include Pnei Yehoshua descendants through intermarriage.
+
+**Confidence: SPECULATIVE.** The Yichus claim is a single Tier 2 source with no corroboration. The Isserles and Landau connections are historically plausible IF Pnei Yehoshua descent is proven, but the critical link (Frei family to Pnei Yehoshua/Falk family) remains undocumented. The surname difference (Frei vs. Falk) is unexplained.

@@ -2172,3 +2172,85 @@ The Markel family immigration manifest almost certainly exists in NARA microfilm
 - `Morris_Markel.md`: Added ship manifest search status and Florence arrival note to Immigration section.
 - `Open_Questions.md`: Updated #22 with full search history, detailed leads, and priority order. Merged #31 into #22.
 - `Research_Log.md`: This entry.
+
+---
+
+## 2026-04-14: Pnei Yehoshua / Frei Rabbinical Descent Research
+
+**Goal**: Investigate the Yichus narrative claim that Leah Frei descended from the Pnei Yehoshua (Rabbi Jacob Joshua Falk, 1680-1756) and from the Isserles and Landau rabbinical families.
+
+### Searches Conducted (12 total)
+
+**Search 1: Pnei Yehoshua descendants in Galicia/Lemberg**
+- **Query**: Pnei Yehoshua Rabbi Jacob Joshua Falk descendants genealogy Galicia Lemberg
+- **Sources**: Wikipedia, Encyclopedia.com, Geni.com, FamilySearch
+- **Results**: The Pnei Yehoshua (1680-1756) was born in Krakow, became Chief Rabbi of Lemberg in 1717. His first wife was Leah Landau, daughter of Solomon Segal Landau of Lemberg (killed 1702 in gunpowder explosion). Three sons documented: Issachar Dov (1712-1744, rabbi of Podhajce), Aryeh Loeb (1715-1789, rabbi of Skala then Hanover), and a third less documented. Some grandchildren took the surname Bernstein; descendants lived in Brody from late 18th century onward.
+
+**Search 2: Pnei Yehoshua Falk family tree on Geni**
+- **Query**: "Pnei Yehoshua" Falk family tree descendants Geni
+- **Sources**: Geni.com profiles
+- **Results**: Children listed: Leah Falk (wife?), Gittel, Meitel (d. 1733), Faiga (married R. Shmuel Dov Hertzfeld), another daughter (married R. Naftali Hertz Halperin), Issachar Dov, Aryeh Leib. Descendant surnames: Lebenstein, Berend-Lowenstein, Bernstein, Babad-Rabinowicz, Herzig, Rosanes. Key finding: "Falk was hardly ever used as its family name in practice." A German-language descendant tree exists in Geni sources tab.
+
+**Search 3: Neil Rosenstein's "The Unbroken Chain"**
+- **Query**: Neil Rosenstein "Unbroken Chain" Pnei Yehoshua Falk descendants
+- **Sources**: Geni project page, Amazon, Internet Archive, Avotaynu
+- **Results**: The Unbroken Chain documents descendants of R. Meir Katzenellenbogen of Padua and R. Judah Loew of Prague through 22 generations. 3rd edition (2016-present) projected 10 volumes. Does not specifically index Pnei Yehoshua but may include them through intermarriage with Katzenellenbogen network. Book must be consulted directly.
+
+**Search 4: Frei/Falk surname connection**
+- **Query**: Frei Falk surname connection Jewish Galicia surname change
+- **Sources**: Geneanet, Avotaynu (Alexander Beider's Dictionary of Jewish Surnames from Galicia), FamilySearch
+- **Results**: "Frei" derives from Middle High German vri "free, independent," a status name. "Falk" derives from German Falke "falcon" or Yiddish falk, also the kinnui (secular name) for Yehoshua. The two names are etymologically unrelated. No documented surname change pathway from Falk to Frei found. In Galicia, Jews adopted mandatory hereditary surnames after 1785 under Joseph II's edict.
+
+**Search 5: Pnei Yehoshua descendants and Bernstein surname in Brody**
+- **Query**: "Pnei Yehoshua" descendants Bernstein Brody Galicia surnames genealogy
+- **Sources**: JewishGen, Geni.com, JGSB research page
+- **Results**: Confirmed grandchildren took Bernstein surname. Aryeh Leib Bernstein (b. 1708, Brody) documented. A genealogy by Rabbi Yosef Lewenstein of Serotsk was published in Hapeles (1902-1903), available on HebrewBooks.org starting p. 479.
+
+**Search 6: Dubceron/Dubosari location**
+- **Query**: Dubceron Dubosari Sambor Galicia Jewish town location
+- **Sources**: JewishGen IJCP, Wikipedia, Gesher Galicia
+- **Results**: Dubossary (Dubosari) is in modern Moldova on the Dniester River, ~500km from Waniowice. It is in Bessarabia, not Galicia. "Dubceron" not found as an identifiable place name in any gazetteer consulted. The Yichus narrative's "Dubceron" may be a phonetic rendering of Dubosari/Dubossary. Toba Rivka's origin in Dubosari would represent an inter-regional marriage connecting a Bessarabian family with a Galician one.
+
+**Search 7: Ateres Yehoshua (Zunz, 1936)**
+- **Query**: "Ateres Yehoshua" Zunz 1936 Pnei Yehoshua descendants genealogy
+- **Sources**: JGSB, Geni.com
+- **Results**: Confirmed: Sefer Ateres Yehoshua by Rabbi Dovid Aryeh Leib Zunz, published Bilgoray 1936, reprinted New York 1982. Documents Pnei Yehoshua descendants but lacks name index; requires page-by-page search in Hebrew small print. This is the single most comprehensive published source on Pnei Yehoshua descendants.
+
+**Search 8: Pnei Yehoshua wife and Landau/Isserles connections**
+- **Query**: Jacob Joshua Falk wife "Solomon Segal Landau" daughter Lemberg Isserles ancestry
+- **Sources**: Encyclopedia.com, Geni.com, Wikipedia
+- **Results**: CONFIRMED: First wife was daughter of Solomon Segal Landau of Lemberg. This directly establishes the Landau connection claimed in the Yichus narrative. The "Landau" in the claim likely refers to this Solomon Segal Landau rather than (or in addition to) the later Rabbi Ezekiel Landau (1713-1793).
+
+**Search 9: Pnei Yehoshua ancestry and Isserles connection**
+- **Query**: Pnei Yehoshua grandfather "Yehoshua Heschel" Isserles connection Krakow rabbinical lineage
+- **Sources**: Geni.com, Wikipedia
+- **Results**: CONFIRMED: The Pnei Yehoshua's maternal grandfather was R. Yehoshua Heschel of Krakow (author of Maginne Shelomoh). The Heschel family intermarried with the Isserles family: Hesya Miriam Isserles was wife of R. Abraham Joshua Heschel (1596-1663), Chief Rabbi of Krakow. This establishes the Isserles connection through the Pnei Yehoshua's maternal line.
+
+**Search 10: Frei family in Waniowice/Sambor records**
+- **Query**: Frei family Waniowice Sambor Galicia Jewish genealogy
+- **Sources**: Gesher Galicia, JewishGen, FamilySearch
+- **Results**: NEGATIVE. No specific Frei family records found for Waniowice or Sambor district. General Galicia databases (Gesher Galicia All Galicia Database, Ancestry Galicia collection 3132) available for future searching.
+
+**Search 11: Descendant surname comprehensive check**
+- **Query**: "Pnei Yehoshua" Falk descendants surname list Bernstein Lebenstein Herzig Rosanes Frei
+- **Sources**: JewishGen, Geni.com, JGSB
+- **Results**: Confirmed descendant surnames: Bernstein, Lebenstein, Herzig, Rosanes, Babad-Rabinowicz, Berend-Lowenstein. Frei NOT listed. "Those whose given name was Yehoshua had the second name of Falk, Valk, Walk, Wallik, or Wallich." This explains the Falk surname origin (kinnui for Yehoshua) but does not connect to Frei.
+
+**Search 12: Aryeh Leib Bernstein as Pnei Yehoshua descendant**
+- **Query**: Aryeh Leib Bernstein grandson Pnei Yehoshua Brody rabbi genealogy
+- **Sources**: Wikipedia, Encyclopedia.com, Geni.com, JSTOR (N.M. Gelber article)
+- **Results**: Aryeh Leib Bernstein (1708-1788) was documented in Brody, served as rabbi of Zbaraz. His son Issachar Berush Bernstein studied under him. A later Aryeh Leib Bernstein (1790-1843) of Lvov is also documented as Pnei Yehoshua descendant. N.M. Gelber published an article "Aryeh Leib Bernstein: Chief Rabbi of Galicia" in JSTOR.
+
+### Summary Assessment
+
+| Claim | Status | Basis |
+|---|---|---|
+| Descent from Pnei Yehoshua | SPECULATIVE | Single Tier 2 source (Yichus narrative). No Frei found among documented descendants. Surname Frei is unrelated to Falk. |
+| Connection to Landau family | PLAUSIBLE (conditional) | Pnei Yehoshua's first wife was daughter of Solomon Segal Landau. Confirmed by multiple Tier 2 sources. Conditional on proving Pnei Yehoshua descent. |
+| Connection to Isserles family | PLAUSIBLE (conditional) | Pnei Yehoshua's maternal Heschel family intermarried with Isserles. Confirmed by multiple Tier 2 sources. Conditional on proving Pnei Yehoshua descent. |
+| Frei = Falk (surname link) | NOT SUPPORTED | Etymologically unrelated names. No documentation of this surname change. |
+
+### Files Updated
+- `Leah_Frei.md`: Added "Rabbinical Descent Claim: Assessment" section with full research findings.
+- `Open_Questions.md`: Updated #12, changed status from PARTIALLY CONFIRMED to SPECULATIVE, added detailed search history and revised next steps.
+- `Research_Log.md`: This entry.
