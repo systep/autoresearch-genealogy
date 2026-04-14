@@ -29,8 +29,9 @@ tags: [genealogy, moseley, person, south-carolina, virginia, colonial]
 | Died | ~1801 (user instruction) / 1811 (GEDCOM entry I501718, age 60-61) | See Data Discrepancies |
 | Death Place | Brunswick, Virginia, USA (GEDCOM) / Brushy Creek, Greenville, SC (user instruction) | See Data Discrepancies |
 | Burial | Not recorded | |
-| Father | Marvel Moseley Jr. (confirmed by 1752 will, per user instruction) | User instruction |
-| Mother | Not recorded | |
+| Father | William Moseley (d. before 26 Aug 1776, Brunswick County VA) | RootsWeb Moseley project (Tier 3), WikiTree Moseley-1908 (Tier 3) |
+| Paternal Grandfather | Marvel Moseley Jr. (1682-1753), will dated 2 Mar 1752 names son William | WikiTree Moseley-106 (Tier 3), Goochland County VA probate (Tier 1) |
+| Mother | Ann (surname unknown, d. c. 1776/77) | RootsWeb Moseley project (Tier 3) |
 | Spouse | Martha Patty Holloway | GEDCOM |
 | Children | [[Rebecca_Moseley_Huff]] (b. Apr 11, 1772), "Tama" Thama Moseley, Samuel Moseley (son, b. 1795), Huldah Moseley, Hulda Moseley, Abigail Moseley, Anne Elizabeth Moseley, Sally Moseley, Dann Moseley, Sarah Moseley, Nelly Moseley, Mary "Polly" Moseley | GEDCOM, Geni |
 
