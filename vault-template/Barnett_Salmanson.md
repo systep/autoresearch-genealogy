@@ -22,9 +22,9 @@ tags: [genealogy, salmanson, zalmanson, person, immigrant]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Barnett Salmanson (born Berko Zalmanson; also Berl Salmonson, Berko Zalmanzon) | MyHeritage |
-| Born | May 15, 1883 (or 1885), Vilnius (Vilna), Lithuania | MyHeritage family tree |
-| Died | December 14, 1960, Miami, FL | MyHeritage family tree |
+| Full Name | Barnett Salmanson (born Berko Zalmanson; also Berl Salmonson, Berko Zalmanzon; English name **Benjamin**; Hebrew name **Dov Ber**) | MyHeritage; 1930 Census (Benjamin); BillionGraves headstone (Dov Ber) |
+| Born | May 15, 1883, Vilnius (Vilna), Lithuania | MyHeritage family tree; BillionGraves (1883); 1930 Census age 46 (~1884) |
+| Died | December 14, 1960, Miami, FL | MyHeritage family tree; BillionGraves (1960) |
 | Burial | Lincoln Park Cemetery, Warwick, RI | Find a Grave #97021158 |
 | Father | [[Levi_Itzhak_Zalmanson]] (b. 1851) | MyHeritage |
 | Mother | [[Rochel_Tsine_Deych]] (b. 1861) | MyHeritage |
@@ -34,7 +34,7 @@ tags: [genealogy, salmanson, zalmanson, person, immigrant]
 
 ## Biography
 
-Berko Zalmanson was born May 15, 1883 (some records say 1885) in Vilnius (Vilna), Lithuania, to Levi Itzhak Zalmanson and Rochel Tsine (Deych) Zalmanson. He had at least two siblings: Gita and Zalman.
+Berko Zalmanson (Hebrew name **Dov Ber**, English name **Benjamin**) was born May 15, 1883 in Vilnius (Vilna), Lithuania, to Levi Itzhak Zalmanson and Rochel Tsine (Deych) Zalmanson. The 1883 birth year is confirmed by BillionGraves headstone record (Tier 1) and is consistent with the 1930 Census (age 46, ~1884). The earlier "1885" date from some MyHeritage records is likely incorrect. His Hebrew name "Dov Ber" is confirmed by the headstone inscription at Lincoln Park Cemetery: "דוב בער בר לוי יצחק סאלמאנסאן" (Dov Ber bar Levi Yitzchak Salmanson). "Berko" is a Yiddish diminutive of Dov Ber. On the 1930 Census he is listed as "Benjamin Salmonson." He had at least two siblings: Gita and Zalman.
 
 He immigrated to the United States aboard the **SS Baltic**, arriving in New York City on **December 23, 1904**, at approximately age 19 to 21. He settled first in the New York area.
 

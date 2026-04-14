@@ -1,8 +1,8 @@
 ---
 type: person
 name: "Elizabeth (Salk) Salmanson"
-born: ~1887
-died: unknown
+born: 1887-03-05
+died: 1974-11-30
 family: "Salk"
 confidence: strong
 sources:
@@ -11,6 +11,8 @@ sources:
   - "MyHeritage family tree"
   - "Adams Drug Company (Wikipedia)"
   - "Hilda Salmanson obituary (Boston Globe, 2016)"
+  - "BillionGraves headstone record, Lincoln Park Cemetery (Tier 1)"
+  - "Samuel Salmanson obituary, Oct 23, 2004, Florida (Tier 2)"
 created: 2026-04-10
 updated: 2026-04-13
 tags: [genealogy, salk, salmanson, person, immigrant, poland, rhode-island, zalk, adams-drug]
@@ -23,10 +25,10 @@ tags: [genealogy, salk, salmanson, person, immigrant, poland, rhode-island, zalk
 | Field | Value | Source |
 |---|---|---|
 | Full Name | Elizabeth Salmanson (born Salk) | 1930 Census, children's obituaries |
-| Born | ~1887, Poland | 1930 Census |
+| Born | **March 5, 1887**, Poland | BillionGraves headstone (Tier 1); Hebrew birth date ~5648; 1930 Census age 43 |
 | Birthplace | Poland | 1930 Census (both parents also born Poland) |
-| Died | Unknown | |
-| Burial | Lincoln Park Cemetery, Warwick, RI (probable) | Family burial pattern |
+| Died | **November 30, 1974** | BillionGraves headstone (Tier 1); Hebrew death date 17 Kislev 5735; age 87 years, 8 months, 25 days |
+| Burial | **Lincoln Park Cemetery, Warwick, Rhode Island** | BillionGraves (Tier 1, confirmed) |
 | Father | Abraham (Charles) Zolly Salk | MyHeritage family tree (Tier 3, unverified) |
 | Mother | Tauba (surname unknown) | MyHeritage family tree (Tier 3, unverified) |
 | Spouse | [[Barnett_Salmanson]] (m. September 12, 1909, Providence, RI) | MyHeritage |
