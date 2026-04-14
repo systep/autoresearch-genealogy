@@ -1570,3 +1570,82 @@ Confidence in Elizabeth Brasher's parentage (Thomas Levi Brasher Jr.) upgraded f
 3. Obtain "A Brazier/Brasher Saga" by Brashear and McCoy (FamilySearch catalog 734009) to identify the specific evidence the authors used for the Elizabeth parentage claim.
 4. Access Fold3 for digitized pension file S6994 images (requires paid subscription).
 5. Search Greenville County probate case search (greenvillecounty.org/appsas400/Probate/) for Thomas Brasher estate distribution records.
+
+---
+
+## 2026-04-14: Brecht/Bright German Palatinate Origins and Family Crest Research
+
+### Summary
+Conducted comprehensive web research to verify and expand the Brecht/Bright family's German Palatinate origins, search for the Brecht family crest, verify the 1726 emigration, locate Schriesheim church record digitization projects, extract data from RootsWeb "Descendants of Johann Brecht," verify civic roles in Schriesheim, correct the George Adam Bright burial location, and document the Brecht/Bright surname transition. Ran 30+ web searches and attempted 10+ page fetches (most returned 403 errors due to site access restrictions).
+
+### Key Positive Results
+
+1. **1726 Emigration Petition Documented**: On May 6, 1726, Anna Catherina Brecht (widow of Johannes Michael Brecht I, who died 1719) petitioned with her two sons Stefan and Johann Michael to emigrate to America. They landed in Philadelphia in October 1726, settling first in Germantown. Stefan's oldest two sons, along with brother Johannes and sister Susanna with husband Gabriel Roescher, followed in 1731. Source: Geni project "Conrad Kuntz Brecht 1563-1612 family" (Tier 3); RootsWeb "Descendants of Johann Brecht" (Tier 2).
+
+2. **No Ship Passenger List Exists for 1726 Arrival**: The Strassburger and Hinke "Pennsylvania German Pioneers" (1934), the definitive compilation of Philadelphia arrival lists, covers only 1727-1808. A 1727 law required ship captains to report passenger lists; the 1726 Brecht arrival predates this requirement. No ship name has been identified for their crossing. Source: PA State Archives research guide; Strassburger/Hinke publication records.
+
+3. **George Adam Bright Burial Location CORRECTED**: Dutch Hollow Hanger Cemetery is in Middlebrook, Augusta County, Virginia (DHR Historic Register #007-6089), NOT "west of Greenville, SC" as stated in multiple vault files. The "Greenville" in the original reference refers to the Greenville-Middlebrook road in Augusta County. The cemetery contains graves of the first German immigrant settlers in the area from the early-to-mid 1700s. George Adam Bright (b. Sep 2, 1730, d. Jun 14, 1804) is confirmed buried there (Find a Grave #124244091; Geni; WikiTree Bright-270). Sources: Virginia DHR (dhr.virginia.gov/historic-registers/007-6089), Find a Grave, dhhcemetery.org.
+
+4. **George Adam Bright Parentage DISPUTED**: Multiple tertiary sources (GEDCOM, Geni) list George Adam Bright (1730-1804) as a son of Johann Michael Brecht II (1706-1794). However, the RootsWeb "Descendants of Johann Brecht" page and WeRelate attribute George Adam to Johann Stephan Brecht (1692-1747), Michael's older brother. Johann Michael II had a son named "George" (b. Feb 9, 1731, d. ~1783) who is a DIFFERENT individual from George Adam Bright (b. Sep 2, 1730, d. 1804). George (b. 1731) appeared in Lancaster County PA records, scouted with Daniel Boone in Kentucky in 1776, and died ~1783 (Find a Grave #285400993). George Adam married Maria Katharina Kaufeldt (b. Jun 17, 1733, d. ~1798), bought 170 acres in Beverly Manor, Augusta County in 1767, and attended St. John's Reformed Church in Middlebrook. His will dated April 14, 1804 was proved June 25, 1805. Treat George Adam's parentage as (unverified).
+
+5. **Brecht/Bright Surname Transition Documented**: The name change was a direct semantic translation (German "brecht" = English "bright"). It occurred gradually in the second generation: (a) George Adam Brecht adopted "Bright" when he moved to Frederick County, Virginia in 1759; (b) The first WRITTEN use of "Bright" was in 1768, when Michael (b. 1732, the third son) signed the administration account for the estate of Conrad Bower; (c) David Brecht's name was written "Brecht" until 1783; (d) By the Revolution, the family was universally known as "Bright." Source: Geni project (Tier 3), RootsWeb (Tier 2).
+
+6. **Brecht Family Crest: Commercial Sources Only**: Searched for "Brecht Wappen," "Brecht coat of arms," and "Brecht family crest." Found descriptions on commercial heraldry sites (crestsandarms.com, heraldrysinstitute.com, coatofarmsof.com) that attribute to the Brecht surname an eagle, rose, argent, and azure. These are generic surname attributions, NOT authenticated heraldic grants specific to the Schriesheim Brecht family. No primary heraldic source (Siebmacher's Wappenbuch, Generallandesarchiv Karlsruhe, or other German heraldic registry) was identified. The Albert_Graham_Bright file's statement "The family crest (Brecht) is documented" may refer to a family tradition or an unlocated document in the family papers.
+
+7. **Schriesheim Church Records on Archion.de**: Schriesheim church records from approximately 1558 onward are available on Archion.de, a paid subscription platform for digitized German Protestant church records. Over 600 Protestant parishes in Baden are available. Records are digitized but NOT indexed, meaning page-by-page browsing is required. The Evangelisches Archiv Baden holds Protestant parish registers covering 1502-1985. The Schriesheim Reformed Church was the primary denomination during the Brecht family's residence (after 1583 under the Electoral Palatinate's adoption of Calvinism). Source: Archion.de, FamilySearch wiki.
+
+8. **Schriesheim Historical Context Verified**: Schriesheim is a wine town on the Bergstrasse at the western edge of the Odenwald, first documented in 764. The Thirty Years' War devastated the town; barely 40 families (less than 20% of pre-war population) returned, with only 24 bearing old Schriesheim family names. After the war, the population was replenished with Catholics, Lutherans, and Jews alongside the Reformed community. The Mathaismarkt wine festival has been celebrated since 1579. Source: Wikipedia "Schriesheim"; placesofgermany.de.
+
+9. **Key Published Sources Identified**:
+   - Albert G. Green, "Historical Sketch of the Bright Family of Berks County, PA" (1900, 29 pages), published by the Historical Society of Berks County. FamilySearch catalog #1036369.
+   - "The Bright-Brecht Family of Pennsylvania" (227 pages), held by the Historical Society of Pennsylvania. Catalog: discover.hsp.org/Record/marc-67954. Available on FamilySearch.
+   - Don Yoder, "Rhineland Emigrants: Lists of German Settlers in Colonial America" (1981). Contains 24 articles about 18th-century German-speaking emigrants, with personal name index. Based on Palatinate church, parish, and provincial records.
+   - Morton Montgomery, "Historical and Biographical Annals of Berks County, PA" (biographies section contains Brecht/Bright family entry). Available at pagenweb.org.
+
+10. **David Bright Additional Details**: David (b. Aug 9, 1740) was a miller near Schaefferstown, PA, then in the Swatara Valley. He married Mary Grant (also recorded as Mary Gale). He supplied flour for Washington's troops near Valley Forge in 1777-78. About 1784 he moved to Greenbrier County, Virginia. His will (Greenbrier County) named wife Mary, sons Michael, Jesse, David, George, and son-in-law John Moore. He is buried at Charles Evans Cemetery, Reading, Berks County, PA (Find a Grave #47249821); his remains or stone may have been relocated there from another cemetery. Source: RootsWeb, Montgomery, Find a Grave.
+
+11. **Ratsverwandter and Herrenwingerter Roles Confirmed**: WikiTree Brecht-11 and the GEDCOM confirm Balthasar Hans Brecht held the positions of Ratsverwandter (town council member), Herrenwingerter (estate wine grower), Stadtrat (city councilman), and Almonier (charitable officer distributing alms) in Schriesheim. No additional primary documentation of these civic roles was found beyond the GEDCOM references and WikiTree profile. The terms are consistent with 17th century Palatinate civic structure.
+
+### Negative Results
+
+| Search | Result |
+|---|---|
+| RootsWeb "Descendants of Johann Brecht" page fetch | 403 error. Content extracted from web search snippets only. |
+| WikiTree Brecht-58 page fetch | 403 error. Content extracted from search snippets. |
+| Geni project page fetch | 403 error. Content extracted from search snippets. |
+| Find a Grave #124244091 (George Adam Bright) page fetch | 403 error. Content extracted from search snippets. |
+| crestsandarms.com Brecht page fetch | 403 error. Content extracted from search snippets. |
+| heraldrysinstitute.com Brecht page fetch | 403 error. |
+| coatofarmsof.com Brecht page fetch | 403 error. |
+| WeRelate George Bright (16) page fetch | 403 error. |
+| hausegenealogy.com Bright page fetch | 403 error. |
+| cmbower.co.uk Brecht One Name Study page fetch | 403 error. |
+| Specific Brecht coat of arms in German heraldic registry | Not found. No entry in Siebmacher or official German heraldic databases located. |
+| Ship name for 1726 crossing | Not identified. Pre-1727 arrivals not covered by Pennsylvania German Pioneers. |
+| Schriesheim specific church records on Archion.de | Could not verify availability of specific Schriesheim parish without paid Archion subscription. General confirmation that ~1558 onward records exist from earlier research session. |
+| George Adam Bright in Greenville, SC records | No connection to Greenville, SC found. His burial is in Augusta County, Virginia. |
+| Primary heraldic grant for Brecht family of Schriesheim | Not found. |
+
+### Files Updated
+- Johann_Michael_Brecht.md (emigration petition details, children birth dates, George Adam parentage discrepancy, name change documentation, new sources)
+- David_Bright.md (occupation, military service, will details, children list corrected, burial location, new sources, new discrepancies)
+- George_Bright_Sr.md (corrected will location from Berks County to Greenbrier County)
+- George_Michael_Bright.md (corrected Dutch Hollow Cemetery location from Greenville SC to Middlebrook, Augusta County, VA; clarified George Adam parentage dispute)
+- Albert_Graham_Bright.md (corrected Dutch Hollow Cemetery location; added family crest assessment)
+- Balthasar_Hans_Brecht.md (added Schriesheim historical context, church records access info)
+- Brecht_Family_Crest.md (NEW FILE: documents coat of arms findings and caveats)
+- Research_Log.md (this entry)
+
+### Remaining Corrections Needed (Not Yet Updated)
+- Family_Tree.md still references "George Adam Bright" as Johann Michael II's son and places Dutch Hollow Cemetery in Greenville, SC. Needs correction.
+- Marguerite_Julienne_Simone.md lists "George Adam Bright" among children; should note the parentage dispute.
+
+### Next Steps
+1. Obtain Albert G. Green, "Historical Sketch of the Bright Family of Berks County, PA" (FamilySearch catalog #1036369) for definitive resolution of George Adam Bright's parentage.
+2. Obtain "The Bright-Brecht Family of Pennsylvania" (227 pages, HSP) for comprehensive Brecht genealogy.
+3. Access Archion.de to browse Schriesheim Reformed Church records for Brecht christenings, marriages, and burials (1558 onward; paid subscription required).
+4. Search Don Yoder "Rhineland Emigrants" index for Brecht/Schriesheim entries.
+5. Access dhhcemetery.org cemetery records database for George Adam Bright's grave marker inscription.
+6. Investigate whether the family papers contain a specific Brecht coat of arms image or document.
+7. Search Siebmacher's Wappenbuch (available at some research libraries and on Google Books) for any Brecht entry.
+8. Correct Family_Tree.md and Marguerite_Julienne_Simone.md re: George Adam Bright parentage dispute.

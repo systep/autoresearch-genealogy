@@ -58,7 +58,7 @@ George Bright Sr. is therefore the 4th great grandfather of Leonard Daniel Salma
 | WikiTree Bright-298 | User-contributed tree (Tier 3) | https://www.wikitree.com/wiki/Bright-298 |
 | GEDCOM (MyHeritage) | Family tree database (Tier 3) | |
 | FamilySearch Family Tree (via Samuel Graham Bright record 40001:237052816) | Compiled index (Tier 2) | |
-| David Bright will, Berks County PA | Will / probate record (Tier 1) | Referenced; full transcription not yet obtained |
+| David Bright will, Greenbrier County VA | Will / probate record (Tier 1) | David's will names son "George" as receiving the residue of the estate along with son David. Will written in Greenbrier County, not Berks County. |
 | Geni World Family Tree (record 40000:6139222, David Bright entry) | User-contributed tree (Tier 3) | |
 
 ## Data Discrepancies

@@ -31,7 +31,7 @@ tags: [genealogy, Simone, person, French-Huguenot, colonial-American]
 | Father | Johann Jacob Simone (b. 16 Apr 1682, Kusel, Bavaria; d. 15 Apr 1740, Germantown, Philadelphia, PA) | MyHeritage GEDCOM; FamilySearch (40001:857301815) |
 | Mother | Maria Agnes Braun | Geni World Family Tree |
 | Spouse | Johann Michael Brecht II (b. 28 May 1706, Schriesheim, Mannheim; d. 13 Sep 1794, Reading, Berks Co, PA) (m. Apr 1728, Heidelberg, Lancaster, PA) | MyHeritage GEDCOM; Geni |
-| Children | Jacob Brecht Sr. (b. 1729), George Adam Bright, Johann Michael Bright, Katharina Sheetz (born Bright), Peter Brecht, David Bright, Maria Bright, Sarah Jones (born Bright), Christiana Pechin (born Bright), John Bright | Geni World Family Tree |
+| Children | Jacob Brecht Sr. (b. Apr 13, 1729), George (b. Feb 9, 1731), Michael (b. Mar 24, 1732), Katherine (b. Apr 6, 1734), John (b. Feb 20, 1736), Peter (b. May 13, 1738), David Bright (b. Aug 9, 1740), Maria (b. Aug 1, 1742), Sarah (b. Jan 19, 1745), Christina (b. Aug 12, 1747). NOTE: Some sources list "George Adam Bright" (1730-1804) among the children, but this is disputed; he may be the son of Johann Stephan Brecht (1692-1747). See [[Johann_Michael_Brecht]] Data Discrepancies. | Geni, RootsWeb "Descendants of Johann Brecht" |
 
 ## Biography
 

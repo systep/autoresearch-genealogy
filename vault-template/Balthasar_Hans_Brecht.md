@@ -37,7 +37,7 @@ Hans Balthasar Brecht was born on August 24, 1636 in Schriesheim, a town in the 
 
 Balthasar married Anna Margaretha Christmann on August 24, 1658 in Schriesheim (GEDCOM). Notably, Anna Margaretha's father was from Schriesheim as well; the family had deep roots in this community.
 
-Balthasar served as a Ratsverwandter (a member of the town council) and Herrenwingerter (estate wine grower) in Schriesheim. He later held the positions of Stadtrat (city councilman) and Almonier (a charitable officer distributing alms) (GEDCOM). These civic roles indicate the family held a position of some prominence in the community.
+Balthasar served as a Ratsverwandter (a member of the town council) and Herrenwingerter (estate wine grower) in Schriesheim. He later held the positions of Stadtrat (city councilman) and Almonier (a charitable officer distributing alms) (GEDCOM). These civic roles indicate the family held a position of some prominence in the community. Schriesheim is a wine town on the Bergstrasse, at the western edge of the Odenwald, and viticulture has been central to its economy since the medieval period. The town's population was devastated during the Thirty Years' War (only about 20% survived); barely 40 families with only 24 old Schriesheim names returned after the war (Wikipedia, "Schriesheim"). Balthasar's family was among those who endured. The Schriesheim community was predominantly Reformed (Calvinist) after 1583 under the Electoral Palatinate, though Catholics, Lutherans, and Jews moved in alongside Reformed residents after the war to replenish the population (Wikipedia, "Schriesheim").
 
 Balthasar and Anna Margaretha had 14 known children (GEDCOM, user instruction). Their son Johannes Michael Brecht became the father of [[Johann_Michael_Brecht]] (Johann Michael Brecht II, 1706-1794), who emigrated to Pennsylvania in 1726 and founded the American Brecht/Bright line.
 
@@ -54,7 +54,7 @@ WikiTree profile Brecht-11 documents this individual.
 | GEDCOM (MyHeritage, entry I501456) | family tree database | |
 | WikiTree Brecht-11 | user-contributed tree (Tier 3) | |
 | MyHeritage Smart Matches (profiles 1503433, 6500051) | matched profiles | |
-| Schriesheim civic and church records (referenced) | primary records (Tier 1, not in vault) | |
+| Schriesheim civic and church records (referenced) | primary records (Tier 1, not in vault) | Schriesheim church records from ~1558 are available on Archion.de (paid subscription, page by page browse, not indexed). Protestant parish registers for Baden covering 1502-1985 are held by the Evangelisches Archiv Baden. |
 
 ## Data Discrepancies
 
