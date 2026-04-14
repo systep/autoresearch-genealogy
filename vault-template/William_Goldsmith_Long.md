@@ -30,11 +30,15 @@ tags: [genealogy, long, person, south-carolina]
 
 ## Biography
 
-William Goldsmith Long was born in 1862, son of William Thomas Long (1825-1887) and Mary Elizabeth Huff (1838-1922, born Butler County, Kentucky). His parents are buried together (headstone reads "William T. Long 1825-1887 / Elizabeth Huff__ 18?0-1922").
+William Goldsmith Long was born February 10, 1862 in Simpsonville, Greenville County, South Carolina (pedigree chart page 6). He was the son of [[William_Thomas_Long]] (1825-1887/1897) and [[Mary_Elizabeth_Huff]] (1838-1922). His parents are buried together at Standing Springs Cemetery (headstone reads "William T. Long 1825-1887 / Elizabeth Huff__ 18?0-1922").
 
-He married **Roxanne (Rooksaner/Roxana) Cox** (1865-1912), daughter of Thomas Manning Cox (1828-1897) and Sarah Elizabeth "Lizzie" Clark (1836-1879). This marriage united the Long and Cox families, who had migrated together from Orange County, North Carolina to Greenville County, South Carolina in the 1780s.
+**Middle name "Goldsmith" explained:** William was named with his grandmother's maiden surname. His paternal grandmother was **[[Sarah_S_Long|Sarah S. Goldsmith]]** (c. 1800, SC), who married [[Larkin_Long]] (c. 1801-1884). The Goldsmith family was prominent in Simpsonville; William Thomas Goldsmith Sr. (1762-1835) was a Revolutionary War veteran who settled there (WikiTree Goldsmith-699). This naming convention parallels that of William's daughter Rebecca Moseley Long, who bore her great-great-grandmother Rebecca Moseley's surname.
 
-Their daughter **Rebecca M Long** (1898-1985) married Albert Graham Bright (1893-1961), and their granddaughter Mary Elizabeth Bright married Henry Michael Kascher, connecting this line to the Salmanson family through Kathryn Ann Kascher.
+He married **[[Roxanne_Cox]]** (Rooksaner/Roxana) (Feb 21, 1865 - Dec 5, 1912) on January 10, 1886 (pedigree chart). Roxanne was the daughter of Thomas Manning Cox (1828-1897) and Sarah Elizabeth "Lizzie" Clark (1836-1879). This marriage united the Long and Cox families, who had migrated together from Orange County, North Carolina to Greenville County, South Carolina in the 1780s.
+
+Their daughter **[[Rebecca_Moseley_Long]]** (1898-1985) married Albert Graham Bright (1893-1961), and their granddaughter Mary Elizabeth Bright married Henry Michael Kascher, connecting this line to the Salmanson family through Kathryn Ann Kascher.
+
+William Goldsmith Long died March 24, 1937 in Fort Pierce, St. Lucie County, Florida (pedigree chart page 6). His presence in Florida at death suggests he relocated there later in life.
 
 ## Document Sources
 

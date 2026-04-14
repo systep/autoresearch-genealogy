@@ -9,6 +9,76 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-14: Barnett Salmanson Immigration Record Search and SS Baltic Verification
+
+### Summary
+Conducted comprehensive web research to locate Barnett (Berko) Salmanson's immigration record on the SS Baltic (White Star Line), arriving New York City December 23, 1904. Also searched for Elizabeth Salk's 1897 immigration record and Abraham Salk's immigration record. Ran 40+ web searches and 30+ web fetch attempts across Ellis Island databases, JewishGen EIDB, FamilySearch, Ancestry, GG Archives, NorwayHeritage, Wikipedia, Chronicling America, Steve Morse One Step tools, and the Morton Allan Directory. Nearly all genealogical databases blocked automated access (403 errors), consistent with CLAUDE.md guidance that login-required databases cannot be accessed by AI.
+
+### Key Positive Results
+
+1. **SS Baltic (White Star Line) confirmed operational in December 1904**: The RMS Baltic (23,876 gross register tons) was launched November 21, 1903, completed June 23, 1904, and made its maiden voyage Liverpool to New York on June 29, 1904 under Captain Edward Smith. The ship operated continuously on the Liverpool, Queenstown (Cobh), New York route from June 1904. A sailing schedule covering Liverpool to New York service from July 6, 1904 to January 13, 1905 is documented (GG Archives, Tier 2). A December 14, 1904 Liverpool departure is documented in the GG Archives sailing schedule. Sources: Wikipedia (en.wikipedia.org/wiki/RMS_Baltic_(1903)), NorwayHeritage (norwayheritage.com/p_ship.asp?sh=balt2), GG Archives (ggarchives.com/OceanTravel/ImmigrantShips/Baltic.html).
+
+2. **Transit time validates December 23 arrival**: The Baltic's maiden voyage crossing took 7 days, 13 hours, 37 minutes at 16.1 knots average speed. A December 14 departure plus approximately 9 days (winter North Atlantic crossings were slower) yields a December 22-23 arrival, perfectly consistent with the claimed December 23, 1904 arrival date.
+
+3. **Key databases identified for human follow-up**:
+   - **Steve Morse One Step** (stevemorse.org/ellis/passengers.php): Enhanced search form for Ellis Island records with Soundex, phonetic matching, ship name, and date range filters. Free, no login.
+   - **JewishGen EIDB** (jewishgen.org/databases/eidb/): Gold form search with town-of-origin field. Free with registration.
+   - **Statue of Liberty / Ellis Island Foundation** (statueofliberty.org/discover/passenger-ship-search/): Free passenger search with 65 million records. Requires free registration.
+   - **FamilySearch collection 1368704**: New York Passenger Arrival Lists (Ellis Island), 1892-1925. Free with login.
+   - **Ancestry collection 7488**: New York arriving passenger and crew lists, 1820-1957. Requires paid subscription.
+   - **NARA T715 microfilm**: Passenger and Crew Lists of Vessels Arriving at New York, 1897-1957. 8,892 rolls. Available at NARA facilities and through FamilySearch.
+   - **Morton Allan Directory** (archive.org/details/mortonallandirec00balt): Lists all European steamship arrivals at New York 1890-1930 by year and line. Would confirm exact arrival date. Available free on Internet Archive but automated access blocked.
+
+4. **Naturalization records identified**: Rhode Island naturalization records (1802-1945) at NARA Northeast Region (Waltham, MA) and FamilySearch catalog 1378655. Post-1906 naturalization petitions list date of arrival, port, ship name, and last foreign residence. Barnett likely filed in Providence, RI.
+
+5. **WWI Draft Registration Cards identified**: FamilySearch collection 1968530 (free with login). Barnett would have registered in Providence, RI, 1917-1918. The card would contain birth date, birthplace, citizenship status, employer, physical description, and next of kin.
+
+6. **Ellis Island fire impact on Salk records**: The June 15, 1897 fire destroyed the Main Immigration Building and all immigration records dating back to 1855. If Elizabeth Salk arrived before June 15, 1897, the manifest was destroyed (Customs Lists survive separately). If after, the record should exist in the Barge Office records (1897-1900) or rebuilt Ellis Island records (post December 1900).
+
+7. **LitvakSIG All Lithuania Database**: Contains 2.8+ million records including vital records from Vilnius district. Zalmanson birth/marriage records from Vilna may be indexed. Free, searchable online at litvaksig.org.
+
+### Negative Results (All Searches)
+
+1. **Berko Zalmanson / Barnett Salmanson passenger manifest NOT found**: Searched under name variants Berko Zalmanson, Berl Zalmanson, Berko Zalmanzon, B. Salmanson, Barnett Salmanson, Benjamin Salmanson. No results from any web search. All databases require login or paid access for individual record searches.
+
+2. **Elizabeth Salk / Zalk 1897 passenger manifest NOT found**: No results for Salk, Zalk, or variants arriving 1897 with a child from Poland/Russia.
+
+3. **Abraham Salk / Moshe Salk immigration record NOT found**: No results for Abraham Salk arriving Providence, RI, 1894-1896.
+
+4. **Barnett Salmanson naturalization record NOT found via web search**: Rhode Island naturalization records exist (FamilySearch catalog 1378655, NARA Waltham) but are not searchable via free web queries. Ancestry collection 61208 and 2897 cover RI naturalization records but require subscription.
+
+5. **Barnett Salmanson 1960 obituary NOT accessed**: Multiple search results reference his children's obituaries mentioning him, but Barnett's own 1960 obituary full text was not retrievable (403 errors on Legacy.com, Dignity Memorial, Jewish Rhode Island).
+
+6. **1930 Census record NOT directly accessed**: Known to list "Benjamin Salmonson" as head of household in Providence, RI (data already in vault from earlier research), but the original record was not re-accessed in this session.
+
+7. **Chronicling America newspapers**: Attempted to search December 1904 New York newspapers for shipping intelligence mentioning the Baltic. Found a reference to The Sun (NY), December 20, 1904, page 13, but could not access the OCR text (403 error).
+
+8. **Morton Allan Directory**: Available on Internet Archive (archive.org/details/mortonallandirec00balt) and Google Books. Would confirm exact Baltic arrival date for December 1904. Automated access blocked (403).
+
+### Assessment
+
+The SS Baltic immigration claim is **partially verified**: the ship, route, sailing date, and transit time are all confirmed by independent Tier 2 sources, making the December 23, 1904 arrival plausible and consistent. However, the individual passenger record for Berko Zalmanson has NOT been independently located. The claim remains at **Moderate Signal** confidence: one primary source (MyHeritage immigration record, Tier 3) with corroborating circumstantial evidence (ship confirmed operational, sailing date confirmed, transit time consistent) but no independent primary source verification.
+
+### Recommended Human Follow-Up Actions
+
+1. **Highest priority**: Search Steve Morse One Step (stevemorse.org/ellis/passengers.php) for Berko Zalmanson on SS Baltic, December 1904. Try Soundex and Daitch-Mokotoff phonetic searches. This is free and requires no login.
+2. Search JewishGen EIDB Gold Form (jewishgen.org/databases/eidb/ellisgold.html) for last name Zalmanson with town Vilna. Free with JewishGen registration.
+3. Search FamilySearch collection 1968530 for Barnett Salmanson WWI Draft Registration Card, Providence, RI. Free with FamilySearch login.
+4. Search FamilySearch collection 1368704 for Berko Zalmanson, Ellis Island, 1904. Free with login.
+5. Search Ancestry collection 7488 for Berko Zalmanson on SS Baltic, December 1904 (requires paid subscription).
+6. Search LitvakSIG All Lithuania Database (litvaksig.org) for Zalmanson in Vilna/Vilnius.
+7. Request Abraham Salk's 1925 Rhode Island death certificate from RI State Archives.
+8. Search Statue of Liberty Foundation (statueofliberty.org) for Salk/Zalk arriving 1897, and for Abraham Salk arriving 1894-1896.
+
+### Vault Files Updated
+- Barnett_Salmanson.md: Added Immigration Record Verification section, additional data discrepancy entry for SS Baltic.
+- Elizabeth_Salk.md: Added Immigration Record Search section with 1897 fire context and family travel analysis.
+- Abraham_Zolly_Salk.md: Added Immigration Record Search section with database recommendations.
+- Open_Questions.md: Updated #4 (Barnett's birth year) with search results and additional resolving records.
+- Research_Log.md: This entry.
+
+---
+
 ## 2026-04-14: Tier 1 Church Certificate Integration and Stephania Benning Name Discrepancy
 
 ### Summary
