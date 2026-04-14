@@ -83,7 +83,9 @@ Research gaps and unresolved questions, organized by priority and family line. U
 ### 4. Barnett's birth year discrepancy
 - **The conflict**: MyHeritage family tree says 1883; MyHeritage records say 1885. Both cite Vilna, Lithuania.
 - **Minimum records needed**: SS Baltic passenger manifest (Dec 23, 1904) would list his age at arrival, narrowing the birth year.
-- **Solvability**: HIGH (manifest exists)
+- **Searched (2026-04-14)**: Conducted extensive web search for Berko Zalmanson / Barnett Salmanson immigration record on the SS Baltic, December 1904. Ship and route confirmed: RMS Baltic (White Star Line) departed Liverpool December 14, 1904, consistent with December 23 New York arrival. However, the actual passenger manifest was NOT located through free web search. All relevant databases (Ellis Island Foundation, JewishGen EIDB, FamilySearch, Ancestry, Steve Morse One Step) require browser based access with login or paid subscription. The manifest remains the best record to resolve this discrepancy.
+- **Additional records that would resolve**: (1) WWI Draft Registration Card (FamilySearch collection 1968530, free with login) would list exact birth date and birthplace. (2) Naturalization petition (Rhode Island, NARA Waltham or FamilySearch catalog 1378655) would list arrival date, ship, port, and age. (3) 1920 Census (not yet accessed) would list age and year of immigration.
+- **Solvability**: HIGH (multiple accessible records)
 - **Payoff**: LOW (minor date clarification)
 
 ### 5. Bella Measroch (Levi Itzhak's second wife)

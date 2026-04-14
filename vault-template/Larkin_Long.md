@@ -25,7 +25,7 @@ tags: [genealogy, Long, person, South-Carolina]
 | Burial | Unknown | |
 | Father | Unknown (mother listed as Clementine in GEDCOM) | MyHeritage GEDCOM |
 | Mother | Clementine (surname unknown; married name Long) | MyHeritage GEDCOM |
-| Spouse | Sarah S. (surname unknown) (b. 1800, South Carolina) | MyHeritage GEDCOM |
+| Spouse | [[Sarah_S_Long|Sarah S. Goldsmith]] (b. c. 1800, South Carolina; maiden name Goldsmith) | MyHeritage GEDCOM, Geni (via William Thomas Long: "Sarah 'Sally' Long (born Goldsmith)"), pedigree chart |
 | Children | [[William_Thomas_Long]] (b. 25 Nov 1825, Simpsonville, Greenville, SC; d. 16 Oct 1887) | MyHeritage GEDCOM; handwritten notes (per user research) |
 
 ## Biography
@@ -36,7 +36,11 @@ Larkin and Sarah had at least one son, William Thomas Long (b. 25 November 1825,
 
 William Thomas Long married Mary Elizabeth Huff and had at least one child, James Louis Long.
 
-The Geni record for William Thomas Long states his mother was "Sarah 'Sally' Long (born Goldsmith)," which suggests Sarah S.'s maiden name may have been Goldsmith. This remains (unverified).
+The Geni record for William Thomas Long states his mother was "Sarah 'Sally' Long (born Goldsmith)." The pedigree chart (page 6) confirms her maiden name as Goldsmith (b. 1800, SC). This is further corroborated by the naming convention: Larkin's grandson was named **[[William_Goldsmith_Long]]** (1862-1937), preserving the maternal grandmother's maiden surname as a middle name.
+
+**Goldsmith family in Simpsonville:** William Thomas Goldsmith Sr. (b. 24 Jun 1762, Richmond, VA; d. 21 Mar 1835, Simpsonville, Greenville, SC) was a prominent Simpsonville resident and Revolutionary War veteran (WikiTree Goldsmith-699, Find a Grave #201972480). His documented children include a daughter "Sarah Sally Goldsmith" (b. 1805), who is a strong candidate for Larkin's wife. See [[Sarah_S_Long]] for details on this connection.
+
+The pedigree chart (page 6) lists Larkin's mother as "Clementine Long" and his paternal grandmother also as "Clementine Long" (same name). No web results were found for Clementine Long in Greenville County SC; this remains (unverified).
 
 Note: MyHeritage shows a later Larken Long (b. 1877) who is likely a descendant, not the same individual.
 
