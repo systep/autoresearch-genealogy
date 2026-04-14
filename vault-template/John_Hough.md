@@ -38,7 +38,7 @@ John's parents emigrated from Cheshire, England to Pennsylvania circa 1683 as pa
 
 John married Eleanor Sands, daughter of Stephen Sands (b. Feb 25, 1661, Thornley, Lancashire) and Jane Cowgill (b. 1663, Yorkshire). Stephen Sands was also part of the Quaker migration to Pennsylvania. The marriage produced eight children.
 
-John's son Daniel Hough (b. Feb 5, 1724, Middletown, Bucks, PA) is the link to the Huff line. Daniel migrated southward to North Carolina, and the surname gradually changed from "Hough" to "Huff." Daniel's son (or grandson) James Huff (b. 1768, Brunswick Co., VA) married Rebecca Moseley in 1793, continuing the line that connects to the present family through Lewis P. Huff and Mary Elizabeth Huff.
+John's son **[[Daniel_Hough]]** (b. 1693, Bucks Co., PA) married Elizabeth Dudley and may have removed to New Jersey. The pedigree chart incorrectly claims Daniel Hough was the father of James Huff (b. 1768, Brunswick Co., VA). Web research (WikiTree Huff-1770, Huff-1775) demonstrates that James Huff's actual father was a different man: **[[Daniel_Huff_Brunswick|Daniel Huff]]** (c. 1710/1720-c. 1777) of Brunswick County, VA, who married Mary Holloway. The connection between the Bucks County Hough family and the Brunswick County Huff family is plausible (the Hough/Huff surname transition is documented) but the specific generational link remains unproven. See [[Daniel_Hough]] and [[Daniel_Huff_Brunswick]] for details.
 
 John died on November 17, 1744 in Solebury, Bucks County, Pennsylvania, and was buried there (GEDCOM).
 
