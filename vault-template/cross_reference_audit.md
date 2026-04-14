@@ -12,9 +12,9 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 ## Audit Summary
 
 - **Total named individuals audited**: ~125
-- **Discrepancies found**: 18
-- **Resolved this session**: 3
-- **Remaining open**: 15
+- **Discrepancies found**: 22
+- **Resolved this session**: 6
+- **Remaining open**: 16
 
 ---
 
@@ -40,6 +40,10 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 | 16 | George Michael Bright Jr. | marriage_date | "18 Sep 1891" (MyHeritage pedigree chart, page 4) | "Marriage Date: 18 Sep 1892" (Mississippi Marriages 1826-1900, cited ON the same pedigree chart page) | **One year discrepancy from same source page.** The MS Marriages database record (Tier 2) says 1892; the chart heading says 1891. 1892 is from the indexed record. | Pedigree chart (Tier 3) vs. Mississippi Marriages index (Tier 2) | OPEN: 1892 preferred (Tier 2 source). Added 2026-04-14. |
 | 17 | Albert Graham Bright | marriage_date | "2 Sep 1920" (MyHeritage pedigree chart, page 1) | "September 2, 1928" (vault transcription of handwritten chart IMG_0783) | **1920 strongly preferred**: daughter Mary Elizabeth born June 5, 1921 (9 months after Sep 1920 marriage). A 1928 date means she was born 7 years before the marriage. The "2" in "1920" likely misread as "8" on the handwritten chart. | Pedigree chart (Tier 3) vs. handwritten chart (Tier 3, ambiguous handwriting) | LIKELY RESOLVED: 1920 is correct. Added 2026-04-14. |
 | 18 | Albert Graham Bright | birth_date_month | "19 Apr 1893" (MyHeritage pedigree chart) | "Aug 19, 1893" (George_Michael_Bright.md, handwritten chart) | Day (19th) is consistent; month differs (April vs August). Could be a month/day format confusion. | Both Tier 3 | OPEN: Primary source needed. Added 2026-04-14. |
+| 19 | Sara Schuller / Stephania Benning | **full_name** | "Sara Schuller" (GEDCOM, FamilySearch, MyHeritage, pedigree charts: all Tier 3) | **"verwitwete Stephania Benning"** (VATER church certificate, Assets/05.pdf, Tier 1, Pastor A. Bogeschdorfer, Waldhuetten, 10 Feb 1938) | **CRITICAL DISCREPANCY. Same person:** b. 27 Jan 1829, d. uterine cancer (Gebaermutterkrebs), same husband Michael Kascher (b. 1834, Wurmloch). VATER certificate (Tier 1) calls her "verwitwete Stephania Benning" (widowed Stephania Benning). GEDCOM/pedigree (Tier 3) calls her "Sara Schuller." Death date differs by 5 days: 22 Mai 1876 (Tier 1) vs 27 May 1876 (Tier 3). **Tier 1 supersedes Tier 3: her name per church registers is Stephania Benning, previously widowed, who married Michael Kascher on 4 Jan 1860.** The name "Sara Schuller" may derive from: (a) a confusion with her mother Sara Benning or maternal grandfather Leonhard Schuller, (b) a second given name (Stephania Sara), (c) a Transylvanian Saxon naming convention where "Schuller" was a Beiname. The GEDCOM's "Sara Schuller" appears to be a Tier 3 error propagated across multiple derivative trees. See [[Sara_Schuller]] for full analysis. | VATER church certificate (Tier 1) vs GEDCOM/FamilySearch (Tier 3). **Tier 1 wins.** | OPEN: Name corrected to Stephania Benning per Tier 1 source. Further research needed to determine origin of "Sara Schuller" name in GEDCOM. Added 2026-04-14. |
+| 20 | Sara Schuller / Stephania Benning | death_date | 27 May 1876 (GEDCOM, Tier 3) | **22 Mai 1876** (VATER church certificate, Tier 1) | 5-day difference. **Tier 1 church register preferred: 22 May 1876.** GEDCOM's "27 May" is likely a transcription error or memory error by whoever submitted the GEDCOM. | VATER church certificate (Tier 1) vs GEDCOM (Tier 3) | RESOLVED: 22 May 1876 per Tier 1. Added 2026-04-14. |
+| 21 | Michael Kascher I | death_date | 28 June 1880 (VATER church cert, Tier 1) | 28 June 1890 (user task description) | **Church certificate says 1880.** The "1890" in the task description appears to be a typo. The vault already records 1880 consistently. No action needed. | Church certificate (Tier 1) | RESOLVED: 1880 is correct. Added 2026-04-14. |
+| 22 | Michael Kascher (son, child #1) | birth_year | 11 Feb 1889 (KINDER cert reading, Tier 1; corroborated by SSDI, 1913 marriage age 24, 1930 census age 41) | 11 Feb 1899 (alternate reading of KINDER cert digit) | **RESOLVED: 1889 is correct.** Chronological sequence of KINDER children requires 1889: next child (stillborn) is 1893, then 1895, 1897, etc. If Michael were born 1899, he would be younger than siblings born 1893-1897. Additionally, SSDI, marriage record (age 24 in 1913), and 1930 census (age 41) all confirm 1889. The church certificate digit was ambiguous but 1889 is the only possibility. | KINDER cert (Tier 1) + SSDI (Tier 1) + census (Tier 1) | RESOLVED: 1889 confirmed. Added 2026-04-14. |
 
 ---
 
