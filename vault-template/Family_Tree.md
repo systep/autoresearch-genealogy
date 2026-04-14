@@ -99,7 +99,10 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 **Barnett Salmanson + Elizabeth (Salk) Salmanson** (strong)
 - Based in Providence, Rhode Island (family originally from Brooklyn, NY per Samuel's obituary)
 - Founded family drug store business that became Adams Drug Company (est. 1933, Pawtucket, RI) and later Brooks Drug (500+ stores, 10 states, NYSE-listed)
-- Sources: Multiple obituaries, Find a Grave
+- Elizabeth: b. **March 5, 1887**, Poland; d. **November 30, 1974**; buried Lincoln Park Cemetery, Warwick, RI (BillionGraves headstone, Tier 1)
+- Elizabeth's Hebrew name: **Hilda** (הילדה); headstone patronymic: "bat Moshe" (daughter of Moses). See **Discrepancy #28**: father's Hebrew name may be Moshe, not Abraham as in GEDCOM.
+- Elizabeth's father: [[Abraham_Zolly_Salk]] (d. Feb 22, 1925, RI); mother: Tauba (unverified)
+- Sources: Multiple obituaries, Find a Grave, BillionGraves headstone (Tier 1)
 
 **Children of Barnett + Elizabeth (Salk) Salmanson:**
 

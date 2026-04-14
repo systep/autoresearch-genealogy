@@ -12,9 +12,9 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 ## Audit Summary
 
 - **Total named individuals audited**: ~130
-- **Discrepancies found**: 27
+- **Discrepancies found**: 28
 - **Resolved**: 11 (including 2 from 2026-04-14 Yichus integration)
-- **Remaining open**: 16
+- **Remaining open**: 17
 
 ---
 
@@ -49,6 +49,8 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 | 23 | Ralph Neville | wife_identity | "Margaret de Audley, daughter of Hugh de Audley and Margaret de Clare" (Pedigree Charts 1-46.pdf, Tier 3) | Alice de Audley (d. 1374), daughter of Hugh de Audley, 1st Baron of Stratton Audley, and Isolde le Rous/Mortimer (Wikipedia, Tier 2) | **RESOLVED: Wife was ALICE de Audley, Hugh's SISTER, not daughter. Alice had no Plantagenet blood.** Hugh de Audley, 1st Earl of Gloucester's only child (Margaret) married Ralph Stafford, not Ralph Neville. This is a fatal break in the claimed royal descent. | Wikipedia (Tier 2) supersedes Pedigree Charts (Tier 3) | RESOLVED: Pedigree charts conflate two Audley women. Added 2026-04-14. |
 | 24 | William Cox Sr. | parentage | Son of William Richardson Cox (1692-1767, Delaware) (Pedigree Charts, Ancestry.com, FamilySearch, Geni, Tier 3) | Parents UNKNOWN (brick wall). Y-DNA (Y-37, R1b-I "Carolina Coxes" R-M269) does NOT match Delaware Quaker Cox line. (Cox Family History Project, FamilyTreeDNA, Tier 1+2) | **RESOLVED: William Cox Sr. (c. 1730-1814, SC) is NOT the son of William Richardson Cox (DE).** DNA-disproven erroneous merger in multiple databases. This breaks the claimed royal descent chain at its terminal colonial connection. | DNA (Tier 1) + Cox Family History Project (Tier 2) supersede user-contributed trees (Tier 3) | RESOLVED: Erroneous merger. Added 2026-04-14. |
 | 25 | Norman Cooke of Lavenham | existence | Listed as ancestor in Pedigree Charts (Tier 3) | WikiTree Space:Cooke-Dubious Pedigree: "Disproven Existence" for Cooke profiles 1025-1425 (Tier 2) | **RESOLVED: FABRICATION.** Norman Cooke of Lavenham and the entire Cooke ancestry of Lavenham pre-1442 is a known fabrication. No evidence has been proposed for any of these profiles. | WikiTree community research (Tier 2) supersedes Pedigree Charts (Tier 3) | RESOLVED: Fabricated ancestor. Added 2026-04-14. |
+
+| 28 | Abraham Salk | hebrew_name | "Abraham" (GEDCOM/MyHeritage, Tier 3) | Elizabeth Salmanson headstone Hebrew inscription: "הילדה בת משה" = "Hilda bat Moshe" (BillionGraves, Lincoln Park Cemetery, Tier 1) | **OPEN: Father's Hebrew name may be Moshe (Moses), not Abraham.** Headstone (Tier 1) takes precedence over GEDCOM (Tier 3). However, the full inscription is complex and contains names from both the Salk and Salmanson lineages. "Avraham" appears later in the inscription but may refer to a Zalmanson ancestor. Professional Hebrew epigraphy review needed. Abraham's 1925 death record would provide independent confirmation. | BillionGraves headstone (Tier 1) vs MyHeritage GEDCOM (Tier 3) | OPEN: Requires death record and/or professional inscription review. Added 2026-04-14. |
 
 ---
 
@@ -189,7 +191,7 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 | All parents born before children | PASS (except Stangle century errors, resolved) |
 | All marriages occur between birth and death | PASS (except David Wesley/King marriage issue, #12) |
 | Sibling birth dates allow for biological possibility | FAIL for Stangle children (#13) |
-| Names consistent across all mentions in Family_Tree.md | PASS |
+| Names consistent across all mentions in Family_Tree.md | PASS (except Stephania Benning / Sara Schuller, #19) |
 | Web-sourced dates match across multiple web sources | PASS (Salmanson dates consistent across Find a Grave, obituaries, AncientFaces) |
 | Handwritten note facts match across pages | FAIL for Kopp vs Huff (#5) |
 | Family tree app data matches web research | PASS for Salmanson line |
@@ -200,6 +202,7 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 
 | Source Type | Examples | Reliability | Notes |
 |-------------|----------|-------------|-------|
+| Waldhütten church certificates (VATER, MUTTER, KINDER) | Assets/03.pdf, 04.pdf, 05.pdf (1938, Pastor A. Bogeschdorfer) | **Very High (Tier 1)** | Extracted directly from Evangelical A.B. parish registers by serving pastor. Definitive primary source for Kascher/Binder/Schuller lines. |
 | Find a Grave memorials | #231959694, #231959788, #185239892 | Moderate-High | User-submitted but often cite primary sources |
 | Published obituaries | Samuel (2004), Donald (2015), Hilda (2016), Martha | High | Contemporary, published in newspapers |
 | WikiTree profiles | Cox-14020, Cox-18821, Henderson-12233 | Moderate | Community-sourced, references cited |

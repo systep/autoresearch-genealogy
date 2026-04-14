@@ -26,13 +26,13 @@ tags: [genealogy, Benning, person, Transylvanian-Saxon]
 | Father | Michael Benning | GEDCOM |
 | Mother | Sara Benning (same name) | GEDCOM |
 | Spouse | **[[Johann_Schuller]]** (b. Sept 1797, Waldhütten; d. 10 March 1858, liver disease) | Church certificate (Tier 1) |
-| Children | Johannes Schuller, Michael Schuller, **[[Sara_Schuller]]** (b. 27 Jan 1829), Catharina Schuller | GEDCOM + Church cert |
+| Children | Johannes Schuller, Michael Schuller, **[[Sara_Schuller|Stephania Benning]]** (b. 27 Jan 1829; GEDCOM calls her "Sara Schuller," Tier 1 church cert says "Stephania Benning"; see cross_reference_audit.md #19), Catharina Schuller | GEDCOM + Church cert |
 
 ## Biography
 
-Sara Benning was born in **December 1800** in Waldhütten, Transylvania, Austria. Per the **1938 Waldhütten church certificate "VATER"** (Tier 1 primary source), she married **[[Johann_Schuller]]** (b. September 1797, Waldhütten) on **20 January 1820**. Her parents per GEDCOM were Michael Benning and Sara Benning (same name). She was the mother of **[[Sara_Schuller]]** (b. 27 January 1829), who married Michael Kascher.
+Sara Benning was born in **December 1800** in Waldhütten, Transylvania, Austria. Per the **1938 Waldhütten church certificate "VATER"** (Tier 1 primary source), she married **[[Johann_Schuller]]** (b. September 1797, Waldhütten) on **20 January 1820**. Her parents per GEDCOM were Michael Benning and Sara Benning (same name). She was the mother of **[[Sara_Schuller|Stephania Benning]]** (b. 27 January 1829; the VATER cert calls her "verwitwete Stephania Benning," not "Sara Schuller" as in the GEDCOM; see cross_reference_audit.md #19), who married Michael Kascher.
 
-Sara died **17 October 1855** of **tuberculosis** (Tuberkulose). Her husband Johann died 10 March 1858 of liver disease, less than three years later. Their daughter Sara Schuller had already married Michael Kascher on 4 January 1860, but Sara Benning did not live to see this marriage.
+Sara died **17 October 1855** of **tuberculosis** (Tuberkulose). Her husband Johann died 10 March 1858 of liver disease, less than three years later. Their daughter Stephania had already married Michael Kascher on 4 January 1860, but Sara Benning did not live to see this marriage.
 
 ## Document Sources
 

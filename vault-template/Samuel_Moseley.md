@@ -6,8 +6,12 @@ died: ~1801
 family: "Moseley"
 confidence: moderate
 sources:
+  - "WikiTree Moseley-3817 (Abigail Moseley Holloway, sister, Tier 3)"
+  - "WikiTree Holloway-58 (Martha Patty Holloway, Tier 3)"
+  - "WikiTree Huff-1775 (James Huff, son-in-law, Tier 3)"
+  - "Marvel Moseley Jr. will, 2 Mar 1752, Goochland County VA (Tier 1)"
+  - "William Holloway will, 16 Oct 1784, Brunswick County VA (Tier 1, William Moseley Jr. witness)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage)"
-  - "Family_Tree.md"
   - "Geni World Family Tree (via Rebecca Moseley record)"
 created: 2026-04-10
 tags: [genealogy, moseley, person, south-carolina, virginia, colonial]

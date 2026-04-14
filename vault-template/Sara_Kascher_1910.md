@@ -25,7 +25,7 @@ tags: [genealogy, kascher, person, transylvania, ohio, transylvanian-saxon]
 
 ## Biography
 
-Sara Kascher was born 1 May 1910 in Waldhütten, Transylvania, the ninth child of **Michael Kascher Sr.** and **Anna Binder**. She was named after her paternal grandmother **[[Sara_Schuller]]** (1829-1876).
+Sara Kascher was born 1 May 1910 in Waldhütten, Transylvania, the ninth child of **Michael Kascher Sr.** and **Anna Binder**. She may have been named after her paternal great-grandmother **[[Sara_Benning]]** (1800-1855), or possibly after her paternal grandmother **[[Sara_Schuller\|Stephania Benning]]** (1829-1876), if the family also knew the grandmother by the name "Sara" (see cross_reference_audit.md #19 for the Stephania Benning vs Sara Schuller name discrepancy).
 
 Her mother Anna died 18 October 1915 when Sara was 5 years old. Sara would have emigrated to the United States with her father and surviving siblings after her mother's death.
 

@@ -26,7 +26,7 @@ tags: [genealogy, Schuller, person, Transylvanian-Saxon]
 | Father | **[[Leonhard_Schuller]]** (b. circa 1770, Waldhütten; data fehlen/missing) | Church certificate "VATER" (Tier 1) |
 | Mother | Unknown | Church certificate confirms "data fehlen" |
 | Spouse | **[[Sara_Benning]]** (b. December 1800, Waldhütten; d. 17 October 1855, tuberculosis) | Church certificate "VATER" (Tier 1) |
-| Children | Johannes Schuller, Michael Schuller, **[[Sara_Schuller]]** (b. 27 Jan 1829; m. Michael Kascher 1860), Catharina Schuller | GEDCOM + Church cert |
+| Children | Johannes Schuller, Michael Schuller, **[[Sara_Schuller|Stephania Benning]]** (b. 27 Jan 1829; m. Michael Kascher 1860; GEDCOM calls her "Sara Schuller," Tier 1 says "Stephania Benning"; see cross_reference_audit.md #19), Catharina Schuller | GEDCOM + Church cert |
 
 ## Biography
 
