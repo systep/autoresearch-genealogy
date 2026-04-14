@@ -9,6 +9,44 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-14: Esther Lucy Kyle Parental Research
+
+### Summary
+Conducted 14 focused web searches to identify the parents of Esther Lucy Kyle (b. Jul 1827, Alabama; d. May 20, 1912, Chattanooga, TN), wife of William Henry Youngblood. Searched Find a Grave, WikiTree, Geni, Genealogy.com, FamilySearch wiki, Alabama GenWeb, and general genealogy databases. Most genealogy sites blocked automated page fetches (403 errors), limiting data extraction to search result snippets only.
+
+### Key Positive Results
+
+1. **James H. Kyle in 1830 Bibb County AL Census**: The 1830 Bibb County, Alabama Census index lists "Kyle, James H." as a head of household. Esther Lucy was born in July 1827 in Alabama, making her approximately 3 years old at this census. James H. Kyle is the strongest candidate for her father: correct county (Bibb, where William H. Youngblood was also born), correct timeframe, and consistent with 1880 Census data showing Esther Lucy's father was from Virginia. Source: trackingyourroots.com and algenweb.org census indices (both returned 403 on fetch; confirmed via search snippets).
+
+2. **Genealogy.com James H Kyle family tree**: A user-submitted family tree exists at genealogy.com/ftm/k/y/l/James-H-Kyle/ODT7-0001.html. The page title is "James-H-Kyle - User Trees - Genealogy.com." Content inaccessible (403 error). This Tier 3 source requires manual browser verification and may name children, including potentially Esther Lucy.
+
+3. **Kyle family in Grayson County, Virginia**: A published volume on "Pioneer Settlers of Grayson County, Virginia" lists Kyle as a principal family. This is consistent with the 1880 Census data indicating Esther Lucy's father was born in Virginia. Grayson County is in southwestern Virginia, a known corridor for migration to Alabama in the 1810s-1820s.
+
+### Negative Results (Logged)
+
+| Search | Database | Date | Result |
+|---|---|---|---|
+| Kyle surname memorials, Bibb County AL (pre-1900) | Find a Grave | 2026-04-14 | NEGATIVE. 403 on direct URL. Web search returned no Kyle memorials. |
+| Kyle surname memorials, Lowndes County MS | Find a Grave | 2026-04-14 | NEGATIVE. No Kyle memorials found. |
+| "Lucy Youngblood" or "Esther Youngblood" d. 1912, Chattanooga TN | Find a Grave | 2026-04-14 | NEGATIVE. No memorial found. |
+| "Esther Lucy Kyle" or "Lucy Kyle" + Youngblood | WikiTree | 2026-04-14 | NEGATIVE. No profile found. |
+| "Esther Lucy Kyle" or "Lucy Kyle" Alabama born 1827 | Geni | 2026-04-14 | NEGATIVE. No profile found. |
+| "Lucy Kyle" Youngblood Alabama genealogy | Web search | 2026-04-14 | NEGATIVE. General results only. |
+| "Esther Lucy Kyle" genealogy 1827 | Web search | 2026-04-14 | NEGATIVE. No specific match. |
+| Kyle + Youngblood marriage, Alabama/Mississippi | Web search | 2026-04-14 | NEGATIVE. No marriage record found. |
+| "William H Youngblood" 1850 census Kyle | Web search | 2026-04-14 | NEGATIVE. William Alexander Youngblood (Chambers Co) returned instead; different family. |
+| Kyle family Virginia Bibb County Alabama 1820s settlers | Alabama Pioneers, general web | 2026-04-14 | Partial. Kyle listed in Grayson County VA pioneers but not confirmed in Bibb County settler lists (403 on page fetch). |
+| 1850 Census Index, Bibb County AL (Kyle) | S-K Publications | 2026-04-14 | 403 on fetch. Index exists but content inaccessible. |
+| "William Henry Youngblood" Chattanooga TN Find a Grave 1916 | Find a Grave | 2026-04-14 | NEGATIVE. No specific memorial returned. |
+
+### Files Updated
+- vault-template/Ester_Lucy.md: Added Verification Searches table (14 entries), Research Analysis section with hypothesis, and next steps.
+- vault-template/Open_Questions.md: Updated question #20 with research findings and expanded Records Sought table (items 20a through 20f).
+- vault-template/Research_Log.md: This entry.
+
+### Assessment
+The research is at a **wall that requires login-required databases** (FamilySearch individual records, Ancestry.com) or **manual browser access** (Genealogy.com, Find a Grave, Alabama GenWeb census pages). The James H. Kyle lead is promising but speculative. The 1830 census is pre-nominal, so even accessing it will only show whether the household had a female aged "under 5." The critical breakthrough will come from the **1850 census** (first to list individuals by name), which should show either a Kyle household with a "Lucy" or an early Youngblood-Kyle marriage record.
+
 ## 2026-04-14: Long/Huff/Moseley Line Verification and Expansion (Virginia to South Carolina)
 
 ### Summary

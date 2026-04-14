@@ -256,8 +256,9 @@ Research gaps and unresolved questions, organized by priority and family line. U
 ### 20. Esther Lucy Kyle family origin
 - **The question**: Who were Esther Lucy Kyle's parents?
 - **Researched (2026-04-13)**: No records found online. Robert Kyle Youngblood's death cert lists "Lucy Kyle."
-- **Next step**: Search Kyle families in Bibb County AL and Lowndes County MS census 1820-1850.
-- **Solvability**: MODERATE
+- **Researched (2026-04-14)**: Ran 14 web searches across Find a Grave, WikiTree, Geni, Genealogy.com, FamilySearch wiki, Alabama GenWeb, and general genealogy databases. Most genealogy sites blocked automated page fetches (403 errors). Key finding: **James H. Kyle appears in the 1830 Bibb County, Alabama Census index**, making him a plausible candidate for Esther Lucy's father. A Genealogy.com user-submitted tree exists for "James H Kyle" (genealogy.com/ftm/k/y/l/James-H-Kyle/) but was inaccessible. No Find a Grave memorials found for Kyle in Bibb County AL or Lowndes County MS. No WikiTree or Geni profiles found for Esther Lucy Kyle. Kyle family documented as prominent in Grayson County, Virginia, consistent with 1880 Census data showing Esther Lucy's father born in Virginia, mother born in North Carolina.
+- **Next step**: (1) Access 1830 Bibb County AL census image via FamilySearch/Ancestry to check James H. Kyle household for young female (Esther Lucy, age ~3). (2) Check 1840 and 1850 Bibb County AL census for Kyle family. (3) Manually visit Genealogy.com James H Kyle page in browser. (4) Search Bibb County AL marriage records on FamilySearch for Kyle marriages. (5) Search Find a Grave manually for Kyle burials in Bibb County AL.
+- **Solvability**: MODERATE (login-required databases needed)
 - **Payoff**: MODERATE
 
 ### 21. Helen Brandt's parents (Joseph Brandt + Brina Goldbaum): identity, dates, origin
@@ -344,7 +345,12 @@ Research gaps and unresolved questions, organized by priority and family line. U
 | 17 | II&C catalogs 1889-91 (Willis Youngblood enrollment) | MUW Beulah Culbertson Archives / athenacommons.muw.edu | Confirm or refute Willis as early graduate of first state women's college | Free (online) or correspondence |
 | 18 | 1830-1850 Bibb County AL census (Youngblood) | Ancestry / FamilySearch | James Youngblood household, link to Edgefield SC | Subscription or Free (FamilySearch) |
 | 19 | Lowndes County MS marriage records: Bright-Youngblood 1890 | MS Dept of Archives and History / Lowndes County Circuit Clerk | Confirm marriage date and details | Correspondence |
-| 20 | 1850 Lowndes County MS census (Youngblood/Kyle) | Ancestry / FamilySearch | William and Lucy Youngblood household, Kyle family | Subscription or Free |
+| 20a | 1830 Bibb County AL census: James H. Kyle household | Ancestry / FamilySearch | Check for female aged "under 5" (Esther Lucy, b. 1827). Pre-nominal census; only tallies. | Subscription or Free |
+| 20b | 1840 Bibb County AL census: Kyle household | Ancestry / FamilySearch | Check if Kyle family still in Bibb County. Esther Lucy would be ~13. | Subscription or Free |
+| 20c | 1850 Bibb County AL or Lowndes County MS census (Youngblood/Kyle) | Ancestry / FamilySearch | First nominal census. William and Lucy Youngblood household; any remaining Kyle household. | Subscription or Free |
+| 20d | Genealogy.com James H Kyle family tree | genealogy.com/ftm/k/y/l/James-H-Kyle/ODT7-0001.html | User-submitted tree (Tier 3). May name children including Esther Lucy. Manual browser access. | Free |
+| 20e | Bibb County AL marriage records (Kyle surname) | FamilySearch (digitized microfilm) | Kyle marriages; identify James H. Kyle's wife (mother b. NC per 1880 Census). | Free |
+| 20f | Find a Grave: Kyle burials in Bibb County AL | findagrave.com (manual browser search) | Burial dates, family connections. | Free |
 | 21 | LitvakSIG All Lithuania Database: Deych/Deich/Daych in Zarasai District | litvaksig.org/search-ald/ | Vital records for Zawel Deykh and Deych family in Rokiskis | Free (requires registration) |
 | 22 | Rokiskis SIG vital records index: 1877 Deych-Zalmanson marriage | kehilalinks.jewishgen.org/rokiskis/ (contact SIG) | Marriage record naming Zawel Deykh with occupation, age, residence | Free (SIG membership may be needed) |
 | 23 | LVIA full 1877 Rokiskis Jewish marriage record | Lithuanian State Historical Archives, Vilnius (email in English) | Father of bride details, witnesses, rabbi | Fee (amount unknown; email request) |
