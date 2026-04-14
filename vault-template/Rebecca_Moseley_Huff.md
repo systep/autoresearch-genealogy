@@ -52,4 +52,4 @@ Rebecca died on January 7, 1837 (or 1838, per variant sources) in Golden Grove, 
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Death date | January 7, 1837 (user prompt) | January 7, 1838 (GEDCOM entry, Geni 40000:477275575) | GEDCOM gives 1838. User instruction gives 1837. The one year discrepancy is unresolved. Deferred to Open_Questions.md. |
+| Death date | January 7, 1837 (WikiTree Huff-1775; some sources) | January 7, 1838 (GEDCOM entry, Geni 40000:477275575; pedigree chart page 6) | WikiTree Huff-1775 gives 7 Jan 1837. GEDCOM and pedigree chart give 7 Jan 1838. The one year discrepancy is unresolved. Both dates appear in multiple Tier 3 sources. The day and month (Jan 7) are consistent across all sources. |

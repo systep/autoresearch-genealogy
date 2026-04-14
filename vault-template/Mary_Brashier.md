@@ -31,13 +31,15 @@ tags: [genealogy, Brashier, person, South-Carolina]
 
 ## Biography
 
-Mary (Eliza) Brashier was born in 1806 in the United States. She married Lewis P. Huff (b. 22 July 1803, Brunswick, Virginia; d. 24 February 1873, Simpsonville, Greenville, South Carolina).
+Mary (Eliza) Brashier was born in 1806 in the United States (likely Greenville County, South Carolina). She married [[Lewis_P_Huff]] (b. 22 July 1803, Brunswick, Virginia; d. 24 February 1873, Simpsonville, Greenville, South Carolina).
 
-The Brashier family migrated with the Cox family from North Carolina to South Carolina, a pattern documented in the broader Cox/Brashier network in this tree. Multiple Cox family members married into the Brashier family, including Sarah Brashier (born Cox) and Irena B. Brashier (born Cox), the latter of whom is buried at Brashier Chapel Cemetery in Marshall County, Alabama.
+**Brashier/Brasher family in Greenville County:** The Brashier (Brasher/Brazure) family migrated with the Cox family from Orange County, North Carolina to Greenville County, South Carolina in the 1780s. The family patriarch was Thomas Levi Brasher Jr. (c. 1731-c. 1789, WikiTree Brasher-122), who had children including Elizabeth Brasher (who married Ezekiel Henderson, creating the Henderson-Brasher intermarriage), Henry Collins Brasher, Aquilla B. Brasher, Samuel Robert Brasher, John P. Brasher, and a daughter Mary Brasher (b. c. 1760, who married James George Seaborn).
+
+**Connection to Thomas Levi Brasher Jr. family:** Mary Brashier (b. 1806) who married Lewis Huff was too young to be a daughter of Thomas Levi Brasher Jr. (d. c. 1789). She could be a granddaughter, possibly the daughter of one of Thomas's sons (Henry Collins Brasher, b. 1801; or Aquilla B. Brasher, b. c. 1772). A Genealogy.com forum post seeks information about "Mary (Brauser) Huff (after 1815, about 1850) from Greenville, South Carolina" and asks about her parents, indicating this is an unsolved question among Brasher/Huff researchers. If Mary was the daughter of Henry Collins Brasher (WikiTree Brasher-151, b. 1801), this would create another Brasher cross-marriage alongside the Elizabeth Brasher / Ezekiel Henderson union. This remains (unverified).
 
 WikiTree confirms the marriage of Lewis Huff and Mary Brashier under the profile Huff-142, providing a second Tier 3 source for this connection.
 
-Mary's exact death date is unknown; the GEDCOM records it as between 1841 and 1906. Lewis P. Huff's father was James Huff (b. 1768, Brunswick County, Colonial Virginia; d. 1842, Golden Grove, Greenville, SC) and mother was Rebecca Moseley.
+Mary's exact death date is unknown; the GEDCOM records it as between 1841 and 1906. Lewis P. Huff's father was [[James_Huff]] (b. 1768, Brunswick County, Colonial Virginia; d. 1842, Golden Grove, Greenville, SC) and mother was [[Rebecca_Moseley_Huff|Rebecca Moseley]].
 
 ## Document Sources
 
