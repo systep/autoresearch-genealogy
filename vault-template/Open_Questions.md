@@ -170,11 +170,12 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Payoff**: HIGH (could extend all Transylvanian lines by 1-3 generations)
 
 ### 10. Nissen Mendel Markel: Sambor vital records search
-- **The question**: Can Nissen Mendel Markel be found in the Gesher Galicia All Galicia Database or other Sambor district records?
+- **The question**: Can Nissen Mendel Markel or Dov Markel be found in the Gesher Galicia All Galicia Database or other Sambor district records?
 - **Searched (2026-04-12)**: Geni.com (no results), JewishGen KehilaLinks (found Markel family page under Drohobycz but could not access full content), web searches for the name.
-- **Best leads**: (1) Search the All Galicia Database (search.geshergalicia.org) for "Markel" in Sambor. (2) Search JRI-Poland for Sambor records. (3) Access the full Markel family page on JewishGen KehilaLinks. (4) Search TsDIAL Lviv Fond 701 records via FamilySearch microfilms.
-- **Solvability**: MODERATE (records exist and are indexed, but Nissen Mendel may predate the surviving register period)
-- **Payoff**: HIGH (would extend the Markel line and potentially identify dates, spouse, and parents)
+- **Searched (2026-04-14)**: Comprehensive search across 8+ databases. Confirmed: (1) Gesher Galicia has completed indexing Sambor records in the All Galicia Database. (2) AGAD Warsaw Fond 300 holds Sambor Jewish metrical books 1877 to 1911 with scans online. (3) Sambor was a Jewish Administrative Center (1877) where records for Waniowice Jews were kept. (4) JRI-Poland has a Sambor town page with surname lists. (5) The KehilaLinks Markel family page (Drohobycz) describes a different Markel family (Sara Hinde Markel + Shamay Bartel, Lutowiska), not the Waniowice Markels. (6) Yosef Markel and Family (5 people) confirmed in Sambor Yizkor book. (7) Nissen Mendel's estimated birth c. 1800 to 1820 may predate surviving registers; Dov's estimated birth c. 1830 to 1840 falls within the register period. All database search interfaces returned 403 errors on programmatic access.
+- **Best leads (HUMAN ACTION REQUIRED)**: (1) Search All Galicia Database (search.geshergalicia.org) for "Markel" in Sambor (highest priority). (2) Search JRI-Poland surname list for Sambor. (3) Browse AGAD Fond 300 scans for Sambor Jewish registers. (4) Search Yad Vashem names database for Markel + Sambor (Pages of Testimony may name grandparents). (5) Search Heshel's 1878 marriage record (would name father Dov with age and details). (6) Browse FamilySearch collection #4426190 for Sambor Jewish records. (7) Access KehilaLinks Markel page in browser to check for overlap. (8) Search USHMM database for Markel Sambor.
+- **Solvability**: MODERATE (records exist and are indexed; Dov's birth likely falls in the register period; Nissen Mendel may predate them; the 1878 marriage record for Heshel is the best single lead since it would name Dov as father)
+- **Payoff**: HIGH (would extend the Markel line and potentially identify dates, spouse, and parents; the 1878 Heshel/Leah marriage record alone could confirm Dov's identity and provide new biographical data)
 
 ### 11. Heshel Markel in the Verlustlisten (WWI casualty lists)
 - **The question**: Can Heshel Markel be found in the digitized Austro-Hungarian casualty lists (Verlustlisten)?

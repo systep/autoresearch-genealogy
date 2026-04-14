@@ -1957,3 +1957,90 @@ Conducted comprehensive web research to verify and expand the Brecht/Bright fami
 6. Investigate whether the family papers contain a specific Brecht coat of arms image or document.
 7. Search Siebmacher's Wappenbuch (available at some research libraries and on Google Books) for any Brecht entry.
 8. Marguerite_Julienne_Simone.md already corrected in this session.
+
+---
+
+## 2026-04-14: Nissen Mendel Markel / Dov Markel Sambor District Research
+
+### Summary
+Conducted comprehensive research into Nissen Mendel Markel and Dov Markel using Sambor district vital records databases and related Holocaust and genealogical resources. Ran 30+ web searches and 15+ web fetch attempts across Gesher Galicia, JRI-Poland, JewishGen KehilaLinks, Yad Vashem, USHMM, FamilySearch, AGAD, Drohobycz-Boryslaw Organization, and general genealogical resources. All database search interfaces returned 403 errors on programmatic access; substantive data was extracted from web search snippets. No new vital records were found for Nissen Mendel or Dov, but significant contextual and structural findings were made.
+
+### Databases Searched
+
+1. **Gesher Galicia All Galicia Database** (search.geshergalicia.org): Confirmed that Sambor records are fully indexed and uploaded. Database search page returned 403. Contains 900,000+ records from Galicia including Jewish vital records. Sambor records from TsDIAL Fond 701 are indexed. **Human action required to search in browser.**
+
+2. **JRI-Poland** (jri-poland.org/town/sambor/): Town Explorer page for Sambor exists with surname lists and indexed records. JRI-Poland has 6.1 million indexed records. Page returned 403. **Human action required.**
+
+3. **JewishGen KehilaLinks Markel Family Page** (kehilalinks.jewishgen.org/Drohobycz/families/markel.html): Page returned 403. Web search snippets confirmed this page documents the **Lutowiska Markel family** (Sara Hinde Markel + Shamay Bartel, married 1877), not the Waniowice Markels. Because the marriage was Jewish only (not civil), children were registered as "Markel" (mother's name) rather than "Bartel" (father's name). Solomon Bartel (b. 1820) was from Lutowiska near Sambor.
+
+4. **Drohobycz-Boryslaw Organization** (drohobycz-boryslaw.org/en/families/boryslaw/markel): Page returned 403. Web search snippets confirmed: grandmother had two brothers and a sister; brothers lived in Lwow and emigrated to Israel in 1936, bringing parents in 1939; sister Rebeka married Efroim Wilf from Boryslaw (sons: Moses, Dyonyo, Juda, Herman); Matilda married a farmer from Olszanik near Sambor (1930); Aaron Bartel's family deported from Kobla to Sambor ghetto early 1942, sent to Belzec November 1942.
+
+5. **Yad Vashem Central Database** (collections.yadvashem.org/en/names): 403 error. Sambor is listed as place #5440818 with Jewish population 6,068 (1921 census). **Human action required to search for Markel.**
+
+6. **USHMM Holocaust Survivors and Victims Database** (ushmm.org/online/hsv/): 403 error. Sambor Yizkor book cataloged as USHMM source #33369. **Human action required.**
+
+7. **Sambor Yizkor Book** (jewishgen.org/yizkor/sambor/Sam258.html): 403 error on fetch, but web search confirmed **"Markel, Yosef and Family (5 People)"** in the necrology section of Sefer Sambor (ed. Aleksander Manor, Tel Aviv, 1980).
+
+8. **FamilySearch** (collection #4426190, Ukraine Lviv Metrical Books 1786 to 1937): Confirmed as containing Lviv Oblast archive records. Primarily Orthodox and Roman Catholic, but Jewish metrical books from the same archive system may be included. **Human action required to browse for Sambor Jewish records.**
+
+9. **AGAD Warsaw** (agad.gov.pl): Confirmed Fond 300 holds approximately 3,278 Jewish metrical registers from eastern Galicia. AGAD has digitized nearly all registers. Sambor was designated as a Jewish Administrative Center in 1877. **Human action required to browse scans.**
+
+10. **Geni.com**: No Markel family from Sambor/Waniowice in the Jewish Communities of Galicia project (#15745). Negative result (confirmed from previous 2026-04-12 search).
+
+11. **Sambor Jewish Cemetery** (cdp.jewishgen.org/eastern-europe/ukraine/sambir): 403 error. Sambor Jewish population: 4,427 (1880), 6,068 (1921). Cemetery documented by International Jewish Cemetery Project.
+
+12. **Troškūnai Markel Family** (kehilalinks.jewishgen.org/troskunai/families/markel.htm): 403 error. Web search snippets confirm this is a **separate Lithuanian Markel family** (earliest member: Markel/Mortkhel Markel, b. before 1785, Raguva or Troskunai). No connection to the Galician Markels.
+
+13. **Avotaynu Dictionary of Jewish Surnames from Galicia** (Beider, 2004): Confirmed "Markel" is listed. The surname derives from Yiddish personal names Markl/Merkl (diminutives of Marcus/Markward), also used as vernacular equivalents of Biblical Mordecai.
+
+14. **Sambor 1877 Administrative District**: Confirmed that Sambor was one of 73 Jewish Administrative Districts in Galicia. The Austrian government designated Sambor as a center where Jewish metrical records were kept for the town and surrounding villages. Waniowice did not have its own registry; its records are in the Sambor books.
+
+### Key Positive Findings
+
+1. **Waniowice records are at Sambor**: Confirmed that Waniowice had no independent civil registry. All Jewish vital records for Waniowice were maintained at the Sambor Jewish Administrative Center. This means Heshel's 1878 marriage record, Dov's birth/death records, and possibly Nissen Mendel's records are in the Sambor registers.
+
+2. **Sambor records are fully indexed**: Gesher Galicia has completed indexing Sambor records from TsDIAL Fond 701. These are freely searchable in the All Galicia Database. AGAD Fond 300 has digitized scans. This means a browser search of the All Galicia Database for "Markel" in Sambor is feasible and is the highest priority human action.
+
+3. **Heshel's 1878 marriage record is the key lead**: The marriage of Heshel Markel and Leah Frei in 1878 in Vanyavitch/Waniowice would have been registered at the Sambor Jewish Administrative Center. Galician Jewish marriage records typically include: groom's name, age, father's name and status; bride's name, age, father's name. This single record could confirm Dov as father, provide Dov's age (yielding an approximate birth year), and possibly his occupation and residence.
+
+4. **Dov's birth likely falls within the register period**: Estimated birth c. 1830 to 1840, and most Sambor Jewish registers survive from the 1830s onward. Nissen Mendel's birth (c. 1800 to 1820) likely predates the surviving registers.
+
+5. **Yosef Markel in the Sambor Yizkor book**: "Markel, Yosef and Family (5 People)" appears in the Sambor necrology. This may be a son or grandson of the family. The Yichus narrative mentions Avraham Chaim Markel (murdered 1939) and his family; Yosef could be one of Avraham Chaim's children.
+
+6. **KehilaLinks Drohobycz Markel page is a different family**: The page documents the Lutowiska/Bartel-Markel family, not the Waniowice Markels. However, both families used the surname Markel in the Sambor region, and a distant kinship is possible.
+
+7. **Sambor Jewish population data**: 4,427 Jews in 1880, 6,068 in 1921. The Jewish community dates from at least the 16th century (Stary Sambor: first mention of Jews 1544). A synagogue was built in 1763.
+
+### Negative Results (All Logged)
+
+1. "Nissen Mendel Markel" in any database: no match.
+2. "Nissen Mendel" + Markel/Markl/Merkel + Galicia: no match.
+3. "Dov Markel" OR "Dow Markel" OR "Ber Markel" + Galicia/Sambor: no match.
+4. "Mattis Markel" OR "Matys Markel" + Sambor: no match.
+5. "Vigdor Markel" OR "Etti Markel" + Sambor/Holocaust: no individual records found.
+6. "Heshel Markel" OR "Heschel Markel" OR "Heszel Markel" + marriage 1878 + Galicia: no vital record match.
+7. "Heshel Markel" in Gesher Galicia search results: no match visible in web snippets.
+8. Geni.com Jewish Communities of Galicia project: no Markel from Sambor/Waniowice.
+9. "Rodzolika" or "Radzoliki" forest massacre: no independent corroboration of the specific forest name or 1939 date found; documented Sambor area mass killings are from 1941 to 1943.
+
+### Files Updated
+
+- [[Nissen_Mendel_Markel]] (added: estimated date range, name analysis, full 2026-04-14 research notes, 11 negative results, 8 next-step human actions, 10 document sources, Sambor administrative context, Waniowice civil registry information, Lutowiska Markel family distinction, Yosef Markel Yizkor finding)
+- [[Dov_Markel]] (added: estimated date range, Mattis as second child, name analysis, Waniowice civil registry context, headstone inscription cross-reference, full 2026-04-14 research notes, database search status, negative results, next-step human actions)
+- [[Open_Questions]] (question #10 updated with 2026-04-14 search results and expanded human-action-required leads)
+- [[Research_Log]] (this entry)
+
+### Assessment
+
+Despite extensive searching, no primary or secondary source records were found for Nissen Mendel Markel or Dov Markel beyond the Yichus narrative (Tier 2). The confidence level for both individuals remains **Low**. However, the research has established that: (a) the relevant records exist and are indexed in accessible databases; (b) the 1878 Heshel/Leah marriage record is the single best lead for confirming Dov's identity; (c) Dov's estimated birth period falls within the surviving register period; and (d) all database searches require human browser access. The All Galicia Database search for "Markel" in Sambor is the single highest priority action.
+
+### Next Steps (HUMAN ACTION REQUIRED)
+
+1. Search All Galicia Database (search.geshergalicia.org) for "Markel" in Sambor (priority 1).
+2. Search JRI-Poland Sambor surname list for Markel (priority 2).
+3. Search Yad Vashem names database for Markel + Sambor (priority 3).
+4. Browse AGAD Fond 300 scans for Sambor Jewish metrical books, especially marriage records 1878 (priority 4).
+5. Browse FamilySearch collection #4426190 for Sambor Jewish records.
+6. Access KehilaLinks Markel page in browser for full content.
+7. Search USHMM database for Markel + Sambor.
+8. Variant spellings to try: Markel, Markl, Merkl, Merkel, Marckl; given names: Nissen/Nisn/Nisan, Mendel/Menachem, Dov/Ber/Berko/Behr, Heshel/Heszel/Herschel/Hersch/Hirsch.

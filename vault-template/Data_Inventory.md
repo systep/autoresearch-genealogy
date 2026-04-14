@@ -42,6 +42,20 @@ Complete inventory of all ancestry-related data assets. Each tagged with source,
 | "The Founding of a Jewish Community" by Rebecca Twersky, RIJH Notes Vol. 7, 1977 | Sternbach, Ahavath Sholom | rijha.org |
 | David Futtersak obituary, Jewish Rhode Island, 2024 | Sternbach, Futtersak | jewishrhody.com |
 
+### Identified But Not Yet Accessed (Require Human Browser Access)
+
+| Database/Source | Family | URL | Status (2026-04-14) |
+|---|---|---|---|
+| Gesher Galicia All Galicia Database, Sambor records (indexed from TsDIAL Fond 701) | Markel | https://search.geshergalicia.org/ | Sambor fully indexed; 403 on programmatic access; search for "Markel" in browser |
+| JRI-Poland Sambor town page with surname lists | Markel | https://jri-poland.org/town/sambor.htm | 403 on programmatic access; check Sambor surname list for Markel |
+| AGAD Warsaw Fond 300, Sambor Jewish metrical books (1877 to 1911, scans available) | Markel | https://www.geshergalicia.org/agad/ | Scans digitized; browse for Markel in marriage records (1878 key year) |
+| FamilySearch Ukraine Lviv Metrical Books 1786 to 1937 | Markel | https://www.familysearch.org/en/search/collection/4426190 | Browse for Sambor Jewish records |
+| Yad Vashem Central Database of Shoah Victims' Names | Markel | https://collections.yadvashem.org/en/names | Search for Markel + Sambor/Waniowice; Pages of Testimony may name grandparents |
+| USHMM Holocaust Survivors and Victims Database | Markel | https://www.ushmm.org/online/hsv/ | Search for Markel + Sambor |
+| Sambor Yizkor book necrology (Yosef Markel, 5 people confirmed) | Markel | https://www.jewishgen.org/yizkor/sambor/Sam258.html | 403 on fetch; browse full necrology in browser |
+| JewishGen KehilaLinks Markel family page (Drohobycz; DIFFERENT family from Lutowiska) | Markel (Lutowiska branch) | https://kehilalinks.jewishgen.org/Drohobycz/families/markel.html | 403 on fetch; access in browser to check for overlap with Waniowice Markels |
+| Drohobycz-Boryslaw Organization Markel family page | Markel (Lutowiska branch) | https://www.drohobycz-boryslaw.org/en/families/boryslaw/markel | 403 on fetch; access in browser |
+
 ### Low Reliability (anecdotal, interpreted)
 
 | Document | Family | Notes |

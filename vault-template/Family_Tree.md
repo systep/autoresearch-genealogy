@@ -180,7 +180,7 @@ The names in the family tree screenshots (Dovber, Yekutiel, Rivka, Srul, Levi, R
 
 *Source: Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2); GEDCOM (Tier 3); 1940/1950 Census (Tier 1); RIJHA article (Tier 2)* **(moderate)**
 
-Thelma Markel (1920-2011, married Leonard Irving Salmanson 1947) was the daughter of [[Morris_Markel]] and [[Helen_Brandt]]. The Markel family originated in Vanyavitch (Waniowice), Galicia, near Sambor.
+Thelma Markel (1920-2011, married Leonard Irving Salmanson 1947) was the daughter of [[Morris_Markel]] and [[Helen_Brandt]]. The Markel family originated in Vanyavitch (Waniowice), a village near Sambor in the Sambor district of Galicia (now western Ukraine). Jewish vital records for Waniowice were kept at the Sambor Jewish Administrative Center (confirmed 2026-04-14). Sambor Jewish population: 4,427 (1880), 6,068 (1921). Note: the Sambor Yizkor book lists "Yosef Markel and Family (5 People)" in the necrology, likely a descendant of this family.
 
 ```
 [[Nissen_Mendel_Markel]]
