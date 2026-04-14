@@ -2,12 +2,62 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-14
+last_session: "2026-04-14 Georg Kascher pre-1792 origins"
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-14: Georg Kascher Pre-1792 Wurmloch Origins Research
+
+### Summary
+Conducted 14 focused web searches to identify Georg Kascher's parents and pre-1792 origins in Wurmloch (Valea Viilor), Transylvania. Searched VGSS database references, Siebenbuerger.de, FamilySearch catalog, Archion.de scope, Conscriptio Cziraky (1819-1820 census), Kascher/Katscher surname etymology, Zentralarchiv Sibiu contact details, and Ancestry Transylvania collections. Most genealogy database pages returned 403 errors on direct fetch, limiting data extraction to search result snippets.
+
+### Key Positive Results
+
+1. **VGSS database confirmed to include Wurmloch**: The VGSS (Verein fuer Genealogie der Siebenbuerger Sachsen) database covers approximately 80 of 260 Transylvanian Saxon villages, with Wurmloch listed among covered settlements. The database is at vgss.de/genealogie-datenbank/ but returned 403 on automated access. Requires manual browser search for "Kascher" in Wurmloch. Source: vgss.de/genealogie/?page_id=32 (search snippet).
+
+2. **Zentralarchiv contact details confirmed**: The Zentralarchiv der Evangelischen Kirche A.B. in Rumaenien is at the Friedrich Teutsch Haus, Str. Mitropoliei Nr. 30, RO-550179 Sibiu. Email: casa.teutsch@gmail.com. Fees: 10 EUR/50 Lei for scientific expert; 5 EUR/25 Lei for administrative staff. First 2 hours of scientific expert inquiries are free. They hold Kirchenbuecher (parish registers) from over 280 congregations, including Wurmloch. This is the single most actionable lead for extending the Kascher line. Source: teutsch.ro, evang.ro.
+
+3. **Conscriptio Cziraky (1819-1820 census) confirmed available**: FamilySearch catalog #397171. Microfilmed on 53 rolls (Hungarian National Archives F 52, microfilm boxes 25674-25727). Available at FamilySearch Centers. Lists household heads by village, subdivided into Colonorum (farmers/serfs) and Inquilinorum (lodgers/tenants). Would confirm Georg Kascher (then age 27-28) as household head in Wurmloch circa 1819. Film notes list villages by Hungarian name (Nagybaromlak for Wurmloch). Source: familysearch.org/search/catalog/397171, rootsweb Transylvanian Census index.
+
+4. **Kascher surname etymology**: Forebears.io shows "Kascher" most common in Brazil (78 bearers), extremely rare. "Katscher" most common in Germany (329 bearers, concentrated in NRW, Lower Saxony, Saxony). Katscher is also a Silesian town (now Kietrz, Poland). Related surname "Kasser" derives from German "Kaeser" (cheesemaker). Kascher may be: (a) occupational from Kaeser/Kasser with dialect shift, (b) toponymic from Katscher in Silesia, or (c) a Transylvanian Saxon dialect variant. No definitive etymology found. Source: forebears.io, ancestry.com surname pages.
+
+5. **Ancestry collections confirmed**: Collection 5412 (Romania, Vital Records from Selected Regions, 1607-1914) and Collection 62878 (Transylvania, Romania, Birth, Marriage and Death, 1688-1919) both cover Transylvanian church records with focus on German populations. Subscription required. Source: ancestry.com collection pages.
+
+6. **Archion.de does NOT cover Transylvania**: Archion digitizes German Evangelical church records from archives within Germany. Transylvanian Evangelical (Lutheran) records are held separately by the Zentralarchiv in Sibiu and are not on Archion. Source: archion.de, legacytree.com blog.
+
+### Negative Results (Logged)
+
+| Search | Database | Date | Result |
+|---|---|---|---|
+| "Kascher" in VGSS database | vgss.de/genealogie-datenbank/ | 2026-04-14 | 403 on fetch. Database confirmed to include Wurmloch but automated search blocked. Manual browser access required. |
+| "Kascher" Wurmloch genealogy | Siebenbuerger.de | 2026-04-14 | No Kascher-specific results. Found Anna Binder Kascher (b. 1868, Kreisch) confirming family network but no pre-1792 data. |
+| Wurmloch church records digitization status | General web | 2026-04-14 | NEGATIVE. No evidence of Wurmloch Kirchenbuecher being digitized online. Records remain at Zentralarchiv Sibiu. |
+| FamilySearch catalog Wurmloch parish | familysearch.org | 2026-04-14 | No specific Wurmloch parish register catalog entry found in search results. FamilySearch wiki confirms church records in Romania start ~1600 but does not index Wurmloch specifically. |
+| Wurmloch guestbook genealogy entries | siebenbuerger.de/ortschaften/wurmloch/gaestebuch/ | 2026-04-14 | 403 on fetch. Manual browser check needed for Kascher-related guestbook posts. |
+| Teutsch Haus archive usage page | teutsch.ro/archiv-bibliothek/benutzung/ | 2026-04-14 | 403 on fetch. Contact details confirmed via search snippets. |
+| Forebears.io Kascher page | forebears.io/surnames/kascher | 2026-04-14 | 403 on fetch. Distribution data confirmed via search snippets only. |
+| Wurmloch 18th century Saxon families | General web | 2026-04-14 | NEGATIVE. No specific Wurmloch family lists found. Results returned Anglo-Saxon content instead. |
+
+### Assessment
+
+The research confirms that **no pre-1792 Kascher data is available online**. The brick wall remains. However, three actionable paths are now confirmed with specific contact details and procedures:
+
+1. **Zentralarchiv Sibiu email request** (lowest cost, highest probability): Email casa.teutsch@gmail.com requesting a search of Wurmloch Kirchenbuecher for Georg Kascher baptism (March 1792) and his parents. First 2 hours free; additional work at 10 EUR/hour. This is the decisive record path.
+
+2. **VGSS database manual search** (free, moderate probability): Visit vgss.de/genealogie-datenbank/ in a browser and search for Kascher in Wurmloch. If the Wurmloch parish registers have been transcribed by VGSS volunteers, Georg's baptism entry (with parents' names) may already be digitized.
+
+3. **Conscriptio Cziraky at FamilySearch Center** (free, confirms presence): View FamilySearch microfilm catalog #397171 at a local FamilySearch Center. Find Nagybaromlak (Wurmloch) roll. Would confirm Georg Kascher as household head ~1819 and potentially list other Kascher households, suggesting relatives.
+
+### Files Updated
+- vault-template/Georg_Kascher.md: Added research findings and actionable next steps.
+- vault-template/Open_Questions.md: Updated question #7 with 2026-04-14 research results.
+- vault-template/Research_Log.md: This entry.
+
+---
 
 ## 2026-04-14: Esther Lucy Kyle Parental Research
 

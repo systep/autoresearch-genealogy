@@ -151,8 +151,9 @@ Research gaps and unresolved questions, organized by priority and family line. U
 ### 7. Georg Kascher's parents (pre-1792 Wurmloch)
 - **The question**: Georg Kascher (b. March 1792, Wurmloch) is the earliest known Kascher ancestor. Who were his parents? Family folklore claims Flanders origin, consistent with 12th century Saxon settlement history.
 - **Searched (2026-04-10)**: Genealogy.com (original poster also hit brick wall), Siebenbuerger.de, WikiTree, Geni.com, FamilySearch (catalog blocked), VGSS database references. No pre-1792 Kascher data found online.
-- **Best leads**: (1) VGSS database (vgss.de/genealogie-datenbank/) may have Wurmloch church records digitized. (2) Zentralarchiv, TeutschHaus, Sibiu holds Wurmloch Kirchenbucher. (3) Ancestry collections 5412/62878 may contain pre-1800 church records.
-- **Solvability**: MODERATE (records likely exist in archives; online access uncertain)
+- **Searched (2026-04-14)**: 14 additional searches. VGSS database (confirmed Wurmloch covered among ~80 villages; 403 on automated access). Siebenbuerger.de Wurmloch guestbook (403). FamilySearch catalog for Wurmloch parish (no specific entry). Archion.de (does NOT cover Transylvania). Conscriptio Cziraky 1819-1820 census (FamilySearch #397171, 53 microfilm rolls). Kascher/Katscher surname etymology (extremely rare; possible occupational "Kaeser"/cheesemaker or Silesian toponymic origin). Zentralarchiv Sibiu contact confirmed (casa.teutsch@gmail.com, first 2 hours free, then 10 EUR/hour). Ancestry collections 5412/62878 confirmed covering Transylvanian church records 1607-1919.
+- **Best leads (updated)**: (1) **Email Zentralarchiv Sibiu** (casa.teutsch@gmail.com) requesting Wurmloch Kirchenbuch search for Georg Kascher baptism, March 1792. Decisive record. First 2 hours free. (2) **VGSS database manual browser search** at vgss.de/genealogie-datenbank/ for Kascher in Wurmloch. (3) **Conscriptio Cziraky** at FamilySearch Center, Nagybaromlak roll, for Kascher household heads ~1819. (4) Ancestry collections 5412/62878 (subscription).
+- **Solvability**: MODERATE to HIGH (Zentralarchiv almost certainly holds the baptism record with parents' names; question is whether they can locate it for a reasonable fee)
 - **Payoff**: HIGH (would extend the Kascher line by at least one generation)
 
 ### 8. Krauss/Krause Binder naming discrepancy
@@ -165,7 +166,8 @@ Research gaps and unresolved questions, organized by priority and family line. U
 ### 9. Transylvanian Saxon church record access
 - **The question**: What records exist for Wurmloch, Waldhutten, Kreisch, and Petersdorf, and how to access them?
 - **Research (2026-04-10)**: Wurmloch/Waldhutten registers in Zentralarchiv Sibiu. Petersdorf registers at Muhlbach (Sebes) Church. Ancestry has 5 relevant subscription collections (1607-1919). 1819-1820 Census on FamilySearch microfilm (free at Centers). VGSS actively digitizing ~80 villages.
-- **Next step**: Search VGSS database, then Ancestry subscription, then write to Zentralarchiv.
+- **Research (2026-04-14)**: Archion.de confirmed to NOT cover Transylvania (German domestic archives only). Zentralarchiv contact: casa.teutsch@gmail.com, Friedrich Teutsch Haus, Str. Mitropoliei Nr. 30, RO-550179 Sibiu. Fees: 10 EUR/hour (scientific expert) or 5 EUR/hour (admin); first 2 hours free for scientific inquiries. Holds Kirchenbuecher from 280+ congregations.
+- **Next step**: (1) Email casa.teutsch@gmail.com with specific research request for Kascher/Binder/Wagner families. (2) Search VGSS database manually in browser. (3) Ancestry subscription for collections 5412/62878.
 - **Solvability**: HIGH (records exist; access is the barrier)
 - **Payoff**: HIGH (could extend all Transylvanian lines by 1-3 generations)
 
