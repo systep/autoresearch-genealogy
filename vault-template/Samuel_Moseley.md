@@ -61,13 +61,19 @@ Martha Patty Holloway died c. 1811 in Brunswick, Virginia per WikiTree Holloway-
 | Document | Type | Vault Note |
 |---|---|---|
 | GEDCOM (MyHeritage, entry I501718) | family tree database | |
-| 1752 will of Marvel Moseley Jr. (referenced in user instruction) | legal / probate record | Not in vault; primary source needed |
-| Geni World Family Tree (via Rebecca Moseley entry) | user-contributed tree | |
+| Marvel Moseley Jr. will, 2 Mar 1752 (proved 20 Mar 1753, Goochland County VA) | Probate record (Tier 1) | Names sons William, Samuel, James, Joseph; daughters Agatha, Avey, Phebey; also Jochabed Nash, Judith Thurston |
+| William Holloway will, 16 Oct 1784 (proved 22 Nov 1784, Brunswick County VA) | Probate record (Tier 1) | Will Book 2, pp. 422-23; William Moseley Jr. as witness |
+| WikiTree Moseley-106 | User-contributed tree (Tier 3) | Marvel Moseley Jr. profile |
+| WikiTree Moseley-3817 | User-contributed tree (Tier 3) | Abigail (Moseley) Holloway profile (daughter) |
+| WikiTree Holloway-58 | User-contributed tree (Tier 3) | Martha Patty Holloway profile (wife) |
+| RootsWeb WorldConnect (moseley2 and jwterry99 databases) | User-contributed trees (Tier 3) | Moseley family of Brunswick Co VA |
+| Geni World Family Tree (via Rebecca Moseley entry) | User-contributed tree (Tier 3) | |
 
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Birth year | ~1735 (user instruction, Marvel Moseley Jr. 1752 will) | 1750 (GEDCOM I501718) | 15 year discrepancy. If confirmed by 1752 will as son of Marvel Moseley Jr., ~1735 is plausible. GEDCOM date may derive from user-contributed trees. Unresolved. |
-| Death year | ~1801 (user instruction) | 1811 (GEDCOM) | 10 year discrepancy. Unresolved. Primary records needed. |
-| Death place | Brushy Creek, Greenville, SC (user instruction) | Brunswick, Virginia (GEDCOM) | Contradictory. GEDCOM may reflect original origin, not actual death location. Migration to SC is documented for daughter Rebecca. Unresolved. |
+| Birth year | ~1735 (user instruction) | 1750 (GEDCOM I501718) / "before 1751" (RootsWeb Moseley project) | The RootsWeb Moseley project gives "before 1751" for Samuel as son of William and Ann. If Samuel's daughter Rebecca was born 1772, Samuel was likely born no later than c. 1755. The 1750 GEDCOM date is consistent with RootsWeb. The ~1735 date from user instruction may have confused Samuel with his father William. Updated to c. 1750. |
+| Parentage | Marvel Moseley Jr. (user instruction, direct father) | William Moseley, son of Marvel Moseley Jr. (RootsWeb, WikiTree) | PARTIALLY RESOLVED: Marvel Moseley Jr.'s 1752 will names a son William. RootsWeb and WikiTree identify William (d. before 1776) as Samuel's father, making Marvel the grandfather. The user instruction that Marvel was "confirmed by 1752 will" as Samuel's father is corrected: the will confirms Marvel had a son William, who was Samuel's father. |
+| Death year | ~1801 (user instruction) | 1811 (GEDCOM) / "after 1810" (WikiTree Moseley-3817) | WikiTree gives "after 1810, Meherrin, Brunswick, Virginia." The 1811 GEDCOM date is consistent. The ~1801 user instruction date appears incorrect. Updated to after 1810. |
+| Death place | Brushy Creek, Greenville, SC (user instruction) | Brunswick, Virginia (GEDCOM, WikiTree) | WikiTree and GEDCOM both give Brunswick, Virginia. However, WikiTree Huff-446 places Samuel Mosley near James Huff in Greenville County SC in 1820, which contradicts a pre-1811 death. This may be a different Samuel Moseley (the son, b. 1795). Partially resolved: Samuel Sr. likely died in Brunswick VA; his son Samuel Jr. may have been the one in Greenville County. |
