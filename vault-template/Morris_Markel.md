@@ -4,7 +4,7 @@ name: "Morris Moishe Myer Markel"
 born: unknown
 died: 1963
 family: "Markel"
-confidence: moderate
+confidence: strong
 sources:
   - "MyHeritage family tree (Tier 3, unverified)"
   - "Geni World Family Tree (Tier 3, unverified)"
@@ -20,7 +20,7 @@ tags: [genealogy, markel, person, poland, jewish, immigrant, rabbi, rhode-island
 | Field | Value | Source |
 |---|---|---|
 | Full Name | Moishe Myer (Morris) Markel | MyHeritage (Tier 3); Yichus narrative (Tier 2) |
-| Born | Poland (date unknown) | MyHeritage (Tier 3, unverified) |
+| Born | ~1891-1892, Vanyavitch, Galicia (Austria/Poland) | 1940 Census: age 48, Poland (Tier 1); 1950 Census: age 59, Austria (Tier 1) |
 | Died | 1963 | MyHeritage (Tier 3, unverified) |
 | Father | [[Heschel_Herman_Markel]] (Heshel Markel; b. 1862, Vanyavitch, Galicia; d. 1916) | MyHeritage (Tier 3); Yichus (Tier 2) |
 | Mother | [[Leah_Frei]] (Leah Frei; b. 1864; d. 1940) | MyHeritage (Tier 3); Yichus (Tier 2) |
@@ -29,7 +29,7 @@ tags: [genealogy, markel, person, poland, jewish, immigrant, rabbi, rhode-island
 | Maternal Grandparents | [[Yoseph_Frei]] + [[Toba_Rivka_Frei]] (of Dubosari) | MyHeritage (Tier 3); Yichus (Tier 2) |
 | Spouse | [[Helen_Brandt]] (Helen Brandt Markel) | MyHeritage (Tier 3); Yichus (Tier 2) |
 | Occupation | Rabbi, Ahavath Sholom Synagogue, Arctic (West Warwick), RI | Yichus narrative (Tier 2) |
-| Children | Thelma (Tobi) Markel (1920-2011), Anne (m. Schlusselberg), Frieda Markel, Kay Markel (m. Kaplan), Joseph Markel | MyHeritage, Geni (Tier 3, unverified) |
+| Children | Thelma (Tobi) Markel (1920-2011), Anne Markel (~1922), Rita Markel (~1925), Katherine/Kate Markel (~1926), Joseph Harold Markel (~1932) | 1940 Census (Tier 1); 1950 Census (Tier 1); Yichus (Tier 2) |
 
 ## Biography
 
@@ -53,18 +53,34 @@ Morris married **[[Helen_Brandt]]** (Helen Brandt Markel) (MyHeritage, Tier 3; c
 
 ### Immigration
 
-The family immigrated to the United States approximately 1928. Evidence: daughter Kate (Markel) Kaplan was born December 6, 1925 in Poland and "moved to W. Warwick, RI at the age of 3" (Kate Kaplan obituary, Providence Journal, Jan 13, 2006; Find a Grave #232002112). The family settled in West Warwick (Arctic), Rhode Island, where Morris's sister [[Minnie_Markel_Sternbach]] and her husband Abraham Sternbach had been established since 1912 as founding members of the local Jewish community and Congregation Ahavath Shalom.
+The family immigrated to the United States approximately 1928. Evidence: daughter Kate (Markel) Kaplan was born December 6, 1925 in Poland and "moved to W. Warwick, RI at the age of 3" (Kate Kaplan obituary, Providence Journal, Jan 13, 2006; Find a Grave #232002112). The Yichus narrative says the family "arrived in 1930," but the Kate Kaplan obituary's "at the age of 3" places arrival ~1928. The family settled in West Warwick (Arctic), Rhode Island, where Morris's sister [[Minnie_Markel_Sternbach]] and her husband Abraham Sternbach had been established since 1912 as founding members of the local Jewish community and Congregation Ahavath Shalom.
+
+### Census Records
+
+**1940 US Census (Tier 1):** Morris Markal [sic], age 48 (b. ~1892), born Poland. Living at 28 Harris Avenue, West Warwick, Kent County, Rhode Island. Same address since 1935. Citizenship status: 4. Wife: Helen Markal, age 43 (b. ~1897). Children in household: Thelma (19), Anne (18), Rita (15), Katherine (14), Harold (8). Enum. District 2-46, Roll m-t0627-03769, Line 77.
+
+**1950 US Census (Tier 1):** Morris Markel, age 59 (b. ~1891), born Austria. Living at 12 Capron, West Warwick, Kent County, Rhode Island. Wife: Helen Markel, age 59 (b. ~1891). Children in household: Ann Workel [misindexed; actually Markel] (28), Rita Workel [Markel] (25), Kate Workel [Markel] (24), Joseph Workel [Markel] (18). Series T628, Dwelling 57, Line 29. Note: children's surname indexed as "Workel," an obvious misread of "Markel."
+
+**Key census observations:**
+1. Morris's birthplace: "Poland" (1940) vs "Austria" (1950). Both are correct for Galicia: Austria-Hungary before 1918, Poland after 1918.
+2. Morris's birth year: ~1892 (1940, age 48) vs ~1891 (1950, age 59). Consistent within normal census rounding.
+3. Helen's age: 43 in 1940 (b. ~1897) vs 59 in 1950 (b. ~1891). **Six year discrepancy.** Helen appears to have understated her age in 1940 or overstated it in 1950.
+4. "Harold" (1940) = "Joseph" (1950) = **Joseph Harold Markel**. The Yichus narrative confirms: "First son Joseph Harold was born." The 1940 census used the middle name; the 1950 used the first name.
+5. Thelma absent from 1950 (married Leonard Salmanson 1947).
+6. Frieda Markel not listed in either census. She may have died young, married before 1940, or been living elsewhere.
+7. No "Frieda" but the Yichus lists "Frieda Markel dec." separately. She may be a different generation or died before 1940.
 
 ### Ahavath Sholom Discrepancy
 
 The Yichus narrative states Morris "entered the United States claiming to fill a position as a Rabbi" at Ahavath Sholom. However, a historical article about the congregation ("The Founding of a Jewish Community: The Early Years of Congregation Ahavath Shalom of West Warwick, Rhode Island" by Rebecca Twersky, RI Jewish Historical Notes, Vol. 7, 1977) states that the small congregation of 30 families "could not afford a rabbi" and that the men who served the community were "not rabbis, just learned men." Morris, described as "a very learned man" in the Yichus narrative, may have functioned as a de facto religious leader without being formally employed as an ordained rabbi, or may have served in this capacity at a later date after the congregation grew. The Yichus narrative's phrasing ("claiming to fill a position") may refer to his immigration visa justification rather than actual employment.
 
-Morris and Helen had five documented children:
-1. **Thelma (Tobi) Markel** (Sept 12, 1920, Poland, Sept 22, 2011), married (1) [[Leonard_Irving_Salmanson]] (1947), (2) Leonard Rodbell (1978)
-2. **Anne Markel** (m. Schlusselberg)
-3. **Frieda Markel**
-4. **Kate Markel** (Dec 6, 1925, Poland, Jan 11, 2006; m. Irving Kaplan). Born in Poland, moved to West Warwick at age 3. URI graduate. Biochemist at Sloan Kettering. Buried Lincoln Park Cemetery, Warwick, RI. (Kate Kaplan obituary, Providence Journal, Jan 13, 2006; Find a Grave #232002112)
-5. **Joseph Markel**
+Morris and Helen had at least six documented children (1940 and 1950 Census, Tier 1; Yichus narrative, Tier 2):
+1. **Thelma (Tobi) Markel** (Sept 12, 1920, Poland; d. Sept 22, 2011), age 19 in 1940 Census. Married (1) [[Leonard_Irving_Salmanson]] (1947), (2) Leonard Rodbell (1978). Absent from 1950 Census (already married).
+2. **Anne Markel** (~1922), age 18 in 1940, age 28 in 1950. Married Sol Schlusselberg.
+3. **Rita Markel** (~1925), age 15 in 1940, age 25 in 1950. Not previously in vault.
+4. **Katherine "Kate" Markel** (Dec 6, 1925, Poland; d. Jan 11, 2006), age 14 in 1940, age 24 in 1950. Married Irving Kaplan. URI graduate. Biochemist at Sloan Kettering. Buried Lincoln Park Cemetery, Warwick, RI. (Kate Kaplan obituary, Providence Journal, Jan 13, 2006; Find a Grave #232002112)
+5. **Joseph Harold Markel** (~1932), age 8 in 1940 (listed as "Harold"), age 18 in 1950 (listed as "Joseph"). The Yichus narrative confirms: "First son Joseph Harold was born."
+6. **Frieda Markel** (dec.). Listed in Yichus but absent from both 1940 and 1950 Census. May have died before 1940 or been living elsewhere.
 
 Through his daughter Thelma's marriage to Leonard Irving Salmanson, Morris is the paternal grandfather of [[Alan_Carl_Salmanson]], [[Kathryn_Ann_Kascher]]'s husband, connecting the Polish Jewish Markel family to the Providence Salmanson family.
 
@@ -79,6 +95,8 @@ Morris died in 1963. The location and circumstances of his death are not documen
 | MyHeritage family tree | Family tree database (Tier 3, unverified) | MyHeritage |
 | Geni World Family Tree | Community genealogy (Tier 3, unverified) | Geni.com |
 | Yichus narrative by Ruth Gold, Oct 9, 2011 | Primary family document (Tier 2) | Assets/Yicchis and Narrative.PDF |
+| 1940 US Census, West Warwick, Kent, RI, Enum. Dist. 2-46 | Census record (Tier 1) | Morris Markal, age 48, 28 Harris Ave; Roll m-t0627-03769, Line 77 |
+| 1950 US Census, West Warwick, Kent, RI, Enum. Dist. 2-63 | Census record (Tier 1) | Morris Markel, age 59, 12 Capron; Series T628, Dwelling 57, Line 29 |
 | Vault: [[Thelma_Markel]] | Person file | Daughter's biographical detail, Markel ancestry |
 | Kate Kaplan obituary, Providence Journal, Jan 13, 2006 | Newspaper obituary (Tier 2) | Legacy.com pid=16302813; confirms family born in Poland, moved to West Warwick ~1928 |
 | Kate Markel Kaplan, Find a Grave #232002112 | Cemetery record (Tier 1) | Lincoln Park Cemetery, Warwick, RI |
@@ -89,7 +107,11 @@ Morris died in 1963. The location and circumstances of his death are not documen
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | Father's name | "Heschel Herman Markel" (MyHeritage) | "Hersch Markiel" (Geni, via Minnie's record) | Variant spellings of the same person. "Heschel/Hersch" are Yiddish variants; "Markel/Markiel" are alternate romanizations. Yichus narrative uses "Heshel Markel" (Tier 2). |
-| Birth date | Not recorded | | Morris's birth date is entirely unknown. Only death year (1963) is documented. |
+| Birth year | ~1892 (1940 Census, age 48) | ~1891 (1950 Census, age 59) | One year discrepancy, normal for census rounding. Born ~1891-1892. |
+| Birthplace | Poland (1940 Census) | Austria (1950 Census) | Both correct: Galicia was Austria-Hungary pre-1918, Poland post-1918. |
+| Helen's age | 43 in 1940 (b. ~1897) | 59 in 1950 (b. ~1891) | **Six year discrepancy.** One census age is significantly wrong. |
+| Son's name | Harold Markal, age 8 (1940 Census) | Joseph Workel [Markel], age 18 (1950 Census) | Same person: **Joseph Harold Markel**. 1940 used middle name, 1950 used first name. Yichus confirms. |
+| Daughter Rita | Not previously in vault | Rita Markel, age 15 (1940), age 25 (1950) | **New daughter identified from census.** Not in GEDCOM, Geni, or Yichus descendant list. |
 | Full name | "Morris Moishe Myer Markel" (MyHeritage) | "Moishe Myer Markel" (Yichus narrative, Tier 2) | Consistent. "Morris" is the Americanized form of "Moishe Myer." |
 | Occupation | Not recorded (MyHeritage) | Rabbi at Ahavath Sholom Synagogue, Arctic (West Warwick), RI (Yichus narrative, Tier 2) | Yichus narrative is higher tier. Morris entered the US claiming to fill this rabbinical position. However, RIJHA historical article (Tier 2) states congregation of 30 families "could not afford a rabbi" and had "learned men" instead. Morris was "a very learned man" (Yichus) but may not have held a formal rabbinical appointment. |
 | Daughter's name | "Kay Markel" (m. Irving Kaplan) (GEDCOM, Geni) | Kate Markel Kaplan (Find a Grave #232002112; Providence Journal obituary) | Actual name was Kate, not Kay. Find a Grave (Tier 1) and obituary (Tier 2) supersede GEDCOM (Tier 3). |
