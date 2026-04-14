@@ -12,9 +12,9 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 ## Audit Summary
 
 - **Total named individuals audited**: ~125
-- **Discrepancies found**: 14
+- **Discrepancies found**: 15
 - **Resolved this session**: 3
-- **Remaining open**: 11
+- **Remaining open**: 12
 
 ---
 
@@ -36,6 +36,7 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 | 12 | David Wesley King | birth_date vs parents_marriage | b. ~1877 | Parents (William I. King + Marcia) married ~1887 | **Birth predates marriage by 10 years** -- either (a) birth year is 1887/1897 not 1877, (b) marriage year is 1877 not 1887, (c) David from prior relationship, (d) born before marriage | Handwritten notes (single source, ambiguous digits) | OPEN: Digit ambiguity (7 vs 8 vs 9) |
 | 13 | Stangle children | birth_dates cluster | Frank ~1791, William ~1792, George ~Sept 1793, Joseph ~Jan 1793 | 4 children in 26 months is biologically improbable for one mother | Some dates are misread, or children are from different mothers, or includes stepchildren | Handwritten notes (single source) | OPEN: Dates need verification |
 | 14 | Arguless (charter member) | surname | "Arguless Henderson" (Family_Tree.md) | hmdb.org: "Arguless, Elizabeth and Rachel Henderson" -- comma placement ambiguous | **Surname uncertain** -- "Arguless" may not be a Henderson; could be separate person | Historical marker (primary) | **RESOLVED: Noted as ambiguous in Family_Tree.md** |
+| 15 | Ezekiel Henderson / Elizabeth Brasher | marriage_date_and_location | "October 10, 1782, Greenville, SC" (WikiTree Henderson-1855, Geni, Family_Tree.md) | "October 17, 1782, Chatham County, NC" (WikiTree Brasher-122) | **Chatham County, NC more likely**: (a) Greenville County did not exist until 1786; (b) Brasher family in Chatham Co. 1782 (land grants Oct 23, 1782); (c) Pension says Ezekiel "moved into South Carolina shortly after the Revolutionary War." Oct 10 vs. Oct 17 date unresolved. | WikiTree (Tier 3) vs. WikiTree (Tier 3); pension declaration (Tier 1) supports NC. | OPEN: Chatham Co. NC favored over Greenville SC on geographic and chronological grounds. Marriage bond in FamilySearch catalog 191194 could resolve. Added 2026-04-14. |
 
 ---
 

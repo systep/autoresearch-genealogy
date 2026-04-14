@@ -1494,3 +1494,79 @@ Processed user-provided MyHeritage screenshots for George W. King in the 1870 an
 2. Search 1900 Census for Judson King to find children born after 1880 and identify H.H. King.
 3. Search for George W. King death record or Find a Grave memorial.
 4. Search Anderson/Greenville County marriage records for George W. King + Elizabeth [Shambler?].
+
+---
+
+## Session: 2026-04-14 (Elizabeth Brasher Parentage Research, Open Question #13)
+
+### Objective
+Research Elizabeth Brasher's parentage by examining the Ezekiel Henderson Revolutionary War pension file S6994, Thomas Levi Brasher Jr.'s 1789 will context, Chatham County NC marriage records, and colonial inheritance practices.
+
+### Searches Conducted
+
+| Search | Source | Result |
+|---|---|---|
+| Ezekiel Henderson pension S6994 PDF at revwarapps.org/s6994.pdf | revwarapps.org (Tier 1) | PDF exists but blocked (403 error). Could not extract full text. |
+| Web search: "Ezekiel Henderson pension S6994 transcription" | Multiple | Found partial pension content via WikiTree, search snippets. Declaration made July 8, 1833 in Greenville District Court of Equity. Service: drafted 3 months (first tour), volunteered 12 months (second tour, cavalry then infantry). Discharged at Hillsboro, NC. Lived in Greenville 47 years. Pension $57.50/year granted April 17, 1834. |
+| Pension file content: mentions of Elizabeth's father or Brasher family | revwarapps.org, WikiTree, ingenweb.org | NEGATIVE. Pension is Act of 1832 service-based application. No marriage certificates, family details, or in-law information found in available summaries. |
+| ingenweb.org/inorange/familyfiles/jmphenderson.htm (Henderson family file) | INGenWeb Orange County | Page exists with pension details and family information, but blocked (403). Search snippets confirm pension details already known. |
+| WikiTree Henderson-1855 (Ezekiel Henderson) | WikiTree (Tier 3) | Blocked (403). Search snippets confirm: married Elizabeth Brasher Oct 10, 1782; DAR Patriot A054668; will dated Feb 24, 1839 naming wife "Elisabeth" and son "Brasher Henderson" as executrix/executor. |
+| WikiTree Brasher-122 (Thomas Levi Brasher Jr.) | WikiTree (Tier 3) | Lists Elizabeth as daughter. Marriage date Oct 17, 1782 at Chatham Co., NC (vs. Oct 10 elsewhere). Will dated Sep 27, 1789, proved Apr 6, 1790. Will transcript labeled File 579 (mislabeled), actual location Vol Apt 0008 File 589, images 2172-2178. |
+| WikiTree Brasher-153 (Elizabeth Brasher Henderson) | WikiTree (Tier 3) | Lists Thomas Levi Brasher Jr. as father, Sarah Lindsey as mother. No primary source cited for parentage. |
+| Geni.com Thomas Brasher Jr. and Ezekiel Henderson profiles | Geni (Tier 3) | Blocked (403). Search snippets confirm same data as WikiTree. |
+| "Thomas Levi Brasher" will Greenville County 1789 transcript | Web search | No full will transcript found online. Will confirmed in SC Will Book Vol A-B 1787-1820, p. 28, FamilySearch film 0024025. Names five sons: Thomas, Quellea (Aquilla), Henry, John, Samuel. No daughters named. Witnessed by Aquilla Brasher (#1, the uncle). |
+| Empty Branches on the Family Tree blog: Brasher category | emptybranchesonthefamilytree.com (Tier 2/3) | Blocked (403) but search snippets yielded important warning: "There is a lot of mixed up information online about Thomas. He has been turned into a different Thomas, given the middle name of Levi, and married to several different people." Blog confirms will named five sons, no daughters. Confirms Ezekiel Henderson married Elizabeth Brasher Oct 10, 1782, Chatham Co., NC. |
+| Chatham County NC marriage bonds 1782 for Henderson/Brasher | ncgenweb.us/chatham/chatmarr.html, FamilySearch catalog 191194 | Marriage bonds collection exists (1772-1853) at NC State Archives and FamilySearch. Not accessible online for free. Published compilation: "Chatham County, North Carolina Marriage Records, 1782-1867" (Heritage Books). Specific bond not retrieved. |
+| SC marriage records pre-1800 (usgwarchives.net) | usgwarchives.net | Blocked (403). |
+| Ezekiel Henderson estate settlement 1856, Greenville County | WikiTree, Geni search snippets | POSITIVE FINDING. Estate settlement petition April 12, 1856, H.L. Henderson administrator. Legatees include: James Henderson (Indiana), Argulus Henderson (Mississippi), "A. Brasher and Frances his Wife" (Alabama), Thomas Henderson (Georgia), Lewis Croft and Rebecca his Wife (Georgia), Heirs of Nancy Long (deceased), Kindred Story and Delilah Story his Wife, Heirs of Sarah Long (deceased), Heirs of Brasher Henderson (deceased), T.B. Cox and Mary his Wife (Greenville), John Henderson. |
+| Frances Henderson married Lawrence Aquilla Brasher | WikiTree Brasher-467, rootsweb, Genealogy.com | POSITIVE FINDING. Frances "Franky" Henderson (b. Oct 10, 1799, Greenville SC; d. 1878, Fayette AL) married Lawrence Aquilla Brasher (b. 1801, Greenville SC; d. 1862, Fayette AL) in 1820 in Greenville. Lawrence Aquilla was son of Aquilla B. Brasher (~1772-~1842), who was named in Thomas Levi Jr.'s 1789 will. This is a cross-family marriage: Elizabeth's daughter married Elizabeth's alleged nephew. 12 children, 24 years. |
+| Colonial inheritance: married daughters excluded from wills | genfiles.com, genealogyblog.com, multiple | Confirmed: daughters who received "portions" (dowries) at marriage were commonly not named in father's subsequent will. A married daughter's absence from a will is NOT evidence of non-relationship. South Carolina followed English 1670 statute until 1791 reform. |
+| Thomas Brasher Sr. 1770 will (Orange Co., NC) for comparison | Empty Branches blog, WikiTree Brasher-37 | Thomas Sr.'s will names both sons AND daughters (Elizabeth Jones, Sarah Pyle, Hannah Teague, Mary, Cassa, Jean, Rachel, plus wife Hannah Brazier). Thomas Sr. had more property and both married and unmarried daughters to provide for. |
+| Descendants of Aquilla Brasher, Fayette Co., AL | rootsweb ~alfayett | Blocked (403). Search snippet confirms Lawrence Aquilla Brasher married Frances Henderson. |
+| tnyesterday.com Brasher family page | tnyesterday.com | Blocked (403). |
+| Greenville County probate records online search | greenvillecounty.org/appsas400/Probate | Exists but requires direct database access. Not searched. |
+| Argaleus Henderson will (Google Docs transcription) | docs.google.com | Blocked (403). Document title: "18040906 CHAT-NC Argaleus Henderson Will." |
+| Marriage location: Chatham Co. NC vs. Greenville SC | Multiple sources | WikiTree Brasher-122 says Oct 17, 1782 Chatham Co., NC. WikiTree Henderson-1855 says Oct 10, 1782, Greenville SC. Chatham Co. more likely: Brasher family in Chatham 1782 (land grants Oct 23, 1782); Greenville County not created until 1786; Ezekiel pension says "moved into South Carolina shortly after the Revolutionary War." |
+
+### Key Findings
+
+1. **Pension file S6994 does not resolve the parentage question.** The pension is an Act of 1832 service-based application, which typically contains only military service details, not family or marriage information. Elizabeth predeceased Ezekiel (~1839 vs. 1846), so no widow's pension application exists. The pension was granted $57.50/year starting March 4, 1834.
+
+2. **Cross-family marriage is the strongest new evidence.** Frances Henderson (daughter of Ezekiel and Elizabeth Brasher Henderson) married Lawrence Aquilla Brasher (son of Aquilla B. Brasher, named in Thomas Levi Jr.'s 1789 will) in 1820. This is effectively Elizabeth's daughter marrying Elizabeth's alleged nephew. Such cross-family marriages between the same two families in consecutive generations strongly suggest a pre-existing kinship connection.
+
+3. **Ezekiel Henderson's 1856 estate settlement confirms the Henderson/Brasher intermarriage** by listing "A. Brasher and Frances his Wife in Alabama" as legatees.
+
+4. **Colonial inheritance practice supports the "excluded because married" explanation.** Daughters who received dowries at marriage were routinely excluded from subsequent wills in the colonial/early republic period. Elizabeth married seven years before the 1789 will, well within the expected pattern.
+
+5. **The "Empty Branches" blog warns about online confusion** regarding Thomas Brasher's identity, the "Levi" middle name, and multiple incorrect wife attributions. This caution is well taken.
+
+6. **Marriage location discrepancy persists.** Some sources say Oct 10, 1782 in Greenville SC; others say Oct 17, 1782 in Chatham Co., NC. Chatham County is more likely given: (a) The Brasher family was in Chatham/Orange County in 1782 (land grants recorded Oct 23, 1782). (b) Greenville County did not exist until 1786. (c) Ezekiel was discharged at Hillsboro, NC, and "moved into South Carolina shortly after the Revolutionary War" per the pension. A 1782 marriage in SC is chronologically possible but geographically less likely.
+
+### Negative Results
+
+| Search | Result |
+|---|---|
+| Pension file S6994 full text extraction | Could not access PDF (403). No full transcription found online. |
+| Primary source naming Elizabeth as Thomas Levi's daughter | Not found. All attributions trace to Tier 3 sources or "A Brazier/Brasher Saga." |
+| Chatham County marriage bond details (bondsman name) | Not retrieved. Collection exists but requires FamilySearch or NC Archives access. |
+| Full text of Thomas Levi Brasher Jr.'s 1789 will | Not found online. Available on FamilySearch film 0024025, images 2172-2178. |
+| SC Will Book Vol A-B digitized transcripts online | Not found freely available. |
+| ingenweb Henderson family file full content | Blocked (403). |
+| Argaleus Henderson will transcription (Google Docs) | Blocked (403). |
+
+### Assessment
+
+Confidence in Elizabeth Brasher's parentage (Thomas Levi Brasher Jr.) upgraded from **SPECULATIVE** to **MODERATE SIGNAL**. The cross-family marriage of Frances Henderson to Lawrence Aquilla Brasher, combined with the naming of "Brashier Henderson" and the geographic co-location of both families in the same Chatham County to Greenville County migration stream, constitutes multiple independent circumstantial indicators. However, no single primary document has been located that directly names Elizabeth as Thomas Levi's daughter.
+
+### Files Updated
+- Open_Questions.md (Question #13 updated with new searches, findings, and assessment)
+- Research_Log.md (this entry)
+- Elizabeth_Brasher.md (new findings added)
+- Ezekiel_Henderson.md (estate settlement details added)
+
+### Next Steps
+1. Access Chatham County NC marriage bonds (FamilySearch catalog 191194) for the Henderson/Brasher bond. The bondsman identity (if a Brasher) would be near-conclusive evidence.
+2. Access FamilySearch film 0024025 for full text of Thomas Levi Brasher Jr.'s 1789 will (images 2172-2178).
+3. Obtain "A Brazier/Brasher Saga" by Brashear and McCoy (FamilySearch catalog 734009) to identify the specific evidence the authors used for the Elizabeth parentage claim.
+4. Access Fold3 for digitized pension file S6994 images (requires paid subscription).
+5. Search Greenville County probate case search (greenvillecounty.org/appsas400/Probate/) for Thomas Brasher estate distribution records.

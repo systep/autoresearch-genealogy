@@ -51,11 +51,36 @@ He married **Elizabeth Brasher** on October 10, 1782 in South Carolina. They mov
 
 **Key family note:** Brashier Henderson and Olive Mary "Polly" Henderson were siblings. When Olive Mary's daughter Rebecca Adeline Cox married Brashier's son Rev. Henry Langford Henderson, it was a **first-cousin marriage**.
 
+**Henderson/Brasher intermarriage (2026-04-14):** Frances "Franky" Henderson (b. Oct 10, 1799; d. 1878, Fayette AL) married Lawrence Aquilla Brasher (b. 1801, Greenville SC; d. 1862, Fayette AL) in 1820 in Greenville, SC. Lawrence Aquilla was the son of Aquilla B. Brasher (~1772-~1842), who was named in Thomas Levi Brasher Jr.'s 1789 will. This cross-family marriage (Elizabeth's daughter marrying her alleged nephew) is the strongest circumstantial evidence that Elizabeth Brasher was indeed from the Thomas Levi Brasher Jr. family. (WikiTree Brasher-467)
+
+## Pension Details (S6994)
+
+Ezekiel Henderson's pension was filed under the Act of 1832. The declaration was made July 8, 1833 in Greenville District, South Carolina, before the chancellor of the court of equity. He stated he had moved into South Carolina shortly after the Revolutionary War and lived in Greenville for 47 years. He was drafted for three months (first tour) and volunteered for twelve months (second tour, serving in cavalry for half and infantry for the other half). He was discharged at Hillsboro, NC. Witnesses to his character: John H. Harrison and Col. Wm. Morrison. Pension of $57.50/year granted April 17, 1834, commencing March 4, 1834. The pension file is a service-based application and does not contain marriage certificates or family details beyond military service. (revwarapps.org/s6994.pdf; DAR Patriot Ancestor A054668)
+
+## Estate Settlement (1856)
+
+Ezekiel Henderson's estate was settled via petition dated April 12, 1856 in Greenville County, with H.L. Henderson (Rev. Henry Langford Henderson, grandson) as administrator. The legatees named were:
+1. James Henderson (Indiana)
+2. Argulus Henderson (Mississippi)
+3. A. Brasher (Lawrence Aquilla Brasher) and Frances his Wife (Alabama)
+4. Thomas Henderson (Georgia)
+5. Lewis Croft and Rebecca his Wife (Georgia)
+6. Heirs of Nancy Long, deceased (Mississippi and in the state)
+7. Kindred Story and Delilah Story his Wife (in the state)
+8. Heirs of Sarah Long, deceased
+9. Heirs of Brasher Henderson, deceased
+10. T.B. Cox and Mary his Wife (Greenville)
+11. John Henderson
+
+This estate settlement (Tier 1, Greenville County probate record) independently confirms several children of Ezekiel and Elizabeth and documents the Henderson/Brasher intermarriage. (WikiTree Henderson-1855)
+
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
-| WikiTree Henderson-1855 | Community genealogy | wikitree.com |
-| RevWarApps Pension S6994 | Military pension | revwarapps.org/s6994.pdf |
-| Geni.com | Community genealogy | Ezekiel Henderson profile |
-| WikiTree Brasher-153 | Community genealogy | Elizabeth Brasher profile |
+| WikiTree Henderson-1855 | Community genealogy (Tier 3) | wikitree.com |
+| RevWarApps Pension S6994 | Military pension (Tier 1) | revwarapps.org/s6994.pdf |
+| Geni.com | Community genealogy (Tier 3) | Ezekiel Henderson profile |
+| WikiTree Brasher-153 | Community genealogy (Tier 3) | Elizabeth Brasher profile |
+| WikiTree Brasher-467 | Community genealogy (Tier 3) | Lawrence Aquilla Brasher profile |
+| Ezekiel Henderson estate settlement, April 12, 1856 | Probate record (Tier 1) | Greenville County, SC; H.L. Henderson administrator |

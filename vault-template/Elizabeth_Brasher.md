@@ -4,7 +4,7 @@ name: "Elizabeth Brasher"
 born: ~1765
 died: ~1839
 family: "Brasher"
-confidence: moderate
+confidence: moderate-speculative
 sources:
   - "Family_Tree.md"
   - "WikiTree Brasher-153"
@@ -35,7 +35,7 @@ sources:
   - "Chatham County NC Deed Abstracts (ncgenweb.us)"
   - "Greenville County Deed Book L (genealogytrails.com)"
 created: 2026-04-10
-updated: 2026-04-13
+updated: 2026-04-14
 tags: [genealogy, brasher, brashier, henderson, person, south-carolina, north-carolina, maryland, colonial, huguenot]
 ---
 
@@ -94,7 +94,7 @@ Thomas Sr.'s first wife was **Sarah Constant** (m. Oct 23, 1726, St. George's Ch
 
 ### Confidence Assessment for Parentage Claim
 
-**Speculative.** The identification of Thomas Levi Brasher Jr. and Sarah Lindsey as Elizabeth's parents rests entirely on Tier 3 sources (WikiTree, Geni, FamilySearch user trees, compiled family histories). No primary source has been located that directly names Elizabeth Brasher as a daughter of Thomas Levi Brasher Jr. The claim appears to originate from the compiled research in "A Brazier/Brasher Saga" by Charles Brashear and Shirley Brasher McCoy (532 pages, covering ~8,000 family members), which has been widely copied across genealogical platforms.
+**Moderate Signal (upgraded 2026-04-14 from Speculative).** The identification of Thomas Levi Brasher Jr. and Sarah Lindsey as Elizabeth's parents rests on Tier 3 sources (WikiTree, Geni, FamilySearch user trees, compiled family histories) plus multiple independent circumstantial indicators. No primary source has been located that directly names Elizabeth Brasher as a daughter of Thomas Levi Brasher Jr. The claim appears to originate from the compiled research in "A Brazier/Brasher Saga" by Charles Brashear and Shirley Brasher McCoy (532 pages, covering ~8,000 family members), which has been widely copied across genealogical platforms. However, the cross-family marriage of Frances Henderson (Elizabeth's daughter) to Lawrence Aquilla Brasher (son of Aquilla B., named in Thomas Levi's will) and colonial inheritance practices regarding married daughters strengthen the circumstantial case considerably.
 
 **Critical finding (2026-04-13):** Thomas Levi Brasher Jr.'s will (dated Sep 27, 1789, proved Apr 6, 1790, SC Will Book Vol A-B 1787-1820, p. 28) **named five sons and no daughters**: Thomas, Aquilla (spelled "Quellea"), Henry, John, and Samuel. Elizabeth is NOT named in the will. This is significant because:
 
@@ -107,13 +107,16 @@ Thomas Sr.'s first wife was **Sarah Constant** (m. Oct 23, 1726, St. George's Ch
 **Additional finding (2026-04-13):** One source (Geni/WikiTree Henderson-1855) refers to Elizabeth as "daughter of Thos L and Elizabeth Brasher of Guilford Co, NC." This introduces yet another variant for the mother's name ("Elizabeth" rather than "Sarah" or "Naomi"). "Guilford County" is also a new location variant (the family is otherwise documented in Orange County and Chatham County, NC, though Guilford County borders both). This may represent confusion with another Elizabeth Brasher (b. Nov 25, 1733), who was a daughter of Thomas Brasher Sr. and sister of Thomas Levi Jr., and who married Mr. Jones.
 
 Supporting circumstantial evidence:
-1. Elizabeth married in 1782 in SC; Thomas Levi Brasher Jr. was in the same migration stream from NC to Greenville Co., SC.
+1. Elizabeth married in 1782 in NC (likely Chatham County); Thomas Levi Brasher Jr. was in the same migration stream from Chatham/Orange County, NC to Greenville Co., SC.
 2. The Brasher family was a tight cluster in Greenville County: the 1790 census shows Sarah (widow of Thomas), Aquilla, Samuel, James, John, Thomas, and William all enumerated there.
 3. The naming of Brashier Henderson (b. 1790) after his mother's maiden name is consistent with Elizabeth being from this Brasher family.
 4. Thomas Levi Brasher Jr.'s will was proved in Greenville Co., SC in 1790, placing the family in the same area.
 5. Land records show multiple Brasher family members taking up land on the Reedy River / Reedy Fork / Cripple Creek in Greenville Co. in the 1780s. Thomas L. bought a 500-acre parcel on Cripple Creek of Reedy River about 1785 for 110 pounds.
-6. Frances "Franky" Henderson (b. Oct 10, 1799), a daughter of Elizabeth and Ezekiel, married into the Brasher family (WikiTree), maintaining the cross-family connection.
-7. The "A Brazier/Brasher Saga" book (532 pages, Tier 2) treats Elizabeth as a child of Thomas Levi Jr., and this is the source most online trees appear to derive from.
+6. **(Strongest new evidence, 2026-04-14)** Frances "Franky" Henderson (b. Oct 10, 1799, d. 1878, Fayette AL), daughter of Ezekiel and Elizabeth, married **Lawrence Aquilla Brasher** (b. 1801, Greenville SC; d. 1862, Fayette AL) in 1820 in Greenville, SC. Lawrence Aquilla was the son of **Aquilla B. Brasher** (~1772-~1842), who was the second son named in Thomas Levi Jr.'s 1789 will (spelled "Quellea"). If Elizabeth were Thomas Levi's daughter, then Frances married her first cousin once removed (her mother's nephew). This cross-family marriage between the Henderson and Brasher families in the next generation strongly implies a pre-existing kinship connection. (WikiTree Brasher-467; rootsweb ~alfayett/Families/BRASHER_Aquilla.html)
+7. **(2026-04-14)** Ezekiel Henderson's estate settlement (petition April 12, 1856, Greenville Co., H.L. Henderson administrator) confirms the Henderson/Brasher intermarriage by listing among legatees: "A. Brasher and Frances his Wife in Alabama." The "A. Brasher" is Lawrence Aquilla Brasher. (WikiTree Henderson-1855)
+8. **(2026-04-14)** Colonial/early republic inheritance practice confirms that married daughters who had received their "portion" (dowry) at marriage were commonly NOT named in the father's subsequent will. Elizabeth married seven years before the 1789 will. Her absence from the will is consistent with standard practice, not evidence of non-relationship. South Carolina followed the English statute of 1670 until the 1791 reform mandating equal shares regardless of gender.
+9. The "A Brazier/Brasher Saga" book (532 pages, Tier 2) treats Elizabeth as a child of Thomas Levi Jr., and this is the source most online trees appear to derive from.
+10. **(2026-04-14)** Thomas Brasher Sr.'s 1770 will (Orange Co., NC) names daughters alongside sons, establishing that the Brasher family did sometimes include daughters in wills. However, Thomas Sr. had more property and both married and unmarried daughters to provide for. Thomas Levi Jr.'s smaller estate may have been distributed only among sons who needed provision.
 
 Weaknesses:
 1. Thomas Levi Brasher Jr.'s 1789 will names five sons and **no daughters**. Elizabeth is not mentioned. (Though she was already married by 1782.)
@@ -246,3 +249,8 @@ In modern times, the Brashier name remains prominent: Brashier Middle College Ch
 | WeRelate.org Brasher profiles | Found Person:John_Brasher_(1) and Person:Samuel_Brasher_(2). Could not fetch full content (403 errors). |
 | tnyesterday.com Brasher family page | Page exists but could not be fetched (403). Web search snippets reveal it documents a separate Brasher branch (Philip Brashear, b. 1755, Guilford Co., NC to Roane Co., TN) that may or may not connect to Thomas Levi's family. |
 | SC Department of Archives: State Plats for Land Grants 1784-1868 | Now digitized and online (scdah.sc.gov). Not yet searched directly for Brasher/Brashier entries. |
+| Ezekiel Henderson pension S6994 for Elizabeth's parentage (2026-04-14) | Pension is Act of 1832 service-based application. Available summaries contain military service details only, not family or in-law information. Elizabeth predeceased Ezekiel, so no widow's pension (W-series) exists. PDF blocked (403). |
+| Chatham County NC marriage bond for Henderson/Brasher 1782 (2026-04-14) | Marriage bonds 1772-1853 exist at NC State Archives and FamilySearch catalog 191194. Not accessible online for free. Bondsman name not retrieved. |
+| Full text of Thomas Levi Brasher Jr.'s 1789 will (2026-04-14) | Not found online. Available on FamilySearch film 0024025, images 2172-2178 (Vol Apt 0008, File 589). |
+| ingenweb.org Henderson family file (2026-04-14) | Blocked (403). Search snippets confirm pension details already known. |
+| Argaleus Henderson will transcription (2026-04-14) | Google Docs document exists (docs.google.com) but blocked (403). |
