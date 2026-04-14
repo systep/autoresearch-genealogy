@@ -56,4 +56,5 @@ William Thomas Long died in 1887. Through his son William Goldsmith, he is an an
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| No discrepancies currently documented | | | |
+| Death date | 1887 (headstone: "William T. Long 1825-1887") | 16 Oct 1897 (pedigree chart page 6); "age at death: 72" (pedigree chart) | The headstone (Tier 1 primary source) reads 1887. The pedigree chart gives 16 Oct 1897 with "age at death: 72," which would imply birth in 1825 (matching). However, born 1825 and died 1887 = age 61-62, not 72. Born 1825 and died 1897 = age 71-72, consistent with pedigree chart's "age 72." The headstone may be partially illegible (the "8" in "1887" could be a "9" making it 1897). Deferred to Open_Questions pending re-examination of headstone photo. |
+| Mother's maiden name | Sarah Long (handwritten chart) | Sarah "Sally" Goldsmith (Geni, pedigree chart) | RESOLVED: Goldsmith is the maiden name; "Long" was her married surname. Confirmed by grandson's name "William Goldsmith Long." |

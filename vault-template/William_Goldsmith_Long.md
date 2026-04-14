@@ -6,6 +6,7 @@ died: 1937
 family: "Long"
 confidence: strong
 sources:
+  - "Pedigree chart page 6"
   - "MyHeritage family tree"
 created: 2026-04-10
 tags: [genealogy, long, person, south-carolina]
@@ -17,9 +18,10 @@ tags: [genealogy, long, person, south-carolina]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | William Goldsmith Long | MyHeritage |
-| Born | 1862 | MyHeritage |
-| Died | 1937 | MyHeritage |
+| Full Name | William Goldsmith Long | Pedigree chart, MyHeritage |
+| Born | 10 Feb 1862, Simpsonville, Greenville, SC | Pedigree chart page 6 |
+| Married | 10 Jan 1886 | Pedigree chart page 6 |
+| Died | 24 Mar 1937, Fort Pierce, St. Lucie, FL | Pedigree chart page 6 |
 | Father | William Thomas Long (1825-1887) | MyHeritage |
 | Mother | Mary Elizabeth Huff (June 21, 1838 - Aug 6, 1922) | MyHeritage |
 | Spouse | [[Roxanne_Cox]] (Rooksaner/Roxana) (1865-1912) | MyHeritage |
