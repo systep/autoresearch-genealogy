@@ -1,7 +1,7 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-14
 tags: [genealogy, audit, cross-reference]
 ---
 
@@ -11,9 +11,9 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 
 ## Audit Summary
 
-- **Total named individuals audited**: ~125
-- **Discrepancies found**: 25
-- **Resolved this session**: 9
+- **Total named individuals audited**: ~130
+- **Discrepancies found**: 27
+- **Resolved**: 11 (including 2 from 2026-04-14 Yichus integration)
 - **Remaining open**: 16
 
 ---
@@ -39,6 +39,8 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 | 15 | Ezekiel Henderson / Elizabeth Brasher | marriage_date_and_location | "October 10, 1782, Greenville, SC" (WikiTree Henderson-1855, Geni, Family_Tree.md) | "October 17, 1782, Chatham County, NC" (WikiTree Brasher-122) | **Chatham County, NC more likely**: (a) Greenville County did not exist until 1786; (b) Brasher family in Chatham Co. 1782 (land grants Oct 23, 1782); (c) Pension says Ezekiel "moved into South Carolina shortly after the Revolutionary War." Oct 10 vs. Oct 17 date unresolved. | WikiTree (Tier 3) vs. WikiTree (Tier 3); pension declaration (Tier 1) supports NC. | OPEN: Chatham Co. NC favored over Greenville SC on geographic and chronological grounds. Marriage bond in FamilySearch catalog 191194 could resolve. Added 2026-04-14. |
 | 16 | George Michael Bright Jr. | marriage_date | "18 Sep 1891" (MyHeritage pedigree chart, page 4) | "Marriage Date: 18 Sep 1892" (Mississippi Marriages 1826-1900, cited ON the same pedigree chart page) | **One year discrepancy from same source page.** The MS Marriages database record (Tier 2) says 1892; the chart heading says 1891. 1892 is from the indexed record. | Pedigree chart (Tier 3) vs. Mississippi Marriages index (Tier 2) | OPEN: 1892 preferred (Tier 2 source). Added 2026-04-14. |
 | 17 | Albert Graham Bright | marriage_date | "2 Sep 1920" (MyHeritage pedigree chart, page 1) | "September 2, 1928" (vault transcription of handwritten chart IMG_0783) | **1920 strongly preferred**: daughter Mary Elizabeth born June 5, 1921 (9 months after Sep 1920 marriage). A 1928 date means she was born 7 years before the marriage. The "2" in "1920" likely misread as "8" on the handwritten chart. | Pedigree chart (Tier 3) vs. handwritten chart (Tier 3, ambiguous handwriting) | LIKELY RESOLVED: 1920 is correct. Added 2026-04-14. |
+| 18 | Markel children | birth_order | Vault (pre-2026-04-14): 1. Minnie, 2. Avraham Chaim, 3. Masha, 4. Morris, 5. Sarah, 6. Hannah, 7. Florence, 8. Pessel | Yichus narrative (pages 6-8, Tier 2): 1. Freitca Miritza (Minnie), 2. Mashe (Masha), 3. Moishe Myer (Morris), 4. Tsirl (Sarah), 5. Avraham Chaim, 6. Hannah, 7. Sura Feiga (Florence), 8. Pessel (Peggy) | **Yichus order is authoritative**: Avraham Chaim is 5th not 2nd; Masha, Morris, Sarah moved up. | Yichus narrative by Ruth Gold (Tier 2) | **RESOLVED 2026-04-14**: All 10 vault person files and Family_Tree corrected. |
+| 19 | Feiga Frei Karp | children | Earlier vault: Nissan, Abraham, Frieda (3 children) | Yichus typed listing page 10 (Tier 2): Abraham Karp is Joseph Karp's younger brother, not a child. Friedelle (not Frieda) is the daughter's formal name. | **Corrected**: Children are Nissan and Friedelle (Frieda). Abraham Karp was misidentified as a child; he is Joseph's brother. | Yichus page 10 (Tier 2) | **RESOLVED 2026-04-14**: Feiga_Frei_Karp.md corrected. |
 | 18 | Albert Graham Bright | birth_date_month | "19 Apr 1893" (MyHeritage pedigree chart) | "Aug 19, 1893" (George_Michael_Bright.md, handwritten chart) | Day (19th) is consistent; month differs (April vs August). Could be a month/day format confusion. | Both Tier 3 | OPEN: Primary source needed. Added 2026-04-14. |
 | 19 | Sara Schuller / Stephania Benning | **full_name** | "Sara Schuller" (GEDCOM, FamilySearch, MyHeritage, pedigree charts: all Tier 3) | **"verwitwete Stephania Benning"** (VATER church certificate, Assets/05.pdf, Tier 1, Pastor A. Bogeschdorfer, Waldhuetten, 10 Feb 1938) | **CRITICAL DISCREPANCY. Same person:** b. 27 Jan 1829, d. uterine cancer (Gebaermutterkrebs), same husband Michael Kascher (b. 1834, Wurmloch). VATER certificate (Tier 1) calls her "verwitwete Stephania Benning" (widowed Stephania Benning). GEDCOM/pedigree (Tier 3) calls her "Sara Schuller." Death date differs by 5 days: 22 Mai 1876 (Tier 1) vs 27 May 1876 (Tier 3). **Tier 1 supersedes Tier 3: her name per church registers is Stephania Benning, previously widowed, who married Michael Kascher on 4 Jan 1860.** The name "Sara Schuller" may derive from: (a) a confusion with her mother Sara Benning or maternal grandfather Leonhard Schuller, (b) a second given name (Stephania Sara), (c) a Transylvanian Saxon naming convention where "Schuller" was a Beiname. The GEDCOM's "Sara Schuller" appears to be a Tier 3 error propagated across multiple derivative trees. See [[Sara_Schuller]] for full analysis. | VATER church certificate (Tier 1) vs GEDCOM/FamilySearch (Tier 3). **Tier 1 wins.** | OPEN: Name corrected to Stephania Benning per Tier 1 source. Further research needed to determine origin of "Sara Schuller" name in GEDCOM. Added 2026-04-14. |
 | 20 | Sara Schuller / Stephania Benning | death_date | 27 May 1876 (GEDCOM, Tier 3) | **22 Mai 1876** (VATER church certificate, Tier 1) | 5-day difference. **Tier 1 church register preferred: 22 May 1876.** GEDCOM's "27 May" is likely a transcription error or memory error by whoever submitted the GEDCOM. | VATER church certificate (Tier 1) vs GEDCOM (Tier 3) | RESOLVED: 22 May 1876 per Tier 1. Added 2026-04-14. |

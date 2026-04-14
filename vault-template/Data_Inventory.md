@@ -25,6 +25,8 @@ Complete inventory of all ancestry-related data assets. Each tagged with source,
 | 1880 U.S. Census, Oaklawn Twp, Greenville Co, SC (Judson + Charstee King, 7 children) | King | [[Judson_King]], [[Charstee_King]] |
 | 1920 U.S. Census, Oaklawn Twp, Greenville Co, SC (T625, Sheet 3-B, Family 51) | King | [[Judson_King]], [[Charstee_King]] |
 | Confederate Service Record index: Judson King, 16th SC Infantry (Greenville Regt), 1862 | King | [[Judson_King]] |
+| Elizabeth (Salk) Salmanson headstone, BillionGraves, Lincoln Park Cemetery, Warwick RI | Salk, Salmanson | [[Elizabeth_Salk]]; Hebrew inscription with genealogical lineage chains |
+| 1930 US Census: Elizabeth (Salk) Salmanson household, Providence RI | Salk, Salmanson | [[Elizabeth_Salk]]; age 43, immigration 1897, parents born Poland |
 
 ### Moderate Reliability (newspaper, secondary sources)
 

@@ -9,6 +9,28 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-14: Tier 1 Church Certificate Integration and Stephania Benning Name Discrepancy
+
+### Summary
+Systematic integration of Tier 1 church record data from three Waldhütten church certificates (KINDER/Assets/03.pdf, MUTTER/Assets/04.pdf, VATER/Assets/05.pdf) into vault files. All three certificates were issued by Pastor A. Bogeschdorfer from the Evangelical Church A.B. parish registers in Waldhütten (Valchid), Transylvania. These are Tier 1 primary sources and supersede all Tier 3 GEDCOM data.
+
+### Critical Discrepancy: Stephania Benning vs Sara Schuller (cross_reference_audit.md #19)
+The VATER church certificate (Tier 1) identifies Michael Kascher I's wife as **"verwitwete Stephania Benning"** (b. 27 Jan 1829, Waldhütten; d. 22 Mai 1876, Gebaermutterkrebs). The GEDCOM and all derivative trees call her **"Sara Schuller"** (b. 27 Jan 1829; d. 27 May 1876, uterine cancer). Same person, completely different names. Tier 1 supersedes: adopted **Stephania Benning** as correct. The "Sara Schuller" name likely arose from confusion with her mother Sara Benning and/or father Johann Schuller.
+
+### Additional Discrepancy Resolved: Michael Kascher son birth year (#22)
+KINDER certificate digit ambiguous (1889 or 1899). **1889 confirmed** by chronological sibling sequence, SSDI, 1913 marriage record (age 24), 1930 census (age 41).
+
+### Data Integrated from VATER Certificate (Assets/05.pdf)
+Georg Kascher (b. Mar 1792, Wurmloch) and Maria geb. Wagner now confirmed by Tier 1. Leonhard Schuller birth year ~1770 added. All dates for Michael Kascher I, Stephania Benning, Johann Schuller, Sara Benning confirmed.
+
+### Data Integrated from MUTTER Certificate (Assets/04.pdf)
+Martin Binder: Organist occupation added. Esthera Theil: birthplace corrected to Malmkrog (not Waldhütten). Marriage date 15 Jan 1817 added. Christian Weber: Organist in Kreisch. Wife's name corrected from garbled GEDCOM. Georg Krauss (Alias Binder): baptism 14 Feb 1794, father Johannes. Johann Binder: confirmed as Johann (not "Petrus" per Siebenbuerger.de).
+
+### Files Updated
+cross_reference_audit.md (#19-22), Sara_Schuller.md, Michael_Kascher_Sr_1864.md, Michael_Kascher_Transylvania.md, Regina_Kascher.md, Henry_Michael_Kascher.md, Georg_Kascher.md, Maria_Wagner.md, Leonhard_Schuller.md, Martin_Binder.md, Christian_Weber.md, Anna_Weber.md, Esthera_Theil.md, Georg_Krauss.md, Johann_Krause_Binder.md, Anna_Binder.md, Timeline.md (26 new events), Research_Log.md.
+
+---
+
 ## 2026-04-14: Salk Family Research Part 2: Hebrew Headstone Inscription and Census Data
 
 ### Summary

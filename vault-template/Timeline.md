@@ -1,7 +1,7 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-12
+updated: 2026-04-14
 tags: [genealogy, timeline, chronology]
 ---
 
@@ -124,6 +124,7 @@ Chronological index of all dated events across the family tree.
 | May 15, 1883 | Birth | [[Barnett_Salmanson]] (Berko Zalmanson) | Vilnius (Vilna), Lithuania | MyHeritage |
 | Jan 27, 1886 | Birth | Jacob Kushner | Russia | MyHeritage |
 | Nov 18, 1886 | Death | Rev. Henry Langford Henderson | Greenville County, SC | WikiTree |
+| Mar 5, 1887 | Birth | [[Elizabeth_Salk]] (Hebrew name: Hilda) | Poland | BillionGraves headstone, Lincoln Park Cemetery (Tier 1) |
 | ~1887 | Birth | [[Minnie_Markel_Sternbach]] (Freitca Miritza) | Vanyavitch, Galicia | Yichus narrative (Tier 2) |
 | 1862 | Enlistment, Confederate Army, 16th SC Infantry (Greenville Regiment) | [[Judson_King]] | South Carolina | Ancestry/Fold3 Confederate service index (Tier 2) |
 | ~1887 | Marriage | William I. King + Marcia (Mary) Kopp/Huff | | IMG_0792, IMG_0786 |
@@ -205,6 +206,7 @@ Chronological index of all dated events across the family tree.
 | Jan 26, 1958 | Death | Anna (Salk) Zipperman | Fulton, Georgia | MyHeritage (Tier 3) |
 | Dec 14, 1960 | Death | [[Barnett_Salmanson]] | Miami, FL | MyHeritage |
 | 1972 | NYSE listing | Adams Drug Company | | Wikipedia |
+| Nov 30, 1974 | Death (age 87; 17 Kislev 5735) | [[Elizabeth_Salk]] (Elizabeth Salmanson) | Warwick, RI; buried Lincoln Park Cemetery | BillionGraves headstone (Tier 1) |
 | May 15, 1975 | Death | [[Leonard_Irving_Salmanson]] | | Find a Grave |
 | 1978 | Marriage | Thelma Salmanson + Leonard Rodbell | | Find a Grave |
 | 1984 | Business sold ($100M) | Adams Drug to Pantry Pride | | Wikipedia |
