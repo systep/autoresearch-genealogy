@@ -2082,3 +2082,93 @@ Despite extensive searching, no primary or secondary source records were found f
 6. Access KehilaLinks Markel page in browser for full content.
 7. Search USHMM database for Markel + Sambor.
 8. Variant spellings to try: Markel, Markl, Merkl, Merkel, Marckl; given names: Nissen/Nisn/Nisan, Mendel/Menachem, Dov/Ber/Berko/Behr, Heshel/Heszel/Herschel/Hersch/Hirsch.
+
+---
+
+## Session: 2026-04-14 -- Morris Markel Family Immigration Manifest Search
+
+**Goal**: Locate the ship manifest for Morris Markel family immigration to the United States (~1926-1930). Also verify Florence Markel's 1923 arrival on ship "The Liberty."
+
+**Known facts going in**:
+- Morris (Moishe Myer) Markel, b. ~1891-1892, Vanyavitch (Waniowice), Galicia
+- Wife Helen Brandt Markel, b. ~1891-1897
+- Yichus narrative: family "arrived in 1930"
+- Kate Kaplan obituary: born Dec 6, 1925 Poland, moved to West Warwick at age 3 (~1928)
+- 1940 Census: Morris age 48, Helen age 43, at 28 Harris Ave, West Warwick RI since 1935
+- Children by immigration: Thelma (b. 1920), Anne (~1922), Rita (~1925), Kate (Dec 1925)
+- Florence (Sura Feiga) arrived separately 1923 on ship "The Liberty" (Yichus)
+- Morris entered US "claiming to fill a position as a Rabbi" at Ahavath Sholom (Yichus)
+
+### Searches Performed (15 total)
+
+1. **stevemorse.org "Markel" passenger manifest Ellis Island 1926-1930 Poland**: No results. Steve Morse tools confirmed as free, no-login search interface for Ellis Island/Ancestry data. Tool itself requires browser access for actual searches.
+
+2. **Ship "The Liberty" 1923 passenger manifest Ellis Island**: No ship named "The Liberty" found as a transatlantic passenger vessel. Ellis Island Foundation and FamilySearch collections identified but require login.
+
+3. **"Morris Markel" OR "Moishe Markel" OR "Markiel" passenger manifest 1926-1930**: No results. General NARA and immigration resources returned.
+
+4. **SS Liberty ship 1923 immigration New York**: No transatlantic passenger vessel named Liberty confirmed. Wikipedia has SS Liberty (1890), a British railway vessel, not a passenger liner.
+
+5. **"Markel" OR "Markiel" OR "Markl" immigration rabbi Rhode Island 1928 Poland Galicia naturalization**: Found KehilaLinks Markel family page (kehilalinks.jewishgen.org/Drohobycz/families/markel.html). RIHS naturalization resources identified.
+
+6. **JewishGen EIDB Markel Sambor Galicia immigration**: No direct results. JewishGen EIDB confirmed at jewishgen.org/databases/eidb/ (requires registration). Gesher Galicia (geshergalicia.org) also relevant.
+
+7. **KehilaLinks Markel family page fetch**: 403 error. Page exists but blocked for automated access.
+
+8. **"Morris Markel" naturalization Providence "West Warwick" Rhode Island rabbi**: No naturalization record found via web search. RIJHA articles about West Warwick Jewish history returned. The jewishrhody.com article "The rise and fall of a West Warwick temple" may contain relevant info (403 on fetch).
+
+9. **"Helen Brandt" OR "Helen Markel" passenger manifest immigration Poland 1926-1930**: No results. Hamburg passenger lists (1850-1934) identified as potential source for Eastern European emigrants.
+
+10. **Markel Waniowice OR Vanyavitch immigration ship manifest**: No results.
+
+11. **"Florence Markel" OR "Sura Feiga" OR "Florence Mermelstein" ship Liberty 1923**: No results. Results returned Dr. Howard Markel (historian, different person).
+
+12. **1940 census citizenship status code 4 meaning**: Code "4" interpretation is contested. May mean naturalized, or may mean enumerator could not supply citizenship information. Steve Morse 1940 census codes page exists but returned 403.
+
+13. **"Markel" OR "Markiel" Ancestry passenger list New York 1926-1929 Poland Galicia family**: No results. Ancestry collection 7488 (New York Passenger and Crew Lists, 1820-1957) confirmed as key resource. FamilySearch T715 collection also relevant.
+
+14. **"Morris Markel" West Warwick Rhode Island obituary death 1963**: No obituary found. Rhode Island death records (1853-1973) at RI State Archives identified.
+
+15. **FamilySearch "New England Petitions" naturalization index Markel Rhode Island**: Collection identified (United States, New England, Petitions for Naturalization, FamilySearch collection 2064580). Rhode Island U.S. District Court records (1907-1991) digitized at NARA Boston in collaboration with Ancestry. Post-1906 petitions include arrival date, port, ship name, and last foreign residence.
+
+### Positive Results
+
+1. **Naturalization petition identified as best alternative route to manifest**: Rhode Island U.S. District Court naturalization records (1907-1991) are digitized and available through FamilySearch and Ancestry. Post-1906 petitions list the exact arrival date, port, ship name, and last foreign residence. Morris almost certainly filed in Providence or Kent County. This record, if found, would directly identify the ship and arrival date.
+
+2. **Polish shipping lines identified**: The Gdynia American Line operated SS Polonia, SS Kosciuszko, and SS Pulaski on the Gdynia-Copenhagen-New York route during the late 1920s. These were the primary carriers for Polish emigrants in this period. If the Markels departed from a Polish port, they likely sailed on one of these ships.
+
+3. **Hamburg passenger lists (1850-1934)** identified as additional source: 90% of Eastern European emigrants departed via Hamburg. These lists are at FamilySearch and Ancestry.
+
+4. **KehilaLinks Markel family page exists** at kehilalinks.jewishgen.org/Drohobycz/families/markel.html. The page is under the Drohobycz KehilaLinks section (Drohobycz is near Sambor in Galicia). Requires browser access.
+
+5. **Ship "The Liberty" (Florence's 1923 arrival) not confirmed**: No transatlantic passenger vessel of that name identified for this period. The name may be garbled in family memory. Florence's manifest should be in the Ellis Island database (covers through 1924).
+
+### Negative Results
+
+1. **No Markel passenger manifest found via any free web search.** All primary databases require login or subscription.
+2. **No Morris Markel naturalization record found via web search.** Records exist but are not freely searchable online.
+3. **No Morris Markel obituary (1963) found.** May be in Providence Journal archives (GenealogyBank, subscription).
+4. **No ship "The Liberty" confirmed as transatlantic passenger vessel (1923).** SS Liberty (1890) was a British railway vessel.
+5. **KehilaLinks Markel family page returned 403** (blocked for automated fetch).
+6. **jewishrhody.com West Warwick temple article returned 403.**
+
+### Assessment
+
+The Markel family immigration manifest almost certainly exists in NARA microfilm T715 (New York Passenger and Crew Lists, 1925-1957) or possibly T612/T621 if they arrived at a port other than New York. The manifest has not been located because all the databases containing individual passenger records (Ancestry, FamilySearch individual search, Ellis Island Foundation, JewishGen EIDB) require login or paid subscription, which are outside AI capabilities. The naturalization petition is the most promising alternative: it would contain the exact arrival date, port, and ship name, and Rhode Island naturalization records are digitized.
+
+### Recommended Human Follow-Up Actions (Priority Order)
+
+1. **Steve Morse One Step** (stevemorse.org/ellis/passengers.php): Search "Markel" and "Markiel" arriving New York 1926-1930. Free, no login. Use Soundex and Daitch-Mokotoff phonetic options. Also search "Brandt" (Helen's maiden name).
+2. **Ancestry collection 7488** (New York Passenger and Crew Lists, 1820-1957): Search all surname variants (Markel, Markiel, Markl, Merkl) arriving from Poland 1926-1930. Also try "Brandt" with Helen's approximate age. Requires subscription.
+3. **FamilySearch T715 collection**: Free with login. Search same variants.
+4. **Ellis Island Foundation Passenger Search** (statueofliberty.org): Free with registration.
+5. **JewishGen EIDB Gold Form** (jewishgen.org/databases/eidb/): Search with town "Waniowice" or "Sambor." Free with registration.
+6. **Rhode Island naturalization records**: Search FamilySearch collection 2064580 (New England Petitions for Naturalization) or Ancestry for "Morris Markel" naturalization in Rhode Island. The petition would list arrival date, port, ship, and last foreign address.
+7. **Florence Markel 1923**: Search Steve Morse or Ellis Island Foundation for "Florence Markel" or "Sura Feiga Markel" or just "Markel" arriving 1923. If "The Liberty" was a real ship name, it would appear in the ship search at stevemorse.org/ellis/boat.html.
+8. **KehilaLinks Markel family page**: Visit kehilalinks.jewishgen.org/Drohobycz/families/markel.html in a browser.
+9. **Hamburg passenger lists**: Search for Markel departing Hamburg 1926-1930 via Ancestry or FamilySearch.
+
+### Files Updated
+- `Morris_Markel.md`: Added ship manifest search status and Florence arrival note to Immigration section.
+- `Open_Questions.md`: Updated #22 with full search history, detailed leads, and priority order. Merged #31 into #22.
+- `Research_Log.md`: This entry.

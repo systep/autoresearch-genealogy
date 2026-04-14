@@ -268,7 +268,16 @@ Research gaps and unresolved questions, organized by priority and family line. U
 
 ### 22. Markel family immigration ~1928: ship manifest
 - **Searched (2026-04-13)**: No manifest found. Kate Kaplan obit confirms family born Poland, arrived West Warwick ~1928.
-- **Best leads**: Ellis Island search, JewishGen EIDB, Ancestry passenger lists for "Markel" ~1926-1930.
+- **Searched (2026-04-14)**: 15 web searches for Markel/Markiel/Markl passenger manifests, Helen Brandt, ship "The Liberty" (1923, Florence's arrival), naturalization records. No manifest found via free web search. All primary passenger databases (Ancestry collection 7488, FamilySearch collection T715, Ellis Island Foundation, JewishGen EIDB) require login or subscription for individual record lookup. Ship "The Liberty" not confirmed as a transatlantic passenger vessel; may be a family memory error for the ship name. 1940 Census citizenship code "4" for Morris likely means naturalized or status unknown (codes vary by interpretation). KehilaLinks Markel family page (kehilalinks.jewishgen.org/Drohobycz/families/markel.html) exists but returned 403.
+- **Best leads (priority order)**:
+  1. **Steve Morse One Step** (stevemorse.org/ellis/passengers.php): Search "Markel" and "Markiel" arriving New York 1926-1930. Free, no login. Try Soundex and Daitch-Mokotoff phonetic variants.
+  2. **Ancestry collection 7488** (New York Passenger and Crew Lists, 1820-1957): Search Markel, Markiel, Markl, also try "Brandt" (Helen's maiden name) from Poland 1926-1930. Requires subscription.
+  3. **FamilySearch collection T715** (New York Passenger Lists, 1925-1957): Free with login.
+  4. **Ellis Island Foundation Passenger Search** (statueofliberty.org): Free with registration. 65 million records.
+  5. **JewishGen EIDB Gold Form** (jewishgen.org/databases/eidb/): Search with town-of-origin "Waniowice" or "Sambor." Free with registration.
+  6. **Morris Markel naturalization petition**: Rhode Island U.S. District Court records (NARA Boston/Waltham, FamilySearch, or Ancestry). Post-1906 petitions list arrival date, port, ship name, and last foreign residence. This is the single best alternative route to the manifest.
+  7. **Polish ships**: SS Polonia, SS Kosciuszko, SS Pulaski (Gdynia American Line, Gdynia-Copenhagen-New York route) were primary carriers for Polish emigrants in the late 1920s.
+  8. **Florence Markel 1923 arrival**: Verify ship "The Liberty" via Steve Morse ship search or Ancestry. Florence (Sura Feiga) arrived separately 1923 per Yichus. The ship name may be garbled in family memory.
 - **Solvability**: HIGH; **Payoff**: HIGH
 
 ### 23. Morris Markel: rabbi or learned man at Ahavath Sholom?
@@ -370,9 +379,7 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Solvability**: MODERATE; **Payoff**: HIGH
 
 ### 31. Markel family immigration ~1928 ship manifest
-- **Searched (2026-04-13)**: Kate Kaplan obit confirms family born Poland, arrived West Warwick ~1928. No manifest found.
-- **Best leads**: Ellis Island Passenger Search, JewishGen EIDB, Ancestry passenger lists.
-- **Solvability**: HIGH; **Payoff**: HIGH
+- **Merged with #22 (2026-04-14).** See #22 for full search history and leads.
 
 ### 32. Brina Goldbaum Holocaust victim identification
 - **Searched (2026-04-13)**: Yad Vashem, USHMM (403 errors). No results yet.
