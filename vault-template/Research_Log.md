@@ -1637,8 +1637,8 @@ Conducted comprehensive web research to verify and expand the Brecht/Bright fami
 - Research_Log.md (this entry)
 
 ### Remaining Corrections Needed (Not Yet Updated)
-- Family_Tree.md still references "George Adam Bright" as Johann Michael II's son and places Dutch Hollow Cemetery in Greenville, SC. Needs correction.
-- Marguerite_Julienne_Simone.md lists "George Adam Bright" among children; should note the parentage dispute.
+- Family_Tree.md Bright Family section is minimal (from handwritten chart only); does not contain the Dutch Hollow or George Adam references. No correction needed there.
+- Marguerite_Julienne_Simone.md: CORRECTED in this session. Children list now includes birth dates and parentage dispute note.
 
 ### Next Steps
 1. Obtain Albert G. Green, "Historical Sketch of the Bright Family of Berks County, PA" (FamilySearch catalog #1036369) for definitive resolution of George Adam Bright's parentage.
@@ -1648,4 +1648,4 @@ Conducted comprehensive web research to verify and expand the Brecht/Bright fami
 5. Access dhhcemetery.org cemetery records database for George Adam Bright's grave marker inscription.
 6. Investigate whether the family papers contain a specific Brecht coat of arms image or document.
 7. Search Siebmacher's Wappenbuch (available at some research libraries and on Google Books) for any Brecht entry.
-8. Correct Family_Tree.md and Marguerite_Julienne_Simone.md re: George Adam Bright parentage dispute.
+8. Marguerite_Julienne_Simone.md already corrected in this session.

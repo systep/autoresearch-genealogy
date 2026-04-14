@@ -33,7 +33,7 @@ tags: [genealogy, brecht, person, germany, schriesheim, neudorf]
 
 Christoph Stoffel Brecht was born in 1591 in Neudorf, in what is now the Alb-Donau-Kreis district of Baden-Wuerttemberg, Germany (GEDCOM). He was the son of Conrad Kuntz Brecht and Catharina Claus Camerer.
 
-Christoph moved from Neudorf to Schriesheim, a town near Heidelberg in the Rhein-Neckar region (GEDCOM, user instruction). This relocation established the Brecht family in Schriesheim, where they would remain for multiple generations before some descendants emigrated to America in the 1720s.
+Christoph moved from Neudorf to Schriesheim, a town near Heidelberg in the Rhein-Neckar region (GEDCOM, user instruction). According to the Geni project "Conrad Kuntz Brecht 1563-1612 family," Christoph and Anna Barbara lived in Boeblingen, Neckar, Wuerttemberg, and moved before 1636 to Schriesheim, about 10 miles east of Mannheim. This relocation established the Brecht family in Schriesheim, where they would remain for multiple generations before some descendants emigrated to America in the 1720s. Schriesheim church records from approximately 1558 onward are available on Archion.de (paid subscription, not indexed).
 
 Christoph married Anna Barbara Wolpack of Schriesheim. Their son Hans Balthasar Brecht (1636-1703) became a prominent councilman and almoner in Schriesheim, continuing the family's establishment in the community.
 
