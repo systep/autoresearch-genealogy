@@ -15,7 +15,7 @@ tags: [genealogy, ramnulfids, plantagenet, person, medieval, royalty, france, en
 
 # Eleanor of Aquitaine
 
-**Caveat**: The connection from colonial American families to this medieval ancestor requires verification of intermediate links.
+**Caveat**: The claimed connection from colonial American families (Cox line) to this medieval ancestor has been assessed and contains FOUR fatal breaks in the chain. See [[Edward_I]] Gateway Ancestor Assessment for full analysis. The claimed descent through the De Clare/Audley/Neville path and the Courtenay/Clifford/Cocke path is REFUTED (Strong Signal).
 
 ## Vital Information
 
@@ -50,8 +50,13 @@ Eleanor died on April 1, 1204, at Fontevraud Abbey, where she was buried alongsi
 | Wikipedia: Eleanor of Aquitaine | Encyclopedia article | Tier 2 (secondary) |
 | Complete Peerage | Published genealogy | Tier 2 (secondary) |
 
+## Gateway Ancestor Assessment (2026-04-14)
+
+The claimed descent from Eleanor of Aquitaine to the Cox family of South Carolina is REFUTED. Four fatal breaks exist in the chain (documented in full at [[Edward_I]] Gateway Ancestor Assessment). No person in the claimed intermediary line (Cox, Cocke, Coulson, Embree, Clifford, Carr, Richardson) appears in any major Gateway Ancestor database. Eleanor of Aquitaine is a well-documented historical figure, but the chain to this family is broken.
+
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | Birth year | ~1122 (Pedigree Charts) | ~1122 or ~1124 (various secondary sources) | Eleanor's exact birth year is disputed. Most modern historians favor ~1122. Recorded as ~1122 per pedigree charts; flagged as uncertain. |
+| Descent to Cox family | Pedigree Charts (1-46.pdf) claim descent | DNA evidence, scholarly sources | REFUTED: See [[Edward_I]] Gateway Ancestor Assessment. |

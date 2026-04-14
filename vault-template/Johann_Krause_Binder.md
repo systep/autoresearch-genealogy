@@ -1,11 +1,12 @@
 ---
 type: person
-name: "Johann Krause Binder"
+name: "Johann Binder (eigentlich Krauss)"
 born: 1794
 died: unknown
 family: "Krause Binder"
-confidence: moderate
+confidence: strong
 sources:
+  - "Waldhutten church certificate 'MUTTER' (Tier 1, 4 Apr 1938, Pastor A. Bogeschdorfer)"
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10
 tags: [genealogy, Binder, Krause, person, Transylvanian-Saxon]
@@ -17,31 +18,34 @@ tags: [genealogy, Binder, Krause, person, Transylvanian-Saxon]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Johann Krause Binder | GEDCOM |
-| Born | 1794 | GEDCOM |
-| Birthplace | Unknown | |
+| Full Name | **Johann Binder (eigentlich Krauss)** | Church certificate "MUTTER" (Tier 1); GEDCOM renders as "Johann Krause Binder" |
+| Born | 1794 (GEDCOM); father baptized 14 Feb 1794 per MUTTER cert | GEDCOM; Church certificate "MUTTER" (Tier 1) |
+| Birthplace | Kreisch (Cris), Transylvania (presumed) | |
 | Died | Unknown (deceased) | GEDCOM |
-| Father | [[Georg_Krauss]] | GEDCOM (FAMC @F500467@) |
-| Mother | Unknown | |
-| Spouse | [[Esthera_Theil]] | GEDCOM |
-| Children | [[Martin_Binder]] | GEDCOM |
+| Father | **(G) [[Georg_Krauss]]** (Georg Krauss, Alias Binder; baptized 14 Feb 1794, son of Johannes) | Church certificate "MUTTER" (Tier 1); GEDCOM |
+| Mother | Unknown | Church certificate "MUTTER" (Tier 1): mother of Georg not recorded |
+| Spouse | **(D) [[Esthera_Theil]]** (geb. Petrus Theil, aus Malmkrog/Maimburg; married **15 January 1817**) | Church certificate "MUTTER" (Tier 1); GEDCOM |
+| Children | **(A) [[Martin_Binder]]** (b. 3 Mai 1831, Organist) | Church certificate "MUTTER" (Tier 1); GEDCOM |
 
 ## Biography
 
-Johann Krause Binder was born in 1794. He was the son of [[Georg_Krauss]] and married [[Esthera_Theil]] (b. 9 Oct 1791, Malmkrog). He was the father of [[Martin_Binder]] (b. 3 May 1831).
+Per the **MUTTER church certificate** (Tier 1, 4 April 1938, Pastor A. Bogeschdorfer), this person is recorded as person (C): **"Johann Binder (eigentlich Krauss)"**, meaning Johann whose family name was Binder but was actually (eigentlich) of the Krauss family. He was the son of **(G) [[Georg_Krauss]]** (Georg Krauss, Alias Binder; baptized 14 February 1794, son of Johannes).
 
-The compound surname "Krause Binder" reflects Transylvanian Saxon Beiname (by-name) practice. In Saxon villages, many families shared the same surname, so a distinguishing by-name was added. "Krauss/Krause" (meaning "curly haired") served as the Beiname to distinguish this particular Binder family from other Binder families in the village. This is not a hyphenated surname or a maternal surname; it is a village identification convention.
+He married **(D) [[Esthera_Theil]]** (geb. Petrus Theil, from Malmkrog/Maimburg) on **15 January 1817**. He was the father of **(A) [[Martin_Binder]]** (b. 3 May 1831).
 
-**Discrepancy**: Siebenbuerger.de names Martin Binder's father as "Petrus Krauss Binder," while the GEDCOM records "Johann Krause Binder." Either these are different individuals (possibly father and son within the Krauss Binder family) or one source has the wrong first name. Church register verification required.
+The compound surname "Krause Binder" / "Binder (eigentlich Krauss)" reflects Transylvanian Saxon Beiname (by-name) practice. In Saxon villages, many families shared the same surname, so a distinguishing by-name was added. "Krauss/Krause" (meaning "curly haired") served as the Beiname to distinguish this particular Binder family from other Binder families in the village.
+
+**Discrepancy note**: Siebenbuerger.de names Martin Binder's father as "Petrus Krauss Binder," while the MUTTER church certificate (Tier 1) records "Johann Binder (eigentlich Krauss)" and the GEDCOM records "Johann Krause Binder." The Tier 1 source confirms the given name as **Johann**, not Petrus. Siebenbuerger.de may have confused Johann with his father Georg's father Johannes, or there may be a separate "Petrus" in the family.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
-| GEDCOM f266i6 individual I501335 | family tree extract | |
+| Waldhutten church certificate "MUTTER" (Assets/04.pdf, 4 Apr 1938) | Church record (Tier 1) | Person (C): "Johann Binder (eigentlich Krauss)" |
+| GEDCOM f266i6 individual I501335 | family tree extract (Tier 3) | |
 
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| | | | |
+| Given name | "Johann" (MUTTER cert Tier 1; GEDCOM Tier 3) | "Petrus" (Siebenbuerger.de, Tier 3) | **RESOLVED: Tier 1 confirms Johann. Siebenbuerger.de's "Petrus" is incorrect or refers to a different person.** |

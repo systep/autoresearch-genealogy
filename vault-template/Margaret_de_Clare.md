@@ -15,7 +15,7 @@ tags: [genealogy, de-clare, de-audley, person, medieval, nobility, england, coun
 
 # Margaret de Clare
 
-**Caveat**: The connection from colonial American families to this medieval ancestor requires verification of intermediate links.
+**Caveat**: The claimed connection from colonial American families (Cox line) to this medieval ancestor has been assessed and contains FOUR fatal breaks. See [[Edward_I]] Gateway Ancestor Assessment. REFUTED (Strong Signal). Critically, Margaret de Clare's ONLY child with Hugh de Audley was Margaret de Audley, who married Ralph Stafford (NOT Ralph Neville). The pedigree charts incorrectly claim descent through "Alice de Audley" as if she were Margaret de Clare's daughter; Alice was actually Hugh de Audley's sister, from a different (non-Plantagenet) branch of the Audley family.
 
 ## Vital Information
 

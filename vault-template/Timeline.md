@@ -82,11 +82,16 @@ Chronological index of all dated events across the family tree.
 | 1812 | Land purchase (250 acres from John Croft) | [[Eli_Baldwin]] | Greenville County, SC (Deed Book I, p. 218) | WikiTree, Geni |
 | June 7, 1812 | Birth | Rev. Henry Langford Henderson | Greenville County, SC | WikiTree Henderson-12233 |
 | Nov 1814 | Death | William Cox Sr. | Greenville County, SC | Cox Family History Project |
+| 15 Jan 1817 | Marriage | [[Johann_Krause_Binder]] + [[Esthera_Theil]] | Kreisch (Cris), Transylvania | Church cert "MUTTER" (Tier 1) |
 | 1818 | Church organized | Standing Springs Baptist Church | Simpsonville, SC (in James Cox's home) | hmdb.org #168369 |
+| 20 Jan 1820 | Marriage | [[Johann_Schuller]] + [[Sara_Benning]] | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |
 | 1820 | Birth | Srul Mendel Zalmanson | | MyHeritage |
 | 31 Jul 1825 | Birth | [[Eli_Berry_Clark]] | Greenville County, SC | MyHeritage GEDCOM |
+| 27 Jan 1829 | Birth | Stephania Benning (GEDCOM: "Sara Schuller") | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |
 | ~1830 | Death | Isaac Cox | Greenville County, SC | WikiTree Cox-8529 |
+| 3 Mai 1831 | Birth | [[Martin_Binder]] | Kreisch (Cris), Transylvania | Church cert "MUTTER" (Tier 1) |
 | 1831 | Birth | Perry F. Clark | South Carolina | rootsweb sc12164 |
+| 20 Sep 1834 | Birth | Michael Kascher I | Wurmloch (Valea Viilor), Transylvania | Church cert "VATER" (Tier 1) |
 | 13 Aug 1836 | Birth | [[Sarah_Elizabeth_Clark]] | Greenville County, SC | GEDCOM |
 | ~1836 | Land donation for church | [[James Cox]] | Standing Springs, Simpsonville, SC | hmdb.org #168369 |
 | 18 Jan 1840 | Death | [[Eli_Baldwin]] | Greenville, SC | WikiTree Baldwin-2330, Geni |
@@ -97,21 +102,33 @@ Chronological index of all dated events across the family tree.
 | ~1843 | Birth | [[Charstee_King]] | South Carolina | 1880 Census (Tier 1) |
 | Nov 2, 1846 | Death | Ezekiel Henderson | Greenville County, SC | WikiTree |
 | Before July 19, 1847 | Death | Brashier Henderson | Greenville County, SC | WikiTree Henderson-6197 |
+| 17 Oct 1855 | Death (tuberculosis) | [[Sara_Benning]] | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |
+| 10 Mar 1858 | Death (liver disease) | [[Johann_Schuller]] | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |
 | 1851 | Birth | [[Levi_Itzhak_Zalmanson]] | | MyHeritage |
 | May 22, 1853 | Death | [[James Cox]] | Simpsonville, Greenville Co., SC | WikiTree |
 | 1854 | Death | [[Srul_Mendel_Zalmanson]] | Barysaw (Borisov), Minsk Region, Belarus | MyHeritage |
 | June 12, 1857 | Death | Thomas B. Cox | South Carolina | WikiTree Cox-18821 |
 | ~1840 | Birth | [[Louis_Elizar_Salk]] (Louis (Elizar)(Lazar) Salk) | Lithuania | MyHeritage GEDCOM (Tier 3) |
 | ~1850 | Birth | [[Tauba_Salk]] | Russia | MyHeritage GEDCOM (Tier 3) |
+| 4 Jan 1860 | Marriage | Michael Kascher I + Stephania Benning (widowed) | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |
 | ~1860 | Birth | [[Abraham_Zolly_Salk]] | Russia (Russian Empire) | MyHeritage (Tier 3) |
+| 3 Aug 1861 | Birth | [[Regina_Kascher]] | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |
 | 1861 | Birth | Rochel Tsine Deych | | MyHeritage |
+| 30 Mar 1864 | Birth | [[Michael_Kascher_Sr_1864]] | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |
+| 15 Apr 1868 | Birth | [[Anna_Binder]] | Kreisch (Cris), Transylvania | Church cert "MUTTER" (Tier 1) |
+| 22 Mai 1876 | Death (uterine cancer) | Stephania Benning (GEDCOM: "Sara Schuller") | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |
+| 28 Jun 1880 | Death (pneumonia) | Michael Kascher I | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |
 | Dec 2, 1877 | Marriage | [[Levi_Itzhak_Zalmanson]] + Rochel Tsine Deych | Rokiškis, Panevėžys County, Lithuania | MyHeritage |
 | Dec 25, 1877 | Marriage | Thomas Langford Henderson + Mary Frances "Fannie" Cox | | WikiTree |
+| 1878 | Marriage (he 16, she 14) | [[Heschel_Herman_Markel]] + [[Leah_Frei]] | Vanyavitch, Galicia | Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2) |
 | May 15, 1883 | Birth | [[Barnett_Salmanson]] (Berko Zalmanson) | Vilnius (Vilna), Lithuania | MyHeritage |
 | Jan 27, 1886 | Birth | Jacob Kushner | Russia | MyHeritage |
 | Nov 18, 1886 | Death | Rev. Henry Langford Henderson | Greenville County, SC | WikiTree |
+| ~1887 | Birth | [[Minnie_Markel_Sternbach]] (Freitca Miritza) | Vanyavitch, Galicia | Yichus narrative (Tier 2) |
 | 1862 | Enlistment, Confederate Army, 16th SC Infantry (Greenville Regiment) | [[Judson_King]] | South Carolina | Ancestry/Fold3 Confederate service index (Tier 2) |
 | ~1887 | Marriage | William I. King + Marcia (Mary) Kopp/Huff | | IMG_0792, IMG_0786 |
+| 29 Jan 1888 | Marriage | [[Michael_Kascher_Sr_1864]] + [[Anna_Binder]] | Kreisch (Cris), Transylvania | Church cert "VATER" (Tier 1) |
+| 11 Feb 1889 | Birth | [[Michael_Kascher_Transylvania]] (child #1) | Waldhütten, Transylvania | Church cert "KINDER" (Tier 1) |
 | May 12, 1921 | Death (Chronic Nephritis, age 79) | [[Judson_King]] | Dunklin Township, Greenville County, SC | SC Death Certificate #7013 (Tier 1) |
 | Mar 12, 1884 | Institution chartered | Mississippi Industrial Institute and College (II&C, first state-supported women's college in America) | Columbus, Lowndes County, Mississippi | MUW history, Mississippi Encyclopedia (Tier 2) |
 | Oct 22, 1885 | First classes begin | II&C (341 students enrolled) | Columbus, Mississippi | MUW history (Tier 2) |
@@ -120,7 +137,10 @@ Chronological index of all dated events across the family tree.
 | Sept 18, 1890 | Marriage | [[George_Michael_Bright]] + [[Willis_Henrietta_Youngblood]] | Lowndes County, Mississippi | MyHeritage (Tier 3, unverified) |
 | Jun 17, 1892 | Birth | Bernard Kyle Bright | Abingdon, Washington County, Virginia | Ancestry, Geni (Tier 3) |
 | Aug 19, 1893 | Birth | [[Albert_Graham_Bright]] | Abingdon, Washington County, Virginia | MyHeritage (Tier 3) |
+| 23 Nov 1893 | Birth/Death | Stillborn girl (Kascher child #2) | Waldhütten, Transylvania | Church cert "KINDER" (Tier 1) |
+| 28 Mai 1895 | Birth | [[Georg_Kascher_1895]] (child #3) | Waldhütten, Transylvania | Church cert "KINDER" (Tier 1) |
 | Sept 26, 1894 | Death | Rebecca Adeline Cox Henderson | | WikiTree |
+| 15 Apr 1897 | Birth | Friedrich Kascher I (child #4; d. 7 Feb 1903) | Waldhütten, Transylvania | Church cert "KINDER" (Tier 1) |
 
 ## 1900-1949
 
@@ -129,25 +149,49 @@ Chronological index of all dated events across the family tree.
 | ~1894 or ~1896 | Immigration | [[Abraham_Zolly_Salk]] | United States (from Russia) | MyHeritage GEDCOM (Tier 3); two conflicting dates |
 | ~1897 | Immigration | [[Elizabeth_Salk]] (age ~10) | United States (from Poland) | 1930 Census (Tier 1) |
 | ~1898 or ~1901 | Immigration | [[Tauba_Salk]] | United States (from Russia) | MyHeritage GEDCOM (Tier 3); two conflicting dates |
+| 28 Okt 1900 | Birth | [[Johann_Kascher_1900]] (child #5) | Waldhütten, Transylvania | Church cert "KINDER" (Tier 1) |
 | 1900 | Business founded | Hyman Salk (tailor shop, later Salk's Hardware) | Providence, RI | Warwick Beacon, Salk's Hardware website |
+| 7 Feb 1903 | Death | Friedrich Kascher I (child #4, age 5) | Waldhütten, Transylvania | Church cert "KINDER" (Tier 1) |
+| 17 Mai 1903 | Birth | [[Anna_Kascher_1903]] (child #6) | Waldhütten, Transylvania | Church cert "KINDER" (Tier 1) |
+| 4 Jul 1905 | Birth | Rosina Kascher (child #7; d. 27 May 1928 Denver, TB) | Waldhütten, Transylvania | Church cert "KINDER" (Tier 1) |
+| 10 Dez 1907 | Birth | [[Friedrich_Kascher_1907]] (child #8) | Waldhütten, Transylvania | Church cert "KINDER" (Tier 1) |
+| 1 Mai 1910 | Birth | [[Sara_Kascher_1910]] (child #9) | Waldhütten, Transylvania | Church cert "KINDER" (Tier 1) |
+| 17 Apr 1912 | Birth | Martin Kascher (child #10; d. 18 Jan 1913) | Waldhütten, Transylvania | Church cert "KINDER" (Tier 1) |
+| 18 Jan 1913 | Death | Martin Kascher (child #10, age 9 months) | Waldhütten, Transylvania | Church cert "KINDER" (Tier 1) |
 | Dec 23, 1904 | Immigration (SS Baltic) | [[Barnett_Salmanson]] (Berko Zalmanson) | New York City | MyHeritage |
 | Sept 12, 1909 | Marriage | [[Barnett_Salmanson]] + [[Elizabeth_Salk]] | Providence, Rhode Island | MyHeritage |
+| May 15, 1909 | Birth | [[Florence_Markel_Mermelstein]] (Sura Feiga) | Vanyavitch, Galicia (presumed) | Yichus typed family tree listing (Tier 2) |
+| 1909 | Birth | David Mermelstein (Aaron Dovid) | | Yichus typed family tree listing (Tier 2) |
 | June 21, 1910 | Birth | [[Leonard_Irving_Salmanson]] | | Find a Grave |
+| 1912 | Immigration | Abraham David Sternbach + [[Minnie_Markel_Sternbach]] | Arctic (West Warwick), Rhode Island | Yichus narrative (Tier 2); RIJHA Twersky article (Tier 2) |
+| 1912 | Birth | Maurice Sternbach | | Yichus typed family tree listing (Tier 2) |
 | June 24, 1912 | Birth | Samuel Salmanson | Brooklyn, NY | Samuel obit |
 | Sept 1, 1914 | Birth | Charles Salmanson | | AncientFaces |
 | June 26, 1914 | Birth | Hannah Kushner | | Find a Grave #185239892 |
 | Dec 10, 1914 | Birth | Henry Michael Kascher | Youngstown, Mahoning, Ohio | Ohio birth index |
+| 18 Okt 1915 | Death (tuberculosis) | [[Anna_Binder]] | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |
 | 1914-1916 | Military service (WWI, Austro-Hungarian Army) | [[Heschel_Herman_Markel]] | Galicia (Eastern Front) | Yichus narrative (Tier 2), corrected from "Polish army" |
 | 1916 | Death (gangrene from leg wound, WWI) | [[Heschel_Herman_Markel]] | Galicia | Yichus narrative (Tier 2), GEDCOM |
 | 1917-1918 | Military service (WWI) | [[Barnett_Salmanson]] | Providence, RI | MyHeritage |
 | ~1919-1920 | Birth | Martha E. Salmanson | Providence, RI | Martha obit |
+| 1923 | Immigration (ship "The Liberty", arrived alone) | [[Florence_Markel_Mermelstein]] (Sura Feiga) | United States (from Galicia/Poland) | Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2) |
 | Sept 12, 1920 | Birth | Thelma Markel | | Find a Grave #231959788 |
 | ~1922 | Birth | Mary Elizabeth Bright | Tennessee | MyHeritage 1930 census |
 | 1924 | Birth | Donald Salmanson | | Donald obit |
+| 27 Mai 1928 | Death (tuberculosis) | Rosina Kascher (child #7) | Denver, Colorado | Church cert "KINDER" (Tier 1) |
 | Feb 22, 1925 | Death | [[Abraham_Zolly_Salk]] (age ~64-65) | Rhode Island | MyHeritage (Tier 3) |
 | 1932 | Business founded | Adams Drug Company | Woonsocket and Pawtucket, RI | Wikipedia |
+| 4 Mar 1933 | Death | [[Regina_Kascher]] | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |
+| 22 Jul 1935 | Death (Herzschlag/heart attack) | [[Michael_Kascher_Sr_1864]] | Ohio | Church cert "VATER" (Tier 1); Youngstown Vindicator obit |
+| Aug 15, 1933 | Birth | Renya Tzoar (nee Weidenfeld) | Sambor, Poland | USHMM oral history irn619016 (Tier 2) |
 | 1933-1834 | Pension awarded ($57.50/yr) | Ezekiel Henderson (Rev. War) | | Pension S6994 |
+| 1936 | Marriage | [[Florence_Markel_Mermelstein]] + David Mermelstein | West Warwick, Rhode Island | Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2) |
+| 1937 | Birth | Ruth Mermelstein (later Gold; author of Yichus narrative) | | Yichus narrative (Tier 2) |
+| Sept 1939 | Rosh Hashanah Pogrom: murdered | [[Avraham_Chaim_Markel]], [[Masha_Markel_Tachner]], [[Hannah_Markel]], [[Pessel_Peppy_Frei]], and families | Rodzolika Forest (near Sambor, Poland) | Yichus narrative (Tier 2); note: documented mass killings in Sambor area were 1941-1943; possible memory conflation |
+| 1940 | Birth | Hashy Mermelstein | | Yichus narrative (Tier 2) |
+| 1940 | Death | [[Leah_Frei]] (b. 1864) | | Yichus narrative (Tier 2) |
 | Jan 30, 1942 | Birth | Jerrold A. Salmanson | Providence, RI | MyHeritage |
+| 1945 | Birth | Lea Mermelstein | | Yichus narrative (Tier 2) |
 | Mar 10, 1945 | Birth | James A. Salmanson | Providence, RI | Prabook |
 | Jan 1, 1946 | Birth | Kathryn Ann Kascher | New York | MyHeritage |
 | 1947 | Marriage | [[Leonard_Irving_Salmanson]] + Thelma Markel | | Find a Grave #231959788 |
@@ -164,6 +208,8 @@ Chronological index of all dated events across the family tree.
 | May 15, 1975 | Death | [[Leonard_Irving_Salmanson]] | | Find a Grave |
 | 1978 | Marriage | Thelma Salmanson + Leonard Rodbell | | Find a Grave |
 | 1984 | Business sold ($100M) | Adams Drug to Pantry Pride | | Wikipedia |
+| 1990 | Death | David Mermelstein (Aaron Dovid; b. 1909) | | Yichus typed family tree listing (Tier 2) |
+| Nov 24, 1990 | Death | [[Florence_Markel_Mermelstein]] (Sura Feiga; b. 5/15/1909) | | Yichus typed family tree listing (Tier 2) |
 | Dec 4, 2001 | Death | Hannah (Kushner) Salmanson | Age 87 | Find a Grave #185239892 |
 | Oct 21, 2004 | Death | Samuel Salmanson | West Palm Beach, FL, age 92 | Palm Beach Post obit |
 | July 7, 2008 | Death | Charles Salmanson | Age 93/94 | Legacy.com |

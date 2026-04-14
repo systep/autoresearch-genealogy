@@ -15,7 +15,7 @@ tags: [genealogy, plantagenet, person, medieval, royalty, england, france, king]
 
 # Henry II
 
-**Caveat**: The connection from colonial American families to this medieval ancestor requires verification of intermediate links.
+**Caveat**: The claimed connection from colonial American families (Cox line) to this medieval ancestor has been assessed and contains FOUR fatal breaks in the chain. See [[Edward_I]] Gateway Ancestor Assessment for full analysis. The claimed descent through the De Clare/Audley/Neville path and the Courtenay/Clifford/Cocke path is REFUTED (Strong Signal).
 
 ## Vital Information
 
@@ -49,8 +49,12 @@ In the pedigree charts, Henry II is the earliest English king in the direct patr
 | Wikipedia: Henry II of England | Encyclopedia article | Tier 2 (secondary) |
 | Complete Peerage | Published genealogy | Tier 2 (secondary) |
 
+## Gateway Ancestor Assessment (2026-04-14)
+
+The claimed descent from Henry II to the Cox family of South Carolina is REFUTED. Four fatal breaks exist in the chain (documented in full at [[Edward_I]] Gateway Ancestor Assessment). No person in the claimed intermediary line (Cox, Cocke, Coulson, Embree, Clifford, Carr, Richardson) appears in any major Gateway Ancestor database. Henry II is a well-documented historical figure, but the chain to this family is broken.
+
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| No discrepancies identified at this time. | | | |
+| Descent to Cox family | Pedigree Charts (1-46.pdf) claim descent | DNA evidence, scholarly sources | REFUTED: See [[Edward_I]] Gateway Ancestor Assessment. |

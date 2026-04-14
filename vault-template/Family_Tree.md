@@ -173,6 +173,69 @@ The names in the family tree screenshots (Dovber, Yekutiel, Rivka, Srul, Levi, R
 **Profile pictures** appear on Dovber, Rivka, and Barnett in the digital tree, suggesting these are key documented ancestors.
 
 
+### Markel Family (Galicia/Poland, Thelma Markel's Paternal Line)
+
+*Source: Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2); GEDCOM (Tier 3); 1940/1950 Census (Tier 1); RIJHA article (Tier 2)* **(moderate)**
+
+Thelma Markel (1920-2011, married Leonard Irving Salmanson 1947) was the daughter of [[Morris_Markel]] and [[Helen_Brandt]]. The Markel family originated in Vanyavitch (Waniowice), Galicia, near Sambor.
+
+```
+[[Nissen_Mendel_Markel]]
+└── [[Dov_Markel]]
+    └── [[Heschel_Herman_Markel]] (1862-1916) + [[Leah_Frei]] (1864-1940; m. 1878)
+        ├── 1. [[Minnie_Markel_Sternbach]] (Freitca Miritza; 1887-1975) + Abraham David Sternbach (1886-1978)
+        │   ├── Maurice Sternbach (1912-1998)
+        │   ├── Florence Buchwald Sternbach (1917, dec.) + David Futtersak
+        │   └── Hinda Lea Sternbach Hoffman (b. 1942) + Victor Hoffman (b. 1940)
+        ├── 2. [[Masha_Markel_Tachner]] (Mashe; murdered 1939) + Tachner
+        ├── 3. [[Morris_Markel]] (Moishe Myer; d. 1963) + [[Helen_Brandt]]
+        │   ├── [[Thelma_Markel]] (Tobi; 1920-2011) + [[Leonard_Irving_Salmanson]]
+        │   ├── Anne Markel (~1922) + Sol Schlusselberg
+        │   ├── Rita Markel (~1925)
+        │   ├── Kate Markel (1925-2006) + Irving Kaplan (dec.)
+        │   ├── Frieda Markel (dec.)
+        │   └── Joseph Harold Markel (~1932)
+        ├── 4. [[Sarah_Markel_Tachner]] (Tsirl) + (1) Arthur Goodman (div.) + (2) Max Tachner
+        │   ├── Harold Tachner
+        │   └── Irving Tachner
+        ├── 5. [[Avraham_Chaim_Markel]] (murdered with family 1939)
+        ├── 6. [[Hannah_Markel]] (murdered 1939; refused emigration ticket 1923)
+        ├── 7. [[Florence_Markel_Mermelstein]] (Sura Feiga; 5/15/1909-11/24/1990) + David Mermelstein (Aaron Dovid; 1909-1990)
+        │   ├── Ruth Mermelstein Gold (b. 1937; author of Yichus narrative)
+        │   ├── Hashy (b. 1940)
+        │   └── Lea (b. 1945)
+        └── 8. [[Pessel_Peppy_Frei]] (Pessel/Peggy; murdered 1939/1940)
+```
+
+Heshel also had a brother: **Mattis Markel** (Yichus narrative, Tier 2).
+
+### Frei Family (Leah Frei's Family of Origin)
+
+*Source: Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2)* **(moderate)**
+
+```
+[[Yoseph_Frei]] (Yusef Frei) + [[Toba_Rivka_Frei]] (of Dubosari)
+├── [[Leah_Frei]] (1864-1940) + [[Heschel_Herman_Markel]] (see Markel tree above)
+├── Bashe Frei
+├── [[Feiga_Frei_Karp]] + Joseph Karp (both murdered, Holocaust)
+│   ├── Nissan Karp (dec.)
+│   └── [[Frieda_Karp_Weidenfeld]] (Friedelle; murdered) + Fishel (Philip) Weidenfeld (murdered)
+│       └── Renya Tzoar (b. 1933; survived, hidden in convent; key witness)
+└── Frieda Frei Sternback (first to emigrate; settled Brooklyn, NY)
+```
+
+The Frei family claimed descent from the **Pnei Yehoshua** (Rabbi Jacob Joshua ben Tzvi Hirsch Falk), and through him from the Isserles and Landau rabbinical families (Yichus narrative, Tier 2; partially confirmed, see Open Questions #12).
+
+### Karp Family (Joseph Karp's Siblings)
+
+*Source: Yichus typed family tree listing, page 10 (Tier 2)* **(moderate)**
+
+Joseph Karp's siblings (Feiga's brothers-in-law):
+- **Moishe Myer Karp**: Lived in Rhode Island. Son **Mark Karp** (professor at Harvard).
+- **Nathan Karp** (older brother): Wife **Shendelle**; 3 children (names not recorded).
+- **Abraham Karp** (younger brother): Wife **Tillie**; sons **Beryl** and **Herschel**.
+
+
 ## Maternal Line: Kascher / South Carolina Families
 
 ### Cox Family (confirmed via WikiTree, historical records)
@@ -477,6 +540,7 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 | **Web Sources** | | |
 | Find a Grave #231959694 | Leonard Irving Salmanson memorial | Salmanson |
 | Find a Grave #231959788 | Thelma Markel Salmanson Rodbell memorial | Salmanson, Markel |
+| Assets/Yicchis and Narrative.PDF | Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2) | Markel, Frei, Karp, Mermelstein, Sternbach |
 | Find a Grave #185239892 | Hannah Kushner Salmanson memorial | Salmanson, Kushner |
 | WikiTree Cox-14020 | James Cox (c.1778-1853) | Cox, Standing Springs |
 | WikiTree Cox-14022 | William Cox Sr. (c.1726-c.1814) | Cox |

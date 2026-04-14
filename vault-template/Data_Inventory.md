@@ -30,7 +30,10 @@ Complete inventory of all ancestry-related data assets. Each tagged with source,
 
 | Document | Family | Location |
 |---|---|---|
-| [Document description] | [Surname] | [[vault_note_link]] or OCR path |
+| Yichus narrative by Ruth Gold, Oct 9, 2011 (10 pages: typed family tree listing pp. 1-5, narrative pp. 6-8, Karp family p. 10) | Markel, Frei, Karp, Mermelstein, Sternbach | Assets/Yicchis and Narrative.PDF |
+| Kate Markel Kaplan obituary, Providence Journal, Jan 13, 2006 | Markel, Kaplan | Legacy.com pid=16302813 |
+| "The Founding of a Jewish Community" by Rebecca Twersky, RIJH Notes Vol. 7, 1977 | Sternbach, Ahavath Sholom | rijha.org |
+| David Futtersak obituary, Jewish Rhode Island, 2024 | Sternbach, Futtersak | jewishrhody.com |
 
 ### Low Reliability (anecdotal, interpreted)
 

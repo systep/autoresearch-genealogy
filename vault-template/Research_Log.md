@@ -9,6 +9,181 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-14: Salk Family Research Part 2: Hebrew Headstone Inscription and Census Data
+
+### Summary
+Conducted targeted web research on the Salk family using new data from Elizabeth (Salk) Salmanson's headstone (BillionGraves, Lincoln Park Cemetery, Warwick, RI) and 1930 Census records. Ran 30+ web searches covering Hebrew headstone inscription parsing, Jewish naming conventions, Find a Grave, BillionGraves, Rhode Island death indexes, census records, Providence Salk family obituaries, and Jewish genealogy resources. Multiple sites returned 403 errors on programmatic access (Find a Grave, BillionGraves, JewishGen, Pealim.com, RI Historic Cemeteries database).
+
+### Key Positive Results
+
+1. **Hebrew headstone inscription parsed (preliminary)**: Elizabeth's headstone contains the text "הילדה בת משה שמואל בן דב בער זאוועל בן ר דב בערר ליבה בת ר אברהם ר דוב בער בר לוי יצחק סאלמאנסאן". Preliminary parsing indicates:
+   - Elizabeth's Hebrew name: **Hilda** (הילדה)
+   - Elizabeth's patronymic: **bat Moshe** (daughter of Moshe/Moses)
+   - This suggests her father's Hebrew name was **Moshe**, not Abraham/Avraham as in the GEDCOM
+   - The name **Avraham** appears later in the inscription but likely refers to a Salmanson/Zalmanson ancestor (Liba bat R' Avraham), not to Elizabeth's father
+   - The inscription traces Barnett Salmanson's lineage: Shmuel ben Dov Ber, Zavel ben R' Dov Ber, and R' Dov Ber bar Levi Yitzchak Salmanson
+   - Names are consistent with the known Zalmanson genealogy (Levi Itzhak Zalmanson, Srul Mendel, Zawel Deych)
+
+2. **Hebrew abbreviation ר confirmed**: On Jewish tombstones, ר (resh) abbreviates "Reb" (Mr.), a respectful title, NOT necessarily indicating rabbinical office. This is distinct from הָרָב (ha-rav, "the Rabbi").
+
+3. **Moshe and Abraham are distinct names**: Confirmed via multiple sources that Moshe (Moses) and Avraham (Abraham) are completely separate Hebrew names with no etymological connection. They are not variants of each other. This makes the discrepancy between the headstone (Moshe) and the GEDCOM (Abraham) significant.
+
+4. **Norton E. Salk family confirmed**: Norton E. Salk (1927-2007), architect, born in Providence, was the son of **Louis and Belle (Feingold) Salk**. Siblings: Donald Salk, Judith Benharris, Harriet Simon. This confirms Norton as part of the Hyman Salk hardware family line (Hyman > Lewis/Louis + Belle Feingold > Norton).
+
+5. **Harold Salk family confirmed**: Harold Salk (1932-2024) was born and raised in Providence, son of **Samuel and Ruth (Fleisig) Salk**. This confirms Harold as part of the Hyman Salk hardware family line (Hyman > Sam + Ruth Fleisig > Harold).
+
+6. **Three distinct Salk families in Providence identified**:
+   - Abraham Salk family (d. 1925; associated with Lincoln Park Cemetery)
+   - Hyman Salk family (hardware store founder; sons Sam and Lewis/Louis)
+   - Harvey M. Salk family (1921-1997; buried at Sons of David and Israel Cemetery)
+
+7. **1930 Census data confirmed**: Elizabeth age 43, immigration 1897, husband "Benjamin Salmonson," both parents born in Poland. This is consistent with the existing vault data.
+
+8. **Elizabeth's headstone dates confirmed**: Born March 5, 1887; Died November 30, 1974. Hebrew dates: ~5648 birth, 17 Kislev 5735 death. Age at death: 87 years, 8 months, 25 days (consistent calculation).
+
+9. **Jewish married woman headstone conventions**: Standard Ashkenazi tombstone convention is to list the deceased's patronymic (father's name) via "bat" (daughter of). The husband's lineage may also be listed separately on the same stone, but the convention varies. Elizabeth's stone appears to contain both lineages.
+
+10. **Rhode Island death records 1925 confirmed accessible**: RI State Archives (sos.ri.gov) holds death records 1853-1975; records 50+ years old are public and obtainable. FamilySearch has RI vital records indexes (1846-1950). Abraham's 1925 death record should be obtainable through either source.
+
+### Key Negative Results
+
+1. **No Find a Grave or BillionGraves record found for Abraham Salk**: Searched both databases; neither has an entry for Abraham Salk at Lincoln Park Cemetery or elsewhere in Rhode Island.
+2. **No Find a Grave or BillionGraves record found for Tauba Salk**: No records under any name variant (Tauba, Toby, Fannie, Pheabe, Theresa Salk).
+3. **No Abraham Salk obituary found**: Searched Providence Journal archives, Legacy.com, GenealogyBank; no results for 1925.
+4. **No Salk family 1910/1920 Census records accessible**: Census records require Ancestry.com or FamilySearch subscription/login. Not accessible via web search.
+5. **No Salk/Zalk passenger manifest found for 1897 immigration**: General passenger list resources identified but no specific family records located. Port of Providence passenger lists 1872-1910 are missing/presumed lost; family likely arrived via New York.
+6. **No Anna Salk Zipperman or Marry Salk Lyons records found**: Searched obituaries and general web; no results for either of Abraham's other daughters.
+7. **Rhode Island Historic Cemeteries database not searchable programmatically**: rihistoriccemeteries.org requires browser-based access for name searches.
+8. **JewishGen given names database not accessible programmatically**: Requires browser access to search for Hebrew name equivalents.
+9. **BillionGraves headstone photo not accessible**: Requires BillionGraves account to view full-resolution headstone images.
+
+### Files Updated
+Abraham_Zolly_Salk.md (Hebrew name discrepancy, burial location, other Salk families), Elizabeth_Salk.md (Hebrew inscription analysis, father's Hebrew name discrepancy), Open_Questions.md (OQ #13, #14, #16 updated; OQ #19 added for Hebrew inscription), Research_Log.md, Timeline.md (headstone dates added)
+
+---
+
+## 2026-04-14: Systematic Yichus Narrative Integration
+
+### Summary
+Performed a systematic review and integration of all data from the Yichus narrative (Assets/Yicchis and Narrative.PDF, 10 pages) into vault files. The document was partially integrated in earlier sessions; this session extracted remaining unintegrated data and corrected errors.
+
+### Key Data Integrated
+
+**1. Florence Markel Mermelstein: exact dates and immigration details added.**
+- Birth: May 15, 1909 (from typed family tree listing, pages 1-5). Previously recorded as "1909" without exact date.
+- Death: November 24, 1990 (from typed family tree listing). Previously recorded as "1990" without exact date.
+- Immigration: 1923, arrived alone on the ship "The Liberty" (from Ruth Gold narrative, pages 6-8).
+- Husband David Mermelstein's Hebrew name (Aaron Dovid) and dates (1909-1990) added from typed family tree listing.
+- Files updated: [[Florence_Markel_Mermelstein]], [[Timeline]]
+
+**2. Birth order of Heshel and Leah's eight surviving children: CORRECTED.**
+- Previous vault order: 1. Minnie, 2. Avraham Chaim, 3. Masha, 4. Morris, 5. Sarah, 6. Hannah, 7. Florence, 8. Pessel.
+- Corrected order per Yichus narrative (pages 6-8): 1. Freitca Miritza (Minnie), 2. Mashe (Masha), 3. Moishe Myer (Morris), 4. Tsirl (Sarah), 5. Avraham Chaim, 6. Hannah, 7. Sura Feiga (Florence), 8. Pessel (Peggy).
+- The key change: Avraham Chaim moved from position #2 to position #5; Masha, Morris, and Sarah moved up.
+- Hebrew/Yiddish names added to all children where the Yichus provides them.
+- Files updated: [[Heschel_Herman_Markel]], [[Leah_Frei]], [[Minnie_Markel_Sternbach]], [[Masha_Markel_Tachner]], [[Morris_Markel]], [[Sarah_Markel_Tachner]], [[Avraham_Chaim_Markel]], [[Hannah_Markel]], [[Florence_Markel_Mermelstein]], [[Pessel_Peppy_Frei]]
+
+**3. Karp family (page 10) expanded.**
+- Joseph Karp's siblings (Feiga's brothers-in-law) added: Moishe Myer Karp (Rhode Island; son Mark Karp, professor at Harvard), Nathan Karp (wife Shendelle, 3 children), Abraham Karp (wife Tillie, sons Beryl, Herschel).
+- Clarified that Abraham Karp listed in earlier vault version as Feiga's child was actually Joseph Karp's brother. Feiga's confirmed children: Nissan Karp and Friedelle (Frieda) Karp Weidenfeld.
+- Daughter's name corrected from "Frieda" to "Friedelle" per the typed family tree listing.
+- Files updated: [[Feiga_Frei_Karp]], [[Frieda_Karp_Weidenfeld]]
+
+**4. Sternbach descendants (pages 1-5) expanded.**
+- Maurice Sternbach (1912-1998), first child of Abraham David and Minnie, added.
+- Florence Buchwald Sternbach (1917, dec.) documented with middle name "Buchwald" from the typed listing; confirmed as the same Florence Sternbach who married David Futtersak.
+- Hinda Lea Sternbach Hoffman (b. 1942, m. Victor Hoffman b. 1940) added.
+- Files updated: [[Minnie_Markel_Sternbach]]
+
+**5. Open Questions #12 (Isserles/Landau connection) updated.**
+- Status changed to PARTIALLY CONFIRMED. The Yichus narrative clarifies that the claimed descent from Isserles and Landau rabbis passes through Leah Frei's pedigree (the Frei/Falk line descended from the Pnei Yehoshua), not through the Markel line. If the Frei family's descent from the Pnei Yehoshua can be documented, the Isserles and Landau connections would follow from published rabbinical genealogies.
+- File updated: [[Open_Questions]]
+
+**6. Timeline updated with 16 new dated events** from the Yichus narrative, including the 1878 Heshel/Leah marriage, 1912 Sternbach immigration, 1923 Florence immigration, 1933 Renya Tzoar birth, 1936 Florence/David marriage, 1939 Pogrom, and 1990 Florence/David deaths.
+
+### Data Already Integrated (Confirmed Present in Vault)
+The following data from the Yichus was already correctly integrated in earlier sessions:
+- Heshel's brother Mattis, 14 children / 8 surviving, conscription, gangrene death 1916.
+- Marriage date 1878 (he 16, she 14).
+- Pnei Yehoshua descent of the Frei family.
+- Leah Frei's sisters (Bashe, Feiga, Frieda Sternback).
+- Hannah's refusal of the emigration ticket because she was engaged.
+- Sarah Markel's two marriages (Goodman, Tachner) and children (Harold, Irving).
+- Rosh Hashanah 1939 Pogrom in Rodzolika Forest; Renya Tzoar as witness source.
+- Vigdor Markel and Etti Markel among those murdered.
+
+### Accuracy Check: Existing Person Files vs. Yichus Data
+- **Heschel_Herman_Markel.md**: Accurate. All major data present. Birth order corrected this session.
+- **Florence_Markel_Mermelstein.md**: Now complete with exact dates and immigration.
+- **Morris_Markel.md**: Accurate. Census data and Yichus aligned.
+- **Minnie_Markel_Sternbach.md**: Now expanded with all known Sternbach descendants.
+- **Sarah_Markel_Tachner.md**: Accurate. Hebrew name Tsirl added this session.
+- **Avraham_Chaim_Markel.md**: Accurate. Birth order position corrected (5th, not 2nd).
+- **Masha_Markel_Tachner.md**: Accurate. Birth order position corrected (2nd, not 3rd).
+- **Hannah_Markel.md**: Accurate. Birth order corrected.
+- **Pessel_Peppy_Frei.md**: Accurate.
+- **Leah_Frei.md**: Accurate. Birth order corrected.
+- **Feiga_Frei_Karp.md**: Expanded with Karp siblings and corrected children list.
+- **Frieda_Karp_Weidenfeld.md**: Name variant Friedelle added; Renya birth details added.
+
+### Thelma Salmanson Rodbell Branch (from Yichus typed listing)
+The Yichus typed family tree listing includes Thelma's descendants: Allan, Leonard, Kathy, Deborah, Barbara + Husband, Carol + Stephen Leto. The existing vault files (Thelma_Markel.md, Family_Tree.md) already document Alan, Barbara, and Carol. "Leonard" is L.D. Salmanson. "Kathy" and "Deborah" may be children of Barbara or Carol (grandchildren of Thelma), or may be additional names requiring investigation. These names have been noted but not yet assigned to specific family positions pending further clarification.
+
+### Morris Markel "Billy" (from Yichus typed listing)
+The Yichus typed listing mentions "Morris Markel (Billy) + Wife + Children." This likely refers to Morris and Helen's son Joseph Harold Markel (known as "Billy" as a nickname) or a grandson. The existing vault has Joseph Harold Markel (b. ~1932) from census records. The nickname "Billy" has not been assigned pending confirmation.
+
+---
+
+## 2026-04-14: Gateway Ancestor Verification for Claimed Royal Descent (Edward I, Henry II, Eleanor of Aquitaine)
+
+### Summary
+Conducted comprehensive research to verify whether the claimed descent from English royalty (Edward I Plantagenet, Henry II, Eleanor of Aquitaine) through the Cox family line is supported by a recognized Gateway Ancestor. Searched 30+ web queries across Gateway Ancestor databases, WikiTree, Geni, FamilySearch, Wikipedia, the Cox Family History Project, and scholarly reference works. Attempted to access (and received 403 errors from) charlemagne.org, hereditary.us, magnacharta.com, familypedia.fandom.com, dna-explained.com, and wikitree.com profile pages.
+
+### The Claimed Lines
+The pedigree charts (1-46.pdf, Tier 3) claim descent through two routes:
+1. **De Clare/Audley/Neville path**: Edward I -> Joan Plantagenet -> Gilbert de Clare + Joan -> Margaret de Clare -> Hugh de Audley + Margaret -> "Baroness Alice DeAudley" -> Ralph Neville -> ... -> colonial families -> Cox line
+2. **Courtenay/Clifford/Cocke path**: Edward I -> ... -> Anne Courtenay (1550-1604) -> Anthony Clifford -> Charles Clifford -> Elizabeth Clifford -> Robert Cocke (1561-1608) -> Thomas Cox (1626-1711) -> ... -> Coulson -> Embree -> William Richardson Cox Sr. (b. 1692) -> William Cox Sr. (c. 1730-1814)
+
+### Key Positive Results
+
+1. **Gateway Ancestor databases identified and searched**: The primary scholarly references are Gary Boyd Roberts, "The Royal Descents of 900 Immigrants" (688 immigrants, 387 colonial with progeny); Douglas Richardson, "Royal Ancestry" 5 vols. (257 gateway ancestors); the Hereditary Society Community list compiled by Taylor and Murphy; Order of the Crown of Charlemagne (390 immigrants); Baronial Order of the Magna Charta; David Faris, "Plantagenet Ancestry of Seventeenth-Century Colonists" (137 lines).
+
+2. **No Cox, Cocke, Coulson, Embree, Clifford, Carr, or Richardson found in any Gateway Ancestor list**: Web search results for these surnames in conjunction with Gateway Ancestor databases returned no matches. None of these families appears in the scholarly compilations.
+
+3. **Alice de Audley identity CONFIRMED as Hugh's SISTER (Break 1 verified)**: Alice de Audley (d. 1374), who married Ralph Neville, 2nd Baron Neville, was the daughter of Hugh de Audley, 1st Baron Audley of Stratton Audley, and Isolde le Rous/Mortimer. She was the SISTER of Hugh de Audley, 1st Earl of Gloucester (who married Margaret de Clare, the Plantagenet granddaughter). The Earl's ONLY child was Margaret de Audley, who married Ralph Stafford, 1st Earl of Stafford (NOT Ralph Neville). Sources: Wikipedia: Hugh de Audley, 1st Earl of Gloucester; Wikipedia: Ralph Neville, 2nd Baron Neville; Geni: Alice de Audley, Baroness Neville; Wikipedia: Margaret Audley, 2nd Baroness Audley (all Tier 2). This means Alice carried NO Plantagenet blood to the Neville line.
+
+4. **"Sir Norman Cooke of Lavenham" fabrication CONFIRMED (Break 2 verified)**: WikiTree Space:Cooke-Dubious Pedigree documents that profiles for the Cooke family of Lavenham, Suffolk from approximately 1025-1425 have "Disproven Existence" notices. The G2G discussion (March 2023) confirms no evidence has been proposed for any of these fabricated profiles. Source: WikiTree (Tier 2).
+
+5. **Margaret Neville marriages verified (Break 3 verified)**: Margaret Neville (d. 1372) married (1) William de Ros, 3rd Lord Ros of Helmsley, and (2) Henry Percy, KG. No "Jean Ross" or "Ena Ross" exists in the documented record. Sources: Wikipedia: Ralph Neville, 2nd Baron Neville; WikiTree Neville-349; Geni (all Tier 2).
+
+6. **William Cox Sr. DNA disproof CONFIRMED (Break 4 verified)**: The Cox Family History Project (est. 2008, updated 2020) states explicitly: "William Cox is NOT 'William Richardson Cox' that many ancestry.com, LDS and other databases have mistaken him for and merged the two people into one." Y-DNA testing (Y-37, FamilyTreeDNA, haplogroup R1b-I "Carolina Coxes" R-M269) confirms different paternal lines. Sources: Cox Family History Project DNA page; WikiTree Cox-14022; FamilyTreeDNA Cox DNA Study (Tier 1 DNA + Tier 2 compiled research).
+
+7. **Courtenay descent from Edward I IS real (but irrelevant to this claim)**: Peter Courtenay of Ugbrooke/Chudleigh (d. 1552) was the son of Sir William III Courtenay (1477-1535) of Powderham. The Powderham Courtenays descend from Sir Philip Courtenay (c. 1340-1406), 5th son of Hugh Courtenay, 2nd Earl of Devon (1303-1377), who married Margaret de Bohun (1311-1391), daughter of Humphrey de Bohun, 4th Earl of Hereford, by his wife Elizabeth Plantagenet (1282-1316), daughter of Edward I. This is a DIFFERENT descent route from Edward I (through Elizabeth Plantagenet, not Joan Plantagenet), and is well-documented in the Complete Peerage (Tier 2). However, even if the upper medieval portion through the Courtenays were accepted, the chain still breaks at Break 4 (DNA-disproven Cox connection).
+
+8. **Anne Courtenay and Anthony Clifford CONFIRMED**: Anne Courtenay (1550-1604) was the daughter of Peter Courtenay of Ugbrooke and Elizabeth Shilstone. She married Anthony Clifford (1541-1580). Their children included Thomas Clifford (1572-1634, DD, clergyman), Charles Clifford, Elizabeth Clifford, and others. Elizabeth Clifford married Robert Cocke (b. 1608 per some sources). Sources: WikiTree Courtenay-328; Geni (Tier 3).
+
+9. **Thomas Cox (1626) connection to Cocke/Clifford partially documented**: Thomas Cox was born August 27, 1626 in London, son of Robert Cocke and Elizabeth Clifford. Robert Cocke was born c. 1608 in St. Botolph Bishop, London. Sources: FamilySearch, Geni, genopro.com family trees (all Tier 3). These links are found in user-contributed trees only, not in scholarly sources.
+
+### Negative Results
+
+1. **No Cox/Cocke/Coulson/Embree/Clifford in any Gateway Ancestor database**: Searched all major compilations. None of these surnames appears.
+2. **No scholarly source supports the Cocke-to-Clifford-to-Courtenay royal descent**: The claimed line through Robert Cocke -> Elizabeth Clifford -> Thomas Clifford -> Anne Courtenay appears only in user-contributed trees (Tier 3). David Faris's "Plantagenet Ancestry of Seventeenth-Century Colonists" does not include any Cocke/Cox colonist in its 137 documented lines.
+3. **No independent verification of the Coulson chain**: Thomas Coulson (c. 1626-1698), Joseph Coulson (1669-1738), Samuel Coulson (1729-1776), and Esther Coulson appear only in user-contributed trees. Joseph Coulson (1669-1707/8) was found in Geni as from Hartshorne, Derbyshire, England, dying in Germantown, Philadelphia County, Pennsylvania; the link from his descendants to the Embree/Cox families is unverified.
+4. **charlemagne.org, hereditary.us, magnacharta.com all returned 403 errors**: Could not directly access the full Gateway Ancestor lists. Findings based on web search result snippets and secondary descriptions of these databases.
+5. **WikiTree profile pages returned 403 errors**: Could not directly access Cox-580, Cox-14022, Cooke-Dubious Pedigree. Findings based on web search result snippets.
+
+### Conclusion
+
+The claimed royal descent from Edward I, Henry II, and Eleanor of Aquitaine to the Cox family of South Carolina is **REFUTED** with **Strong Signal** confidence. Four independent fatal breaks in the chain have been verified:
+1. Alice de Audley was Hugh's sister (no Plantagenet blood to Neville line)
+2. Norman Cooke of Lavenham is a known fabrication
+3. Margaret Neville's claimed spouse "Jean/Ena Ross" is fictitious
+4. William Cox Sr. (SC) is not William Richardson Cox (DE) per DNA
+
+No person in this line is a recognized Gateway Ancestor. The medieval royal figures are real, but they are NOT connected to this family through the claimed chain. Updated: Edward_I.md, Eleanor_of_Aquitaine.md, Henry_II.md.
+
+---
+
 ## 2026-04-14: Willis Henrietta Youngblood II&C First Graduate Investigation
 
 ### Summary

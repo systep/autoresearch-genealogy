@@ -15,7 +15,7 @@ tags: [genealogy, de-audley, person, medieval, nobility, england, earl]
 
 # Hugh de Audley
 
-**Caveat**: The connection from colonial American families to this medieval ancestor requires verification of intermediate links.
+**Caveat**: The claimed connection from colonial American families (Cox line) to this medieval ancestor has been assessed and is REFUTED. Hugh de Audley's ONLY child with Margaret de Clare was Margaret de Audley, who married Ralph Stafford, 1st Earl of Stafford (Wikipedia, Tier 2). The pedigree charts incorrectly claim descent through "Baroness Alice DeAudley" to Ralph Neville; Alice de Audley was Hugh's SISTER (daughter of Hugh de Audley, 1st Baron of Stratton Audley), not his daughter. Alice had no Plantagenet blood. See [[Edward_I]] Gateway Ancestor Assessment.
 
 ## Vital Information
 
@@ -39,7 +39,7 @@ Through his wife, Hugh gained a share of the vast De Clare inheritance after the
 
 Hugh was created Earl of Gloucester on March 16, 1337, by Edward III. His career was turbulent; he was involved in the political upheavals of Edward II's reign, including the Despenser War and the eventual deposition of Edward II. Hugh died on November 10, 1347, and was buried at Tonbridge Priory (Wikipedia, Tier 2).
 
-Hugh and Margaret's daughter, Margaret de Audley, married [[Ralph_Neville]] of Raby Castle. This is the link in the pedigree charts through which the De Clare/Plantagenet royal descent passes to the Neville family and subsequently to colonial American lines (Pedigree Charts).
+Hugh and Margaret's daughter, Margaret de Audley, married Ralph Stafford, 1st Earl of Stafford (Wikipedia: Margaret Audley, 2nd Baroness Audley, Tier 2). The pedigree charts (Tier 3) incorrectly claim she married [[Ralph_Neville]] of Raby Castle; in fact, Ralph Neville married Alice de Audley, who was Hugh's SISTER (daughter of the 1st Baron Audley of Stratton Audley), not his daughter. This confusion of two women named "de Audley" is the most critical break in the claimed Plantagenet descent.
 
 ## Document Sources
 
@@ -53,4 +53,4 @@ Hugh and Margaret's daughter, Margaret de Audley, married [[Ralph_Neville]] of R
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| No discrepancies identified at this time. | | | |
+| Hugh's daughter's husband | Pedigree Charts (Tier 3) claim "Alice de Audley" married Ralph Neville | Wikipedia, Complete Peerage (Tier 2): Hugh's only child Margaret married Ralph Stafford | RESOLVED: Pedigree charts confuse two different Audley women. Alice de Audley (Ralph Neville's wife) was Hugh's SISTER, not daughter. She had no Plantagenet blood. |

@@ -13,8 +13,9 @@ sources:
   - "Hilda Salmanson obituary (Boston Globe, 2016)"
   - "BillionGraves headstone record, Lincoln Park Cemetery (Tier 1)"
   - "Samuel Salmanson obituary, Oct 23, 2004, Florida (Tier 2)"
+  - "Hebrew headstone inscription parsed (2026-04-14)"
 created: 2026-04-10
-updated: 2026-04-13
+updated: 2026-04-14
 tags: [genealogy, salk, salmanson, person, immigrant, poland, rhode-island, zalk, adams-drug]
 ---
 
@@ -29,7 +30,8 @@ tags: [genealogy, salk, salmanson, person, immigrant, poland, rhode-island, zalk
 | Birthplace | Poland | 1930 Census (both parents also born Poland) |
 | Died | **November 30, 1974** | BillionGraves headstone (Tier 1); Hebrew death date 17 Kislev 5735; age 87 years, 8 months, 25 days |
 | Burial | **Lincoln Park Cemetery, Warwick, Rhode Island** | BillionGraves (Tier 1, confirmed) |
-| Father | Abraham (Charles) Zolly Salk | MyHeritage family tree (Tier 3, unverified) |
+| Father | Abraham (Charles) Zolly Salk | MyHeritage family tree (Tier 3, unverified); but see Hebrew Name Discrepancy below |
+| Father's Hebrew name | Possibly **Moshe** (Moses) | Headstone inscription "הילדה בת משה" (Tier 1, parsing uncertain) |
 | Mother | Tauba (surname unknown) | MyHeritage family tree (Tier 3, unverified) |
 | Spouse | [[Barnett_Salmanson]] (m. September 12, 1909, Providence, RI) | MyHeritage |
 | Children | [[Leonard_Irving_Salmanson]], [[Samuel_Salmanson]], [[Charles_Salmanson]], [[Martha_Salmanson_Corin]], [[Donald_Salmanson]] | Multiple obituaries |
@@ -45,6 +47,25 @@ Elizabeth and Barnett had five children: Leonard Irving (1910-1975), Samuel (191
 On the **1930 Census**, the family resided in Providence, RI. Barnett was listed as "Benjamin Salmonson," and Elizabeth's birthplace was recorded as Poland with immigration year 1897. Her father's birthplace was listed as Poland.
 
 Elizabeth's parents' names (Abraham Zolly Salk and Tauba) come from a MyHeritage family tree and remain unverified by independent sources. The surname "Zolly" may derive from Yiddish Zalman/Solomon. Maternal grandparents are listed as Louis E.L.S. and Rose (also unverified).
+
+### Hebrew Name and Headstone Inscription
+
+Elizabeth's headstone at Lincoln Park Cemetery (BillionGraves, Tier 1) contains a Hebrew inscription that provides significant genealogical information. The key text reads:
+
+> הילדה בת משה שמואל בן דב בער זאוועל בן ר דב בערר ליבה בת ר אברהם ר דוב בער בר לוי יצחק סאלמאנסאן
+
+**Elizabeth's Hebrew name** appears to be **Hilda** (הילדה). Note: "הילדה" literally means "the girl/child" in modern Hebrew, but in this context it is almost certainly the personal name "Hilda" (a Germanic name adopted by Ashkenazi Jews), not a descriptive term. Elizabeth died at age 87, making "the girl" as a descriptor implausible.
+
+**Elizabeth's patronymic**: "בת משה" (bat Moshe) means "daughter of Moshe (Moses)." If this is Elizabeth's father's Hebrew name, it conflicts with the GEDCOM listing of "Abraham" as the father's name. Moshe and Avraham are completely distinct Hebrew names with no etymological connection. See [[Abraham_Zolly_Salk]] for full analysis of this discrepancy.
+
+**Barnett Salmanson's lineage**: The remainder of the inscription appears to trace Barnett's patrilineal and matrilineal ancestry. The name chain includes "Shmuel ben Dov Ber" (possibly Srul Mendel Zalmanson), "Zavel ben R' Dov Ber" (Zawel Deych or a Zalmanson ancestor), and "R' Dov Ber bar Levi Yitzchak Salmanson" (consistent with the known Zalmanson genealogy: Levi Itzhak Zalmanson who married Rochel Tsine Deych in 1877 in Rokiskis). The name "Liba bat R' Avraham" likely refers to a woman in the Salmanson line (possibly Barnett's grandmother or mother), not to Elizabeth's father.
+
+**Significance**: This inscription, if fully and correctly parsed, could extend the documented Zalmanson ancestry by one or more generations and clarify Hebrew names for several known individuals. Professional Hebrew epigraphy review is strongly recommended.
+
+**Hebrew and English dates on headstone**:
+- Born: March 5, 1887 (Hebrew: ~5648)
+- Died: November 30, 1974 (Hebrew: 17 Kislev 5735)
+- Calculation: 87 years, 8 months, 25 days (consistent)
 
 ### Naming Pattern Evidence
 
@@ -72,6 +93,7 @@ The surname "Salk" is an Americanized form of **Zalk**, a Lithuanian Jewish surn
 | Hilda (Mittleman) Salmanson obituary (2016) | Newspaper obituary (Tier 2) | Boston Globe; funeral at Lincoln Park Cemetery chapel |
 | Leonard Irving Salmanson, Find a Grave #231959694 | Cemetery record (Tier 1) | Lincoln Park Cemetery, Warwick, RI |
 | Adams Drug Company Wikipedia article | Reference (Tier 2) | Founded 1932 by Barnett and sons |
+| BillionGraves headstone, Lincoln Park Cemetery | Headstone photo + transcription (Tier 1) | Hebrew inscription with genealogical lineage chains |
 | MyHeritage family tree (Salk ancestry) | Family tree database (Tier 3) | MyHeritage |
 
 ## Data Discrepancies
@@ -80,3 +102,5 @@ The surname "Salk" is an Americanized form of **Zalk**, a Lithuanian Jewish surn
 |---|---|---|---|
 | Birthplace | Poland (1930 Census) | "Russia" implied by Barnett's obituary context | Elizabeth born in Poland per her own census declaration. Barnett was from Lithuania (then Russian Empire). They are from different countries. |
 | Parents' names | Abraham (Charles) Zolly Salk + Tauba (MyHeritage) | No corroborating source | Unverified. MyHeritage tree is Tier 3. Requires census or vital records for confirmation. |
+| Father's Hebrew name | "Abraham" (GEDCOM/MyHeritage, Tier 3) | "Moshe" per headstone inscription "הילדה בת משה" (BillionGraves, Tier 1) | **Critical discrepancy**. Headstone is a primary source (Tier 1) and takes precedence over the GEDCOM (Tier 3). However, the Hebrew inscription is complex and the parsing requires expert verification. The name "Avraham" also appears later in the inscription but may refer to a Salmanson ancestor (Liba bat R' Avraham), not to Elizabeth's father. Resolution: (1) Obtain Abraham Salk's 1925 death certificate from RI State Archives. (2) Commission professional Hebrew epigraphy review of headstone photo. |
+| Elizabeth's Hebrew name | Not previously recorded | "Hilda" (הילדה) per headstone inscription (BillionGraves, Tier 1) | New information. The name Hilda is a Germanic name adopted by Ashkenazi Jews. Note that Leonard Irving Salmanson's wife was Thelma, and Samuel Salmanson's wife was named **Hilda** (Mittleman). Naming a daughter in law after a living mother in law would violate Ashkenazi custom; this is consistent because Elizabeth's Hebrew name (Hilda) and her daughter in law (Hilda Mittleman, 1916-2016) shared the same name but Elizabeth was alive during the marriage (1947). This may indicate the name is coincidental rather than commemorative, or that "Hilda" was not widely known as Elizabeth's Hebrew name within the family. |

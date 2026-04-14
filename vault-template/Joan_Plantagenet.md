@@ -15,7 +15,7 @@ tags: [genealogy, plantagenet, person, medieval, royalty, england, palestine]
 
 # Joan Plantagenet
 
-**Caveat**: The connection from colonial American families to this medieval ancestor requires verification of intermediate links.
+**Caveat**: The claimed connection from colonial American families (Cox line) to this medieval ancestor has been assessed and contains FOUR fatal breaks. See [[Edward_I]] Gateway Ancestor Assessment. REFUTED (Strong Signal).
 
 ## Vital Information
 

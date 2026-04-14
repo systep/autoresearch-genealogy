@@ -17,7 +17,7 @@ tags: [genealogy, markel, sternbach, person, galicia, jewish, rhode-island, tier
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Minnie Markel Sternbach (also: Minnie Mircha Markel) | Yichus narrative (Tier 2); MyHeritage (Tier 3, via Morris Markel file) |
+| Full Name | Minnie Markel Sternbach (Hebrew/Yiddish: Freitca Miritza; also: Minnie Mircha Markel) | Yichus narrative (Tier 2); MyHeritage (Tier 3, via Morris Markel file) |
 | Born | 1887 | Yichus narrative (Tier 2) |
 | Birthplace | Vanyavitch, Galicia (near Lemberg/Lviv; Austria/Poland; now Ukraine) | Yichus narrative (Tier 2) |
 | Died | 1975 | Yichus narrative (Tier 2) |
@@ -67,6 +67,7 @@ Confidence: Moderate. The Yichus narrative (Tier 2) provides birth year, death y
 | Document | Type | Vault Note |
 |---|---|---|
 | Yichus narrative by Ruth Gold, Oct 9, 2011 | Primary family document (Tier 2) | Assets/Yicchis and Narrative.PDF |
+| Yichus typed family tree listing (pages 1-5) | Primary family document (Tier 2) | Assets/Yicchis and Narrative.PDF, pages 1-5; lists Sternbach descendants |
 | MyHeritage family tree (via [[Morris_Markel]] file) | Family tree database (Tier 3, unverified) | |
 | "The Founding of a Jewish Community" by Rebecca Twersky, RIJH Notes Vol. 7, 1977 | Historical article (Tier 2) | rijha.org; confirms Abraham and Minnie Sternbach arrival in Arctic 1912, founding role |
 | David Futtersak obituary, Jewish Rhode Island, 2024 | Newspaper obituary (Tier 2) | jewishrhody.com; confirms daughter Florence (Sternbach) Futtersak |

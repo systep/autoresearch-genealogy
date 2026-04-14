@@ -12,8 +12,8 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 ## Audit Summary
 
 - **Total named individuals audited**: ~125
-- **Discrepancies found**: 22
-- **Resolved this session**: 6
+- **Discrepancies found**: 25
+- **Resolved this session**: 9
 - **Remaining open**: 16
 
 ---
@@ -44,6 +44,9 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 | 20 | Sara Schuller / Stephania Benning | death_date | 27 May 1876 (GEDCOM, Tier 3) | **22 Mai 1876** (VATER church certificate, Tier 1) | 5-day difference. **Tier 1 church register preferred: 22 May 1876.** GEDCOM's "27 May" is likely a transcription error or memory error by whoever submitted the GEDCOM. | VATER church certificate (Tier 1) vs GEDCOM (Tier 3) | RESOLVED: 22 May 1876 per Tier 1. Added 2026-04-14. |
 | 21 | Michael Kascher I | death_date | 28 June 1880 (VATER church cert, Tier 1) | 28 June 1890 (user task description) | **Church certificate says 1880.** The "1890" in the task description appears to be a typo. The vault already records 1880 consistently. No action needed. | Church certificate (Tier 1) | RESOLVED: 1880 is correct. Added 2026-04-14. |
 | 22 | Michael Kascher (son, child #1) | birth_year | 11 Feb 1889 (KINDER cert reading, Tier 1; corroborated by SSDI, 1913 marriage age 24, 1930 census age 41) | 11 Feb 1899 (alternate reading of KINDER cert digit) | **RESOLVED: 1889 is correct.** Chronological sequence of KINDER children requires 1889: next child (stillborn) is 1893, then 1895, 1897, etc. If Michael were born 1899, he would be younger than siblings born 1893-1897. Additionally, SSDI, marriage record (age 24 in 1913), and 1930 census (age 41) all confirm 1889. The church certificate digit was ambiguous but 1889 is the only possibility. | KINDER cert (Tier 1) + SSDI (Tier 1) + census (Tier 1) | RESOLVED: 1889 confirmed. Added 2026-04-14. |
+| 23 | Ralph Neville | wife_identity | "Margaret de Audley, daughter of Hugh de Audley and Margaret de Clare" (Pedigree Charts 1-46.pdf, Tier 3) | Alice de Audley (d. 1374), daughter of Hugh de Audley, 1st Baron of Stratton Audley, and Isolde le Rous/Mortimer (Wikipedia, Tier 2) | **RESOLVED: Wife was ALICE de Audley, Hugh's SISTER, not daughter. Alice had no Plantagenet blood.** Hugh de Audley, 1st Earl of Gloucester's only child (Margaret) married Ralph Stafford, not Ralph Neville. This is a fatal break in the claimed royal descent. | Wikipedia (Tier 2) supersedes Pedigree Charts (Tier 3) | RESOLVED: Pedigree charts conflate two Audley women. Added 2026-04-14. |
+| 24 | William Cox Sr. | parentage | Son of William Richardson Cox (1692-1767, Delaware) (Pedigree Charts, Ancestry.com, FamilySearch, Geni, Tier 3) | Parents UNKNOWN (brick wall). Y-DNA (Y-37, R1b-I "Carolina Coxes" R-M269) does NOT match Delaware Quaker Cox line. (Cox Family History Project, FamilyTreeDNA, Tier 1+2) | **RESOLVED: William Cox Sr. (c. 1730-1814, SC) is NOT the son of William Richardson Cox (DE).** DNA-disproven erroneous merger in multiple databases. This breaks the claimed royal descent chain at its terminal colonial connection. | DNA (Tier 1) + Cox Family History Project (Tier 2) supersede user-contributed trees (Tier 3) | RESOLVED: Erroneous merger. Added 2026-04-14. |
+| 25 | Norman Cooke of Lavenham | existence | Listed as ancestor in Pedigree Charts (Tier 3) | WikiTree Space:Cooke-Dubious Pedigree: "Disproven Existence" for Cooke profiles 1025-1425 (Tier 2) | **RESOLVED: FABRICATION.** Norman Cooke of Lavenham and the entire Cooke ancestry of Lavenham pre-1442 is a known fabrication. No evidence has been proposed for any of these profiles. | WikiTree community research (Tier 2) supersedes Pedigree Charts (Tier 3) | RESOLVED: Fabricated ancestor. Added 2026-04-14. |
 
 ---
 
