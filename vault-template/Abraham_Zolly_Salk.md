@@ -67,6 +67,20 @@ Whether Abraham Salk was related to Hyman Salk (both Lithuanian Jewish immigrant
 
 Jonas Salk (1914-1995), developer of the polio vaccine, was the son of **Daniel Salk** (born in New Jersey to immigrant parents) and **Dora Press** (born in Minsk, Russia). Jonas's parents were Ashkenazi Jewish from the Russian Empire, like Abraham. However, Jonas's family was based in **New York City**, not Providence. No direct connection to Abraham Salk's line has been established. The shared Lithuanian Jewish surname suggests possible distant kinship, but this is speculative without genealogical documentation.
 
+### Immigration Record Search (2026-04-14)
+
+A search for Abraham Salk's immigration record was conducted. **No passenger manifest was located.** Two immigration dates appear in the GEDCOM: 1894 and 1896. Tauba's immigration dates are listed as 1898 or 1901. Elizabeth's immigration is recorded as 1897 (1930 Census). The databases (statueofliberty.org, JewishGen EIDB, FamilySearch, Ancestry) all require login or paid access for individual record searches.
+
+Key search challenge: "Salk" is an Americanized form of "Zalk." The original name at the port of embarkation may have been Zalk, Szalk, Solk, or another variant. Additionally, the first name "Abraham" may actually be "Moshe" (see Hebrew Name Question below), further complicating the search. Without knowing the correct first name and surname spelling, passenger manifest searches may require broad Soundex or Daitch-Mokotoff queries.
+
+Potential databases for human follow-up:
+1. **Statue of Liberty Foundation passenger search** (statueofliberty.org): Free with registration. Search for Salk/Zalk arriving 1894-1896 from Russia/Poland.
+2. **Steve Morse One Step tools** (stevemorse.org): Enhanced search of Ellis Island records with Soundex and phonetic matching.
+3. **JewishGen EIDB** (jewishgen.org/databases/eidb/): Free. Gold form allows town-of-origin searches.
+4. **FamilySearch collection 1368704**: New York Passenger Arrival Lists (Ellis Island), 1892-1925. Free with login.
+5. **1910 and 1920 Census records**: Would list Abraham as head of household with year of immigration and naturalization status. These census records are referenced in the biography but have not been directly accessed.
+6. **Rhode Island death certificate** (1925): RI State Archives holds death records from 1853 to 1975; records 50+ years old are public. Would list birthplace, parents' names, and informant.
+
 Abraham died February 22, 1925 in Rhode Island at the age of approximately 64-65. His burial location has not been confirmed, but **Lincoln Park Cemetery** in Warwick, RI is the most likely site, as multiple Salmanson family members (including his daughter Elizabeth, son in law Leonard Irving, and daughter in law Thelma) are buried there. No Find a Grave or BillionGraves record for Abraham has been located (searched 2026-04-13, 2026-04-14). The cemetery office (401-737-5333) may have records.
 
 Through his daughter Elizabeth's marriage to Barnett Salmanson, Abraham is the maternal grandfather of the Providence Salmanson family, including [[Leonard_Irving_Salmanson]], [[Samuel_Salmanson]], [[Charles_Salmanson]], [[Martha_Salmanson_Corin]], and [[Donald_Salmanson]]. The Salmanson children founded the **Adams Drug Company** in 1932, which grew to 500+ stores across 14 states and became Brooks Pharmacy (now Rite Aid).

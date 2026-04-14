@@ -33,7 +33,7 @@ tags: [genealogy, huff, person, virginia, south-carolina, simpsonville]
 
 Lewis P Huff was born July 22, 1803 in Brunswick, Virginia. He was the son of **James Huff** (1768-1842) and **Rebecca Moseley** (1772-1838). His father James was born in Brunswick County, Colonial Virginia, married Rebecca Moseley on November 9, 1793 in Brunswick, Virginia, and died May 31, 1842 in Golden Grove, Greenville, South Carolina. The family's migration from Virginia to the Greenville County, South Carolina area was part of a broader pattern of Southside Virginia families moving south in the late 18th and early 19th centuries.
 
-Lewis's paternal grandfather was **Daniel Hough** (b. February 5, 1724; originally surnamed "Hough," later changed to "Huff"). See [[Daniel_Hough]] for the Hough/Huff surname transition.
+Lewis's paternal grandfather was **[[Daniel_Huff_Brunswick|Daniel Huff]]** (c. 1710/1720-c. 1777) of Brunswick County, Virginia, who married Mary Holloway. Daniel's 1773 will (probated 24 Nov 1777) named sons Daniel, Philemon, Reuben, Lewis, and James. See [[Daniel_Huff_Brunswick]] for details. Note: the pedigree chart incorrectly identifies the grandfather as Daniel Hough of Bucks County, PA; see [[Daniel_Hough]] for the correction.
 
 Lewis married **Mary Eliza Brashier** (b. 1806, USA). The Brashier surname connects to the broader Greenville County network; the Brashiers/Brazures were among the intermarried families that migrated with the Coxes from Orange County, North Carolina to Greenville County, South Carolina in the 1780s. The identification of Lewis's wife as a Brashier adds another intermarriage to the densely connected Greenville SC cluster (Cox, Long, Henderson, Brasher, Huff, Moseley).
 

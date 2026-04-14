@@ -40,6 +40,14 @@ tags: [genealogy, salk, salmanson, person, immigrant, poland, rhode-island, zalk
 
 Elizabeth Salk was born circa 1887 in Poland to Abraham (Charles) Zolly Salk and Tauba. She immigrated to the United States in 1897, at approximately age 10 (1930 Census). Both of her parents were also born in Poland.
 
+### Immigration Record Search (2026-04-14)
+
+A search for Elizabeth Salk's 1897 immigration record was conducted (see Research Log, 2026-04-14). **No passenger manifest was located.** Key complication: the Ellis Island fire of **June 15, 1897** destroyed the Main Immigration Building and all Federal and State immigration records dating back to 1855. If the Salk family arrived before June 15, 1897, the original manifest was destroyed (though **Customs Lists** for pre-fire arrivals survive and are searchable via the Statue of Liberty Foundation). If they arrived after June 15, 1897, the manifest should exist in the Barge Office records (Ellis Island reopened December 17, 1900; ships were processed at the Barge Office from June 1897 to December 1900).
+
+Elizabeth was approximately 10 years old in 1897 and would have traveled with family members. The databases (statueofliberty.org, JewishGen EIDB, FamilySearch, Ancestry) all require login or paid access for individual record searches. The surname "Salk" may have been recorded as "Zalk," "Solk," "Szalk," or other variant at the port of departure.
+
+Abraham Salk's immigration dates are listed as 1894 or 1896 (two different GEDCOM entries), while Tauba's are listed as 1898 or 1901. If Abraham arrived in 1894-1896 and Elizabeth in 1897, Elizabeth may have traveled with her mother Tauba (or another relative), not her father. The discrepancy between Elizabeth's 1897 immigration and Tauba's 1898-1901 immigration needs resolution: either Elizabeth traveled with a different family member, or one of the dates is incorrect.
+
 She married **Barnett (Berko) Salmanson** on **September 12, 1909** in Providence, Rhode Island. The couple settled in the New York area initially; their first son Leonard Irving was born in June 1910, and their second son Samuel was born June 24, 1912 in Brooklyn, NY. By approximately 1919, the family had relocated to Providence, RI, where daughter Martha was born.
 
 Elizabeth and Barnett had five children: Leonard Irving (1910-1975), Samuel (1912-2004), Charles (1914-2008), Martha E. (~1919-2015), and Donald (1924-2015).
