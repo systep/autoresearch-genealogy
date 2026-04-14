@@ -13,6 +13,8 @@ sources:
   - "Ancestry.com Bernard Kyle Bright record (Tier 3)"
   - "Geni.com Bernard Kyle Bright profile (Tier 3)"
   - "Web research 2026-04-13"
+  - "II&C 1901-02 Annual Catalogue (Internet Archive/HathiTrust, Tier 2)"
+  - "Web research 2026-04-14"
 created: 2026-04-10
 tags: [genealogy, youngblood, bright, person, mississippi, virginia, tennessee, education]
 ---
@@ -59,7 +61,13 @@ The "first woman graduate" claim likely derives from one of these scenarios:
 
 For context: Catherine Brewer Benson received the first bachelor's degree awarded to a woman in the U.S. in 1840 from Georgia Female College (now Wesleyan College) in Macon, Georgia. Willis was not the first woman graduate in the U.S. in an absolute sense. However, **if she was among the II&C's Class of 1889, she was one of the first ten graduates of the first state-supported women's college in America**, which is a legitimate and notable distinction. Known members of the first class include Miriam "Minnie" Greene Paslay (1869-1932), who became a professor of Latin and Greek at the II&C.
 
-**Status**: Speculative but plausible. The II&C archives (Beulah Culbertson Archives and Special Collections at MUW) hold scanned catalogs from 1889-90 and 1890-91 that would contain student and graduate lists. The "Meh Lady" yearbook did not begin until 1902. Checking the 1889-91 catalogs would definitively confirm or refute Willis's enrollment and graduation.
+**UPDATE (2026-04-14): Willis was NOT among the first 10 graduates.** Research into the 1901-02 Annual Catalogue of the Industrial Institute and College (digitized on Internet Archive and HathiTrust, Tier 2 source) reveals the complete Class of 1889 B.A. graduates: Mary B. Bynum, Fannie A. Camp, Katherine M. Crusoe, Eula Deaton, Mary H. Mayo, Minnie Paslay (Miriam Greene Paslay), Emma Thigpen, Cora Walker, Matilda Werner, and Mazyck Wilson. No Youngblood appears in the 1889, 1890, or 1891 graduate lists.
+
+However, the catalogue lists over 1,300 students (pages 86-121 of the 1901-02 edition), and it is possible Willis attended without completing the full B.A. program, or completed one of the "industrial arts" certificate tracks (telegraphy, bookkeeping, typewriting) rather than the academic course. The graduate lists published in the catalogue appear to cover only the academic B.A. recipients and separately list "proficients in industrial arts," but the full student enrollment roster was not searchable via web research.
+
+The "1st Woman Graduate of U.S." notation on the family chart is definitively incorrect in multiple senses: (a) Catherine Brewer Benson received the first U.S. women's baccalaureate in 1840; (b) Willis was not among the II&C's first 10 graduates. The claim most likely represents a garbled family tradition that conflated the II&C's distinction as the first state supported women's college with a personal graduation milestone.
+
+**Status**: Speculative. Willis's connection to the II&C remains plausible (she lived in Columbus, was the right age, and became a teacher), but her graduation from the institution is unconfirmed. The Beulah Culbertson Archives at MUW hold the student enrollment rosters that would confirm or refute attendance. Contact: archives@muw.edu or (662) 241-7601. The Columbus Index newspaper (Chronicling America, LCCN sn85034311) may contain coverage of II&C commencements 1889-1893.
 
 ### Marriage and Family
 
@@ -93,6 +101,12 @@ Through her son Albert Graham Bright's marriage to [[Rebecca_Moseley_Long]], Wil
 | Find a Grave | Searched for Willis Henrietta Youngblood, Willie Youngblood, Willis Bright, Willie Bright at High Street Cemetery, Rocky Mount, Franklin VA | 2026-04-13 | Cemetery confirmed (ID 1960179, 1,372 memorials). Specific memorial not returned in search results. Contact Franklin County Historical Society (540-483-1890) for records. |
 | Web search | "Willis Henrietta Youngblood" census records | 2026-04-13 | No direct census images returned; census data from MyHeritage/GEDCOM only. Login-required databases needed. |
 | Mississippi University for Women archives | Searched for 1889 graduating class member list | 2026-04-13 | First class had 10 graduates (June 10, 1889). Names not publicly listed online. Scanned catalogs for 1889-90 and 1890-91 exist in the Beulah Culbertson Archives. |
+| II&C 1901-02 Annual Catalogue (Internet Archive/HathiTrust) | Searched graduate lists 1889-1891 for Youngblood | 2026-04-14 | **NEGATIVE.** Complete 1889 B.A. graduate list: Bynum, Camp, Crusoe, Deaton, Mayo, Paslay, Thigpen, Walker, Werner, Wilson. 1890: Brooks, Edmunds, Harris, Smith, Stevens. 1891: Peebles, Pierce, Power, Price, Prince, Reeves, Rife, Robertson, Scales, Sherrod, Smith, Stanton, Stokes, Stone, Stovall, West, Young. No Youngblood in any class. |
+| Web search (multiple queries) | Searched for "Willis Youngblood" / "Willie Youngblood" + Mississippi Industrial Institute / MUW / Columbus MS / teacher | 2026-04-14 | NEGATIVE. No online source connects any Youngblood to the II&C. |
+| Chronicling America | Identified Columbus Index (LCCN sn85034311, 1869-1893) as digitized source for Lowndes County newspapers | 2026-04-14 | Available but not full-text searched yet. June 1889 issues may contain commencement coverage with student names. |
+| Athena Commons (athenacommons.muw.edu) | Attempted to access digital catalogs and student lists | 2026-04-14 | Site blocked automated access (403 errors). The yearbooks (Meh Lady) begin in 1902, too late for Willis. Catalogs may exist on Athena Commons but require direct browser access or archives request. |
+| MUW ArchivesSpace (archives.muw.edu) | Attempted to search finding aids | 2026-04-14 | Site blocked automated access (403 errors). The archives hold Columbus Female Institute records (1847-1877), which predate Willis's college years. |
+| Mississippi Encyclopedia / Wikipedia | Researched II&C history, Miriam Greene Paslay, Pauline Van de Graaf Orr | 2026-04-14 | Confirmed Miriam Greene Paslay was Class of 1889. Orr was faculty (hired 1885), not a graduate. No Youngblood references found. |
 | Ancestry.com | Bernard Kyle Bright record confirms parents | 2026-04-13 | Bernard Kyle Bright (1892-1978) born Abingdon, VA; parents: George Michael Bright and Willie H. Youngblood |
 | Geni.com | Bernard Kyle Bright profile (6000000083153845597) | 2026-04-13 | Confirmed parents, spouse Velma Imogean Jamison, son Bernard Kyle Jr. |
 | FamilySearch | Viola E. Youngblood (LJ1H-YRB) | 2026-04-13 | Confirmed 1857-1924; sister of Willis |
@@ -108,6 +122,7 @@ Through her son Albert Graham Bright's marriage to [[Rebecca_Moseley_Long]], Wil
 | Ancestry.com Bernard Kyle Bright record | Community genealogy (Tier 3) | Confirms parents and Abingdon, VA birthplace |
 | Geni.com Bernard Kyle Bright profile | Community genealogy (Tier 3) | Profile 6000000083153845597 |
 | Mississippi University for Women history | Published secondary source (Tier 2) | II&C founded 1884 Columbus MS; first 10 graduates 1889 |
+| II&C 1901-02 Annual Catalogue (Internet Archive/HathiTrust) | Institutional record (Tier 2) | Complete graduate lists 1889-1901; no Youngblood in any year |
 
 ## Data Discrepancies
 
@@ -115,5 +130,5 @@ Through her son Albert Graham Bright's marriage to [[Rebecca_Moseley_Long]], Wil
 |---|---|---|---|
 | First name | "Willis Henrietta" (handwritten chart) | "Willie H" (MyHeritage, 1880 Census, Ancestry) | Both forms recorded. "Willis" and "Willie" are variants; "Henrietta" and "H" are consistent. Ancestry records for son Bernard list "Willie H. Youngblood." |
 | Birth year | 1865 (handwritten chart) | 1863 (MyHeritage, FamilySearch) | Two year discrepancy. The 1880 Census lists her as age 17, consistent with ~1863 birth. 1863 is more likely, but both are recorded pending primary source (birth certificate or church record). |
-| "1st Woman Graduate" claim | Handwritten chart notation | No corroborating source found | Almost certainly not "first woman graduate of the U.S." (Catherine Brewer Benson, 1840). Plausibly one of the first 10 graduates of the Mississippi Industrial Institute and College, Columbus, MS, Class of 1889 (the first state-supported women's college in America). Requires checking II&C catalogs 1889-91 in the Beulah Culbertson Archives at MUW. Status: speculative but plausible. |
+| "1st Woman Graduate" claim | Handwritten chart notation | 1901-02 II&C Annual Catalogue (Internet Archive/HathiTrust, Tier 2) | **REFUTED as stated.** Willis was not among the first 10 B.A. graduates (Class of 1889). The 1901-02 catalogue lists all graduates by year; no Youngblood appears in 1889, 1890, or 1891. The claim is a garbled family tradition, likely conflating the II&C's status as the first state supported women's college with a personal achievement. Willis may have attended the II&C or earned an industrial arts certificate, but she did not receive a B.A. in the first three graduating classes. Further inquiry to MUW Archives needed to check student rosters. |
 | Commodorie S. Bright connection | George Michael Bright file lists Commodorie as possible son | Commodorie S. Bright (1880-1959) buried Woodlawn Memorial Park, Greenville SC (Find a Grave #78562893) | Commodorie's 1880 birth predates Willis and George's 1890 marriage. If Commodorie is George Michael's son, he would be from a prior relationship, not Willis's child. Alternatively, Commodorie may be a nephew or cousin in the Bright family, not a son of George Michael. |

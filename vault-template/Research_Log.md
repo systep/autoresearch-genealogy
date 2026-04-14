@@ -1,13 +1,125 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-13
+updated: 2026-04-14
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-14: Willis Henrietta Youngblood II&C First Graduate Investigation
+
+### Summary
+Conducted targeted web research to determine whether Willis Henrietta Youngblood was among the first 10 graduates of the Mississippi Industrial Institute and College (II&C, now Mississippi University for Women) in Columbus, MS, Class of 1889. Ran 30+ web searches across Athena Commons, Internet Archive, HathiTrust, Chronicling America, Mississippi Encyclopedia, Wikipedia, DPLA, Google Books, MUW ArchivesSpace, and general genealogy databases. Multiple sites (athenacommons.muw.edu, archives.muw.edu, mshistorynow.mdah.ms.gov, mississippiencyclopedia.org, archive.org, en.wikipedia.org) returned 403 errors on automated fetch attempts; information was obtained primarily through web search result snippets.
+
+### Key Positive Result
+1. **Complete list of II&C Class of 1889 B.A. graduates identified**: The 1901-02 Annual Catalogue of the Industrial Institute and College (digitized on Internet Archive and indexed by HathiTrust) lists all graduates by year with their subsequent positions. The 10 members of the first graduating class (June 10, 1889) were: **Mary B. Bynum** (teaching in the Philippines), **Fannie A. Camp** (Mrs. S. F. Duggar, Auburn, AL), **Katherine M. Crusoe** (Natural Science, Bakersfield H.S., CA), **Eula Deaton** (teaching H.S., Austin, IL), **Mary H. Mayo** (Franklin Academy, Columbus, MS), **Minnie Paslay** (Professor of Latin at II&C), **Emma Thigpen** (Mrs. Martin, GA), **Cora Walker** (Professor of Natural Sciences at II&C), **Matilda Werner** (Public Schools, Canton, MS), **Mazyck Wilson** (teaching in New York City). Source: "Annual catalogue of the officers and students of the Industrial Institute and College, for the education of white girls of Mississippi," 17th session (1901-02), available at archive.org/stream/annualcatalogueo190102indu (Tier 2).
+
+2. **1890 graduates identified**: Nancy B. Brooks, Louise C. Edmunds, Laura Harris, Ida K. Smith, Allie Stevens. No Youngblood.
+
+3. **1891 graduates identified (partial)**: Rosa Peebles, Geraldine Pierce, Annabel Power, Annie Price, May Prince, Emma Reeves, Stella Rife, Mabel Robertson, Annie Scales, Irene Sherrod, Mary L. Smith, Agnes Stanton, Lula K. Stokes, Florence Stone, Annie Stovall, Bessie H. West, Bettie Young. No Youngblood.
+
+4. **Columbus Index newspaper identified**: The Columbus Index (LCCN sn85034311, 1869-1893) is digitized on Chronicling America and would contain June 1889 commencement coverage. Not yet full-text searched.
+
+5. **Miriam Greene Paslay confirmed as Class of 1889**: Wikipedia and Find a Grave (#157120443) confirm Miriam "Minnie" Greene Paslay (1869-1932) was a member of the first graduating class. She became Professor of Latin and Greek at the II&C. Her partner Pauline Van de Graaf Orr was faculty (hired 1885), not a graduate.
+
+### Negative Results (All Searches)
+1. **No Youngblood in any II&C graduate list 1889-1891**: The name Youngblood does not appear in the published graduate lists for 1889, 1890, or 1891 in the 1901-02 Annual Catalogue.
+2. **No web results connecting any Youngblood to the II&C**: Multiple searches for "Willis Youngblood" and "Willie Youngblood" combined with "Mississippi Industrial Institute," "MUW," "Columbus MS," and "teacher/education" returned no relevant results.
+3. **Athena Commons catalogs not accessible**: The MUW digital repository (athenacommons.muw.edu) blocked automated access. The Meh Lady yearbook begins in 1902, too late for Willis. Earlier catalogs (1889-91) may exist on Athena Commons but require browser access or direct inquiry.
+4. **MUW ArchivesSpace not accessible**: archives.muw.edu blocked automated access.
+5. **No Lowndes County newspaper articles found**: Chronicling America has the Columbus Index (1869-1893) but full-text search of June 1889 issues was not performed (requires browser access to the digitized pages).
+6. **No MUW/II&C historical publication listing early graduates found online**: The university's history page (muw.edu/about/history) and Mississippi Encyclopedia entries confirm 10 graduates in 1889 but do not list names.
+
+### Conclusion
+Willis Henrietta Youngblood was **not** among the first 10 B.A. graduates of the II&C (Class of 1889). The handwritten family chart notation "1st Woman Graduate of U.S." is refuted as stated. Willis may have (a) attended the II&C without completing the B.A. program, (b) received an industrial arts certificate rather than an academic degree, or (c) graduated in a later class (1892-1893, before or shortly after her 1890 marriage). The student enrollment rosters (as opposed to the graduate lists) contain over 1,300 names and were not searchable via web research. A direct inquiry to MUW Beulah Culbertson Archives (archives@muw.edu, 662-241-7601) would definitively confirm or refute enrollment. Updated: Willis_Henrietta_Youngblood.md, Open_Questions.md (#18).
+
+---
+
+## 2026-04-14: Heshel Markel WWI Verlustlisten and Military Records Search
+
+### Summary
+Conducted comprehensive web research to locate Heshel Markel in the digitized Austro-Hungarian WWI casualty lists (Verlustlisten) and related military databases. Searched 40+ queries across multiple platforms. Key finding: identified the databases and regiment, but could not access the actual Verlustlisten search interfaces due to access restrictions (403 errors on digi.landesbibliothek.at, RadixIndex, GenTeam, DES genealogy.net, MyHeritage, Ancestry). The databases require browser based access with registration (GenTeam, RadixIndex) or paid subscriptions (MyHeritage, Ancestry).
+
+### Databases Identified and Attempted
+
+1. **digi.landesbibliothek.at** (Upper Austrian Regional Library): Hosts digitized Verlustlisten with full text search. Contains approximately 3 to 3.5 million names. URL: http://digi.landesbibliothek.at/viewer/. **Status**: 403 error on programmatic access. Requires browser based access.
+
+2. **GenTeam.at/GenTeam.eu**: Free registration based database with an indexed Verlustliste project (led by Frank Raschka, verlustliste@gmail.com). Contains officers, soldiers, one year volunteers of all religions including Jewish soldiers. URL: https://www.genteam.eu/. **Status**: 403 error. Requires free registration and browser based access.
+
+3. **RadixIndex.com**: Hungarian and Central European genealogy database with a Verlustliste collection (database #8). URL pattern: https://www.radixindex.com/en/databases/8/surname/[surname]. **Status**: 403 error. RadixIndex surname index shows MARKEL exists in the database (at least 1 record).
+
+4. **DES genealogy.net (Daten Erfassungs System)**: Austrian Verlustlisten search at https://des.genealogy.net/ou1wk/search. Search by last name and first name fields. **Status**: 403 error on programmatic access.
+
+5. **MyHeritage**: Collection 10953, "Austria-Hungary, World War I Casualty Lists, 1914-1918." Records include name, birth date/place, casualty list date, rank, unit, death date/place, casualty type. **Status**: 403 error. Requires paid subscription.
+
+6. **Ancestry.com**: Collection 70940, "Austria-Hungary (Czech Republic), War Losses of the Austro-Hungarian Army, 1914-1918." **Status**: 403 error. Requires paid subscription.
+
+7. **The World Remembers** (theworldremembers.org): International WWI names database. Search page at https://theworldremembers.org/search-the-names. **Status**: 403 error.
+
+8. **Geni.com project**: "German / Austro-Hungarian Jewish Soldiers Killed in WWI" (project 12439). URL: https://www.geni.com/projects/German-Austro-Hungarian-Jewish-Soldiers-Killed-in-WWI/12439. **Status**: 403 error. No indexed Markel result visible in web search.
+
+### Key Positive Findings
+
+1. **Regiment identification**: The Sambor district (Bezirk Sambor) was the Ergänzungsbezirk (recruitment district) for **k.u.k. Infanterieregiment "Philipp Herzog von Württemberg" Nr. 77**. The I. Battalion of IR 77 was stationed in Sambor; headquarters, II., and III. Battalions in Przemysl; IV. Battalion in Tuzla. IR 77 was composed of 69% Ruthenians, 30% Croats/Serbs, and 1% others. However, Jewish soldiers from Sambor could also have been assigned to other units, particularly if mobilized during wartime. IR 9 (Graf Clerfait) had its II. Battalion in nearby Stryj and also recruited from the broader area.
+
+2. **Waniowice confirmed near Sambor**: The German language genealogy forum Ahnenforschung.net has a thread titled "Tarnawa nizn, Szandrowiec und Waniowice bei Sambor in Galizien," confirming that Waniowice (the "Vanyavitch" of the Yichus narrative) was a village near Sambor in Galicia. This corroborates the Heschel Herman Markel person file.
+
+3. **RadixIndex surname exists**: The RadixIndex surname search shows that "MARKEL" exists in their databases, including potentially the Verlustliste database. This is a lead for a browser based search.
+
+4. **Yosef Markel in Sambor Yizkor book**: The Sambor/Stary Sambor Yizkor book (Sefer Sambor, ed. Aleksander Manor, Tel Aviv, 1980) lists "Markel, Yosef and Family (5 People)" among the Holocaust martyrs. Page at https://www.jewishgen.org/yizkor/sambor/Sam258.html. This Yosef Markel may be Avraham Chaim Markel's son or another family member (Avraham Chaim was murdered with family in 1939 per the Yichus narrative).
+
+5. **JewishGen KehilaLinks Markel family page**: A dedicated Markel family page exists at https://kehilalinks.jewishgen.org/Drohobycz/families/markel.html. Contains information about Sara Hinde Markel who married Shamay Bartel in 1877, and references to Markel family members in the Drohobycz/Sambor region. Page could not be accessed (403 error) for full content.
+
+6. **FamilySearch Galician military records**: 247 microfilm reels of Austrian military records (1865 to 1930) from the United Military Registration Office in Vienna are digitized on FamilySearch. These include registration cards and personnel files from Galician cities. However, records are organized loosely by surname with no unified index. Most Galician draftee registration sheets have been destroyed. Search the FamilySearch catalog by entering "Osterreich Armee" followed by the regiment name/number to find relevant microfilms.
+
+7. **Jewish Military Chaplaincy Records**: The Rohatyn District Research Group documents that records of the Jewish Military Chaplaincy contain marriage and death records of soldiers from across Galicia, organized by chaplaincy district centers. This is a potential avenue for finding Heshel's death record.
+
+### Negative Results (Logged)
+
+1. Web search "Heshel Markel" OR "Hirsch Markel" OR "Herschel Markel" Sambor Galicia: no specific match
+2. Web search "Heschel Markel" OR "Herman Markel" Galicia: no match
+3. Web search "Hirsch Markel" OR "Hersch Markel" OR "Herszel Markel" genealogy: no match
+4. Web search Verlustlisten "Markel" Galicia soldier: no individual record visible in web results
+5. Web search "Markel" OR "Merkl" Verlustliste 1916 Galicia wounded killed: no match
+6. Web search "Heshel" OR "Heszel" OR "Herschel" "Markel" OR "Merkel" OR "Merkl" Jewish soldier 1916 gangrene: no match
+7. Web search site:radixindex.com Markel Verlustliste: no results indexed by Google
+8. Web search site:ushmm.org "Markel" Sambor victims: no results
+9. Web search Geni "Heshel Markel" OR "Heschel Markel": no direct profile found
+10. All Galicia Database (search.geshergalicia.org) search for Markel in Sambor: 403 error, could not complete
+11. JRI-Poland Town Explorer for Sambor (jri-poland.org/town/sambor.htm): 403 error
+12. JewishGen JOWBR (burial registry) for Sambor: no specific Sambor records confirmed
+13. Ancestry collection 70940 direct search for Markel: 403 error (requires subscription)
+14. MyHeritage collection 10953 direct search for Markel: 403 error (requires subscription)
+15. GenTeam Verlustliste search for Markel: 403 error (requires free registration via browser)
+16. DES genealogy.net ou1wk search for Markel: 403 error
+17. digi.landesbibliothek.at search for Markel: 403 error
+18. The World Remembers search for Markel Austria: 403 error
+19. Geni.com "Austro-Hungarian Jewish Soldiers Killed in WWI" project page: 403 error
+
+### Variant Spellings Attempted
+Surname: Markel, Merkl, Markl, Merkel, Marckl
+Given name: Heshel, Heschel, Heszel, Herschel, Hersch, Hirsch, Herman
+
+### Files Updated
+- [[Open_Questions]]: Updated question #11 with search results and revised next steps
+- [[Heschel_Herman_Markel]]: Added military records research section with regiment identification and search leads
+
+### Next Steps (Human Action Required)
+1. **GenTeam.eu (FREE, browser only)**: Register at genteam.eu (free) and search the Verlustliste database for "Markel" (and variants Merkl, Markl) in the Military section. This is the most promising free resource.
+2. **digi.landesbibliothek.at (FREE, browser only)**: Visit http://digi.landesbibliothek.at/viewer/ in a browser and search for "Markel" in the full text search. Try variant spellings.
+3. **RadixIndex.com (FREE/registration)**: Visit https://www.radixindex.com/en/databases/8 and search for surname MARKEL, MERKL, MARKL in the Verlustliste database.
+4. **DES genealogy.net (FREE, browser only)**: Visit https://des.genealogy.net/ou1wk/search and search for surname Markel (and variants).
+5. **MyHeritage (PAID)**: Search collection 10953 for Markel, Merkl, Markl with any first name variant.
+6. **Ancestry.com (PAID)**: Search collection 70940 for Markel variants.
+7. **JewishGen KehilaLinks Markel page**: Access https://kehilalinks.jewishgen.org/Drohobycz/families/markel.html in a browser for full family information.
+8. **All Galicia Database**: Register at search.geshergalicia.org and search for Markel in Sambor.
+9. **FamilySearch military microfilms**: Search FamilySearch catalog for "Osterreich Armee Infanterieregiment 77" to find Sambor recruitment district records.
+10. **Kriegsarchiv Vienna (IN PERSON or mail request)**: Write to the Austrian State Archives Kriegsarchiv (kriegsarchiv@oesta.gv.at) requesting search for Heshel/Hirsch Markel, born 1862, Waniowice, Bezirk Sambor, in Grundbuchblatter and Verlustlisten.
+
+---
 
 ## 2026-04-13: Brandt and Goldbaum Family Research (Thelma's Maternal Line)
 
