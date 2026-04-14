@@ -37,13 +37,24 @@ tags: [genealogy, moseley, person, south-carolina, virginia, colonial]
 
 ## Biography
 
-Samuel Moseley was born circa 1735 (per user research) or 1750 (per GEDCOM) in Brunswick, Virginia. He was the son of Marvel Moseley Jr., as confirmed by a 1752 will (user instruction; this source not found in the GEDCOM, likely a county court record).
+Samuel Moseley was born c. 1750 (GEDCOM) in Brunswick, Virginia. He was the son of **William Moseley** (d. before 26 Aug 1776, Brunswick County VA) and **Ann** (d. c. 1776/77). William Moseley's father was **Marvel Moseley Jr.** (1682-1753), whose will dated 2 March 1752 (proved 20 Mar 1753, Goochland County VA) named seven children to inherit: Agatha, Avey, Phebey, William, Samuel, James, and Joseph; daughters Jochabed Nash and Judith Thurston had already received their portions (WikiTree Moseley-106). Thus the lineage is: Marvel Moseley Jr. (will 1752) > William Moseley (d. before 1776) > Samuel Moseley (c. 1750, aft. 1810).
 
-Samuel married Martha Patty Holloway. They had numerous children, including Rebecca Moseley (b. 1772), who married James Huff. The family had deep roots in Brunswick County, Virginia.
+**Note on parentage:** The pedigree chart states Samuel's father was "William Moseley (b. 1715, Brunswick County VA; d. Feb 1777)." The RootsWeb Moseley project confirms William died before August 26, 1776. Marvel Moseley Jr.'s will does list a son William, but Marvel's will was proved in Goochland County, and the family then appears in Brunswick County. The user instruction earlier identified Marvel Moseley Jr. as Samuel's father; the corrected lineage (from RootsWeb and WikiTree) places Marvel as Samuel's grandfather, with William as the intermediate generation.
 
-According to user instruction, Samuel moved from Goochland, Virginia to the Brushy Creek area of Greenville County, South Carolina. This migration pattern is consistent with several intermarried families (Huffs, Coxes, Longs) who moved from Virginia to the Greenville District in the late 18th century.
+Samuel married **[[Martha_Patty_Holloway]]** (c. 1755-c. 1811) about 1771 (WikiTree Holloway-58). Their children included:
+- **[[Rebecca_Moseley_Huff]]** (b. 11 Apr 1772; d. 7 Jan 1837/38; m. James Huff, 9 Nov 1793)
+- **"Tama" Thama Moseley**
+- **Samuel Moseley (son, b. 1795)**
+- **Huldah (Moseley) Huff** (married into the Huff family)
+- **Abigail Moseley** (1778-1840; m. Silas Holloway, 23 Dec 1799 in Brunswick VA; WikiTree Moseley-3817)
+- **Amy Elizabeth (Moseley) Lynch**
+- Nelly, Sally, Dann, Sarah, Mary "Polly" Moseley (per Geni)
 
-Martha Patty Holloway died in 1811 per the GEDCOM. Samuel's own death date is recorded as 1811 (GEDCOM) or ~1801 (user instruction).
+**Holloway-Moseley-Huff intermarriage network:** The Brunswick County families were densely interconnected. Martha "Patty" Holloway's father **William Holloway** (c. 1734-1784) left a will dated 16 Oct 1784 (Brunswick County Will Book 2, pp. 422-23) naming wife Martha, sons Dan, Jesse, Asa, and Caleb, with executors Dan, Jesse, and Asa. The will was witnessed by **William Moseley Jr.** (likely Samuel's brother or close relative), confirming close ties between the Holloway and Moseley families. Samuel's daughter Rebecca married [[James_Huff]], whose mother was also a Holloway (Mary Holloway, wife of [[Daniel_Huff_Brunswick|Daniel Huff]]). Samuel's daughter Abigail married Silas Holloway (son of Obediah Holloway), creating another Moseley-Holloway intermarriage.
+
+By 1820, Samuel Mosley was living near James Huff and Philemon Huff in Greenville County, South Carolina (WikiTree Huff-446), indicating that Samuel also migrated from Virginia to South Carolina, consistent with the broader pattern of Southside Virginia families moving to the Greenville District.
+
+Martha Patty Holloway died c. 1811 in Brunswick, Virginia per WikiTree Holloway-58. Samuel died after 1810, in or near Meherrin, Brunswick, Virginia (WikiTree, GEDCOM).
 
 ## Document Sources
 
