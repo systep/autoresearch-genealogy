@@ -97,6 +97,34 @@ Research gaps and unresolved questions, organized by priority and family line. U
 ### 6. Richard Panciera's relationship to Kathryn
 - **RE-RESOLVED (2026-04-10)**: Richard Panciera was Kathryn's **THIRD HUSBAND**, not a sibling. Handwritten chart (IMG_0783-0785) clearly shows Kathryn's 4 marriages: (1) Paul Gaffney, (2) David [?], (3) Richard Panciera (Arizona, law), (4) Alan Carl Salmanson. The tree app displayed ex-spouses at sibling level, causing the original misidentification. **Lesson: tree apps display former spouses alongside siblings; always cross-reference with primary documents.**
 
+### 19. Daniel Huff of Brunswick County VA: parentage and connection to Bucks County Houghs
+- **The question**: Daniel Huff (c. 1710/1720-c. 1777) of Brunswick County, VA married Mary Holloway and was the father of James Huff (1768-1842). The pedigree chart incorrectly identifies him as Daniel Hough (b. 1693) of Bucks County, PA. WikiTree notes that Daniel Huff was "a probable brother, or other relative" of William Huff (c. 1710-bef. 1781, WikiTree Huff-1766), who also settled in Brunswick County. Is the connection to the Bucks County Quaker Hough family provable?
+- **Research done (2026-04-14)**: WikiTree Huff-1770 identifies Daniel Huff of Brunswick County with wife Mary Holloway and 1773 will. WikiTree Hough-149 identifies Daniel Hough of Bucks County (b. 1693) with wife Elizabeth Dudley. These are clearly different men. WikiTree Huff Name Study documents the surname transition but does not prove a specific generational link. The HuffHough Newsletter (FamilySearch #638426) contains Prof. Granville Hough's research.
+- **Next step**: (1) Obtain copies of the HuffHough Newsletter from FamilySearch. (2) Search Brunswick County VA deed records for "Hough" or "Huff" arrivals before 1753. (3) Check Isle of Wight County VA records where William Huff may have first lived.
+- **Solvability**: LOW (the link may be unprovable without documentary evidence of migration)
+- **Payoff**: MODERATE (would connect to the well-documented Quaker Hough line of Cheshire, England)
+
+### 20. William Thomas Long death date: 1887 or 1897?
+- **The question**: The headstone at Standing Springs reads "1825-1887." The pedigree chart gives "16 Oct 1897" with "age at death: 72." Born 1825 + age 72 = 1897, consistent with pedigree chart. Born 1825 and died 1887 = age 62, inconsistent with "age 72." The "8" in "1887" on the headstone may be a "9."
+- **Research done (2026-04-14)**: Searched Find a Grave for William Thomas Long at Standing Springs Cemetery; no memorial found. No web results confirmed either date.
+- **Next step**: (1) Re-examine headstone photo for digit clarity. (2) Search Greenville County death records for 1897. (3) Search Find a Grave directly for W.T. Long or William Long at Standing Springs Cemetery, Simpsonville SC. (4) Search 1900 census for wife Mary Elizabeth Huff Long (if she appears as widow, this confirms death before 1900).
+- **Solvability**: HIGH (headstone photo or death record would resolve)
+- **Payoff**: LOW (date clarification)
+
+### 21. Mary Brashier's parentage: is she connected to Thomas Levi Brasher Jr.'s family?
+- **The question**: Mary (Eliza) Brashier (b. 1806) married Lewis P. Huff. If she was a granddaughter of Thomas Levi Brasher Jr. (c. 1731-c. 1789), this would create another Brasher cross-marriage in the family network (alongside Elizabeth Brasher who married Ezekiel Henderson). A Genealogy.com forum post actively seeks Mary's parents.
+- **Research done (2026-04-14)**: Mary Brasher (b. c. 1760, daughter of Thomas Levi Brashier, who married James George Seaborn) is from an earlier generation. Mary Brashier (b. 1806) is more likely a granddaughter through Henry Collins Brasher (b. 1801, WikiTree Brasher-151) or Aquilla B. Brasher (b. c. 1772).
+- **Next step**: (1) Search WikiTree Brasher-151 (Henry Collins Brasher) for children. (2) Search Greenville County marriage records for Lewis Huff. (3) Search 1830-1840 census for Brasher/Brashier households in Greenville County to identify Mary's family of origin.
+- **Solvability**: MODERATE
+- **Payoff**: MODERATE (would add another intermarriage connection to the SC family cluster)
+
+### 22. Clementine Long: mother and grandmother of Larkin Long
+- **The question**: The pedigree chart (page 6) lists Larkin Long's mother as "Clementine Long" and his grandmother (also paternal) as "Clementine Long" (same name). No web results found for either Clementine Long in Greenville County SC.
+- **Research done (2026-04-14)**: Web search negative. No Geni, WikiTree, or census results found.
+- **Next step**: (1) Search 1820-1830 census for Long households in Greenville County with male of appropriate age. (2) Search Greenville County deed records for Long family land transactions. (3) Check if Thomas Long (married Rachel Cox, daughter of William Cox Sr.) has documented descendants named Larkin.
+- **Solvability**: LOW (minimal data)
+- **Payoff**: MODERATE (would extend the Long line by one or two generations)
+
 ## Resolved Questions
 
 ### R1. Missing Salmanson generations

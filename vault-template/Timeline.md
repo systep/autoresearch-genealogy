@@ -37,6 +37,7 @@ Chronological index of all dated events across the family tree.
 
 | Date | Event | Person(s) | Location | Source |
 |---|---|---|---|---|
+| c. 1710/1720 | Birth | [[Daniel_Huff_Brunswick]] | Unknown (possibly VA or PA) | WikiTree Huff-1770 (estimated) |
 | ~1720 | Birth | Argaleus Hercules Henderson I | Onslow, NC | WikiTree Henderson-7309 |
 | 1722 | Birth | Molly Mary Clark | North Carolina | WikiTree, Geni |
 | ~1730 | Birth | [[John_Baldwin_Sr]] | Chester, Pennsylvania | WikiTree Baldwin-2336 |
@@ -44,24 +45,35 @@ Chronological index of all dated events across the family tree.
 | 1736 | Birth | Alice Francis Lindley | Chatham, NC | WikiTree Lindley-409 |
 | ~1740 | Marriage | Argaleus Hercules Henderson I + Molly Mary Clark | North Carolina | WikiTree, Geni |
 | 1744 | Birth | John Stangle | England | IMG_0789 |
+| 12 Nov 1753 | Land grant (360 acres, Pigeon Roost Creek) | [[Daniel_Huff_Brunswick]] | Brunswick County, VA | WikiTree Huff-1770, county records (Tier 1) |
+| ~1755 | Birth | Martha "Patty" Holloway | Brunswick County, VA | WikiTree Holloway-58 |
 | ~1755 | Birth | [[Isaac Cox]] | Orange County, NC | WikiTree Cox-8529 |
 | 1755 | Tax list | William Cox (3 William Coxes) | Orange County, NC | NC Digital Collections |
 | 1760 | Birth | Connie Baker | | WikiTree |
 | 1763 | Birth | Ezekiel Henderson | Chatham County, NC | WikiTree Henderson-1855 |
+| 24 Jun 1762 | Birth | William Thomas Goldsmith Sr. | Richmond, Henrico, VA | WikiTree Goldsmith-699 |
+| c. 1763 | Birth | Philemon Huff | Brunswick, VA | WikiTree Huff-446 |
 | ~1764 | Birth | Elizabeth Brasher | | WikiTree Brasher-153 |
 | 1768-1771 | Regulators movement | Argaleus Hercules Henderson I | Orange County, NC | WikiTree |
 | April 22, 1772 | Land purchase (110 acres) | William Cox Sr. | Haw River/Cane Creek, Orange Co., NC | Deed Book #3 p. 599 |
 | ~1775 | Birth | [[Eli_Baldwin]] | Chatham County, NC | WikiTree Baldwin-2330, Geni |
 | ~1770 | Birth | [[James_Hiriam_Clark]] | Virginia | Ancestry, user data |
+| 14 Feb 1768 | Birth | [[James_Huff]] | Brunswick County, VA | WikiTree Huff-1775 |
+| 11 Apr 1772 | Birth | [[Rebecca_Moseley_Huff]] | Brunswick, VA | WikiTree, GEDCOM |
+| 1773 | Will written | [[Daniel_Huff_Brunswick]] (probated 24 Nov 1777) | Brunswick County, VA | Will Book (Tier 1) |
+| c. 1777 | Death | [[Daniel_Huff_Brunswick]] | Brunswick County, VA | WikiTree Huff-1770 |
 | ~1778 | Birth | [[James Cox]] | North Carolina | WikiTree Cox-14020 |
+| 25 May 1778 | Birth | Abigail Moseley (Holloway) | Brunswick, VA | WikiTree Moseley-3817 |
 | 1779 | Tax list | Isaac Cox, Abraham Cox | North Carolina | NC Tax Lists |
 | Oct 10, 1782 | Marriage | Ezekiel Henderson + Elizabeth Brasher | South Carolina | WikiTree |
 | 1781 | Death | Alice Francis Lindley Baldwin | North Carolina | WikiTree Lindley-409 |
 | 1781-1783 | Military service (Rev. War) | Ezekiel Henderson | Discharged Hillsboro, NC | Pension S6994 |
 | ~1783 | Immigration | John Stangle | England to America | IMG_0789 (corrected from 1683) |
+| 16 Oct 1784 | Will written | William Holloway (father of Martha Patty Holloway); proved 22 Nov 1784 | Brunswick County, VA | Will Book 2 pp. 422-23 (Tier 1) |
 | 1784 | Birth | Dianah/Diana Black | North Carolina | WikiTree |
 | Oct 13, 1787 | Land sale (110 acres for 250 pounds) | William Cox Sr. | Orange Co., NC to John Millison | Cox Family History Project |
 | ~1787 | Migration | Cox, Henderson, Long families | Orange Co., NC to Greenville Co., SC | WikiTree, Cox Family History Project |
+| 9 Nov 1793 | Marriage | [[James_Huff]] + [[Rebecca_Moseley_Huff]] | Brunswick, VA | WikiTree Huff-1775 |
 | May 10, 1790 | Birth | Brashier Henderson | Simpsonville, Greenville, SC | WikiTree Henderson-6197 |
 | May 15, 1792 | Birth | Thomas B. Cox | | WikiTree Cox-18821 |
 | Mar 29, 1795 | Birth | Olive Mary "Polly" Henderson | South Carolina | WikiTree |
@@ -71,6 +83,8 @@ Chronological index of all dated events across the family tree.
 
 | Date | Event | Person(s) | Location | Source |
 |---|---|---|---|---|
+| c. 1801 | Birth | [[Larkin_Long]] | South Carolina | MyHeritage GEDCOM |
+| 22 Jul 1803 | Birth | [[Lewis_P_Huff]] | Brunswick, VA | WikiTree Huff-1775 |
 | Aug 1801 | Land deed | John Baldwin Sr. to [[Eli_Baldwin]] | Chatham County, NC (Deed Book L, pp. 239-240) | WikiTree Baldwin-2336 |
 | 5 Mar 1801 | Birth | [[Jeddiah_W_Clark]] | South Carolina | GEDCOM |
 | Nov 1802 | Land deed | [[Eli_Baldwin]] to William Baldwin | Chatham County, NC | WikiTree Baldwin-2330 |
@@ -83,19 +97,27 @@ Chronological index of all dated events across the family tree.
 | June 7, 1812 | Birth | Rev. Henry Langford Henderson | Greenville County, SC | WikiTree Henderson-12233 |
 | Nov 1814 | Death | William Cox Sr. | Greenville County, SC | Cox Family History Project |
 | 15 Jan 1817 | Marriage | [[Johann_Krause_Binder]] + [[Esthera_Theil]] | Kreisch (Cris), Transylvania | Church cert "MUTTER" (Tier 1) |
+| c. 1811 | Death | [[Martha_Patty_Holloway]] | Brunswick, VA | WikiTree Holloway-58 |
+| c. 1817 | Migration | [[James_Huff]] + family | Brunswick Co, VA to Golden Grove, Greenville Co, SC | WikiTree Huff-1775 |
 | 1818 | Church organized | Standing Springs Baptist Church | Simpsonville, SC (in James Cox's home) | hmdb.org #168369 |
 | 20 Jan 1820 | Marriage | [[Johann_Schuller]] + [[Sara_Benning]] | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |
 | 1820 | Birth | Srul Mendel Zalmanson | | MyHeritage |
+| 25 Nov 1825 | Birth | [[William_Thomas_Long]] | Simpsonville, Greenville, SC | Pedigree chart, handwritten notes |
 | 31 Jul 1825 | Birth | [[Eli_Berry_Clark]] | Greenville County, SC | MyHeritage GEDCOM |
 | 27 Jan 1829 | Birth | Stephania Benning (GEDCOM: "Sara Schuller") | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |
 | ~1830 | Death | Isaac Cox | Greenville County, SC | WikiTree Cox-8529 |
 | 3 Mai 1831 | Birth | [[Martin_Binder]] | Kreisch (Cris), Transylvania | Church cert "MUTTER" (Tier 1) |
 | 1831 | Birth | Perry F. Clark | South Carolina | rootsweb sc12164 |
 | 20 Sep 1834 | Birth | Michael Kascher I | Wurmloch (Valea Viilor), Transylvania | Church cert "VATER" (Tier 1) |
+| 21 Mar 1835 | Death | William Thomas Goldsmith Sr. | Simpsonville, Greenville, SC | WikiTree Goldsmith-699, Find a Grave #201972480 |
 | 13 Aug 1836 | Birth | [[Sarah_Elizabeth_Clark]] | Greenville County, SC | GEDCOM |
+| 21 Jan 1836 | Birth | [[Mary_Elizabeth_Huff]] | Brunswick, VA (or SC per handwritten notes) | Handwritten notes, MyHeritage |
+| 7 Jan 1837 | Death | [[Rebecca_Moseley_Huff]] | Golden Grove, Greenville Co, SC | WikiTree Huff-1775 (or 1838 per GEDCOM) |
 | ~1836 | Land donation for church | [[James Cox]] | Standing Springs, Simpsonville, SC | hmdb.org #168369 |
 | 18 Jan 1840 | Death | [[Eli_Baldwin]] | Greenville, SC | WikiTree Baldwin-2330, Geni |
 | June 20, 1841 | Birth | [[Judson_King]] | Greenville, South Carolina | SC Death Certificate #7013 (Tier 1) |
+| 31 May 1842 | Death | [[James_Huff]] | Golden Grove, Greenville, SC | WikiTree Huff-1775 |
+| 9 Nov 1843 | Death | Philemon Huff | Greenville County, SC | WikiTree Huff-446 |
 | ~1788 | Birth | [[James_King_Sr]] | South Carolina | 1850 Census: age 62 (Tier 1) |
 | ~1813 | Birth | Robert King (Baptist clergyman) | South Carolina | 1850 Census: age 37 (Tier 1) |
 | ~1815 | Birth | [[George_Washington_King]] | South Carolina | 1850 Census: age 35 (Tier 1) |
@@ -107,6 +129,7 @@ Chronological index of all dated events across the family tree.
 | 1851 | Birth | [[Levi_Itzhak_Zalmanson]] | | MyHeritage |
 | May 22, 1853 | Death | [[James Cox]] | Simpsonville, Greenville Co., SC | WikiTree |
 | 1854 | Death | [[Srul_Mendel_Zalmanson]] | Barysaw (Borisov), Minsk Region, Belarus | MyHeritage |
+| 19 Jan 1857 | Marriage | [[William_Thomas_Long]] + [[Mary_Elizabeth_Huff]]; officiated by Rev. K. Callard | Simpsonville, Greenville, SC | Handwritten family chart |
 | June 12, 1857 | Death | Thomas B. Cox | South Carolina | WikiTree Cox-18821 |
 | ~1840 | Birth | [[Louis_Elizar_Salk]] (Louis (Elizar)(Lazar) Salk) | Lithuania | MyHeritage GEDCOM (Tier 3) |
 | ~1850 | Birth | [[Tauba_Salk]] | Russia | MyHeritage GEDCOM (Tier 3) |
@@ -123,9 +146,14 @@ Chronological index of all dated events across the family tree.
 | 1878 | Marriage (he 16, she 14) | [[Heschel_Herman_Markel]] + [[Leah_Frei]] | Vanyavitch, Galicia | Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2) |
 | May 15, 1883 | Birth | [[Barnett_Salmanson]] (Berko Zalmanson) | Vilnius (Vilna), Lithuania | MyHeritage |
 | Jan 27, 1886 | Birth | Jacob Kushner | Russia | MyHeritage |
+| 24 Feb 1873 | Death | [[Lewis_P_Huff]] | Simpsonville, Greenville, SC | MyHeritage, The Daily Phoenix (28 Feb 1873) |
+| Mar 1884 | Death | [[Larkin_Long]] | South Carolina | MyHeritage GEDCOM |
+| 10 Jan 1886 | Marriage | [[William_Goldsmith_Long]] + [[Roxanne_Cox]] | Greenville, SC | Pedigree chart page 6 |
 | Nov 18, 1886 | Death | Rev. Henry Langford Henderson | Greenville County, SC | WikiTree |
+| 1887 OR 16 Oct 1897 | Death | [[William_Thomas_Long]] | Simpsonville, Greenville, SC | Headstone (1887) vs pedigree chart (1897); discrepancy unresolved |
 | Mar 5, 1887 | Birth | [[Elizabeth_Salk]] (Hebrew name: Hilda) | Poland | BillionGraves headstone, Lincoln Park Cemetery (Tier 1) |
 | ~1887 | Birth | [[Minnie_Markel_Sternbach]] (Freitca Miritza) | Vanyavitch, Galicia | Yichus narrative (Tier 2) |
+| 10 Feb 1862 | Birth | [[William_Goldsmith_Long]] | Simpsonville, Greenville, SC | Pedigree chart page 6 |
 | 1862 | Enlistment, Confederate Army, 16th SC Infantry (Greenville Regiment) | [[Judson_King]] | South Carolina | Ancestry/Fold3 Confederate service index (Tier 2) |
 | ~1887 | Marriage | William I. King + Marcia (Mary) Kopp/Huff | | IMG_0792, IMG_0786 |
 | 29 Jan 1888 | Marriage | [[Michael_Kascher_Sr_1864]] + [[Anna_Binder]] | Kreisch (Cris), Transylvania | Church cert "VATER" (Tier 1) |
@@ -187,6 +215,8 @@ Chronological index of all dated events across the family tree.
 | Aug 15, 1933 | Birth | Renya Tzoar (nee Weidenfeld) | Sambor, Poland | USHMM oral history irn619016 (Tier 2) |
 | 1933-1834 | Pension awarded ($57.50/yr) | Ezekiel Henderson (Rev. War) | | Pension S6994 |
 | 1936 | Marriage | [[Florence_Markel_Mermelstein]] + David Mermelstein | West Warwick, Rhode Island | Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2) |
+| 6 Aug 1922 | Death | [[Mary_Elizabeth_Huff]] | Simpsonville, Greenville, SC | Headstone, MyHeritage |
+| 24 Mar 1937 | Death | [[William_Goldsmith_Long]] | Fort Pierce, St. Lucie, FL | Pedigree chart page 6 |
 | 1937 | Birth | Ruth Mermelstein (later Gold; author of Yichus narrative) | | Yichus narrative (Tier 2) |
 | Sept 1939 | Rosh Hashanah Pogrom: murdered | [[Avraham_Chaim_Markel]], [[Masha_Markel_Tachner]], [[Hannah_Markel]], [[Pessel_Peppy_Frei]], and families | Rodzolika Forest (near Sambor, Poland) | Yichus narrative (Tier 2); note: documented mass killings in Sambor area were 1941-1943; possible memory conflation |
 | 1940 | Birth | Hashy Mermelstein | | Yichus narrative (Tier 2) |

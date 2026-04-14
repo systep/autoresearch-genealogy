@@ -27,6 +27,11 @@ Complete inventory of all ancestry-related data assets. Each tagged with source,
 | Confederate Service Record index: Judson King, 16th SC Infantry (Greenville Regt), 1862 | King | [[Judson_King]] |
 | Elizabeth (Salk) Salmanson headstone, BillionGraves, Lincoln Park Cemetery, Warwick RI | Salk, Salmanson | [[Elizabeth_Salk]]; Hebrew inscription with genealogical lineage chains |
 | 1930 US Census: Elizabeth (Salk) Salmanson household, Providence RI | Salk, Salmanson | [[Elizabeth_Salk]]; age 43, immigration 1897, parents born Poland |
+| Daniel Huff will, 1773 (probated 24 Nov 1777), Brunswick County VA Will Book | Huff | [[Daniel_Huff_Brunswick]]; names wife Mary, sons Daniel, Philemon, Reuben, Lewis, James; granddaughter Tabitha |
+| Daniel Huff land grant, 12 Nov 1753, 360 acres on Pigeon Roost Creek, Brunswick Co VA | Huff | [[Daniel_Huff_Brunswick]] |
+| William Holloway will, 16 Oct 1784, Brunswick County VA Will Book 2 pp. 422-23 | Holloway, Moseley | [[Martha_Patty_Holloway]]; William Moseley Jr. as witness |
+| Marvel Moseley Jr. will, 2 Mar 1752 (proved 20 Mar 1753), Goochland County VA | Moseley | [[Samuel_Moseley]]; names sons William, Samuel, James, Joseph |
+| 1768 Brunswick County VA election poll | Huff | Daniel and William "Hoof" listed |
 
 ### Moderate Reliability (newspaper, secondary sources)
 

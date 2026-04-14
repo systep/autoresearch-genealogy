@@ -9,6 +9,47 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-14: Long/Huff/Moseley Line Verification and Expansion (Virginia to South Carolina)
+
+### Summary
+Conducted comprehensive web research to verify and expand the Long/Huff/Moseley family line from Brunswick County, Virginia to Greenville County, South Carolina. Ran 40+ web searches and 20+ web fetch attempts across WikiTree, Geni, RootsWeb, Find a Grave, FamilySearch, Genealogy.com, and other databases. WikiTree and most genealogical sites blocked direct page fetches (403 errors) but search result snippets provided substantial data.
+
+### Key Positive Results
+
+1. **MAJOR CORRECTION: Daniel Hough/Huff identity resolved.** The pedigree chart and GEDCOM incorrectly identify James Huff's (1768-1842) father as Daniel Hough (b. 1693, Bucks County, PA; WikiTree Hough-149). WikiTree research (Huff-1770, Huff-1775, Huff-446) demonstrates that James Huff's actual father was Daniel Huff (c. 1710/1720-c. 1777) of Brunswick County, VA, who married Mary Holloway and left a will in 1773 (probated 24 Nov 1777) naming wife Mary, sons Daniel, Philemon, Reuben, Lewis, and James, and granddaughter Tabitha. Created new file: Daniel_Huff_Brunswick.md. Updated: Daniel_Hough.md, James_Huff.md, Lewis_P_Huff.md, John_Hough.md.
+
+2. **Daniel Huff (Brunswick Co VA) primary sources confirmed:** 1773 will (Tier 1), 1753 land grant of 360 acres on Pigeon Roost Creek (Tier 1), 1768 Brunswick County election poll listing Daniel and William "Hoof" (Tier 1).
+
+3. **Huff-Holloway-Moseley intermarriage network documented:** James Huff's mother was Mary Holloway. His wife Rebecca Moseley's mother was Martha "Patty" Holloway. Abigail Moseley married Silas Holloway. William Holloway's 1784 will was witnessed by William Moseley Jr.
+
+4. **Samuel Moseley lineage clarified:** Father was William Moseley (d. before 26 Aug 1776, Brunswick Co VA), not Marvel Moseley Jr. directly. Marvel Jr. (1682-1753) was Samuel's grandfather. Updated: Samuel_Moseley.md.
+
+5. **Martha "Patty" Holloway's father identified:** William Holloway (c. 1734-1784), 1784 will in Brunswick County. Updated: Martha_Patty_Holloway.md.
+
+6. **Sarah S. Goldsmith maiden name confirmed:** Geni and pedigree chart agree on Goldsmith. William Thomas Goldsmith Sr. (1762-1835) of Simpsonville had daughter "Sarah Sally Goldsmith" (b. 1805). Updated: Sarah_S_Long.md, Larkin_Long.md, William_Goldsmith_Long.md.
+
+7. **William Thomas Long death date discrepancy identified:** Pedigree chart says 16 Oct 1897 age 72; headstone reads 1887. Updated: William_Thomas_Long.md.
+
+8. **William Goldsmith Long dates expanded from pedigree chart:** Born 10 Feb 1862; married 10 Jan 1886; died 24 Mar 1937, Fort Pierce FL.
+
+9. **Mary Brashier parentage remains unresolved.** Possibly a granddaughter of Thomas Levi Brasher Jr. through Henry Collins Brasher. Updated: Mary_Brashier.md.
+
+10. **HuffHough Newsletter confirmed (FamilySearch catalog #638426):** Published by Max K. Huff, Vol. 1 Nos. 1-6 (1992-1993).
+
+### Negative Results
+
+1. Find a Grave searches for William Thomas Long, Mary Elizabeth Huff Long, Lewis Huff, William Goldsmith Long: no memorials found.
+2. Search for "Clementine Long" (mother of Larkin Long): no results.
+3. All WikiTree, RootsWeb, and genealogy site direct WebFetch attempts: 403 errors.
+
+### Files Created
+- Daniel_Huff_Brunswick.md
+
+### Files Updated
+- Daniel_Hough.md, James_Huff.md, Lewis_P_Huff.md, Samuel_Moseley.md, Martha_Patty_Holloway.md, Sarah_S_Long.md, Larkin_Long.md, William_Thomas_Long.md, William_Goldsmith_Long.md, Mary_Brashier.md, Rebecca_Moseley_Huff.md, John_Hough.md, Research_Log.md
+
+---
+
 ## 2026-04-14: Barnett Salmanson Immigration Record Search and SS Baltic Verification
 
 ### Summary

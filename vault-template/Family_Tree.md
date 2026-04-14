@@ -322,6 +322,58 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 
 William Cox Sr. migrated to SC with the **Long** family. The large handwritten chart (IMG_0783) includes "Long" as a surname (possibly Charles Edward Long). This confirms the Cox-Long family connection.
 
+### Long / Huff / Moseley Families (Virginia to South Carolina)
+
+*Sources: Pedigree chart pages 6, 9, 10; WikiTree (Huff-1770, Huff-1775, Huff-446, Holloway-58, Moseley-3817, Goldsmith-699); handwritten family notes; headstone (Standing Springs)* **(moderate)**
+
+**Lineage: Daniel Huff (Brunswick Co VA, c. 1710/1720-c. 1777) > James Huff (1768-1842) > Lewis P. Huff (1803-1873) > Mary Elizabeth Huff (1838-1922) > William Goldsmith Long (1862-1937) > [[Rebecca_Moseley_Long]] (1898-1985)**
+
+**[[Daniel_Huff_Brunswick|Daniel Huff]]** (c. 1710/1720-c. 1777) (moderate)
+- King's grant: 360 acres, Pigeon Roost Creek, Brunswick Co VA, 12 Nov 1753
+- Wife: Mary Holloway
+- Will: 1773 (probated 24 Nov 1777); names wife Mary, sons Daniel, Philemon, Reuben, Lewis, James
+- **NOTE**: Pedigree chart incorrectly identifies father of James Huff as "Daniel Hough" of Bucks County PA. See [[Daniel_Hough]] for correction.
+
+**[[James_Huff]]** (14 Feb 1768, Brunswick Co VA - 31 May 1842, Golden Grove, Greenville Co SC) (moderate)
+- Son of Daniel Huff and Mary Holloway
+- Married: [[Rebecca_Moseley_Huff|Rebecca Moseley]] (11 Apr 1772 - 7 Jan 1837/38), 9 Nov 1793, Brunswick VA
+- Rebecca was daughter of [[Samuel_Moseley]] and [[Martha_Patty_Holloway]]
+- Migrated from Brunswick Co VA to Golden Grove, Greenville Co SC c. 1817
+- Children: Sarah, Mary H., Nellie, Martha Patsy, [[Lewis_P_Huff]], Amy, Philemon, Rebecca Jane (Payne)
+
+**[[Lewis_P_Huff]]** (22 Jul 1803, Brunswick VA - 24 Feb 1873, Simpsonville, Greenville SC) (moderate)
+- Son of James Huff and Rebecca Moseley
+- Married: [[Mary_Brashier]] (b. 1806; d. between 1841 and 1906)
+- Daughter: [[Mary_Elizabeth_Huff]] (21 Jun 1838, SC - 6 Aug 1922, Simpsonville)
+
+**[[Mary_Elizabeth_Huff]]** married **[[William_Thomas_Long]]** (25 Nov 1825 - 1887/1897, Simpsonville) (strong)
+- Marriage: 19 Jan 1857, by Rev. K. Callard
+- William Thomas was "1st son of [[Larkin_Long]] and Sarah Long"
+- Headstone: Standing Springs area, "William T. Long 1825-1887 / Elizabeth Huff__ 18?0-1922"
+- Children: [[William_Goldsmith_Long]] (1862-1937), James Louis Long
+
+**[[Larkin_Long]]** (c. 1801, SC - Mar 1884) (moderate)
+- Wife: [[Sarah_S_Long|Sarah S. Goldsmith]] (c. 1800/1805, SC)
+- Sarah likely daughter of William Thomas Goldsmith Sr. (1762-1835, Simpsonville)
+- Mother: Clementine Long (unverified)
+
+**[[William_Goldsmith_Long]]** (10 Feb 1862, Simpsonville - 24 Mar 1937, Fort Pierce FL) (strong)
+- Son of William Thomas Long and Mary Elizabeth Huff
+- Married: [[Roxanne_Cox]] (Rooksaner/Roxana) (21 Feb 1865 - 5 Dec 1912), 10 Jan 1886
+- Roxanne was daughter of Thomas Manning Cox and Sarah Elizabeth Clark
+- Middle name "Goldsmith" = grandmother Sarah S. Goldsmith's maiden name
+- Children: [[Rebecca_Moseley_Long]] (1898-1985)
+
+**[[Rebecca_Moseley_Long]]** (14 Sept 1898, Greenville SC - 1985) (strong)
+- Middle name "Moseley" = great-great-grandmother Rebecca Moseley (1772-1837/38)
+- Married: [[Albert_Graham_Bright]] (19 Aug 1893, Abingdon VA - 5 Sept 1961, Delray Beach FL), 2 Sept 1928, Johnson City TN
+
+#### Moseley Ancestry (Brunswick County, Virginia)
+
+**Marvel Moseley Jr.** (1682-1753, Goochland Co VA) > **William Moseley** (d. before 1776, Brunswick Co VA) > **[[Samuel_Moseley]]** (c. 1750, aft. 1810) + **[[Martha_Patty_Holloway]]** (c. 1755-c. 1811) > **[[Rebecca_Moseley_Huff]]** (1772-1837/38)
+
+William Holloway (c. 1734-1784, father of Martha "Patty") left a 1784 will witnessed by William Moseley Jr., confirming Holloway-Moseley family ties. Daughter Abigail Moseley (1778-1840) married Silas Holloway, another Moseley-Holloway intermarriage.
+
 ### Stangle Family (English/German Origin)
 
 *Source: IMG_0789.jpg* **(moderate)**
