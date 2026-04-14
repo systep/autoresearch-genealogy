@@ -67,8 +67,26 @@ His occupation was described as **"Founder and treasurer of Adams Drug Co. Inc. 
 | Martha E. Corin obituary, 2015 | Newspaper obituary | Jewish Rhode Island |
 | Adams Drug Company / Brooks Pharmacy | Encyclopedia | Wikipedia |
 
+## Immigration Record Verification (2026-04-14)
+
+The SS Baltic immigration claim (MyHeritage, Tier 3) has been partially verified:
+- **Ship confirmed**: RMS Baltic (White Star Line) was in active service on the Liverpool, New York route in December 1904 (Wikipedia, NorwayHeritage, GG Archives, multiple Tier 2 sources).
+- **Sailing confirmed**: A December 14, 1904 departure from Liverpool is documented in the GG Archives sailing schedule (Tier 2).
+- **Transit time consistent**: Liverpool to New York took approximately 7 to 9 days on the Baltic (maiden voyage: 7 days 13 hours). December 14 departure plus 9 days = December 23 arrival.
+- **Manifest NOT yet verified**: The actual Ellis Island passenger manifest listing "Berko Zalmanson" (or variant spelling) has NOT been independently located. All relevant databases require login or paid access: Statue of Liberty / Ellis Island Foundation (statueofliberty.org), JewishGen EIDB (jewishgen.org), FamilySearch collection 1368704 (familysearch.org), Ancestry collection 7488 (ancestry.com), Steve Morse One Step tools (stevemorse.org).
+- **NARA microfilm**: The manifest would be on NARA microfilm series T715 (Passenger and Crew Lists of Vessels Arriving at New York, 1897-1957, 8,892 rolls). The specific roll number for December 23, 1904 arrivals was not determined.
+- **Name spelling variations to search**: Berko Zalmanson, Berl Zalmanson, Berko Zalmanzon, B. Salmanson, Berko Salmanson. Immigration-era indexers frequently misspelled Eastern European names.
+
+### Records That Would Independently Confirm Immigration
+
+1. **Ellis Island passenger manifest** (NARA T715): Would list name, age (resolving birth year discrepancy), last residence, destination, amount of money, contact person in US. Searchable via Steve Morse One Step (stevemorse.org/ellis/passengers.php) or JewishGen EIDB (jewishgen.org/databases/eidb/).
+2. **Naturalization petition**: Rhode Island naturalization records (1802-1945) at NARA Waltham, MA and FamilySearch catalog 1378655. Post-1906 petitions list date and port of arrival, ship name, and last foreign residence. Barnett likely naturalized in Providence.
+3. **WWI Draft Registration Card**: FamilySearch collection 1968530 (free with login). Contains birth date, birthplace, citizenship status, employer, and physical description. Barnett registered in Providence, 1917-1918.
+4. **1920 Census**: Would list year of immigration and naturalization status. Not yet accessed.
+
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | Birth year | 1883 (MyHeritage family tree) | 1885 (MyHeritage records) | Unresolved. Both dates appear in different records. Age discrepancies of 1-2 years are common in immigration-era records. |
+| SS Baltic arrival | December 23, 1904 (MyHeritage, Tier 3) | Not independently verified | Ship and sailing date confirmed by Tier 2 sources; passenger manifest not yet located in free databases. Confidence: MODERATE (ship and date plausible, but individual record unverified). |
