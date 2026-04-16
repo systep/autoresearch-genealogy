@@ -1,14 +1,66 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-14
-last_session: "2026-04-14 Georg Kascher pre-1792 origins"
+updated: 2026-04-16
+last_session: "2026-04-16 Mary Brashier parentage research"
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-16: Mary Brashier Parentage Research
+
+### Summary
+Conducted 13 web searches to determine whether Mary (Eliza) Brashier (b. 1806, married Lewis P. Huff) connects to the Thomas Levi Brasher Jr. family of Greenville County, SC. Evaluated five candidate fathers (sons of Thomas Levi Jr.). Most genealogy profile pages (WikiTree, Geni, Rootsweb) returned 403 errors on direct fetch; data extracted from search result snippets and the "Empty Branches on the Family Tree" blog references.
+
+### Key Positive Results
+
+1. **Thomas Levi Brasher III (1765-1841) identified as strongest candidate father.** He is the only son of Thomas Levi Jr. who remained in Greenville County after 1800. Per "A Brazier/Brasher Saga" (Brashear and McCoy, 1998), his descendants specifically adopted the "Brashier" spelling. His known children: Elizabeth Brashier, Thomas Brashier, John Brasher Sr., Aquilla "Cassa" Brashier, Sarah Pyle (nee Brashier), Hannah Teague (nee Brashier). Not all children may be documented online; a Mary born 1806 would fit within his childbearing years. Sources: Geni Thomas Brasher III profile, WikiTree Brasher-122, Empty Branches blog, "A Brazier/Brasher Saga" references.
+
+2. **Henry Collins Brasher Sr. (1771-1852) evaluated and downgraded.** Married Eleanor Ashmore c. 1795; had 7 children (5 named: Jane Cynthenia, John Andrew Jackson, Henry Jr. b. 1801, Samuel Henry Sr., Richard Harrison). Two unnamed children could theoretically include Mary. However, Henry Collins moved to Shelby County, Alabama c. 1817, making it unlikely his daughter remained in Greenville to marry Lewis Huff there. Sources: WikiTree Brasher-121, Brasher-151; Find a Grave #66620694; Geni Henry Brasher Sr. profile.
+
+3. **Aquilla B. Brasher (c. 1772-c. 1842) eliminated.** Moved to western KY after 1800. His four documented children (Lawrence, Thomas, Jane, Aquilla Jr.) do not include a Mary. Sources: WikiTree Brasher-147; Empty Branches blog "Aquilla Brasher & Mary: Who Are Their Children?"
+
+4. **Lawrence Aquilla Brasher (1801-1862) had daughter Mary Ann Brasher, but she is a different person.** Lawrence Aquilla (grandson of Thomas Levi Jr., through Lawrence Brasher) married Frances Henderson c. 1818-1820. His daughter Mary Ann Henderson Brasher was likely born in the 1820s-1830s, not 1806. Also, Lawrence Aquilla's children are well-documented (13 children total on WikiTree Brasher-467) and this Mary Ann is accounted for separately. Sources: WikiTree Brasher-467, Rootsweb Fayette AL descendants page.
+
+5. **"Brashier" spelling confirmed as Greenville-specific.** "A Brazier/Brasher Saga" states: "Thomas L. Brasher remained in Greenville, where many of his descendants spelled the surname Brashier." This is significant because Mary used the Brashier form, directly linking her to the Thomas III line rather than the branches that left Greenville. Sources: Genealogy.com forum references to "A Brazier/Brasher Saga."
+
+6. **Parentage confirmed as community brick wall.** A Genealogy.com forum post (undated) seeks information about "Mary (Brauser) Huff (after 1815, about 1850) from Greenville, South Carolina" and asks about her parents. WikiTree G2G has a similar unresolved inquiry. This is not just our gap; it is an open question in the Brasher research community.
+
+### Negative Results (Logged)
+
+| Search | Database | Date | Result |
+|---|---|---|---|
+| WikiTree Mary Brashier married Lewis Huff Greenville SC | WikiTree (web search) | 2026-04-16 | Profile Huff-142 confirmed. No parentage for Mary. |
+| Henry Collins Brasher children daughters Mary born 1806 | WikiTree, Geni (web search) | 2026-04-16 | 5 of 7 children named. No Mary found among named children. |
+| Geni Brashier/Brasher family Greenville County SC 1800s | Geni | 2026-04-16 | Multiple profiles found. No Mary b. 1806 specifically listed. |
+| WikiTree Brasher-151 (Henry Collins Jr.) direct fetch | WikiTree | 2026-04-16 | 403 error. |
+| WikiTree Brasher-121 (Henry Collins Sr.) direct fetch | WikiTree | 2026-04-16 | 403 error. |
+| Empty Branches blog Brasher category direct fetch | emptybranchesonthefamilytree.com | 2026-04-16 | 403 error. |
+| Geni Henry Collins Brasher Sr. direct fetch | Geni | 2026-04-16 | 403 error. |
+| Rootsweb Fayette AL Brasher descendants direct fetch | Rootsweb | 2026-04-16 | 403 error. |
+| FamilySearch Thomas Levi Brasher III page direct fetch | FamilySearch | 2026-04-16 | 403 error. |
+| Genealogy.com Glenn Brazier tree direct fetch | Genealogy.com | 2026-04-16 | 403 error. |
+| Rootsweb tree 240183 direct fetch | Rootsweb | 2026-04-16 | 403 error. |
+| Find a Grave Brasher/Brashier Simpsonville SC | Find a Grave | 2026-04-16 | Found later Brashier burials (Andrew J. b. 1867; Austin b. 1920) at Standing Springs/Simpsonville. No early 19th century Brashier burials found. |
+| "Brasher Saga" Mary Brasher/Brashier Greenville | Genealogy.com forums | 2026-04-16 | Book confirmed as comprehensive (532 pages, 8,000 family members). Not directly consulted. |
+
+### Assessment
+
+Mary Brashier (b. 1806) is almost certainly a granddaughter of Thomas Levi Brasher Jr. through the Thomas Levi Brasher III (1765-1841) line. The key evidence: (a) the "Brashier" spelling is specific to descendants who stayed in Greenville, and Thomas III is the only son who remained; (b) Mary's birth year of 1806 fits; (c) Thomas III's children are incompletely documented online, leaving room for an undocumented daughter. The previous suggestion that Henry Collins Brasher (b. 1801) was her father is chronologically impossible (he was only 5 years older), and Henry Collins Brasher Sr. moved to Alabama by 1817. Confidence: SPECULATIVE. The decisive record would be "A Brazier/Brasher Saga" (1998) by Brashear and McCoy, which covers 8,000 family members and likely documents Thomas III's complete family.
+
+### Next Steps
+1. Obtain and consult "A Brazier/Brasher Saga" by Brashear and McCoy (1998). Available for order from Genealogy.com; may also be in genealogical libraries.
+2. Search 1820 and 1830 Greenville District census for Brashier/Brasher households with females in the correct age range.
+3. Search Greenville County marriage records for Lewis Huff marriage bond (would name Mary's father or guardian).
+4. Check SC Will Book Vol A-B 1787-1820 for Thomas Levi Brasher III's will (would name children).
+
+### Files Updated
+- `Mary_Brashier.md`: Rewrote biography section with full parentage analysis. Added Parentage Hypothesis table. Updated sources list.
+- `Open_Questions.md`: Updated #21 with research results.
+- `Research_Log.md`: This entry.
 
 ## 2026-04-14: Georg Kascher Pre-1792 Wurmloch Origins Research
 
