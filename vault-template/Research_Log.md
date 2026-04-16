@@ -2,13 +2,85 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-16
-last_session: "2026-04-16 Mary Brashier parentage research"
+last_session: "2026-04-16 Bella Measroch research"
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-16: Bella Measroch Research (Levi Itzhak Zalmanson's Second Wife)
+
+### Summary
+Conducted 10 web searches to investigate Bella Measroch, listed as Levi Itzhak Zalmanson's second wife on MyHeritage. Searched Geni, JewishGen, MyHeritage, loebtree.com, forebears.io, namespedia.com, and South African genealogical databases. No biographical details (dates, children, location) for Bella herself were found. The Measroch surname was identified as extremely rare (approximately 12 occurrences worldwide in 4 countries) with a concentration in South Africa, consistent with Lithuanian Jewish immigration patterns (90% of South African Jews are Litvaks).
+
+### Searches Conducted
+
+**Search 1: "Bella Measroch Zalmanson MyHeritage"**
+- **Result**: NEGATIVE for specific profile. MyHeritage did not surface a public profile for Bella Measroch Zalmanson. A PeekYou result confirmed the Measroch surname exists on social media. A LinkedIn profile for Leanne Measroch (Microsoft employee) was found, confirming the surname is still in use.
+
+**Search 2: "Measroch surname Jewish Lithuania genealogy"**
+- **Result**: NEGATIVE for Measroch specifically. Returned general Lithuanian Jewish genealogy resources (LitvakSIG, JewishGen, FamilySearch). The surname "Measroch" does not appear in any Lithuanian Jewish surname database indexed by search engines.
+
+**Search 3: Geni.com Measroch family**
+- **Result**: POSITIVE. Geni.com has **32 profiles** for the Measroch surname. Page returned 403 on direct fetch.
+
+**Search 4: "Measroch" JewishGen surname distribution**
+- **Result**: NEGATIVE on JewishGen. However, forebears.io has a "Masroh" page (possible variant). Namespedia.com has a Measroch entry stating the surname is "used at least 12 times in at least 4 countries." Both pages returned 403 on fetch.
+
+**Search 5: loebtree.com Zalmanson Bella Measroch**
+- **Result**: PARTIALLY POSITIVE. The loebtree.com ZALMANSON family tree page exists (http://www.loebtree.com/zalmanson.html) but returned 403 on direct fetch. Search snippets confirmed the page covers the Zalmanson/Schneersohn connection but did not surface "Bella" or "Measroch" in snippets.
+
+**Search 6: Measroch surname origin etymology South Africa Jewish**
+- **Result**: POSITIVE for surname distribution. The ancestor.co.za site has a MEASROCH page (South African family research). Simeon Julian Measroch married in Durban, Natal, South Africa on May 25, 1917. Pete/Peter Measroch was a musician in Durban in the 1960s/70s. The surname is concentrated in South Africa with a Lithuanian Jewish immigration context.
+
+**Search 7: "Simeon Measroch" OR "Julian Measroch" Durban South Africa**
+- **Result**: PARTIALLY POSITIVE. Confirmed Pete/Peter Measroch of Durban (musician, Abstract Truth band). The South African justice.gov.za estates database lists Measroch entries. No direct connection to the Zalmanson family established.
+
+**Search 8: Geni "Bella Measroch" OR "Beila Measroch" Zalmanson wife Lithuania**
+- **Result**: NEGATIVE. No results returned.
+
+**Search 9: "Levi Itzhak Zalmanson" wife Geni MyHeritage**
+- **Result**: NEGATIVE for the grandson (b. 1851). All results returned the grandfather Rabbi Levi Yitzchok Zalmanson (1812-1872) and his wife Dvorah Leah Schneersohn. The grandson's Geni profile does not appear in search engine results.
+
+**Search 10: Geni "Srul Mendel Zalmanson" son "Levi" wife Measroch**
+- **Result**: NEGATIVE. Only the grandfather's Geni page appeared.
+
+### Key Findings
+
+1. **Bella Measroch remains unverifiable through free web search.** No biographical details (birth/death dates, children, location) were found for Bella herself. The only source remains the MyHeritage GEDCOM/family tree (Tier 3).
+
+2. **The Measroch surname is extremely rare** (approximately 12 occurrences worldwide, 4 countries) and concentrated in **South Africa**, which is consistent with Lithuanian Jewish origin. 90% of South African Jews descended from Lithuanian immigrants (vilnews.com).
+
+3. **South African Measrochs are documented.** Simeon Julian Measroch married in Durban, 1917. Pete/Peter Measroch was active in Durban in the 1960s-70s. The surname appears in South African estate records (justice.gov.za). Leanne Measroch (contemporary) works at Microsoft.
+
+4. **Geni has 32 Measroch profiles**, but the page returned 403 on automated access. Manual browser access is required to determine whether these profiles include Bella and whether any connect to the Zalmanson family.
+
+5. **Rochel Tsine Deych's estimated death date (~July 26, 1935)** is already documented in the vault. If correct, this makes a sequential marriage plausible: Levi Itzhak could have married Bella after Rochel Tsine's death (though Levi Itzhak would have been approximately 84 years old in 1935, making a late remarriage unlikely). More likely, if the marriages were sequential, Rochel Tsine may have died earlier than the estimated date, or Bella was an earlier wife. The 1935 date is marked as estimated and sourced from the US Obituary Index, which may refer to something other than actual death date.
+
+6. **loebtree.com Zalmanson page** exists but could not be fetched. This remains the most likely free source to contain information about Bella Measroch, as it is the user-contributed tree that likely feeds MyHeritage.
+
+### Assessment
+
+**Confidence: SPECULATIVE.** Bella Measroch's existence as Levi Itzhak's wife rests on a single Tier 3 source (MyHeritage user-contributed tree). No corroborating source found. The surname's rarity and South African concentration may indicate that the Measroch family emigrated from Lithuania to South Africa rather than to the United States, which would explain why Bella does not appear in US records.
+
+**Possible scenarios:**
+- (a) Bella was a second wife after Rochel Tsine's death (sequential marriage). This requires Rochel Tsine to have died earlier than 1935, or Levi Itzhak to have remarried at a very advanced age.
+- (b) Bella was a first wife before Rochel Tsine (Levi Itzhak married Bella first, she died young, then he married Rochel Tsine in 1877). This would mean Bella died before approximately 1877.
+- (c) The MyHeritage entry is a data error (wrong person linked as spouse, or a Geni merge error combining two different Levi Itzhak Zalmansons).
+
+### Next Steps (HUMAN ACTION REQUIRED)
+1. **Browse Geni.com Measroch surname page** (geni.com/surnames/measroch) manually in browser to review all 32 profiles. Check for Bella and any Zalmanson connections.
+2. **Browse loebtree.com/zalmanson.html** manually to check for Bella Measroch.
+3. **Search MyHeritage directly** (login required) for Bella Measroch's profile and check what family tree she appears in, who added her, and what sources are cited.
+4. **Search SA Jewish Rootsbank** (jewishroots.uct.ac.za) for Measroch entries to establish the family's Lithuanian town of origin.
+5. **Search JewishGen Family Finder** for researchers investigating the Measroch surname.
+
+### Files Updated
+- `Levi_Itzhak_Zalmanson.md`: Added research notes on Bella Measroch investigation.
+- `Open_Questions.md`: Updated #5 with full research findings.
+- `Research_Log.md`: This entry.
 
 ## 2026-04-16: Mary Brashier Parentage Research
 

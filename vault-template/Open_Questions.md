@@ -1,7 +1,7 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-14
+updated: 2026-04-16
 tags: [genealogy, research, open-questions]
 ---
 
@@ -90,8 +90,10 @@ Research gaps and unresolved questions, organized by priority and family line. U
 
 ### 5. Bella Measroch (Levi Itzhak's second wife)
 - **The question**: Levi Itzhak Zalmanson had two wives: Rochel Tsine Deych and Bella (born Measroch). Who was Bella? Were the marriages sequential (after Rochel Tsine's death) or was one a replacement for a data error?
-- **Next step**: Check Bella Measroch's profile on MyHeritage. Check if Rochel Tsine has a death date.
-- **Solvability**: MODERATE
+- **Searched (2026-04-16, 10 searches)**: Web searches across Geni, MyHeritage, JewishGen, loebtree.com, forebears.io, namespedia.com, ancestor.co.za, and general genealogy databases. No biographical details (dates, children, location) found for Bella herself. The Measroch surname is extremely rare (approximately 12 occurrences worldwide, 4 countries) and concentrated in **South Africa**, consistent with Lithuanian Jewish immigration (90% of SA Jews are Litvaks). Simeon Julian Measroch married in Durban, Natal, SA, 1917. Pete Measroch was active in Durban 1960s-70s. Geni has 32 Measroch profiles (403 on automated access). The loebtree.com Zalmanson page also returned 403. Rochel Tsine Deych's estimated death date (~July 26, 1935) is already documented; if correct, a late remarriage for 84-year-old Levi Itzhak is unlikely, suggesting either Bella was an earlier wife, Rochel Tsine died earlier than estimated, or the entry is a data error.
+- **Assessment**: SPECULATIVE. Single Tier 3 source (MyHeritage user-contributed tree). No corroboration found. The surname's South African concentration suggests the Measroch family may have emigrated from Lithuania to South Africa rather than to the US. A person file for Bella is NOT warranted at this time (fails criterion: no primary source, insufficient biographical detail).
+- **Next step (HUMAN ACTION REQUIRED)**: (1) Browse Geni.com/surnames/measroch manually (32 profiles). (2) Browse loebtree.com/zalmanson.html manually. (3) Search MyHeritage directly (login required) for Bella Measroch's profile, check source tree and who added her. (4) Search SA Jewish Rootsbank (jewishroots.uct.ac.za) for Measroch entries. (5) Search JewishGen Family Finder for Measroch surname researchers.
+- **Solvability**: LOW (the MyHeritage profile is the only known source; it may be an unsourced user entry or Geni merge artifact)
 - **Payoff**: LOW
 
 ### 6. Richard Panciera's relationship to Kathryn
