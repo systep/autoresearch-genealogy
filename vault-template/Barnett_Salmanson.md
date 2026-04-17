@@ -6,6 +6,8 @@ died: 1960-12-14
 family: "Salmanson"
 confidence: strong
 sources:
+  - "WWI Draft Registration Card, Sept 12, 1918, Providence RI, Division 3 (Tier 1)"
+  - "BillionGraves headstone, Lincoln Park Cemetery (Tier 1)"
   - "MyHeritage family tree (19 matches)"
   - "MyHeritage immigration record (SS Baltic)"
   - "MyHeritage military record (WWI)"
@@ -88,5 +90,9 @@ The SS Baltic immigration claim (MyHeritage, Tier 3) has been partially verified
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Birth year | 1883 (MyHeritage family tree) | 1885 (MyHeritage records) | Unresolved. Both dates appear in different records. Age discrepancies of 1-2 years are common in immigration-era records. |
+| Birth year | **1883** (BillionGraves headstone, Tier 1; MyHeritage tree) | **May 15, 1885** (WWI Draft Card, Tier 1, self-declared age 33 in Sept 1918; MyHeritage records) | **OPEN: Two Tier 1 sources conflict.** 1930 Census age 46 (~1884) splits the difference. The draft card is the registrant's own declaration; the headstone was carved after death by family. Possible explanations: (a) real birth 1883, age understated on arrival/draft; (b) real birth 1885, headstone used approximate Hebrew calendar conversion; (c) the SS Baltic manifest (if found) would give age at 1904 arrival and resolve definitively. |
 | SS Baltic arrival | December 23, 1904 (MyHeritage, Tier 3) | Not independently verified | Ship and sailing date confirmed by Tier 2 sources; passenger manifest not yet located in free databases. Confidence: MODERATE (ship and date plausible, but individual record unverified). |
+| Citizenship | Box 12 checked on WWI Draft Card: "Citizen by Father's Naturalization Before Registrant's Majority" (Tier 1) | No other evidence of Levi Itzhak Zalmanson in the US | **SIGNIFICANT.** If accurate, this means Barnett's father Levi Itzhak was in the US and naturalized before Barnett turned 21 (~1904-1906). No other source documents Levi Itzhak's immigration. Possible explanations: (a) Levi Itzhak immigrated and naturalized (undocumented); (b) registrar checked wrong box (should be box 11 "Naturalized"); (c) Barnett misunderstood the question. Investigate NARA naturalization records for both Barnett and Levi Itzhak in Providence. |
+| Occupation | "Manager, Excello Braid Co." (WWI Draft Card, 1918, Tier 1) | Adams Drug founding 1932/1933 | Barnett was in textile manufacturing before entering the drugstore business. Excello Braid Co. was at 218 Prairie(?) Ave, Providence, RI. |
+| Address | 236 Sterling Ave, Providence RI (1918 draft card) | 60 Chalkstone Ave (Abraham Salk death cert, 1925) | Different addresses; 236 Sterling was Barnett and Elizabeth's home; 60 Chalkstone was Abraham Salk's home. |
+| Physical description | Medium height, medium build, blue eyes, black hair (1918 draft card, Tier 1) | | First physical description of Barnett. |
