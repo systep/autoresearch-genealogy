@@ -43,7 +43,18 @@ Based on generational analysis: Heshel Markel was born 1862 (Tier 2). Dov (Heshe
 
 "Nissen" (Yiddish: Nisn) derives from Hebrew Nisan, the Jewish month during which Passover takes place, traditionally given to boys born in that month. "Mendel" is a Yiddish diminutive of Menachem. The double given name "Nissen Mendel" follows Ashkenazic naming conventions where two Hebrew/Yiddish names were paired. The surname "Markel" is documented in Alexander Beider's "A Dictionary of Jewish Surnames from Galicia" (Avotaynu, 2004); it derives from the Yiddish personal names Markl/Merkl, hypocoristic forms of Marcus/Markward, which were also used as vernacular equivalents of the Biblical name Mordecai.
 
-Confidence: Low. Single Tier 2 source (Yichus narrative) provides only the name and position in the patrilineal chain. No corroboration from independent sources. No vital records found.
+Confidence: **Low / Unverified**. Single Tier 2 source (Yichus narrative) provides only the name and position in the patrilineal chain. No corroboration from independent sources. No vital records found.
+
+## Update 2026-04-17 — Tier 1 data does NOT name Nissen Mendel
+
+The 2026-04-17 Gesher Galicia sweep confirmed Hersch Markel's father as **[[Dov_Markel|Mordko Ber Markiel]]** (AGAD Fond 424 File 103 Record 34, Tier 1). The 1894 civil marriage register does NOT record grandparent-generation data, so Nissen Mendel is neither confirmed nor contradicted as Mordko Ber's father. He remains in the vault as the Yichus-tradition attribution but should be considered **unverified until a primary source is located**. The Sambor Jewish registers (births 1825-1861, deaths, and earlier marriages) that might document Nissen Mendel were searched in the sweep for "Nissen"+"Markel"/"Markiel" with zero results in AGD. JRI Poland shows 4 partner-DB results for "Nissen"+"Markel" that have not yet been examined — a priority follow-up.
+
+Possible interpretations:
+1. **Tradition is accurate** — Nissen Mendel was Mordko Ber's father, born too early (c. 1800-1820) to appear in surviving Sambor registers, and the 4 JRI Poland partner hits may include him.
+2. **Tradition misremembers a generation** — Nissen Mendel may have been Mordko Ber's grandfather (great-grandfather of Hersch) rather than his father, or an uncle transposed one generation by oral tradition.
+3. **Tradition is confused** — Nissen Mendel may refer to a different ancestor on a different line (e.g., wife's family), later absorbed into the Markel patrilineal tradition.
+
+Priority follow-up: check the 4 JRI Poland partner results for Nissen Markel / Markiel, then decide which interpretation fits.
 
 ## Research Notes (2026-04-12)
 

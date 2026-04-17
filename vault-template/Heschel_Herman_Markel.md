@@ -4,13 +4,16 @@ name: "Heschel Herman Markel"
 born: 1862
 died: 1916
 family: "Markel"
-confidence: moderate
+confidence: strong
 sources:
+  - "AGAD Warsaw, Fond 424, File 103, Record 34, Scan 52 (Sambor Jewish Marriages 1891-1897, Tier 1; marriage to Lea Frei 21 Aug 1894)"
+  - "AGAD Warsaw, Fond 424, File 212, Record 65, Page 315 (Sambor Jewish Marriage Banns 1904-1926, Tier 1; his son Mojzesz Majer's 1919 marriage names Hersch as innkeeper, Waniowice)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500052)"
   - "MyHeritage Smart Match (Geni)"
   - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
 created: 2026-04-10
-tags: [genealogy, markel, person, galicia, jewish, tier-2]
+updated: 2026-04-17
+tags: [genealogy, markel, person, galicia, jewish, tier-1, waniowice, sambor]
 ---
 
 # Heschel Herman Markel
@@ -19,27 +22,31 @@ tags: [genealogy, markel, person, galicia, jewish, tier-2]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Heshel Markel (also: Heschel Herman Markel) | GEDCOM; Yichus narrative (Tier 2) |
+| Full Name | **Hersch Markel** (civil; marriage register) / Heshel Markel (Yichus) / Heschel Herman Markel (GEDCOM) | 1894 marriage (Tier 1); Yichus (Tier 2); GEDCOM |
 | Born | 1862 | GEDCOM; Yichus narrative (Tier 2) |
-| Birthplace | Vanyavitch, Galicia (near Lemberg/Lviv, near Sombor, near Cracow; Austria/Poland; now Ukraine) | GEDCOM; Yichus narrative (Tier 2) |
+| Birthplace | **Waniowice** (Yichus: "Vanyavitch"), Sambor district, Galicia (now western Ukraine) | 1894 marriage record (Tier 1; confirms Waniowice residence); GEDCOM; Yichus |
 | Died | 1916 (age 53-54) | GEDCOM; Yichus narrative (Tier 2) |
 | Burial | Unknown | |
-| Father | [[Dov_Markel]] | GEDCOM; Yichus narrative (Tier 2) |
-| Paternal Grandfather | [[Nissen_Mendel_Markel]] | Yichus narrative (Tier 2) |
-| Mother | [[Wife_Markel]] (unknown name) | GEDCOM |
+| **Occupation** | **Innkeeper** (*Schenker* / karczmarz) in Waniowice | AGAD Fond 424 File 212 (1919 banns for son Mojzesz Majer, Tier 1) |
+| Father | **[[Dov_Markel\|Mordko Ber Markiel]]** of Waniowice | 1894 marriage (Tier 1) |
+| Paternal Grandfather | [[Nissen_Mendel_Markel]] | Yichus narrative (Tier 2 only; NOT corroborated by primary source; see Data Discrepancies) |
+| Mother | **[[Henie_Markel]]** of Waniowice (surname on marriage record shown as MARKEL; maiden name possibly unrecorded) | 1894 marriage (Tier 1) |
 | Brother | Mattis Markel | Yichus narrative (Tier 2) |
-| Spouse | [[Leah_Frei]] (b. 1864; d. 1940; m. 1878) | GEDCOM; Yichus narrative (Tier 2) |
-| Marriage | 1878 (he was 16, she was 14) | Yichus narrative (Tier 2) |
-| Children (total) | 14 born, 6 died in childhood, 8 surviving | Yichus narrative (Tier 2) |
-| Surviving Children (birth order per Yichus narrative) | 1. [[Minnie_Markel_Sternbach]] (Freitca Miritza, 1887-1975); 2. [[Masha_Markel_Tachner]] (Mashe, d. 1939, Pogrom); 3. [[Morris_Markel]] (Moishe Myer); 4. [[Sarah_Markel_Tachner]] (Tsirl); 5. [[Avraham_Chaim_Markel]] (d. 1939, Pogrom); 6. [[Hannah_Markel]] (d. 1939, Pogrom); 7. [[Florence_Markel_Mermelstein]] (Sura Feiga, 5/15/1909-11/24/1990); 8. [[Pessel_Peppy_Frei]] (Pessel/Peggy, d. 1939/1940, Pogrom) | Yichus narrative (Tier 2) |
+| Spouse | **[[Leah_Frei]]** (b. c. 1864-1865, age 29 in 1894; d. 1940), of Waniowice | 1894 marriage (Tier 1); Yichus |
+| Marriage (civil registration) | **21 August 1894**, Sambor Jewish Marriages register. Leah's age recorded as 29. | AGAD Fond 424 File 103 Record 34 (Tier 1) |
+| Marriage (religious tradition) | 1878 per Yichus (he 16, she 14); see Data Discrepancies for reconciliation | Yichus narrative (Tier 2) |
+| Father-in-law | **[[Yoseph_Frei\|Jozef Frei]]** of Waniowice | 1894 marriage (Tier 1) |
+| Mother-in-law | **[[Toba_Rivka_Frei\|Taube Frei]]** of Waniowice | 1894 marriage (Tier 1) |
+| Children (total) | 14 born, 6 died in childhood, 8+ surviving | Yichus narrative (Tier 2) |
+| Surviving Children (documented) | 1. [[Minnie_Markel_Sternbach]] (Freitca Miritza, 1887-1975); 2. [[Masha_Markel_Tachner]] (Mashe, d. 1939, Pogrom); 3. [[Morris_Markel]] (Moishe Myer); 4. [[Sarah_Markel_Tachner]] (Tsirl); 5. [[Avraham_Chaim_Markel]] (d. 1939, Pogrom); 6. [[Hannah_Markel]] (d. 1939, Pogrom); 7. [[Florence_Markel_Mermelstein]] (Sura Feiga, 5/15/1909-11/24/1990); 8. [[Pessel_Peppy_Frei]] (Pessel/Peggy, d. 1939/1940, Pogrom); 9. **[[Mojzesz_Majer_Markiel]]** (b. Waniowice, merchant in Sambor, m. Dwora Goldbaum/Brand 1919, NEW via Gesher Galicia sweep 2026-04-17) | Yichus (1-8, Tier 2); 1919 marriage banns (9, Tier 1) |
 
 ## Biography
 
-Heshel Markel (also recorded as Heschel Herman Markel) was born in 1862 in Vanyavitch, Galicia. The Yichus narrative locates this village as "near Lemberg" (Lviv), "near Sombor," and "near Cracow," in Galicia under Austria/Poland (now Ukraine) (Yichus narrative, Tier 2).
+Heshel (civil name Hersch) Markel was born in 1862 in Waniowice (Yichus: "Vanyavitch"), a village in the Sambor administrative district of Galicia (now Sambir Raion, Lviv Oblast, Ukraine). Waniowice as the family's village of origin is now confirmed at Tier 1 by the **21 August 1894 Sambor Jewish marriage register** (AGAD Warsaw, Fond 424, File 103, Record 34), which lists Hersch, his parents, his bride Lea Frei, and her parents all as from Waniowice. The 1919 marriage banns for his son Mojżesz Majer (AGAD Fond 424, File 212, Record 65) again places Hersch in Waniowice 25 years later, as an **innkeeper** — a new occupational detail unlocked by the 2026-04-17 Gesher Galicia sweep.
 
-Heshel's patrilineal line: [[Nissen_Mendel_Markel]] (great-grandfather) to [[Dov_Markel]] (father) to Heshel (Yichus narrative, Tier 2). His mother's name is unknown, recorded only as [[Wife_Markel]] (GEDCOM). Heshel had a brother named **Mattis** (Yichus narrative, Tier 2).
+Heshel's patrilineal line: **Mordko Ber Markiel → Heshel** is now confirmed at Tier 1 by the 1894 marriage record, which lists Hersch's father as **"Mordko Ber MARKIEL"** of Waniowice. The Yichus narrative's earlier attribution of Heshel's father as "Dov" is reconciled by noting that "Mordko Ber" is a Yiddish compound name (Mordko = Mordechai; Ber = Yiddish for bear = Hebrew Dov); family oral tradition preserved only the "Dov/Ber" component. The previously-hypothesized grandfather **[[Nissen_Mendel_Markel]]** is NOT corroborated by the 1894 civil record (which names only the father's generation) and rests on Yichus tradition alone (Tier 2). Heshel's mother is now identified as **[[Henie_Markel]]** of Waniowice (same 1894 marriage record, Tier 1), where previously the vault recorded only [[Wife_Markel]] with no name. Heshel had a brother **Mattis** (Yichus narrative, Tier 2).
 
-Heshel married [[Leah_Frei]] (b. 1864; d. 1940) in **1878**, when he was 16 and she was 14 (Yichus narrative, Tier 2). Together they had **14 children**, of whom **6 died in childhood** and **8 survived** (Yichus narrative, Tier 2).
+Heshel and [[Leah_Frei]] were civilly registered as married on **21 August 1894** (Sambor Jewish Marriages 1891-1897 register). At that point Lea was age 29. The Yichus narrative states they were married in 1878 at ages 16 and 14 respectively; this is best reconciled as a religious marriage in 1878 that was civilly backfilled in 1894, a pattern that was extremely common among Galician Jews after the 1876 Austrian law required civil registration of Jewish marriages. Together they had **14 children**, of whom **6 died in childhood** and at least **9** are now documented by name (the Yichus lists 8 survivors; the 2026-04-17 Gesher Galicia sweep confirmed a 9th, **Mojżesz Majer Markiel**, who was born in Waniowice and married Dwora Goldbaum/Brand of Lisko in 1919).
 
 The eight surviving children, in birth order per the Yichus narrative (pages 6-8, Ruth Gold):
 1. **[[Minnie_Markel_Sternbach]]** (Freitca Miritza; 1887-1975), settled Rhode Island; first sibling to emigrate
@@ -85,6 +92,10 @@ Confidence: Moderate. The Yichus narrative (Tier 2, primary family document) cor
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Name spelling | "Heschel Herman Markel" (GEDCOM/MyHeritage) | "Heshel Markel" (Yichus narrative, Tier 2) | Variant romanizations of the same Yiddish name. "Herman" may be an Americanized middle name not used in the original. Yichus form "Heshel" is likely closer to the original. |
-| Location | "Vanyavitch, Poland" (GEDCOM) | "Vanyavitch, near Lemberg, near Sombor, near Cracow, in Galicia (Austria/Poland), now Ukraine" (Yichus, Tier 2) | Consistent. The Yichus provides more geographic context. At the time of Heshel's birth (1862), Galicia was part of Austria-Hungary. |
+| Name spelling | "Heschel Herman Markel" (GEDCOM/MyHeritage) | "Heshel Markel" (Yichus narrative, Tier 2); "Hersch MARKEL" (1894 civil marriage, Tier 1) | Variant romanizations. Civil register uses "Hersch MARKEL"; family usage was "Heshel"; "Herman" is an Americanization. Surname also variably recorded MARKEL / MARKIEL in register — the father Mordko Ber is MARKIEL, the son Hersch is MARKEL, on the same record. |
+| Location | "Vanyavitch, Poland" (GEDCOM) | "Vanyavitch, near Lemberg, near Sombor, near Cracow, in Galicia (Austria/Poland), now Ukraine" (Yichus, Tier 2); **"Waniowice" (1894 civil marriage, Tier 1)** | Resolved. Waniowice is the standard Polish/Austrian form; "Vanyavitch" is the Yichus phonetic transcription. Village is in the Sambor district. |
+| Marriage year | 1878 (Yichus, Tier 2) | **21 August 1894** (AGAD Fond 424 File 103, Tier 1) | **Likely reconciled**: religious marriage 1878 per family tradition; civil registration of that marriage 21 Aug 1894. Lea's age at registration recorded as 29, consistent with birth c. 1864-65 — consistent with both marriage dates. This backfilled-registration pattern was common in Galicia after the 1876 imperial law. |
+| Hersch's father | "Dov Markel" (Yichus, Tier 2) | **"Mordko Ber MARKIEL"** (1894 civil marriage, Tier 1) | Reconciled. "Mordko Ber" is the full Yiddish compound name (Mordechai + Ber/Dov). Family preserved only the "Dov/Ber" component in oral tradition. Not a contradiction. |
+| Hersch's paternal grandfather | "Nissen Mendel Markel" (Yichus, Tier 2) | Not named in 1894 civil record (Tier 1 does not specify grandparent generation) | **Unresolved**. The Yichus claim is not contradicted by the 1894 record (grandparents are not listed on Jewish marriage registers), but neither is it corroborated. Nissen Mendel remains a Tier 2 / Low confidence attribution. See [[Nissen_Mendel_Markel]]. |
+| Mother's name | [[Wife_Markel]] = unknown (GEDCOM/Yichus) | **Henie** (1894 civil marriage, Tier 1) | Resolved. Mother is named as Henie on the 1894 register, with surname recorded as "MARKEL". Maiden name not specified — either (a) endogamous marriage within the Markel family, (b) maiden name omitted and married surname defaulted, or (c) abbreviated register convention. See [[Henie_Markel]]. |
 | Military service | "Conscripted into the Polish army" (Yichus narrative, Tier 2) | Historical context: Galicia was Austro-Hungarian 1772 to 1918 (Tier 1, established fact) | **Corrected**: The Yichus is anachronistic. Heshel served in the Austro-Hungarian army (k.u.k. Armee), not the Polish army. Poland did not exist as an independent state during WWI. The Yichus writer (Ruth Gold, 2011) likely used "Polish" loosely to refer to the geographic area. |

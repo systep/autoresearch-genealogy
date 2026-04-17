@@ -1,16 +1,18 @@
 ---
 type: person
 name: "Toba Rivka Frei"
-born: 
-died: 
+born:
+died:
 family: "Frei"
-confidence: low
+confidence: moderate
 sources:
+  - "AGAD Warsaw, Fond 424, File 103, Record 34, Scan 52 (Sambor Jewish Marriages 1891-1897, Tier 1; named as mother-of-bride Taube FREI of Waniowice on daughter Lea's 21 Aug 1894 marriage)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500082)"
   - "MyHeritage Person Discovery"
   - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
 created: 2026-04-10
-tags: [genealogy, frei, person, dubosari, jewish, tier-2]
+updated: 2026-04-17
+tags: [genealogy, frei, person, galicia, jewish, tier-1, waniowice, sambor, dubosari]
 ---
 
 # Toba Rivka Frei
@@ -31,7 +33,9 @@ tags: [genealogy, frei, person, dubosari, jewish, tier-2]
 
 ## Biography
 
-Toba Rifka Frei (also recorded as Toba Rivka Frei) was "of Dubosari" (Yichus narrative, Tier 2). She was the wife of **[[Yoseph_Frei]]** (Yusef Frei) and the mother of at least four daughters: **[[Leah_Frei]]** (b. 1864; d. 1940), **Bashe**, **Feiga**, and **Frieda** (Yichus narrative, Tier 2; GEDCOM).
+Taube Frei (Yiddish: Toyb = dove; Yichus: Toba Rivka / Toba Rifka) was the wife of **[[Yoseph_Frei|Jozef Frei]]** and mother of **[[Leah_Frei|Lea Frei]]**. She is confirmed at Tier 1 by the 21 August 1894 Sambor Jewish Marriages register (AGAD Fond 424 File 103 Record 34), which lists her as "Taube FREI" of Waniowice. This anchors her in Waniowice at the time of her daughter's marriage — a geographic correction to the Yichus tradition, which described her as "of Dubosari" (likely referring to her maternal family's earlier origin rather than her residence at marriage). "Taube" and "Toba" are variant romanizations of the same Yiddish name.
+
+Per the Yichus narrative (Ruth Gold, 2011, Tier 2), she was the mother of four daughters: **[[Leah_Frei]]** (b. c. 1864-1865; d. 1940; m. Hersch Markel 1894), **Bashe**, **Feiga**, and **Frieda Frei Sternback** (the first of the family to emigrate to the US, settled Brooklyn, NY).
 
 The Yichus narrative states that Leah's family came from "great yichus" and was descended from the **Pnei Yehoshua** (a great sage and author) (Tier 2). This rabbinical lineage would trace through Toba Rifka and/or Yusef's ancestry.
 

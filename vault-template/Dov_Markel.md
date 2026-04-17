@@ -2,16 +2,17 @@
 type: person
 name: "Mordko Ber (Dov) Markiel"
 born: ~1830-1840
-died: 
+died:
 family: "Markel"
-confidence: moderate
+confidence: strong
 sources:
-  - "AGAD Warsaw, Fond 424, File 103, Record 34 (Sambor Jewish Marriages 1891-1897, Tier 1)"
+  - "AGAD Warsaw, Fond 424, File 103, Record 34, Scan 52 (Sambor Jewish Marriages 1891-1897, Tier 1; father of groom in son Hersch's 1894 marriage)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500078)"
   - "MyHeritage Person Discovery"
   - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
 created: 2026-04-10
-tags: [genealogy, markel, person, galicia, jewish, tier-2, sambor]
+updated: 2026-04-17
+tags: [genealogy, markel, person, galicia, jewish, tier-1, sambor, waniowice]
 ---
 
 # Dov Markel
@@ -26,8 +27,9 @@ tags: [genealogy, markel, person, galicia, jewish, tier-2, sambor]
 | Died | Unknown | GEDCOM |
 | Father | [[Nissen_Mendel_Markel]] | Yichus narrative (Tier 2) |
 | Mother | Unknown | |
-| Spouse | **[[Henie_Markel]]** (Henie; likely Chana/Hannah or Hinde in Hebrew) | AGAD marriage record (Tier 1) |
-| Children | [[Heschel_Herman_Markel]] (Hersch; 1862-1916); Mattis Markel | AGAD (Tier 1); Yichus (Tier 2) |
+| Spouse | **[[Henie_Markel]]** (Henie; likely Chana/Hannah or Hinde in Hebrew), of Waniowice | AGAD marriage record (Tier 1) |
+| Children | [[Heschel_Herman_Markel]] (Hersch; 1862-1916, **innkeeper in Waniowice**); Mattis Markel | AGAD (Tier 1); Yichus (Tier 2 for Mattis) |
+| Known grandchildren | [[Mojzesz_Majer_Markiel]] (b. Waniowice ~1895-1900, m. 1919 Dwora Goldbaum/Brand of Lisko) and all other children of Hersch × Lea listed in [[Heschel_Herman_Markel]] | 1919 marriage banns AGAD Fond 424 File 212 (Tier 1); Yichus |
 
 ## Biography
 
@@ -53,7 +55,11 @@ Heshel Markel was born in 1862 (Tier 2). If Dov fathered Heshel at approximately
 
 Waniowice did not have its own civil registry. Under the 1877 Austrian administrative system, Jewish vital records for Waniowice were kept at the **Sambor Jewish Administrative Center**. All records pertaining to Dov Markel's birth, marriage, and death would be in the Sambor Jewish registers. These are indexed in the Gesher Galicia All Galicia Database and physically held at TsDIAL (Lviv) and AGAD (Warsaw).
 
-Confidence: Low. The Yichus narrative (Tier 2) confirms the patrilineal chain and adds Nissen Mendel Markel as Dov's father, but no dates, occupation, or other biographical details are provided for Dov himself.
+Confidence: **Strong** for the existence, name, spouse, son Hersch, and Waniowice residence (Tier 1 primary civil record). The Nissen Mendel attribution as Mordko Ber's father remains at Tier 2 (Yichus narrative only); no primary-source corroboration. Dates, occupation, and death details for Mordko Ber himself remain unknown and are priority follow-ups.
+
+## Update 2026-04-17 — second primary source (grandson's 1919 marriage)
+
+The 1919 Sambor Jewish Marriage Banns for Mordko Ber's grandson **[[Mojzesz_Majer_Markiel]]** (AGAD Fond 424 File 212 Record 65 Page 315, Tier 1) independently names Mordko Ber's son **Hersch MARKIEL** as an **innkeeper** in Waniowice, 25 years after the 1894 record. The family's permanent Waniowice residence is thus corroborated by two independent Tier 1 records (1894 and 1919). The grandson Mojzesz Majer was himself born in Waniowice, a merchant in Sambor by age ~20. See [[Mojzesz_Majer_Markiel]] for full details.
 
 ## Research Notes (2026-04-14)
 

@@ -176,49 +176,55 @@ The names in the family tree screenshots (Dovber, Yekutiel, Rivka, Srul, Levi, R
 **Profile pictures** appear on Dovber, Rivka, and Barnett in the digital tree, suggesting these are key documented ancestors.
 
 
-### Markel Family (Galicia/Poland, Thelma Markel's Paternal Line)
+### Markel Family (Galicia, Thelma Markel's Paternal Line)
 
-*Source: Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2); GEDCOM (Tier 3); 1940/1950 Census (Tier 1); RIJHA article (Tier 2)* **(moderate)**
+*Source: Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2); GEDCOM (Tier 3); 1940/1950 Census (Tier 1); RIJHA article (Tier 2); **Sambor Jewish Marriages 1891-1897 (AGAD Fond 424 File 103 Record 34, Tier 1)** and **Sambor Jewish Marriage Banns 1904-1926 (AGAD Fond 424 File 212 Record 65, Tier 1)** — both added 2026-04-17.* **(strong for Hersch-Lea-parents generation)**
 
-Thelma Markel (1920-2011, married Leonard Irving Salmanson 1947) was the daughter of [[Morris_Markel]] and [[Helen_Brandt]]. The Markel family originated in Vanyavitch (Waniowice), a village near Sambor in the Sambor district of Galicia (now western Ukraine). Jewish vital records for Waniowice were kept at the Sambor Jewish Administrative Center (confirmed 2026-04-14). Sambor Jewish population: 4,427 (1880), 6,068 (1921). Note: the Sambor Yizkor book lists "Yosef Markel and Family (5 People)" in the necrology, likely a descendant of this family.
+Thelma Markel (1920-2011, married Leonard Irving Salmanson 1947) was the daughter of [[Morris_Markel]] and [[Helen_Brandt]]. The Markel family is now confirmed at Tier 1 as being from **Waniowice** (Yichus: "Vanyavitch"), a village in the Sambor district of Galicia (now Sambir Raion, Lviv Oblast, Ukraine). Two independent primary-source civil marriage records (1894, 1919) place both the Markel and Frei families in Waniowice and record Hersch Markel's occupation as innkeeper (*Schenker*). The Sambor Yizkor book lists "Yosef Markel and Family (5 People)" in the necrology, likely a descendant of this family.
 
 ```
-[[Nissen_Mendel_Markel]]
-└── [[Dov_Markel]]
-    └── [[Heschel_Herman_Markel]] (1862-1916) + [[Leah_Frei]] (1864-1940; m. 1878)
-        ├── 1. [[Minnie_Markel_Sternbach]] (Freitca Miritza; 1887-1975) + Abraham David Sternbach (1886-1978)
-        │   ├── Maurice Sternbach (1912-1998)
-        │   ├── Florence Buchwald Sternbach (1917, dec.) + David Futtersak
-        │   └── Hinda Lea Sternbach Hoffman (b. 1942) + Victor Hoffman (b. 1940)
-        ├── 2. [[Masha_Markel_Tachner]] (Mashe; murdered 1939) + Tachner
-        ├── 3. [[Morris_Markel]] (Moishe Myer; d. 1963) + [[Helen_Brandt]]
-        │   ├── [[Thelma_Markel]] (Tobi; 1920-2011) + [[Leonard_Irving_Salmanson]]
-        │   ├── Anne Markel (~1922) + Sol Schlusselberg
-        │   ├── Rita Markel (~1925)
-        │   ├── Kate Markel (1925-2006) + Irving Kaplan (dec.)
-        │   ├── Frieda Markel (dec.)
-        │   └── Joseph Harold Markel (~1932)
-        ├── 4. [[Sarah_Markel_Tachner]] (Tsirl) + (1) Arthur Goodman (div.) + (2) Max Tachner
-        │   ├── Harold Tachner
-        │   └── Irving Tachner
-        ├── 5. [[Avraham_Chaim_Markel]] (murdered with family 1939)
-        ├── 6. [[Hannah_Markel]] (murdered 1939; refused emigration ticket 1923)
-        ├── 7. [[Florence_Markel_Mermelstein]] (Sura Feiga; 5/15/1909-11/24/1990) + David Mermelstein (Aaron Dovid; 1909-1990)
-        │   ├── Ruth Mermelstein Gold (b. 1937; author of Yichus narrative)
-        │   ├── Hashy (b. 1940)
-        │   └── Lea (b. 1945)
-        └── 8. [[Pessel_Peppy_Frei]] (Pessel/Peggy; murdered 1939/1940)
+[[Nissen_Mendel_Markel]] (Yichus tradition only; Tier 2, unverified)
+└── [[Dov_Markel]] (= Mordko Ber MARKIEL of Waniowice, Tier 1)
+    ├── [[Heschel_Herman_Markel]] (Hersch; 1862-1916; innkeeper, Waniowice) + [[Leah_Frei]] (Lea; b. c. 1864-65, age 29 at 1894 registration; d. 1940; of Waniowice)
+    │   [civil marriage registration 21 AUG 1894, Sambor; religious marriage 1878 per Yichus]
+    │   ├── 1. [[Minnie_Markel_Sternbach]] (Freitca Miritza; 1887-1975) + Abraham David Sternbach (1886-1978)
+    │   │   ├── Maurice Sternbach (1912-1998)
+    │   │   ├── Florence Buchwald Sternbach (1917, dec.) + David Futtersak
+    │   │   └── Hinda Lea Sternbach Hoffman (b. 1942) + Victor Hoffman (b. 1940)
+    │   ├── 2. [[Masha_Markel_Tachner]] (Mashe; murdered 1939) + Tachner
+    │   ├── 3. [[Morris_Markel]] (Moishe Myer; d. 1963) + [[Helen_Brandt]]
+    │   │   ├── [[Thelma_Markel]] (Tobi; 1920-2011) + [[Leonard_Irving_Salmanson]]
+    │   │   ├── Anne Markel (~1922) + Sol Schlusselberg
+    │   │   ├── Rita Markel (~1925)
+    │   │   ├── Kate Markel (1925-2006) + Irving Kaplan (dec.)
+    │   │   ├── Frieda Markel (dec.)
+    │   │   └── Joseph Harold Markel (~1932)
+    │   ├── 4. [[Sarah_Markel_Tachner]] (Tsirl) + (1) Arthur Goodman (div.) + (2) Max Tachner
+    │   │   ├── Harold Tachner
+    │   │   └── Irving Tachner
+    │   ├── 5. [[Avraham_Chaim_Markel]] (murdered with family 1939)
+    │   ├── 6. [[Hannah_Markel]] (murdered 1939; refused emigration ticket 1923)
+    │   ├── 7. [[Florence_Markel_Mermelstein]] (Sura Feiga; 5/15/1909-11/24/1990) + David Mermelstein (Aaron Dovid; 1909-1990)
+    │   │   ├── Ruth Mermelstein Gold (b. 1937; author of Yichus narrative)
+    │   │   ├── Hashy (b. 1940)
+    │   │   └── Lea (b. 1945)
+    │   ├── 8. [[Pessel_Peppy_Frei]] (Pessel/Peggy; murdered 1939/1940)
+    │   └── 9. [[Mojzesz_Majer_Markiel]] (NEW 2026-04-17; b. Waniowice ~1895-1900, merchant in Sambor, m. Dwora Goldbaum/Brand of Lisko, 1919)
+    └── Mattis Markel (Yichus, Tier 2; Heshel's brother)
+
+[[Dov_Markel]]'s wife: [[Henie_Markel]] of Waniowice (Tier 1; maiden name unresolved — possibly Markel/endogamous, or omitted)
 ```
 
-Heshel also had a brother: **Mattis Markel** (Yichus narrative, Tier 2).
+**Note on Nissen Mendel's position**: The Yichus narrative places Nissen Mendel as Dov's father (Heshel's grandfather). The 1894 Tier 1 record confirms Mordko Ber as Heshel's father, but does NOT name Mordko Ber's father. Nissen Mendel remains a Tier 2 Yichus attribution only. Four JRI Poland partner hits for "Nissen+Markel" have not yet been examined.
 
 ### Frei Family (Leah Frei's Family of Origin)
 
-*Source: Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2)* **(moderate)**
+*Source: Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2); **Sambor Jewish Marriages 1891-1897 (AGAD Fond 424 File 103 Record 34, Tier 1)** — added 2026-04-17.* **(strong for Jozef/Taube as parents; moderate elsewhere)**
 
 ```
-[[Yoseph_Frei]] (Yusef Frei) + [[Toba_Rivka_Frei]] (of Dubosari)
-├── [[Leah_Frei]] (1864-1940) + [[Heschel_Herman_Markel]] (see Markel tree above)
+[[Yoseph_Frei]] (Jozef FREI civil; Yusef per Yichus) + [[Toba_Rivka_Frei]] (Taube FREI civil; Toba Rivka per Yichus)
+   [both of Waniowice, Sambor district, per 1894 marriage register]
+├── [[Leah_Frei]] (b. c. 1864-65; d. 1940) + [[Heschel_Herman_Markel]] (see Markel tree above)
 ├── Bashe Frei
 ├── [[Feiga_Frei_Karp]] + Joseph Karp (both murdered, Holocaust)
 │   ├── Nissan Karp (dec.)
@@ -226,6 +232,8 @@ Heshel also had a brother: **Mattis Markel** (Yichus narrative, Tier 2).
 │       └── Renya Tzoar (b. 1933; survived, hidden in convent; key witness)
 └── Frieda Frei Sternback (first to emigrate; settled Brooklyn, NY)
 ```
+
+**Note on Taube's origin**: The Yichus describes her as "of Dubosari" (likely her family-of-origin association, Dubăsari/Dubossary in Bessarabia). The 1894 Tier 1 record places her in Waniowice at the time of her daughter's marriage. "Taube" and "Toba" are variant romanizations of the same Yiddish name.
 
 The Frei family claimed descent from the **Pnei Yehoshua** (Rabbi Jacob Joshua ben Tzvi Hirsch Falk), and through him from the Isserles and Landau rabbinical families (Yichus narrative, Tier 2; partially confirmed, see Open Questions #12).
 

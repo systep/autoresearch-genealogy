@@ -1,14 +1,66 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-16
-last_session: "2026-04-16 Bella Measroch research"
+updated: 2026-04-17
+last_session: "2026-04-17 four-stream parallel sweep: Markiel/Frei click-through, Salk death cert, Deych Rokiskis, Kascher Wurmloch"
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-17: Four-stream parallel research sweep
+
+Ran four concurrent research streams (Stream A = Salk death cert, Stream B = Deych Rokiskis, Stream C = Gesher Galicia click-throughs, Stream D = Kascher Wurmloch). Streams A/B/D were dispatched to web-research subagents; Stream C was performed directly via Gesher Galicia browser automation. Full details in `research-notes/` under four dated subfolders.
+
+### Stream C — Gesher Galicia click-throughs (Hersch/Lea family)
+
+**Major Tier 1 findings:**
+
+- **Marriage of Hersch MARKEL × Lea FREI, 21 August 1894, Sambor Jewish Marriages register.** All six principals (Hersch, his parents Mordko Ber MARKIEL & Henie MARKEL; Lea, her parents Jozef FREI & Taube FREI) listed as from Waniowice. Lea's age 29 (confirms birth c. 1864-1865). Citation: AGAD Warsaw, Fond 424, File 103, Record 34, Scan 52. Identifier #137:295.
+- **Marriage banns of Mojżesz Majer MARKIEL × Dwora GOLDBAUM false BRAND, 29 Nov–13 Dec 1919.** Groom born Waniowice, merchant in Sambor. Groom's father: **Hersch MARKIEL, innkeeper, of Waniowice.** Groom's mother: Lea FREY, of Waniowice. Bride: Dwora GOLDBAUM false BRAND of Lisko. Confirms Mojżesz Majer as a previously-unknown 9th documented child of Hersch and Lea. Citation: AGAD Fond 424, File 212, Record 65, Page 315. Identifier #206:1086.
+- **New biographical facts**: Hersch Markel was an **innkeeper** in Waniowice (new Tier 1 fact, not in any prior vault document). The family's continuous residence in Waniowice across 1894-1919 (25 years) is now corroborated by two independent Tier 1 records.
+
+**Corrections**: Two Jozef Frei records in AGD (Jozef Samuel FREI death 1900 Pruchnik; Jozef Szmul FREI birth 1902 Lutowiska) were previously hypothesized as possibly belonging to Lea's father. Click-through to detail confirmed both are in Przemyśl State Archive (Fond 154) in towns 80-100 km from Sambor. **Neither is our Jozef Frei.** Prior "Moderate confidence" lead retracted.
+
+**Vault updates as a result of Stream C (2026-04-17)**:
+- Updated: [[Heschel_Herman_Markel]], [[Leah_Frei]], [[Dov_Markel]], [[Nissen_Mendel_Markel]], [[Yoseph_Frei]], [[Toba_Rivka_Frei]]
+- New person files: [[Mojzesz_Majer_Markiel]], [[Henie_Markel]]
+- Confidence upgrades to **Strong** on Hersch, Lea, Jozef, Taube, Mordko Ber, and their Waniowice residence
+- Discrepancy flagged: 1878 (Yichus religious marriage tradition) vs 1894 (civil registration) — likely reconciled as backfilled registration
+
+### Stream A — Abraham Salk 1925 RI Death Certificate (agent; notes in `research-notes/salk-providence/`)
+
+- Abraham Salk's Feb 22, 1925 death cert is **NOT** currently online. The RI State Archives Preservica digitization of Feb 16-28 Providence deaths stops at Feb 19. User must submit a vital records request at https://forms.sos.ri.gov/VitalRecordsOrderForm.
+- **NEW: Abraham Salk had at least 3 daughters.** Previously known: Elizabeth (Salk) Salmanson. New via RIJHA obituary records: **Anna (Salk) Zipperman** (m. Sam, lived Atlanta GA, b. Russia) and **Mary (Salk) Kalmanovitch/Lyons** (m. Max, Providence; son Leonard Samuel Lyons d. 2002 Plant City FL). Tier 2 (obituary cascade).
+- **NEW: Hyman Salk (Salk's Hardware founder 1900) connection.** Hyman's wife was herself an Elizabeth Salk (maiden = Salk), daughter of **Louis Salk and Dena (Hassel) Salk**, b. 18 Apr 1876 Russia, d. Lincoln Park Cemetery, Congregation Sons of Abraham. Children: Florence Brodsky, Louis Salk, Samuel Salk. Tier 2. Establishes Providence Salk endogamous cluster; "Louis Salk" may match OQ #18 (Troskunai Zalk connection candidate).
+- **Other Salks at Lincoln Park Cemetery** for follow-up: Max Salk (1882-1969, wife Mollie Mistofsky, son Burton), and several sisters-married-out (Tillie/Lena/Bertha/Celia). Harvey M Salk is at a DIFFERENT cemetery (Sons of Israel and David), indicating a separate branch.
+- Negative results: RIJHA obituary A-Z search (1960s+ only, no Abraham Salk 1925 hit); Find a Grave (blocked direct fetch, Google preview showed no Abraham Salk RI 1925 memorial).
+
+### Stream B — Zawel Deykh Rokiskis (agent; notes in `research-notes/deych-rokiskis/`)
+
+- **No direct Deych/Deich/Deutsch record located** for Rokiskis in any public source (JewishGen KehilaLinks 1908 Family List, 1897 Census extract, Rokiskis Necrology, Rokiskis Yizkor Book text pages all searched). Caveat: the 1897 census survives only in fragments; absence is weak negative.
+- **Record location confirmed**: Rokiskis Jewish vital records 1874-1896 are in **LVIA Fond 1226** (Kovno gubernia rabbinate metrics, 93 reels). JewishGen Lithuania VR DB indexes these.
+- **Best free path**: email Linda Cantor (Rokiskis SIG chair, `lincanfamily@gmail.com`) who holds a complete Kaunas-archive index.
+- **Best paid path**: $100 LitvakSIG Zarasai DRG qualifying contribution unlocks 5-year Members Site access.
+- **LVIA direct**: `istorijos.archyvas@archyvai.lt`, English accepted, 1-2 week response, nominal fee.
+- **Tangential lead**: Rabbi Levi Yitzchok Zalmanson (1812-1872) on Geni, Lubavitch, children named Shneur Zalman / Mordekhai Ber / Yosef Chaim Zalmanson. Rokiskis was a Lubavitch stronghold. Potentially anchors existing vault Open Question R6 (Zalmanson-Schneerson connection) geographically. Tier 3.
+
+### Stream D — Georg Kascher Wurmloch 1792 (agent; notes in `research-notes/kascher-wurmloch/`)
+
+- **Tier 3 breakthrough via Genealogy.com GenForum topic 11540** (Austria forum): forum post asserts Georg Kascher (b. 1792 Wurmloch) married **Maria Wagner**, had son **Michael Kascher** (b. 1834 Wurmloch, d. 1880 Waldhuetten) who married **Sara Schuller** (widow of Stephann Benning), and they had children Michael and Regina. Poster identity and date not captured (page blocks automated fetch); user should open in browser.
+- **Cross-reference support**: Siebenbuerger.de snippet for **Anna Binder Kascher** (b. 1 Apr 1868 Kreisch, d. 18 Oct 1915 Waldhuetten, father Martin Binder son of Petrus Krauss Binder) is consistent with the Michael Kascher Waldhuetten household.
+- **Zentralarchiv Sibiu process verified**: casa.teutsch@gmail.com, German preferred, 10 EUR/hr, first 2 hours free for scientific inquiries, 10 EUR per Kirchenbuch confirmation, 3 EUR per digital scan.
+- **Surname distribution**: Kascher is extremely rare (~137 bearers worldwide; 78 Brazil, 39 USA, 19 Germany, 1 Philippines per forebears.io). Flanders-origin family tradition has no surname-specific documentary basis. Bavaria Valentin Kascher baptism (from vault commit f59e10d) likely a name collision given Germany's low Kascher count.
+- Negative results: VGSS database (login required, Wurmloch not in public portion); Archion.de (confirmed NOT covering Transylvania); WikiTree / Geni (no dedicated Kascher surname page).
+
+### Data Acquisition Priorities unchanged or updated
+
+- **OQ #10** (Sambor vital records for Markel family): now substantially resolved for Hersch/Lea/Mordko Ber. Shifts to: (a) find Mordko Ber's own birth/death, (b) verify Nissen Mendel via JRI Poland's 4 "Nissen+Markel" partner hits.
+- **OQ #13, #14, #16, #17, #18** (Abraham Salk ecosystem): advanced substantially even without the death cert in hand; see Stream A notes.
+- **OQ #15** (Zawel Deykh): LVIA Fond 1226 confirmed as target; Linda Cantor is the next contact.
+- **OQ #7** (Georg Kascher 1792): Tier 3 forum lead extends line by one generation (son Michael b. 1834 Wurmloch); Zentralarchiv Sibiu request is the Tier 1 decisive next step.
 
 ## 2026-04-16: Bella Measroch Research (Levi Itzhak Zalmanson's Second Wife)
 

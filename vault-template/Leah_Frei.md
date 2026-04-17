@@ -4,13 +4,16 @@ name: "Leah Frei"
 born: 1864
 died: 1940
 family: "Frei"
-confidence: moderate
+confidence: strong
 sources:
+  - "AGAD Warsaw, Fond 424, File 103, Record 34, Scan 52 (Sambor Jewish Marriages 1891-1897, Tier 1; her 1894 marriage to Hersch Markel, age 29)"
+  - "AGAD Warsaw, Fond 424, File 212, Record 65, Page 315 (Sambor Jewish Marriage Banns 1904-1926, Tier 1; son Mojzesz Majer's 1919 marriage names her as Lea Frey, Waniowice)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500053)"
   - "MyHeritage Smart Match (Geni)"
   - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
 created: 2026-04-10
-tags: [genealogy, frei, frye, markel, person, galicia, jewish, tier-2]
+updated: 2026-04-17
+tags: [genealogy, frei, frye, markel, person, galicia, jewish, tier-1, waniowice, sambor]
 ---
 
 # Leah Frei
@@ -19,23 +22,24 @@ tags: [genealogy, frei, frye, markel, person, galicia, jewish, tier-2]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Leah Frei (Frye) (nickname: Leije) | GEDCOM; Yichus narrative (Tier 2) |
-| Born | 1864 | Yichus narrative (Tier 2) |
-| Birthplace | Unknown (family from Dubosari region, per Toba Rivka Frei) | Yichus narrative (Tier 2) |
+| Full Name | **Lea FREI** (civil register) / Leah Frei (Frye) (nickname: Leije) | 1894 marriage (Tier 1); Yichus |
+| Born | c. 1864-1865 (age 29 recorded on 21 Aug 1894 marriage register) | 1894 marriage (Tier 1); aligns with GEDCOM/Yichus 1864 |
+| Birthplace | **Waniowice** (per 1894 marriage; Lea's town of origin), Sambor district, Galicia | 1894 marriage (Tier 1) |
 | Died | 1940 | Yichus narrative (Tier 2) |
 | Burial | Unknown | |
-| Father | [[Yoseph_Frei]] (Yusef Frei) | GEDCOM; Yichus narrative (Tier 2) |
-| Mother | [[Toba_Rivka_Frei]] (Toba Rifka Frei, of Dubosari) | GEDCOM; Yichus narrative (Tier 2) |
+| Father | **[[Yoseph_Frei\|Jozef Frei]]** of Waniowice | 1894 marriage (Tier 1); Yichus |
+| Mother | **[[Toba_Rivka_Frei\|Taube Frei]]** of Waniowice (= "Toba Rivka of Dubosari" per Yichus; "Taube" is Yiddish variant of Toba) | 1894 marriage (Tier 1); Yichus |
 | Sisters | Bashe Frei, Feiga Frei, Frieda Frei Sternback | Yichus narrative (Tier 2) |
 | Lineage | Descended from the Pnei Yehoshua (great sage and author); "great yichus" | Yichus narrative (Tier 2) |
-| Spouse | [[Heschel_Herman_Markel]] (Heshel Markel; b. 1862; d. 1916; m. 1878) | GEDCOM; Yichus narrative (Tier 2) |
-| Marriage | 1878 (she was 14, he was 16) | Yichus narrative (Tier 2) |
+| Spouse | **[[Heschel_Herman_Markel\|Hersch Markel]]** (Heshel; b. 1862 Waniowice; d. 1916; **innkeeper** in Waniowice) | 1894 marriage (Tier 1) |
+| Marriage (civil registration) | **21 August 1894**, Sambor Jewish Marriages; Lea's age = 29 | AGAD Fond 424 File 103 Record 34 (Tier 1) |
+| Marriage (religious tradition) | 1878 per Yichus (likely backfilled civilly in 1894; see [[Heschel_Herman_Markel]] Data Discrepancies) | Yichus (Tier 2) |
 | Children (total) | 14 born, 6 died in childhood, 8 surviving | Yichus narrative (Tier 2) |
-| Surviving Children (birth order per Yichus narrative) | 1. [[Minnie_Markel_Sternbach]] (Freitca Miritza, 1887-1975); 2. [[Masha_Markel_Tachner]] (Mashe, d. 1939); 3. [[Morris_Markel]] (Moishe Myer); 4. [[Sarah_Markel_Tachner]] (Tsirl); 5. [[Avraham_Chaim_Markel]] (d. 1939); 6. [[Hannah_Markel]] (d. 1939); 7. [[Florence_Markel_Mermelstein]] (Sura Feiga, 5/15/1909-11/24/1990); 8. [[Pessel_Peppy_Frei]] (Pessel/Peggy, d. 1939/1940) | Yichus narrative (Tier 2) |
+| Surviving Children (documented) | 1. [[Minnie_Markel_Sternbach]] (Freitca Miritza, 1887-1975); 2. [[Masha_Markel_Tachner]] (Mashe, d. 1939); 3. [[Morris_Markel]] (Moishe Myer); 4. [[Sarah_Markel_Tachner]] (Tsirl); 5. [[Avraham_Chaim_Markel]] (d. 1939); 6. [[Hannah_Markel]] (d. 1939); 7. [[Florence_Markel_Mermelstein]] (Sura Feiga, 5/15/1909-11/24/1990); 8. [[Pessel_Peppy_Frei]] (Pessel/Peggy, d. 1939/1940); 9. **[[Mojzesz_Majer_Markiel]]** (NEW 2026-04-17; b. Waniowice, merchant, m. 1919 Dwora Goldbaum/Brand) | Yichus (1-8, Tier 2); 1919 marriage banns (9, Tier 1) |
 
 ## Biography
 
-Leah Frei (also spelled Frye, nickname Leije) was born in 1864 and died in 1940 (Yichus narrative, Tier 2). She was the daughter of **[[Yoseph_Frei]]** (Yusef Frei) and **[[Toba_Rivka_Frei]]** (Toba Rifka Frei, of Dubosari) (GEDCOM; Yichus narrative, Tier 2).
+Lea Frei (Yichus spelling: Leah; nickname Leije) was born c. 1864-65 in Waniowice, Sambor district, Galicia (now western Ukraine). Her age at her 21 August 1894 civil marriage registration was recorded as 29 (AGAD Fond 424 File 103 Record 34, Tier 1), which places her birth in 1864 or early 1865 — consistent with the Yichus tradition of 1864. She died in 1940 (Yichus, Tier 2). She was the daughter of **[[Yoseph_Frei|Jozef Frei]]** and **[[Toba_Rivka_Frei|Taube Frei]]** — both listed as of Waniowice on the 1894 marriage record (Tier 1). Previously the Yichus recorded Taube (as "Toba Rivka") as "of Dubosari"; the Tier 1 record now anchors her in Waniowice at the time of her daughter's marriage. "Taube" and "Toba" are variant romanizations of the same Yiddish name (Toyb = dove).
 
 Leah came from "great yichus" and was descended from the **Pnei Yehoshua** (Rabbi Jacob Joshua ben Tzvi Hirsch Falk, a renowned sage and author of the Talmudic commentary by the same name) (Yichus narrative, Tier 2). This distinguished rabbinical lineage was a source of family pride.
 

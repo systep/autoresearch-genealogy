@@ -1,8 +1,20 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-16
+updated: 2026-04-17
 tags: [genealogy, research, open-questions]
+---
+
+## 2026-04-17 session updates (summary)
+
+- **OQ #10 (Nissen Mendel / Dov Markel in Sambor records): SUBSTANTIALLY ADVANCED.** 21 Aug 1894 Sambor Jewish Marriage register confirms Hersch Markel's father as "Mordko Ber MARKIEL" of Waniowice (Tier 1), with mother Henie Markel (Tier 1). Confirms Dov = Mordko Ber (Yiddish compound name). Nissen Mendel remains unverified as Mordko Ber's father — 4 JRI Poland partner hits for "Nissen+Markel" are the next check. New child confirmed: Mojzesz Majer Markiel (1919 marriage banns). New biographical fact: Hersch was an innkeeper. Strong Signal.
+- **OQ #12 (Isserles/Landau via Leah Frei): NO NEW DATA**, but Frei family's Waniowice origin (Tier 1) is incompatible with any Pnei Yehoshua descent line that would have left a Falk/Frei transition record. Downgrade toward refuted.
+- **OQ #13/14/16/17/18 (Abraham Salk ecosystem): SUBSTANTIALLY ADVANCED via RIJHA obituary cascade.** Abraham had at least 3 daughters (Elizabeth, Anna Zipperman, Mary Kalmanovitch/Lyons). Hyman Salk's wife was Elizabeth Salk daughter of Louis and Dena (Hassel) Salk — "Louis Salk" name may match OQ #18 Troskunai Zalk candidate. Death cert still required (not online; Feb 20-28 1925 batch not yet in Preservica); user must submit RI State Archives records request at https://forms.sos.ri.gov/VitalRecordsOrderForm.
+- **OQ #15 (Zawel Deykh Rokiskis): NO DIRECT HIT**, but record repository confirmed as LVIA Fond 1226. Best free path: email Linda Cantor (`lincanfamily@gmail.com`). Best paid path: $100 LitvakSIG Zarasai DRG contribution for Members Site access.
+- **OQ #7 (Georg Kascher 1792 parents): TIER 3 FORUM LEAD FOUND** but not yet verified. Genealogy.com GenForum topic 11540 asserts Georg m. Maria Wagner, son Michael (b. 1834) m. Sara Schuller. Zentralarchiv Sibiu request (casa.teutsch@gmail.com, first 2 hrs free, German) is the Tier 1 verification path.
+
+See `research-notes/` subfolders and Research_Log 2026-04-17 entry for full findings from the four-stream parallel sweep.
+
 ---
 
 # Open Questions

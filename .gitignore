@@ -3,5 +3,17 @@
 *.swo
 *~
 .obsidian/
+.claude/
 .env
 node_modules/
+
+# Playwright MCP scratch files
+.playwright-mcp/
+/*-page*.md
+/frei-expanded.md
+/frei-jozef.md
+/hersch-result-page.md
+/markiel-page1.md
+/marriage-detail.md
+/mojzesz-marriage.md
+/hersch-result-page.md
