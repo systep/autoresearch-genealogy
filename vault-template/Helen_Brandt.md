@@ -1,7 +1,7 @@
 ---
 type: person
 name: "Helen Brandt"
-born: ~1889
+born: ~1891
 died: ~1975
 family: "Brandt"
 confidence: low
@@ -12,7 +12,10 @@ sources:
   - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
   - "Kate Kaplan obituary, Providence Journal, Jan 13, 2006 (Tier 2)"
   - "Kate Markel Kaplan Find a Grave #232002112 (Tier 1)"
+  - "1940 US Census, West Warwick RI, Enum. Dist. 2-46 (Tier 1)"
+  - "1950 US Census, West Warwick RI (Tier 1)"
 created: 2026-04-10
+updated: 2026-04-17
 tags: [genealogy, Brandt, person, jewish, poland, immigrant, rhode-island]
 ---
 
@@ -23,7 +26,7 @@ tags: [genealogy, Brandt, person, jewish, poland, immigrant, rhode-island]
 | Field | Value | Source |
 |---|---|---|
 | Full Name | Helen Brandt (Markel) | MyHeritage GEDCOM (unverified); Yichus narrative (Tier 2) |
-| Born | About 1889 (month/day unknown; "27 Jul" in GEDCOM is a system artifact) | MyHeritage GEDCOM (estimated) |
+| Born | About 1891 (1950 Census: age 59, b. ~1891; 1940 Census: age 43, b. ~1897; GEDCOM: ~1889. The 1950 Census age of 59 and the GEDCOM estimate of ~1889 are closer to each other, suggesting ~1889-1891. The 1940 age of 43 likely understates her age. "27 Jul" in GEDCOM is a system artifact.) | 1940 Census (Tier 1); 1950 Census (Tier 1); MyHeritage GEDCOM (estimated) |
 | Birthplace | Poland (likely Galicia, given husband's Galician origin) | MyHeritage GEDCOM |
 | Died | Estimated 1975 (month/day unknown) | MyHeritage GEDCOM (estimated) |
 | Burial | Likely Lincoln Park Cemetery, Warwick, RI (family cemetery; unconfirmed) | Inference from family burial pattern |
