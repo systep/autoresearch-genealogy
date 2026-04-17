@@ -4,8 +4,9 @@ name: "Abraham (Charles) Zolly Salk"
 born: ~1860
 died: 1925-02-22
 family: "Salk"
-confidence: moderate
+confidence: strong
 sources:
+  - "Providence Death Certificate No. 584/226, Feb 22, 1925 (Tier 1, primary source)"
   - "MyHeritage family tree (Tier 3, unverified)"
   - "Multiple Smart Match confirmations"
   - "1910 US Census (implied)"
@@ -25,25 +26,32 @@ tags: [genealogy, salk, person, russia, rhode-island, providence, immigrant, lit
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Abraham (Charles) Zolly Salk | MyHeritage (Tier 3, unverified) |
-| Born | ABT 1860, Russia | MyHeritage (Tier 3, unverified) |
-| Died | February 22, 1925, Rhode Island (age 64-65) | MyHeritage (Tier 3, unverified) |
-| Father | Louis (Elizar)(Lazar) Salk (b. ABT 1840, Lithuania; d. BEF 1910, Providence, RI) | MyHeritage (Tier 3, unverified) |
-| Mother | Rose (surname unknown; b. Lithuania; d. Lithuania) | MyHeritage (Tier 3, unverified) |
-| Spouse | Tauba (Toby/Tobe/Teibe/Tobrey/Theresa/Fannie/Pheabe) (b. ABT 1850, Russia) | MyHeritage (Tier 3, unverified) |
-| Children | [[Elizabeth_Salk]] (~1887), Anna Salk (m. Zipperman; 1893-1958), Marry Salk (m. Lyons), and others | MyHeritage (Tier 3, unverified) |
-| Immigration | 1894 or 1896 (two different arrival dates recorded) | MyHeritage (Tier 3, unverified) |
+| Full Name | Abraham Salk | Death Certificate No. 584/226 (Tier 1); "Abraham (Charles) Zolly Salk" per MyHeritage (Tier 3, "Charles" and "Zolly" unverified) |
+| Born | **~1859-1860**, Russia | Death Certificate: age 65 at death Feb 22, 1925 (Tier 1). GEDCOM's ~1840 is a 20-year error. |
+| Died | **February 22, 1925, 12:39 PM**, Providence City Hospital, Providence, RI | Death Certificate No. 584/226 (Tier 1) |
+| Usual Residence | **60 Chalkstone Avenue, Providence, RI** | Death Certificate (Tier 1) |
+| Occupation | **Peddler (Junk)** | Death Certificate (Tier 1) |
+| Birthplace | **Russia** | Death Certificate (Tier 1) |
+| Father | **Louis Salk**, born Russia | Death Certificate (Tier 1). Confirms GEDCOM "Louis (Elizar)(Lazar) Salk." |
+| Mother | **Rose P. Salk** (maiden name recorded as Salk), born Russia | Death Certificate (Tier 1). Middle initial P; maiden name "Salk" may indicate endogamy or informant uncertainty. |
+| Spouse | **Tobey Salk** (alive at time of death; Abraham listed as "Married") | Death Certificate (Tier 1). Confirms Tauba/Toby. |
+| Children | [[Elizabeth_Salk]] (Mar 5, 1887), **Lena Fain** (informant on death cert), Anna Salk (m. Zipperman; 1893-1958), Marry Salk (m. Lyons), and possibly others | Death Certificate (Tier 1) for Lena; MyHeritage (Tier 3) for others |
+| Burial | **Lincoln Park Cemetery, Warwick, RI** | Death Certificate (Tier 1) |
+| Immigration | 1894 or 1896 (two different arrival dates in GEDCOM) | MyHeritage (Tier 3, unverified) |
+| Cause of Death | Bronchial asthma, Infectious gingivitis, Sepsis following extraction of teeth, Chronic myocarditis. Duration: 2 weeks. | Death Certificate (Tier 1). Physician: Julius G. Kelley, M.D. |
+| Informant | **(daughter) Lena Fain** | Death Certificate (Tier 1). Previously unknown daughter. |
 
 ## Biography
 
-Abraham (Charles) Zolly Salk was born about 1860 in Russia (likely the Russian Empire, which included present day Lithuania). His father was **Louis (Elizar)(Lazar) Salk** (b. ABT 1840, Lithuania; d. before 1910, Providence, Rhode Island). Louis also married Rose (surname unknown, born and died in Lithuania) and had a second wife, Deena (Hessel), with whom he had daughter Sarah Salk (b. June 1869, Lithuania). Abraham's exact relationship to the multiple families of Louis Salk requires further clarification.
+Abraham Salk was born about 1859-1860 in Russia (age 65 at death on Feb 22, 1925, per Providence Death Certificate No. 584/226, Tier 1). The GEDCOM birth year of ~1840 is a **20-year error**. His father was **Louis Salk** (born Russia; confirmed by death certificate, Tier 1), matching the GEDCOM's "Louis (Elizar)(Lazar) Salk." His mother was **Rose P. Salk** (born Russia; maiden name recorded as "Salk" on the death certificate, which may indicate endogamy within the Salk family or the informant's uncertainty about the maiden name).
 
-Abraham immigrated to the United States; two arrival dates appear in the records: **1894** (age 33-34) and **1896** (age 35-36). The discrepancy may reflect separate immigration events (a preliminary trip followed by permanent settlement) or conflicting census declarations.
+Abraham resided at **60 Chalkstone Avenue, Providence, Rhode Island** and worked as a **junk peddler** (death certificate, Tier 1). He died at Providence City Hospital on February 22, 1925 at 12:39 PM of sepsis following a dental extraction, complicated by bronchial asthma and chronic myocarditis. Duration of illness: 2 weeks.
 
-He married **Tauba**, who is recorded under a remarkable array of name variants: Toby, Tobe, Teibe, Tobrey, Theresa, Fannie, and Pheabe. Tauba was born about 1850 in Russia and immigrated separately, with arrival dates of either 1898 or 1901 listed in the records. On the **1910 and 1920 Census**, the family lived in Providence Ward 3, Rhode Island. Abraham was listed as head of household; both his and Tauba's birthplaces were recorded as Russia (which could encompass the Russian Empire, including Lithuania and parts of Poland).
+He married **Tobey Salk** (also recorded as Tauba, Toby, Tobe, Teibe, Tobrey, Theresa, Fannie, Pheabe). Tobey was **alive at the time of Abraham's death** (death certificate lists status as "Married," not "Widowed"). Abraham immigrated to the United States; two arrival dates appear in GEDCOM records: 1894 and 1896 (unverified).
 
-Abraham and Tauba had at least three documented children:
-- **Elizabeth Salk** (~1887), who married [[Barnett_Salmanson]] on September 12, 1909 in Providence, RI
+Abraham and Tobey had at least four documented children:
+- **[[Elizabeth_Salk]]** (Mar 5, 1887; d. Nov 30, 1974), who married [[Barnett_Salmanson]] on September 12, 1909 in Providence, RI
+- **Lena Fain** (daughter; served as informant on Abraham's death certificate, Tier 1). Previously unknown; not in GEDCOM, Geni, or MyHeritage.
 - **Anna Salk** (b. July 22, 1893, Rhode Island; d. January 26, 1958, Fulton, Georgia; m. Samuel Zipperman)
 - **Marry Salk** (m. Lyons)
 
