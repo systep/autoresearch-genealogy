@@ -1,11 +1,12 @@
 ---
 type: person
-name: "Dov Markel"
-born: 
+name: "Mordko Ber (Dov) Markiel"
+born: ~1830-1840
 died: 
 family: "Markel"
-confidence: low
+confidence: moderate
 sources:
+  - "AGAD Warsaw, Fond 424, File 103, Record 34 (Sambor Jewish Marriages 1891-1897, Tier 1)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500078)"
   - "MyHeritage Person Discovery"
   - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
@@ -19,23 +20,26 @@ tags: [genealogy, markel, person, galicia, jewish, tier-2, sambor]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Dov Markel | GEDCOM; Yichus narrative (Tier 2) |
-| Born | Unknown (estimated c. 1830 to 1840; see Estimated Date Range below) | |
-| Birthplace | Unknown (family located in Vanyavitch/Waniowice, Sambor district, Galicia) | Yichus narrative (Tier 2) |
-| Died | Unknown (death recorded but date not given) | GEDCOM |
-| Burial | Unknown (likely Sambor Jewish cemetery) | |
+| Full Name | **Mordko Ber Markiel** (Mordechai Dov Ber; family knew him as "Dov") | AGAD marriage record (Tier 1); Yichus uses "Dov" (Tier 2) |
+| Born | Estimated c. 1830 to 1840 | |
+| Birthplace | Waniowice, Sambor district, Galicia | AGAD marriage record (Tier 1) |
+| Died | Unknown | GEDCOM |
 | Father | [[Nissen_Mendel_Markel]] | Yichus narrative (Tier 2) |
 | Mother | Unknown | |
-| Spouse | [[Wife_Markel]] (unknown name) | GEDCOM |
-| Children | [[Heschel_Herman_Markel]] (1862-1916); Mattis Markel | GEDCOM; Yichus narrative (Tier 2) |
+| Spouse | **[[Henie_Markel]]** (Henie; likely Chana/Hannah or Hinde in Hebrew) | AGAD marriage record (Tier 1) |
+| Children | [[Heschel_Herman_Markel]] (Hersch; 1862-1916); Mattis Markel | AGAD (Tier 1); Yichus (Tier 2) |
 
 ## Biography
 
-Dov Markel was the son of **[[Nissen_Mendel_Markel]]** and the father of **[[Heschel_Herman_Markel]]** (Heshel Markel; b. 1862; d. 1916) (Yichus narrative, Tier 2; GEDCOM). The Yichus narrative establishes the patrilineal line as: Nissen Mendel Markel to Dov Markel to Heshel Markel (Tier 2).
+Mordko Ber Markiel (known to the family as "Dov") was the son of **[[Nissen_Mendel_Markel]]** and the father of **[[Heschel_Herman_Markel]]** (Hersch Markel; b. 1862; d. 1916). His full name is confirmed by the **1894 marriage record of his son Hersch** (AGAD Warsaw, Fond 424, File 103, Record 34, Sambor Jewish Marriages 1891-1897, Tier 1), where he is listed as **"Mordko Ber MARKIEL"** of Waniowice. The family surname was originally spelled **Markiel**, later simplified to Markel.
 
-Dov also had a second known son, **Mattis Markel**, identified as Heshel's brother in the Yichus narrative (Tier 2). No other details about Mattis are provided.
+"Mordko Ber" is a compound Yiddish/Hebrew name: Mordko (Mordechai) + Ber (Bear = Dov in Hebrew). The family preserved only the Hebrew component "Dov" in oral tradition (Yichus narrative, Tier 2).
 
-His wife's name is unknown, recorded only as [[Wife_Markel]] in the GEDCOM. The family was located in Vanyavitch (Waniowice), a village near Sambor in Galicia (now western Ukraine).
+His wife was **[[Henie_Markel]]** (Henie), identified on the same 1894 marriage record as the groom's mother (Tier 1). "Henie" likely corresponds to Hebrew Chana (Hannah) or Hinde. She was previously completely unknown (recorded only as [[Wife_Markel]] in the GEDCOM with no name).
+
+Mordko Ber also had a second known son, **Mattis Markel**, identified as Heshel's brother in the Yichus narrative (Tier 2).
+
+The entire family was located in **Waniowice**, a village near Sambor in Galicia (now western Ukraine). Both the Markel and Frei families were rooted in Waniowice per the 1894 marriage record.
 
 ### Estimated Date Range
 

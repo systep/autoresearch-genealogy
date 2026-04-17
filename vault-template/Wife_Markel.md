@@ -1,32 +1,33 @@
 ---
 type: person
-name: "Wife Markel"
+name: "Henie Markel"
 born: 
 died: 
 family: "Markel"
-confidence: stub
+confidence: moderate
 sources:
+  - "AGAD Warsaw, Fond 424, File 103, Record 34 (Sambor Jewish Marriages 1891-1897, Tier 1)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500079)"
   - "MyHeritage Person Discovery"
 created: 2026-04-10
-tags: [genealogy, markel, person, stub, tier-3]
+updated: 2026-04-17
+tags: [genealogy, markel, person, galicia, jewish, waniowice, sambor]
 ---
 
-# Wife Markel (Unknown Name)
+# Henie Markel
 
 ## Vital Information
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Unknown (recorded as "Wife Markel") | GEDCOM |
+| Full Name | **Henie Markel** (likely Chana/Hannah or Hinde in Hebrew) | AGAD marriage record (Tier 1) |
 | Born | Unknown | |
-| Birthplace | Unknown | |
-| Died | Unknown (death recorded but date not given) | GEDCOM |
-| Burial | Unknown | |
+| Birthplace | Waniowice, Sambor district, Galicia | AGAD marriage record (Tier 1) |
+| Died | Unknown | GEDCOM |
 | Father | Unknown | |
 | Mother | Unknown | |
-| Spouse | [[Dov_Markel]] | GEDCOM |
-| Children | [[Heschel_Herman_Markel]] (1862-1916); Mattis Markel | GEDCOM; Yichus narrative (Tier 2) |
+| Spouse | [[Dov_Markel]] (Mordko Ber Markiel) | AGAD marriage record (Tier 1) |
+| Children | [[Heschel_Herman_Markel]] (Hersch; 1862-1916); Mattis Markel | AGAD (Tier 1); Yichus (Tier 2) |
 
 ## Biography
 
