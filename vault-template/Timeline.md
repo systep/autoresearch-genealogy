@@ -217,7 +217,9 @@ Chronological index of all dated events across the family tree.
 | ~1922 | Birth | Mary Elizabeth Bright | Tennessee | MyHeritage 1930 census |
 | 1924 | Birth | Donald Salmanson | | Donald obit |
 | 27 Mai 1928 | Death (tuberculosis) | Rosina Kascher (child #7) | Denver, Colorado | Church cert "KINDER" (Tier 1) |
-| Feb 22, 1925 | Death | [[Abraham_Zolly_Salk]] (age ~64-65) | Rhode Island | MyHeritage (Tier 3) |
+| Feb 22, 1925 | Death; informant: daughter [[Lena_Fain]] | [[Abraham_Zolly_Salk]] (age ~64-65) | Providence City Hospital, Providence, RI | Death Certificate No. 584/226 (Tier 1) |
+| ~1912 | Birth (twin) | Alfred Fain (son of Nathan + [[Lena_Fain]]) | Providence, RI | Alfred Fain obituary 2005 (Tier 2; d. 2005 age ~93) |
+| 2005 | Death (age ~93) | Alfred Fain (son of Nathan + [[Lena_Fain]]; co-owner Fain's Department Store) | Providence, RI | Alfred Fain obituary, Providence Journal (Tier 2) |
 | 1932 | Business founded | Adams Drug Company | Woonsocket and Pawtucket, RI | Wikipedia |
 | 4 Mar 1933 | Death | [[Regina_Kascher]] | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |
 | 22 Jul 1935 | Death (Herzschlag/heart attack) | [[Michael_Kascher_Sr_1864]] | Ohio | Church cert "VATER" (Tier 1); Youngstown Vindicator obit |

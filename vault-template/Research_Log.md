@@ -10,6 +10,77 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-18: Lena Fain Research (targeted person research), 10 searches
+
+### Summary
+
+Researched Lena Fain, newly discovered daughter of Abraham and Tobey Salk, who served as informant on Abraham's 1925 death certificate (Providence Death Certificate No. 584/226). Lena was previously unknown in all family tree databases (GEDCOM, Geni, MyHeritage). 10 web searches conducted across Find a Grave, obituary databases, Jewish Rhode Island, RIJHA, and general genealogy sources.
+
+### Key Finding
+
+**Alfred Fain obituary (Providence Journal, 2005, Tier 2)** names his parents as **"Nathan and Lena (Salk) Fain."** This confirms:
+1. Lena's maiden name was Salk (corroborating the death certificate's identification of her as Abraham's daughter).
+2. Her husband was **Nathan Fain**.
+3. Their children included: **Alfred Fain** (~1912, d. 2005, age ~93; twin; co-owner of Fain's Department Store, Providence, 53 years), Alfred's twin brother (name unknown), **Jeanette (Fain) Rosofsky**, **Leonard Fain**, and **Dora (Fain) Paster**.
+
+### Searches Conducted
+
+| # | Search | Database/Source | Result |
+|---|---|---|---|
+| 1 | "Lena Fain Find a Grave Rhode Island" | Web/Find a Grave | Negative. No specific result for Lena Fain. |
+| 2 | "Lena Fain Providence Rhode Island obituary" | Web/Legacy.com | Negative. General obituary pages only. |
+| 3 | "Lena Salk Providence Rhode Island" | Web/general | Negative. No specific match. |
+| 4 | "Fain family Lincoln Park Cemetery Warwick RI" | Web/Find a Grave | Negative for specific Fain records. Lincoln Park has 13,809 memorials. |
+| 5 | "Fain OR Fein Jewish family Providence RI early 1900s" | Web/general | **Positive.** Multiple Fain family members found. Irving Israel Fain (b. 1899, RI, 11 siblings). Fain family among founders of Howell Street shul. Barnet Fain (1932-2018) obituary found. |
+| 6 | "Barnet Fain Providence RI parents wife children obituary" | Web/Legacy.com, Echovita | **Positive.** Barnet "Bunny" Fain (1932-2018), son of Irving I. Fain and Miriam Grossman. |
+| 7 | "Irving Fain Providence RI Salk family Jewish obituary" | Web/general | Partial. Irving I. Fain (b. Dec 18, 1899, d. Sept 1983). Also found Irving J. Fain (b. 1906), different family. |
+| 8 | "Alfred Fain twin Fain's Department Store parents Nathan Lena Salk" | Web/Legacy.com | **KEY FINDING.** Alfred Fain obituary (2005) names parents as "Nathan and Lena (Salk) Fain." Co-owner of Fain's Department Store with twin for 53 years. Wife: Sylvia (Kniznik). Siblings: Jeanette Rosofsky, Leonard Fain, Dora Paster. |
+| 9 | "Irving Fain Providence RI parents mother father born 1899" | Web/RI Heritage Hall of Fame, Geni | Clarified: Irving J. Fain (b. 1906, son of Alfred Fain + Elizabeth Stoneman, Teknor Apex) is DIFFERENT from Irving I. Fain (b. 1899). |
+| 10 | "Lena Fain OR Lena Salk Fain Find a Grave BillionGraves RI" | Web/Find a Grave, BillionGraves | Negative. No specific memorial found. |
+
+### Fain Family Disambiguation (Providence, RI)
+
+Two distinct prominent Jewish Fain families in Providence identified:
+
+**Family A: Nathan + Lena (Salk) Fain** (our connection)
+- Fain's Department Store
+- Children: Alfred (twin), twin brother, Jeanette Rosofsky, Leonard Fain, Dora Paster
+- Possibly also Irving I. Fain (b. 1899)
+
+**Family B: Alfred A. Fain Sr. + Elizabeth (Stoneman) Fain**
+- Apex Tire Company (1924), later Teknor Apex
+- Children: Irving J. Fain (1906-1970, RI Heritage Hall of Fame), Edgar, Norman M. Fain (1914-2003), Janet, Selma
+
+These are separate families. The Salk connection is exclusively to Family A.
+
+### Negative Results
+
+- No Find a Grave or BillionGraves memorial found for Lena Fain or Nathan Fain.
+- No obituary for Lena Fain or Nathan Fain found in web-accessible sources.
+- RIJHA obituary PDFs returned 403 errors (blocked).
+- JewishRhody.com, DignityMemorial.com obituary pages returned 403 errors (blocked).
+- No census records directly accessed (require login).
+
+### Files Created/Updated
+
+| File | Action |
+|---|---|
+| [[Lena_Fain]] | Created. Person file with all discovered information. |
+| [[Abraham_Zolly_Salk]] | Updated. Added wikilink to Lena_Fain, expanded biography, added Alfred Fain obituary to sources. |
+| [[Family_Tree]] | Updated. Added Salk Family section with Lena Fain branch. |
+| [[Timeline]] | Updated. Added Lena Fain events. |
+| [[Research_Log]] | Updated. This entry. |
+
+### Recommended Next Steps
+
+1. **Human browser search**: Search Find a Grave and BillionGraves directly for "Lena Fain" and "Nathan Fain" at Lincoln Park Cemetery, Warwick, RI.
+2. **Census records**: Search 1910, 1920, 1930 census for Nathan Fain household in Providence. Would provide Lena's birth year, birthplace, immigration year, and children's names.
+3. **Rhode Island vital records**: RI State Archives holds death records 1853-1975 (public after 50 years). Search for Lena Fain death record.
+4. **Alfred Fain's twin brother**: Identify the twin's name from the Alfred Fain 2005 obituary (Providence Journal, behind paywall).
+5. **Irving I. Fain parentage**: Determine if Irving I. Fain (b. 1899) was a son of Nathan and Lena Fain or a different Fain family.
+
+---
+
 ## 2026-04-18: Find a Grave Sweep (prompts/03-findagrave-sweep.md), 10 priority targets, ~25 searches
 
 ### Summary
