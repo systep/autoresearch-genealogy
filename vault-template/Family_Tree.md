@@ -118,6 +118,28 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 - **Hilda (Mittleman) Salmanson** (1916-2016): daughter of Max and Fannie Mittleman; siblings Harry Mittleman, Joseph Mittleman, Sara Goldberg
 - **Hannah (Kushner) Salmanson** (1914-2001): daughter of Jacob and Dora (Alpert) Kushner
 
+### Salk Family (Elizabeth's Family of Origin)
+
+*Source: Providence Death Certificate No. 584/226 (Tier 1); Alfred Fain obituary 2005 (Tier 2); MyHeritage (Tier 3)* **(moderate)**
+
+```
+Louis Salk (b. Russia) + Rose P. Salk (b. Russia)
+└── [[Abraham_Zolly_Salk]] (b. ~1860, Russia; d. Feb 22, 1925, Providence RI) + Tobey/Tauba Salk
+    ├── [[Elizabeth_Salk]] (Mar 5, 1887 - Nov 30, 1974) + [[Barnett_Salmanson]]
+    ├── [[Lena_Fain]] (b. ~1885-1895) + Nathan Fain
+    │   ├── Alfred Fain (~1912, d. 2005; twin; co-owner Fain's Department Store) + Sylvia Kniznik
+    │   ├── Alfred's twin brother (name unknown; co-owner Fain's Department Store)
+    │   ├── Jeanette (Fain) Rosofsky
+    │   ├── Leonard Fain
+    │   └── Dora (Fain) Paster
+    ├── Anna Salk (b. Jul 22, 1893, RI; d. Jan 26, 1958, GA) + Samuel Zipperman
+    └── Marry Salk + Lyons
+```
+
+**Note:** Lena Fain was discovered from Abraham's 1925 death certificate (informant: "daughter Lena Fain"). Her maiden name "Salk" was confirmed by Alfred Fain's 2005 obituary (Providence Journal), which names his parents as "Nathan and Lena (Salk) Fain." She was previously absent from all known family trees (GEDCOM, Geni, MyHeritage).
+
+**Note on Fain family disambiguation:** The Nathan and Lena (Salk) Fain family (Fain's Department Store) is distinct from the Alfred A. Fain Sr. and Elizabeth (Stoneman) Fain family (Teknor Apex / Irving J. Fain, RI Heritage Hall of Fame inductee 1985). Both were prominent Jewish families in Providence but are not the same family.
+
 ### Eastern European Ancestry: Zalmanson Line
 
 *Source: Screenshot 2026-04-09 125824.png (strong for names), loebtree.com (moderate, user-contributed)*

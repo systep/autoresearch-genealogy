@@ -13,6 +13,7 @@ sources:
   - "1920 US Census (implied)"
   - "Salk surname etymology (Ancestry.com, Geneanet)"
   - "Children's obituaries confirming Elizabeth (Salk) maiden name (Tier 2)"
+  - "Alfred Fain obituary, Providence Journal, 2005 (Tier 2): names parents as Nathan and Lena (Salk) Fain"
   - "Elizabeth Salmanson headstone, Lincoln Park Cemetery, BillionGraves (Tier 1)"
   - "1930 US Census (Elizabeth household, Tier 1)"
 created: 2026-04-10
@@ -35,7 +36,7 @@ tags: [genealogy, salk, person, russia, rhode-island, providence, immigrant, lit
 | Father | **Louis Salk**, born Russia | Death Certificate (Tier 1). Confirms GEDCOM "Louis (Elizar)(Lazar) Salk." |
 | Mother | **Rose P. Salk** (maiden name recorded as Salk), born Russia | Death Certificate (Tier 1). Middle initial P; maiden name "Salk" may indicate endogamy or informant uncertainty. |
 | Spouse | **Tobey Salk** (alive at time of death; Abraham listed as "Married") | Death Certificate (Tier 1). Confirms Tauba/Toby. |
-| Children | [[Elizabeth_Salk]] (Mar 5, 1887), **Lena Fain** (informant on death cert), Anna Salk (m. Zipperman; 1893-1958), Marry Salk (m. Lyons), and possibly others | Death Certificate (Tier 1) for Lena; MyHeritage (Tier 3) for others |
+| Children | [[Elizabeth_Salk]] (Mar 5, 1887), [[Lena_Fain]] (m. Nathan Fain; informant on death cert), Anna Salk (m. Zipperman; 1893-1958), Marry Salk (m. Lyons), and possibly others | Death Certificate (Tier 1) for Lena; Alfred Fain obituary 2005 (Tier 2) for maiden name confirmation; MyHeritage (Tier 3) for others |
 | Burial | **Lincoln Park Cemetery, Warwick, RI** | Death Certificate (Tier 1) |
 | Immigration | 1894 or 1896 (two different arrival dates in GEDCOM) | MyHeritage (Tier 3, unverified) |
 | Cause of Death | Bronchial asthma, Infectious gingivitis, Sepsis following extraction of teeth, Chronic myocarditis. Duration: 2 weeks. | Death Certificate (Tier 1). Physician: Julius G. Kelley, M.D. |
@@ -51,7 +52,7 @@ He married **Tobey Salk** (also recorded as Tauba, Toby, Tobe, Teibe, Tobrey, Th
 
 Abraham and Tobey had at least four documented children:
 - **[[Elizabeth_Salk]]** (Mar 5, 1887; d. Nov 30, 1974), who married [[Barnett_Salmanson]] on September 12, 1909 in Providence, RI
-- **Lena Fain** (daughter; served as informant on Abraham's death certificate, Tier 1). Previously unknown; not in GEDCOM, Geni, or MyHeritage.
+- **[[Lena_Fain]]** (daughter; served as informant on Abraham's death certificate, Tier 1). Previously unknown; not in GEDCOM, Geni, or MyHeritage. Research (2026-04-18) confirmed her married name via Alfred Fain's 2005 obituary (Providence Journal, Tier 2), which names his parents as "Nathan and Lena (Salk) Fain." Lena married **Nathan Fain** of Providence. Their children included Alfred Fain (twin, co-owner Fain's Department Store), his twin brother, Jeanette Rosofsky, Leonard Fain, and Dora Paster.
 - **Anna Salk** (b. July 22, 1893, Rhode Island; d. January 26, 1958, Fulton, Georgia; m. Samuel Zipperman)
 - **Marry Salk** (m. Lyons)
 
@@ -152,6 +153,8 @@ Abraham Salk's family is associated with **Lincoln Park Cemetery**, while Harvey
 | Samuel Salmanson obituary (2004) | Newspaper (Tier 2) | Founded Brooks Drug/Adams Drug with father Barnett and brothers |
 | Salk surname etymology (Ancestry.com, Geneanet) | Reference (Tier 2) | Salk = altered form of Zalk, Lithuanian Jewish, from Zalkind/Solomon |
 | Zalk family of Troskunai (JewishGen KehilaLinks) | Genealogical reference (Tier 2) | Zalk family documented in Troskunai, Lithuania |
+| Alfred Fain obituary (2005, Providence Journal) | Newspaper (Tier 2) | Names parents as "Nathan and Lena (Salk) Fain"; confirms Lena's maiden name and husband |
+| Vault: [[Lena_Fain]] | Person file | Daughter's biographical detail |
 
 ## Data Discrepancies
 

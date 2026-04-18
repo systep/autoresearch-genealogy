@@ -2,13 +2,64 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-18
-last_session: "2026-04-18 Open Question Resolution (prompts/08-open-question-resolution.md): 5 OQs attacked, 10 iterations, ~30 searches. Key findings: Charstee King maiden name likely Cooley (Find a Grave photo caption, Tier 2); Robert King II (1750-1826, Ireland) identified as 5th-generation patriarch of King line; George Washington King parents confirmed as James King + Mary Parker (Geni); Petrus Krauss Binder confirmed as Martin Binder's father (siebenbuerger.de, Tier 2), contradicting GEDCOM's Johann; Corbin King NOT among Robert King II's 13 children."
+last_session: "2026-04-18 Find a Grave Sweep (prompts/03-findagrave-sweep.md): Searched 10 priority deceased persons without Find a Grave links. 20+ web searches across Find a Grave, name variants, and cemetery-specific queries. 0 new memorials found. All 10 targets logged as NEEDS_FINDAGRAVE requiring human browser search. Key gap: Lincoln Park Cemetery (Warwick RI) has minimal Markel/Salk coverage despite confirmed burials. High Street Cemetery (Rocky Mount VA) missing Bright family memorials. Updated findagrave_audit.md."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-18: Find a Grave Sweep (prompts/03-findagrave-sweep.md), 10 priority targets, ~25 searches
+
+### Summary
+
+Executed Find a Grave sweep for the 10 highest-value deceased persons without existing Find a Grave links. Conducted 25 web searches including direct Find a Grave queries, site-restricted searches, name variant searches, and cemetery-specific searches. Find a Grave's memorial search API returns 403 on all programmatic access, limiting results to web search engine indexing.
+
+**Results: 0 new memorials found. All 10 targets logged as NEEDS_FINDAGRAVE in findagrave_audit.md.**
+
+Targets searched: Morris Markel (d. 1963), Helen Brandt Markel (d. ~1975), Abraham Salk (d. 1925), Tauba Salk (d. unknown), Willis Henrietta Youngblood (d. 1952), Albert Graham Bright (d. 1961), Rebecca Moseley Long Bright (d. 1985), George Bright Sr. (d. 1873), Samuel Graham Bright (d. 1909), Jeddiah W. Clark (d. 1860).
+
+Key finding: Lincoln Park Cemetery (Warwick RI, 13,809 records) has coverage gap for Markel and Salk families. High Street Cemetery (Rocky Mount VA, 1,372 records) has no Bright memorials despite confirmed burials. One false positive eliminated: George Bright #23550848 is an Ohio Mennonite, not our target.
+
+See findagrave_audit.md "2026-04-18 Sweep" section for full search table and human action items.
+
+---
+
+## 2026-04-18: Unresolved Persons (prompts/06-unresolved-persons.md)
+
+### Summary
+
+Executed the Unresolved Persons prompt to catalogue all named individuals in vault documents who lack person files or clear identification. Cross-referenced 11 known unresolved persons from current session research against Family_Tree.md, person files, and vault documents.
+
+### Results
+
+- **Total persons tracked**: 15
+- **Resolved**: 1 (Regina Kascher, person file already existed)
+- **Likely Family (Priority 1)**: 8 persons (H.H. King, Lena Fain, Mattis Markel, Yosef Markel, Arthur Goodman, Max Tachner, "Morris Markel Billy", Sara Hinde Markel Lutowiska)
+- **Community Connections (Priority 2)**: 7 persons (6 Ahavath Sholom founders: Barney Hirshfield, Morris Shafrin, Joseph Dressler, Harry Fishtein, David Frank, one Glantz; plus Abraham David Sternbach who is already documented as family)
+- **Awaiting Browser Access (Priority 3)**: 2 persons (Jack Schlusselberg Salem MA, Peppi Schlusselberg Hewlett NY; both Dignity Memorial obituaries returned 403)
+- **Cannot Identify**: 0
+
+### Witness Network Analysis
+
+Updated Witness_Network.md with 5 certificate signers/informants, 7 congregational affiliates, 3 marriage network entries, 10 Standing Springs charter members, 3 recurring individuals, and 5 analytical patterns (Pelzer as King hub, Ahavath Sholom network, double Tachner-Markel marriages, informant discovery pattern, Schlusselberg bridge potential).
+
+### Files Updated
+
+- Unresolved_Persons.md: Complete rewrite with categorized persons, resolution log, statistics
+- Witness_Network.md: Complete rewrite with categorized witness/informant entries and pattern analysis
+- Research_Log.md: This entry
+
+### Next Steps (HUMAN ACTION REQUIRED)
+
+1. Access Jack Schlusselberg obituary: dignitymemorial.com/obituaries/salem-ma/jack-schlusselberg-8066256
+2. Access Peppi Schlusselberg obituary: dignitymemorial.com/obituaries/hewlett-ny/peppi-schlusselberg-6029155
+3. Access Joseph Markel obituary: legacy.com/obituaries/name/joseph-markel-obituary?pid=172362045
+4. Search 1900 census for Judson King household to identify H.H. King (requires login-based database)
+5. Search Providence RI census/city directories for Lena Fain (nee Salk) to establish dates and family
+
+---
 
 ## 2026-04-18: Colonial Records Search (prompts/10-colonial-records-search.md), 10 iterations, ~30 searches
 

@@ -63,6 +63,40 @@ The family immigrated to the United States approximately 1928. Evidence: daughte
 
 ### Census Records
 
+**1930 US Census: NOT YET LOCATED (2026-04-18 search session)**
+
+Conducted 10 targeted web searches for the Markel family in the 1930 Federal Census (taken April 1930). The family immigrated ~1928 and settled in West Warwick (Arctic), Kent County, Rhode Island. This would be their earliest US census appearance and could reveal household composition shortly after arrival, including whether Helen's parents (Joseph Brandt and Brina Goldbaum) accompanied them.
+
+Searches attempted:
+1. "Morris Markel" 1930 Census Rhode Island: NEGATIVE. No indexed record surfaced.
+2. "Markel" 1930 Census West Warwick Kent County RI: NEGATIVE. General census guides only.
+3. FamilySearch 1930 census index, Markel, Rhode Island: NEGATIVE. Collection 1810731 confirmed to exist but requires login for individual record search.
+4. Variant spellings "Markl" / "Merkl" / "Markiel" / "Markal" 1930 census West Warwick: NEGATIVE.
+5. "Helen Markel" 1930 census Rhode Island: NEGATIVE.
+6. Ancestry 1930 census references, Markel, West Warwick or Providence: NEGATIVE.
+7. "Morris Markel" / "Morris Markal" census 1930 or 1935: NEGATIVE.
+8. Markel family, Arctic, West Warwick, Jewish, Harris Avenue: NEGATIVE (but confirmed RIJHA article about Ahavath Sholom founding).
+9. Steve Morse Unified Census ED Finder for West Warwick 1930: 403 on automated access. Tool confirmed operational at stevemorse.org/census/unified.html.
+10. NARA microfilm locator for 1930 census Kent County RI (T626 series): 403 on automated access. Confirmed locator exists at archives.gov/research/census/1930/about-locator.html.
+
+**Why the record was not found via web search:** The 1930 census is fully digitized and indexed on Ancestry.com (collection 6224) and FamilySearch (collection 1810731), but both require login for individual record searches. Rhode Island was NOT one of the twelve southern states with a Soundex index for 1930, making it harder to locate records outside the main databases. The family name may also be misspelled in the index (as with the 1940 Census "Markal" and the 1950 Census "Workel" misindexing).
+
+**Key contextual notes for locating the record:**
+1. The 1940 Census states the family lived at 28 Harris Avenue "since 1935." This means in April 1930, they may have been at a different address in West Warwick (or possibly Providence, where they may have first settled before moving to West Warwick).
+2. The family arrived ~1928 (Kate born Dec 1925 in Poland, moved to West Warwick at age 3). By April 1930, they had been in the US approximately 2 years.
+3. Morris's sister Minnie Sternbach and husband Abraham Sternbach had been in West Warwick since 1912. The Markel family may have initially lived with or near the Sternbachs.
+4. The 1930 Census enumeration district for West Warwick can be identified using Steve Morse's Unified Census ED Finder (stevemorse.org/census/unified.html) by entering "West Warwick" or individual street names.
+5. Expected household in April 1930: Morris (~38), Helen (~33-36), Thelma (~9), Anne (~8), possibly Rita (~5), Kate (~4). Frieda's status unknown. Joseph Harold not yet born (~1932).
+6. The 1930 Census recorded year of immigration and whether naturalized, which would provide critical immigration data.
+7. Variant name spellings to search: Markel, Markal, Markiel, Markl, Merkl, Marcel, Marckel.
+
+**HUMAN ACTION REQUIRED:**
+1. Search Ancestry.com collection 6224 (1930 United States Federal Census) for: Morris Markel / Markal / Markiel in Rhode Island. Try broad search with just surname "Markel" in Kent County RI.
+2. Search FamilySearch collection 1810731 for same variants.
+3. If not found by name, use Steve Morse ED Finder to identify 1930 enumeration districts for West Warwick, then browse the census images page by page for the Markel household.
+4. Also search for "Abraham Sternbach" in 1930 Census West Warwick; the Markel family may be enumerated nearby or in the same household.
+5. Also check 1935 Rhode Island State Census (FamilySearch collection 1529126, indexed and free). This census records individuals alphabetically by surname within each town. Search for Markel in West Warwick.
+
 **1940 US Census (Tier 1):** Morris Markal [sic], age 48 (b. ~1892), born Poland. Living at 28 Harris Avenue, West Warwick, Kent County, Rhode Island. Same address since 1935. Citizenship status: 4. Wife: Helen Markal, age 43 (b. ~1897). Children in household: Thelma (19), Anne (18), Rita (15), Katherine (14), Harold (8). Enum. District 2-46, Roll m-t0627-03769, Line 77.
 
 **1950 US Census (Tier 1):** Morris Markel, age 59 (b. ~1891), born Austria. Living at 12 Capron, West Warwick, Kent County, Rhode Island. Wife: Helen Markel, age 59 (b. ~1891). Children in household: Ann Workel [misindexed; actually Markel] (28), Rita Workel [Markel] (25), Kate Workel [Markel] (24), Joseph Workel [Markel] (18). Series T628, Dwelling 57, Line 29. Note: children's surname indexed as "Workel," an obvious misread of "Markel."

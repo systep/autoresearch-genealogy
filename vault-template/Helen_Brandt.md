@@ -242,7 +242,7 @@ See [[Joseph_Brandt]] and [[Brina_Goldbaum]] for full session notes. See Researc
 16. **CJH Brandt family collection**: Contact cjh.org about the collection documenting "Brandt, Ament, Kohl, Kalahora, and Lebenheim families in Galicia and Russia."
 17. **Ship passenger manifest (~1928)**: Search Steve Morse One Step for Markel/Markiel/Brandt arriving New York 1926-1930.
 18. **Morris Markel naturalization petition**: RI U.S. District Court records (NARA Boston/Waltham). Would list Helen, birthplace, arrival.
-19. **1930 US Census, West Warwick RI**: Earliest US record of Markel family. Ancestry or FamilySearch.
+19. **1930 US Census, West Warwick RI**: Earliest US record of Markel family. **2026-04-18 update: 10 web searches conducted; record NOT located via free web search. Both Ancestry (collection 6224) and FamilySearch (collection 1810731) require login. Record is critical because it would show the family ~2 years after immigration and could reveal whether Helen's parents were in the household. HUMAN ACTION REQUIRED: Search Ancestry collection 6224 for Markel/Markal/Markiel in Kent County RI. Also try searching for Abraham Sternbach (Morris's brother-in-law, established West Warwick resident) in the 1930 Census; Markel family may be enumerated nearby. Also check 1935 RI State Census (FamilySearch collection 1529126, indexed and free).** See [[Morris_Markel]] for full 1930 Census search session notes.
 
 ## 2026-04-18 Goldbaum Deep Search in Lisko/Lesko Region
 
