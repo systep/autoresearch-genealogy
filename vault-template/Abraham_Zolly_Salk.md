@@ -17,7 +17,7 @@ sources:
   - "Elizabeth Salmanson headstone, Lincoln Park Cemetery, BillionGraves (Tier 1)"
   - "1930 US Census (Elizabeth household, Tier 1)"
 created: 2026-04-10
-updated: 2026-04-14
+updated: 2026-04-18
 tags: [genealogy, salk, person, russia, rhode-island, providence, immigrant, lithuania, zalk]
 ---
 

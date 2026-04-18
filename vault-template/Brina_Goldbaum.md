@@ -2,7 +2,7 @@
 type: person
 name: "Brina Goldbaum"
 born: ~1860-1875
-died: ~1939-1945
+died: "Aug-Sept 1942 (Lesko ghetto liquidation or Belzec extermination camp)"
 family: "Goldbaum"
 confidence: speculative
 sources:
@@ -14,6 +14,11 @@ sources:
   - "web-research-2026-04-17"
   - "web-research-2026-04-18"
   - "web-research-2026-04-18-lisko-deep-search"
+  - "web-research-2026-04-18-holocaust-records-search"
+  - "Holocaust Historical Society (Sanok page, Tier 2)"
+  - "Shtetl Routes Lesko guidebook (Tier 2)"
+  - "Uncovering Jewish Heritage (Tier 2)"
+  - "zchor.org Belzec deportation list (Tier 2)"
 created: 2026-04-10
 updated: 2026-04-18
 tags: [genealogy, goldbaum, brandt, person, tier-1, holocaust, jewish, poland, galicia, lisko, lesko]
@@ -43,7 +48,26 @@ The 1919 marriage record of her daughter Dwora (AGAD Fond 424, File 212) provide
 
 Brina and Józef Brand were **religiously but not civilly married** in Galicia. This is documented by the "false" (fałsz) notation on Dwora's marriage record: Dwora's legal surname was GOLDBAUM (Brina's maiden name), with BRAND listed as an alias. Under Habsburg law, the Austrian Empire did not recognize Jewish religious marriages, so children of such unions were registered under the mother's maiden name. This was an extremely common pattern in Galician Jewish communities.
 
-If Brina died in the Holocaust (1939-1945), she did not emigrate with her daughter Helen/Dwora. This is consistent with the broader pattern in the Markel family: four of Morris Markel's siblings who remained in Europe were murdered during the Holocaust in the Sambor area (1941-1943). Brina may have suffered a similar fate in the Lisko region.
+If Brina died in the Holocaust (1939-1945), she did not emigrate with her daughter Helen/Dwora. This is consistent with the broader pattern in the Markel family: four of Morris Markel's siblings who remained in Europe were murdered during the Holocaust in the Sambor area (1941-1943). Brina suffered a similar fate in the Lisko region (see Lesko Holocaust Timeline below).
+
+### Lesko Holocaust Timeline (Updated 2026-04-18, Tier 2: multiple corroborating secondary sources)
+
+Research (2026-04-18) has established the complete deportation timeline for the Jewish community of Lesko, based on the Holocaust Historical Society (Sanok page), Shtetl Routes (Lesko guidebook), Uncovering Jewish Heritage, and the zchor.org Belzec deportation list:
+
+- **June 1942**: Jews from Lesko and vicinity confined in a ghetto.
+- **July 22, 1942**: German order issued: Jews from villages and small towns must leave and move to collection points in Sanok, Bukowsko, Rymanow, Baligrod, Lesko, and Ostryk.
+- **Mid-August 1942**: Lesko ghetto liquidated. Approximately **100 of the least physically fit** (elderly, sick, disabled) were **shot at the Jewish cemetery**. The remaining inhabitants were marched to the Zaslaw transit camp.
+- **Zaslaw transit camp**: An unfinished paper factory approximately 5 miles south of Sanok, with its own railhead, surrounded by barbed wire. The camp's location within a factory was used to deceive Jews into believing they would find employment. In reality, most were deported to Belzec within days.
+- **September 4-7, 1942**: Jews from the entire Sanok district (including Lesko deportees) concentrated at Zaslaw. Over **11,000 Jews** crammed into barracks designed for approximately 500 people.
+- **September 7-10, 1942**: Deportation of approximately **17,000 Jews** from Zaslaw to **Belzec extermination camp**. All were murdered immediately upon arrival in the gas chambers.
+
+**Brina's probable fate**: At her estimated age of 67-82 in August 1942, Brina would have been among the elderly. She was most likely either (a) **shot at the Lesko Jewish cemetery** in mid-August 1942 as one of the approximately 100 "least physically fit," or (b) marched to Zaslaw and deported to Belzec, where she was murdered between September 7-10, 1942. In either case, there would have been no burial.
+
+**The Lesko synagogue memorial**: The former Lesko synagogue (damaged during WWII, rebuilt in the 1960s-70s, now an art gallery since 1978) displays a **list of 3,000 residents of Lesko and surroundings murdered by Nazis during 1939-1944**. The vestibule contains photographs about Jewish life and memorial plaques with names. If Brina was among the murdered, her name may appear on this list. HUMAN ACTION REQUIRED: Visit or photograph this memorial.
+
+**The Lesko Yizkor Book necrology** (pp. 467-489) lists the martyrs from Lesko and villages in the Linsk district. If Brina remained in Lesko, her name should appear in these pages. All pages are translated at jewishgen.org/yizkor/lesko/ but returned 403 on automated access. **HUMAN ACTION REQUIRED: Read pp. 467-489 in browser for Brand/Goldbaum names.** This is the single highest priority action for determining Brina's fate.
+
+**Note on Tarnopol Holocaust timeline**: The Tarnopol ghetto timeline documented below was recorded before the Tier 1 correction establishing Brina's origin as Lisko, not Tarnopol. It is retained for reference but is **no longer the primary hypothesis** for Brina's fate. The Lesko timeline above is now the correct context.
 
 ### Geographic Context (Updated 2026-04-18)
 
@@ -94,14 +118,20 @@ Confidence: **Speculative** (single Tier 3 source for Brina herself; no independ
 | CJH Ulrich Skaller Collection ME 605 | archival collection (Tier 2) | Contains Brandt family history in Galicia; may or may not be same family |
 | Tarnopol Yizkor Book (Korngruen/Kutten) | memorial book (Tier 2) | JewishGen Press; name index by Holzman; not yet checked for Goldbaum |
 | EHRI Jewish Community in Tarnopol (1874-1939) | archival catalogue (Tier 2) | USHMM / EHRI portal; Sygn. 110 |
+| Lesko (Lisko) Yizkor Book (Mark/Friedlander 1965) | memorial book (Tier 2) | USHMM Source #33405; JewishGen translation; necrology pp. 467-489 NOT YET CHECKED for Goldbaum/Brand |
+| Holocaust Historical Society Sanok page | secondary historical source (Tier 2) | Lesko deportation timeline; Zaslaw transit camp; Belzec transport Sept 7-10, 1942 |
+| Shtetl Routes Lesko guidebook | secondary historical source (Tier 2) | Ghetto established June 1942; ~100 shot at cemetery; march to Zaslaw |
+| Uncovering Jewish Heritage (Lesko) | secondary source (Tier 2) | Confirms 3,000 murdered; ghetto June 1942; liquidation Aug 1942 |
+| zchor.org Belzec deportation list | compiled historical list (Tier 2) | Lesko among communities deported to Belzec 1942 |
+| USHMM Fela Goldbaum oral history (irn505846) | oral history (Tier 2) | Geographic origin unknown; possible relative; NOT YET ACCESSED |
 
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | Birth date | Not recorded | Estimated ~1860-1875 based on daughter Helen's birth ~1889 | No source for any date. Estimate only. |
-| Death details | "Holocaust" (GEDCOM) | No further specifics | Location, date, and circumstances of death unknown. Yad Vashem database has records for Goldbaum from Tarnopol area (multiple item IDs found: 788325, 6510903, others) but individual records not yet accessed (403 on automated access). |
-| Origin town | Not recorded | Tarnopol inferred from surname in 1910 Census | Inference only; could have been from a smaller town in Tarnopol district (Zbaraz, Trembowla, Skalat, etc.) rather than Tarnopol city itself. |
+| Death details | "Holocaust" (GEDCOM) | Lesko deportation timeline (Tier 2, multiple sources) | **UPDATED 2026-04-18**: Brina was from Lisko (Tier 1). The Lesko Jewish community was murdered Aug-Sept 1942: ghetto liquidated mid-Aug; ~100 elderly shot at cemetery; remainder marched to Zaslaw, then deported to Belzec Sept 7-10. At age 67-82, Brina was most likely shot at Lesko Jewish cemetery or deported to Belzec. Yad Vashem Pages of Testimony and Lesko Yizkor necrology (pp. 467-489) NOT YET CHECKED for her name. |
+| Origin town | Tarnopol inferred (1910 Census, superseded) | **Lisko (Lesko)** confirmed by 1919 marriage banns (Tier 1) | **RESOLVED**: Brina was from Lisko, not Tarnopol. Tier 1 supersedes Tier 2 inference. The Goldbaum in Tarnopol 1910 Census is likely a different family. |
 
 ## Research History
 

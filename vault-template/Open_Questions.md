@@ -518,6 +518,11 @@ Research gaps and unresolved questions, organized by priority and family line. U
 | 44 | JewishGen Yizkor Necrology Database: "Goldbaum" all books | jewishgen.org/databases/yizkor/ (browser) | Search surname across ALL indexed Yizkor books | Free (account required) |
 | 45 | JRI-Poland Lesko surnames list | jri-poland.org/psa/lesko_surn.htm (browser) | Check if Goldbaum and Brand appear among indexed Lesko vital records | Free |
 | 46 | Geni "Jewish Families from Lesko" project (#28979) | geni.com/projects/Jewish-Families-from-Lesko-Poland/28979 (browser) | Browse profiles for Goldbaum/Brand connections | Free |
+| 47 | 1920 US Census: Nathan Fain household, Providence RI | Ancestry / FamilySearch | Lena Fain birth year, birthplace, immigration year, children's names | Subscription or Free (FamilySearch) |
+| 48 | Find a Grave / BillionGraves: Lena Fain, Nathan Fain at Lincoln Park Cemetery | findagrave.com / billiongraves.com (browser) | Burial locations, dates, headstone data | Free |
+| 49 | Alfred Fain obituary full text (2005, Providence Journal) | Providence Journal archives / ProQuest Newspapers / Providence Public Library | Twin brother's name, complete family details | Library access or subscription |
+| 50 | RI State Archives: Lena Fain death record | sos.ri.gov / FamilySearch RI deaths 1853-1975 | Death date, age at death, burial location, parents | Free (50+ years old = public) |
+| 51 | RIJHA "F" Obituaries PDF | rijha.org/wp-content/uploads/Obituaries/F%20Obituaries.pdf (browser) | Fain family obituary index entries | Free |
 
 ### 30. Helen Brandt's parents (Joseph Brandt + Brina Goldbaum)
 - **Merged with #21 (2026-04-17).** See #21 for full search history and leads from 2026-04-17 deep research session.
@@ -554,3 +559,11 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **JewishGen Yizkor Book Master Name Index**: Available on Ancestry (collection 5500), MyHeritage (collection 20034).
 - **Solvability**: HIGH (databases are accessible via browser)
 - **Payoff**: VERY HIGH (could identify individual victims, provide actual dates of death, and honor family members with their full names)
+
+### 36. Lena (Salk) Fain: vital dates, burial location, and complete family
+- **NEW (2026-04-18).** Lena Fain (nee Salk) was discovered as Abraham Salk's daughter from his 1925 death certificate (informant). Alfred Fain's 2005 obituary (Providence Journal, Tier 2) names his parents as "Nathan and Lena (Salk) Fain," confirming the connection. She married Nathan Fain; their children included Alfred (twin, co-owner Fain's Department Store), his twin brother (name unknown), Jeanette Rosofsky, Leonard Fain, and Dora Paster. Irving I. Fain (b. 1899) may also be their son.
+- **Remaining questions**: (a) Lena's birth and death dates. (b) Nathan Fain's dates and occupation. (c) Where are Lena and Nathan buried? (d) Name of Alfred's twin brother. (e) Was Irving I. Fain (b. 1899) a son of Nathan and Lena? (f) Census data for the Nathan Fain household (1910, 1920, 1930).
+- **Searched (2026-04-18)**: 10 web searches. No Find a Grave or BillionGraves memorial located. No obituary for Lena or Nathan found in web-accessible sources. RIJHA and JewishRhody.com obituary PDFs blocked (403).
+- **Next step**: (1) Search Find a Grave and BillionGraves directly in browser for Fain at Lincoln Park Cemetery. (2) Search 1920 Census for Nathan Fain household, Providence (FamilySearch free with login). (3) Search RI State Archives death records for Lena Fain and Nathan Fain. (4) Obtain full text of Alfred Fain 2005 obituary from Providence Journal (paywall or library microfilm).
+- **Solvability**: HIGH (census records, vital records, and cemetery records should all exist)
+- **Payoff**: HIGH (completes a previously unknown branch of the Salk family; Fain's Department Store is a notable Providence Jewish institution)

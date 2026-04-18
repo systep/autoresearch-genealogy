@@ -3366,3 +3366,78 @@ The record almost certainly exists (family was in the US by ~1928). It cannot be
 - [[Morris_Markel]]: Added "1930 US Census: NOT YET LOCATED" section with full search notes and HUMAN ACTION REQUIRED items.
 - [[Helen_Brandt]]: Updated research lead #19 with expanded 1930 Census search instructions.
 - [[Research_Log]]: This entry.
+
+## 2026-04-18: Holocaust Records Search for Brand/Goldbaum of Lesko (15 searches)
+
+### Summary
+
+Systematic search for Brand/Goldbaum family members from Lesko (Lisko) in Holocaust records and the Lesko Yizkor book. Tier 1 evidence (AGAD 1919 marriage banns) confirms Helen Brandt Markel was Dwora Goldbaum/Brand of Lisko, making Lesko the correct search location. Focused on establishing the deportation timeline, identifying the murder mechanism, and searching for individual family members in victim databases.
+
+### Key Historical Findings: Lesko Holocaust Timeline (Tier 2, multiple corroborating sources)
+
+| Date | Event | Source |
+|---|---|---|
+| Sept 1939 | German occupation begins | Encyclopedia.com, Shtetl Routes |
+| June 1942 | Jews from Lesko and vicinity confined in a ghetto | Uncovering Jewish Heritage; Shtetl Routes |
+| July 22, 1942 | German order: Jews from villages/small towns move to collection points including Lesko | Holocaust Historical Society (Sanok page) |
+| Mid-Aug 1942 | Lesko ghetto liquidation; ~100 least physically fit shot at Jewish cemetery | Shtetl Routes; multiple sources |
+| Mid-Aug 1942 | Surviving inhabitants marched to Zaslaw transit camp (unfinished paper factory, 5 mi S of Sanok, own railhead, barbed wire) | Holocaust Historical Society; Shtetl Routes |
+| Sept 4-7, 1942 | Concentration of Jews from Sanok district at Zaslaw; 11,000+ crammed into barracks for ~500 | Holocaust Historical Society |
+| Sept 7-10, 1942 | Deportation of ~17,000 from Zaslaw to Belzec extermination camp; murdered immediately | Holocaust Historical Society; zchor.org |
+
+**Deportation route**: Lesko ghetto -> Zaslaw transit camp -> Belzec extermination camp -> gas chambers.
+
+**Brina Goldbaum's probable fate**: Either (a) shot at Lesko Jewish cemetery mid-Aug 1942 (likely given estimated age 67-82), or (b) deported to Belzec Sept 7-10, 1942.
+
+**Joseph Brandt's probable fate**: If alive in 1942, same two fates. At estimated age 62-82, likely among those shot at cemetery.
+
+### Lesko Yizkor Book Necrology (USHMM Source #33405)
+
+Pages: 467-476 (Lesko martyrs), 476-482, 482-485, 485-489 (village martyrs from Linsk district). Translated at jewishgen.org/yizkor/lesko/. All returned 403.
+
+### Lesko Synagogue Memorial
+
+Former synagogue (now art gallery since 1978) displays list of 3,000 murdered residents from Lesko and vicinity. Vestibule has photographs and memorial plaques.
+
+### Searches Conducted (15 total)
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | Lesko Yizkor necrology at JewishGen | PARTIAL. Pages confirmed. 403 on fetch. |
+| 2 | Yad Vashem: Brand/Brandt from Lesko | NEGATIVE (403). |
+| 3 | Yad Vashem: Goldbaum from Lesko | NEGATIVE (403). |
+| 4 | JewishGen necrology pp. 467-476 | BLOCKED (403). |
+| 5 | JewishGen necrology pp. 482-489 | BLOCKED (403). |
+| 6 | USHMM Lesko victim list Brand/Goldbaum | NEGATIVE. Found Fela Goldbaum oral history (irn505846). |
+| 7 | Lesko deportation route (Zaslaw, Belzec) | POSITIVE. Full timeline established. |
+| 8 | JewishGen Necrology: "Goldbaum" all books | PARTIAL. M.S. Goldbaum (Iasi). Not connected. |
+| 9 | JewishGen: "Brand" Lesko Yizkor | PARTIAL. "Reb Hersahle Brandwine" pp. 187-220. Different surname. |
+| 10 | Lesko synagogue memorial | CONFIRMED. 3,000 names displayed. |
+| 11 | Encyclopedia.com Lesko | CONFIRMED. Pop: 1,976 (1880), 2,400 (1921, 63%). |
+| 12 | Goldbaum Lesko cemetery | NEGATIVE. No Goldbaum headstone identified. |
+| 13 | "Goldbaum" Holocaust Galicia | NEGATIVE. General info only. |
+| 14 | Yad Vashem direct: Brand Lesko | BLOCKED (403). |
+| 15 | Yad Vashem direct: Goldbaum Lesko | BLOCKED (403). |
+
+### Secondary Findings
+
+1. **USHMM Fela Goldbaum oral history (irn505846)**: Origin unknown. HUMAN ACTION REQUIRED.
+2. **Brandwein family in Lesko**: "Reb Hersahle Brandwine" in Yizkor pp. 187-220. Brandwein and Brand both from German "Brand."
+
+### Negative Results
+
+1. No Goldbaum from Lesko in any Holocaust database via web search.
+2. No Brand/Brandt from Lesko in any Holocaust database via web search.
+3. All JewishGen, Yad Vashem, USHMM pages returned 403.
+4. No Goldbaum headstone in Lesko cemetery.
+
+### Priority Actions (HUMAN ACTION REQUIRED)
+
+1. **Lesko Yizkor necrology pp. 467-489** at jewishgen.org/yizkor/lesko/. **HIGHEST PRIORITY.**
+2. **Yad Vashem**: Brand/Goldbaum from Lesko/Lisko at collections.yadvashem.org.
+3. **JewishGen Necrology Database**: jewishgen.org/databases/yizkor/ for Goldbaum/Brand.
+4. **USHMM Fela Goldbaum**: collections.ushmm.org/search/catalog/irn505846.
+5. **USHMM Lesko Yizkor #33405**: ushmm.org/online/hsv/source_view.php?SourceId=33405.
+
+### Files Updated
+- [[Brina_Goldbaum]], [[Joseph_Brandt]], [[Helen_Brandt]], [[Timeline]], [[Research_Log]]
