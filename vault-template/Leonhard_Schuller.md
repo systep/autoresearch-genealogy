@@ -31,7 +31,7 @@ tags: [genealogy, Schuller, person, Transylvanian-Saxon]
 
 Leonhard Schuller was a Transylvanian Saxon from Waldhütten, Transylvania, Austria. Per the **VATER church certificate** (Tier 1, 10 Feb 1938, Pastor A. Bogeschdorfer), he was born **circa 1770 in Waldhütten** and was the father of **[[Johann_Schuller]]** (b. September 1797, Waldhütten). The church certificate explicitly notes "Daten fehlen" (data missing) for further information about Leonhard, indicating that the Waldhütten parish registers contain no additional records for him beyond his name, approximate birth date, and birthplace.
 
-He is the earliest documented ancestor on the Schuller line and the great-great-grandfather of **[[Michael_Kascher_Sr_1864]]** (through Johann Schuller, then Stephania Benning/Sara Schuller, then Michael Kascher I).
+He is the earliest documented ancestor on the Schuller line and the great-great-grandfather of **[[Michael_Kascher_Sr_1864]]** (through Johann Schuller, then [[Sara_Schuller|Stephania Benning]], then Michael Kascher I).
 
 ## Document Sources
 

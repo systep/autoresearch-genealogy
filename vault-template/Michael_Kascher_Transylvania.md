@@ -25,7 +25,7 @@ tags: [genealogy, kascher, person, transylvania, ohio, florida, transylvanian-sa
 | Born | February 11, 1889, Waldhütten (Valchid), Transylvania, Austria-Hungary | MyHeritage |
 | Birthplace | Waldhütten (Romanian: Valchid; Hungarian: Valdhid), Sibiu County, Transylvania | MyHeritage, Siebenbuerger.de |
 | Died | June 7, 1975, Fort Lauderdale, FL | MyHeritage |
-| Father | Michael Kascher Sr. (1864-1935, Wurmloch/Valea Viilor to Waldhütten; married Sara Schuller? or Anna Binder?) | Genealogy.com, Siebenbuerger.de |
+| Father | Michael Kascher Sr. (1864-1935, Wurmloch/Valea Viilor to Waldhütten; married Anna Binder, 1868-1915) | Genealogy.com, Siebenbuerger.de, Church certificate "KINDER" (Tier 1) |
 | Mother | Anna Binder (1868-1915, Kreisch/Cris; died of TB in Waldhütten) | MyHeritage |
 | Paternal grandparents | Michael Kascher I (1834-1880, Wurmloch to Waldhütten) + **Stephania Benning** (1829-1876; GEDCOM incorrectly says "Sara Schuller"; see cross_reference_audit.md #19) | Genealogy.com, Church certificate "VATER" (Tier 1) |
 | Spouse | Rosina (Rasina) Falk (1896-1999; m. May 10, 1913, Beaver, Pennsylvania) | Marriage record, MyHeritage |

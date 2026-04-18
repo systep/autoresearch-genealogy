@@ -1,7 +1,7 @@
 ---
 type: person
 name: "Anna Barbara Wolpack"
-born: 1559
+born: ~1599
 died: 1683-12-23
 family: "Wolpack"
 confidence: moderate
@@ -18,7 +18,7 @@ tags: [genealogy, Wolpack, person, Brecht]
 | Field | Value | Source |
 |---|---|---|
 | Full Name | Anna Barbara Wolpack | GEDCOM |
-| Born | 1559 | GEDCOM |
+| Born | **~1599** (GEDCOM says 1559, but this is a 40-year error; see Data Discrepancies) | GEDCOM (corrected) |
 | Birthplace | Schriesheim, Rhein-Neckar-Kreis, Baden-Wuerttemberg, Germany | GEDCOM |
 | Died | 23 Dec 1683 | GEDCOM |
 | Death Place | Schriesheim, Rhein-Neckar-Kreis, Baden-Wuerttemberg, Germany | GEDCOM |

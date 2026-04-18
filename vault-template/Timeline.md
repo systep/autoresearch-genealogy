@@ -203,6 +203,7 @@ Chronological index of all dated events across the family tree.
 | 1916 | Death (gangrene from leg wound, WWI) | [[Heschel_Herman_Markel]] | Galicia | Yichus narrative (Tier 2), GEDCOM |
 | 1917-1918 | Military service (WWI) | [[Barnett_Salmanson]] | Providence, RI | MyHeritage |
 | ~1919-1920 | Birth | Martha E. Salmanson | Providence, RI | Martha obit |
+| Dec 13, 1919 | Marriage (banns: Nov 29, Dec 6, Dec 13) | [[Morris_Markel]] (Mojzesz Majer Markiel) and [[Helen_Brandt]] (Dwora Goldbaum/Brand) | Sambor, Galicia | AGAD Fond 424, File 212, Record 65, Page 315 (Tier 1) |
 | 1923 | Immigration (ship "The Liberty", arrived alone) | [[Florence_Markel_Mermelstein]] (Sura Feiga) | United States (from Galicia/Poland) | Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2) |
 | Sept 12, 1920 | Birth | Thelma Markel | | Find a Grave #231959788 |
 | ~1922 | Birth | Mary Elizabeth Bright | Tennessee | MyHeritage 1930 census |
@@ -223,10 +224,11 @@ Chronological index of all dated events across the family tree.
 | 1940 | Birth | Hashy Mermelstein | | Yichus narrative (Tier 2) |
 | 1940 | Death | [[Leah_Frei]] (b. 1864) | | Yichus narrative (Tier 2) |
 | July 1, 1941 | Ukrainian nationalist pogrom in Sambor: 50-100 Jews killed | Jewish community of Sambor | Sambor | Sambor Ghetto Wikipedia; Pinkas Hakehillot (Tier 2) |
-| July 2, 1941 | Wehrmacht occupies Tarnopol; 1,600-2,000 Jews killed in first week | Jewish community of Tarnopol (including possibly [[Brina_Goldbaum]]) | Tarnopol | Tarnopol Ghetto Wikipedia (Tier 2) |
+| July 2, 1941 | Wehrmacht occupies Tarnopol; 1,600-2,000 Jews killed in first week | Jewish community of Tarnopol | Tarnopol | Tarnopol Ghetto Wikipedia (Tier 2) |
 | Sept 1941 | Tarnopol Ghetto established | 12,000+ Jews confined | Tarnopol | Tarnopol Ghetto Wikipedia (Tier 2) |
 | March 1942 | Sambor Ghetto established in Blich suburb | Jews of Sambor district including Waniowice | Sambor | Sambor Ghetto Wikipedia (Tier 2) |
 | March 23, 1942 | Tarnopol first Aktion: 630 killed (elderly, sick, children) in Janowska Forest | Jewish community of Tarnopol | Tarnopol | Tarnopol Ghetto Wikipedia (Tier 2) |
+| Aug 1942 | Lesko (Lisko) Jewish population deported and exterminated | Jewish community of Lesko (~2,400 Jews), possibly including [[Brina_Goldbaum]] and [[Joseph_Brandt]] | Lesko, Galicia | Lesko Wikipedia; Encyclopedia.com (Tier 2) |
 | Aug 4, 1942 | Sambor first mass Aktion: 4,000 Jews deported to Belzec | Jewish community of Sambor | Sambor to Belzec | Sambor Ghetto Wikipedia; Encyclopedia.com (Tier 2) |
 | Aug 31, 1942 | Tarnopol first liquidation Aktion: 6,700 to Belzec | Jewish community of Tarnopol | Tarnopol to Belzec | Tarnopol Ghetto Wikipedia (Tier 2) |
 | 1941-1943 | **Probable actual date of murder**: [[Avraham_Chaim_Markel]], [[Masha_Markel_Tachner]], [[Hannah_Markel]], [[Pessel_Peppy_Frei]], [[Feiga_Frei_Karp]], Joseph Karp, [[Frieda_Karp_Weidenfeld]], Fishel Weidenfeld, and families | Multiple Markel/Frei/Karp/Weidenfeld family members | Sambor district (deportation to Belzec or execution at Radlowicze) | Historical analysis based on Sambor Ghetto timeline; see [[Avraham_Chaim_Markel]] |

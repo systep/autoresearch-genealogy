@@ -24,7 +24,7 @@ tags: [genealogy, long, bright, person, south-carolina, tennessee, new-york]
 | Died | 1985 | Family Tree compiled data |
 | Father | [[William_Goldsmith_Long]] (1862-1937) | MyHeritage, handwritten chart |
 | Mother | Roxanne (Rooksaner/Roxana) Cox (b. Feb 21, 1865; d. Dec 5, 1912) | MyHeritage, handwritten chart |
-| Spouse | [[Albert_Graham_Bright]] (b. Aug 19, 1893, Abingdon, Virginia; d. Sept 5, 1961, Delray Beach, FL), married September 2, 1928, Johnson City, Tennessee | Handwritten chart |
+| Spouse | [[Albert_Graham_Bright]] (b. Aug 19, 1893, Abingdon, Virginia; d. Sept 5, 1961, Delray Beach, FL), married September 2, 1920, Johnson City, Tennessee | MyHeritage pedigree chart (Tier 3); see cross_reference_audit.md #17 |
 | Children | Mary Elizabeth Bright (b. ~1921-1922), George M Bright (b. ~1924), Samuel Bright (b. ~1930), Robert Bright (b. ~1931) | 1930 + 1950 Census |
 
 ## Biography
@@ -41,7 +41,7 @@ Rebecca attended **Winthrop College** (now Winthrop University, Rock Hill, South
 
 Her mother Roxanne died December 5, 1912 when Rebecca was 14 years old.
 
-Rebecca married **Albert Graham Bright** on **September 2, 1928 in Johnson City, Tennessee** (per the handwritten family chart). Albert was born August 19, 1893 in Abingdon, Virginia, the son of George Michael Bright (1852-1939) and Willis Henrietta Youngblood (1865-1952). Willis was noted as the "1st Woman Graduate of U.S. [?]" on the family chart.
+Rebecca married **Albert Graham Bright** on **September 2, 1920 in Johnson City, Tennessee** (per the MyHeritage pedigree chart; the handwritten family chart reads "1928" but the "2" in "1920" was likely misread as "8"; daughter Mary Elizabeth was born June 5, 1921, confirming 1920; see cross_reference_audit.md #17). Albert was born August 19, 1893 in Abingdon, Virginia, the son of George Michael Bright (1852-1939) and Willis Henrietta Youngblood (1865-1952). Willis was noted as the "1st Woman Graduate of U.S. [?]" on the family chart.
 
 The couple had four children: **Mary Elizabeth Bright** (b. ~1921-1922, Tennessee/Madison), **George M Bright** (b. ~1924), **Samuel Bright** (b. ~1930), and **Robert Bright** (b. ~1931).
 
@@ -67,3 +67,4 @@ Rebecca died in 1985.
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | Mary Elizabeth Bright birth year | ~1921 (per "June 5, 1921" in Family Tree) | ~1922 (per "age 8" in 1930 Census) | Minor discrepancy of one year; common in census records. June 5, 1921 likely more precise. |
+| Marriage date | September 2, 1928 (handwritten chart IMG_0783) | September 2, 1920 (MyHeritage pedigree chart) | **RESOLVED 2026-04-18: 1920 is correct.** Daughter Mary Elizabeth born June 5, 1921 (9 months after Sep 1920 marriage). The "2" in "1920" was misread as "8" on handwritten chart. See cross_reference_audit.md #17. |

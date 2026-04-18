@@ -374,7 +374,7 @@ William Cox Sr. migrated to SC with the **Long** family. The large handwritten c
 
 **[[Rebecca_Moseley_Long]]** (14 Sept 1898, Greenville SC - 1985) (strong)
 - Middle name "Moseley" = great-great-grandmother Rebecca Moseley (1772-1837/38)
-- Married: [[Albert_Graham_Bright]] (19 Aug 1893, Abingdon VA - 5 Sept 1961, Delray Beach FL), 2 Sept 1928, Johnson City TN
+- Married: [[Albert_Graham_Bright]] (19 Aug 1893, Abingdon VA - 5 Sept 1961, Delray Beach FL), 2 Sept 1920, Johnson City TN
 
 #### Moseley Ancestry (Brunswick County, Virginia)
 
