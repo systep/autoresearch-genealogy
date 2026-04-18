@@ -53,8 +53,18 @@ Confidence: Moderate. Named in the Yichus narrative (Tier 2, primary family docu
 |---|---|---|
 | Yichus narrative by Ruth Gold, Oct 9, 2011 | Primary family document (Tier 2) | Assets/Yicchis and Narrative.PDF |
 
+## Holocaust Record Search (2026-04-17)
+
+Research conducted 2026-04-17 into Holocaust records for the Sambor district. See [[Avraham_Chaim_Markel]] for the full analysis.
+
+**Key finding**: The "Rosh Hashanah 1939" date in the Yichus narrative is almost certainly incorrect. The historical record shows no mass killing of Jews in a forest near Sambor in September 1939. Hannah was most likely murdered during the 1941-1943 Holocaust events in the Sambor district.
+
+Hannah's 1923 decision to refuse a ticket to America and remain in Poland because of her engagement makes her fate especially poignant. Had she emigrated, she would have survived.
+
+The Sambor Yizkor Book necrology does not list Hannah by name. No results found for "Hannah Markel" in Yad Vashem or USHMM databases via web search (all returned 403; HUMAN ACTION REQUIRED).
+
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| | | | No discrepancies identified at this time. Single source only. |
+| Death date | "Rosh Hashanah 1939" (Yichus narrative, Tier 2) | Historical record shows no forest massacre near Sambor in Sept 1939 | **UNRESOLVED.** See [[Avraham_Chaim_Markel]] Holocaust Record Search for full analysis. |

@@ -76,6 +76,16 @@ Conducted 20+ web searches as part of Helen Brandt deep research. No primary or 
 
 Joseph Brandt remains at **Speculative** confidence. Zero independent records found. The only source is the MyHeritage GEDCOM (Tier 3). His birth and death dates in the GEDCOM (~1815/~1891) are confirmed as data errors. Estimated birth: ~1855-1870 (based on daughter Helen's ~1891 birth). If Joseph died before Helen's 1928 emigration, he left no US records. If he remained in Europe and survived into the 1930s-1940s, he may appear in Holocaust records.
 
+### Holocaust Context (2026-04-17)
+
+If Joseph was from Tarnopol and remained there, he would have been subject to the Tarnopol Ghetto events (1941-1943). At his estimated birth (~1855-1870), Joseph would have been 71-86 years old in 1941. Given the GEDCOM death date of ~1891 (even though this is likely a data error), it is possible Joseph died before the Holocaust. However, if the ~1891 death date is wrong and Joseph survived into the 1940s, he would have been among the earliest victims (elderly Jews were specifically targeted in the March 1942 Aktion).
+
+The Tarnopol Ghetto timeline: Wehrmacht occupied July 2, 1941 (1,600-2,000 Jews killed immediately); ghetto established September 1941; Aktions in 1942 sent over 6,000 to Belzec; final liquidation June 20, 1943. Of 18,000 Jews in Tarnopol, virtually none survived.
+
+Note: Joseph's daughter-in-law Dwora Goldbaum (alias Brand) of Lisko married [[Mojzesz_Majer_Markiel]] in 1919. The Brand/Brandt surname connection between Tarnopol (Helen Brandt's origin) and Lisko (Dwora Brand's origin) may indicate a wider Brandt/Brand family network across Galicia.
+
+No results found for "Joseph Brandt" or "Brandt" from Tarnopol in Yad Vashem or USHMM databases via web search (all returned 403; HUMAN ACTION REQUIRED).
+
 ## Research Leads (Updated 2026-04-17)
 
 1. **Gesher Galicia All Galicia Database**: Search search.geshergalicia.org for "Brandt" in Tarnopol district. The 1880/1890/1910 censuses are indexed. HUMAN ACTION REQUIRED (browser access only).

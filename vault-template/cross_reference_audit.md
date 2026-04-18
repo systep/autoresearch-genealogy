@@ -12,9 +12,9 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 ## Audit Summary
 
 - **Total named individuals audited**: ~130
-- **Discrepancies found**: 28
-- **Resolved**: 11 (including 2 from 2026-04-14 Yichus integration)
-- **Remaining open**: 17
+- **Discrepancies found**: 32
+- **Resolved**: 12 (including 2 from 2026-04-14 Yichus integration; 1 from 2026-04-17 Holocaust research)
+- **Remaining open**: 20
 
 ---
 
@@ -51,6 +51,10 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 | 25 | Norman Cooke of Lavenham | existence | Listed as ancestor in Pedigree Charts (Tier 3) | WikiTree Space:Cooke-Dubious Pedigree: "Disproven Existence" for Cooke profiles 1025-1425 (Tier 2) | **RESOLVED: FABRICATION.** Norman Cooke of Lavenham and the entire Cooke ancestry of Lavenham pre-1442 is a known fabrication. No evidence has been proposed for any of these profiles. | WikiTree community research (Tier 2) supersedes Pedigree Charts (Tier 3) | RESOLVED: Fabricated ancestor. Added 2026-04-14. |
 
 | 28 | Abraham Salk | hebrew_name | "Abraham" (GEDCOM/MyHeritage, Tier 3) | Elizabeth Salmanson headstone Hebrew inscription: "הילדה בת משה" = "Hilda bat Moshe" (BillionGraves, Lincoln Park Cemetery, Tier 1) | **OPEN: Father's Hebrew name may be Moshe (Moses), not Abraham.** Headstone (Tier 1) takes precedence over GEDCOM (Tier 3). However, the full inscription is complex and contains names from both the Salk and Salmanson lineages. "Avraham" appears later in the inscription but may refer to a Zalmanson ancestor. Professional Hebrew epigraphy review needed. Abraham's 1925 death record would provide independent confirmation. | BillionGraves headstone (Tier 1) vs MyHeritage GEDCOM (Tier 3) | OPEN: Requires death record and/or professional inscription review. Added 2026-04-14. |
+| 29 | Markel siblings (Avraham Chaim, Masha, Hannah, Pessel) | death_date | "Rosh Hashanah 1939" (Yichus narrative, Tier 2) | Historical record: no mass killing of Jews in Sambor area Sept 1939. Wehrmacht occupied briefly Sept 8-20, only 2 Jews killed. Major massacres 1941-1943. (Sambor Ghetto Wikipedia, Pinkas Hakehillot, Tier 2) | **OPEN: Yichus date is almost certainly wrong. Actual death most likely 1941-1943 during Sambor Ghetto liquidation.** See [[Avraham_Chaim_Markel]] Holocaust Record Search for full analysis. | Historical record (Tier 2) contradicts Yichus (Tier 2). Historical record preferred as based on multiple independent documented sources vs. single oral tradition. | OPEN: Requires Yad Vashem/USHMM record search to establish actual date. Added 2026-04-17. |
+| 30 | Markel siblings | death_location | "Rodzinka Forest" (Yichus narrative, Tier 2) | Documented execution site near Sambor was Radlowicze (Radlovitze, now Ralivka). "Rodzinka" does not appear in any historical source. | **OPEN: "Rodzinka" may be a garbled version of "Radlowicze."** Both are forests near Sambor. | Historical record (Tier 2) | OPEN: Toponymic analysis or additional testimony needed. Added 2026-04-17. |
+| 31 | Markel siblings | perpetrators | "Polish Cossacks" (Yichus narrative, Tier 2) | Documented perpetrators in Sambor area: Wehrmacht (Sept 1939), Ukrainian nationalists (July 1941), German SS/police + Ukrainian auxiliary police (1942-1943). No "Polish Cossacks." | **OPEN: "Polish Cossacks" is historically anachronistic.** Most likely German SS/police and Ukrainian Hilfspolizei. | Historical record (Tier 2) | OPEN: Term may be family shorthand for irregular forces. Added 2026-04-17. |
+| 32 | Renya Tzoar | survival_method | "Hidden in a convent" (Yichus narrative, Tier 2) | Evacuated to sanatorium then collective farm near Kuybyshev, Soviet Union; housed in convent AFTER returning to Poland post-war (USHMM irn619016, Tier 2) | **RESOLVED: Yichus conflated wartime evacuation with post-war convent.** During the war, Renya was in Soviet territory; convent came later. | USHMM oral history (Tier 2) supersedes Yichus (Tier 2) as first-person testimony vs. family retelling. | RESOLVED: See [[Frieda_Karp_Weidenfeld]]. Added 2026-04-17. |
 
 ---
 

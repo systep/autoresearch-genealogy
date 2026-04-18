@@ -69,3 +69,25 @@ Confidence: Moderate. Named in the Yichus narrative (Tier 2, primary family docu
 |---|---|---|---|
 | Abraham Karp: child or sibling? | Earlier vault version listed Abraham Karp as Feiga's child | Yichus page 10 identifies Abraham Karp (wife Tillie, sons Beryl, Herschel) as Joseph's younger brother | Corrected per Yichus page 10 (Tier 2). Abraham Karp is Joseph Karp's brother, not a child of Feiga and Joseph. A separate child named Abraham may exist but is unconfirmed. |
 | Daughter's name | "Frieda" (earlier vault entries) | "Friedelle" (Yichus typed family tree listing, page 10, Tier 2) | "Friedelle" is the more formal form; "Frieda" is likely a diminutive. Both refer to the same person. The vault file is named [[Frieda_Karp_Weidenfeld]] for continuity. |
+
+## Holocaust Record Search (2026-04-17)
+
+### Sambor Yizkor Book Confirmation
+
+The Sambor Yizkor Book necrology (Sefer Sambor, ed. Aleksander Manor, Tel Aviv, 1980) lists **"Karp, Yosef and Family (4 People)"** among the martyrs slaughtered by the Nazis and their collaborators (Tier 2). This independently corroborates the Yichus narrative's statement that Feiga and Joseph Karp were murdered in the Holocaust. The "4 people" count likely represents Joseph, Feiga, and two others (possibly Nissan Karp and one additional family member).
+
+This is the **second independent source** (after the Yichus narrative) confirming the Karp family's murder, raising confidence in this claim from single-source to **two independent Tier 2 sources**.
+
+### USHMM Oral History Corroboration
+
+The USHMM oral history of Rebecca Tzoar (irn619016, June 27, 2018, Tier 2) independently confirms that Renya's mother was **Frida Karp** (matching Feiga's daughter [[Frieda_Karp_Weidenfeld]]). This provides further corroboration of the Karp family network.
+
+### Date of Death
+
+Feiga and Joseph were most likely murdered between 1941 and 1943 during the destruction of the Sambor Jewish community. See [[Avraham_Chaim_Markel]] for the detailed Sambor Holocaust timeline. The "Rosh Hashanah 1939" date in the Yichus narrative is almost certainly incorrect for the Markel siblings; the same revision likely applies to Feiga and Joseph's death date.
+
+### Databases Searched (all returned 403, HUMAN ACTION REQUIRED)
+
+- Yad Vashem Central Database: search "Karp" from Sambor
+- USHMM Holocaust Survivors and Victims Database
+- JewishGen Yizkor Book Necrology Database

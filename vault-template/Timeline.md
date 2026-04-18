@@ -218,9 +218,21 @@ Chronological index of all dated events across the family tree.
 | 6 Aug 1922 | Death | [[Mary_Elizabeth_Huff]] | Simpsonville, Greenville, SC | Headstone, MyHeritage |
 | 24 Mar 1937 | Death | [[William_Goldsmith_Long]] | Fort Pierce, St. Lucie, FL | Pedigree chart page 6 |
 | 1937 | Birth | Ruth Mermelstein (later Gold; author of Yichus narrative) | | Yichus narrative (Tier 2) |
-| Sept 1939 | Rosh Hashanah Pogrom: murdered | [[Avraham_Chaim_Markel]], [[Masha_Markel_Tachner]], [[Hannah_Markel]], [[Pessel_Peppy_Frei]], and families | Rodzolika Forest (near Sambor, Poland) | Yichus narrative (Tier 2); note: documented mass killings in Sambor area were 1941-1943; possible memory conflation |
+| Sept 8-20, 1939 | Wehrmacht briefly occupies Sambor; 2 Jews killed, forced labor; Soviets arrive Sept 20 | Jewish community of Sambor | Sambor, Poland | Sambor Ghetto Wikipedia; Pinkas Hakehillot (Tier 2) |
+| Sept 14-15, 1939 | Rosh Hashanah: Yichus claims Markel family murdered this date; **DATE DISPUTED**: historical record shows no mass killing in Sambor area at this time; see Avraham_Chaim_Markel Holocaust Record Search | [[Avraham_Chaim_Markel]], [[Masha_Markel_Tachner]], [[Hannah_Markel]], [[Pessel_Peppy_Frei]], and families | "Rodzinka Forest" (Yichus); likely Radlowicze/Ralivka forest | Yichus narrative (Tier 2); date contradicted by historical record |
 | 1940 | Birth | Hashy Mermelstein | | Yichus narrative (Tier 2) |
 | 1940 | Death | [[Leah_Frei]] (b. 1864) | | Yichus narrative (Tier 2) |
+| July 1, 1941 | Ukrainian nationalist pogrom in Sambor: 50-100 Jews killed | Jewish community of Sambor | Sambor | Sambor Ghetto Wikipedia; Pinkas Hakehillot (Tier 2) |
+| July 2, 1941 | Wehrmacht occupies Tarnopol; 1,600-2,000 Jews killed in first week | Jewish community of Tarnopol (including possibly [[Brina_Goldbaum]]) | Tarnopol | Tarnopol Ghetto Wikipedia (Tier 2) |
+| Sept 1941 | Tarnopol Ghetto established | 12,000+ Jews confined | Tarnopol | Tarnopol Ghetto Wikipedia (Tier 2) |
+| March 1942 | Sambor Ghetto established in Blich suburb | Jews of Sambor district including Waniowice | Sambor | Sambor Ghetto Wikipedia (Tier 2) |
+| March 23, 1942 | Tarnopol first Aktion: 630 killed (elderly, sick, children) in Janowska Forest | Jewish community of Tarnopol | Tarnopol | Tarnopol Ghetto Wikipedia (Tier 2) |
+| Aug 4, 1942 | Sambor first mass Aktion: 4,000 Jews deported to Belzec | Jewish community of Sambor | Sambor to Belzec | Sambor Ghetto Wikipedia; Encyclopedia.com (Tier 2) |
+| Aug 31, 1942 | Tarnopol first liquidation Aktion: 6,700 to Belzec | Jewish community of Tarnopol | Tarnopol to Belzec | Tarnopol Ghetto Wikipedia (Tier 2) |
+| 1941-1943 | **Probable actual date of murder**: [[Avraham_Chaim_Markel]], [[Masha_Markel_Tachner]], [[Hannah_Markel]], [[Pessel_Peppy_Frei]], [[Feiga_Frei_Karp]], Joseph Karp, [[Frieda_Karp_Weidenfeld]], Fishel Weidenfeld, and families | Multiple Markel/Frei/Karp/Weidenfeld family members | Sambor district (deportation to Belzec or execution at Radlowicze) | Historical analysis based on Sambor Ghetto timeline; see [[Avraham_Chaim_Markel]] |
+| Jan 1943 | Sambor: 1,500 Jews trucked to Radlowicze forest and shot | Jewish community of Sambor | Radlowicze (Ralivka) forest near Sambor | Sambor Ghetto Wikipedia (Tier 2) |
+| June 8-9, 1943 | Final liquidation of Sambor Ghetto; remaining Jews killed at Radlowicze | Jewish community of Sambor | Sambor/Radlowicze | Sambor Ghetto Wikipedia (Tier 2) |
+| June 20, 1943 | Final liquidation of Tarnopol Ghetto | Jewish community of Tarnopol | Tarnopol | Tarnopol Ghetto Wikipedia (Tier 2) |
 | Jan 30, 1942 | Birth | Jerrold A. Salmanson | Providence, RI | MyHeritage |
 | 1945 | Birth | Lea Mermelstein | | Yichus narrative (Tier 2) |
 | Mar 10, 1945 | Birth | James A. Salmanson | Providence, RI | Prabook |

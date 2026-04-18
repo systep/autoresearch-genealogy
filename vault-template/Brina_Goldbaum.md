@@ -48,7 +48,18 @@ Tarnopol is located approximately 150 km east of Sambor (where the Markel family
 
 During the interwar years, Tarnopol's 14,000 Jews accounted for 40 percent of the town's population. The community was famed in the nineteenth century as a center of the Haskala (Jewish Enlightenment movement) in Galicia and was also an important Hasidic center. The Tarnopol district included the towns of Zbaraz, Trembowla (Terebovlia), Skalat, Mikulince, and Grzymalow.
 
-If Brina remained in the Tarnopol area during the Holocaust, she would have been subject to the events of the Tarnopol Ghetto (established September 1941, liquidated June 20, 1943). Between 1941 and 1944, more than 10,000 Jews were killed in Tarnopol; approximately 6,000 were deported to the Belzec death camp; over 1,000 were sent to labor camps. By her estimated birth date (~1860-1875), Brina would have been 65 to 80 years old in 1941, making survival unlikely. The Tarnopol Jewish cemetery has no visible stones remaining; stones were removed and incorporated into roads and structures.
+If Brina remained in the Tarnopol area during the Holocaust, she would have been subject to the events of the Tarnopol Ghetto. Detailed research (2026-04-17) now provides the full Tarnopol Holocaust timeline:
+
+- **July 2, 1941**: Wehrmacht occupied Tarnopol. Within the first week, **1,600-2,000 Jews** were killed in a killing spree.
+- **September 5, 1941**: German authorities announced ghetto creation; all Jews ordered to move there by September 25. Some 7,000 Jews forced into a derelict district comprising 5% of the city, joining 5,000 already there.
+- **March 23, 1942**: First Aktion. Jewish Police collected 630 people (elderly, sick, handicapped, 150 children). Shot by Gestapo and Ukrainian police in Janowska Forest outside the city.
+- **August 31, 1942**: First ghetto liquidation Aktion. 3,000-4,000 Jews rounded up; two trains connected at station for transport to **Belzec extermination camp** with at least 6,700 victims dying inside from suffocation and thirst.
+- **1942 (total)**: Over 6,000 Jews deported to Belzec in four Aktions during second half of 1942.
+- **June 20, 1943**: Final liquidation of the ghetto.
+- **August 6, 1943**: Nearby work camp liquidated.
+- **Total**: Between 1941 and 1943, approximately 10,000 Jews were killed in Tarnopol and another 6,000 were deported to Belzec.
+
+At the time of the Soviet invasion, there were **18,000 Jews** living in Tarnopol. Virtually none survived. By her estimated birth date (~1860-1875), Brina would have been 65 to 80 years old in 1941. Elderly Jews were specifically targeted in the March 1942 Aktion and would not have been selected for labor. If Brina was in Tarnopol, she was most likely killed in one of the early Aktions (July 1941 or March 1942). The Tarnopol Jewish cemetery has no visible stones remaining; stones were removed and incorporated into roads and structures.
 
 ### Surname Research
 

@@ -45,13 +45,24 @@ Mojżesz Majer is not mentioned in Ruth Gold's 2011 Yichus narrative, which list
 
 Confidence: **Strong** on all data derived from the 1919 marriage banns (Tier 1 primary civil record). Strong on the sibling relationship to Heshel and Leah's other documented children (multiple independent identifiers match).
 
+## Holocaust Record Search (2026-04-17)
+
+The Sambor Yizkor Book necrology lists **"Markel, Yosef and Family (5 People)"** among the martyrs (Tier 2). This "Yosef Markel" may or may not be Mojzesz Majer (whose Hebrew name would be Moshe Meir, not Yosef). The Yizkor entry could refer to:
+- (a) Mojzesz Majer himself, if the name recorder used a different name form, or
+- (b) A different Yosef Markel from the broader Markel family in Sambor/Waniowice.
+
+If Mojzesz Majer remained in the Sambor area (where he was documented as a merchant in 1919), he and his wife Dwora and any children would have been subject to the Sambor Ghetto (established March 1942, liquidated June 1943). Approximately 6,000 Sambor Jews were deported to Belzec; another 3,000+ were killed at the Radlowicze forest execution site. Of Sambor's pre-war Jewish population, virtually none survived.
+
+His wife **Dwora Goldbaum/Brand** of Lisko creates a potential connection to the Brandt/Goldbaum line via [[Joseph_Brandt]] and [[Brina_Goldbaum]]. The Brand surname appearing in both Lisko (Dwora's family) and Tarnopol (Helen Brandt's family) may indicate a wider family network. HUMAN ACTION REQUIRED to search Yad Vashem and USHMM for Dwora Markiel (nee Goldbaum/Brand) from Sambor/Lisko.
+
 ## Follow-up priorities
 
-1. **Search Sambor Jewish Births** (index books) for Mojżesz Majer Markiel c. 1895-1900 to establish exact birth year.
-2. **Search for children of Mojżesz Majer × Dwora** in Sambor birth registers c. 1920-1938.
-3. **Search Holocaust databases** (Yad Vashem, USHMM) for Mojżesz Majer Markiel, Dwora Markiel, and any of their children. The Sambor Jewish community was largely murdered 1941-1943.
-4. **Check 1921 Polish census** if extant for Sambor — may show Mojżesz Majer's household.
-5. **Cross-check the Lisko / Brand / Goldbaum lines** for any overlap with other vault families.
+1. **Search Sambor Jewish Births** (index books) for Mojzesz Majer Markiel c. 1895-1900 to establish exact birth year.
+2. **Search for children of Mojzesz Majer x Dwora** in Sambor birth registers c. 1920-1938.
+3. **Search Holocaust databases** (Yad Vashem, USHMM) for Mojzesz Majer Markiel, Dwora Markiel, and any of their children. HUMAN ACTION REQUIRED (all returned 403 on programmatic access).
+4. **Check 1921 Polish census** if extant for Sambor, may show Mojzesz Majer's household.
+5. **Cross-check the Lisko / Brand / Goldbaum lines** for any overlap with other vault families. Note the Brand/Brandt surname appearing in both Lisko (Dwora) and Tarnopol (Helen Brandt).
+6. **Lesko (Lisko) Yizkor Book**: "Memorial Book dedicated to the Jews of Linsk, Istrik and Vicinity" (jewishgen.org/yizkor/lesko/). Search for Brand/Goldbaum entries. HUMAN ACTION REQUIRED.
 
 ## Document Sources
 

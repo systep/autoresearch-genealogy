@@ -55,8 +55,25 @@ Confidence: Moderate. Named in the Yichus narrative (Tier 2, primary family docu
 |---|---|---|
 | Yichus narrative by Ruth Gold, Oct 9, 2011 | Primary family document (Tier 2) | Assets/Yicchis and Narrative.PDF |
 
+## Holocaust Record Search (2026-04-17)
+
+Research conducted 2026-04-17 into Holocaust records for the Sambor district. See [[Avraham_Chaim_Markel]] for the full analysis.
+
+**Key finding**: The "Rosh Hashanah 1939" date in the Yichus narrative is almost certainly incorrect. The historical record shows no mass killing of Jews in a forest near Sambor in September 1939. The family was most likely murdered during the 1941-1943 Holocaust events in the Sambor district (ghetto establishment March 1942; deportations to Belzec August-December 1942; forest executions at Radlowicze January and June 1943).
+
+The Sambor Yizkor Book necrology lists "Markel, Yosef and Family (5 People)" but does not list Masha by name. The necrology is acknowledged as incomplete. Masha's husband's surname (Tachner) was searched in Yad Vashem and USHMM databases but returned no results via web search (database access returned 403; HUMAN ACTION REQUIRED to search directly).
+
+The name "Vigdor Markel" mentioned in the Yichus as among those murdered may be Masha's husband or a child; this is unconfirmed.
+
+**Databases searched (all returned 403, HUMAN ACTION REQUIRED)**:
+- Yad Vashem Central Database (collections.yadvashem.org)
+- USHMM Holocaust Survivors and Victims Database
+- JewishGen Yizkor Book Necrology Database
+- Gesher Galicia Holocaust Project records
+
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| | | | No discrepancies identified at this time. Single source only. |
+| Death date | "Rosh Hashanah 1939" (Yichus narrative, Tier 2) | Historical record shows no forest massacre near Sambor in Sept 1939 | **UNRESOLVED.** See [[Avraham_Chaim_Markel]] Holocaust Record Search for full analysis. |
+| Death location | "Rodzinka Forest" (Yichus narrative, Tier 2) | Documented execution site near Sambor was Radlowicze (now Ralivka) | "Rodzinka" may be a garbled version of "Radlowicze." |

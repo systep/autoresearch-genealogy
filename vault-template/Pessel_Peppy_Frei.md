@@ -55,4 +55,18 @@ Confidence: Moderate. Named in the Yichus narrative (Tier 2, primary family docu
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Death year | "Murdered 1940" (Yichus narrative, summary/list section) | "Rosh Hashanah 1939, marched to Rodzinka Forest" (Yichus narrative, detailed narrative section) | Internal discrepancy within the same document: the Yichus list section gives "1940" as the death year, but the narrative section describes the Rosh Hashanah 1939 Pogrom in the Rodzinka Forest. Rosh Hashanah 1939 fell on September 14, 1939, during the German invasion of Poland. The narrative account is more specific and contextually consistent with the September 1939 invasion timeline. 1940 may be an approximation or error in the summary list. Both versions preserved; 1939 is provisionally preferred as more precise. |
+## Holocaust Record Search (2026-04-17)
+
+Research conducted 2026-04-17 into Holocaust records for the Sambor district. See [[Avraham_Chaim_Markel]] for the full analysis.
+
+**Key finding**: The "Rosh Hashanah 1939" date in the Yichus narrative is almost certainly incorrect. The historical record shows no mass killing of Jews in a forest near Sambor in September 1939. The family was most likely murdered during the 1941-1943 Holocaust events. The Yichus list section's "1940" date is ALSO likely incorrect but places the death closer to the actual timeline (1941-1943) than the "1939" narrative section.
+
+This updates the existing death year discrepancy below: neither "1939" nor "1940" can be confirmed. The actual date was most likely between mid-1941 and mid-1943.
+
+No results found for "Pessel Frei" in Yad Vashem or USHMM databases via web search (all returned 403; HUMAN ACTION REQUIRED).
+
+## Data Discrepancies (Updated 2026-04-17)
+
+| Field | Source A | Source B | Resolution |
+|---|---|---|---|
+| Death year | "Murdered 1940" (Yichus narrative, summary/list section) | "Rosh Hashanah 1939, marched to Rodzinka Forest" (Yichus narrative, detailed narrative section) | **UPDATED 2026-04-17**: Neither date is correct per the historical record. The Wehrmacht briefly occupied Sambor Sept 8-20, 1939 (only 2 Jews murdered), then Soviets took over. No mass killing of Jews occurred during 1939-1941 Soviet occupation. "1940" is closer to the actual timeline (1941-1943) but remains inaccurate. Death most likely occurred 1942-1943 during Sambor ghetto liquidation. See [[Avraham_Chaim_Markel]] Holocaust Record Search for full analysis. |

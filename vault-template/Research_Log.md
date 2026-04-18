@@ -2,13 +2,125 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-17
-last_session: "2026-04-17 Helen Brandt deep research (Brandt/Goldbaum line)"
+last_session: "2026-04-17 Holocaust records search (all lines above Thelma Markel)"
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-17: Holocaust Records Search (All Family Lines Above Thelma Markel)
+
+### Summary
+
+Systematic search of Holocaust records for victims from both the Markel/Frei side (Sambor/Waniowice) and the Brandt/Goldbaum side (Tarnopol). Searched across Yad Vashem, USHMM, JewishGen Yizkor databases, Sambor Yizkor Book, Tarnopol Yizkor Book, Gesher Galicia Holocaust Project, Wikipedia, Pinkas Hakehillot, and general web sources.
+
+**Major finding**: The Yichus narrative's "Rosh Hashanah 1939" date for the Rodzinka Forest massacre is almost certainly incorrect. Detailed reconstruction of the Sambor district Holocaust timeline shows no mass killing of Jews in September 1939 (the Wehrmacht occupied Sambor only briefly Sept 8-20 before Soviets arrived Sept 20; only 2 Jews documented killed). The family was most likely murdered between 1941-1943 during the Sambor Ghetto period. "Rodzinka Forest" may be a garbled memory of "Radlowicze" (now Ralivka), the documented execution site near Sambor.
+
+**Second major finding**: USHMM oral history of Rebecca Tzoar (irn619016) independently confirms her parents as Frida Karp and Philip (Fishel) Weidenfeld of Sambor, and provides a corrected survival narrative (sanatorium evacuation to Soviet territory, not hidden in a convent during the war; convent was post-war).
+
+### Searches Conducted (40+ searches)
+
+**MARKEL LINE (Sambor/Waniowice)**
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | Yad Vashem: "Markel" from Sambor | 403 on database. HUMAN ACTION REQUIRED. |
+| 2 | Yad Vashem: "Markiel" from Sambor/Waniowice | 403. HUMAN ACTION REQUIRED. |
+| 3 | USHMM HSV Database: "Markel" residence Sambor | 403. HUMAN ACTION REQUIRED. |
+| 4 | Sambor Yizkor Book necrology (jewishgen.org/yizkor/sambor/Sam258.html) | 403 on page. **CONFIRMED via web search snippets**: "Markel, Yosef and Family (5 People)" listed in necrology. POSITIVE (Tier 2). |
+| 5 | "Rodzinka Forest" OR "Rodzbelska Forest" massacre | **NEGATIVE.** No record of this name as a massacre site. No Google results. Name may be garbled. |
+| 6 | Sambor Ghetto Wikipedia | **POSITIVE (Tier 2).** Full timeline extracted: Wehrmacht Sept 8-11, 1939; Soviet takeover Sept 20; Ukrainian pogrom July 1, 1941; ghetto March 1942; Belzec deportations Aug-Dec 1942; Radlowicze forest executions Jan 1943 and June 1943. |
+| 7 | Pinkas Hakehillot Stary Sambor (JewishGen) | 403. But web snippet confirms: "German soldiers tortured Jews... Two Jews murdered... evacuated end of September 1939." |
+| 8 | Radlowicze (Ralivka) forest as execution site | **POSITIVE.** Confirmed as the main forest execution site near Sambor: 1,500 shot Jan 1943; final ghetto liquidation June 8-9, 1943. |
+| 9 | Dynow massacre Rosh Hashanah 1939 comparison | **POSITIVE.** Dynow massacre (170-200 Jews marched to Zurawiec forest, shot) on Rosh Hashanah Sept 1939 is a close parallel but 100 km from Sambor. Pattern may have confused family memory. |
+| 10 | "Vigdor Markel" OR "Etti Markel" Holocaust | **NEGATIVE.** No results in any database. |
+| 11 | "Mattis Markel" Holocaust | **NEGATIVE.** No results. KehilaLinks Drohobycz Markel family page found but about a different Markel family. |
+| 12 | JewishGen Yizkor Necrology Database: "Markel" Sambor | 403 on database. Confirmed 1,611 entries in Sambor necrology. |
+| 13 | Sefer Sambor (Internet Archive) table of contents | Confirmed available at archive.org/details/nybc313978. Full Hebrew/Yiddish text. HUMAN ACTION REQUIRED for page-by-page search. |
+| 14 | Sambor Encyclopedia.com entry | 403. Timeline confirmed via web snippets. |
+| 15 | Gesher Galicia Holocaust records inventory | 403. Confirmed Holocaust Project exists at geshergalicia.org/holocaust-period/. |
+
+**FREI/KARP/WEIDENFELD LINE (Sambor)**
+
+| # | Query/Source | Result |
+|---|---|---|
+| 16 | Sambor Yizkor necrology: "Karp" | **POSITIVE (Tier 2).** "Karp, Yosef and Family (4 People)" confirmed in necrology. Independently corroborates Yichus. |
+| 17 | USHMM oral history Rebecca Tzoar irn619016 | **POSITIVE (Tier 2).** Born Aug 15, 1933, Sambor. Mother: Frida Karp. Father: Philip (Fishel) Weidenfeld. Evacuated to sanatorium then Kuybyshev; learned of family's murder 1943; housed in convent post-war. |
+| 18 | Yad Vashem: "Weidenfeld" from Sambor | 403. HUMAN ACTION REQUIRED. |
+| 19 | Yad Vashem: "Karp" from Sambor | 403. HUMAN ACTION REQUIRED. |
+| 20 | USHMM: "Karp" residence Sambor | 403. HUMAN ACTION REQUIRED. |
+| 21 | USHMM: "Weidenfeld" residence Sambor | 403. HUMAN ACTION REQUIRED. |
+| 22 | "Frei" OR "Frey" Jewish Sambor Waniowice Holocaust | NEGATIVE for our specific family. Found Adolf Frey (Sambor Jewish lawyer) but unrelated. |
+| 23 | "Nissan Karp" Sambor Holocaust | NEGATIVE. |
+| 24 | "Fishel Weidenfeld" OR "Philip Weidenfeld" Sambor | NEGATIVE via web search. |
+
+**BRANDT/GOLDBAUM LINE (Tarnopol)**
+
+| # | Query/Source | Result |
+|---|---|---|
+| 25 | Yad Vashem: "Goldbaum" from Tarnopol | 403. HUMAN ACTION REQUIRED. Item IDs found previously (788325, 6510903) but not accessible. |
+| 26 | Yad Vashem: "Brandt" from Tarnopol | 403. HUMAN ACTION REQUIRED. |
+| 27 | USHMM: "Goldbaum" residence Tarnopol | 403. HUMAN ACTION REQUIRED. |
+| 28 | Tarnopol Ghetto Wikipedia | **POSITIVE (Tier 2).** Full timeline: 18,000 Jews pre-war; Wehrmacht July 2, 1941; 1,600-2,000 killed first week; ghetto Sept 1941; Aktions 1942 sent 6,000+ to Belzec; liquidation June 20, 1943. |
+| 29 | Tarnopol Ghetto Holocaust Historical Society | 403. Same timeline confirmed via snippets. |
+| 30 | Tarnopol Yizkor Book (JewishGen Press) | Confirmed at jewishgen.org/yizkor/ybip/YBIP_Ternopil.html. Name indexed by Stefanie Holzman. HUMAN ACTION REQUIRED to search index for Goldbaum/Brandt. |
+| 31 | "Dwora Goldbaum" OR "Dwora Brand" Lisko Sambor Holocaust | NEGATIVE. |
+| 32 | Lesko/Lisko Yizkor Book | Confirmed exists: "Memorial Book for Jews of Linsk, Istrik." 403 on text pages. HUMAN ACTION REQUIRED to search for Brand/Goldbaum. |
+| 33 | Lesko Holocaust history | POSITIVE (context). Jewish community was 60% of population; virtually all murdered 1941-1944. |
+| 34 | Geni.com Jewish Families from Tarnopol project 15742 | 403. HUMAN ACTION REQUIRED. |
+
+**ADDITIONAL CONTEXT SEARCHES**
+
+| # | Query/Source | Result |
+|---|---|---|
+| 35 | September 1939 Wehrmacht atrocities Jews villages Galicia | POSITIVE (context). ~7,000 Jews killed in first 55 days across all of Poland; but organized mass killings began only after June 1941 Soviet invasion. |
+| 36 | Sambor district Sept 1939 timeline | POSITIVE. Wehrmacht arrived Sept 8; left by Sept 20; Soviets took over. Only 2 Jews killed in Sambor. |
+| 37 | KehilaLinks Drohobycz Markel family page | 403. Content appears to be about Bartel family, not our Markels. |
+| 38 | USHMM Sefer Sambor source page (SourceId=33369) | 403. Confirmed: contains alphabetical necrologies of Holocaust victims from Sambor and Stary Sambor. |
+| 39 | USHMM names from Yizkor books for Galicia (SourceId=33098) | Confirmed: ~3,000 surnames of Galician Jews killed. HUMAN ACTION REQUIRED. |
+| 40 | JewishGen Yizkor Book Master Name Index | 403 on search. Available on Ancestry (collection 5500) and MyHeritage (collection 20034). HUMAN ACTION REQUIRED. |
+
+### Key Findings
+
+1. **"Markel, Yosef and Family (5 People)"** in Sambor Yizkor Book necrology (Tier 2). Relationship to known Markel family members unclear (could be Mojzesz Majer or an unknown relative).
+
+2. **"Karp, Yosef and Family (4 People)"** in Sambor Yizkor Book necrology (Tier 2). Independently corroborates Yichus narrative that Feiga Frei Karp and Joseph Karp were murdered. This is the second independent source for this claim.
+
+3. **Rebecca Tzoar USHMM oral history (irn619016)** independently confirms: mother Frida Karp, father Philip (Fishel) Weidenfeld, born Aug 15, 1933 in Sambor. Corrects the Yichus claim that she was "hidden in a convent" (she was evacuated to Soviet territory; convent was post-war).
+
+4. **The "Rosh Hashanah 1939" date is almost certainly wrong.** No mass killing of Jews in Sambor area during Sept 1939. The major killings occurred 1941-1943. "Rodzinka Forest" may be a garbled version of "Radlowicze," the documented execution site.
+
+5. **Tarnopol Holocaust timeline**: 18,000 Jews pre-war; virtually all murdered 1941-1943 via pogroms, Belzec deportations, and local executions. If Brina Goldbaum remained in Tarnopol, she was almost certainly killed.
+
+6. **The Dynow massacre** (Rosh Hashanah Sept 1939, 170-200 Jews marched to forest and shot) is a documented parallel event that may have been conflated with the Sambor family's actual later murder in family memory.
+
+### Negative Results (Logged)
+
+1. "Vigdor Markel" and "Etti Markel": no records found in any database.
+2. "Mattis Markel" (Heshel's brother): no Holocaust records found.
+3. "Rodzinka Forest" or "Rodzbelska Forest": no Google results for this place name.
+4. "Nissan Karp" (son of Feiga and Joseph): no records found.
+5. "Fishel/Philip Weidenfeld" from Sambor: no individual victim record found.
+6. All individual Markel siblings (Avraham Chaim, Masha, Hannah, Pessel): not listed individually in the Sambor Yizkor Book necrology (which is acknowledged as incomplete).
+7. "Dwora Goldbaum/Brand/Markiel" from Lisko/Sambor: no records found.
+8. Joseph Brandt from Tarnopol: no records found.
+9. Brina Goldbaum from Tarnopol: no individual records found (previous session also negative).
+
+### Vault Updates Made
+
+- **Avraham_Chaim_Markel.md**: Added comprehensive Holocaust Record Search section with Sambor timeline, date discrepancy analysis, Radlowicze forest identification, Rebecca Tzoar correction, and research leads.
+- **Masha_Markel_Tachner.md**: Added Holocaust Record Search section with cross-reference to Avraham Chaim's analysis.
+- **Hannah_Markel.md**: Added Holocaust Record Search section.
+- **Pessel_Peppy_Frei.md**: Updated Data Discrepancies with revised analysis (neither 1939 nor 1940 correct; actual date likely 1942-1943).
+- **Frieda_Karp_Weidenfeld.md**: Added Holocaust Record Search section with USHMM oral history findings and Sambor Yizkor Book confirmation.
+- **Feiga_Frei_Karp.md**: Added Holocaust Record Search section. Confidence upgraded: two independent Tier 2 sources (Yichus + Sambor Yizkor necrology) now corroborate the Karp family's murder.
+- **Brina_Goldbaum.md**: Updated Tarnopol Holocaust section with full Ghetto timeline.
+- **Joseph_Brandt.md**: Added Holocaust context section with Tarnopol timeline and Brand/Brandt surname connection to Lisko.
+- **Mojzesz_Majer_Markiel.md**: Added Holocaust Record Search section with Sambor Yizkor connection and Lisko/Brand/Goldbaum cross-reference.
+- **Timeline.md**: Added 13 Holocaust timeline entries for Sambor and Tarnopol events (1939-1943), including the date discrepancy notation.
+- **Research_Log.md**: This entry.
 
 ## 2026-04-17: Helen Brandt / Joseph Brandt / Brina Goldbaum Deep Research
 

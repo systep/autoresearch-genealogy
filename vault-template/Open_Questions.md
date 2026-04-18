@@ -431,3 +431,30 @@ Research gaps and unresolved questions, organized by priority and family line. U
 
 ### 32. Brina Goldbaum Holocaust victim identification
 - **Merged with #24 (2026-04-17).** See #24 for full search history from 2026-04-17 focused research session (15 searches). Key finding: Yad Vashem has multiple record item IDs for Goldbaum near Tarnopol (788325, 6510903, 1915425) but individual records require browser access. Tarnopol Yizkor Book (JewishGen Press) has name index. EHRI portal catalogues Jewish Community in Tarnopol records (1874-1939).
+
+### 33. Markel family Holocaust: actual date and circumstances of death
+- **NEW (2026-04-17).** The Yichus narrative claims the family was murdered on "Rosh Hashanah 1939" at "Rodzinka Forest" by "Polish Cossacks." Research into the Sambor district Holocaust timeline (40+ searches) shows this date is almost certainly wrong: no mass killing of Jews occurred near Sambor in September 1939. The actual date was most likely 1941-1943 during the Sambor Ghetto period.
+- "Rodzinka Forest" may be a garbled memory of "Radlowicze" (now Ralivka), the documented execution site near Sambor where 1,500+ Jews were shot in January 1943 and the final ghetto liquidation occurred June 8-9, 1943.
+- "Polish Cossacks" is historically anachronistic; perpetrators were German SS/police and Ukrainian auxiliary police.
+- The USHMM oral history of Rebecca Tzoar (irn619016) corrects the Yichus claim that she was "hidden in a convent": she was evacuated to Soviet territory and housed in a convent only after the war.
+- **To resolve**: Search Yad Vashem and USHMM databases in a browser for individual Markel family members. Pages of Testimony may provide actual dates and circumstances.
+- **Solvability**: MODERATE (Pages of Testimony are the best lead; they may or may not exist for these individuals)
+- **Payoff**: HIGH (corrects a central family narrative and honors the victims with accurate historical context)
+
+### 34. Mojzesz Majer Markiel and Dwora Goldbaum/Brand: fate after 1919
+- **NEW (2026-04-17).** This 9th child of Heshel and Leah, discovered via Gesher Galicia sweep, was a merchant in Sambor in 1919. He is not mentioned in the Yichus narrative. The Sambor Yizkor necrology lists "Markel, Yosef and Family (5 People)" which may or may not refer to him. His wife Dwora's maiden name (Goldbaum/Brand of Lisko) creates a potential connection to the Brandt/Goldbaum line.
+- **To resolve**: Search Yad Vashem and USHMM for Mojzesz Majer Markiel, Dwora Markiel, and their children. Search the Lesko (Lisko) Yizkor Book for Brand/Goldbaum entries.
+- **Solvability**: MODERATE
+- **Payoff**: HIGH (could connect the Sambor Markel line to the Tarnopol Brandt/Goldbaum line through Dwora's family)
+
+### 35. Holocaust records: comprehensive database search (HUMAN ACTION REQUIRED)
+- **NEW (2026-04-17).** All direct database searches returned 403 errors on programmatic access. The following databases MUST be searched manually in a browser:
+- **Yad Vashem (collections.yadvashem.org)**: Search for Markel/Markiel from Sambor/Waniowice; Karp from Sambor; Weidenfeld from Sambor; Goldbaum from Tarnopol; Brandt from Tarnopol; Tachner from Sambor.
+- **USHMM (ushmm.org/online/hsv/)**: Same surname searches.
+- **JewishGen Yizkor Book Necrology Database (jewishgen.org/databases/yizkor/)**: Search Markel, Karp, Weidenfeld, Frei filtered to Sambor.
+- **Sambor Yizkor Book full text (jewishgen.org/yizkor/sambor/Sam258.html)**: Read the full necrology for all relevant surnames.
+- **Tarnopol Yizkor Book name index**: Search for Goldbaum and Brandt entries.
+- **Lesko (Lisko) Yizkor Book**: Search for Brand/Goldbaum entries.
+- **JewishGen Yizkor Book Master Name Index**: Available on Ancestry (collection 5500), MyHeritage (collection 20034).
+- **Solvability**: HIGH (databases are accessible via browser)
+- **Payoff**: VERY HIGH (could identify individual victims, provide actual dates of death, and honor family members with their full names)
