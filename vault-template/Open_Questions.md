@@ -17,6 +17,15 @@ tags: [genealogy, research, open-questions]
 - **SC Archives State Plats 1784-1868**: Now online at archivesindex.sc.gov. 51,055 images. HUMAN ACTION REQUIRED to search for Cox, Henderson, Baldwin, Brasher, and Long plats.
 - **NEW: Sarah Elizabeth Clark Cox** (1836-1879) confirmed at Standing Springs Cemetery (Find a Grave #8304975), confirming Clark-Cox intermarriage.
 
+## 2026-04-18 session updates (Open Question Resolution, 10 iterations)
+
+- **OQ #15 (Judson King's wife maiden name): PARTIALLY RESOLVED.** Find a Grave memorial #8422324 photo caption (1908 photograph) identifies her as "Charstee **Cooley** King" (Tier 2). The Cooley family was well established in Greenville County SC: Jacob Cooley Sr. (1735-1820) settled there by 1790; his grandson Hiram Cooley (1796-1864) had a plantation in the county during the right period. Marriage record still needed to confirm maiden name at Strong Signal level.
+- **OQ #3 (Kerben/Corbin King): UPDATED.** Robert King II (1750-1826, Ireland to Anderson SC) had 13 named children: Hannah, Peter Sr., Grace, **James**, Pricilla, Robert III, William, Tabitha, John, Nancy, Josiah, Sabra Ann, Mary Ann. George Washington King (1815-1887) confirmed as son of James King and Mary (Parker) King per Geni (Tier 3). GWK born Belton, Anderson SC, buried Washington Cemetery, Ware Place, Greenville Co. "Corbin" does NOT appear among Robert King II's children. The Kerben/Corbin King line remains unlinked to the James/George W. branch.
+- **OQ #8 (Krauss/Krause Binder): PARTIALLY RESOLVED.** Siebenbuerger.de and web search results consistently identify Martin Binder's father as "**Petrus KRAUSS BINDER**" (Tier 2). The GEDCOM's "Johann Krause Binder" (b. 1794) contradicts this. VGSS database entry p=5502 exists but returned 403 on automated access. The VGSS database is the decisive source. If VGSS says Petrus, the GEDCOM's Johann is likely wrong.
+- **OQ #17 (H.H. King): NO RESOLUTION.** Web searches for H.H. King in Pelzer SC returned no census or directory hits. 1900/1910 census access required (login-based databases). Still HIGH solvability but requires browser access.
+- **OQ #19 (James Youngblood generation): UPDATED.** WikiTree Youngblood-746 (James, c.1740-1792, Edgefield SC) had sons Jeremiah and others. James Jonathan Youngblood Sr (1810-1889) from Warren County TN is a different family line (son of Jonathan Youngblood 1766-1852). Neither connects directly to William Henry Youngblood (b. 1828, Bibb AL). The 1830 and 1840 Bibb County AL censuses are the next step (all returned 403 on automated access). "Youngblood Armstrong and Allied Families" (book, 1940s-60s) is a potential source.
+- **King family lineage consolidated**: Robert King II (Ireland, 1750) > James King (b. ~1788, Anderson SC) + Mary Parker > George Washington King (1815-1887) + Elizabeth Arthur/Chamblee > Judson King (1841-1921) + Charstee Cooley. This is now a 4-generation documented patrilineal line.
+
 ## 2026-04-18 session updates (Goldbaum Lisko deep search)
 
 - **OQ #21 (Helen Brandt's parents): UPDATED.** 15 targeted Lisko-focused searches found no Goldbaum individual from Lesko in any database. Goldbaum NOT listed among known Lesko families on Geni (#28979). Lesko Yizkor Book necrology (pp. 467-489) and JewishGen Yizkor Necrology Database are the highest priority next steps. All database pages returned 403 on automated access.
@@ -58,11 +67,11 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Payoff**: MODERATE (would connect the Kerben King / William I. King branch to the James King patriarch)
 
 ### 15. Judson King's wife: maiden name
-- **PARTIALLY RESOLVED (2026-04-13)**: Wife identified as **Charstee King** (b. ~1843, SC) from 1880 and 1920 Census records (Tier 1). "Charstee" is an unusual name, possibly a variant of "Charity." Her maiden name remains unknown.
-- **Remaining question**: What was Charstee's maiden name and parentage?
-- **Next step**: (1) Search Greenville County marriage records for Judson King. (2) Search 1860 census for Charstee in her parents' household (she would be ~17). (3) Search Find a Grave for Fork Shoals / Oaklawn area.
-- **Solvability**: MODERATE (marriage record would resolve it)
-- **Payoff**: MODERATE (opens a new family line)
+- **PARTIALLY RESOLVED (2026-04-18)**: Wife identified as **Charstee Cooley King** (b. ~1843, SC). Find a Grave memorial #8422324 includes a photo captioned "Judson and Charstee Cooley King 1908 taken in Pelzer, SC by RL Snipes, dealer in fancy pictures" (Tier 2). The Cooley family was well established in Greenville County: Jacob Cooley Sr. (1735-1820) moved from Virginia to Greenville by 1790; his grandson Hiram Cooley (1796-1864) had a plantation in the county. The maiden name **Cooley** is now the working hypothesis.
+- **Remaining question**: Confirm Cooley as maiden name via marriage record or census (she would appear as Charstee Cooley in 1860 census, age ~17, in her parents' household). Identify her specific parents within the Cooley family.
+- **Next step**: (1) Search Greenville County marriage records for Judson King + Cooley (decisive). (2) Search 1860 census for Cooley households in Greenville/Anderson County with female age ~17. (3) Search Hiram Cooley (1796-1864) descendants for Charstee/Charity. (4) Search 1850 census for Cooley households in the Fork Shoals/Oaklawn area.
+- **Solvability**: HIGH (maiden name likely identified; marriage record would confirm)
+- **Payoff**: MODERATE (opens Cooley family line, established Greenville County family since 1790)
 
 ### 16. Judson King Civil War service: unit details
 - **RESOLVED (2026-04-13)**: Judson King served in the **Confederate Army, 16th South Carolina Infantry (Greenville Regiment)**, enlisted 1862, age 23 (Ancestry/Fold3 index, Tier 2). The "Greenville Regiment" is the expected unit for a Greenville County man.
@@ -116,6 +125,7 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Minimum records needed**: SS Baltic passenger manifest (Dec 23, 1904) would list his age at arrival, narrowing the birth year.
 - **Searched (2026-04-14)**: Conducted extensive web search for Berko Zalmanson / Barnett Salmanson immigration record on the SS Baltic, December 1904. Ship and route confirmed: RMS Baltic (White Star Line) departed Liverpool December 14, 1904, consistent with December 23 New York arrival. However, the actual passenger manifest was NOT located through free web search. All relevant databases (Ellis Island Foundation, JewishGen EIDB, FamilySearch, Ancestry, Steve Morse One Step) require browser based access with login or paid subscription. The manifest remains the best record to resolve this discrepancy.
 - **Additional records that would resolve**: (1) WWI Draft Registration Card (FamilySearch collection 1968530, free with login) would list exact birth date and birthplace. (2) Naturalization petition (Rhode Island, NARA Waltham or FamilySearch catalog 1378655) would list arrival date, ship, port, and age. (3) 1920 Census (not yet accessed) would list age and year of immigration.
+- **Searched (2026-04-18, immigration search protocol)**: Additional systematic search of Steve Morse, JewishGen EIDB, GG Archives, FamilySearch. No manifest located. FamilySearch collection 2622566 (RI Naturalization Records 1907-1991) confirmed as the best free indexed collection for Barnett's naturalization petition. All primary databases still require login or subscription.
 - **Solvability**: HIGH (multiple accessible records)
 - **Payoff**: LOW (minor date clarification)
 
@@ -363,6 +373,7 @@ Research gaps and unresolved questions, organized by priority and family line. U
 ### 22. Markel family immigration ~1928: ship manifest
 - **Searched (2026-04-13)**: No manifest found. Kate Kaplan obit confirms family born Poland, arrived West Warwick ~1928.
 - **Searched (2026-04-14)**: 15 web searches for Markel/Markiel/Markl passenger manifests, Helen Brandt, ship "The Liberty" (1923, Florence's arrival), naturalization records. No manifest found via free web search. All primary passenger databases (Ancestry collection 7488, FamilySearch collection T715, Ellis Island Foundation, JewishGen EIDB) require login or subscription for individual record lookup. Ship "The Liberty" not confirmed as a transatlantic passenger vessel; may be a family memory error for the ship name. 1940 Census citizenship code "4" for Morris likely means naturalized or status unknown (codes vary by interpretation). KehilaLinks Markel family page (kehilalinks.jewishgen.org/Drohobycz/families/markel.html) exists but returned 403.
+- **Searched (2026-04-18, immigration search protocol)**: Additional systematic search of all free web resources for Markel/Markiel passenger manifests and Morris Markel naturalization. No manifest or naturalization record located. FamilySearch collection 2622566 (Rhode Island Naturalization Records 1907-1991) confirmed as the key indexed collection for Morris's naturalization petition. NARA Boston/Waltham also holds originals. Florence's ship "The Liberty" remains unconfirmed; no transatlantic vessel by that name confirmed for 1923.
 - **Best leads (priority order)**:
   1. **Steve Morse One Step** (stevemorse.org/ellis/passengers.php): Search "Markel" and "Markiel" arriving New York 1926-1930. Free, no login. Try Soundex and Daitch-Mokotoff phonetic variants.
   2. **Ancestry collection 7488** (New York Passenger and Crew Lists, 1820-1957): Search Markel, Markiel, Markl, also try "Brandt" (Helen's maiden name) from Poland 1926-1930. Requires subscription.
