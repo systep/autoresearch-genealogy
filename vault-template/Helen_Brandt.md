@@ -174,25 +174,44 @@ Result: NEGATIVE. No Geni profile found for Moishe Myer Markel specifically.
 
 8. **Helen's birth year best estimate revised to ~1891**: The 1950 Census (age 59, b. ~1891) is more consistent with the GEDCOM estimate (~1889) than the 1940 Census (age 43, b. ~1897). The 6-year discrepancy is likely due to Helen understating her age in 1940.
 
-## Research Leads (Updated 2026-04-17)
+## 2026-04-18 RIJHA Obituary Search Session
+
+### Summary
+Conducted 12 targeted searches specifically for Helen Markel and Morris Markel obituaries through RIJHA, Find a Grave, BillionGraves, Providence Journal archives, and web search. **No obituary text located.** All RIJHA resources returned 403 on programmatic access. No Find a Grave memorials exist for either Morris or Helen Markel.
+
+### New Leads Discovered
+
+1. **Joseph Markel obituary on Legacy.com** (pid=172362045): May be son Joseph Harold Markel (b. ~1932). If so, would likely name "the late Morris and Helen Markel" as parents. HUMAN ACTION REQUIRED: Access in browser.
+2. **Peppi Schlusselberg obituary** (Hewlett, NY; dignitymemorial.com/obituaries/hewlett-ny/peppi-schlusselberg-6029155): If Anne Markel married Sol Schlusselberg, this could be a relative. May contain Markel family references. HUMAN ACTION REQUIRED: Access in browser.
+3. **RI State Archives Death Records 1853-1973**: Confirmed at catalog.sos.ri.gov/repositories/2/archival_objects/1920. Morris Markel's 1963 death record is in this collection. Helen's death record (~1975) would need to come from RI Dept of Health (records 50+ years old are public as of 2026).
+4. **RIJHA Voice and Herald indices**: rijha.org/collections/periodicals/jewish-voice-herald-indices/ has searchable indices that could point to specific newspaper issues mentioning the Markel family (not just obituaries but wedding announcements, organization news, etc.).
+5. **Heritage Hub / Providence Journal archives**: Accessible via Providence Public Library (provlib.org/databases/heritage-hub-providence-journal-obituaries/). The Providence Journal would have published both Morris's (~1963) and Helen's (~1970s) obituaries. May require library card.
+
+### Assessment
+
+Helen's obituary remains **the single most decisive record** for identifying her parents. The RIJHA "M" Obituaries PDF and the RI death certificate are the two most promising paths. Both require human action (browser access for the PDF, formal records request for the death certificate). The Joseph Markel Legacy.com obituary is a new secondary path that could provide family structure confirmation.
+
+## Research Leads (Updated 2026-04-18)
 
 ### Highest Priority (HUMAN ACTION REQUIRED)
 
 1. **RIJHA "M" Obituaries PDF**: Access rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf in browser. Should contain Morris Markel (~1963) and Helen Markel (~1975) obituaries from the Jewish Herald Voice. These would name surviving family members, parents, and provide exact death dates. **DECISIVE RECORD for this line.**
-2. **Lincoln Park Cemetery office (401-737-5333)**: Call to confirm Morris Markel and Helen Brandt Markel burials. Request plot section, dates, and any headstone inscription data. Headstones may provide Hebrew names and father's name (bat/ben patronymic).
-3. **MyHeritage Goldbaum family site**: Access myheritage.com/site-family-tree-1131568351/goldbaum-family-site in browser. May connect Brina Goldbaum to a specific town or provide additional family context.
-4. **Gesher Galicia All Galicia Database**: Search search.geshergalicia.org for "Brandt" and "Goldbaum" in all records. Focus on Tarnopol district and Sambor district. The 1880/1890/1910 Tarnopol Jewish census records are indexed.
-5. **Jack Schlusselberg obituary**: Access dignitymemorial.com/obituaries/salem-ma/jack-schlusselberg-8066256 in browser. If he is Anne (Markel) Schlusselberg's son, the obituary may name Helen as a grandmother.
-6. **Ferilyn Kaplan obituary**: Access legacy.com/us/obituaries/providence/name/ferilyn-kaplan-obituary?id=12678216 in browser. May name additional Markel family members.
+2. **RI death records**: Request Helen Markel death record from RI Dept of Health. Records 50+ years old are public (Helen's ~1975 death qualifies as of 2025/2026). Death certificate would list parents' names (Joseph Brandt and Brina Goldbaum if GEDCOM is correct). Also request Morris Markel death record (d. 1963) from RI State Archives (Death Records 1853-1973).
+3. **Lincoln Park Cemetery office (401-737-5333)**: Call to confirm Morris Markel and Helen Brandt Markel burials. Request plot section, dates, and any headstone inscription data. Headstones may provide Hebrew names and father's name (bat/ben patronymic).
+4. **Joseph Markel obituary**: Open legacy.com/obituaries/name/joseph-markel-obituary?pid=172362045 in browser. Determine if this is Joseph Harold Markel (b. ~1932, son of Morris and Helen). Would name parents and siblings.
+5. **RIJHA Jewish Voice Herald Indices**: Open rijha.org/collections/periodicals/jewish-voice-herald-indices/ in browser. Search for "Markel" entries across all years. May identify obituaries, wedding announcements, or organizational news.
+6. **Find a Grave search**: Search findagrave.com directly for Morris Markel and Helen Markel at Lincoln Park Cemetery, Warwick, RI (cemetery #430349).
+7. **MyHeritage Goldbaum family site**: Access myheritage.com/site-family-tree-1131568351/goldbaum-family-site in browser. May connect Brina Goldbaum to a specific town or provide additional family context.
+8. **Jack Schlusselberg obituary**: Access dignitymemorial.com/obituaries/salem-ma/jack-schlusselberg-8066256 in browser. If he is Anne (Markel) Schlusselberg's son, the obituary may name Helen as a grandmother.
+9. **Peppi Schlusselberg obituary**: Access dignitymemorial.com/obituaries/hewlett-ny/peppi-schlusselberg-6029155 in browser. Check for Markel family connections.
+10. **Heritage Hub / Providence Journal**: Access via Providence Public Library (provlib.org). Search for Markel obituaries 1963 and 1970s.
 
 ### Medium Priority
 
-7. **Yad Vashem Central Database**: Search collections.yadvashem.org/en/names for "Goldbaum" with first name variants (Brina, Bryna, Brayna, Breina) from Poland/Galicia. Also search for "Brandt" from Tarnopol district. A Page of Testimony submitted by a relative could provide Brina's birth details, last residence, and circumstances of death.
-8. **USHMM Holocaust Victims Database**: Search ushmm.org/online/hsv/ for Goldbaum and Brandt from Galicia.
-9. **CJH Brandt family collection**: Contact Center for Jewish History (cjh.org) about the collection documenting "Brandt, Ament, Kohl, Kalahora, and Lebenheim families in Galicia and Russia." Request finding aid or summary.
-10. **Ancestry collection 3132**: Galicia, Ukraine, Jewish Births, Marriages, and Deaths, 1789-1905. Search for Brandt and Goldbaum. Requires subscription.
-11. **JRI-Poland**: Search jri-poland.org for Brandt and Goldbaum in indexed Galician records.
-12. **Ship passenger manifest (~1928)**: Continue searching via Steve Morse One Step (stevemorse.org) for Markel/Markiel/Brandt arriving New York 1926-1930.
-13. **Morris Markel naturalization petition**: Rhode Island U.S. District Court records (NARA Boston/Waltham). Would list Helen, her birthplace, and arrival details.
-14. **Rhode Island death records**: Request Helen Markel death record from RI Dept of Health. Records 50+ years old are public. Would list parents' names.
-15. **1930 US Census, West Warwick RI**: Access via Ancestry or FamilySearch. Would be the earliest US record of the Markel family (arrived ~1928). Would confirm immigration year, Helen's birth year, and whether any of Helen's relatives (Joseph Brandt? Brina Goldbaum?) were in the household.
+11. **Gesher Galicia All Galicia Database**: Search search.geshergalicia.org for "Brandt" and "Goldbaum" in all records. Focus on Tarnopol district and Sambor district.
+12. **Yad Vashem Central Database**: Search for "Goldbaum" variants (Brina, Bryna, Brayna) from Poland/Galicia. Also "Brandt" from Tarnopol.
+13. **Ferilyn Kaplan obituary**: Access legacy.com/us/obituaries/providence/name/ferilyn-kaplan-obituary?id=12678216 in browser.
+14. **CJH Brandt family collection**: Contact cjh.org about the collection documenting "Brandt, Ament, Kohl, Kalahora, and Lebenheim families in Galicia and Russia."
+15. **Ship passenger manifest (~1928)**: Search Steve Morse One Step for Markel/Markiel/Brandt arriving New York 1926-1930.
+16. **Morris Markel naturalization petition**: RI U.S. District Court records (NARA Boston/Waltham). Would list Helen, birthplace, arrival.
+17. **1930 US Census, West Warwick RI**: Earliest US record of Markel family. Ancestry or FamilySearch.

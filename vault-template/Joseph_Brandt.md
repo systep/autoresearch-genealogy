@@ -86,16 +86,60 @@ Note: Joseph's daughter-in-law Dwora Goldbaum (alias Brand) of Lisko married [[M
 
 No results found for "Joseph Brandt" or "Brandt" from Tarnopol in Yad Vashem or USHMM databases via web search (all returned 403; HUMAN ACTION REQUIRED).
 
-## Research Leads (Updated 2026-04-17)
+## 2026-04-18 Research Session: Tarnopol District Census and Vital Records
 
-1. **Gesher Galicia All Galicia Database**: Search search.geshergalicia.org for "Brandt" in Tarnopol district. The 1880/1890/1910 censuses are indexed. HUMAN ACTION REQUIRED (browser access only).
-2. **Gesher Galicia Brandt families page**: Access geshergalicia.org/families/?id=brandt/ in browser.
-3. **CJH Brandt family collection**: Contact Center for Jewish History (cjh.org) about their Brandt/Ament/Kohl/Kalahora/Lebenheim collection. Request finding aid.
-4. **JRI-Poland**: Search for "Brandt" in indexed 19th century Jewish records.
-5. **Ancestry collection 3132**: Galicia Jewish vital records 1789-1905. Subscription required.
-6. **1930 US Census, West Warwick, RI**: Check if Joseph was in the Markel household. His absence would confirm he remained in Europe or died before 1928.
-7. **Ship passenger manifests (~1928)**: Search for Joseph Brandt on the same manifest as the Markel family.
-8. **Yad Vashem Central Database**: Search collections.yadvashem.org for Joseph Brandt from Galicia/Tarnopol.
-9. **RIJHA "M" Obituaries PDF**: Morris Markel's obituary (~1963) may name Helen's parents (i.e., Joseph Brandt). Access rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf in browser.
-10. **Rhode Island death records**: Helen Markel's death record (~1975) should list her parents' names. Request from RI Dept of Health (records 50+ years old are public).
-11. **MyHeritage Goldbaum family site**: Access myheritage.com/site-family-tree-1131568351/goldbaum-family-site in browser.
+Conducted 13 web searches focused on the Brandt and Goldbaum surnames in Tarnopol district records.
+
+### New Findings
+
+1. **Three Tarnopol Jewish censuses are searchable for free** in the All Galicia Database (search.geshergalicia.org): the 1880 census index, the 1890 census index, and the full 1910 census. The 1890 census is the most relevant for Joseph Brandt: if he was born ~1855-1870 and married Brina Goldbaum before Helen's birth (~1891), he should appear in the 1890 census as a married man in his 20s-30s.
+
+2. **1910 census contains emigration data**: People who left Tarnopol permanently are documented, including those listed as "absent in America" or "New York, America." If Joseph emigrated before 1910, he would appear in this emigration list. If he died before 1910, he would not appear at all, but Brina might appear as a widow.
+
+3. **1910 census data fields**: House numbers, street addresses, professions (Polish with English translation), ages, relationships within household, place of birth, when the individual moved to Tarnopol (if not born there), religious vs. civil marriage status, and disposition of orphaned children.
+
+4. **AGAD Warsaw holds ~3,000 Jewish metrical books for Tarnopol area (1877-1911)**: These would contain Brandt birth, marriage, and death records from the period covering Joseph's estimated adult life.
+
+5. **DATO (Ternopil) holds mid-19th century marriage records**: A Brandt-Goldbaum marriage in the 1870s-1880s would be in these records.
+
+6. **Brandt surname confirmed in Gesher Galicia Families index**: A dedicated page exists at geshergalicia.org/families/?id=brandt/ (returned 403 on automated fetch). This page indexes Brandt records from Galician vital records.
+
+7. **EHRI archival collections identified**: Three distinct archival collections contain Tarnopol Jewish community records: (a) Jewish Community in Tarnopol (Sygn. 110) at USHMM; (b) DATO documentation including Jewish organizations 1921-1939; (c) Ternopil Oblast Archive with census/registration of Jews, forced labor name lists, Judenrat activities.
+
+8. **Geni "Tarnopol Ghetto" project (#27298)**: May contain profiles of Brandt victims. HUMAN ACTION REQUIRED.
+
+### Negative Results
+
+1. No "Joseph Brandt" found in any database or web search for Tarnopol.
+2. No Brandt individuals from Tarnopol found in Yad Vashem or USHMM web search snippets.
+3. No Brandt immigration records from Tarnopol located.
+
+### Assessment Update (2026-04-18)
+
+Joseph Brandt remains at **Speculative** confidence. The research has significantly clarified the archival landscape: three free searchable censuses (1880, 1890, 1910) in the All Galicia Database are the single highest priority. If Joseph lived in Tarnopol city (not a surrounding village), he should appear in these censuses. The 1910 census emigration data could reveal whether he left for America before 1910.
+
+## Research Leads (Updated 2026-04-18)
+
+### Priority 1: Free, highest expected yield
+
+1. **All Galicia Database (search.geshergalicia.org)**: Search for "Brandt" in all Tarnopol records. **Three censuses available**: 1880 index, 1890 index, 1910 full census. The 1890 census is most likely to contain Joseph as a married adult. The 1910 census emigration data could show if Joseph went to America. HUMAN ACTION REQUIRED.
+2. **Gesher Galicia Brandt families page**: Visit geshergalicia.org/families/?id=brandt/ in browser. Indexes Brandt records from Galician vital records.
+3. **Geni "Tarnopol Ghetto" project (#27298)**: Visit geni.com/projects/Tarnopol-Ghetto/27298 in browser. May contain Brandt victim profiles.
+4. **Geni "Jewish Families from Ternopil" project (#15742)**: Visit geni.com/projects/Jewish-Families-from-Ternopil-Tarnopol-Ukraine/15742 in browser.
+
+### Priority 2: US records (decisive for Joseph's fate)
+
+5. **RIJHA "M" Obituaries PDF**: Morris Markel's obituary (~1963) may name Helen's parents. rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf. HUMAN ACTION REQUIRED.
+6. **Helen Markel RI death record (~1975)**: Would list father's name. Request from RI Dept of Health (50+ years old = public).
+7. **1930 US Census, West Warwick, RI**: Check if Joseph was in the Markel household after ~1928 immigration.
+8. **Lincoln Park Cemetery office (401-737-5333)**: Headstone Hebrew patronymic would provide Joseph's father's name.
+
+### Priority 3: Archival and subscription
+
+9. **CJH Brandt family collection (ME 605)**: Contact reference@cjh.org about Brandt family content.
+10. **Ancestry collection 3132**: Galicia Jewish vital records 1789-1905.
+11. **AGAD Warsaw metrical books**: 3,000 books covering Tarnopol area 1877-1911.
+12. **DATO Ternopil mid-19th century marriage records**: Brandt-Goldbaum marriage records.
+13. **Yad Vashem names database**: Search collections.yadvashem.org for Brandt from Tarnopol.
+14. **JRI-Poland**: Search for Brandt in Tarnopol indexed records.
+15. **EHRI archival collections**: Three collections with forced labor lists, registration of Jews, confiscated property lists.

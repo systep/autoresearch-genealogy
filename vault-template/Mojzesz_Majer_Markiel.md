@@ -55,14 +55,74 @@ If Mojzesz Majer remained in the Sambor area (where he was documented as a merch
 
 His wife **Dwora Goldbaum/Brand** of Lisko creates a potential connection to the Brandt/Goldbaum line via [[Joseph_Brandt]] and [[Brina_Goldbaum]]. The Brand surname appearing in both Lisko (Dwora's family) and Tarnopol (Helen Brandt's family) may indicate a wider family network. HUMAN ACTION REQUIRED to search Yad Vashem and USHMM for Dwora Markiel (nee Goldbaum/Brand) from Sambor/Lisko.
 
-## Follow-up priorities
+## 2026-04-18 Critical Identity Analysis: Dwora = Helen Brandt
 
-1. **Search Sambor Jewish Births** (index books) for Mojzesz Majer Markiel c. 1895-1900 to establish exact birth year.
-2. **Search for children of Mojzesz Majer x Dwora** in Sambor birth registers c. 1920-1938.
-3. **Search Holocaust databases** (Yad Vashem, USHMM) for Mojzesz Majer Markiel, Dwora Markiel, and any of their children. HUMAN ACTION REQUIRED (all returned 403 on programmatic access).
-4. **Check 1921 Polish census** if extant for Sambor, may show Mojzesz Majer's household.
-5. **Cross-check the Lisko / Brand / Goldbaum lines** for any overlap with other vault families. Note the Brand/Brandt surname appearing in both Lisko (Dwora) and Tarnopol (Helen Brandt).
-6. **Lesko (Lisko) Yizkor Book**: "Memorial Book dedicated to the Jews of Linsk, Istrik and Vicinity" (jewishgen.org/yizkor/lesko/). Search for Brand/Goldbaum entries. HUMAN ACTION REQUIRED.
+### Finding: Dwora Goldbaum/Brand IS Almost Certainly Helen Brandt Markel
+
+Analysis of the 1919 marriage record data against the known identity of Helen Brandt (wife of Morris Markel) produces an overwhelming match on every testable data point:
+
+| Data Point | 1919 Marriage Record (Tier 1) | Helen Brandt GEDCOM/Vault (Tier 3) | Match? |
+|---|---|---|---|
+| Groom | Mojzesz Majer Markiel | Morris (Moishe Myer) Markel | YES |
+| Groom's father | Hersch Markiel of Waniowice | Heshel/Herman Markel of Waniowice | YES |
+| Groom's mother | Lea Frey | Leah Frei | YES |
+| Bride's father | **Józef BRAND** (Lisko) | **Joseph BRANDT** | YES |
+| Bride's mother | **Brancia GOLDBAUM** (Lisko) | **Brina GOLDBAUM** | YES |
+| Bride's surname | GOLDBAUM false BRAND | BRANDT (maiden name) | YES |
+
+**On the name "Brancia" vs "Brina"**: Research confirms these are variant forms of the same Yiddish name cluster. "Brancia" (also Brancha, Brancza) is documented as a Yiddish diminutive of Breindel, which shares roots with Brina/Brayna (all from Germanic "braun" meaning brown). The difference is orthographic/dialectal, not substantive. The 1919 Polish civil register used the Polish-inflected form "Brancia"; the GEDCOM preserves the more common Yiddish form "Brina."
+
+**On the "false" (fałsz) notation**: In Galician Jewish vital records, "false" (German: falsch; Polish: fałsz) does NOT mean "fake." It is a bureaucratic notation meaning "alias" or "also known as," specifically used when a person's legal registered surname differed from their commonly used surname. This was extremely common because the Habsburg Empire did not recognize Jewish religious marriages as legally valid. Children of religiously married (but not civilly married) parents were registered under the mother's maiden name. "Dwora GOLDBAUM false BRAND" means: her legal registered surname was GOLDBAUM (mother's maiden name, assigned at birth because her parents' marriage was not civilly registered), and BRAND was the father's surname that she also used. This is consistent with Joseph Brand(t) and Brina Goldbaum being religiously but not civilly married, a common pattern in Galicia.
+
+**One discrepancy: "Dwora" vs "Helen"**: The Yiddish name Dwora (Hebrew: Devorah, meaning "bee") is typically Americanized as Dorothy, Dora, or Deborah. "Helen" corresponds to Yiddish Hena/Henya (from Hebrew Chana, meaning "grace"). These are different names. However, there is no fixed rule for immigrant name Americanization. Some immigrants chose English names based on phonetic similarity, some based on meaning, and some chose names with no connection to their birth name at all. It is also possible that Helen had a second Yiddish name (a "kinnui" or secular name) in addition to Dwora, or that "Helen" was chosen arbitrarily upon immigration. This discrepancy weakens but does not invalidate the identification.
+
+**On Lisko vs Tarnopol**: The 1919 record places the Brand/Goldbaum family firmly in **Lisko** (now Lesko), Sanok district, approximately 80 km southwest of Sambor. Previous vault notes speculated that the Goldbaum/Brandt family was from Tarnopol (150 km east of Sambor) based on the Goldbaum surname appearing in the Tarnopol 1910 Census surname list. The 1919 Tier 1 record supersedes this inference. The Brand/Goldbaum family was from Lisko. The Goldbaum surname in the Tarnopol Census may be a different, unrelated Goldbaum family.
+
+**Assessment**: The probability that Dwora Goldbaum/Brand is a DIFFERENT person from Helen Brandt Markel approaches zero. Both women married the same man (Morris/Mojzesz Majer Markiel), both had fathers named Joseph Brand(t), and both had mothers named Brina/Brancia Goldbaum. The only alternative hypothesis, that Morris married Dwora first and then later married Helen (who coincidentally had parents with the same names from the same surname), violates Occam's razor and is unsupported by any evidence. **Strong Signal** for same person identification.
+
+### Implications
+
+1. **Helen Brandt's Yiddish/Hebrew name was Dwora (Devorah)**. This should be recorded.
+2. **Helen Brandt's origin town was Lisko (Lesko)**, not Tarnopol. The Tarnopol connection to the Goldbaum surname was inferential and is now superseded by Tier 1 evidence.
+3. **Helen's parents were religiously but not civilly married** in Galicia, which is why her legal surname was Goldbaum (mother's maiden name) rather than Brand (father's surname).
+4. **The marriage date of 1919** provides an anchor for Helen's biography: she married in Sambor in 1919, and the family immigrated to the US approximately 1928. The eldest child Thelma was born Sept 12, 1920, consistent with a December 1919 marriage.
+5. **Helen's birth year estimate shifts**: If she married in 1919 at a typical marriage age (18 to 25), her birth year would be c. 1894 to 1901. This is somewhat later than the GEDCOM estimate of ~1889 but closer to the 1940 Census implied year of ~1897.
+6. **Brina Goldbaum's origin is Lisko**, not Tarnopol. This changes the geographic research focus for the Goldbaum family.
+7. **Lesko Jewish records at the Sanok sub-archive** (Archiwum Panstwowe w Rzeszowie, Oddzial w Sanoku) become the primary target for finding Brina Goldbaum's and Joseph Brand's vital records. The JRI-Poland Lesko town page has a surnames list.
+8. **The Lesko Yizkor Book** ("Memorial Book dedicated to the Jews of Linsk, Istrik and Vicinity," ed. Natan Mark and Shimon Friedlander, Tel Aviv 1965, 516 pp, Hebrew/Yiddish) is the relevant memorial book for the Goldbaum/Brand family, not the Tarnopol Yizkor Book.
+
+### Research conducted (2026-04-18, 15 searches)
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | AGAD Fond 424 File 212 details (Gesher Galicia project page) | CONFIRMED: Fond 424 contains marriage banns in loose form. Gesher Galicia has indexed 100+ files. Sambor is among 23 towns with completed indexes. Page returned 403 on fetch. |
+| 2 | "Goldbaum" "Brand/Brandt" Lisko/Lesko Jewish Galicia (Gesher Galicia) | CONFIRMED: Lesko has Gesher Galicia town page (geshergalicia.org/towns/?id=lesko/), 12 FamilyFinder entries. Lesko Jewish population was 1,976 (1880) and 2,400 (1921, 63% of town). 403 on page fetch. |
+| 3 | Yiddish name "Helen" English equivalent; "Dwora" Americanization | CONFIRMED: Dwora/Devorah typically Americanized as Dorothy or Dora, NOT Helen. Helen corresponds to Yiddish Hena/Henya (Hebrew Chana). No fixed rules existed for immigrant name changes. |
+| 4 | Lesko/Lisko Yizkor Book details | CONFIRMED: "Sefer yizkor; mukdash le-yehudei ha-ayarot she-nispu ba-shoa be-shanim 1939-44, Linsk, Istrik, Beligrod, Litovisk veha-sevivah." Ed. Natan Mark and Shimon Friedlander. Tel Aviv, 1965. 516 pp. Hebrew/Yiddish. JewishGen translation available. USHMM source #33405. |
+| 5 | Galician "false/fałsz" surname notation meaning | CONFIRMED: "False" = alias/also known as. Resulted from Habsburg non-recognition of Jewish religious marriages. Children registered under mother's maiden name. "GOLDBAUM false BRAND" = legal name Goldbaum, alias Brand (father's surname). |
+| 6 | "Brancia" as variant of "Brina" | CONFIRMED: Brancia/Brancha is a Yiddish diminutive of Breindel, same name cluster as Brina/Brayna. Both derive from Germanic "braun" (brown). |
+| 7 | Gesher Galicia All Galicia Database Brand/Brandt in Lesko | Database has 900,000+ records from 1786-1945. Lesko is included. 403 on search. HUMAN ACTION REQUIRED. |
+| 8 | Yad Vashem Goldbaum from Lesko/Lisko | General database info only; no specific individuals returned via web search. HUMAN ACTION REQUIRED. |
+| 9 | Lesko Jewish vital records at Sanok archive | CONFIRMED: Archiwum Panstwowe w Rzeszowie, Oddzial w Sanoku holds Jewish vital records from 8 towns including Lesko. JRI-Poland has Lesko town page with surnames list. |
+| 10 | JRI-Poland Lesko surnames list | 403 on page fetch. HUMAN ACTION REQUIRED. |
+| 11 | "Józef Brand" Lisko Galicia Jewish | No specific individual match. General Lesko history only. |
+| 12 | Lesko Holocaust timeline | Jews deported August 1942, exterminated. Pre-war population ~2,400 Jews (60% of town). |
+| 13 | JewishGen Given Names Database Dwora/Dvora | Confirmed Devorah = Deborah/Dorothy/Dora in Americanization. "Helen" is not a standard Americanization of Dwora. |
+| 14 | Helen as Americanization of Jewish names | Helen = Hena/Henya/Chana (Hebrew for "grace"). Hensha documented as Hebrew name for "Helene." |
+| 15 | Lesko Yizkor book necrology pages | 403 on JewishGen page fetch. Book pages 467-476, 485-489 available online but blocked on automated access. HUMAN ACTION REQUIRED. |
+
+## Follow-up priorities (updated 2026-04-18)
+
+1. **All Galicia Database (search.geshergalicia.org)**: Search for "Brand" and "Goldbaum" in Lesko (NOT Tarnopol). Free, no login. HUMAN ACTION REQUIRED. **HIGHEST PRIORITY.**
+2. **JRI-Poland Lesko surnames list** (jri-poland.org/town/lesko/lesko-surnames-list/): Check if Brand and Goldbaum appear. HUMAN ACTION REQUIRED.
+3. **Lesko Yizkor Book necrology** (jewishgen.org/yizkor/lesko/): Search for Brand, Goldbaum entries. Pages 467-516 likely contain victim lists. HUMAN ACTION REQUIRED.
+4. **Sanok sub-archive**: Lesko Jewish vital records for Brand/Goldbaum birth, marriage, death records. Available via FamilySearch microfilm or in-person.
+5. **Search Sambor Jewish Births** (index books) for Mojzesz Majer Markiel c. 1895-1900.
+6. **Search for children of Mojzesz Majer x Dwora** in Sambor birth registers c. 1920-1938 (Thelma b. 1920, Kate b. 1925 would be in these registers if born before emigration).
+7. **Search Holocaust databases** (Yad Vashem, USHMM) for Goldbaum and Brand from Lesko specifically. HUMAN ACTION REQUIRED.
+8. **RIJHA "M" Obituaries PDF** (rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf): Morris and Helen Markel obituaries would confirm Helen's maiden name and potentially her Yiddish name. **DECISIVE RECORD.**
+9. **Helen Markel RI death record (~1975)**: Would list parents' names. Request from RI Dept of Health.
+10. **Lincoln Park Cemetery headstone**: Hebrew inscription may read "Dwora bat Yosef" confirming the identification.
 
 ## Document Sources
 

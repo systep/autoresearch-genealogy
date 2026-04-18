@@ -1,14 +1,119 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-17
-last_session: "2026-04-17 Holocaust records search (all lines above Thelma Markel)"
+updated: 2026-04-18
+last_session: "2026-04-18 Brandt/Goldbaum Tarnopol district census and vital records research"
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-18: Brandt and Goldbaum Surnames in Tarnopol District Jewish Census and Vital Records
+
+### Summary
+
+Focused research (13 web searches, 12 fetch attempts) on the Brandt and Goldbaum surnames in Tarnopol (Ternopil) district Jewish records. Both surnames are confirmed present in the Gesher Galicia Tarnopol 1910 Jewish Census surname list. The research targeted census data, vital records, Yizkor books, Geni projects, EHRI archival collections, Yad Vashem names database, and immigration records.
+
+**Major finding**: A **Moses Goldbaum** is documented as a birth witness in Tarnopol Jewish vital records across multiple years (1879, 1880, 1889), serving as witness for children's births in the Wolfthal family. This is the first named Goldbaum individual located in Tarnopol primary source records. Moses Goldbaum's activity as a witness across a decade indicates he was an established member of the Tarnopol Jewish community and may be a relative (father, uncle, brother) of Brina Goldbaum.
+
+**Second finding**: The All Galicia Database contains indexed data not only from the 1910 Tarnopol Jewish Census but also from the 1880 and 1890 census index books (held at AGAD Warsaw). All three censuses are searchable for free. The 1910 census includes: house numbers, street addresses, professions (Polish with English translation), ages, relationships within household, place of birth, when the individual moved to Tarnopol, information about religious vs. civil marriages, and crucially, details on former residents who had **emigrated** (including those listed as "absent in America" or "New York, America").
+
+**Third finding**: AGAD Warsaw holds approximately 3,000 Jewish metrical books for the Tarnopol area (covering 1877 to 1911), and DATO in Ternopil holds mid-19th century marriage records plus the 1910 census originals. These are the repositories where Brandt and Goldbaum vital records (births, marriages, deaths) would be found.
+
+### Searches Conducted (13 searches, 12 fetch attempts)
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | "Brandt Jewish family Tarnopol Galicia genealogy records" | PARTIAL. Confirmed Gesher Galicia Brandt families page (geshergalicia.org/families/?id=brandt/). CJH Ulrich Skaller Collection ME 605 (Brandt family in Galicia) re-confirmed. All Galicia Database has 900,000+ records. |
+| 2 | "Goldbaum Jewish family Tarnopol Galicia genealogy records" | PARTIAL. Goldbaum confirmed in Tarnopol 1910 Census surname list. Ancestry collection 3132 (Galicia Jewish BMD 1789-1905) confirmed relevant. |
+| 3 | Tarnopol 1910 Jewish Census data online (Gesher Galicia) | POSITIVE. Census is freely searchable on All Galicia Database (search.geshergalicia.org). ~14,000 names. Includes emigration data: people "absent" in "America" or "New York, America." 1880 and 1890 index books also indexed. |
+| 4 | site:geni.com Brandt Tarnopol Jewish Galicia | PARTIAL. Found Geni project "Jewish Families from Ternopil (Tarnopol)" (#15742) and "Tarnopol Ghetto" project (#27298). No specific Brandt profiles in search snippets. |
+| 5 | site:geni.com Goldbaum Tarnopol Ternopil | **POSITIVE.** Moses Goldbaum documented as birth witness for Wolfthal family children in Tarnopol (1879, 1880, 1889). 916 Goldbaum profiles on Geni. Geni surname page at geni.com/surnames/goldbaum. |
+| 6 | Tarnopol Yizkor book Brandt Goldbaum JewishGen | PARTIAL. Tarnopol Yizkor Book confirmed (JewishGen Press, ed. Korngruen, trans. Kutten, name indexer Holzman, 358 pp.). Yiddish Book Center has digitized original. No specific Brandt/Goldbaum matches in web snippets. |
+| 7 | JewishGen Tarnopol vital records index | PARTIAL. AGAD holds ~3,000 Jewish metrical books for Tarnopol area (1877-1911). DATO holds mid-19th century marriage records + 1910 census. JewishGen JOWBR has some Tarnopol burial records. |
+| 8 | "Brandt" OR "Brand" Tarnopol Galicia immigration America | PARTIAL. 1910 Census notes emigration: people "absent" in "America." No specific Brandt immigration match. |
+| 9 | EHRI portal Tarnopol Jewish community records | **POSITIVE.** Three key archival collections: (a) Jewish Community in Tarnopol (Sygn. 110) at USHMM; (b) DATO: Soviet Extraordinary Commission reports, Jewish organizations 1921-1939, community records 1925-1938; (c) Ternopil Oblast Archive: census/registration of Jews, forced labor name lists, Judenrat activities, confiscated property lists. |
+| 10 | "Goldbaum" "Brandt" marriage Tarnopol Galicia | NEGATIVE. No specific marriage record found via web search. AGAD metrical books and DATO mid-19th century marriage records are the repositories. |
+| 11 | "Joseph Brandt" Tarnopol Jewish Galicia | NEGATIVE for Joseph Brandt specifically. CJH Brandt family collection re-confirmed. |
+| 12 | "Moses Goldbaum" Tarnopol witness birth records | **POSITIVE (Tier 1 via indexed vital records).** Moses Goldbaum witnessed births: Josef Dawid Wolfthal's daughter Malie (1879); Chune Wolfthal's daughters Beile Ruchel (1880) and Ester (1889); Herman Wolfthal's daughter Rosa. Wolfthal family were musicians from Galicia; Herman was Tysmenytsia town cantor. |
+| 13 | Yad Vashem Goldbaum Tarnopol Holocaust victim | NEGATIVE (no specific match in web snippets). Browser access required at collections.yadvashem.org. |
+
+### Negative Results (All Logged)
+
+1. No specific "Joseph Brandt" from Tarnopol found in any database.
+2. No Brandt-Goldbaum marriage record located via web search.
+3. No Brandt or Goldbaum individuals found in Yad Vashem web search snippets (database requires browser access).
+4. No Brandt or Goldbaum entries found in Tarnopol Yizkor Book via web search (book requires manual name index check).
+5. No Brandt immigration records from Tarnopol located.
+6. All Gesher Galicia pages, Geni project pages, JRI-Poland town page, EHRI portal detail pages returned 403 on automated fetch.
+
+### Key New Data Points
+
+1. **Moses Goldbaum (Tarnopol, active 1879-1889)**: First named Goldbaum individual in Tarnopol primary records. Birth witness for Wolfthal family. Contemporary of Brina Goldbaum's estimated father's generation.
+2. **Three Tarnopol censuses searchable (1880, 1890, 1910)**: All indexed in free All Galicia Database.
+3. **Emigration data in 1910 census**: People who left Tarnopol permanently are documented, including those in "America."
+4. **DATO Ternopil holds mid-19th century marriage records**: Goldbaum-Brandt marriage would be in these records.
+5. **EHRI archival collections**: Three distinct collections with Tarnopol Jewish community records spanning 1874-1943.
+6. **Geni "Tarnopol Ghetto" project (#27298)**: May contain Brandt or Goldbaum victim profiles.
+
+## 2026-04-18: RIJHA Obituary Search for Morris and Helen Markel
+
+### Summary
+
+Conducted 12 targeted searches for Morris Markel (~d. 1963) and Helen Brandt Markel (~d. 1970s) obituaries through the Rhode Island Jewish Historical Association (RIJHA), Find a Grave, BillionGraves, Providence Journal archives, and general web sources. **No obituary text was located.** All RIJHA resources (obituary PDFs, Jewish Voice Herald indices, Voice and Herald newspaper archives) returned 403 errors on programmatic access. Find a Grave direct memorial searches also returned 403. No Find a Grave memorials exist for either Morris or Helen Markel in web search results.
+
+### Key Discovery: RIJHA Voice and Herald Newspaper Archive Structure
+
+The RIJHA has digitized the full run of the Jewish Voice and Herald (formerly the Rhode Island Herald). Individual issues are available as PDFs organized by year (e.g., rijha.org/voice-and-herald-1967/). The obituary collection is a separate set of PDFs organized alphabetically by surname (e.g., rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf). Additionally, RIJHA maintains searchable indices of the Jewish Voice Herald at rijha.org/collections/periodicals/jewish-voice-herald-indices/. All of these require browser access.
+
+### Key Discovery: Joseph Markel Obituary on Legacy.com
+
+A Joseph Markel obituary exists at legacy.com/obituaries/name/joseph-markel-obituary?pid=172362045. This could be Joseph Harold Markel (Morris and Helen's son, b. ~1932). The page returned 403 on fetch. HUMAN ACTION REQUIRED: Access this obituary in browser. If this is the correct Joseph Harold Markel, it would likely name his parents (Morris and Helen) and siblings.
+
+### Key Discovery: Peppi Schlusselberg Obituary
+
+A Peppi Schlusselberg obituary exists at dignitymemorial.com/obituaries/hewlett-ny/peppi-schlusselberg-6029155 (Hewlett, NY). If Anne Markel married Sol Schlusselberg, Peppi could be Anne's mother-in-law or a relative in the Schlusselberg family. The page returned 403 on fetch. HUMAN ACTION REQUIRED: Access this obituary in browser. Check for any Markel family connections.
+
+### Key Discovery: RI Death Records 1853-1973
+
+The Rhode Island Department of State Archives holds Death Records 1853-1973 (catalog.sos.ri.gov/repositories/2/archival_objects/1920). Morris Markel's 1963 death record would be in this collection. Records over 50 years old are public. HUMAN ACTION REQUIRED: Contact RI State Archives to request Morris Markel death record (d. 1963, West Warwick). This would provide exact death date, cause, informant name (likely Helen), and parents' names.
+
+### Searches Conducted (all dated 2026-04-18)
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | RIJHA "M" Obituaries PDF (rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf) | **403 on fetch.** This PDF is the single most likely source for Morris Markel's obituary from the Jewish Herald Voice. HUMAN ACTION REQUIRED. |
+| 2 | Web search: "Morris Markel" obituary Rhode Island 1963 | **NEGATIVE.** No obituary found. General RI obituary archive links only. |
+| 3 | Web search: "Helen Markel" obituary Rhode Island | **NEGATIVE.** One result for Helen G. Markel at Blileys funeral home (Richmond, VA) is unrelated. |
+| 4 | Helen G. Markel obituary at blileys.com | **403 on fetch.** Blileys is a Richmond, VA funeral home. Almost certainly a different person. |
+| 5 | Web search: "Morris Markel" obituary "West Warwick" rabbi | **NEGATIVE.** No relevant results. |
+| 6 | Web search: "Helen Markel" death "West Warwick" OR "Warwick" Rhode Island | **NEGATIVE.** General obituary directory pages only. |
+| 7 | Find a Grave search: Morris Markel at Lincoln Park Cemetery (#430349) | **403 on direct search.** No memorial found via web search either. |
+| 8 | Find a Grave search: Helen Markel at Lincoln Park Cemetery (#430349) | **403 on direct search.** No memorial found via web search either. |
+| 9 | Web search: site:rijha.org Markel obituary | **PARTIAL.** Confirmed RIJHA obituary collection structure (alphabetical PDFs). M Obituaries PDF URL confirmed. Indices page confirmed at rijha.org/collections/periodicals/jewish-voice-herald-indices/. |
+| 10 | Web search: "Markel" "Lincoln Park Cemetery" BillionGraves Warwick | **NEGATIVE.** No specific Markel results on BillionGraves. |
+| 11 | RIJHA Jewish Voice Herald indices page | **403 on fetch.** |
+| 12 | RIJHA Voice and Herald 1967 page | **403 on fetch.** |
+
+### Updated Action Items (HUMAN ACTION REQUIRED)
+
+**Priority 1 (Immediate, browser-based):**
+1. **RIJHA "M" Obituaries PDF**: Open rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf in browser. Use Ctrl+F to search for "Markel". Should contain Morris Markel's obituary (~1963) and possibly Helen Markel (~1970s) from the Jewish Herald Voice / Rhode Island Herald.
+2. **RIJHA Jewish Voice Herald Indices**: Open rijha.org/collections/periodicals/jewish-voice-herald-indices/ in browser. Search indices for "Markel" entries. These would point to specific newspaper issues containing Markel family news.
+3. **Joseph Markel obituary**: Open legacy.com/obituaries/name/joseph-markel-obituary?pid=172362045 in browser. Determine if this is Joseph Harold Markel (b. ~1932, son of Morris and Helen).
+4. **Find a Grave search**: Search findagrave.com for Morris Markel and Helen Markel at Lincoln Park Cemetery, Warwick, RI (cemetery #430349). Also try "Markel" surname search within the cemetery.
+
+**Priority 2 (Phone/mail request):**
+5. **Lincoln Park Cemetery office (401-737-5333)**: Call to confirm Morris Markel and Helen Brandt Markel burials, request section/plot numbers and dates.
+6. **RI State Archives death record**: Request Morris Markel death record (d. 1963, West Warwick, Kent County, RI) from catalog.sos.ri.gov. Records 1853-1973 are held. Would provide exact death date, informant, parents.
+7. **RI Dept of Health**: Request Helen Markel death certificate (estimated d. ~1975, Rhode Island). Records over 50 years old are public. Would list parents' names (Joseph Brandt and Brina Goldbaum if GEDCOM is correct).
+
+**Priority 3 (Additional leads):**
+8. **Peppi Schlusselberg obituary**: Open dignitymemorial.com/obituaries/hewlett-ny/peppi-schlusselberg-6029155 in browser. Check for Markel family connections.
+9. **Jack Schlusselberg obituary** (from prior session): Open dignitymemorial.com/obituaries/salem-ma/jack-schlusselberg-8066256 in browser. If Anne Markel Schlusselberg's son, may name Helen as grandmother.
+10. **Heritage Hub / Providence Journal archives**: Access via Providence Public Library (provlib.org/databases/heritage-hub-providence-journal-obituaries/). Search for Markel obituaries from 1963 and 1970s. May require library card.
 
 ## 2026-04-17: Holocaust Records Search (All Family Lines Above Thelma Markel)
 

@@ -90,6 +90,17 @@ Through his daughter Thelma's marriage to Leonard Irving Salmanson, Morris is th
 
 Morris died in 1963. The location and circumstances of his death are not documented in available sources.
 
+### Obituary Search Status (2026-04-18)
+
+Conducted 12 targeted searches for Morris Markel's obituary through RIJHA, Find a Grave, BillionGraves, Providence Journal archives, and web search. **No obituary text located.** All RIJHA resources returned 403 on programmatic access (the RIJHA "M" Obituaries PDF at rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf is the single most likely source). No Find a Grave memorial exists for Morris Markel. A Joseph Markel obituary at legacy.com (pid=172362045) may be son Joseph Harold Markel and could reference Morris. The RI State Archives holds Death Records 1853-1973 (catalog.sos.ri.gov), which would contain Morris's 1963 death record.
+
+**HUMAN ACTION REQUIRED:**
+1. Open rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf in browser and search for "Markel"
+2. Search findagrave.com for Morris Markel at Lincoln Park Cemetery, Warwick, RI (#430349)
+3. Open legacy.com/obituaries/name/joseph-markel-obituary?pid=172362045 to check if this is son Joseph Harold Markel
+4. Request Morris Markel death record (d. 1963, West Warwick) from RI State Archives
+5. Call Lincoln Park Cemetery (401-737-5333) to confirm burial and obtain plot/date information
+
 **Source assessment:** Morris Markel's identity and role as Rabbi at Ahavath Sholom Synagogue in Arctic, RI, is confirmed by the Yichus narrative (Tier 2, primary family document by Ruth Gold, Oct 9, 2011). His full name (Moishe Myer), description as "a very learned man," and immigration purpose are from this source. Birth date remains unknown; death year (1963) from MyHeritage (Tier 3). The Yichus narrative corroborates and elevates the MyHeritage/Geni data for family structure.
 
 ## Document Sources

@@ -298,6 +298,7 @@ Research gaps and unresolved questions, organized by priority and family line. U
   8. **MyHeritage Goldbaum family site**: May have additional data.
   9. **Jack Schlusselberg obituary** (dignitymemorial.com/obituaries/salem-ma/jack-schlusselberg-8066256): May name Helen as grandmother.
   10. **Gesher Galicia Brandt family page**: Visit geshergalicia.org/families/?id=brandt/ in browser.
+- **Searched (2026-04-18, 12 searches)**: Focused RIJHA obituary search for Morris and Helen Markel. All RIJHA resources (M Obituaries PDF, Voice Herald indices, newspaper archives) returned 403 on programmatic access. Find a Grave direct memorial searches returned 403. No Find a Grave memorials found for either Morris or Helen via web search. No obituaries found on Legacy.com, GenealogyBank, or general web search. New leads: (a) Joseph Markel obituary on Legacy.com (pid=172362045), may be son Joseph Harold; (b) Peppi Schlusselberg obituary (Hewlett, NY, Dignity Memorial), possible Markel family connection; (c) RI State Archives Death Records 1853-1973 confirmed for Morris's 1963 death record; (d) RIJHA Voice and Herald indices page confirmed at rijha.org/collections/periodicals/jewish-voice-herald-indices/; (e) Providence Journal archives accessible via Heritage Hub at Providence Public Library.
 - **Solvability**: MODERATE to HIGH (RIJHA obituary and RI death record both likely exist and are accessible; All Galicia Database is the best free Galician lead); **Payoff**: HIGH
 
 ### 22. Markel family immigration ~1928: ship manifest
