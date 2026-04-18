@@ -286,16 +286,19 @@ Research gaps and unresolved questions, organized by priority and family line. U
 ### 21. Helen Brandt's parents (Joseph Brandt + Brina Goldbaum): identity, dates, origin
 - **Searched (2026-04-13)**: No records found. GEDCOM dates for Joseph are data errors. Both surnames in Tarnopol 1910 Census.
 - **Searched (2026-04-17, 20+ searches)**: Comprehensive web research targeting Helen Brandt, Joseph Brandt, Brina Goldbaum, and related family members (children's obituaries, Find a Grave, Yad Vashem, Gesher Galicia, RIJHA, JRI-Poland, MyHeritage, Geni, WikiTree). No new primary or secondary sources located via web search. All key databases returned 403 on programmatic access. Key discoveries: (a) MyHeritage has a Goldbaum family site (myheritage.com/site-family-tree-1131568351/goldbaum-family-site); (b) Gesher Galicia has a Brandt families page (geshergalicia.org/families/?id=brandt/); (c) CJH has a collection documenting Brandt family in Galicia; (d) Tarnopol 1880 and 1890 Jewish census records are indexed in the All Galicia Database; (e) Jack Schlusselberg obituary exists at Dignity Memorial (possible son of Anne Markel Schlusselberg); (f) RIJHA "M" obituaries PDF likely contains Morris and/or Helen Markel obituaries from the Jewish Herald Voice.
-- **Best leads (updated, priority order)**:
+- **Searched (2026-04-17, Brina Goldbaum focused research, 15 searches)**: Targeted research on Brina Goldbaum specifically. Searched Yad Vashem, USHMM, JRI-Poland, Gesher Galicia, Geni, Find a Grave, and multiple other databases. No records found for Brina Goldbaum as an individual. However, confirmed: (a) Goldbaum AND Brandt both appear in Tarnopol 1910 Jewish Census surname list; (b) Tarnopol 1910 Census is fully indexed in All Galicia Database with ~14,000 individual names, ages, professions, house numbers, and household relationships; (c) **Ulrich Skaller Collection (ME 605) at Center for Jewish History** contains a documented Brandt family history from Galicia, including family trees (may or may not be the same Brandt family); (d) Tarnopol Yizkor Book (JewishGen Press, ed. Korngruen, trans. Kutten, name index by Holzman) has been published and is available; (e) Yad Vashem has records for Goldbaum near Tarnopol (multiple item IDs returned) but individual records blocked on automated access; (f) EHRI portal catalogues "Jewish Community in Tarnopol" archival records (Sygn. 110, 1874-1939); (g) Tarnopol's Jewish cemetery has no surviving tombstones.
+- **Best leads (updated 2026-04-17, priority order)**:
   1. **RIJHA "M" Obituaries PDF** (rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf): Morris (~1963) and Helen (~1975) obituaries would name parents. **DECISIVE RECORD.**
-  2. **Lincoln Park Cemetery office** (401-737-5333): Headstones may have Hebrew patronymics (bat [father's name]).
-  3. **Helen Markel RI death record** (~1975): Would list parents' names. Public record (50+ years old). Request from RI Dept of Health.
-  4. **MyHeritage Goldbaum family site**: May have additional Goldbaum family data.
-  5. **Gesher Galicia All Galicia Database**: Search for Brandt and Goldbaum in Tarnopol district.
-  6. **Jack Schlusselberg obituary** (dignitymemorial.com/obituaries/salem-ma/jack-schlusselberg-8066256): May name Helen as grandmother.
-  7. **CJH Brandt family collection**: May reference Joseph Brandt.
-  8. **Yad Vashem names database**: Search for Brina Goldbaum (variants: Bryna, Brayna, Breina) from Galicia.
-- **Solvability**: MODERATE to HIGH (RIJHA obituary and RI death record both likely exist and are accessible); **Payoff**: HIGH
+  2. **All Galicia Database (search.geshergalicia.org)**: Search for "Goldbaum" AND "Brandt" in Tarnopol. Free. Would yield individual names, ages, professions, and household compositions from 1910 (and possibly 1880/1890) censuses. **HIGHEST PRIORITY for Galician research.**
+  3. **Lincoln Park Cemetery office** (401-737-5333): Headstones may have Hebrew patronymics (bat [father's name]).
+  4. **Helen Markel RI death record** (~1975): Would list parents' names. Public record (50+ years old). Request from RI Dept of Health.
+  5. **Yad Vashem names database (yvng.yadvashem.org)**: Search for Brina/Bryna/Brayna Goldbaum from Tarnopol/Galicia. Multiple item IDs already identified (788325, 6510903, 1915425).
+  6. **Tarnopol Yizkor Book name index**: Check for Goldbaum and Brandt entries. JewishGen Press edition.
+  7. **CJH Ulrich Skaller Collection ME 605**: Request Brandt family content. Contact: reference@cjh.org.
+  8. **MyHeritage Goldbaum family site**: May have additional data.
+  9. **Jack Schlusselberg obituary** (dignitymemorial.com/obituaries/salem-ma/jack-schlusselberg-8066256): May name Helen as grandmother.
+  10. **Gesher Galicia Brandt family page**: Visit geshergalicia.org/families/?id=brandt/ in browser.
+- **Solvability**: MODERATE to HIGH (RIJHA obituary and RI death record both likely exist and are accessible; All Galicia Database is the best free Galician lead); **Payoff**: HIGH
 
 ### 22. Markel family immigration ~1928: ship manifest
 - **Searched (2026-04-13)**: No manifest found. Kate Kaplan obit confirms family born Poland, arrived West Warwick ~1928.
@@ -317,8 +320,14 @@ Research gaps and unresolved questions, organized by priority and family line. U
 
 ### 24. Brina Goldbaum: Holocaust victim identification
 - **Searched (2026-04-13)**: Yad Vashem, USHMM (403 errors). No results.
-- **Next step**: Direct search of Yad Vashem for Goldbaum (Brina/Bryna/Brayna).
-- **Solvability**: MODERATE; **Payoff**: MODERATE
+- **Searched (2026-04-17, 15 searches)**: Conducted focused research on Brina Goldbaum. Searched Yad Vashem (yvng.yadvashem.org), USHMM, JewishGen, Gesher Galicia, Geni (916 Goldbaum profiles), JRI-Poland, Find a Grave, forebears.io, and Wikipedia. **No records found for Brina Goldbaum as an individual in any database.** However, Yad Vashem returned multiple record item IDs for Goldbaum near Tarnopol (788325, 6510903, 1915425, others); all individual record pages returned 403 on automated access. USHMM has Tarnopol region Holocaust lists but no specific Goldbaum match visible in web snippets. The Tarnopol Ghetto was established September 1941 and liquidated June 20, 1943; between 1941-1944, over 10,000 Jews were killed in Tarnopol, ~6,000 deported to Belzec. By estimated birth date (~1860-1875), Brina would have been 65-80 years old in 1941.
+- **New contextual findings (2026-04-17)**: (a) Both Goldbaum and Brandt confirmed in Tarnopol 1910 Jewish Census surname list. (b) Tarnopol Yizkor Book (JewishGen Press, ed. Korngruen, name index by Holzman) exists and may contain Goldbaum entries. (c) EHRI portal: Jewish Community in Tarnopol archival records (Sygn. 110) cover 1874-1939. (d) Tarnopol Jewish cemetery has no surviving tombstones (stones removed, incorporated into roads/structures). (e) Goldbaum surname is the 301,076th most common globally; highest concentration in US.
+- **Next step (HUMAN ACTION REQUIRED)**:
+  1. Search Yad Vashem (yvng.yadvashem.org) for Goldbaum with place "Tarnopol." Try first names: Brina, Bryna, Brayna, Breina. Also search without first name to see all Goldbaum Pages of Testimony from the area.
+  2. Search USHMM (ushmm.org/online/hsv/) for Goldbaum from Galicia/Tarnopol.
+  3. Check Tarnopol Yizkor Book name index for Goldbaum entries.
+  4. Search All Galicia Database for Goldbaum in Tarnopol (census records may place the family in a specific house/household, which could then be cross-referenced with ghetto records).
+- **Solvability**: MODERATE (Yad Vashem records appear to exist; the question is whether any match Brina specifically); **Payoff**: MODERATE (would confirm family presence in Tarnopol and provide details about circumstances of death; a Page of Testimony submitted by a family member could provide parents' names and birth details)
 
 ### 25. Eli Baldwin's wife: Elizabeth (unknown) or Edaline L. Transon?
 - **The question**: WikiTree Baldwin-2330 names Eli Baldwin's wife as "Elizabeth (surname unknown), married in Forsyth, NC." The MyHeritage GEDCOM names her as "Edaline L. Transon (b. 1783, Chatham, NC; d. 1840, Standing Springs, Greenville, SC)." Are these the same person, or is one source wrong?
@@ -421,7 +430,4 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Merged with #22 (2026-04-14).** See #22 for full search history and leads.
 
 ### 32. Brina Goldbaum Holocaust victim identification
-- **Searched (2026-04-13)**: Yad Vashem, USHMM (403 errors). No results yet.
-- **Searched (2026-04-17)**: 3 additional Yad Vashem searches (Goldbaum Tarnopol, Brandt Tarnopol, Goldbaum Brina/Bryna). All returned 403 on database search pages. Also searched USHMM source ID 33098 (Yizkor book victim names for Galicia). No specific Goldbaum individual located via web search.
-- **Next step**: Direct browser access to collections.yadvashem.org/en/names for Goldbaum (Brina/Bryna/Brayna/Breina) from Poland/Galicia. Also try variant spellings: Goldbojm, Goldboim.
-- **Solvability**: MODERATE; **Payoff**: MODERATE
+- **Merged with #24 (2026-04-17).** See #24 for full search history from 2026-04-17 focused research session (15 searches). Key finding: Yad Vashem has multiple record item IDs for Goldbaum near Tarnopol (788325, 6510903, 1915425) but individual records require browser access. Tarnopol Yizkor Book (JewishGen Press) has name index. EHRI portal catalogues Jewish Community in Tarnopol records (1874-1939).
