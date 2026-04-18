@@ -6,14 +6,16 @@ died: ~1939-1945
 family: "Goldbaum"
 confidence: speculative
 sources:
+  - "AGAD Warsaw, Fond 424, File 212, Record 65, Page 315 (Sambor Jewish Marriage Banns 1904-1926, Tier 1; named as 'Brancia GOLDBAUM' of Lisko, mother of bride Dwora)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500806)"
-  - "Gesher Galicia Tarnopol 1910 Jewish Census surname list (Tier 2)"
+  - "Gesher Galicia Tarnopol 1910 Jewish Census surname list (Tier 2; Goldbaum in Tarnopol, but now superseded by Tier 1 Lisko origin)"
   - "Center for Jewish History, Ulrich Skaller Collection ME 605 (Brandt family in Galicia)"
-  - "Tarnopol Yizkor Book (JewishGen Press, ed. Korngruen)"
+  - "Lesko (Lisko) Yizkor Book (ed. Mark and Friedlander, Tel Aviv 1965)"
   - "web-research-2026-04-17"
+  - "web-research-2026-04-18"
 created: 2026-04-10
-updated: 2026-04-17
-tags: [genealogy, goldbaum, brandt, person, tier-3, holocaust, jewish, poland, galicia, tarnopol]
+updated: 2026-04-18
+tags: [genealogy, goldbaum, brandt, person, tier-1, holocaust, jewish, poland, galicia, lisko, lesko]
 ---
 
 # Brina Goldbaum
@@ -22,27 +24,35 @@ tags: [genealogy, goldbaum, brandt, person, tier-3, holocaust, jewish, poland, g
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Brina Goldbaum (also possibly: Bryna, Brayna, Breina, Bronya) | GEDCOM |
-| Born | Unknown (estimated ~1860-1875 based on daughter Helen's birth ~1889) | Inference |
-| Birthplace | Unknown; likely Tarnopol or Tarnopol district, Galicia (Austria-Hungary) | Inference from Goldbaum surname in Tarnopol 1910 Census |
+| Full Name | **Brancia GOLDBAUM** (1919 marriage record); also known as Brina, Bryna, Brayna, Breina | 1919 marriage banns (Tier 1); GEDCOM (Tier 3) |
+| Born | Unknown (estimated ~1865-1880 based on daughter Helen/Dwora's revised birth estimate ~1894-1897) | Inference |
+| Birthplace | **Lisko (Lesko)**, Sanok district, Galicia (Austria-Hungary); now Lesko, Podkarpackie, Poland | 1919 marriage banns (Tier 1) |
 | Died | Unknown date (cause of death: Holocaust, i.e., between 1939-1945) | GEDCOM |
 | Burial | Unknown (likely no burial if murdered in Holocaust) | |
 | Father | Unknown | |
 | Mother | Unknown | |
-| Spouse | [[Joseph_Brandt]] | GEDCOM |
-| Children | [[Helen_Brandt]] | User data |
+| Spouse | **[[Joseph_Brandt]]** (Józef BRAND of Lisko; religiously but not civilly married) | 1919 marriage banns (Tier 1); GEDCOM (Tier 3) |
+| Children | **[[Helen_Brandt]]** (Dwora GOLDBAUM false BRAND; b. Lisko) | 1919 marriage banns (Tier 1); GEDCOM (Tier 3) |
 
 ## Biography
 
-Brina Goldbaum was the wife of [[Joseph_Brandt]] (GEDCOM). The GEDCOM records her cause of death as the Holocaust. She was the mother of [[Helen_Brandt]], who married [[Morris_Markel]] and immigrated to the United States around 1928.
+Brina (Brancia) Goldbaum was the wife of [[Joseph_Brandt|Józef Brand]] of Lisko (GEDCOM; confirmed by 1919 Sambor marriage banns, Tier 1). The GEDCOM records her cause of death as the Holocaust. She was the mother of [[Helen_Brandt|Dwora/Helen]], who married [[Morris_Markel|Mojzesz Majer Markiel]] in Sambor in December 1919 and later immigrated to the United States around 1928.
 
-If Brina died in the Holocaust (1939-1945), she did not emigrate with her daughter Helen. This is consistent with the broader pattern in the Markel family: four of Morris Markel's siblings who remained in Europe were murdered in a Pogrom at the Rodzinka Forest on Rosh Hashanah 1939 (Yichus narrative, Tier 2). Brina may have suffered a similar fate in the Galician region.
+The 1919 marriage record of her daughter Dwora (AGAD Fond 424, File 212) provides the first Tier 1 source for Brina, recording her as "Brancia GOLDBAUM" of Lisko, mother of the bride. The name "Brancia" is a Polish/Yiddish diminutive variant of Brina/Brayna (both from the Breindel/Brayn- Yiddish name cluster, meaning "brown").
 
-### Geographic Context
+Brina and Józef Brand were **religiously but not civilly married** in Galicia. This is documented by the "false" (fałsz) notation on Dwora's marriage record: Dwora's legal surname was GOLDBAUM (Brina's maiden name), with BRAND listed as an alias. Under Habsburg law, the Austrian Empire did not recognize Jewish religious marriages, so children of such unions were registered under the mother's maiden name. This was an extremely common pattern in Galician Jewish communities.
 
-The Goldbaum surname appears in the **Tarnopol 1910 Jewish Census** surname list (Gesher Galicia, Tier 2). This census, the last official enumeration conducted in Galicia by the Austrian government, lists nearly 14,000 names of every Jewish person resident in Tarnopol in 1910, along with information on people who had moved away permanently. The census includes household details: house numbers, professions, ages, and relationships within each household. The Brandt surname also appears in this census.
+If Brina died in the Holocaust (1939-1945), she did not emigrate with her daughter Helen/Dwora. This is consistent with the broader pattern in the Markel family: four of Morris Markel's siblings who remained in Europe were murdered during the Holocaust in the Sambor area (1941-1943). Brina may have suffered a similar fate in the Lisko region.
 
-Tarnopol is located approximately 150 km east of Sambor (where the Markel family originated). This geographic distance suggests the Goldbaum/Brandt families and the Markel family may have come from different parts of Galicia, with the marriage of Helen Brandt and Morris Markel connecting these two family networks.
+### Geographic Context (Updated 2026-04-18)
+
+**CORRECTION**: Previous vault entries inferred Brina's origin as Tarnopol based on the Goldbaum surname appearing in the Tarnopol 1910 Jewish Census surname list. This inference is now **superseded** by the Tier 1 evidence from the 1919 marriage banns, which places Brina (and Józef Brand) firmly in **Lisko (Lesko)** in the Sanok district of Galicia, approximately 80 km southwest of Sambor. The Goldbaum surname in the Tarnopol Census likely refers to a different, unrelated Goldbaum family.
+
+Lisko (now Lesko) is a town in the Bieszczady Mountains of southeastern Poland. Jews lived in Lesko from the town's foundation in the mid-16th century. The Jewish community numbered 1,976 in 1880 and approximately 2,400 in 1921 (about 63% of the total population). During the Holocaust, in August 1942, the entire Jewish population of Lesko was deported and exterminated.
+
+The relevant Yizkor book is the **Lesko (Lisko) Yizkor Book**: "Sefer yizkor; mukdash le-yehudei ha-ayarot she-nispu ba-shoa be-shanim 1939-44, Linsk, Istrik, Beligrod, Litovisk veha-sevivah" (Memorial Book; dedicated to the Jews of Linsk, Istrik and Vicinity who perished in the Holocaust). Ed. Natan Mark and Shimon Friedlander. Tel Aviv, 1965. 516 pp. Hebrew/Yiddish. JewishGen translation at jewishgen.org/yizkor/lesko/. NOT the Tarnopol Yizkor Book as previously assumed.
+
+Lesko Jewish vital records are held at the **Archiwum Panstwowe w Rzeszowie, Oddzial w Sanoku** (State Archive in Rzeszow, Sanok branch). JRI-Poland has a Lesko town page with a surnames list. Gesher Galicia has a Lesko town page with FamilyFinder entries.
 
 ### Tarnopol Jewish Community
 
@@ -155,48 +165,102 @@ Confidence: **Speculative** (single Tier 3 source for Brina herself; no independ
 7. Goldbaum in Sambor/Drohobycz area: no match.
 8. Find a Grave for Goldbaum in Poland/Galicia: only Louis Goldbaum (1849-1922), no apparent connection.
 
-### Assessment
+### Assessment (2026-04-17)
 
 Brina Goldbaum remains at **Speculative** confidence. Zero independent records found for her as an individual despite 15 targeted searches. The only source is the MyHeritage GEDCOM (Tier 3). However, this research session has identified multiple promising resources that require human browser access, particularly the All Galicia Database (Tarnopol 1910 Census), Yad Vashem, and the Tarnopol Yizkor Book. The finding of the Ulrich Skaller Collection at the Center for Jewish History, containing a documented Brandt family from Galicia, is a significant new lead.
 
-## Research Leads (Updated 2026-04-17, Priority Order)
+## 2026-04-18 Research Session: Tarnopol Census and Vital Records (Goldbaum Focus)
+
+### Major Finding: Moses Goldbaum of Tarnopol (1879-1889)
+
+A **Moses Goldbaum** is documented in Tarnopol Jewish vital records as a birth witness across multiple years:
+
+| Year | Event | Source |
+|---|---|---|
+| 1879 | Witness at birth of Malie, daughter of Josef Dawid Wolfthal | Tarnopol Jewish birth register (Tier 1, indexed by Gesher Galicia) |
+| 1880 | Witness at birth of Beile Ruchel, daughter of Chune Wolfthal | Tarnopol Jewish birth register (Tier 1) |
+| 1889 | Witness at birth of Ester, daughter of Chune Wolfthal | Tarnopol Jewish birth register (Tier 1) |
+| undated | Witness at birth of Rosa, daughter of Herman (Chaim Hirsch) Wolfthal | Tarnopol Jewish birth register (Tier 1) |
+
+The Wolfthal family were musicians from Galicia. Herman (Chaim Hirsch) Wolfthal (1842-1920) was the Tysmenytsia town cantor. Josef Dawid Wolfthal (1846-1905) lived in Tarnopol by 1880. Moses Goldbaum's repeated role as witness for children across multiple Wolfthal brothers over a decade indicates he was an established, trusted member of the Tarnopol Jewish community.
+
+**Significance for Brina**: If Brina was born ~1860-1875, Moses Goldbaum (active as a witness in 1879, meaning he was at least an adult by then) could be her father, uncle, or older brother. The All Galicia Database census records should contain Moses Goldbaum's household details, which would clarify his age, profession, address, and family relationships. **Searching the All Galicia Database for "Goldbaum" in Tarnopol is now the single highest priority action**, as it could locate Moses in the 1880 or 1890 census and potentially reveal Brina among his household members.
+
+### Additional Findings
+
+1. **Three Tarnopol censuses are searchable for free**: The 1880 census index, 1890 census index, and full 1910 census are all in the All Galicia Database. The 1880 census could contain Moses Goldbaum. The 1890 census could contain Brina and Joseph Brandt as a married couple. The 1910 census could show Brina as a widow or with updated household information.
+
+2. **1910 census contains emigration data**: Lists people who left Tarnopol permanently, including those "absent in America" or "New York, America." If Brina's husband Joseph emigrated, he would appear here.
+
+3. **1910 census data fields are very rich**: House numbers, street addresses, professions (Polish with English translation), ages, relationships within household, place of birth, when moved to Tarnopol, religious vs. civil marriage status, disposition of orphaned children.
+
+4. **AGAD Warsaw holds ~3,000 Jewish metrical books for Tarnopol area (1877-1911)**: Brina's estimated birth (~1860-1875) could be recorded in these registers. Her marriage to Joseph Brandt would also be in these records.
+
+5. **DATO Ternopil holds mid-19th century marriage records**: A Goldbaum-Brandt marriage record would be the **decisive document** linking Brina to specific parents.
+
+6. **EHRI archival collections**: (a) Jewish Community in Tarnopol (Sygn. 110) at USHMM, with financial records and correspondence; (b) DATO documentation of Jewish organizations 1921-1939 and community records 1925-1938; (c) Ternopil Oblast Archive with census/registration of Jews, forced labor name lists, Judenrat activities, and confiscated property lists. These last records could contain Brina Goldbaum if she was still in Tarnopol during 1941-1943.
+
+7. **Geni projects**: "Jewish Families from Ternopil (Tarnopol)" project (#15742) and "Tarnopol Ghetto" project (#27298) may contain Goldbaum profiles.
+
+8. **Gesher Galicia also has 1940-1941 Vital Records Project**: Covers Tarnopol area, meaning records from the very beginning of the war period may be indexed.
+
+### Wolfthal Family Connection (Research Thread)
+
+The Wolfthal family Geni profiles (Josef Dawid 6000000086897004838, Chaim Hirsch 6000000084991904870, Lazar 6000000084991806974) are well-documented with specific vital record citations. Gesher Galicia has a Wolfthal families page (geshergalicia.org/families/?id=wolfthal/). Because Moses Goldbaum appears as a witness in Wolfthal birth records, the **Wolfthal family records are a secondary path to Moses Goldbaum's identity**. If a researcher has already documented the Wolfthal births in detail, they may have Moses Goldbaum's age, profession, and address from the same vital record entries. HUMAN ACTION REQUIRED: Check the Wolfthal Geni profiles for detailed birth record citations that mention Moses Goldbaum.
+
+### Negative Results
+
+1. No specific Goldbaum individuals found in Tarnopol Yizkor Book via web search.
+2. No Goldbaum entries found in Yad Vashem web search snippets (database requires browser access).
+3. No Goldbaum-Brandt marriage record located.
+4. All Gesher Galicia pages returned 403 on automated fetch.
+
+### Assessment Update (2026-04-18)
+
+Brina Goldbaum remains at **Speculative** confidence for herself as an individual (zero records found for "Brina Goldbaum" specifically). However, the discovery of **Moses Goldbaum in Tarnopol primary source records** is a significant breakthrough for the Goldbaum family. This is the first time a specific named Goldbaum individual has been documented in Tarnopol from a primary source (Tier 1, vital records). The next step is to search the All Galicia Database for the complete Goldbaum household in the Tarnopol censuses. If Moses Goldbaum appears in the 1880 census with a daughter named Brina (or a similar name), this would be a Strong Signal connection.
+
+## Research Leads (Updated 2026-04-18, Priority Order)
 
 ### Priority 1: Freely accessible, highest expected yield
 
-1. **All Galicia Database (search.geshergalicia.org)**: Search for "Goldbaum" in Tarnopol. Free, no login. Would return individual names, ages, professions, and household details from the 1910 census. Also search 1880 and 1890 censuses if available. **HIGHEST PRIORITY.** HUMAN ACTION REQUIRED.
+1. **All Galicia Database: "Goldbaum" in Tarnopol** (search.geshergalicia.org): Search all three censuses (1880, 1890, 1910). Would locate Moses Goldbaum's household and potentially identify Brina. **HIGHEST PRIORITY. DECISIVE POTENTIAL.** HUMAN ACTION REQUIRED.
 
-2. **All Galicia Database**: Search for "Brandt" in Tarnopol. Same source. Could identify Joseph Brandt's family.
+2. **Wolfthal family Geni profiles**: Check detailed birth record citations for Moses Goldbaum's age, profession, and address. Profiles: geni.com/people/Josef-Dawid-Wolfthal/6000000086897004838 and geni.com/people/Chaim-Hirsch-Herman-Wolfsthal/6000000084991904870. HUMAN ACTION REQUIRED.
 
-3. **Yad Vashem Central Database (yvng.yadvashem.org)**: Search for Goldbaum with place "Tarnopol." Try first name variations: Brina, Bryna, Brayna, Breina. A Page of Testimony would provide parents' names, birth details, last residence, and circumstances of death. HUMAN ACTION REQUIRED.
+3. **All Galicia Database: "Brandt" in Tarnopol**: Same source. Could identify Joseph Brandt's household and locate Brina as his wife.
 
-4. **Tarnopol Yizkor Book name index**: Check JewishGen Press translation (jewishgen.org/yizkor/ybip/YBIP_Ternopil.html; indexed by Stefanie Holzman) for Goldbaum entries. HUMAN ACTION REQUIRED.
+4. **Geni "Jewish Families from Ternopil" project (#15742)**: Visit geni.com/projects/Jewish-Families-from-Ternopil-Tarnopol-Ukraine/15742 in browser. Check for Goldbaum profiles.
 
-### Priority 2: Requires registration or moderate effort
+5. **Geni "Tarnopol Ghetto" project (#27298)**: Visit geni.com/projects/Tarnopol-Ghetto/27298 in browser. Check for Goldbaum victim profiles.
 
-5. **MyHeritage Goldbaum family site**: Access myheritage.com/site-family-tree-1131568351/goldbaum-family-site in browser. Tier 3 but may contain Brina's details. HUMAN ACTION REQUIRED.
+6. **Yad Vashem Central Database**: Search collections.yadvashem.org for Goldbaum with place "Tarnopol." Try Brina, Bryna, Brayna, Breina. HUMAN ACTION REQUIRED.
 
-6. **Center for Jewish History, Ulrich Skaller Collection ME 605**: Request information about the Brandt family content. Contact: reference@cjh.org; address: 15 West 16th Street, New York, NY 10011. HUMAN ACTION REQUIRED.
+7. **Tarnopol Yizkor Book name index**: Check JewishGen Press translation (jewishgen.org/yizkor/ybip/YBIP_Ternopil.html; indexed by Stefanie Holzman) for Goldbaum entries. HUMAN ACTION REQUIRED.
 
-7. **Gesher Galicia Brandt family page**: Visit geshergalicia.org/families/?id=brandt/ in browser.
+### Priority 2: US records and moderate effort
 
-8. **JRI-Poland (jri-poland.org)**: Search for Goldbaum and Brandt in Tarnopol vital records index. Free with registration.
+8. **RIJHA "M" Obituaries PDF**: Morris or Helen Markel obituary may name Brina. rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf. HUMAN ACTION REQUIRED.
 
-9. **USHMM Holocaust Survivors and Victims Database (ushmm.org/online/hsv/)**: Search for Goldbaum from Galicia. Also check source ID 33098 (Yizkor book victim names for Galicia).
+9. **Helen Markel RI death record (~1975)**: Would list mother as "Brina Goldbaum" (confirming maiden name). Request from RI Dept of Health.
 
-10. **Geni.com**: Browse 916 Goldbaum profiles; check project 15742 (Jewish Families from Tarnopol).
+10. **MyHeritage Goldbaum family site**: Access myheritage.com/site-family-tree-1131568351/goldbaum-family-site in browser.
 
-11. **JewishGen Family Finder (JGFF)**: Search for researchers working on Goldbaum + Tarnopol. May connect with other genealogists.
+11. **CJH Ulrich Skaller Collection ME 605**: Contact reference@cjh.org about Brandt/Goldbaum family content.
 
-### Priority 3: Subscription or records request required
+12. **JRI-Poland (jri-poland.org)**: Search for Goldbaum in Tarnopol vital records index.
 
-12. **Ancestry collection 3132**: Galicia, Ukraine, Jewish Births, Marriages, and Deaths, 1789-1905. Search Goldbaum and Brandt. Requires subscription.
+13. **Geni.com Goldbaum surname page**: Browse geni.com/surnames/goldbaum (916 profiles). Check for Tarnopol connections.
 
-13. **1930 US Census, West Warwick, RI**: Check if Brina appears in Markel household. Absence confirms she stayed in Europe.
+### Priority 3: Subscription or archival access
 
-14. **Helen Markel's death record**: Would list mother's maiden name and first name. Request from RI Dept of Health.
+14. **Ancestry collection 3132**: Galicia Jewish vital records 1789-1905. Would contain birth/marriage/death records for Goldbaum in Tarnopol.
 
-15. **RIJHA "M" Obituaries PDF**: Morris or Helen Markel obituary may mention Brina. Access rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf in browser.
+15. **AGAD Warsaw metrical books**: 3,000 books for Tarnopol area 1877-1911.
 
-16. **Ship passenger manifests (~1928)**: If Brina traveled with the Markel family, she would appear. Her absence confirms she remained in Europe.
+16. **DATO Ternopil**: Mid-19th century marriage records. Goldbaum-Brandt marriage record.
 
-17. **Beider's "Dictionary of Jewish Surnames from Galicia" (2004)**: Check Goldbaum entry for geographic distribution and earliest attestation. Available at research libraries.
+17. **EHRI archival collections**: Forced labor lists, registration of Jews, confiscated property lists from Tarnopol 1941-1943.
+
+18. **Gesher Galicia 1940-1941 Vital Records Project**: May cover Tarnopol area at the very beginning of the war.
+
+19. **Beider's "Dictionary of Jewish Surnames from Galicia" (2004)**: Check Goldbaum entry. Research library access.

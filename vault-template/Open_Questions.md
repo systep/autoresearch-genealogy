@@ -299,7 +299,23 @@ Research gaps and unresolved questions, organized by priority and family line. U
   9. **Jack Schlusselberg obituary** (dignitymemorial.com/obituaries/salem-ma/jack-schlusselberg-8066256): May name Helen as grandmother.
   10. **Gesher Galicia Brandt family page**: Visit geshergalicia.org/families/?id=brandt/ in browser.
 - **Searched (2026-04-18, 12 searches)**: Focused RIJHA obituary search for Morris and Helen Markel. All RIJHA resources (M Obituaries PDF, Voice Herald indices, newspaper archives) returned 403 on programmatic access. Find a Grave direct memorial searches returned 403. No Find a Grave memorials found for either Morris or Helen via web search. No obituaries found on Legacy.com, GenealogyBank, or general web search. New leads: (a) Joseph Markel obituary on Legacy.com (pid=172362045), may be son Joseph Harold; (b) Peppi Schlusselberg obituary (Hewlett, NY, Dignity Memorial), possible Markel family connection; (c) RI State Archives Death Records 1853-1973 confirmed for Morris's 1963 death record; (d) RIJHA Voice and Herald indices page confirmed at rijha.org/collections/periodicals/jewish-voice-herald-indices/; (e) Providence Journal archives accessible via Heritage Hub at Providence Public Library.
-- **Solvability**: MODERATE to HIGH (RIJHA obituary and RI death record both likely exist and are accessible; All Galicia Database is the best free Galician lead); **Payoff**: HIGH
+- **Searched (2026-04-18, 13 searches)**: Focused research on Brandt and Goldbaum surnames in Tarnopol district Jewish census and vital records. Key new findings:
+  - (a) **Moses Goldbaum** documented in Tarnopol Jewish vital records as birth witness for Wolfthal family children across 1879, 1880, and 1889 (Tier 1, indexed vital records). This is the first named Goldbaum individual found in Tarnopol primary sources. Moses could be Brina's father, uncle, or brother.
+  - (b) **Three Tarnopol censuses (1880, 1890, 1910)** are all searchable for free in the All Galicia Database. The 1910 census includes emigration data (people "absent in America").
+  - (c) **AGAD Warsaw holds ~3,000 Jewish metrical books** for Tarnopol area (1877-1911). DATO Ternopil holds mid-19th century marriage records.
+  - (d) **EHRI archival collections**: Jewish Community in Tarnopol (Sygn. 110) at USHMM; DATO documentation of Jewish organizations 1921-1939; Ternopil Oblast Archive with forced labor name lists, Judenrat activities, confiscated property lists.
+  - (e) **Geni "Tarnopol Ghetto" project (#27298)** and "Jewish Families from Ternopil" project (#15742) exist but returned 403.
+  - (f) No specific "Joseph Brandt" or "Brina Goldbaum" found individually in any database. No Brandt-Goldbaum marriage record located. No Brandt or Goldbaum individuals found in Yad Vashem or Tarnopol Yizkor Book via web search.
+- **Updated best leads (2026-04-18)**:
+  1. **RIJHA "M" Obituaries PDF**: DECISIVE RECORD.
+  2. **All Galicia Database (search.geshergalicia.org)**: Search "Goldbaum" AND "Brandt" in Tarnopol. Three censuses (1880, 1890, 1910). **NEW: Moses Goldbaum should appear in census and may reveal Brina as household member.** HIGHEST PRIORITY for Galician research.
+  3. **Wolfthal family Geni profiles**: Moses Goldbaum appears as witness in their birth records. The detailed vital record citations may contain Moses's age, profession, and address.
+  4. **Helen Markel RI death record** (~1975): Would list parents' names.
+  5. **Lincoln Park Cemetery office** (401-737-5333): Hebrew patronymics.
+  6. **Yad Vashem names database**: Search Goldbaum + Tarnopol.
+  7. **Tarnopol Yizkor Book name index**: Check for Goldbaum and Brandt.
+  8. **EHRI archival collections**: Forced labor lists, registration of Jews from Tarnopol 1941-1943.
+- **Solvability**: MODERATE to HIGH (RIJHA obituary and RI death record both likely exist and are accessible; All Galicia Database with Moses Goldbaum finding significantly improves Galician lead); **Payoff**: HIGH
 
 ### 22. Markel family immigration ~1928: ship manifest
 - **Searched (2026-04-13)**: No manifest found. Kate Kaplan obit confirms family born Poland, arrived West Warwick ~1928.
@@ -323,12 +339,15 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Searched (2026-04-13)**: Yad Vashem, USHMM (403 errors). No results.
 - **Searched (2026-04-17, 15 searches)**: Conducted focused research on Brina Goldbaum. Searched Yad Vashem (yvng.yadvashem.org), USHMM, JewishGen, Gesher Galicia, Geni (916 Goldbaum profiles), JRI-Poland, Find a Grave, forebears.io, and Wikipedia. **No records found for Brina Goldbaum as an individual in any database.** However, Yad Vashem returned multiple record item IDs for Goldbaum near Tarnopol (788325, 6510903, 1915425, others); all individual record pages returned 403 on automated access. USHMM has Tarnopol region Holocaust lists but no specific Goldbaum match visible in web snippets. The Tarnopol Ghetto was established September 1941 and liquidated June 20, 1943; between 1941-1944, over 10,000 Jews were killed in Tarnopol, ~6,000 deported to Belzec. By estimated birth date (~1860-1875), Brina would have been 65-80 years old in 1941.
 - **New contextual findings (2026-04-17)**: (a) Both Goldbaum and Brandt confirmed in Tarnopol 1910 Jewish Census surname list. (b) Tarnopol Yizkor Book (JewishGen Press, ed. Korngruen, name index by Holzman) exists and may contain Goldbaum entries. (c) EHRI portal: Jewish Community in Tarnopol archival records (Sygn. 110) cover 1874-1939. (d) Tarnopol Jewish cemetery has no surviving tombstones (stones removed, incorporated into roads/structures). (e) Goldbaum surname is the 301,076th most common globally; highest concentration in US.
-- **Next step (HUMAN ACTION REQUIRED)**:
+- **Searched (2026-04-18, 13 searches)**: Tarnopol census and vital records research. **Moses Goldbaum** found in Tarnopol vital records (birth witness for Wolfthal family, 1879-1889; Tier 1). EHRI archival collections identified: Ternopil Oblast Archive holds forced labor name lists, registration of Jews, confiscated property lists from 1941-1943 period. Geni "Tarnopol Ghetto" project (#27298) may contain Goldbaum victim profiles. No specific Brina Goldbaum match found in any web search.
+- **Updated next steps (HUMAN ACTION REQUIRED)**:
   1. Search Yad Vashem (yvng.yadvashem.org) for Goldbaum with place "Tarnopol." Try first names: Brina, Bryna, Brayna, Breina. Also search without first name to see all Goldbaum Pages of Testimony from the area.
   2. Search USHMM (ushmm.org/online/hsv/) for Goldbaum from Galicia/Tarnopol.
   3. Check Tarnopol Yizkor Book name index for Goldbaum entries.
-  4. Search All Galicia Database for Goldbaum in Tarnopol (census records may place the family in a specific house/household, which could then be cross-referenced with ghetto records).
-- **Solvability**: MODERATE (Yad Vashem records appear to exist; the question is whether any match Brina specifically); **Payoff**: MODERATE (would confirm family presence in Tarnopol and provide details about circumstances of death; a Page of Testimony submitted by a family member could provide parents' names and birth details)
+  4. Search All Galicia Database for Goldbaum in Tarnopol. **NEW: Moses Goldbaum (active 1879-1889) should appear in 1880 and/or 1890 census. His household composition could identify Brina and other family members, which in turn could be cross-referenced with Holocaust records.**
+  5. Visit Geni "Tarnopol Ghetto" project (#27298) for Goldbaum victim profiles.
+  6. Check EHRI archival collections at Ternopil Oblast Archive for Goldbaum in forced labor lists or registration of Jews.
+- **Solvability**: MODERATE (Yad Vashem records appear to exist; Moses Goldbaum finding in census would strengthen family identification for Holocaust record matching); **Payoff**: MODERATE to HIGH (would confirm family presence in Tarnopol and provide details about circumstances of death; a Page of Testimony submitted by a family member could provide parents' names and birth details)
 
 ### 25. Eli Baldwin's wife: Elizabeth (unknown) or Edaline L. Transon?
 - **The question**: WikiTree Baldwin-2330 names Eli Baldwin's wife as "Elizabeth (surname unknown), married in Forsyth, NC." The MyHeritage GEDCOM names her as "Edaline L. Transon (b. 1783, Chatham, NC; d. 1840, Standing Springs, Greenville, SC)." Are these the same person, or is one source wrong?

@@ -2,13 +2,61 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-18
-last_session: "2026-04-18 Brandt/Goldbaum Tarnopol district census and vital records research"
+last_session: "2026-04-18 Dwora Goldbaum/Brand identity analysis: confirmed as Helen Brandt Markel; origin corrected from Tarnopol to Lisko"
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-18: Dwora Goldbaum/Brand Identity Analysis (15 searches)
+
+### Summary
+
+**MAJOR FINDING**: Dwora Goldbaum/Brand (bride in the 1919 Sambor marriage banns, AGAD Fond 424 File 212) is almost certainly the same person as Helen Brandt Markel, wife of Morris (Mojzesz Majer) Markiel. Every testable data point matches: same groom, father Józef Brand = Joseph Brandt, mother Brancia Goldbaum = Brina Goldbaum. The "Goldbaum/Brand" dual surname in the 1919 record is explained by the Galician "false" (fałsz) notation: Dwora's legal surname was Goldbaum (mother's maiden name, standard for children of religiously but not civilly married parents), with Brand as the father's surname alias.
+
+**SECOND MAJOR FINDING**: Helen Brandt's origin town is **Lisko (Lesko)**, not Tarnopol. The previous inference that the Goldbaum/Brandt family was from Tarnopol (based on the Goldbaum surname appearing in the Tarnopol 1910 Census) is superseded by Tier 1 evidence from the 1919 marriage banns, which explicitly records both parents as "of Lisko." This changes the entire geographic research focus for the Brandt/Goldbaum line.
+
+**THIRD FINDING**: Helen's Yiddish/Hebrew name was **Dwora** (Devorah). "Helen" was her Americanized name, adopted upon immigration (~1928). This is an atypical Americanization (Dwora usually becomes Dorothy or Dora; Helen usually corresponds to Hena/Chana), but such non-standard choices were common among Jewish immigrants.
+
+### Implications
+
+1. Helen Brandt's confidence upgraded from Speculative to **Moderate Signal** (1 Tier 1 source confirming parents' names, origin town, and marriage date).
+2. Brina Goldbaum's origin corrected from Tarnopol (inference) to **Lisko** (Tier 1).
+3. Research focus for Brand/Goldbaum records shifts from Tarnopol archives to **Lesko records at the Sanok sub-archive** (Archiwum Panstwowe w Rzeszowie, Oddzial w Sanoku) and the **Lesko (Lisko) Yizkor Book**.
+4. The Lesko Jewish community (~2,400 Jews in 1921, 63% of population) was entirely exterminated in August 1942. If Brina Goldbaum remained in Lesko, she was murdered in this deportation.
+5. Helen's birth year estimate revised to **~1894-1897** (consistent with both the 1919 marriage and the 1940 US Census).
+
+### Searches Conducted (15 total)
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | AGAD Fond 424 details via Gesher Galicia | CONFIRMED: Fond 424 contains marriage banns. Sambor among 23 completed towns. 403 on page fetch. |
+| 2 | Goldbaum/Brand/Brandt in Lisko/Lesko (Gesher Galicia) | Lesko town page exists, 12 FamilyFinder entries. Jewish pop. 1,976 (1880), 2,400 (1921). 403 on fetch. |
+| 3 | Yiddish name "Helen" vs "Dwora" Americanization | Dwora = Dorothy/Dora typically. Helen = Hena/Henya/Chana. No fixed rules. |
+| 4 | Lesko Yizkor Book details | CONFIRMED: Ed. Mark & Friedlander, Tel Aviv 1965, 516 pp, Hebrew/Yiddish. JewishGen translation available. USHMM #33405. |
+| 5 | Galician "false/fałsz" surname notation | CONFIRMED: Alias notation for children of religiously married parents. Mother's maiden name = legal name; father's surname = alias. |
+| 6 | "Brancia" as variant of "Brina" | CONFIRMED: Same name cluster (Breindel/Brayn-). Polish diminutive vs Yiddish form. |
+| 7 | All Galicia Database for Brand in Lesko | 900,000+ records, Lesko included. 403 on search. HUMAN ACTION REQUIRED. |
+| 8 | Yad Vashem Goldbaum from Lesko | No specific individuals via web search. HUMAN ACTION REQUIRED. |
+| 9 | Lesko Jewish vital records at Sanok archive | CONFIRMED: AP Rzeszow, Oddzial Sanok holds records from 8 towns including Lesko. |
+| 10 | JRI-Poland Lesko town page and surnames list | Page confirmed at jri-poland.org/town/lesko/. Surnames list exists. 403 on fetch. HUMAN ACTION REQUIRED. |
+| 11 | "Józef Brand" in Lisko/Lesko records | No specific individual match. General Lesko history only. |
+| 12 | Lesko Holocaust timeline | Jews deported August 1942, exterminated. |
+| 13 | "Brancia Goldbaum" in any database | No web-accessible results. Name too specific for web search. |
+| 14 | Lesko/Lisko community records and families | Lesko Jewish community from mid-16th century. Cemetery from 17th century. |
+| 15 | Dwora/Dora Markiel in Sambor/Lisko records | No additional records beyond 1919 marriage banns via web search. |
+
+### Updated Files
+
+- [[Mojzesz_Majer_Markiel]]: Added full identity analysis section, updated follow-up priorities
+- [[Helen_Brandt]]: Added Tier 1 source, updated vital information with Yiddish name, birthplace (Lisko), parents' names from Tier 1, revised birth year estimate, updated data discrepancies, upgraded confidence to Moderate
+- [[Brina_Goldbaum]]: Corrected origin from Tarnopol to Lisko, added Tier 1 source, updated biography and geographic context
+- [[Research_Log]]: This entry
+- [[Open_Questions]]: Updated OQ #21 and #34
+
+---
 
 ## 2026-04-18: Brandt and Goldbaum Surnames in Tarnopol District Jewish Census and Vital Records
 
