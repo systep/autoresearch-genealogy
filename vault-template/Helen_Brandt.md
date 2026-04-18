@@ -4,8 +4,9 @@ name: "Helen Brandt"
 born: ~1891
 died: ~1975
 family: "Brandt"
-confidence: low
+confidence: moderate
 sources:
+  - "AGAD Warsaw, Fond 424, File 212, Record 65, Page 315 (Sambor Jewish Marriage Banns 1904-1926, Tier 1; bride listed as 'Dwora GOLDBAUM false BRAND of Lisko'; marriage to Mojzesz Majer Markiel 1919)"
   - "MyHeritage GEDCOM (Tier 3, unverified)"
   - "Geni World Family Tree (record 40000:9390141)"
   - "MyHeritage Smart Match profiles (1500004, 1500005)"
@@ -15,8 +16,8 @@ sources:
   - "1940 US Census, West Warwick RI, Enum. Dist. 2-46 (Tier 1)"
   - "1950 US Census, West Warwick RI (Tier 1)"
 created: 2026-04-10
-updated: 2026-04-17
-tags: [genealogy, Brandt, person, jewish, poland, immigrant, rhode-island]
+updated: 2026-04-18
+tags: [genealogy, Brandt, person, jewish, poland, immigrant, rhode-island, lisko, lesko, galicia]
 ---
 
 # Helen Brandt
