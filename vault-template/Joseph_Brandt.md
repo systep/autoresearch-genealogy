@@ -6,9 +6,11 @@ died: unknown
 family: "Brandt"
 confidence: low
 sources:
+  - "AGAD Warsaw, Fond 424, File 212, Record 65, Page 315 (Sambor Jewish Marriage Banns 1904-1926, Tier 1; named as 'Józef BRAND of Lisko', father of bride Dwora)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500805)"
 created: 2026-04-10
-tags: [genealogy, brandt, person, tier-3, jewish, poland, galicia]
+updated: 2026-04-18
+tags: [genealogy, brandt, brand, person, tier-1, jewish, poland, galicia, lisko, lesko]
 ---
 
 # Joseph Brandt
@@ -17,27 +19,29 @@ tags: [genealogy, brandt, person, tier-3, jewish, poland, galicia]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Joseph Brandt | GEDCOM |
-| Born | Unknown (GEDCOM says ~1815, but this is a data error; see Discrepancies) | GEDCOM |
-| Birthplace | Unknown; likely Galicia or Poland (Ashkenazi Jewish family) | Inference from family context |
+| Full Name | **Józef BRAND** (Polish civil form, 1919 marriage record); Americanized as **Joseph Brandt** | 1919 marriage banns (Tier 1); GEDCOM (Tier 3) |
+| Born | Unknown (GEDCOM says ~1815, but this is a data error; see Discrepancies). Estimated ~1860-1880. | GEDCOM (Tier 3); inference |
+| Birthplace | **Lisko (Lesko)**, Sanok district, Galicia (Austria-Hungary); now Lesko, Podkarpackie, Poland | 1919 marriage banns (Tier 1) |
 | Died | Unknown (GEDCOM says ~1891, but this is a data error; see Discrepancies) | GEDCOM |
 | Burial | Unknown | |
 | Father | Unknown | |
 | Mother | Unknown | |
-| Spouse | [[Brina_Goldbaum]] | GEDCOM |
-| Children | [[Helen_Brandt]] | User data |
+| Spouse | **[[Brina_Goldbaum]]** (Brancia GOLDBAUM of Lisko; religiously but not civilly married) | 1919 marriage banns (Tier 1); GEDCOM (Tier 3) |
+| Children | **[[Helen_Brandt]]** (Dwora GOLDBAUM false BRAND; b. Lisko) | 1919 marriage banns (Tier 1); GEDCOM (Tier 3) |
 
 ## Biography
 
-Joseph Brandt married [[Brina_Goldbaum]] and was the father of [[Helen_Brandt]] (user-provided data via MyHeritage GEDCOM).
+Józef Brand was the father of Dwora Goldbaum/Brand (later known as Helen Brandt Markel in America) and the husband of Brancia (Brina) Goldbaum, both of **Lisko (Lesko)**, a town in the Bieszczady Mountains of Galicia (1919 Sambor marriage banns, AGAD Fond 424, File 212, Tier 1).
 
-The surname Brandt is an Ashkenazi Jewish name derived from German/Yiddish "Brand" meaning "fire" or "conflagration." It was adopted as an ornamental or occupational surname by Jewish families in Central/Eastern Europe, potentially indicating an ancestor who worked as a fireman, distiller, or blacksmith, or who lived in an area cleared by fire.
+The 1919 marriage record of his daughter Dwora provides the first Tier 1 primary source for Joseph. His name appears as "Józef BRAND" (Polish civil form of Joseph Brand). The anglicized form "Brandt" was adopted by the family upon immigration to America.
 
-Joseph's wife Brina reportedly died in the Holocaust, indicating that at least part of the family remained in Europe. However, if Helen (born ~1889) immigrated to the US around 1928 with her husband Morris Markel, Joseph may have died before the family's emigration, or he may have remained in Europe.
+Joseph and Brina were **religiously but not civilly married** under Habsburg law. This is documented by the "false" (fałsz) notation on Dwora's marriage record: Dwora's legal surname was GOLDBAUM (Brina's maiden name), with BRAND listed as an alias. Under Austrian law, the Empire did not recognize Jewish religious marriages, so children were registered under the mother's maiden name. This was standard Galician practice.
 
-The Brandt surname appears in the Gesher Galicia database and is documented in Galician Jewish communities, suggesting a possible Galician origin consistent with the family's marriage connections (Helen married Morris Markel, whose family came from Vanyavitch, Galicia).
+Joseph's wife Brina reportedly died in the Holocaust (GEDCOM), indicating that at least part of the family remained in Europe. Helen/Dwora immigrated to the US approximately 1928 with her husband Morris Markel. Joseph may have died before the family's emigration, or he may have remained in Lisko.
 
-Confidence: Tier 3 (user-contributed tree data). No independent records found for Joseph Brandt.
+**CORRECTION (2026-04-18)**: Previous vault entries assumed Joseph was from Tarnopol. This inference was based on the Brandt surname appearing in the Tarnopol 1910 Census surname list. The Tier 1 evidence from the 1919 marriage banns supersedes this: Joseph was from **Lisko**, not Tarnopol. The Brandt in the Tarnopol Census may be a different, unrelated family.
+
+Confidence: Upgraded to **Moderate Signal** (1 Tier 1 source confirms name, residence, wife, and daughter).
 
 ## Surname Research
 
@@ -76,15 +80,13 @@ Conducted 20+ web searches as part of Helen Brandt deep research. No primary or 
 
 Joseph Brandt remains at **Speculative** confidence. Zero independent records found. The only source is the MyHeritage GEDCOM (Tier 3). His birth and death dates in the GEDCOM (~1815/~1891) are confirmed as data errors. Estimated birth: ~1855-1870 (based on daughter Helen's ~1891 birth). If Joseph died before Helen's 1928 emigration, he left no US records. If he remained in Europe and survived into the 1930s-1940s, he may appear in Holocaust records.
 
-### Holocaust Context (2026-04-17)
+### Holocaust Context (updated 2026-04-18)
 
-If Joseph was from Tarnopol and remained there, he would have been subject to the Tarnopol Ghetto events (1941-1943). At his estimated birth (~1855-1870), Joseph would have been 71-86 years old in 1941. Given the GEDCOM death date of ~1891 (even though this is likely a data error), it is possible Joseph died before the Holocaust. However, if the ~1891 death date is wrong and Joseph survived into the 1940s, he would have been among the earliest victims (elderly Jews were specifically targeted in the March 1942 Aktion).
+**CORRECTED**: Joseph was from **Lisko (Lesko)**, not Tarnopol (per Tier 1 evidence). If Joseph remained in Lisko, he would have been subject to the Lesko deportation of August 1942, when the entire Jewish population was deported and exterminated. The Lesko Jewish community numbered approximately 2,400 in 1921 (63% of the population). At his estimated birth (~1860-1880), Joseph would have been 62-82 years old in 1942. Given the GEDCOM death date of ~1891 (which is a data error), it is possible Joseph died before the Holocaust.
 
-The Tarnopol Ghetto timeline: Wehrmacht occupied July 2, 1941 (1,600-2,000 Jews killed immediately); ghetto established September 1941; Aktions in 1942 sent over 6,000 to Belzec; final liquidation June 20, 1943. Of 18,000 Jews in Tarnopol, virtually none survived.
+No results found for "Joseph Brand" or "Brandt" from Lisko/Lesko in Yad Vashem or USHMM databases via web search (all returned 403; HUMAN ACTION REQUIRED).
 
-Note: Joseph's daughter-in-law Dwora Goldbaum (alias Brand) of Lisko married [[Mojzesz_Majer_Markiel]] in 1919. The Brand/Brandt surname connection between Tarnopol (Helen Brandt's origin) and Lisko (Dwora Brand's origin) may indicate a wider Brandt/Brand family network across Galicia.
-
-No results found for "Joseph Brandt" or "Brandt" from Tarnopol in Yad Vashem or USHMM databases via web search (all returned 403; HUMAN ACTION REQUIRED).
+**Note (2026-04-18)**: The earlier vault note suggesting Dwora Goldbaum/Brand was Joseph's "daughter-in-law" was incorrect. Dwora is Joseph's **daughter**, the same person as Helen Brandt Markel. See [[Mojzesz_Majer_Markiel]] for the full identity analysis.
 
 ## 2026-04-18 Research Session: Tarnopol District Census and Vital Records
 
@@ -118,28 +120,26 @@ Conducted 13 web searches focused on the Brandt and Goldbaum surnames in Tarnopo
 
 Joseph Brandt remains at **Speculative** confidence. The research has significantly clarified the archival landscape: three free searchable censuses (1880, 1890, 1910) in the All Galicia Database are the single highest priority. If Joseph lived in Tarnopol city (not a surrounding village), he should appear in these censuses. The 1910 census emigration data could reveal whether he left for America before 1910.
 
-## Research Leads (Updated 2026-04-18)
+## Research Leads (Updated 2026-04-18, corrected for Lisko origin)
 
 ### Priority 1: Free, highest expected yield
 
-1. **All Galicia Database (search.geshergalicia.org)**: Search for "Brandt" in all Tarnopol records. **Three censuses available**: 1880 index, 1890 index, 1910 full census. The 1890 census is most likely to contain Joseph as a married adult. The 1910 census emigration data could show if Joseph went to America. HUMAN ACTION REQUIRED.
-2. **Gesher Galicia Brandt families page**: Visit geshergalicia.org/families/?id=brandt/ in browser. Indexes Brandt records from Galician vital records.
-3. **Geni "Tarnopol Ghetto" project (#27298)**: Visit geni.com/projects/Tarnopol-Ghetto/27298 in browser. May contain Brandt victim profiles.
-4. **Geni "Jewish Families from Ternopil" project (#15742)**: Visit geni.com/projects/Jewish-Families-from-Ternopil-Tarnopol-Ukraine/15742 in browser.
+1. **All Galicia Database (search.geshergalicia.org)**: Search for "Brand" in **Lesko** records. Also try "Goldbaum" in Lesko. HUMAN ACTION REQUIRED. **HIGHEST PRIORITY.**
+2. **JRI-Poland Lesko surnames list** (jri-poland.org/town/lesko/lesko-surnames-list/): Check if Brand and Goldbaum appear. HUMAN ACTION REQUIRED.
+3. **Lesko (Lisko) Yizkor Book** (jewishgen.org/yizkor/lesko/): Search for Brand/Goldbaum in necrology. HUMAN ACTION REQUIRED.
+4. **Gesher Galicia Brandt families page**: Visit geshergalicia.org/families/?id=brandt/ in browser.
 
-### Priority 2: US records (decisive for Joseph's fate)
+### Priority 2: US records (decisive for Joseph's fate and identity)
 
 5. **RIJHA "M" Obituaries PDF**: Morris Markel's obituary (~1963) may name Helen's parents. rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf. HUMAN ACTION REQUIRED.
 6. **Helen Markel RI death record (~1975)**: Would list father's name. Request from RI Dept of Health (50+ years old = public).
-7. **1930 US Census, West Warwick, RI**: Check if Joseph was in the Markel household after ~1928 immigration.
-8. **Lincoln Park Cemetery office (401-737-5333)**: Headstone Hebrew patronymic would provide Joseph's father's name.
+7. **Lincoln Park Cemetery headstone**: Hebrew inscription may read "Dwora bat Yosef" confirming Joseph's Hebrew name.
+8. **1930 US Census, West Warwick, RI**: Check if Joseph was in the Markel household after ~1928 immigration.
 
 ### Priority 3: Archival and subscription
 
-9. **CJH Brandt family collection (ME 605)**: Contact reference@cjh.org about Brandt family content.
-10. **Ancestry collection 3132**: Galicia Jewish vital records 1789-1905.
-11. **AGAD Warsaw metrical books**: 3,000 books covering Tarnopol area 1877-1911.
-12. **DATO Ternopil mid-19th century marriage records**: Brandt-Goldbaum marriage records.
-13. **Yad Vashem names database**: Search collections.yadvashem.org for Brandt from Tarnopol.
-14. **JRI-Poland**: Search for Brandt in Tarnopol indexed records.
-15. **EHRI archival collections**: Three collections with forced labor lists, registration of Jews, confiscated property lists.
+9. **Lesko vital records at Sanok sub-archive** (AP Rzeszow, Oddzial Sanok): Brand/Goldbaum birth, marriage, death records.
+10. **CJH Brandt family collection (ME 605)**: Contact reference@cjh.org. May or may not be the same Brandt family.
+11. **Yad Vashem names database**: Search collections.yadvashem.org for Brand/Brandt from **Lesko/Lisko**.
+12. **Ancestry collection 3132**: Galicia Jewish vital records 1789-1905.
+13. **Tarnopol All Galicia Database**: Still worth searching for Brandt, but note the 2026-04-18 correction: the Tarnopol Brandts may be a different, unrelated family.

@@ -306,16 +306,19 @@ Research gaps and unresolved questions, organized by priority and family line. U
   - (d) **EHRI archival collections**: Jewish Community in Tarnopol (Sygn. 110) at USHMM; DATO documentation of Jewish organizations 1921-1939; Ternopil Oblast Archive with forced labor name lists, Judenrat activities, confiscated property lists.
   - (e) **Geni "Tarnopol Ghetto" project (#27298)** and "Jewish Families from Ternopil" project (#15742) exist but returned 403.
   - (f) No specific "Joseph Brandt" or "Brina Goldbaum" found individually in any database. No Brandt-Goldbaum marriage record located. No Brandt or Goldbaum individuals found in Yad Vashem or Tarnopol Yizkor Book via web search.
-- **Updated best leads (2026-04-18)**:
-  1. **RIJHA "M" Obituaries PDF**: DECISIVE RECORD.
-  2. **All Galicia Database (search.geshergalicia.org)**: Search "Goldbaum" AND "Brandt" in Tarnopol. Three censuses (1880, 1890, 1910). **NEW: Moses Goldbaum should appear in census and may reveal Brina as household member.** HIGHEST PRIORITY for Galician research.
-  3. **Wolfthal family Geni profiles**: Moses Goldbaum appears as witness in their birth records. The detailed vital record citations may contain Moses's age, profession, and address.
-  4. **Helen Markel RI death record** (~1975): Would list parents' names.
-  5. **Lincoln Park Cemetery office** (401-737-5333): Hebrew patronymics.
-  6. **Yad Vashem names database**: Search Goldbaum + Tarnopol.
-  7. **Tarnopol Yizkor Book name index**: Check for Goldbaum and Brandt.
-  8. **EHRI archival collections**: Forced labor lists, registration of Jews from Tarnopol 1941-1943.
-- **Solvability**: MODERATE to HIGH (RIJHA obituary and RI death record both likely exist and are accessible; All Galicia Database with Moses Goldbaum finding significantly improves Galician lead); **Payoff**: HIGH
+- **MAJOR UPDATE (2026-04-18, 15 searches): PARTIALLY RESOLVED**: The 1919 Sambor marriage banns (Tier 1) name Helen's father as "Józef BRAND of Lisko" and mother as "Brancia GOLDBAUM of Lisko." This is a Tier 1 primary civil record confirming both parents' names and their origin town. **CRITICAL CORRECTION**: The Brand/Goldbaum family was from **Lisko (Lesko)**, Sanok district, NOT Tarnopol. The previous Tarnopol inference (from surname in 1910 Census) is superseded. "Brancia" is a Polish diminutive of Brina/Brayna (same name cluster). Helen's Yiddish name was Dwora (Devorah). Her legal surname was GOLDBAUM (mother's maiden name, standard Galician practice for children of religiously married parents); BRAND was the father's surname alias. Research focus now shifts entirely to Lesko records.
+  - Note: The Moses Goldbaum documented in Tarnopol (1879-1889) may be from a DIFFERENT Goldbaum family, unrelated to Brina. The Goldbaum surname is not unique to one family.
+- **Updated best leads (2026-04-18, post-Lisko correction)**:
+  1. **RIJHA "M" Obituaries PDF**: DECISIVE RECORD. Would confirm Helen's maiden name and potentially Yiddish name.
+  2. **All Galicia Database (search.geshergalicia.org)**: Search "Goldbaum" AND "Brand" in **Lesko** (NOT Tarnopol). HIGHEST PRIORITY.
+  3. **JRI-Poland Lesko surnames list** (jri-poland.org/town/lesko/lesko-surnames-list/): Check if Brand and Goldbaum appear.
+  4. **Lesko Yizkor Book** (jewishgen.org/yizkor/lesko/): Search for Brand/Goldbaum entries in necrology.
+  5. **Helen Markel RI death record** (~1975): Would list parents' names.
+  6. **Lincoln Park Cemetery headstone**: Hebrew inscription may read "Dwora bat Yosef" confirming identification.
+  7. **Yad Vashem names database**: Search Goldbaum + Lesko (not Tarnopol).
+  8. **Lesko vital records at Sanok sub-archive** (AP Rzeszow, Oddzial Sanok): Brand/Goldbaum birth, marriage, death records.
+  9. **Tarnopol All Galicia Database search**: Still worth doing for Moses Goldbaum, but now with the caveat that Tarnopol Goldbaums may be unrelated.
+- **Solvability**: HIGH (Tier 1 source already confirms parents' names and origin town; remaining questions are dates, extended family, and Holocaust fate); **Payoff**: HIGH
 
 ### 22. Markel family immigration ~1928: ship manifest
 - **Searched (2026-04-13)**: No manifest found. Kate Kaplan obit confirms family born Poland, arrived West Warwick ~1928.
@@ -461,20 +464,20 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Solvability**: MODERATE (Pages of Testimony are the best lead; they may or may not exist for these individuals)
 - **Payoff**: HIGH (corrects a central family narrative and honors the victims with accurate historical context)
 
-### 34. Mojzesz Majer Markiel and Dwora Goldbaum/Brand: fate after 1919
-- **NEW (2026-04-17).** This 9th child of Heshel and Leah, discovered via Gesher Galicia sweep, was a merchant in Sambor in 1919. He is not mentioned in the Yichus narrative. The Sambor Yizkor necrology lists "Markel, Yosef and Family (5 People)" which may or may not refer to him. His wife Dwora's maiden name (Goldbaum/Brand of Lisko) creates a potential connection to the Brandt/Goldbaum line.
-- **To resolve**: Search Yad Vashem and USHMM for Mojzesz Majer Markiel, Dwora Markiel, and their children. Search the Lesko (Lisko) Yizkor Book for Brand/Goldbaum entries.
-- **Solvability**: MODERATE
-- **Payoff**: HIGH (could connect the Sambor Markel line to the Tarnopol Brandt/Goldbaum line through Dwora's family)
+### 34. Mojzesz Majer Markiel = Morris Markel: identity confirmed; remaining questions
+- **SUBSTANTIALLY RESOLVED (2026-04-18).** Analysis confirms Mojzesz Majer Markiel (from the 1919 marriage banns) IS Morris Markel, the same person already documented in the vault as Helen Brandt's husband. He is NOT a separate "9th child" but rather the groom of Helen/Dwora, already known. The 1919 marriage banns are the Tier 1 primary source for the Morris-Helen marriage. The Sambor Yizkor necrology "Markel, Yosef and Family (5 People)" does NOT refer to him (he emigrated to the US ~1928).
+- **Remaining questions**: (a) What was Morris's exact birth year (the marriage record would give his age if the original document is accessed)? (b) Why is he listed as "Mojzesz Majer" in 1919 but known as "Morris" (not Moses) in the US? (c) The Yichus narrative names him "Moishe Myer" which is consistent with "Mojzesz Majer" (Polish forms of the same names).
+- **Solvability**: HIGH (original marriage document at AGAD would give exact age)
+- **Payoff**: MODERATE (biographical detail for already-identified person)
 
 ### 35. Holocaust records: comprehensive database search (HUMAN ACTION REQUIRED)
 - **NEW (2026-04-17).** All direct database searches returned 403 errors on programmatic access. The following databases MUST be searched manually in a browser:
-- **Yad Vashem (collections.yadvashem.org)**: Search for Markel/Markiel from Sambor/Waniowice; Karp from Sambor; Weidenfeld from Sambor; Goldbaum from Tarnopol; Brandt from Tarnopol; Tachner from Sambor.
+- **Yad Vashem (collections.yadvashem.org)**: Search for Markel/Markiel from Sambor/Waniowice; Karp from Sambor; Weidenfeld from Sambor; Goldbaum from **Lesko/Lisko** (corrected from Tarnopol per 2026-04-18 finding); Brand/Brandt from **Lesko/Lisko**; Tachner from Sambor.
 - **USHMM (ushmm.org/online/hsv/)**: Same surname searches.
 - **JewishGen Yizkor Book Necrology Database (jewishgen.org/databases/yizkor/)**: Search Markel, Karp, Weidenfeld, Frei filtered to Sambor.
 - **Sambor Yizkor Book full text (jewishgen.org/yizkor/sambor/Sam258.html)**: Read the full necrology for all relevant surnames.
-- **Tarnopol Yizkor Book name index**: Search for Goldbaum and Brandt entries.
-- **Lesko (Lisko) Yizkor Book**: Search for Brand/Goldbaum entries.
+- **Tarnopol Yizkor Book name index**: Search for Goldbaum and Brandt entries (note: 2026-04-18 finding shows the Brand/Goldbaum family was from Lisko, not Tarnopol; Tarnopol Goldbaums may be unrelated, but still worth checking).
+- **Lesko (Lisko) Yizkor Book**: Search for Brand/Goldbaum entries. **PRIMARY target for Brand/Goldbaum Holocaust research.**
 - **JewishGen Yizkor Book Master Name Index**: Available on Ancestry (collection 5500), MyHeritage (collection 20034).
 - **Solvability**: HIGH (databases are accessible via browser)
 - **Payoff**: VERY HIGH (could identify individual victims, provide actual dates of death, and honor family members with their full names)
