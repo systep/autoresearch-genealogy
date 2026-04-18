@@ -94,7 +94,7 @@ People who appear at multiple family events across years:
 
 | Person | Appearances | Likely Relationship |
 |---|---|---|
-| H.H. King | Judson King death cert informant (1921); George W. King Jr. resided same town (Pelzer) | Son, grandchild, or nephew of Judson King. Pelzer was a King family hub. |
+| H.H. King | Judson King death cert informant (1921); George W. King Jr. resided same town (Pelzer) | Son, grandchild, or nephew of Judson King. Pelzer was a King family hub. 10 free-database searches (2026-04-18) returned zero results. Georgia King Sims (b. 1885, FAG #13396670) found at same cemetery, confirming post-1880 children exist. 1900 census (login required) is decisive. |
 | Abraham David Sternbach | Ahavath Sholom founder (1919); Yichus narrative (family history); husband of Minnie Markel | Direct family (brother-in-law of [[Morris_Markel]]). Person file warranted. |
 | Lena Fain | Abraham Salk death cert informant (1925) | Daughter of Abraham and Tobey Salk. Only appearance. Separate research track. |
 
@@ -102,7 +102,7 @@ People who appear at multiple family events across years:
 
 ### Key Patterns
 
-1. **Pelzer, SC as a King family hub**: Both H.H. King (Judson's informant, 1921) and George W. King Jr. (Judson's brother, d. 1936) lived in Pelzer. The King family migrated from Anderson County to Greenville County (Oaklawn Township, Fork Shoals area) and by the early 1900s several members had settled in or near Pelzer, an industrial mill town. The 1900 census for Judson King's household is the key to identifying H.H. King.
+1. **Pelzer, SC as a King family hub**: H.H. King (Judson's informant, 1921), George W. King Jr. (Judson's brother, d. 1936), and Georgia King Sims (b. 1885, probable daughter, FAG #13396670) all have ties to Pelzer/Fork Shoals. The King family migrated from Anderson County to Greenville County (Oaklawn Township, Fork Shoals area) and by the early 1900s several members had settled in or near Pelzer, an industrial mill town. The 1900 census for Judson King's household (confirmed to exist per FAG #8422324) is the key to identifying H.H. King and all post-1880 children.
 
 2. **Ahavath Sholom congregation network**: Seven founding members (1919) overlap with the Markel/Sternbach family circle in Arctic (West Warwick), Rhode Island. Abraham Sternbach is direct family; the other six founders (Hirshfield, Shafrin, Dressler, Fishtein, Frank, Glantz) represent the immediate social network of the Galician Jewish immigrant community. These individuals may appear in census records as neighbors of the Markel and Sternbach families.
 

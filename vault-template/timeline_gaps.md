@@ -23,8 +23,8 @@ Expected records that should exist but have not been located. Prioritized by lik
 | Morris Markel | 1950 | West Warwick, RI | FOUND | | Age 59, 12 Capron, wife Helen 59, 4 children. |
 | George Michael Bright Jr. | 1900 | Lowndes Co, MS or Franklin Co, VA | OPEN | LOW | Married Willis 1891/1892. Son Albert born 1893. |
 | George Michael Bright Jr. | 1910 | Abingdon, VA area | OPEN | LOW | Albert age ~17, possible other children. |
-| Judson King | 1900 | Oaklawn Twp, Greenville Co, SC | OPEN | HIGH | Would reveal children born after 1880, including possibly H.H. King. |
-| Judson King | 1910 | Oaklawn Twp, Greenville Co, SC | OPEN | MODERATE | Would confirm H.H. King. Already found 1910 census with nephew Luther Pressley. |
+| Judson King | 1900 | Oaklawn Twp, Greenville Co, SC | OPEN | **CRITICAL** | Record confirmed to exist (referenced on FAG #8422324). Would reveal all post-1880 children, including H.H. King and Georgia King (Sims). 10 free-database searches (2026-04-18) failed to locate content; requires Ancestry/FamilySearch login. |
+| Judson King | 1910 | Oaklawn Twp, Greenville Co, SC | FOUND | | Already documented: T624, Sheet 2-B, Family 32. Judson (68), Charstee (67), nephew Luther Pressley (17). No H.H. King in household. |
 
 ## Immigration Records
 
