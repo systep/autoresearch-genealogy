@@ -2,7 +2,7 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-18
-last_session: "2026-04-18 Find a Grave Sweep (prompts/03-findagrave-sweep.md): Searched 10 priority deceased persons without Find a Grave links. 20+ web searches across Find a Grave, name variants, and cemetery-specific queries. 0 new memorials found. All 10 targets logged as NEEDS_FINDAGRAVE requiring human browser search. Key gap: Lincoln Park Cemetery (Warwick RI) has minimal Markel/Salk coverage despite confirmed burials. High Street Cemetery (Rocky Mount VA) missing Bright family memorials. Updated findagrave_audit.md."
+last_session: "2026-04-18 Lena Fain Research: Researched newly discovered daughter of Abraham and Tobey Salk. 10 web searches. Key finding: Alfred Fain obituary (Providence Journal, 2005) confirms parents as Nathan and Lena (Salk) Fain. Lena married Nathan Fain; children include Alfred (twin, Fain's Dept Store), twin brother, Jeanette Rosofsky, Leonard Fain, Dora Paster. Created Lena_Fain.md. Updated Abraham_Zolly_Salk.md, Family_Tree.md, Timeline.md."
 tags: [genealogy, research, log]
 ---
 
@@ -3240,4 +3240,58 @@ Brina Goldbaum remains at **Speculative** confidence. Zero independent records f
 ### Files Updated
 - [[Brina_Goldbaum]]: Major update with frontmatter, geographic context, Tarnopol community history, 15 search results, negative results, updated document sources, data discrepancies, and 17 prioritized research leads.
 - [[Open_Questions]]: Updated #21 (added 2026-04-17 focused search results and expanded leads), #24 (expanded with 15-search results, Yad Vashem item IDs, Tarnopol Yizkor Book, EHRI portal), #32 (merged with #24).
+- [[Research_Log]]: This entry.
+
+---
+
+## Session: 2026-04-18 -- 1930 Census Search for Morris Markel (10 searches)
+
+**Goal**: Locate the Markel family in the 1930 Federal Census in West Warwick, Kent County, Rhode Island. This would be the family's earliest US census appearance (~2 years after immigration ~1928) and could reveal whether Helen's parents (Joseph Brandt and Brina Goldbaum) were in the household.
+
+**Known facts going in**:
+- Morris Markel, b. ~1891-1892, Vanyavitch/Waniowice, Galicia
+- Wife Helen (Dwora Goldbaum/Brand), b. ~1894-1897, Lisko, Galicia
+- Family immigrated ~1928 to West Warwick RI
+- By 1940: 28 Harris Avenue, West Warwick (same address since 1935)
+- Expected household April 1930: Morris (~38), Helen (~33-36), Thelma (~9), Anne (~8), possibly Rita (~5), Kate (~4)
+- Morris's sister Minnie Sternbach and husband Abraham Sternbach established in West Warwick since 1912
+
+### Searches Performed (10 total)
+
+| # | Query | Result |
+|---|---|---|
+| 1 | "Morris Markel" 1930 Census Rhode Island | NEGATIVE. General RI census guides only. |
+| 2 | Markel 1930 Census West Warwick Kent County Rhode Island | NEGATIVE. General census guides only. |
+| 3 | FamilySearch 1930 census index Markel Rhode Island Kent County | NEGATIVE. Collection 1810731 confirmed; requires login. |
+| 4 | "Markl" OR "Merkl" OR "Markiel" OR "Markal" 1930 census West Warwick RI | NEGATIVE. No variant spellings surfaced. |
+| 5 | "Helen Markel" 1930 census Rhode Island | NEGATIVE. |
+| 6 | Ancestry 1930 census "Markel" "West Warwick" OR "Providence" Rhode Island Jewish immigrant Poland | NEGATIVE. General guides only. |
+| 7 | "Morris Markel" OR "Morris Markal" census 1930 1935 Rhode Island rabbi West Warwick | NEGATIVE. |
+| 8 | Markel family 1930 census Arctic West Warwick Rhode Island Jewish Harris Avenue | NEGATIVE. Confirmed RIJHA Ahavath Sholom founding article exists at rijha.org. |
+| 9 | Steve Morse Unified Census ED Finder for West Warwick 1930 | 403 on automated access. Tool confirmed at stevemorse.org/census/unified.html. |
+| 10 | NARA microfilm locator 1930 census Kent County RI T626 | 403 on automated access. Locator at archives.gov/research/census/1930/about-locator.html. |
+
+### Key Findings
+
+1. **1930 Census record NOT located via free web search.** Ancestry (collection 6224) and FamilySearch (collection 1810731) both require login for individual name searches.
+2. **Rhode Island had NO Soundex index for 1930.** Only twelve southern states had Soundex.
+3. **The family was NOT at 28 Harris Avenue in 1930.** The 1940 Census states "same address since 1935," so the family had a different address in April 1930. They may have been with/near the Sternbach family.
+4. **Name spelling is a known issue.** 1940 Census: "Markal"; 1950 Census: "Workel." The 1930 entry could be under any variant.
+5. **1935 RI State Census** is an alternative: FamilySearch collection 1529126, indexed and free, arranged alphabetically by surname within each town.
+6. **Abraham Sternbach as proxy search:** Locating Morris's brother-in-law in 1930 Census West Warwick could lead to the Markel household.
+
+### Assessment
+
+The record almost certainly exists (family was in the US by ~1928). It cannot be located through free web search. This is HIGH PRIORITY because it would provide: (a) immigration year as self-reported in 1930, (b) citizenship/naturalization status, (c) whether additional family members (Helen's parents?) were in the household, (d) Morris's 1930 occupation, (e) the family's 1930 address.
+
+**HUMAN ACTION REQUIRED:**
+1. Search Ancestry collection 6224 for Morris Markel / Markal / Markiel in Kent County RI (also try Providence County).
+2. Search FamilySearch collection 1810731 for the same.
+3. If not found by name, use Steve Morse ED Finder to identify West Warwick 1930 EDs, then browse images.
+4. Search for Abraham Sternbach in 1930 Census West Warwick as a proxy.
+5. Search 1935 RI State Census (FamilySearch 1529126) for Markel in West Warwick.
+
+### Files Updated
+- [[Morris_Markel]]: Added "1930 US Census: NOT YET LOCATED" section with full search notes and HUMAN ACTION REQUIRED items.
+- [[Helen_Brandt]]: Updated research lead #19 with expanded 1930 Census search instructions.
 - [[Research_Log]]: This entry.
