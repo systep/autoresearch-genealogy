@@ -477,7 +477,7 @@ William Holloway (c. 1734-1784, father of Martha "Patty") left a 1784 will witne
 - **Charlie W. King** (1885 - 1885; died in infancy)
 
 **Kerben King + Jesse** (surname of Jesse unclear) (moderate)
-- Relationship to James King / George Washington King family unknown; both are Anderson/Greenville County King families. Could Kerben be another son of James King? See Open Questions.
+- Relationship to James King / George Washington King family unknown; both are Anderson/Greenville County King families. **2026-04-18 finding**: "Corbin" (the likely correct reading of "Kerben") does NOT appear among Robert King II's 13 named children. Kerben/Corbin may be a grandson of Robert King II through a different son, or from a separate King family entirely. See Open Questions.
 
 **William I. King** (strong)
 - Described as "1st son of Kerben and Jesse King"

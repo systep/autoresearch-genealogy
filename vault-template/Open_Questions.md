@@ -85,8 +85,9 @@ Research gaps and unresolved questions, organized by priority and family line. U
 ### 17. H.H. King identity (death certificate informant)
 - **The question**: H.H. King of Pelzer, SC served as informant on Judson King's 1921 death certificate. None of the 7 children listed in the 1880 census (Dora S., Andrew L., Mary E., James E., William C., Tabitha J., John W.) have initials H.H. Who was this person?
 - **Research done (2026-04-13)**: 1880 census lists 7 children, none with H.H. initials. Parents were 39 and 37 in 1880, so additional children could have been born after 1880.
-- **Next step**: (1) Search 1900 and 1910 censuses for Judson King household. (2) Search Pelzer, SC city directories or census for H.H. King.
-- **Solvability**: HIGH (1900/1910 census should resolve)
+- **Research done (2026-04-18, 3 searches)**: Searched for "H.H. King" in Pelzer SC in 1900 and 1910 census databases via web search. No specific individual found. All census databases (Ancestry, FamilySearch) returned generic resource pages, not individual records. The 1910 census for Judson King (already documented: T624, Sheet 2-B, Family 32) shows only Judson, Charstee, and nephew Luther Pressley; no H.H. King in household. H.H. King must have been living independently by 1910, likely a married son or son-in-law in Pelzer.
+- **Next step**: (1) Search 1900 census for Judson King household in Oaklawn Township (this is the missing census decade; children born 1881-1899 would appear here). (2) Search 1910 and 1920 census for King households in Pelzer/Anderson County for H.H. King as head of household. (3) Search Pelzer mill records (Pelzer Manufacturing Company employed most residents). (4) Consider that H.H. may be a grandchild (son of one of the 7 known children) rather than an 8th child.
+- **Solvability**: HIGH (1900 census should resolve; requires login-based database access)
 - **Payoff**: LOW (identifying a family member)
 
 ### 13. Elizabeth Brasher's parentage: Thomas Levi Brasher Jr.'s will names no daughters
@@ -205,9 +206,11 @@ Research gaps and unresolved questions, organized by priority and family line. U
 ### 8. Krauss/Krause Binder naming discrepancy
 - **The question**: GEDCOM names Martin Binder's father as "Johann Krause Binder" (b. 1794); Siebenbuerger.de names him as "Petrus Krauss Binder." Are Johann and Petrus the same person (with one source in error), or different people (different generations)?
 - **Research (2026-04-10)**: "Krauss" is a Beiname (by-name) distinguishing this Binder family from other Binder families, not a maternal surname. "Krauss" = "curly haired." Father of Johann was Georg Krauss per GEDCOM. The compound name is standard Transylvanian Saxon practice.
-- **Next step**: Search VGSS database and Ancestry Transylvania collections for Binder families in Kreisch/Waldhutten. Church register would resolve Johann vs. Petrus.
-- **Solvability**: HIGH (if church registers accessed)
-- **Payoff**: MODERATE (clarifies one generation and naming convention)
+- **Research (2026-04-18, 4 searches)**: Multiple web search results consistently name Martin Binder's father as "**Petrus KRAUSS BINDER**" (Siebenbuerger.de, Tier 2). The VGSS (Verein fur Genealogie der Siebenbuerger Sachsen) database has a specific record (vgss.de/genealogie/?p=5502) but returned 403 on automated access. Geneanet records for Romania vital records collections 5412 also reference this family. Martin Binder's daughter Anna Binder Kascher (b. April 1, 1868, Kreisch/Cris; d. October 18, 1915, Waldhutten/Vulcan) is documented. No web source names "Johann" as Martin's father; only the user-contributed GEDCOM uses that name.
+- **PARTIALLY RESOLVED (2026-04-18)**: The weight of evidence favors **Petrus Krauss Binder** as the correct name for Martin Binder's father. The GEDCOM's "Johann Krause Binder" appears to be an error (single Tier 3 source, contradicted by Tier 2 siebenbuerger.de which is based on church register data). The VGSS database record is the decisive source; manual browser access would confirm this at Strong Signal level.
+- **Next step**: (1) **Access VGSS database record p=5502 in browser** (vgss.de/genealogie/?p=5502). This is the single decisive record. (2) Search Ancestry Transylvania collections for Binder baptisms in Kreisch to confirm given name. (3) If VGSS confirms Petrus, update Family_Tree.md and create corrected person file.
+- **Solvability**: HIGH (VGSS database record exists and is accessible via browser)
+- **Payoff**: MODERATE (clarifies one generation and corrects a naming error in the GEDCOM)
 
 ### 9. Transylvanian Saxon church record access
 - **The question**: What records exist for Wurmloch, Waldhutten, Kreisch, and Petersdorf, and how to access them?
@@ -302,8 +305,10 @@ Research gaps and unresolved questions, organized by priority and family line. U
 ### 19. James Youngblood (GEDCOM) identity: Which generation?
 - **The question**: GEDCOM lists "James Youngblood" (b. SC) as father of William Henry Youngblood (b. 1828, Bibb, AL). WikiTree Youngblood-746 (c. 1740-1792) cannot be William's father. Which James?
 - **Researched (2026-04-13)**: Edgefield-to-Alabama migration documented post-1814. James W. Youngblood married Louisa Clark in Lowndes County, MS, Sep 16, 1841.
-- **Next step**: Search 1830-1850 Bibb County AL and Lowndes County MS census for Youngblood households.
-- **Solvability**: MODERATE
+- **Researched (2026-04-18, 6 searches)**: Investigated multiple Youngblood lines. WikiTree Youngblood-746 (James, c.1740-1792, Edgefield SC) wrote will August 3, 1791 (probated March 1792). His known sons: Jeremiah (oldest), Thomas, Eli. Married Mary "Polly" (Bradley?), bought first land Nov 7, 1766 in Johnston County NC. This James died 1792, 36 years before William Henry's 1828 birth, so cannot be the father. **James Jonathan Youngblood Sr (1810-1889)** of Warren County, TN (WikiTree Youngblood-172) is son of Jonathan Youngblood (1766-1852) and Nancy Heaton; married Leah Jane Elam 1833 in Rutherford, TN. Had 8 children including William P. Youngblood. This is a different family branch (Tennessee, not Alabama). **James Youngblood (1817-1909)** on Find a Grave (memorial #32164749) was born Marion County, MS, son of Henry Youngblood and Sarah Miller Harvey; married Margaret Jane Smith; died Sabine County, TX. Mexican War and Civil War veteran. Also not the right James. The Youngblood DNA Project (FamilyTreeDNA) documents the "Youngbloods of Edgefield SC" but returned 403.
+- **Key finding**: The correct James Youngblood is likely a grandson or great-grandson of James Youngblood (c.1740-1792), born c.1800-1810, who migrated from Edgefield SC to Bibb County AL after 1814 (consistent with Alabama frontier settlement). The 1830 and 1840 Bibb County AL census listings would confirm his presence.
+- **Next step**: (1) Access 1830 Bibb County AL census (algenweb.org, returned 403) for Youngblood household heads. (2) Access 1840 Bibb County AL census (same). (3) Access 1850 Bibb County AL census for first nominal listing of James + William Henry (age 22). (4) Check "Youngblood Armstrong and Allied Families" genealogy book (1940s-60s). (5) Access FamilyTreeDNA Youngbloods of Edgefield project background page in browser.
+- **Solvability**: MODERATE (census records needed; all databases returned 403)
 - **Payoff**: MODERATE
 
 ### 20. Esther Lucy Kyle family origin

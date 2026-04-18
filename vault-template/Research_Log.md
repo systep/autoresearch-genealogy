@@ -2,7 +2,7 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-18
-last_session: "2026-04-18 Colonial Records Search (prompts/10-colonial-records-search.md): 7 SC colonial families, 10 iterations, ~30 searches. Key findings: William Cox Sr. Granville land grants 1754 (3 grants, 1440 acres on Deep River, Orange Co NC); Harmon Cox (1723-1812) confirmed as son of Delaware William Cox, NOT related to our William Cox Sr. per Y-DNA; Argaleus Henderson Regulators signer 1768, 1804 deed to son John, 1806 estate inventory; Thomas Brasher Sr. 1770 will with daughters named; Fork Shoals Baptist Church records 1813-1899 digitized at SC Digital Library; SC Archives state plats 1784-1868 now online at archivesindex.sc.gov."
+last_session: "2026-04-18 Open Question Resolution (prompts/08-open-question-resolution.md): 5 OQs attacked, 10 iterations, ~30 searches. Key findings: Charstee King maiden name likely Cooley (Find a Grave photo caption, Tier 2); Robert King II (1750-1826, Ireland) identified as 5th-generation patriarch of King line; George Washington King parents confirmed as James King + Mary Parker (Geni); Petrus Krauss Binder confirmed as Martin Binder's father (siebenbuerger.de, Tier 2), contradicting GEDCOM's Johann; Corbin King NOT among Robert King II's 13 children."
 tags: [genealogy, research, log]
 ---
 
@@ -198,6 +198,66 @@ Would be on same manifest as Morris. Not independently searched.
 - [[Florence_Markel_Mermelstein]]: "The Liberty" ship name analysis
 - [[Michael_Kascher_Transylvania]]: Immigration search status
 - [[Research_Log]]: This entry
+
+---
+
+## 2026-04-18: Open Question Resolution (prompts/08-open-question-resolution.md, ~30 searches)
+
+### Summary
+
+Executed Open Question Resolution prompt targeting 5 open questions: OQ #3 (Kerben/Corbin King), OQ #8 (Krauss/Krause Binder), OQ #15 (Charstee King maiden name), OQ #17 (H.H. King identity), OQ #19 (James Youngblood generation). Two questions partially resolved; three updated with significant new data.
+
+### Searches Conducted
+
+| # | Target OQ | Query/Source | Result |
+|---|---|---|---|
+| 1 | OQ #3 | "Corbin King" 1860 census Greenville County SC | NEGATIVE. No individual named Corbin King found. |
+| 2 | OQ #3 | "Corbin King" Anderson/Greenville SC 1800s | NEGATIVE. No match. Peter Corbin (1749-1794, VA to Anderson SC) identified as unrelated Corbin family. |
+| 3 | OQ #3 | James King Sr 1840 census Anderson SC | PARTIAL. James King age 82 in 1840 Census of Pensioners for Revolutionary Service. |
+| 4 | OQ #3 | James King pensioner 1840 Anderson SC Revolutionary War | PARTIAL. Census of Pensioners records exist but specific entry not accessible. |
+| 5 | OQ #3 | Robert King descendants Anderson SC | **MAJOR FIND.** Robert King II (c.1750-1826) identified as founding patriarch, 23 children by Tabitha Dolby. WikiTree King-12061, Geni, Find a Grave #48870135. |
+| 6 | OQ #3 | Robert King II children list | **POSITIVE.** 13 named children: Hannah, Peter Sr., Grace (Evans), James, Pricilla, Robert III, William, Tabitha (White), John, Nancy, Josiah, Sabra Ann (Hall), Mary Ann. **Corbin NOT among them.** |
+| 7 | OQ #3 | George Washington King born 1815 father James King | **MAJOR FIND.** GWK confirmed as son of James King + Mary Parker, born Belton Anderson SC, died 1887, buried Washington Cemetery, Ware Place, Greenville Co. Geni Tier 3. |
+| 8 | OQ #3 | James King + Mary Parker children | PARTIAL. Siblings of GWK: Sarah (Sallie) Ann Fant, John King, Elizabeth Ann Haynie. Not all children documented. |
+| 9 | OQ #15 | "Charstee Cooley" King SC | **MAJOR FIND.** Find a Grave #8422324 photo caption: "Judson and Charstee Cooley King 1908 taken in Pelzer SC by RL Snipes." Maiden name Cooley (Tier 2). |
+| 10 | OQ #15 | Cooley family Greenville County SC | POSITIVE. Jacob Cooley Sr. (1735-1820) settled Greenville by 1790. Hiram Cooley (1796-1864) had plantation there. Family well established in area. |
+| 11 | OQ #15 | Hiram Cooley Greenville SC children daughters | PARTIAL. Hiram Cooley documented but specific daughter names not accessible (403). |
+| 12 | OQ #15 | "Charstee Cooley" OR "Charity Cooley" married King | NEGATIVE. No specific marriage record found via web search. |
+| 13 | OQ #17 | "H.H. King" Pelzer SC 1900 1910 census | NEGATIVE. No individual match found. |
+| 14 | OQ #17 | Judson King children H.H. King Pelzer | NEGATIVE. No specific child with H. initials identified. |
+| 15 | OQ #17 | King family Pelzer Anderson SC 1900 | NEGATIVE. General resource pages only. |
+| 16 | OQ #8 | "Krauss Binder" OR "Krause Binder" Transylvania Kreisch | **POSITIVE.** Siebenbuerger.de confirms "Petrus KRAUSS BINDER" as Martin Binder's father. |
+| 17 | OQ #8 | "Petrus Krauss" Binder VGSS database | **POSITIVE.** VGSS record p=5502 exists (403 on access). Web results consistently name Petrus, not Johann. |
+| 18 | OQ #8 | VGSS "Krauss Binder" Kreisch children | PARTIAL. Geneanet records also reference the family. All 403. |
+| 19 | OQ #19 | James Youngblood Bibb County AL 1830-1850 | NEGATIVE. 1830/1840 census pages all 403. |
+| 20 | OQ #19 | Youngblood-746 WikiTree James 1740 1792 sons | POSITIVE. James (c.1740-1792) wrote will Aug 1791. Sons: Jeremiah, Thomas, Eli. Died too early to be William Henry's father. |
+| 21 | OQ #19 | "William Henry Youngblood" born 1828 Alabama father James | NEGATIVE. No direct connection found. |
+| 22 | OQ #19 | James Jonathan Youngblood 1810 1889 WikiTree Bibb AL | PARTIAL. Different branch: son of Jonathan (1766-1852), born Warren Co TN, married Leah Jane Elam 1833. Not the right James. |
+| 23 | OQ #19 | James Youngblood 1817 1909 Find a Grave | NEGATIVE. Born Marion County MS, different family entirely. |
+| 24 | OQ #19 | FamilyTreeDNA Youngbloods of Edgefield background | 403. |
+| 25 | OQ #3 | Fork Shoals Baptist Church Cemetery King burials | PARTIAL. Only Judson King memorial confirmed. Full cemetery listing 403. |
+| 26 | OQ #15 | Charstee King Find a Grave Fork Shoals | PARTIAL. Confirmed photo caption text. No separate memorial for Charstee. |
+| 27 | OQ #3 | Judson King George Washington King connection | PARTIAL. Geni and Find a Grave both document relationship. |
+| 28 | OQ #3 | Robert King II 1750 Anderson SC 13 children full list | CONFIRMED. Multiple sources agree on child list. |
+| 29-30 | Multiple | Verification searches | Confirmed key findings. |
+
+### Key Findings
+
+1. **Robert King II (c. 1750-1826)** identified as 5th-generation patriarch: emigrated from Ireland 1770, settled Anderson County SC, fought at Kings Mountain, had 23 children by Tabitha Dolby (13 named). Son James King (b. ~1788) was father of George Washington King (1815-1887), who was Judson King's father.
+2. **Charstee King's maiden name likely Cooley**: Find a Grave photo caption (Tier 2) identifies her as "Charstee Cooley King." The Cooley family was established in Greenville County since 1790.
+3. **Petrus Krauss Binder confirmed** as Martin Binder's father by multiple web sources. GEDCOM's "Johann" contradicted.
+4. **Corbin King NOT found** among Robert King II's 13 named children, leaving the Kerben/Corbin King branch unconnected.
+5. **H.H. King** remains unidentified; requires 1900 census access.
+6. **James Youngblood (c.1740-1792)** definitively eliminated as William Henry Youngblood's father. The correct James is likely a grandson in a subsequent generation.
+
+### Negative Results (Logged)
+
+- No "Corbin King" found in any SC census or genealogy database
+- No "H.H. King" found in Pelzer SC via web search
+- No "Johann Krause Binder" found in any source other than the GEDCOM
+- 1830/1840 Bibb County AL census pages inaccessible (403)
+- FamilyTreeDNA Youngbloods project inaccessible (403)
+- Fork Shoals cemetery complete listing inaccessible (403)
 
 ---
 

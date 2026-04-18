@@ -128,7 +128,7 @@ Chronological index of all dated events across the family tree.
 | 9 Nov 1843 | Death | Philemon Huff | Greenville County, SC | WikiTree Huff-446 |
 | ~1788 | Birth | [[James_King_Sr]] | South Carolina | 1850 Census: age 62 (Tier 1) |
 | ~1813 | Birth | Robert King (Baptist clergyman) | South Carolina | 1850 Census: age 37 (Tier 1) |
-| ~1815 | Birth | [[George_Washington_King]] | South Carolina | 1850 Census: age 35 (Tier 1) |
+| Dec 22, 1815 | Birth | [[George_Washington_King]] | Belton, Anderson County, SC | 1850 Census (Tier 1); Geni, Find a Grave #8737547 (Tier 2/3) |
 | ~1843 | Birth | [[Charstee_King]] | South Carolina | 1880 Census (Tier 1) |
 | Nov 2, 1846 | Death | Ezekiel Henderson | Greenville County, SC | WikiTree |
 | Before July 19, 1847 | Death | Brashier Henderson | Greenville County, SC | WikiTree Henderson-6197 |

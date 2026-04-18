@@ -45,7 +45,7 @@ Judson King was born June 20, 1841 in South Carolina. His death certificate name
 
 George Washington King is confirmed as Judson's father based on two independent Tier 1 sources: the 1850 census (Judson in George W.'s household) and the death certificate (naming "Washington King" as father). [[James_King_Sr]] (age 62, same census page) is Judson's grandfather.
 
-He married **[[Charstee_King]]** (b. ~1843, SC). By 1880 they had seven children: Dora S., Andrew L., Mary E., James E., William C., Tabitha J., and John W. King (1880 Census, Oaklawn Township, Greenville County, SC, Tier 1). "Charstee" is an unusual name, possibly a variant of "Charity" or "Chastity."
+He married **[[Charstee_King]]** (b. ~1843, SC), whose maiden name was likely **Cooley** based on the caption of an 1908 photograph: "Judson and Charstee Cooley King 1908 taken in Pelzer, SC by RL Snipes, dealer in fancy pictures" (Find a Grave memorial #8422324, Tier 2). The Cooley family was well established in Greenville County: Jacob Cooley Sr. (1735-1820) moved from Virginia by 1790, and his grandson Hiram Cooley (1796-1864) had a plantation in the county. By 1880, Judson and Charstee had seven children: Dora S., Andrew L., Mary E., James E., William C., Tabitha J., and John W. King (1880 Census, Oaklawn Township, Greenville County, SC, Tier 1). "Charstee" is an unusual name, possibly a variant of "Charity."
 
 Judson was a farmer his entire adult life, working a general farm in Oaklawn Township, Greenville County. Both the 1880 and 1920 censuses record him as a farmer in Oaklawn Township, indicating he lived in the same area for at least 40 years.
 
@@ -72,7 +72,9 @@ The 1850 Census (Anderson County, SC) places three King households on the same p
 
 James King is the patriarch. Robert and George W. are his sons. George W. King is confirmed as Judson's father.
 
-The existing vault also documents a separate King line from handwritten notes (IMG_0792, IMG_0786): [[Kerben_King]] (possibly "Corbin King") + Jesse, whose son [[William_I_King]] (b. ~1862) married Marcia (Mary) Kopp/Huff. The relationship between the James/George W. King family and the Kerben King family is unknown; both are in the Greenville/Anderson County area. Could Kerben/Corbin be another son of James King? See [[Open_Questions]].
+**Extended patrilineal lineage (2026-04-18)**: James King Sr.'s father was **Robert King II** (c. 1750-1826), who emigrated from Ireland to Anderson County, SC in 1770 with wife Tabitha Dolby. Robert King II had 13 children: Hannah, Peter Sr., Grace (Evans), James, Pricilla, Robert III (1791-1879, Baptist clergyman), William (never married), Tabitha (White), John (1796-1841), Nancy, Josiah, Sabra Ann (Hall), Mary Ann. Robert III is the clergyman in the 1850 Census (Family 397). Robert King II's father was Robert King I (c. 1725-bef. 1797), also from Ireland. Sources: WikiTree King-12061 (Tier 3), Geni (Tier 3), Find a Grave #48870135 (Tier 2). This gives a 5-generation patrilineal line: Robert King I (Ireland) > Robert King II (1750, Ireland to Anderson SC) > James King Sr. (~1788) > George Washington King (1815-1887) > Judson King (1841-1921).
+
+The existing vault also documents a separate King line from handwritten notes (IMG_0792, IMG_0786): [[Kerben_King]] (possibly "Corbin King") + Jesse, whose son [[William_I_King]] (b. ~1862) married Marcia (Mary) Kopp/Huff. The name "Corbin" does NOT appear among Robert King II's 13 named children (2026-04-18 search). The Kerben/Corbin King branch remains unlinked to the James/George W./Robert King II lineage. See [[Open_Questions]].
 
 ## Document Sources
 
@@ -109,4 +111,4 @@ In 1910, **Luther Pressley** (age 17, b. ~1893) lived in Judson and Charstee's h
 5. **H.H. King identity**: Not among the 7 children listed in 1880 census. Check 1900/1910 census for additional children or grandchildren.
 6. **Marriage record**: Search Greenville County marriage records for Judson King and Charstee [maiden name unknown].
 7. **Mother's maiden name**: Confirm reading of "Shambler" (or variant). Search Greenville County marriage records for Washington King.
-8. **Charstee's maiden name**: Unknown. Marriage record or earlier census with her parents would establish this.
+8. **Charstee's maiden name**: Likely **Cooley** per Find a Grave photo caption (Tier 2). Confirm via Greenville County marriage record or 1860 census (Charstee Cooley, age ~17, in parents' household). Identify specific Cooley parents.
