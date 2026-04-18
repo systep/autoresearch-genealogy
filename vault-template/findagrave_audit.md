@@ -1,7 +1,7 @@
 ---
 type: reference
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-18
 tags: [genealogy, audit, findagrave]
 ---
 
@@ -11,11 +11,13 @@ Systematic search for Find a Grave memorials for every deceased person in the fa
 
 ## Summary
 
-- **Total deceased persons searched**: 20
+- **Total deceased persons searched**: 30
 - **Memorials found (previously known)**: 3
-- **Memorials found (new this sweep)**: 5
+- **Memorials found (new this sweep, 2026-04-10)**: 5
+- **Memorials found (new this sweep, 2026-04-18)**: 0
 - **Total with memorials**: 8
-- **No memorial found**: 12
+- **No memorial found**: 22
+- **NEEDS_FINDAGRAVE (human browser search required)**: 10
 
 ## Memorial Registry
 
