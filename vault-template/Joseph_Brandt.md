@@ -143,3 +143,17 @@ Joseph Brandt remains at **Speculative** confidence. The research has significan
 11. **Yad Vashem names database**: Search collections.yadvashem.org for Brand/Brandt from **Lesko/Lisko**.
 12. **Ancestry collection 3132**: Galicia Jewish vital records 1789-1905.
 13. **Tarnopol All Galicia Database**: Still worth searching for Brandt, but note the 2026-04-18 correction: the Tarnopol Brandts may be a different, unrelated family.
+
+## 2026-04-18 Goldbaum Deep Search in Lisko/Lesko Region
+
+### Summary
+
+15 targeted searches focused on Goldbaum and Brand/Brandt in Lisko/Lesko databases. See [[Brina_Goldbaum]] for the full session log.
+
+Key finding: **Brand/Brandt is not documented among known Lesko families on Geni (#28979)**. The Geni "Jewish Families from Lesko" project lists Goldstoff, Heller, Rand, Schechter, Taub, but neither Goldbaum nor Brand/Brandt. This could indicate: (a) the project is incomplete, (b) Joseph Brand came from elsewhere and married Brina in Lesko, or (c) the family was small and did not have descendants who contributed to genealogical records.
+
+The Gesher Galicia Brandt families page (geshergalicia.org/families/?id=brandt/) exists but returned 403 on all fetch attempts. The All Galicia Database search for "Brand" in Lesko is the highest priority. The Lesko Yizkor Book necrology (pp. 467-489) could contain Joseph Brand if he remained in Lesko until the 1942 deportation.
+
+### Assessment
+
+Joseph Brandt remains at **Speculative** confidence. No records found for "Józef Brand" from Lesko in any database despite searches across JewishGen, Geni, Gesher Galicia, Yad Vashem, and USHMM. The only source remains the 1919 AGAD marriage banns (Tier 1), which names him as "Józef BRAND" of Lisko, father of the bride Dwora.

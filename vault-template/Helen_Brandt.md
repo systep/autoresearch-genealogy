@@ -243,3 +243,25 @@ See [[Joseph_Brandt]] and [[Brina_Goldbaum]] for full session notes. See Researc
 17. **Ship passenger manifest (~1928)**: Search Steve Morse One Step for Markel/Markiel/Brandt arriving New York 1926-1930.
 18. **Morris Markel naturalization petition**: RI U.S. District Court records (NARA Boston/Waltham). Would list Helen, birthplace, arrival.
 19. **1930 US Census, West Warwick RI**: Earliest US record of Markel family. Ancestry or FamilySearch.
+
+## 2026-04-18 Goldbaum Deep Search in Lisko/Lesko Region
+
+### Summary
+
+15 targeted searches for Goldbaum in Lisko/Lesko databases and immigration records. See [[Brina_Goldbaum]] for the full session log. Key findings relevant to Helen:
+
+1. **Geni "Jewish Families from Lesko" project (#28979) does not list Goldbaum**: Documented families include Goldstoff, Heller, Rand, Schechter, Taub. Goldbaum is absent. This could mean the family was small, recently arrived in Lesko, or the project is incomplete.
+
+2. **Lesko Yizkor Book necrology (pp. 467-489)** is the most accessible path to determine whether Brina Goldbaum (Helen's mother) was among the 3,000 Lesko Jews murdered in 1942. All pages blocked on automated access. HUMAN ACTION REQUIRED.
+
+3. **No "Dwora Goldbaum" found in any database**: Helen's birth name appears only in the 1919 Sambor marriage banns (Tier 1). No additional records located.
+
+4. **Dwora-to-Helen name Americanization confirmed plausible**: CUNY dissertation confirms no fixed rules for Jewish immigrant name choices. While Dwora typically becomes Dorothy/Dora, the switch to Helen is within documented norms.
+
+5. **JRI-Poland Lesko surnames list** (jri-poland.org/psa/lesko_surn.htm) would show if Goldbaum and Brand are indexed in Lesko vital records. Blocked on automated access. HUMAN ACTION REQUIRED.
+
+6. **Sanok sub-archive** (Archiwum Panstwowe w Rzeszowie, Oddzial w Sanoku) holds Jewish vital records from Lesko. Helen's birth record (as Dwora Goldbaum, ~1894-1897) would be in these records.
+
+### Assessment Update
+
+Helen/Dwora's connection to Lesko is now confirmed by Tier 1 evidence (1919 marriage banns). However, no additional records for her or her family have been found in Lesko databases despite 15 targeted searches. The absence of Goldbaum from the Geni Lesko project is noted but not conclusive. Helen's confidence remains **Moderate Signal** based on the 1919 marriage record, US Census data, Yichus narrative, and Kate Kaplan obituary.

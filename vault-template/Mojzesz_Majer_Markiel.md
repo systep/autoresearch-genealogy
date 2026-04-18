@@ -124,6 +124,10 @@ Analysis of the 1919 marriage record data against the known identity of Helen Br
 9. **Helen Markel RI death record (~1975)**: Would list parents' names. Request from RI Dept of Health.
 10. **Lincoln Park Cemetery headstone**: Hebrew inscription may read "Dwora bat Yosef" confirming the identification.
 
+## 2026-04-18 Goldbaum/Brandt Deep Search in Lisko/Lesko (Cross-reference)
+
+15 targeted searches for Goldbaum and Brand/Brandt in Lisko/Lesko databases. See [[Brina_Goldbaum]] for full session log. No additional records found for Mojzesz Majer's in-laws (Józef Brand and Brancia Goldbaum) or for his wife Dwora Goldbaum/Brand. The Lesko Yizkor Book necrology (pp. 467-489), JewishGen Yizkor Necrology Database, and All Galicia Database search for Lesko remain the highest priority leads for Dwora's family. The absence of both Goldbaum and Brand/Brandt from the Geni "Jewish Families from Lesko" project (#28979) is noted.
+
 ## Document Sources
 
 | Document | Type | Vault Note |

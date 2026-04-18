@@ -11,9 +11,9 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 
 ## Audit Summary
 
-- **Total named individuals audited**: ~130
-- **Discrepancies found**: 32
-- **Resolved**: 12 (including 2 from 2026-04-14 Yichus integration; 1 from 2026-04-17 Holocaust research)
+- **Total named individuals audited**: ~135
+- **Discrepancies found**: 37
+- **Resolved**: 17 (including 2 from 2026-04-14 Yichus integration; 1 from 2026-04-17 Holocaust research; 5 from 2026-04-18 cross-reference audit)
 - **Remaining open**: 20
 
 ---

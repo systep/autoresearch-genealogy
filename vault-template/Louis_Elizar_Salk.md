@@ -21,9 +21,9 @@ tags: [genealogy, salk, person, lithuania, rhode-island, tier-3, zalk, troskunai
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Louis (Elizar)(Lazar) Salk | GEDCOM |
-| Born | circa 1840 | GEDCOM |
-| Birthplace | Lithuania | GEDCOM |
+| Full Name | **Louis Salk** (also Louis (Elizar)(Lazar) Salk per GEDCOM) | Death Certificate of Abraham Salk No. 584/226, 1925 (Tier 1); GEDCOM (Tier 3) |
+| Born | circa 1840 | GEDCOM (Tier 3) |
+| Birthplace | **Russia** (per Abraham's death cert, Tier 1); Lithuania (per GEDCOM, Tier 3) | Death Certificate (Tier 1) |
 | Died | Before 1910 | GEDCOM |
 | Death Place | Providence, Rhode Island | GEDCOM |
 | Burial | Unknown | |
@@ -61,4 +61,5 @@ Confidence: Tier 3 (user-contributed tree data).
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| | | | No discrepancies identified at this time. |
+| Existence confirmed | GEDCOM only (Tier 3) | **Abraham Salk death cert (1925, Tier 1) names "Louis Salk, born Russia" as father** | Louis's existence is now confirmed at Tier 1 via Abraham's death certificate. |
+| Birthplace | Lithuania (GEDCOM, Tier 3) | Russia (Abraham's death cert, Tier 1) | Both may be correct: "Russia" likely refers to the Russian Empire, which included Lithuania. Not contradictory. |
