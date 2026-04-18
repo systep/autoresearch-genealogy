@@ -40,6 +40,8 @@ Chronological index of all dated events across the family tree.
 | c. 1710/1720 | Birth | [[Daniel_Huff_Brunswick]] | Unknown (possibly VA or PA) | WikiTree Huff-1770 (estimated) |
 | ~1720 | Birth | Argaleus Hercules Henderson I | Onslow, NC | WikiTree Henderson-7309 |
 | 1722 | Birth | Molly Mary Clark | North Carolina | WikiTree, Geni |
+| May 6, 1726 | Emigration petition | [[Johann_Michael_Brecht]], Anna Catherina Brecht, Stephan Brecht | Schriesheim, Palatinate, Germany | WikiTree Brecht-58, Geni, RootsWeb |
+| Oct 1726 | Immigration (arrived Philadelphia) | [[Johann_Michael_Brecht]], Anna Catherina Brecht, Stephan Brecht | Philadelphia, PA | WikiTree Brecht-58 (no formal passenger list; pre-1727) |
 | ~1730 | Birth | [[John_Baldwin_Sr]] | Chester, Pennsylvania | WikiTree Baldwin-2336 |
 | ~1730-1735 | Birth | [[William Cox Sr.]] | Unknown | Cox Family History Project |
 | 1736 | Birth | Alice Francis Lindley | Chatham, NC | WikiTree Lindley-409 |
@@ -60,6 +62,7 @@ Chronological index of all dated events across the family tree.
 | 1768-1771 | Regulators movement | Argaleus Hercules Henderson I | Orange County, NC | WikiTree |
 | April 22, 1772 | Land purchase (110 acres) | William Cox Sr. | Haw River/Cane Creek, Orange Co., NC | Deed Book #3 p. 599 |
 | ~1775 | Birth | [[Eli_Baldwin]] | Chatham County, NC | WikiTree Baldwin-2330, Geni |
+| 1770 | Immigration (ship Jupiter from Larne, Ireland) | [[Robert_King_II]], Robert King I, Tabitha Dolby | Larne, Ireland to SC | WikiTree Dolby-84, Geni (Tier 3) |
 | ~1770 | Birth | [[James_Hiriam_Clark]] | Virginia | Ancestry, user data |
 | 14 Feb 1768 | Birth | [[James_Huff]] | Brunswick County, VA | WikiTree Huff-1775 |
 | 11 Apr 1772 | Birth | [[Rebecca_Moseley_Huff]] | Brunswick, VA | WikiTree, GEDCOM |
