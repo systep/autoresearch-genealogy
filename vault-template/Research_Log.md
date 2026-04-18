@@ -10,6 +10,197 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-18: Colonial Records Search (prompts/10-colonial-records-search.md), 10 iterations, ~30 searches
+
+### Summary
+
+Systematic search for colonial-era records (pre-1800) for seven South Carolina/North Carolina/Virginia families with deep American roots: Cox, Clark, Baldwin, Henderson, Brasher/Brashier, Huff, and Long. Focused on land grants, deeds, court records, militia/military records, church records, and cemetery records. Many free online sources blocked automated access (403 errors), but search result snippets yielded substantial new information.
+
+### Key New Findings
+
+#### Cox Family
+
+1. **William Cox Sr. Granville Land Grants (1754)**: Three Granville grants dated June 11, 1754, totaling 1,440 acres on Deep River, Orange County NC. However, these likely belong to the DELAWARE Cox family (Harmon Cox's father), NOT our William Cox Sr., based on Y-DNA evidence.
+2. **CRITICAL DISAMBIGUATION**: Harmon Cox (1723-1812) confirmed as son of Delaware William Cox (1692-1767), a Regulator leader. NOT related to our William Cox Sr. per Y-DNA (R1b-I "Carolina Coxes").
+3. **1790 Census**: William Cox and "Isaac Cocks" listed in Greenville District along with Brassure, Long, Lee families.
+4. **Sarah Elizabeth Clark Cox** (1836-1879): Find a Grave #8304975 at Standing Springs Cemetery. Confirms Clark-Cox intermarriage.
+
+#### Henderson Family
+
+5. **Argaleus Hercules Henderson I**: Regulators signer 1768. 1804 deed to son John (150 acres, Chatham Co NC). 1806 estate inventory (7 images).
+
+#### Brasher Family
+
+6. **Thomas Brasher Sr. 1770 will**: Named 5 sons + 7 daughters including Elizabeth Jones, Sarah Pyle, Hannah Teague. Two wives: Sarah Constant and Hannah.
+
+#### Baldwin Family
+
+7. **Quaker migration corridor confirmed**: Chester PA to Chatham NC. Land deeds: 1780 (first grant), 1786 (to John Jr.), 1801 (to Eli).
+
+#### Church Records
+
+8. **Fork Shoals Baptist Church records 1813-1899**: Digitized at SC Digital Library.
+
+### Negative Results
+
+James Hiriam Clark: no colonial records found. Larkin Long: no WikiTree profile. William Thomas Long: no Find a Grave memorial. Ezekiel Henderson: no specific land grant plat. James Huff: no War of 1812 service found.
+
+### Records Requiring Human Browser Access
+
+| Source | URL | Priority |
+|---|---|---|
+| SC Archives State Plats 1784-1868 | archivesindex.sc.gov | HIGH |
+| Cox Family History Project (all subpages) | sites.google.com/site/coxfamilyhistoryproject | HIGH |
+| Greenville County Register of Deeds (Pre-1985) | greenvillecounty.org/rod/searchrecords.aspx | HIGH |
+| FamilySearch Greenville County deeds microfilm | familysearch.org | HIGH |
+| Fork Shoals Church records 1813-1899 | scdl.contentdm.oclc.org | MEDIUM |
+| Chatham County NC marriage bonds 1772-1853 | FamilySearch catalog 191194 | HIGH |
+| A Brazier/Brasher Saga (532 pp.) | FamilySearch catalog 734009 | HIGH |
+
+## 2026-04-18: Immigration Search, All Immigrant Ancestors (10 iterations, ~30 searches)
+
+### Summary
+
+Executed the Immigration Search protocol (prompts/11-immigration-search.md) for all 9 identified immigrant ancestors in the family tree. Conducted approximately 30 web searches across Steve Morse One Step, Ellis Island Foundation, JewishGen EIDB, FamilySearch, Gesher Galicia, GG Archives, NARA, WikiTree, Geni, and general web sources. **All primary passenger list databases (Ancestry collection 7488, FamilySearch T715, Ellis Island Foundation, JewishGen EIDB, Steve Morse One Step) require login or paid subscription for individual record access.** No actual passenger manifest images were obtained through free web search.
+
+### KEY NEW FINDING: Robert King II, Ship Jupiter, 1770
+
+**Robert King II** (c. 1750, Ireland; d. 1826, Anderson County, SC) emigrated from Ireland to America on the **ship Jupiter from Larne, Ireland in 1770** (WikiTree Dolby-84, Geni King-6000000029309542831; Tier 3, user-contributed). He traveled with his father-in-law Robert King I. The family settled near Belton, Anderson County, SC by 1772. This is the first ship name identified for any immigrant ancestor in the Cox/King/Henderson South Carolina lines. No original passenger list for the Jupiter has been located; Tier 3 attribution only.
+
+### KEY CONFIRMATION: Johann Michael Brecht, Philadelphia, October 1726
+
+Johann Michael Brecht (1706-1794) arrived in Philadelphia in **October 1726** with his mother Anna Catherina Brecht (widow) and brother Stephan, after petitioning to emigrate on **May 6, 1726** from Schriesheim. **No formal passenger list exists**: the Pennsylvania oath lists (Strassburger and Hinke) begin in **1727**.
+
+### Searches Conducted by Immigrant (all dated 2026-04-18)
+
+#### Barnett (Berko) Salmanson, SS Baltic, Dec 23, 1904
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | "Berko Zalmanson" / "Berl Zalmanson" SS Baltic 1904 manifest | NEGATIVE. Ship and route confirmed. No individual record. |
+| 2 | SS Baltic Dec 1904 passenger list (GG Archives) | PARTIAL. GG Archives has RMS Baltic collection. Page returned 403. |
+| 3 | JewishGen EIDB "Zalmanson" / "Salmanson" | NEGATIVE. Database confirmed. Requires direct access. |
+| 4 | "Barnett Salmanson" naturalization Providence RI | NEGATIVE. RI naturalization records 1907-1991 at FamilySearch (collection 2622566), NARA Boston/Waltham confirmed. |
+| 5 | FamilySearch "Barnett Salmanson" / "Berko Zalmanson" | NEGATIVE. No indexed records returned. |
+| 6 | "Barnett/Benjamin Salmanson" WWI draft registration | NEGATIVE for new data. Draft card already in file (Tier 1). |
+
+**Status**: Manifest NOT located. Best next step: FamilySearch collection 2622566 (RI naturalization) or Steve Morse One Step.
+
+#### Elizabeth (Salk) Salmanson, arrived 1897, age ~10
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | "Elizabeth Salk" / "Elizabeth Zalk" passenger manifest 1897 | NEGATIVE. 1897 Ellis Island fire complicates search. FamilySearch "Index to Passengers Lists 1897-1902" confirmed. |
+
+**Status**: Manifest NOT located. Ellis Island fire June 15, 1897 destroyed pre-fire records. Customs Lists survive for pre-fire arrivals.
+
+#### Abraham Salk, arrived ~1894-1898
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | Abraham Salk / Zalk passenger manifest 1894-1896 | NEGATIVE. No individual record found. |
+| 2 | Salk/Zalk immigration Providence RI 1890s | NEGATIVE. Providence port had no 1890s passenger lists. Abraham likely entered via New York. |
+
+**Status**: Manifest NOT located. Search complicated by possible name discrepancy (Hebrew name Moshe, not Abraham).
+
+#### Morris (Mojzesz Majer) Markiel/Markel, arrived ~1928
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | "Markel" / "Markiel" passenger manifest 1927-1929 Poland | NEGATIVE. |
+| 2 | "Morris Markel" naturalization Rhode Island | NEGATIVE. FamilySearch collection 2622566 confirmed. |
+| 3 | "Markel" 1930 census West Warwick RI | NEGATIVE. Requires direct database access. |
+
+**Status**: Manifest NOT located. Morris's naturalization petition is the best alternative.
+
+#### Helen (Dwora Goldbaum/Brand) Markel, arrived ~1928
+
+Would be on same manifest as Morris. Not independently searched.
+
+#### Florence (Sura Feiga) Markel, arrived 1923, ship "The Liberty"
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | "Florence Markel" / "Sura Feiga" passenger manifest 1923 | NEGATIVE. |
+| 2 | "The Liberty" ship 1923 transatlantic passenger | NEGATIVE. No transatlantic vessel named "The Liberty" confirmed for 1923. Ship name likely a family memory error. |
+| 3 | Gesher Galicia Mermelstein family page | Found at geshergalicia.org/families/?id=mermelstein/. Returned 403 on fetch. |
+
+**Status**: Manifest NOT located. Ship name unconfirmed and likely incorrect. Ellis Island database (1892-1924) should contain her record under Yiddish name.
+
+#### Michael Kascher, arrived ~1910s, from Waldhutten, Transylvania
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | "Michael Kascher" immigration Transylvania Youngstown Ohio | NEGATIVE. |
+| 2 | Kascher family Waldhutten immigration Ohio | PARTIAL. Siebenbuerger.de confirms Anna Binder Kascher connection. No passenger list. |
+| 3 | "Michael Kascher" naturalization Mahoning County Ohio | NEGATIVE. Mahoning County Clerk (330-740-2114) holds records. FamilySearch has Ohio Northern District Court records 1916-1931. |
+
+**Status**: Manifest NOT located. Michael married in Beaver, PA May 10, 1913, confirming pre-1913 arrival.
+
+#### Rosina Falk, from Petersdorf, Transylvania
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | "Rosina Falk" / "Rasina Falk" immigration Petersdorf Transylvania | NEGATIVE. |
+
+**Status**: Manifest NOT located. Married Michael Kascher May 10, 1913 in Beaver, PA, so was in America by then.
+
+#### Johann Michael Brecht, arrived October 1726, Philadelphia
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | "Johann Michael Brecht" Philadelphia 1726 Schriesheim Palatinate | POSITIVE. WikiTree Brecht-58 confirms petition May 6, 1726; arrival October 1726. |
+| 2 | PA German Pioneers ship lists pre-1727 | CONFIRMED. Formal oath lists begin 1727. No 1726 list exists. |
+| 3 | Brecht Schriesheim ship name 1726 | NEGATIVE. Ship name not recorded in any consulted source. |
+
+**Status**: Immigration CONFIRMED. No formal passenger list. Ship name unrecoverable.
+
+#### Robert King II (BONUS), arrived 1770, from Ireland
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | "Robert King" immigration Ireland 1770 SC | **POSITIVE (Tier 3).** Ship Jupiter from Larne, Ireland, 1770. Traveled with father-in-law Robert King I. |
+| 2 | "Robert King" ship Jupiter Larne 1770 passenger list | PARTIAL. Ship confirmed. No original passenger list located. |
+
+**Status**: Ship name IDENTIFIED (Jupiter, Larne, 1770). NEW DATA. No passenger list.
+
+### Summary Table
+
+| Immigrant | Ship | Arrival | Manifest? | Next Step |
+|---|---|---|---|---|
+| Barnett Salmanson | SS Baltic | Dec 23, 1904, NY | NO | RI naturalization (FamilySearch 2622566) |
+| Elizabeth Salk | Unknown | 1897, NY | NO | FamilySearch passengers 1897-1902 |
+| Abraham Salk | Unknown | ~1894-96, NY | NO | Steve Morse Gold Form |
+| Morris Markel | Unknown | ~1928, NY | NO | RI naturalization (FamilySearch 2622566) |
+| Helen Markel | Unknown | ~1928 (w/ Morris) | NO | Same as Morris |
+| Florence Markel | "The Liberty" (unconfirmed) | 1923, NY | NO | Steve Morse for Markel female ~14, 1923 |
+| Michael Kascher | Unknown | ~1910-12, NY | NO | Mahoning County naturalization |
+| Rosina Falk | Unknown | ~1910-12 | NO | Search Falk from Austria-Hungary |
+| J.M. Brecht | Unknown (pre-1727) | Oct 1726, Phila. | N/A | Ship name unrecoverable |
+| Robert King II | **Jupiter** | 1770, SC | NO | SC Archives |
+
+### Negative Results (All Logged)
+
+1. No passenger manifest image located for any immigrant through free web search.
+2. No naturalization record document located through free web search.
+3. All primary databases (Ellis Island Foundation, JewishGen EIDB, FamilySearch, Ancestry) require login or subscription.
+4. No ship named "The Liberty" confirmed as a 1923 transatlantic passenger vessel.
+5. No formal passenger list exists for pre-1727 Philadelphia arrivals.
+6. GG Archives SS Baltic page returned 403.
+7. Gesher Galicia Mermelstein family page returned 403.
+
+### Files Updated
+
+- [[Robert_King_II]]: Ship Jupiter from Larne, Ireland, 1770 (NEW DATA)
+- [[Johann_Michael_Brecht]]: Immigration search confirmation
+- [[Barnett_Salmanson]]: Immigration search status update
+- [[Morris_Markel]]: Immigration search status, naturalization references
+- [[Florence_Markel_Mermelstein]]: "The Liberty" ship name analysis
+- [[Michael_Kascher_Transylvania]]: Immigration search status
+- [[Research_Log]]: This entry
+
+---
+
 ## 2026-04-18: Goldbaum Deep Search in Lisko/Lesko Galician Jewish Databases (15 searches)
 
 ### Summary

@@ -38,7 +38,11 @@ William Cox Sr. is the **earliest confirmed ancestor** of the Cox family line. H
 
 He owned 110 acres on Haw River and Cane Creek in Orange County, NC (purchased April 22, 1772; sold October 13, 1787 for 250 pounds). He appears on the 1755 Orange County tax list as one of three William Coxes. He migrated to Greenville County, SC in the late 1780s with intermarried families: Longs, Blacks, Payne/Paines, Lees, Brashiers.
 
-His estate was administered after November 1814. On January 4, 1817, Abraham Cox, Mary Cox, Isaac Cox, Thomas Long, and George Croft sold 155 acres from the estate.
+**IMPORTANT: Granville Land Grant Disambiguation (2026-04-18):** Three Granville grants dated June 11, 1754, totaling 1,440 acres on Deep River in Orange County (Gv40, Gv41, Gv42, surveyed by William Churton) are attributed to a "William Cox" in Orange County. However, these grants are for the DELAWARE Cox family: specifically, they belong to the father of Harmon Cox (1723-1812), a Regulator leader. Harmon Cox's father was William Cox of Delaware (1692-1767), who married Catherine Kinkey. Our William Cox Sr.'s land was on Haw River/Cane Creek (1772 deed), not Deep River. Y-DNA proves no connection between the two families. The Cox Family History Project confirms "no connection between their William Cox and the Quaker Coxes." William Cox Sr.'s origin remains a confirmed brick wall; the project suggests he came from "either another part of North Carolina or Virginia, perhaps England."
+
+**1790 Census, Greenville District SC:** William Cox appears as head of household alongside "Isaac Cocks" (Isaac Cox), with intermarried Brassure, Long, and Lee families also enumerated.
+
+His estate was administered after November 1814. On January 4, 1817, Abraham Cox, Mary Cox, Isaac Cox, Thomas Long, and George Croft sold 155 acres from the estate. Isaac Cox signed with his mark "X" (Deed Book L, recorded January 5, 1822).
 
 ## Document Sources
 
@@ -50,3 +54,6 @@ His estate was administered after November 1814. On January 4, 1817, Abraham Cox
 | 1755 Orange County Tax List | Tax record | NC Digital Collections |
 | FamilyTreeDNA Cox DNA Study | DNA test | R1b-I "Carolina Coxes" |
 | 1814 Estate Records | Legal record | Cox Family History Project |
+| 1790 Federal Census, Greenville District SC | Census record | William Cox head of household |
+| Greenville County Deed Book L (recorded Jan 5, 1822) | Estate deed | 155 acres, Isaac Cox mark "X," witnesses Robert Alexander, JP Benjamin Pollard |
+| Forebears and Kinfolks blog (forebearsandkinfolks.org) | Research compilation | Granville grant analysis (confirms Deep River grants belong to Delaware Cox family, not this William) |

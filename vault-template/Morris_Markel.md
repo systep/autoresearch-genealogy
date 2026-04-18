@@ -59,6 +59,8 @@ The family immigrated to the United States approximately 1928. Evidence: daughte
 
 **Florence (Sura Feiga) Markel's separate arrival (1923):** The Yichus narrative states Florence arrived on a ship called "The Liberty" in 1923. No transatlantic passenger vessel named "The Liberty" has been confirmed for this period. The SS Liberty (1890) was a British railway vessel, not a passenger liner. The ship name may be a family memory error. Florence's 1923 manifest should be searchable in the Ellis Island database (1892-1924 coverage) via Steve Morse One Step or the Ellis Island Foundation.
 
+**Immigration search update (2026-04-18):** Additional systematic search across Steve Morse One Step, JewishGen EIDB, FamilySearch, GG Archives, and NARA confirmed that all databases require login/subscription for individual record access. Morris's **naturalization petition** remains the single best path to locating the manifest. The petition would be in FamilySearch collection 2622566 (Rhode Island Naturalization Records 1907-1991) or at NARA Boston/Waltham. HUMAN ACTION REQUIRED: Search FamilySearch collection 2622566 for Morris Markel / Moishe Markel / Mojzesz Markiel. Also search Ancestry collection 7488 for Markel/Markiel family arriving New York 1926-1930 from Poland.
+
 ### Census Records
 
 **1940 US Census (Tier 1):** Morris Markal [sic], age 48 (b. ~1892), born Poland. Living at 28 Harris Avenue, West Warwick, Kent County, Rhode Island. Same address since 1935. Citizenship status: 4. Wife: Helen Markal, age 43 (b. ~1897). Children in household: Thelma (19), Anne (18), Rita (15), Katherine (14), Harold (8). Enum. District 2-46, Roll m-t0627-03769, Line 77.

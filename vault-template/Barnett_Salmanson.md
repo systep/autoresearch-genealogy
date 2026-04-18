@@ -86,6 +86,17 @@ The SS Baltic immigration claim (MyHeritage, Tier 3) has been partially verified
 3. **WWI Draft Registration Card**: FamilySearch collection 1968530 (free with login). Contains birth date, birthplace, citizenship status, employer, and physical description. Barnett registered in Providence, 1917-1918.
 4. **1920 Census**: Would list year of immigration and naturalization status. Not yet accessed.
 
+### Immigration Search Update (2026-04-18)
+
+A systematic search of free web resources (Steve Morse One Step, JewishGen EIDB, GG Archives, FamilySearch wiki, NARA) was conducted as part of the immigration search protocol (prompts/11-immigration-search.md). **No passenger manifest was located through web search.** All databases require login or paid access for individual record queries. GG Archives has an RMS Baltic archival collection with passenger lists but the page returned 403 on automated access.
+
+**Best remaining paths to locate the manifest:**
+1. **FamilySearch collection 2622566**: Rhode Island Naturalization Records 1907-1991. Barnett's naturalization petition would list ship name, arrival date, and port. Search for Barnett Salmanson, Benjamin Salmanson, or Berko Zalmanson. HUMAN ACTION REQUIRED (free with login).
+2. **Steve Morse One Step** (stevemorse.org/ellis/passengers.php): Search the New York passenger lists using the Gold Form with Daitch-Mokotoff Soundex for Zalmanson variants arriving December 1904. HUMAN ACTION REQUIRED (free, no login).
+3. **JewishGen EIDB** (jewishgen.org/databases/eidb/): Gold Form allows town-of-origin search for Vilna. HUMAN ACTION REQUIRED (free, no login).
+4. **Statue of Liberty Foundation** (statueofliberty.org): Passenger search. HUMAN ACTION REQUIRED (free with registration).
+4. **1920 Census**: Would list year of immigration and naturalization status. Not yet accessed.
+
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |

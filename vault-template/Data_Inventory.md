@@ -32,6 +32,14 @@ Complete inventory of all ancestry-related data assets. Each tagged with source,
 | William Holloway will, 16 Oct 1784, Brunswick County VA Will Book 2 pp. 422-23 | Holloway, Moseley | [[Martha_Patty_Holloway]]; William Moseley Jr. as witness |
 | Marvel Moseley Jr. will, 2 Mar 1752 (proved 20 Mar 1753), Goochland County VA | Moseley | [[Samuel_Moseley]]; names sons William, Samuel, James, Joseph |
 | 1768 Brunswick County VA election poll | Huff | Daniel and William "Hoof" listed |
+| 1790 Federal Census, Greenville District, SC | Cox, Henderson, Brasher, Long | William Cox, "Isaac Cocks," Brassure, Long, Lee families enumerated |
+| Thomas Brasher Sr. will, 17 May 1770 (probated May 1784), Orange Co NC | Brasher | Names sons Thomas, John, Aquilla, James, Samuel; daughters Elizabeth Jones, Sarah Pyle, Hannah Teague, Mary, Cassa, Jean, Rachel; wife Hannah; witness Hans Black |
+| Thomas Levi Brasher Jr. will, 27 Sep 1789 (proved 6 Apr 1790), Greenville Co SC | Brasher | SC Will Book Vol A-B 1787-1820, p. 28; names 5 sons, no daughters; widow Sarah |
+| Argaleus Henderson deed to John Henderson, 9 Nov 1804, Chatham Co NC | Henderson | 150 acres, Meadow Branch/Brookses Creek; proved by John Hackney Sr. |
+| Argaleus Henderson estate inventory, 1806, Chatham Co NC | Henderson | 7 images in probate records |
+| Isaac Cox estate deed, 4 Jan 1817, Greenville Co SC (Deed Book L) | Cox | 155 acres; Abraham Cox, Mary Cox, Isaac Cox, Thomas Long, George Croft |
+| William Cox Sr. Orange Co NC deed, 22 Apr 1772 | Cox | 110 acres, Haw River/Cane Creek, Orange County NC (Deed Book #3, p. 599) |
+| Eli Baldwin deed from John Croft, Sep 1812, Greenville Co SC | Baldwin | 250 acres; Deed Book I, p. 218 |
 
 ### Moderate Reliability (newspaper, secondary sources)
 

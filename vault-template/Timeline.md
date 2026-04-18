@@ -51,6 +51,9 @@ Chronological index of all dated events across the family tree.
 | 1755 | Tax list | William Cox (3 William Coxes) | Orange County, NC | NC Digital Collections |
 | 1760 | Birth | Connie Baker | | WikiTree |
 | 1763 | Birth | Ezekiel Henderson | Chatham County, NC | WikiTree Henderson-1855 |
+| May 1768 | Signed Regulator Advertisement No. 9 | [[Argaleus_Hercules_Henderson]] | Orange County, NC | WikiTree Henderson-7309, NC Colonial Records |
+| 1768 | Election of Burgesses poll | Daniel Huff, William "Hoof" | Brunswick County, VA | WikiTree Huff-1770 |
+| 17 May 1770 | Will written (probated May 1784) | Thomas Brasher Sr. (names sons Thomas, John, Aquilla, James, Samuel; daughters Elizabeth Jones, Sarah Pyle, Hannah Teague, Mary, Cassa, Jean, Rachel) | Orange County, NC | WikiTree Brasher-37, Empty Branches blog |
 | 24 Jun 1762 | Birth | William Thomas Goldsmith Sr. | Richmond, Henrico, VA | WikiTree Goldsmith-699 |
 | c. 1763 | Birth | Philemon Huff | Brunswick, VA | WikiTree Huff-446 |
 | ~1764 | Birth | Elizabeth Brasher | | WikiTree Brasher-153 |
@@ -86,6 +89,8 @@ Chronological index of all dated events across the family tree.
 | c. 1801 | Birth | [[Larkin_Long]] | South Carolina | MyHeritage GEDCOM |
 | 22 Jul 1803 | Birth | [[Lewis_P_Huff]] | Brunswick, VA | WikiTree Huff-1775 |
 | Aug 1801 | Land deed | John Baldwin Sr. to [[Eli_Baldwin]] | Chatham County, NC (Deed Book L, pp. 239-240) | WikiTree Baldwin-2336 |
+| 9 Nov 1804 | Deed to son John (150 acres, Meadow Branch/Brookses Creek) | [[Argaleus_Hercules_Henderson]] | Chatham County, NC | Chatham County deed, proved by John Hackney Sr. |
+| 1806 | Estate inventory (7 images) | [[Argaleus_Hercules_Henderson]] | Chatham County, NC | Chatham County probate records |
 | 5 Mar 1801 | Birth | [[Jeddiah_W_Clark]] | South Carolina | GEDCOM |
 | Nov 1802 | Land deed | [[Eli_Baldwin]] to William Baldwin | Chatham County, NC | WikiTree Baldwin-2330 |
 | 1804 | Death | Molly Mary Clark Henderson | North Carolina | WikiTree, Geni |

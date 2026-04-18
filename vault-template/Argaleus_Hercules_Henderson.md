@@ -41,7 +41,9 @@ He married **Molly Mary Clark** (1722-1804).
 
 **Property:** Argaleus owned land on the south side of the Haw River. In 1778, he acquired 100 acres at the mouth of Berry Branch in Chatham County (Chatham County Deed Book B, p. 128).
 
-His will was dated **September 6, 1804**, Chatham County, North Carolina.
+His will was dated **September 6, 1804**, Chatham County, North Carolina. Subsequently, on **November 9, 1804**, Argaleus executed a deed to his son **John Henderson**, conveying the house and plantation where John resided, described as being on the east side of Meadow Branch on the north side of Brookses Creek, estimated at 150 acres. The deed was proved in open court at Chatham County November Sessions 1804 by the oath of John Hackney Sr., a subscribing witness. This suggests Argaleus may have left John out of his original will and used this deed to provide for him separately.
+
+The **estate inventory of Argaleus Henderson** was completed in 1806, with seven images of the probate contents available for review (Chatham County probate records).
 
 His son **Ezekiel Henderson** (1763-1846) served in the Revolutionary War (private, 1781-1783, cavalry and infantry, pension S6994) and moved to Greenville County, South Carolina after the war. Ezekiel married Elizabeth Brasher (October 10, 1782) and had 15 children, including Brashier Henderson (1790-1847, father of Rev. Henry L. Henderson) and Olive Mary "Polly" Henderson (1795-1876, who married Thomas B. Cox). Through these two children and their descendants' first cousin marriage, the Henderson line connects to the Cox, Long, Bright, Kascher, and Salmanson families.
 
@@ -56,6 +58,8 @@ His son **Ezekiel Henderson** (1763-1846) served in the Revolutionary War (priva
 | NC Colonial Records | Government records | Regulator Advertisement No. 9 |
 | Chatham County Deed Book B, p. 128 | Property record | 100 acres at mouth of Berry Branch, 1778 |
 | Will dated September 6, 1804, Chatham County, NC | Legal document | Estate disposition |
+| Deed to John Henderson, November 9, 1804, Chatham County, NC | Property deed | 150 acres, Meadow Branch/Brookses Creek; proved by John Hackney Sr. |
+| Estate inventory, 1806, Chatham County, NC | Probate record | 7 images available |
 
 ## Data Discrepancies
 

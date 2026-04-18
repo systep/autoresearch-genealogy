@@ -36,7 +36,9 @@ Florence (Sura Feiga) Markel Mermelstein was born on **May 15, 1909** and died o
 
 ### Immigration
 
-In **1923**, Florence arrived alone in the United States on the ship **"The Liberty"** (Yichus narrative, Tier 2). She was approximately 14 years old at the time of her immigration. A ticket had also been purchased for her sister Hannah, but Hannah refused to leave because she was engaged to be married (Yichus narrative, Tier 2).
+In **1923**, Florence arrived alone in the United States on a ship the family remembered as **"The Liberty"** (Yichus narrative, Tier 2). She was approximately 14 years old at the time of her immigration. A ticket had also been purchased for her sister Hannah, but Hannah refused to leave because she was engaged to be married (Yichus narrative, Tier 2).
+
+**Ship name analysis (2026-04-18):** No transatlantic passenger vessel named "The Liberty" has been confirmed for 1923. The SS Liberty (1890) was a British railway vessel, not a transatlantic liner. The name is likely a family memory error. Florence's 1923 arrival falls within the Ellis Island database coverage (1892-1924) and her manifest should be searchable via Steve Morse One Step or the Ellis Island Foundation under her Yiddish name "Sura Feiga Markel" or a variant. HUMAN ACTION REQUIRED: Search the Ellis Island database for a Markel female aged approximately 14 arriving in 1923 from Poland/Galicia.
 
 ### Marriage and Family
 

@@ -260,7 +260,10 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 **William Cox Sr.** (c.1726 - c.1814) (strong)
 - Moved from Orange County, North Carolina to Greenville County, SC in the late 1780s
 - Migrated with intermarried families: **Longs**, Blacks, Payne/Paines, Lees, Brashiers/Brazures
-- Sources: WikiTree Cox-14022, Cox Family History Project
+- 1755 Orange Co NC tax list (one of three William Coxes). 1772 deed: 110 acres on Haw River/Cane Creek. 1787 sold for 250 pounds.
+- 1790 Census Greenville District: enumerated as head of household alongside "Isaac Cocks" and Brassure, Long, Lee families
+- **Origin is a confirmed brick wall.** Y-DNA R1b-I "Carolina Coxes" proves NO connection to Delaware Cox family (Harmon Cox/William Richardson Cox). Cox Family History Project: "either another part of North Carolina or Virginia, perhaps England."
+- Sources: WikiTree Cox-14022, Cox Family History Project, FamilyTreeDNA Cox DNA Study
 
 **William Cox Jr.** (d. 1798) (strong)
 - Son of William Cox Sr.

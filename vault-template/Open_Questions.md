@@ -5,6 +5,18 @@ updated: 2026-04-18
 tags: [genealogy, research, open-questions]
 ---
 
+## 2026-04-18 session updates (Colonial Records Search)
+
+- **OQ #13 (Elizabeth Brasher's parentage): UPDATED.** Thomas Brasher Sr.'s 1770 will (Orange Co NC) confirmed as naming married daughters with shilling bequests (Elizabeth Jones, Sarah Pyle, Hannah Teague), establishing the family practice of excluding already-married daughters from substantive inheritance. This further supports the argument that Thomas Levi Jr.'s 1789 will excluding daughters was customary, not evidence against Elizabeth's parentage. Confidence remains MODERATE SIGNAL.
+- **OQ #19 (Daniel Huff parentage): NO NEW DATA.** Existing records confirmed (1753 grant, 1773 will, 1768 poll). Brunswick County VA election poll lists both Daniel and William "Hoof," confirming they were contemporaries. Connection to Bucks County Houghs remains unproven.
+- **OQ #20 (William Thomas Long death date): NO NEW DATA.** No Find a Grave memorial located. Headstone vs pedigree chart discrepancy (1887 vs 1897) unresolved.
+- **OQ #22 (Clementine Long): NO NEW DATA.** No WikiTree profile for Larkin Long found.
+- **William Cox Sr. origin brick wall CONFIRMED**: Y-DNA and Cox Family History Project confirm NO connection to Delaware Cox family. Harmon Cox (1723-1812, Regulator leader) was son of Delaware William Cox. Our William Cox Sr. on Haw River/Cane Creek, not Deep River. Origin "another part of NC, Virginia, or England."
+- **Argaleus Henderson colonial records: SUBSTANTIALLY ADVANCED.** 1768 Regulators signer, 1804 deed to son John (150 acres, Chatham Co NC), 1806 estate inventory (7 images in probate).
+- **Fork Shoals Baptist Church records 1813-1899**: Digitized at SC Digital Library. Potential source for Henderson, Cox, and Long family records.
+- **SC Archives State Plats 1784-1868**: Now online at archivesindex.sc.gov. 51,055 images. HUMAN ACTION REQUIRED to search for Cox, Henderson, Baldwin, Brasher, and Long plats.
+- **NEW: Sarah Elizabeth Clark Cox** (1836-1879) confirmed at Standing Springs Cemetery (Find a Grave #8304975), confirming Clark-Cox intermarriage.
+
 ## 2026-04-18 session updates (Goldbaum Lisko deep search)
 
 - **OQ #21 (Helen Brandt's parents): UPDATED.** 15 targeted Lisko-focused searches found no Goldbaum individual from Lesko in any database. Goldbaum NOT listed among known Lesko families on Geni (#28979). Lesko Yizkor Book necrology (pp. 467-489) and JewishGen Yizkor Necrology Database are the highest priority next steps. All database pages returned 403 on automated access.

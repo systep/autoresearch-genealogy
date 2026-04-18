@@ -37,7 +37,9 @@ Isaac married **Mary Middleton** around 1776 in Greenville County, South Carolin
 
 In 1787, Isaac migrated with his father William Cox Sr. from Orange County, North Carolina to Greenville County, South Carolina. The Cox family traveled with intermarried families including the Longs, Blacks, Paynes, Lees, and Brashiers. William Sr. sold his NC land on October 13, 1787 to John Millison for 250 pounds.
 
-Isaac appears in his father's estate records: the January 4, 1817 sale of 155 acres following William Sr.'s November 1814 death lists Abraham Cox, Mary Cox, Isaac Cox, Thomas Long, and George Croft.
+**1790 Census, Greenville District, SC:** Isaac appears as "Isaac Cocks" in the 1790 federal census of Greenville District. Other intermarried families enumerated include William Brassure, James Brasure, Thomas Long, and Frances Lee, confirming the migration cluster from Orange County, NC.
+
+Isaac appears in his father's estate records: the January 4, 1817 sale of 155 acres following William Sr.'s November 1814 death lists Abraham Cox, Mary Cox, Isaac Cox, Thomas Long, and George Croft. Isaac signed with his mark "X" (indicating he could not write). The deed was recorded January 5, 1822 in Deed Book L, witnessed by Robert Alexander before Justice of the Peace Benjamin Pollard.
 
 **Children of Isaac Cox and Mary Middleton:**
 - **James Cox** (c. 1778-1853): married Dianah/Diana Black (b. 1784, NC; d. Jan 7, 1865). Standing Springs Baptist Church was organized in 1818 in James's home; he donated land for the first meeting house c. 1836.
