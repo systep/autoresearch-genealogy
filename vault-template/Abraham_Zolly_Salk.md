@@ -141,7 +141,7 @@ Abraham Salk's family is associated with **Lincoln Park Cemetery**, while Harvey
 | Document | Type | Vault Note |
 |---|---|---|
 | MyHeritage family tree (multiple Smart Matches) | Family tree database (Tier 3, unverified) | MyHeritage |
-| 1910 US Census (Providence Ward 3, RI) | Census record (Tier 1, inferred) | Head of household |
+| 1910 US Census (Providence Ward 3, RI) | Census record (Tier 1, NOT FOUND) | Searched 2026-04-18: 10 web searches across variant spellings (Salk, Zalk, Sulk, Selk), wife's name (Tobey/Theresa), family proxies (Nathan Fain, Barnett Salmanson). Record not locatable via free web search. HUMAN ACTION REQUIRED: search FamilySearch (login), Ancestry (paid), Steve Morse ED Finder, or RIHS CD-ROM. Also try "Moses Salk" per Hebrew name question. |
 | 1920 US Census (Providence Ward 3, RI) | Census record (Tier 1, inferred) | Head of household |
 | 1930 US Census (Providence, RI) | Census record (Tier 1) | Elizabeth listed; parents' birthplace "Poland" |
 | Elizabeth Salmanson headstone, BillionGraves, Lincoln Park Cemetery | Headstone (Tier 1) | Hebrew inscription: "Hilda bat Moshe"; father's Hebrew name may be Moshe, not Avraham |

@@ -3491,3 +3491,62 @@ For the 1910 search, try both Providence, RI and Kings County (Brooklyn), NY.
 
 ### Files Updated
 - [[Barnett_Salmanson]], [[Research_Log]], [[timeline_gaps]]
+
+---
+
+## 2026-04-18: Abraham Salk 1910 Census Search (Providence Ward 3, RI), 10 searches
+
+### Summary
+
+Searched for Abraham Salk's household in the 1910 US Federal Census, Providence Ward 3, Rhode Island. This was identified as a CRITICAL census gap. 10 web searches conducted across FamilySearch, Ancestry indexes, NARA, Steve Morse, variant spellings, and family member proxy searches. **No individual census record located.** All census record databases require login or paid subscription for individual name queries.
+
+### Searches Conducted
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | "Abraham Salk" 1910 Census Providence Rhode Island | NEGATIVE. General census resource pages only. |
+| 2 | "Salk" 1910 Census Providence Ward 3 Rhode Island | NEGATIVE. General resource pages only. |
+| 3 | "Abraham Zalk" OR "Abraham Sulk" OR "Abraham Selk" 1910 Census RI (variant spellings) | NEGATIVE. No indexed records for any variant. |
+| 4 | Tobey Salk / Theresa Salk / Toby Salk 1910 Census Providence (wife search) | NEGATIVE. Found Morton Salk, Ester Salk (b. ~1888, Russia), Burton Salk, Max Salk in 1940 Census snippets. No 1910 results. |
+| 5 | site:familysearch.org "Abraham Salk" 1910 Census Providence | NEGATIVE. Zero results. |
+| 6 | Providence Ward 3 1910 Census enumeration district Chalkstone Avenue | INFORMATIONAL. Steve Morse ED Finder exists. NARA T1224 has ED descriptions. No direct ED obtained. |
+| 7 | stevemorse.org 1910 ED Finder Providence RI Ward 3 | INFORMATIONAL. Tool requires interactive use. 403 on page fetch. |
+| 8 | "Abraham Salk" OR "A Salk" Providence 1910 junk peddler | NEGATIVE. No individual records in free results. |
+| 9 | "Nathan Fain" OR "Barnett Salmanson" 1910 Census Providence (family proxy) | NEGATIVE. No indexed records via web search. |
+| 10 | "Abraham Salk" Rhode Island 1915 state census OR 1900 census OR naturalization | NEGATIVE. Found RI 1915 state census on FamilySearch (collection 1532188). No individual result. |
+
+### Contextual Findings
+
+1. **Providence Jewish neighborhoods in 1910**: The North End (near Chalkstone Avenue) and South Providence were the two major centers of Jewish life. A public bathhouse on Quaid Street indicates an established immigrant community in Abraham's Ward 3 neighborhood.
+2. **1910 Census microfilm**: NARA T624 (1,784 rolls). Rhode Island rolls cover Providence County. ED descriptions on T1224.
+3. **Rhode Island Historical Society**: 1910 Census index on CD-ROM, searchable by surname. RIHS Reading Room, 121 Hope Street, Providence.
+4. **Rhode Island 1915 State Census**: FamilySearch collection 1532188. Lists residents as of April 15, 1915. Independent data point between 1910 and 1920 federal censuses.
+5. **Other Providence Salk family in 1940 Census**: Ester Salk (b. ~1888, Russia, Providence), Morton Salk, Burton Salk, Max Salk. Likely Hyman Salk hardware store family; relationship to Abraham unconfirmed.
+
+### Analysis: Why the Record Was Not Found
+
+1. **Behind paywall**: Ancestry.com and FamilySearch (login required) have indexed 1910 Census records. The record likely exists but is not surfaced by web search.
+2. **Mistranscribed name**: Abraham was illiterate. The enumerator recorded a phonetic rendering, and indexers may have transcribed it as Zalk, Sulk, Selk, Szalk, Solk, or something unrecognizable.
+3. **Different first name**: If Abraham's Hebrew name was Moshe (per Elizabeth's headstone), he may appear as "Moses Salk" or "Moses Zalk."
+4. **Different address in 1910**: The family may not yet have lived at 60 Chalkstone Avenue. Elizabeth married Barnett Salmanson in September 1909; the household composition was changing.
+5. **Enumeration missed**: Some households were missed, though less likely.
+
+### Negative Results
+
+1. No 1910 Census record for Abraham Salk (any spelling variant) found via free web search.
+2. No 1910 Census record for Tobey/Theresa Salk found via free web search.
+3. No 1910 Census record for Nathan Fain or Barnett Salmanson found via free web search (family proxy).
+4. No Providence city directory entry for Abraham Salk found online.
+5. No naturalization record for Abraham Salk found online.
+
+### Priority Actions (HUMAN ACTION REQUIRED)
+
+1. **FamilySearch 1910 Census (FREE with login)**: Search familysearch.org for Abraham Salk, Abram Salk, Moses Salk, Abraham Zalk, Moses Zalk in Providence, Rhode Island. Try broad searches: first name only + Rhode Island. Collection: "United States Census, 1910."
+2. **FamilySearch 1915 RI State Census (FREE with login)**: Search collection 1532188 for Salk/Zalk in Providence. This captures the household between 1910 and 1920.
+3. **Steve Morse One-Step ED Finder (FREE, no login)**: stevemorse.org/census/unified.html?year=1910. Enter Providence, Rhode Island, Ward 3 to identify enumeration district(s) covering Chalkstone Avenue area. Then browse those EDs page by page on FamilySearch.
+4. **Ancestry.com 1910 Census (PAID)**: Search with Soundex/phonetic matching. Try: Abraham Salk, Abram Salk, Moses Salk, Abraham Zalk, Abram Zalk, A. Salk. Location: Providence, Providence County, Rhode Island. Also try RI statewide. Collection 7884.
+5. **RIHS Reading Room (IN-PERSON)**: 1910 Census index on CD-ROM, searchable by surname. Rhode Island Historical Society, 121 Hope Street, Providence.
+6. **Try "Moses Salk" as search name**: The Hebrew inscription on Elizabeth's headstone reads "Hilda bat Moshe," suggesting Abraham's Hebrew name may have been Moshe/Moses. Census enumerators sometimes recorded Hebrew or Yiddish names.
+
+### Files Updated
+- [[Abraham_Zolly_Salk]], [[Research_Log]], [[timeline_gaps]]
