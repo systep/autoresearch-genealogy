@@ -2,13 +2,75 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-18
-last_session: "2026-04-18 Dwora Goldbaum/Brand identity analysis: confirmed as Helen Brandt Markel; origin corrected from Tarnopol to Lisko"
+last_session: "2026-04-18 Goldbaum deep search in Lisko/Lesko Galician Jewish databases (15 searches): no Goldbaum from Lesko found in any database"
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-18: Goldbaum Deep Search in Lisko/Lesko Galician Jewish Databases (15 searches)
+
+### Summary
+
+Systematic search for ANY Goldbaum connected to the Brandt family or to the Sambor/Tarnopol/Lisko region across all available Galician Jewish databases, immigration records, Holocaust databases, Yizkor books, and Geni genealogy projects. **No Goldbaum individual from Lesko/Lisko was found in any database.** All major database pages (JewishGen, Gesher Galicia, JRI-Poland, Yad Vashem, USHMM, Geni) returned 403 on automated access, requiring human browser-based searches.
+
+### Context
+
+The 1919 AGAD marriage record (Fond 424, File 212) names "Brancia GOLDBAUM" of Lisko as mother of the bride Dwora, and "Józef BRAND" of Lisko as father. This Tier 1 record places the Goldbaum/Brand family firmly in Lisko (Lesko), Sanok district. This session attempted to find ANY additional Goldbaum or Brand records from the Lesko area.
+
+### Searches Conducted (15 searches)
+
+| # | Query/Source | Result |
+|---|---|---|
+| 1 | Goldbaum in Lisko/Lesko Jewish records (JewishGen, Gesher Galicia, JRI-Poland, FamilySearch) | PARTIAL. Lesko has Gesher Galicia town page (12 FamilyFinder entries), JRI-Poland town page with surname list, Sanok sub-archive records. All 403. |
+| 2 | Goldbaum + Brand/Brandt in Galicia marriage records | NEGATIVE. No specific marriage record. WMJGS confirms most Galician Jews had religious marriages only. |
+| 3 | Yad Vashem: Goldbaum from Lesko/Lisko | NEGATIVE (403 on all access). |
+| 4 | Yad Vashem: Brand/Brandt from Lesko/Lisko | NEGATIVE (403 on all access). |
+| 5 | Lesko/Lisko Jewish community history and family names | POSITIVE. Population 2,400 (1921, 63%). Cemetery 2,000+ headstones. 3,000 residents on murder list in former synagogue. |
+| 6 | Lesko Yizkor Book Goldbaum/Brandt entries | POSITIVE (structure). Necrology pp. 467-489 translated by JewishGen. All pages 403. |
+| 7 | JewishGen Goldbaum in Lesko/Lisko district | NEGATIVE (403 on necrology database). |
+| 8 | "Dwora Goldbaum" specifically | NEGATIVE. No results in any database. |
+| 9 | Goldbaum immigration to Rhode Island or New York | NEGATIVE. Consistent with Brina never emigrating. |
+| 10 | Geni: Goldbaum families in Lisko/Lesko area | PARTIAL. Geni project #28979 "Jewish Families from Lesko" lists Goldstoff, Heller, Rand, Schechter, Taub. **Goldbaum NOT listed.** |
+| 11 | "Helen" as Americanization of "Dwora" | CONFIRMED PLAUSIBLE. No fixed rules; atypical but within norms. |
+| 12 | Brand/Brandt families in Lisko/Lesko | PARTIAL. Gesher Galicia Brandt families page confirmed. No specific individuals from Lesko. |
+| 13 | Gesher Galicia / All Galicia Database for Lesko records | PARTIAL. 900,000+ records, Lesko included. All 403. |
+| 14 | Goldbaum-Brandt marriage in Galician records | NEGATIVE. AGAD Fond 300, Sanok sub-archive are repositories. |
+| 15 | Lesko Jewish cemetery documentation | PARTIAL. 2,000+ headstones. No Goldbaum/Brand identified. |
+
+### Key Findings
+
+1. **Goldbaum NOT listed among documented Lesko Jewish families on Geni** (project #28979). Documented families: Goldstoff, Heller, Rand, Schechter, Taub.
+2. **Lesko Yizkor Book necrology (pp. 467-489)** is the single most accessible check for Brina Goldbaum's fate. Translated by JewishGen, blocked on automated access. HUMAN ACTION REQUIRED.
+3. **JewishGen Yizkor Necrology Database** is searchable by surname and would show Goldbaum across ALL indexed Yizkor books. HUMAN ACTION REQUIRED.
+4. **3,000 murdered residents list displayed in former Lesko synagogue** could contain Goldbaum/Brand names.
+5. **Sanok sub-archive** (AP Rzeszow, Oddzial Sanoku) holds Lesko Jewish vital records.
+6. **Dwora-to-Helen name Americanization**: Confirmed atypical but plausible. No fixed equivalents existed.
+7. **All Galicia Database**: Lesko is included in 900,000+ records. Free, no login. HUMAN ACTION REQUIRED.
+
+### Negative Results (All Logged)
+
+1. No Goldbaum individual from Lesko/Lisko found in ANY database.
+2. No Brand/Brandt individual from Lesko/Lisko found in ANY database.
+3. No Goldbaum-Brand/Brandt marriage record found.
+4. No "Dwora Goldbaum" found in any database.
+5. No Goldbaum immigration to Rhode Island or New York found.
+6. No Goldbaum in Yad Vashem or USHMM web snippets for Lesko.
+7. Goldbaum NOT listed among documented Lesko families on Geni.
+8. All database pages returned 403 on automated fetch.
+
+### Files Updated
+
+- [[Brina_Goldbaum]]: Added full session log and revised research leads
+- [[Helen_Brandt]]: Added summary of session findings
+- [[Joseph_Brandt]]: Added summary of session findings
+- [[Mojzesz_Majer_Markiel]]: Added cross-reference note
+- [[Research_Log]]: This entry
+- [[Open_Questions]]: Updated relevant questions
+
+---
 
 ## 2026-04-18: Dwora Goldbaum/Brand Identity Analysis (15 searches)
 

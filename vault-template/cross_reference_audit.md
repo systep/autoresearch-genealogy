@@ -1,7 +1,7 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-14
+updated: 2026-04-18
 tags: [genealogy, audit, cross-reference]
 ---
 
@@ -38,7 +38,7 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 | 14 | Arguless (charter member) | surname | "Arguless Henderson" (Family_Tree.md) | hmdb.org: "Arguless, Elizabeth and Rachel Henderson" -- comma placement ambiguous | **Surname uncertain** -- "Arguless" may not be a Henderson; could be separate person | Historical marker (primary) | **RESOLVED: Noted as ambiguous in Family_Tree.md** |
 | 15 | Ezekiel Henderson / Elizabeth Brasher | marriage_date_and_location | "October 10, 1782, Greenville, SC" (WikiTree Henderson-1855, Geni, Family_Tree.md) | "October 17, 1782, Chatham County, NC" (WikiTree Brasher-122) | **Chatham County, NC more likely**: (a) Greenville County did not exist until 1786; (b) Brasher family in Chatham Co. 1782 (land grants Oct 23, 1782); (c) Pension says Ezekiel "moved into South Carolina shortly after the Revolutionary War." Oct 10 vs. Oct 17 date unresolved. | WikiTree (Tier 3) vs. WikiTree (Tier 3); pension declaration (Tier 1) supports NC. | OPEN: Chatham Co. NC favored over Greenville SC on geographic and chronological grounds. Marriage bond in FamilySearch catalog 191194 could resolve. Added 2026-04-14. |
 | 16 | George Michael Bright Jr. | marriage_date | "18 Sep 1891" (MyHeritage pedigree chart, page 4) | "Marriage Date: 18 Sep 1892" (Mississippi Marriages 1826-1900, cited ON the same pedigree chart page) | **One year discrepancy from same source page.** The MS Marriages database record (Tier 2) says 1892; the chart heading says 1891. 1892 is from the indexed record. | Pedigree chart (Tier 3) vs. Mississippi Marriages index (Tier 2) | OPEN: 1892 preferred (Tier 2 source). Added 2026-04-14. |
-| 17 | Albert Graham Bright | marriage_date | "2 Sep 1920" (MyHeritage pedigree chart, page 1) | "September 2, 1928" (vault transcription of handwritten chart IMG_0783) | **1920 strongly preferred**: daughter Mary Elizabeth born June 5, 1921 (9 months after Sep 1920 marriage). A 1928 date means she was born 7 years before the marriage. The "2" in "1920" likely misread as "8" on the handwritten chart. | Pedigree chart (Tier 3) vs. handwritten chart (Tier 3, ambiguous handwriting) | LIKELY RESOLVED: 1920 is correct. Added 2026-04-14. |
+| 17 | Albert Graham Bright | marriage_date | "2 Sep 1920" (MyHeritage pedigree chart, page 1) | "September 2, 1928" (vault transcription of handwritten chart IMG_0783) | **1920 is correct**: daughter Mary Elizabeth born June 5, 1921 (9 months after Sep 1920 marriage). A 1928 date means she was born 7 years before the marriage. The "2" in "1920" likely misread as "8" on the handwritten chart. | Pedigree chart (Tier 3) vs. handwritten chart (Tier 3, ambiguous handwriting) | **RESOLVED 2026-04-18: Fixed Family_Tree.md and Rebecca_Moseley_Long.md.** See also Discrepancy #33. |
 | 18 | Markel children | birth_order | Vault (pre-2026-04-14): 1. Minnie, 2. Avraham Chaim, 3. Masha, 4. Morris, 5. Sarah, 6. Hannah, 7. Florence, 8. Pessel | Yichus narrative (pages 6-8, Tier 2): 1. Freitca Miritza (Minnie), 2. Mashe (Masha), 3. Moishe Myer (Morris), 4. Tsirl (Sarah), 5. Avraham Chaim, 6. Hannah, 7. Sura Feiga (Florence), 8. Pessel (Peggy) | **Yichus order is authoritative**: Avraham Chaim is 5th not 2nd; Masha, Morris, Sarah moved up. | Yichus narrative by Ruth Gold (Tier 2) | **RESOLVED 2026-04-14**: All 10 vault person files and Family_Tree corrected. |
 | 19 | Feiga Frei Karp | children | Earlier vault: Nissan, Abraham, Frieda (3 children) | Yichus typed listing page 10 (Tier 2): Abraham Karp is Joseph Karp's younger brother, not a child. Friedelle (not Frieda) is the daughter's formal name. | **Corrected**: Children are Nissan and Friedelle (Frieda). Abraham Karp was misidentified as a child; he is Joseph's brother. | Yichus page 10 (Tier 2) | **RESOLVED 2026-04-14**: Feiga_Frei_Karp.md corrected. |
 | 18 | Albert Graham Bright | birth_date_month | "19 Apr 1893" (MyHeritage pedigree chart) | "Aug 19, 1893" (George_Michael_Bright.md, handwritten chart) | Day (19th) is consistent; month differs (April vs August). Could be a month/day format confusion. | Both Tier 3 | OPEN: Primary source needed. Added 2026-04-14. |
@@ -55,6 +55,11 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 | 30 | Markel siblings | death_location | "Rodzinka Forest" (Yichus narrative, Tier 2) | Documented execution site near Sambor was Radlowicze (Radlovitze, now Ralivka). "Rodzinka" does not appear in any historical source. | **OPEN: "Rodzinka" may be a garbled version of "Radlowicze."** Both are forests near Sambor. | Historical record (Tier 2) | OPEN: Toponymic analysis or additional testimony needed. Added 2026-04-17. |
 | 31 | Markel siblings | perpetrators | "Polish Cossacks" (Yichus narrative, Tier 2) | Documented perpetrators in Sambor area: Wehrmacht (Sept 1939), Ukrainian nationalists (July 1941), German SS/police + Ukrainian auxiliary police (1942-1943). No "Polish Cossacks." | **OPEN: "Polish Cossacks" is historically anachronistic.** Most likely German SS/police and Ukrainian Hilfspolizei. | Historical record (Tier 2) | OPEN: Term may be family shorthand for irregular forces. Added 2026-04-17. |
 | 32 | Renya Tzoar | survival_method | "Hidden in a convent" (Yichus narrative, Tier 2) | Evacuated to sanatorium then collective farm near Kuybyshev, Soviet Union; housed in convent AFTER returning to Poland post-war (USHMM irn619016, Tier 2) | **RESOLVED: Yichus conflated wartime evacuation with post-war convent.** During the war, Renya was in Soviet territory; convent came later. | USHMM oral history (Tier 2) supersedes Yichus (Tier 2) as first-person testimony vs. family retelling. | RESOLVED: See [[Frieda_Karp_Weidenfeld]]. Added 2026-04-17. |
+| 33 | Rebecca Moseley Long / Albert Graham Bright | marriage_date | "September 2, 1928" (Family_Tree.md, Rebecca_Moseley_Long.md, handwritten chart IMG_0783) | "September 2, 1920" (MyHeritage pedigree chart, Albert_Graham_Bright.md) | **1920 is correct.** Daughter Mary Elizabeth born June 5, 1921 (9 months after Sep 1920 marriage). A 1928 date means she was born 7 years before the marriage. The "2" in "1920" was likely misread as "8" on the handwritten chart. | MyHeritage pedigree chart (Tier 3) vs handwritten chart (Tier 3, ambiguous). Chronological logic confirms 1920. | **RESOLVED 2026-04-18: Fixed Family_Tree.md and Rebecca_Moseley_Long.md.** |
+| 34 | Anna Barbara Wolpack | birth_year | 1559 (GEDCOM, Tier 3) | Husband Christoph Stoffel Brecht born 1591; death 23 Dec 1683 | **~1599.** The GEDCOM's "1559" is a transposition error (decade digit 5 and 9 swapped). A 1559 birth creates an impossible 124-year lifespan and makes her 32 years older than her husband. Born ~1599: age ~84 at death (plausible), 8 years older than husband (plausible), first child 1616 at age ~17 (plausible). | GEDCOM (Tier 3); chronological impossibility analysis | **RESOLVED 2026-04-18: Corrected to ~1599 in Anna_Barbara_Wolpack.md.** |
+| 35 | Michael Kascher (Transylvania) | father_spouse | "married Sara Schuller? or Anna Binder?" (Michael_Kascher_Transylvania.md) | Church certificate "KINDER" (Tier 1): married Anna Binder (1868-1915). Stephania Benning (GEDCOM: "Sara Schuller") was Michael Sr.'s mother, not wife. | **Anna Binder is correct.** The "Sara Schuller?" confusion arose from conflating generations: Stephania Benning was Michael I's wife (d. 1876), and Anna Binder was Michael Sr.'s wife (married 1888). | Church certificate "KINDER" (Tier 1) | **RESOLVED 2026-04-18: Fixed Michael_Kascher_Transylvania.md.** |
+| 36 | Louis Elizar Salk | existence_confirmation | GEDCOM only (Tier 3) | **Abraham Salk death certificate No. 584/226, 1925 (Tier 1)**: father listed as "Louis Salk, born Russia" | **Confirmed at Tier 1.** Louis Salk's existence as Abraham's father is now corroborated by a primary source. Birthplace "Russia" on death cert vs "Lithuania" in GEDCOM: not contradictory (Lithuania was within the Russian Empire). | Death certificate (Tier 1) confirms GEDCOM (Tier 3) | **RESOLVED 2026-04-18: Updated Louis_Elizar_Salk.md with Tier 1 confirmation.** |
+| 37 | Leonhard Schuller | descendant_name | "Stephania Benning/Sara Schuller" (plain text, not wikilinked) | Should use corrected display name per Discrepancy #19 | **Stephania Benning** is the Tier 1 name. | Church certificate "VATER" (Tier 1) | **RESOLVED 2026-04-18: Updated Leonhard_Schuller.md wikilink.** |
 
 ---
 
@@ -185,6 +190,56 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 - First pastor Rev. Nathan Berry -- hmdb.org ✓
 - Organized 1818 as arm of Fork Shoals Baptist Church -- hmdb.org ✓
 
+### 2026-04-18 Cross-Reference Audit Session
+
+**Scope:** Focused audit on five high-risk areas: (1) Bright marriage date, (2) Wolpack birth year, (3) Markel line AGAD data, (4) Salk line birth year/father, (5) Sara Schuller references.
+
+**Bright Line:**
+- Rebecca_Moseley_Long.md: marriage date was "September 2, 1928" (from handwritten chart). Corrected to **September 2, 1920** (MyHeritage pedigree chart; confirmed by daughter Mary Elizabeth's June 5, 1921 birth). → Discrepancy #33 RESOLVED
+- Family_Tree.md: same date corrected from 1928 to 1920.
+- Albert_Graham_Bright.md: already had correct date (1920). No change needed.
+- Albert Graham Bright birth month: April 19 (MyHeritage) vs August 19 (handwritten chart). Both Tier 3. → Discrepancy #18 (existing) remains OPEN.
+
+**Brecht/Wolpack Line:**
+- Anna_Barbara_Wolpack.md: birth year "1559" (GEDCOM) corrected to **~1599**. The 1559 date creates a 124-year lifespan and makes her 32 years older than husband (b. 1591). Transposition error in GEDCOM. → Discrepancy #34 RESOLVED
+
+**Markel Line (AGAD data):**
+- Family_Tree.md: already correctly records "[civil marriage registration 21 AUG 1894, Sambor; religious marriage 1878 per Yichus]". No mismatch.
+- Heschel_Herman_Markel.md: marriage data consistent with Family_Tree.md. Discrepancy between 1878 (Yichus) and 1894 (AGAD) correctly documented as religious vs civil registration.
+- Dov_Markel.md: correctly identifies "Mordko Ber MARKIEL" per AGAD. Consistent with Family_Tree.md.
+- Mojzesz_Majer_Markiel listed as 9th child in both Family_Tree.md and Heschel_Herman_Markel.md. ✓
+- Morris_Markel.md: birth order (child #3) consistent with Yichus and Family_Tree.md. ✓
+
+**Salk Line:**
+- Abraham_Zolly_Salk.md: correctly states born ~1859-1860 (death cert age 65, Tier 1). GEDCOM's ~1840 explicitly flagged as 20-year error. ✓
+- Father Louis Salk confirmed at Tier 1 by death certificate. Louis_Elizar_Salk.md updated with this confirmation. → Discrepancy #36 RESOLVED
+- Family_Tree.md: does not assert Abraham's birth year (only death date). No mismatch.
+- Barnett birth year: 1883 (headstone, Tier 1) vs 1885 (draft card, Tier 1). Two Tier 1 sources conflict. Already documented in Barnett_Salmanson.md. OPEN (existing).
+- Barnett Hebrew name "Dov Ber": consistently recorded across Barnett_Salmanson.md and headstone inscription. ✓
+
+**Sara Schuller / Stephania Benning References:**
+- Sara_Schuller.md: already correctly titled "Stephania Benning (GEDCOM: Sara Schuller)". ✓
+- Michael_Kascher_Sr_1864.md: already uses corrected wikilink `[[Sara_Schuller|Stephania Benning]]`. ✓
+- Regina_Kascher.md: already uses corrected wikilink. ✓
+- Johann_Schuller.md: already uses corrected wikilink. ✓
+- Sara_Benning.md: already uses corrected wikilink. ✓
+- Henry_Michael_Kascher.md: already uses corrected name with audit reference. ✓
+- Michael_Kascher_Transylvania.md: paternal grandparents field already corrected. Father field fixed (removed "Sara Schuller?" confusion). → Discrepancy #35 RESOLVED
+- Leonhard_Schuller.md: plain text "Stephania Benning/Sara Schuller" updated to proper wikilink. → Discrepancy #37 RESOLVED
+- Open_Questions.md: OQ #7 reference updated to note "Stephania Benning (forum says Sara Schuller)". ✓
+- Research_Log.md: historical references to "Sara Schuller" preserved as-is (these document what was found at the time; changing them would falsify the log).
+- Timeline.md: already uses "Stephania Benning (GEDCOM: Sara Schuller)" format. ✓
+- Georg_Kascher.md: already uses corrected name. ✓
+
+**Additional checks performed:**
+- Leonard_Irving_Salmanson.md: dates match Family_Tree.md (June 21, 1910; May 15, 1975). ✓
+- Thelma_Markel.md: dates match (Sept 12, 1920; Sept 22, 2011; married 1947). ✓
+- Morris_Markel.md: children list consistent with Family_Tree.md (Thelma, Anne, Rita, Kate, Frieda, Joseph Harold). ✓
+- Leah_Frei.md: parents (Jozef Frei, Taube Frei) consistent with Family_Tree.md and 1894 AGAD record. ✓
+- Elizabeth_Salk.md: birth March 5, 1887; death November 30, 1974. Consistent with Family_Tree.md. ✓
+- Donald_Salmanson.md: dates consistent (1924-2015). ✓
+- Charles_Salmanson.md: dates consistent (1914-2008). ✓
+
 ---
 
 ## Consistency Checks Passed
@@ -192,13 +247,16 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 | Check | Result |
 |-------|--------|
 | All birth dates precede death dates (where both known) | PASS (except William Stangle, Discrepancy #4) |
-| All parents born before children | PASS (except Stangle century errors, resolved) |
+| All parents born before children | PASS (Anna Barbara Wolpack corrected from 1559 to ~1599, #34) |
 | All marriages occur between birth and death | PASS (except David Wesley/King marriage issue, #12) |
+| All marriages precede first child's birth | PASS (Bright marriage corrected from 1928 to 1920; child born 1921, #33) |
 | Sibling birth dates allow for biological possibility | FAIL for Stangle children (#13) |
-| Names consistent across all mentions in Family_Tree.md | PASS (except Stephania Benning / Sara Schuller, #19) |
+| Names consistent across all mentions in Family_Tree.md | PASS (Stephania Benning wikilinks corrected throughout, #19/#37) |
 | Web-sourced dates match across multiple web sources | PASS (Salmanson dates consistent across Find a Grave, obituaries, AncientFaces) |
 | Handwritten note facts match across pages | FAIL for Kopp vs Huff (#5) |
 | Family tree app data matches web research | PASS for Salmanson line |
+| Person file dates match Family_Tree.md dates | PASS after 2026-04-18 corrections (Bright marriage, Wolpack birth) |
+| Generational consistency (father/son not confused) | PASS (Michael Kascher Transylvania father field corrected, #35) |
 
 ---
 

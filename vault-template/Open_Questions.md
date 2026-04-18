@@ -1,9 +1,16 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-17
+updated: 2026-04-18
 tags: [genealogy, research, open-questions]
 ---
+
+## 2026-04-18 session updates (Goldbaum Lisko deep search)
+
+- **OQ #21 (Helen Brandt's parents): UPDATED.** 15 targeted Lisko-focused searches found no Goldbaum individual from Lesko in any database. Goldbaum NOT listed among known Lesko families on Geni (#28979). Lesko Yizkor Book necrology (pp. 467-489) and JewishGen Yizkor Necrology Database are the highest priority next steps. All database pages returned 403 on automated access.
+- **OQ #24 (Brina Goldbaum Holocaust victim): UPDATED.** Research focus corrected from Tarnopol to **Lesko** per Tier 1 evidence. Lesko Yizkor Book necrology is now the PRIMARY resource. Previous Tarnopol Yad Vashem item IDs may be for unrelated Goldbaums.
+- **Action items table updated**: Added items #43 (Lesko Yizkor necrology), #44 (JewishGen Necrology Database), #45 (JRI-Poland Lesko surnames), #46 (Geni Lesko project). Items #37, #41 corrected to reference Lesko instead of Tarnopol.
+- **New finding**: Dwora-to-Helen name Americanization confirmed as atypical but plausible by CUNY dissertation on Jewish immigrant name patterns.
 
 ## 2026-04-17 session updates (summary)
 
@@ -318,6 +325,27 @@ Research gaps and unresolved questions, organized by priority and family line. U
   7. **Yad Vashem names database**: Search Goldbaum + Lesko (not Tarnopol).
   8. **Lesko vital records at Sanok sub-archive** (AP Rzeszow, Oddzial Sanok): Brand/Goldbaum birth, marriage, death records.
   9. **Tarnopol All Galicia Database search**: Still worth doing for Moses Goldbaum, but now with the caveat that Tarnopol Goldbaums may be unrelated.
+- **Searched (2026-04-18, 15 searches, Lisko-focused)**: Systematic search for Goldbaum in Lisko/Lesko databases and immigration records. **No Goldbaum individual from Lesko found in any database.** All major database pages returned 403 on automated access. Key findings:
+  - (a) **Goldbaum NOT listed among documented Lesko Jewish families on Geni** (project #28979 "Jewish Families from Lesko"). Documented families: Goldstoff, Heller, Rand, Schechter, Taub. Neither Goldbaum nor Brand/Brandt appears.
+  - (b) **Lesko Yizkor Book necrology (pp. 467-489)** is the most accessible check for Brina's fate. Five page ranges of martyr lists, all translated by JewishGen, all blocked on automated access.
+  - (c) **JewishGen Yizkor Necrology Database** is searchable by surname across all indexed Yizkor books. Would show if ANY Goldbaum from ANY community has been indexed.
+  - (d) **3,000 murdered Lesko residents list** is displayed inside the former synagogue building in Lesko.
+  - (e) **Lesko Jewish community**: 2,400 Jews (63% of town, 1921). Cemetery has 2,000+ headstones. Community dates to mid-16th century.
+  - (f) **Sanok sub-archive** (AP Rzeszow, Oddzial Sanoku) holds Lesko Jewish vital records.
+  - (g) **No "Dwora Goldbaum" found in any database.** No Brand/Brandt from Lesko found. No Goldbaum immigration records found.
+  - (h) **Dwora-to-Helen name Americanization confirmed plausible** but atypical (CUNY dissertation: no fixed equivalents for immigrant names).
+  - (i) **Methodological note**: The absence of Goldbaum from the Geni Lesko project could mean: the family was small, recently arrived, or the project is incomplete. Alternatively, "of Lisko" in the 1919 record may refer to residence at time of marriage, not birthplace.
+- **Updated best leads (2026-04-18, post-Lisko deep search)**:
+  1. **RIJHA "M" Obituaries PDF**: DECISIVE RECORD. Still #1 priority.
+  2. **Lesko Yizkor Book necrology (pp. 467-489)**: Check ALL martyr lists for Goldbaum and Brand. jewishgen.org/yizkor/lesko/les467.html through les489.html.
+  3. **JewishGen Yizkor Necrology Database**: Search "Goldbaum" across ALL Yizkor books. jewishgen.org/databases/yizkor/.
+  4. **All Galicia Database**: Search "Goldbaum" and "Brand" in Lesko. search.geshergalicia.org.
+  5. **JRI-Poland Lesko surnames list**: jri-poland.org/psa/lesko_surn.htm. Check if Goldbaum and Brand appear among indexed vital records.
+  6. **Helen Markel RI death record** (~1975): Would list parents' names. Public record.
+  7. **Lincoln Park Cemetery headstone**: Hebrew patronymic.
+  8. **Yad Vashem**: Search Goldbaum + Lesko AND Brand + Lesko. collections.yadvashem.org.
+  9. **Geni "Jewish Families from Lesko" project (#28979)**: Browse profiles for any Goldbaum or Brand connections.
+  10. **Lesko vital records at Sanok sub-archive**: Brand/Goldbaum birth, marriage, death records.
 - **Solvability**: HIGH (Tier 1 source already confirms parents' names and origin town; remaining questions are dates, extended family, and Holocaust fate); **Payoff**: HIGH
 
 ### 22. Markel family immigration ~1928: ship manifest
@@ -350,7 +378,16 @@ Research gaps and unresolved questions, organized by priority and family line. U
   4. Search All Galicia Database for Goldbaum in Tarnopol. **NEW: Moses Goldbaum (active 1879-1889) should appear in 1880 and/or 1890 census. His household composition could identify Brina and other family members, which in turn could be cross-referenced with Holocaust records.**
   5. Visit Geni "Tarnopol Ghetto" project (#27298) for Goldbaum victim profiles.
   6. Check EHRI archival collections at Ternopil Oblast Archive for Goldbaum in forced labor lists or registration of Jews.
-- **Solvability**: MODERATE (Yad Vashem records appear to exist; Moses Goldbaum finding in census would strengthen family identification for Holocaust record matching); **Payoff**: MODERATE to HIGH (would confirm family presence in Tarnopol and provide details about circumstances of death; a Page of Testimony submitted by a family member could provide parents' names and birth details)
+- **MAJOR UPDATE (2026-04-18)**: The 1919 Sambor marriage banns place Brina (Brancia Goldbaum) in **Lisko (Lesko)**, NOT Tarnopol. The Tarnopol connection was inferential and is now superseded by Tier 1 evidence. Holocaust research for Brina should focus on Lesko (August 1942 deportation of entire Jewish population) rather than Tarnopol. The Tarnopol Goldbaums (including Moses Goldbaum, 1879-1889 witness) may be from a different, unrelated family.
+- **Searched (2026-04-18, 15 searches, Lisko-focused)**: No Goldbaum from Lesko found in any Holocaust database via web search. Yad Vashem, USHMM all returned 403. The Lesko Yizkor Book necrology (pp. 467-489, JewishGen translation) is the primary resource. A list of 3,000 murdered Lesko residents is displayed in the former synagogue in Lesko itself.
+- **Updated next steps (HUMAN ACTION REQUIRED, corrected for Lisko)**:
+  1. Search Yad Vashem (collections.yadvashem.org) for Goldbaum with place "Lesko" or "Lisko." Try first names: Brina, Bryna, Brayna, Breina, Brancia. Also search without first name.
+  2. Search Yad Vashem for Brand/Brandt with place "Lesko" or "Lisko."
+  3. **Read Lesko Yizkor Book necrology pages 467-489** at jewishgen.org/yizkor/lesko/. This is the PRIMARY Holocaust resource for Lesko.
+  4. Search JewishGen Yizkor Necrology Database (jewishgen.org/databases/yizkor/) for "Goldbaum" across ALL Yizkor books.
+  5. Search USHMM (ushmm.org/online/hsv/) for Goldbaum from Lesko/Lisko.
+  6. Tarnopol searches (Yizkor Book, Geni Ghetto project, EHRI archives) remain worthwhile as secondary checks, in case Brina moved from Lesko to Tarnopol later in life.
+- **Solvability**: MODERATE (Yad Vashem records may exist but were not found via web search; Lesko Yizkor Book necrology is the best bet); **Payoff**: MODERATE to HIGH (would confirm Brina's fate and potentially provide family details from Pages of Testimony)
 
 ### 25. Eli Baldwin's wife: Elizabeth (unknown) or Edaline L. Transon?
 - **The question**: WikiTree Baldwin-2330 names Eli Baldwin's wife as "Elizabeth (surname unknown), married in Forsyth, NC." The MyHeritage GEDCOM names her as "Edaline L. Transon (b. 1783, Chatham, NC; d. 1840, Standing Springs, Greenville, SC)." Are these the same person, or is one source wrong?
@@ -439,12 +476,18 @@ Research gaps and unresolved questions, organized by priority and family line. U
 | 34 | Lincoln Park Cemetery: Morris + Helen Markel burial records | Lincoln Park Cemetery, Warwick RI (401-737-5333) | Plot section, dates, headstone inscription (Hebrew patronymics) | Free (phone inquiry) |
 | 35 | Helen Markel RI death record (~1975) | RI Dept of Health / RI State Archives | Parents' names (Joseph Brandt + Brina Goldbaum), birthplace, exact dates | Free (50+ years old = public) |
 | 36 | MyHeritage Goldbaum family site | myheritage.com/site-family-tree-1131568351/goldbaum-family-site (browser) | Goldbaum family connections, Brina's birthplace, parents | Free (browser access) |
-| 37 | Gesher Galicia All Galicia Database: Brandt + Goldbaum in Tarnopol | search.geshergalicia.org (browser) | Census records (1880/1890/1910), vital records for both surnames | Free |
+| 37 | Gesher Galicia All Galicia Database: Brand + Goldbaum in **Lesko** | search.geshergalicia.org (browser) | Census records, vital records for both surnames in Lesko | Free |
+| 37b | Gesher Galicia All Galicia Database: Brandt + Goldbaum in Tarnopol | search.geshergalicia.org (browser) | Secondary check; Tarnopol Goldbaums may be unrelated | Free |
 | 38 | Jack Schlusselberg obituary | dignitymemorial.com/obituaries/salem-ma/jack-schlusselberg-8066256 (browser) | If son of Anne Markel Schlusselberg, would name Helen as grandmother | Free |
 | 39 | Gesher Galicia Brandt families page | geshergalicia.org/families/?id=brandt/ (browser) | Indexed Brandt records from Galician vital records | Free (membership may be needed) |
 | 40 | CJH collection: Brandt/Ament/Kohl families in Galicia | cjh.org (contact for finding aid) | May reference Joseph Brandt | Fee or correspondence |
-| 41 | Yad Vashem: Goldbaum from Tarnopol | collections.yadvashem.org/en/names (browser) | Page of Testimony for Brina Goldbaum | Free |
+| 41 | Yad Vashem: Goldbaum from **Lesko/Lisko** | collections.yadvashem.org/en/names (browser) | Page of Testimony for Brina Goldbaum (corrected from Tarnopol) | Free |
+| 41b | Yad Vashem: Brand/Brandt from **Lesko/Lisko** | collections.yadvashem.org/en/names (browser) | Page of Testimony for Józef Brand | Free |
 | 42 | Ancestry collection 3132: Galicia Jewish vital records 1789-1905 | Ancestry.com | Brandt and Goldbaum birth/marriage/death records | Subscription |
+| 43 | Lesko Yizkor Book necrology (pp. 467-489) | jewishgen.org/yizkor/lesko/ (browser) | Martyr lists for Goldbaum and Brand. **PRIMARY Holocaust resource for this family.** | Free |
+| 44 | JewishGen Yizkor Necrology Database: "Goldbaum" all books | jewishgen.org/databases/yizkor/ (browser) | Search surname across ALL indexed Yizkor books | Free (account required) |
+| 45 | JRI-Poland Lesko surnames list | jri-poland.org/psa/lesko_surn.htm (browser) | Check if Goldbaum and Brand appear among indexed Lesko vital records | Free |
+| 46 | Geni "Jewish Families from Lesko" project (#28979) | geni.com/projects/Jewish-Families-from-Lesko-Poland/28979 (browser) | Browse profiles for Goldbaum/Brand connections | Free |
 
 ### 30. Helen Brandt's parents (Joseph Brandt + Brina Goldbaum)
 - **Merged with #21 (2026-04-17).** See #21 for full search history and leads from 2026-04-17 deep research session.
@@ -453,7 +496,7 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Merged with #22 (2026-04-14).** See #22 for full search history and leads.
 
 ### 32. Brina Goldbaum Holocaust victim identification
-- **Merged with #24 (2026-04-17).** See #24 for full search history from 2026-04-17 focused research session (15 searches). Key finding: Yad Vashem has multiple record item IDs for Goldbaum near Tarnopol (788325, 6510903, 1915425) but individual records require browser access. Tarnopol Yizkor Book (JewishGen Press) has name index. EHRI portal catalogues Jewish Community in Tarnopol records (1874-1939).
+- **Merged with #24 (2026-04-17).** See #24 for full search history. **CRITICAL UPDATE (2026-04-18)**: Research now focuses on **Lesko** (not Tarnopol) per Tier 1 1919 marriage banns. Lesko Yizkor Book necrology (pp. 467-489) is the PRIMARY Holocaust resource. Previous Tarnopol Yad Vashem item IDs (788325, 6510903, 1915425) may be for unrelated Goldbaums. New action items: Lesko Yizkor necrology, Yad Vashem search for Goldbaum + Lesko, JewishGen Necrology Database search across all Yizkor books.
 
 ### 33. Markel family Holocaust: actual date and circumstances of death
 - **NEW (2026-04-17).** The Yichus narrative claims the family was murdered on "Rosh Hashanah 1939" at "Rodzinka Forest" by "Polish Cossacks." Research into the Sambor district Holocaust timeline (40+ searches) shows this date is almost certainly wrong: no mass killing of Jews occurred near Sambor in September 1939. The actual date was most likely 1941-1943 during the Sambor Ghetto period.
