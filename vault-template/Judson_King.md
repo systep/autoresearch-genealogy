@@ -37,7 +37,7 @@ tags: [genealogy, king, person, south-carolina, greenville, oaklawn, dunklin, fa
 | Grandmother | Mary King (b. ~1795, SC) | 1850 Census (Tier 1) |
 | Siblings (1850 Census) | Mary E (b. ~1842), Tabbitha (b. ~1844), Elizabeth (b. ~1847), James M (b. ~1848) | 1850 Census (Tier 1) |
 | Spouse | [[Charstee_King]] (b. ~1843, SC) | 1880 Census (Tier 1); 1920 Census (Tier 1) |
-| Children | Dora S., Andrew L., Mary E., James E., William C., Tabitha J., John W. King (per 1880 Census) | 1880 Census, Oaklawn Twp, Greenville Co, SC (Tier 1) |
+| Children | Dora S., Andrew L., Mary E., James E., William C., Tabitha J., John W. King (per 1880 Census); probable additional child: Georgia King (b. Mar 26, 1885, d. Apr 8, 1974, married Sims) | 1880 Census, Oaklawn Twp, Greenville Co, SC (Tier 1); Find a Grave #13396670 (Tier 2, unverified) |
 
 ## Biography
 
@@ -45,7 +45,7 @@ Judson King was born June 20, 1841 in South Carolina. His death certificate name
 
 George Washington King is confirmed as Judson's father based on two independent Tier 1 sources: the 1850 census (Judson in George W.'s household) and the death certificate (naming "Washington King" as father). [[James_King_Sr]] (age 62, same census page) is Judson's grandfather.
 
-He married **[[Charstee_King]]** (b. ~1843, SC), whose maiden name was likely **Cooley** based on the caption of an 1908 photograph: "Judson and Charstee Cooley King 1908 taken in Pelzer, SC by RL Snipes, dealer in fancy pictures" (Find a Grave memorial #8422324, Tier 2). The Cooley family was well established in Greenville County: Jacob Cooley Sr. (1735-1820) moved from Virginia by 1790, and his grandson Hiram Cooley (1796-1864) had a plantation in the county. By 1880, Judson and Charstee had seven children: Dora S., Andrew L., Mary E., James E., William C., Tabitha J., and John W. King (1880 Census, Oaklawn Township, Greenville County, SC, Tier 1). "Charstee" is an unusual name, possibly a variant of "Charity."
+He married **[[Charstee_King]]** (b. ~1843, SC), whose maiden name was likely **Cooley** based on the caption of an 1908 photograph: "Judson and Charstee Cooley King 1908 taken in Pelzer, SC by RL Snipes, dealer in fancy pictures" (Find a Grave memorial #8422324, Tier 2). The Cooley family was well established in Greenville County: Jacob Cooley Sr. (1735-1820) moved from Virginia by 1790, and his grandson Hiram Cooley (1796-1864) had a plantation in the county. By 1880, Judson and Charstee had seven children: Dora S., Andrew L., Mary E., James E., William C., Tabitha J., and John W. King (1880 Census, Oaklawn Township, Greenville County, SC, Tier 1). Additional children were born after 1880: **Georgia King** (b. March 26, 1885, d. April 8, 1974) is buried at Fork Shoals Baptist Church Cemetery alongside Judson, and married a man named Sims (Find a Grave #13396670, Tier 2, unverified as Judson's daughter). "Charstee" is an unusual name, possibly a variant of "Charity."
 
 Judson was a farmer his entire adult life, working a general farm in Oaklawn Township, Greenville County. Both the 1880 and 1920 censuses record him as a farmer in Oaklawn Township, indicating he lived in the same area for at least 40 years.
 
@@ -59,7 +59,7 @@ Judson died on May 12, 1921 at approximately 9 A.M. from chronic nephritis, at t
 
 A user-provided photograph shows Judson and Charstee King in formal late 19th or early 20th century attire.
 
-The death certificate informant was H.H. King of Pelzer, SC. None of the seven children listed in the 1880 census have initials "H.H." This person may be a child born after 1880 (Judson and Charstee were only 39 and 37 in 1880), or a grandchild. The 1900 and 1910 censuses would resolve this.
+The death certificate informant was H.H. King of Pelzer, SC. None of the seven children listed in the 1880 census have initials "H.H." This person may be a child born after 1880 (Judson and Charstee were only 39 and 37 in 1880), or a grandchild. The discovery of Georgia King Sims (b. 1885) at Fork Shoals Baptist Church Cemetery confirms that additional children were born after 1880, supporting the hypothesis that H.H. King was another post-1880 child. A 2026-04-18 search of 10 free databases (Find a Grave, WikiTree, BillionGraves, Genealogy Trails, census transcription projects) found no individual matching "H.H. King" in Pelzer, SC. Expanded name searches (Henry, Hugh, Hiram, Homer King) also returned no results. The Find a Grave memorial #8422324 references 1870, 1880, 1900, and 1910 census records for Judson, confirming that a 1900 census record exists and is indexed in Ancestry/FamilySearch. The 1900 census (accessible only via login) is the decisive record for identifying H.H. King and all post-1880 children.
 
 **Note on township**: The 1880 and 1920 censuses place Judson in Oaklawn Township, while the 1921 death certificate records Dunklin Township. These are adjacent areas in southern Greenville County. Judson likely lived near the boundary, or the township lines may have shifted.
 
@@ -102,13 +102,12 @@ In 1910, **Luther Pressley** (age 17, b. ~1893) lived in Judson and Charstee's h
 
 ## Research Priorities
 
-1. **Luther Pressley identity**: Search 1900-1910 census for Luther Pressley (b. ~1893) in Greenville County to find his parents. This would reveal which King sibling married a Pressley.
-2. **1900 Census**: Still missing. Would show Judson at ~59 with any children still at home, plus "number of children born / number living" data.
-3. **Confederate service details**: Obtain full compiled service record from National Archives (NARA) for Judson King, 16th SC Infantry. Would reveal company, rank, battles, wounds, capture/parole, and discharge details.
-2. **1900 and 1910 Census**: Would reveal any children born after 1880, potentially identifying H.H. King (death certificate informant).
-3. **Find a Grave**: Search Fork Shoals area cemeteries in Greenville County for Judson and Charstee King.
-4. **Connection to Kerben/Washington King**: Determine relationship between Washington King (Judson's father) and Kerben King (William I. King's father). Search 1850-1860 census for both in Greenville County.
-5. **H.H. King identity**: Not among the 7 children listed in 1880 census. Check 1900/1910 census for additional children or grandchildren.
-6. **Marriage record**: Search Greenville County marriage records for Judson King and Charstee [maiden name unknown].
-7. **Mother's maiden name**: Confirm reading of "Shambler" (or variant). Search Greenville County marriage records for Washington King.
-8. **Charstee's maiden name**: Likely **Cooley** per Find a Grave photo caption (Tier 2). Confirm via Greenville County marriage record or 1860 census (Charstee Cooley, age ~17, in parents' household). Identify specific Cooley parents.
+1. **1900 Census (CRITICAL)**: Access via Ancestry.com or FamilySearch (login required). The Find a Grave memorial #8422324 confirms a 1900 census record exists for Judson King. Would show Judson at ~59 with all children still at home (including those born after 1880), "number of children born / number living" data, and should identify H.H. King.
+2. **H.H. King identity**: Not among the 7 children listed in 1880 census. 10 free-database searches (2026-04-18) returned zero results. The 1900 census is the decisive record. H.H. was likely a son born between 1881 and ~1899, or possibly a grandson living in Pelzer by 1921.
+3. **Georgia King Sims confirmation**: Find a Grave #13396670 (b. Mar 26, 1885, d. Apr 8, 1974), buried at Fork Shoals Baptist Church Cemetery. Likely Judson's daughter born after 1880. Check memorial for family links. Confirm via 1900 census (she would be age 15 in Judson's household).
+4. **Luther Pressley identity**: Search 1900-1910 census for Luther Pressley (b. ~1893) in Greenville County to find his parents. This would reveal which King sibling married a Pressley.
+5. **Confederate service details**: Obtain full compiled service record from National Archives (NARA) for Judson King, 16th SC Infantry. Would reveal company, rank, battles, wounds, capture/parole, and discharge details.
+6. **Connection to Kerben/Washington King**: Determine relationship between Washington King (Judson's father) and Kerben King (William I. King's father). Search 1850-1860 census for both in Greenville County.
+7. **Marriage record**: Search Greenville County marriage records for Judson King and Charstee Cooley.
+8. **Mother's maiden name**: Confirm reading of "Shambler" (or variant). Search Greenville County marriage records for Washington King.
+9. **Charstee's maiden name**: Likely **Cooley** per Find a Grave photo caption (Tier 2). Confirm via Greenville County marriage record or 1860 census (Charstee Cooley, age ~17, in parents' household). Identify specific Cooley parents.

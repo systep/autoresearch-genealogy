@@ -13,7 +13,7 @@ Expected records that should exist but have not been located. Prioritized by lik
 
 | Person | Census Year | Expected Location | Status | Priority | Notes |
 |---|---|---|---|---|---|
-| Abraham Salk | 1910 | Providence Ward 3, RI | OPEN | HIGH | Would show full household, Tobey, all children including Lena |
+| Abraham Salk | 1910 | Providence Ward 3, RI | OPEN (searched 2026-04-18) | **CRITICAL** | 10 web searches negative. Tried: Abraham/Abram Salk, Zalk/Sulk/Selk variants, wife Tobey/Theresa, family proxies (Nathan Fain, Barnett Salmanson). Record behind paywall or mistranscribed. HUMAN ACTION: FamilySearch (login, try "Moses Salk" per Hebrew name question), Ancestry (paid, Soundex), Steve Morse ED Finder for Ward 3 EDs, RIHS CD-ROM index. Also try RI 1915 State Census (FamilySearch coll. 1532188). |
 | Abraham Salk | 1920 | Providence, RI | FOUND | | Age 71, wife Theresa 70, daughter Anna 24. 60 Chalkstone Ave area. |
 | Barnett Salmanson | 1910 | Providence RI or Brooklyn NY | OPEN | HIGH | Married Sep 1909. Age ~25-27. No children yet (Leonard born Jun 1910). Searched 2026-04-18: 10 web searches negative (databases behind login). Try FamilySearch collection 1727033 (free with login). Search both RI and Kings County NY. |
 | Barnett Salmanson | 1920 | Providence RI (236 Sterling Ave) | OPEN | HIGH | Family: Elizabeth, Leonard (~9), Samuel (~7), Charles (~5), Martha (infant). Searched 2026-04-18: 10 web searches negative. Use Steve Morse ED Finder with 236 Sterling Ave to get ED, then browse on FamilySearch collection 1488411. Would resolve immigration year and citizenship questions. |

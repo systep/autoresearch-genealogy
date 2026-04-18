@@ -87,8 +87,18 @@ Potential databases for human follow-up:
 2. **Steve Morse One Step tools** (stevemorse.org): Enhanced search of Ellis Island records with Soundex and phonetic matching.
 3. **JewishGen EIDB** (jewishgen.org/databases/eidb/): Free. Gold form allows town-of-origin searches.
 4. **FamilySearch collection 1368704**: New York Passenger Arrival Lists (Ellis Island), 1892-1925. Free with login.
-5. **1910 and 1920 Census records**: Would list Abraham as head of household with year of immigration and naturalization status. These census records are referenced in the biography but have not been directly accessed.
+5. **1910 and 1920 Census records**: Would list Abraham as head of household with year of immigration and naturalization status. The 1920 Census has been located (see below); the 1910 Census has NOT been found (see 1910 Census Search below).
 6. **Rhode Island death certificate** (1925): RI State Archives holds death records from 1853 to 1975; records 50+ years old are public. Would list birthplace, parents' names, and informant.
+
+### 1910 Census Search (2026-04-18)
+
+A systematic search for Abraham Salk's 1910 Census record was conducted. **No record was located.** 10 web searches covered: the name "Abraham Salk" and variant spellings (Zalk, Sulk, Selk), wife's name (Tobey, Theresa, Toby Salk), family member proxies (Nathan Fain, Barnett Salmanson), FamilySearch site search, enumeration district research, and the 1915 Rhode Island state census.
+
+The record was not found via free web search. Possible explanations: (1) the record exists behind Ancestry/FamilySearch paywalls; (2) the name was mistranscribed by census enumerator or indexer (Abraham was illiterate); (3) if his Hebrew name was Moshe, the census may record "Moses Salk" instead of "Abraham Salk"; (4) the family may have been at a different address in 1910; (5) the household was missed during enumeration.
+
+**HUMAN ACTION REQUIRED**: Search FamilySearch (free with login) and Ancestry (paid) for Abraham Salk, Abram Salk, Moses Salk, Abraham Zalk, Moses Zalk in Providence, RI, 1910. Use Steve Morse ED Finder (stevemorse.org) to identify Providence Ward 3 enumeration districts covering Chalkstone Avenue, then browse page by page on FamilySearch. Also search FamilySearch collection 1532188 (Rhode Island 1915 State Census) for Salk/Zalk in Providence.
+
+Additional finding: Ester Salk (b. ~1888, Russia) appears in the 1940 Census in Providence. Relationship to Abraham's line unknown; may belong to the Hyman Salk hardware store family.
 
 Abraham died February 22, 1925 in Rhode Island at the age of approximately 64-65. His burial location has not been confirmed, but **Lincoln Park Cemetery** in Warwick, RI is the most likely site, as multiple Salmanson family members (including his daughter Elizabeth, son in law Leonard Irving, and daughter in law Thelma) are buried there. No Find a Grave or BillionGraves record for Abraham has been located (searched 2026-04-13, 2026-04-14). The cemetery office (401-737-5333) may have records.
 

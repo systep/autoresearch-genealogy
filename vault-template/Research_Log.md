@@ -2,13 +2,61 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-18
-last_session: "2026-04-18 Barnett Salmanson 1910/1920 Census Search: 10 web searches across FamilySearch, Ancestry indexes, WikiTree, NARA, Steve Morse, RI Historical Society. No individual census records located (all behind login/paywall). Identified actionable paths: FamilySearch collections 1727033 (1910) and 1488411 (1920), Steve Morse ED Finder with 236 Sterling Ave for 1920 ED, Providence city directories on Internet Archive. Updated Barnett_Salmanson, timeline_gaps."
+last_session: "2026-04-18 Judson King 1900 Census and H.H. King Search: 10 searches across Find a Grave, census transcription projects, WikiTree, BillionGraves, Genealogy Trails. Confirmed Judson King buried Fork Shoals Baptist Church Cemetery (FAG #8422324). Discovered Georgia King Sims (1885-1974, FAG #13396670) at same cemetery, probable daughter born after 1880. H.H. King remains unidentified; 1900 census behind login walls is decisive record."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-18: Judson King 1900 Census Search and H.H. King Identification, 10 searches
+
+### Summary
+
+Targeted search to locate Judson King in the 1900 US Census (Oaklawn Twp, Greenville Co, SC) and identify H.H. King of Pelzer, SC (informant on Judson's 1921 death certificate). 10 web searches conducted across Find a Grave, census transcription projects, WikiTree, BillionGraves, Genealogy Trails, and general genealogy databases. The 1900 census record itself remains inaccessible (behind Ancestry/FamilySearch login walls), but a significant new lead was found.
+
+### Key Finding
+
+**Georgia King Sims (1885-1974)**: Find a Grave memorial #13396670, buried at Fork Shoals Baptist Church Cemetery in Pelzer, Greenville County, SC, the same cemetery as Judson King (FAG #8422324). Born March 26, 1885, five years after the 1880 census. Georgia King is very likely a daughter of Judson and Charstee King born after the 1880 census. She married a man named Sims (surname from headstone). This confirms the hypothesis that additional children were born after 1880, and the 1900 census would list them.
+
+### Searches Conducted
+
+| # | Search | Database/Source | Result |
+|---|---|---|---|
+| 1 | "Judson King 1900 census Oaklawn Township Greenville County South Carolina" | Web/multiple | Positive: Found Greenville 1900 Census transcription team page (us-census.org), confirmed FAG #8422324. No census record content (login walls). |
+| 2 | "H.H. King Pelzer South Carolina" (exact match) | Web | NEGATIVE. Zero results for this exact name+location combination. |
+| 3 | "King family 1900 census Oaklawn Greenville SC children born after 1880" | Web/multiple | NEGATIVE. Generic census resource pages only. |
+| 4 | Find a Grave memorial #8422324 (Judson King) direct fetch | Find a Grave | BLOCKED (403). Search snippet references 1870, 1880, 1900, and 1910 census records, confirming a 1900 census record exists. |
+| 5 | "Find a Grave King Fork Shoals Baptist Church Cemetery Pelzer Greenville SC" | Web/Find a Grave | Positive: Confirmed cemetery has 999 memorials. Found Georgia King Sims (1885-1974) at same cemetery via Genealogy Trails result snippet. |
+| 6 | "Judson King children Greenville South Carolina genealogy" | Web/multiple | NEGATIVE. Only FAG #8422324 returned. No children enumerated in free sources. |
+| 7 | "Georgia King Sims 1885 Pelzer Greenville County SC Fork Shoals" | Web/Find a Grave | Positive: Confirmed FAG #13396670 for Georgia King Sims (b. Mar 26, 1885, d. Apr 8, 1974) at Fork Shoals Baptist Church Cemetery. |
+| 8 | "Charstee King OR Judson King children family tree Ancestry WikiTree Geni" | Web/multiple | NEGATIVE. No WikiTree, Geni, or public Ancestry tree found for Judson King of Greenville SC. |
+| 9 | WikiTree "Judson King" 1841 South Carolina children Oaklawn | WikiTree/Web | NEGATIVE. No WikiTree profile exists for Judson King. |
+| 10 | "Henry King OR Hugh King OR Hiram King OR Homer King Pelzer SC 1900 1910 1920" | Web/multiple | NEGATIVE. No matching individuals in Pelzer SC found in free databases. |
+
+### Negative Results (Important)
+
+- No public family tree (WikiTree, Geni, or Ancestry) exists for Judson King of Greenville SC.
+- No individual named "H.H. King" appears in any free database for Pelzer, SC.
+- The Greenville 1900 Census transcription project (us-census.org) page returned 403 on fetch.
+- BillionGraves Fork Shoals Cemetery page returned 403.
+- Rootsweb/Genealogy Trails Fork Shoals cemetery transcription returned 403.
+- No expanded name search (Henry, Hugh, Hiram, Homer King) produced results for Pelzer SC.
+
+### Analysis
+
+1. **Georgia King Sims (1885-1974)** is buried at the same cemetery as Judson King, which strongly suggests she is a family member. Born in 1885, she was born AFTER the 1880 census. If she is Judson and Charstee's daughter, she would be their 8th child. In 1900, she would be 15 and likely living at home.
+2. **H.H. King remains unidentified.** The name does not match any known child. If there were children born after 1880 (Georgia King confirms at least one), there could have been a son with initials H.H. born between 1881 and ~1899. The 1900 census is the decisive record. Alternatively, H.H. could be a grandson (son of one of the 7 known children from 1880) who was living in Pelzer by 1921.
+3. **1900 census confirmed to exist**: The Find a Grave memorial #8422324 references 1870, 1880, 1900, and 1910 census records for Judson King. This means a 1900 census record has been found and indexed in Ancestry/FamilySearch, and can be retrieved with login access.
+4. **Pelzer as King family hub**: Judson's burial at Fork Shoals Baptist Church Cemetery (Pelzer), H.H. King's address (Pelzer), George W. King Jr.'s residence (Pelzer, RFD #3), and Georgia King Sims' burial (Fork Shoals, Pelzer) all point to Pelzer/Fork Shoals as a major King family settlement area.
+
+### Action Required (Human)
+
+1. **CRITICAL**: Access 1900 US Census for Judson King in Oaklawn Township, Greenville County, SC via Ancestry.com or FamilySearch (login required). This will list all children in the household, including those born after 1880, and should identify H.H. King.
+2. Access Find a Grave memorial #13396670 (Georgia King Sims) for family links, photos, and additional information.
+3. Access Find a Grave memorial #8422324 (Judson King) for linked family members (may list children).
+4. Search Ancestry for "King" households in Pelzer/Fork Shoals area, 1900-1920 censuses.
 
 ## 2026-04-18: Lena Fain Research (targeted person research), 10 searches
 
