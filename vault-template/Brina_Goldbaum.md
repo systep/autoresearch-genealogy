@@ -33,8 +33,8 @@ tags: [genealogy, goldbaum, brandt, person, tier-1, holocaust, jewish, poland, g
 | Full Name | **Brancia GOLDBAUM** (1919 marriage record); also known as Brina, Bryna, Brayna, Breina | 1919 marriage banns (Tier 1); GEDCOM (Tier 3) |
 | Born | Unknown (estimated ~1865-1880 based on daughter Helen/Dwora's revised birth estimate ~1894-1897) | Inference |
 | Birthplace | **Lisko (Lesko)**, Sanok district, Galicia (Austria-Hungary); now Lesko, Podkarpackie, Poland | 1919 marriage banns (Tier 1) |
-| Died | Unknown date (cause of death: Holocaust, i.e., between 1939-1945) | GEDCOM |
-| Burial | Unknown (likely no burial if murdered in Holocaust) | |
+| Died | **Mid-August to September 10, 1942** (Holocaust; either shot at Lesko Jewish cemetery during ghetto liquidation, or deported to Belzec extermination camp via Zaslaw transit camp) | GEDCOM (Tier 3: "Holocaust"); Lesko deportation timeline (Tier 2: multiple corroborating secondary sources) |
+| Burial | None (if shot at cemetery, body likely in mass grave at Lesko; if deported to Belzec, cremated) | Inference from deportation route |
 | Father | Unknown | |
 | Mother | Unknown | |
 | Spouse | **[[Joseph_Brandt]]** (Józef BRAND of Lisko; religiously but not civilly married) | 1919 marriage banns (Tier 1); GEDCOM (Tier 3) |

@@ -2,7 +2,7 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-18
-last_session: "2026-04-18 Lena Fain Research: Researched newly discovered daughter of Abraham and Tobey Salk. 10 web searches. Key finding: Alfred Fain obituary (Providence Journal, 2005) confirms parents as Nathan and Lena (Salk) Fain. Lena married Nathan Fain; children include Alfred (twin, Fain's Dept Store), twin brother, Jeanette Rosofsky, Leonard Fain, Dora Paster. Created Lena_Fain.md. Updated Abraham_Zolly_Salk.md, Family_Tree.md, Timeline.md."
+last_session: "2026-04-18 Holocaust Records Search for Brand/Goldbaum of Lesko: 15 searches across Yad Vashem, USHMM, JewishGen, Lesko Yizkor. Established complete Lesko deportation timeline (June-Sept 1942): ghetto, ~100 shot at cemetery, march to Zaslaw, transport to Belzec. Zero individual Brand/Goldbaum names found (all databases 403). USHMM Fela Goldbaum oral history identified. Brandwein family in Lesko noted. Updated Brina_Goldbaum, Joseph_Brandt, Helen_Brandt, Timeline."
 tags: [genealogy, research, log]
 ---
 

@@ -417,6 +417,7 @@ Research gaps and unresolved questions, organized by priority and family line. U
   4. Search JewishGen Yizkor Necrology Database (jewishgen.org/databases/yizkor/) for "Goldbaum" across ALL Yizkor books.
   5. Search USHMM (ushmm.org/online/hsv/) for Goldbaum from Lesko/Lisko.
   6. Tarnopol searches (Yizkor Book, Geni Ghetto project, EHRI archives) remain worthwhile as secondary checks, in case Brina moved from Lesko to Tarnopol later in life.
+- **UPDATE (2026-04-18, Holocaust Records Search, 15 searches)**: Established complete Lesko deportation timeline: ghetto June 1942; liquidated mid-Aug 1942 (~100 shot at cemetery, rest marched to Zaslaw); Sept 7-10 transport to Belzec; ~17,000 murdered. Brina most likely shot at Lesko cemetery (age 67-82) or deported to Belzec. USHMM Fela Goldbaum oral history (irn505846) identified as possible lead (origin unknown). "Reb Hersahle Brandwine" found in Lesko Yizkor pp. 187-220 (Brandwein, not Brand). Zero individual Brand/Goldbaum names found; all databases returned 403. Lesko Yizkor necrology pp. 467-489 remains the HIGHEST PRIORITY action.
 - **Solvability**: MODERATE (Yad Vashem records may exist but were not found via web search; Lesko Yizkor Book necrology is the best bet); **Payoff**: MODERATE to HIGH (would confirm Brina's fate and potentially provide family details from Pages of Testimony)
 
 ### 25. Eli Baldwin's wife: Elizabeth (unknown) or Edaline L. Transon?
