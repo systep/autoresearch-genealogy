@@ -51,6 +51,17 @@ Their children included **Henry Michael Kascher** (b. December 10, 1914, Youngst
 
 Michael died June 7, 1975 in Fort Lauderdale, Florida.
 
+### Immigration Record Search (2026-04-18)
+
+A systematic search was conducted for Michael Kascher's passenger manifest and naturalization records as part of the immigration search protocol. **No manifest was located through free web search.** Michael was in America by May 10, 1913 (marriage to Rosina Falk in Beaver, PA), so his arrival was approximately 1910-1912. The manifest would be on NARA microfilm T715 for New York arrivals or T674 for Philadelphia arrivals.
+
+**Naturalization records:** Mahoning County Clerk of Courts (330-740-2114) holds local naturalization records. FamilySearch has microfilmed U.S. District Court records for the Ohio Northern District Courts, Eastern Division (Cleveland), covering 1916-1931, which would include petitions, declarations of intention, and military petitions. The 1930 Census records Michael's birthplace as "Romania" (Transylvania became Romania after 1918). His naturalization petition would list his original birthplace, arrival date, port, and ship name.
+
+HUMAN ACTION REQUIRED:
+1. Search FamilySearch Ohio County Naturalization Records for Michael Kascher in Mahoning County.
+2. Search Ancestry/FamilySearch for Kascher arriving from Austria-Hungary (or Hungary) at New York 1908-1913.
+3. Contact Mahoning County Clerk of Courts (330-740-2114) for naturalization records.
+
 ## Document Sources
 
 | Document | Type | Vault Note |

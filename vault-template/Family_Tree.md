@@ -420,7 +420,7 @@ William Holloway (c. 1734-1784, father of Martha "Patty") left a 1784 will witne
 **[[Robert_King_II]] + Tabitha Dolby** (strong)
 - Robert: c. 1750, Ireland; d. Dec 13, 1826, Anderson County, SC
 - Tabitha Dolby: c. 1750, Ireland; d. May 14, 1815
-- Emigrated from Ireland 1770; settled near Belton, Anderson Co, SC ~1772
+- Emigrated from Ireland 1770 on the **ship Jupiter from Larne, County Antrim** (WikiTree Dolby-84, Geni; Tier 3); settled near Belton, Anderson Co, SC ~1772
 - Revolutionary War veteran (Battle of Kings Mountain)
 - 23 children, 21 survived to adulthood
 - Buried: King Family Cemetery, Belton, SC (Find a Grave #48870135)
@@ -584,7 +584,11 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 | Brooklyn, NY / Providence, RI | Salmanson (Barnett, Leonard Irving, Samuel, Charles, Donald, Martha) | early 1900s to present | strong |
 | England / Germany | Stangle (John Stangle) | mid-1700s, emigrated to America | moderate |
 | Orange County, North Carolina | Cox (William Cox Sr., William Cox Jr.) | 1720s-1790s (migrated to SC) | strong |
+| Ireland (Larne, County Antrim) | King (Robert King I, Robert King II) | emigrated 1770 on ship Jupiter | moderate (Tier 3 ship attribution) |
 | Greenville / Simpsonville, SC | Cox, Henderson, King, Kopp/Huff, Duff, Byars, Bright, Stangle, Long | 1790s to 1900s | strong (Cox/Henderson), moderate (others) |
+| Schriesheim, Palatinate, Germany | Brecht/Bright (Johann Michael Brecht) | emigrated Oct 1726, Philadelphia | strong |
+| Waldhutten (Valchid), Transylvania | Kascher, Falk | emigrated ~1910-1912 to Ohio | strong |
+| Waniowice/Lisko, Galicia | Markel, Frei, Brandt/Goldbaum | emigrated ~1912-1928 to Rhode Island | strong |
 
 
 ## Source Index
