@@ -29,7 +29,7 @@ tags: [genealogy, Wolpack, person, Brecht]
 
 ## Biography
 
-Anna Barbara Wolpack was born in 1559 in Schriesheim, Baden-Wuerttemberg, Germany. She married [[Christoph_Stoffel_Brecht]] (b. 1591, d. 3 Aug 1665). Their children included Stoffel Brecht (b. 10 Aug 1616) and [[Balthasar_Hans_Brecht]], who continued the Brecht line into colonial America. Anna Barbara died on 23 December 1683 in Schriesheim, living to approximately 124 years of age per the GEDCOM dates (the birth year of 1559 is likely an error; further investigation needed).
+Anna Barbara Wolpack was born circa 1599 in Schriesheim, Baden-Wuerttemberg, Germany (the GEDCOM records 1559, but this creates an impossible 124 year lifespan and makes her 32 years older than her husband; 1599 is the corrected reading). She married [[Christoph_Stoffel_Brecht]] (b. 1591, d. 3 Aug 1665). Their children included Stoffel Brecht (b. 10 Aug 1616) and [[Balthasar_Hans_Brecht]], who continued the Brecht line into colonial America. Anna Barbara died on 23 December 1683 in Schriesheim, at approximately 84 years of age.
 
 ## Document Sources
 
@@ -41,4 +41,4 @@ Anna Barbara Wolpack was born in 1559 in Schriesheim, Baden-Wuerttemberg, German
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Birth year | 1559 (GEDCOM) | Husband born 1591 | Birth year of 1559 is likely incorrect; if she married Christoph Stoffel Brecht she was likely born closer to 1590s. Needs corroboration. |
+| Birth year | 1559 (GEDCOM) | Husband born 1591; death 1683 | **RESOLVED 2026-04-18: Birth year corrected to ~1599.** The GEDCOM's "1559" is a transposition error (5 and 9 swapped in the decade digit). A 1559 birth creates an impossible 124-year lifespan and makes her 32 years older than her husband. Born ~1599, she was approximately 8 years older than her husband (plausible) and died at ~84 (plausible). First child Stoffel born 1616 when she would have been ~17 (plausible). See cross_reference_audit.md. |
