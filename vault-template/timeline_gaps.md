@@ -15,8 +15,8 @@ Expected records that should exist but have not been located. Prioritized by lik
 |---|---|---|---|---|---|
 | Abraham Salk | 1910 | Providence Ward 3, RI | OPEN | HIGH | Would show full household, Tobey, all children including Lena |
 | Abraham Salk | 1920 | Providence, RI | FOUND | | Age 71, wife Theresa 70, daughter Anna 24. 60 Chalkstone Ave area. |
-| Barnett Salmanson | 1910 | New York area | OPEN | MODERATE | First census after 1904 arrival. Age ~25. Possibly still single. |
-| Barnett Salmanson | 1920 | Providence or Brooklyn, RI/NY | OPEN | MODERATE | Family with Leonard (~10), Samuel (~8). |
+| Barnett Salmanson | 1910 | Providence RI or Brooklyn NY | OPEN | HIGH | Married Sep 1909. Age ~25-27. No children yet (Leonard born Jun 1910). Searched 2026-04-18: 10 web searches negative (databases behind login). Try FamilySearch collection 1727033 (free with login). Search both RI and Kings County NY. |
+| Barnett Salmanson | 1920 | Providence RI (236 Sterling Ave) | OPEN | HIGH | Family: Elizabeth, Leonard (~9), Samuel (~7), Charles (~5), Martha (infant). Searched 2026-04-18: 10 web searches negative. Use Steve Morse ED Finder with 236 Sterling Ave to get ED, then browse on FamilySearch collection 1488411. Would resolve immigration year and citizenship questions. |
 | Barnett Salmanson | 1930 | Providence, RI | FOUND | | "Benjamin Salmonson" age 46, wife Elizabeth 43, 5 children. |
 | Morris Markel | 1930 | West Warwick, Kent Co, RI | OPEN | **CRITICAL** | First census after ~1928 immigration. Could show Helen's parents. Different address than 1940. Try searching for Abraham Sternbach as proxy. |
 | Morris Markel | 1940 | West Warwick, RI | FOUND | | Age 48, 28 Harris Ave, wife Helen 43, 5 children. |

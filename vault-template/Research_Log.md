@@ -2,7 +2,7 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-18
-last_session: "2026-04-18 Holocaust Records Search for Brand/Goldbaum of Lesko: 15 searches across Yad Vashem, USHMM, JewishGen, Lesko Yizkor. Established complete Lesko deportation timeline (June-Sept 1942): ghetto, ~100 shot at cemetery, march to Zaslaw, transport to Belzec. Zero individual Brand/Goldbaum names found (all databases 403). USHMM Fela Goldbaum oral history identified. Brandwein family in Lesko noted. Updated Brina_Goldbaum, Joseph_Brandt, Helen_Brandt, Timeline."
+last_session: "2026-04-18 Barnett Salmanson 1910/1920 Census Search: 10 web searches across FamilySearch, Ancestry indexes, WikiTree, NARA, Steve Morse, RI Historical Society. No individual census records located (all behind login/paywall). Identified actionable paths: FamilySearch collections 1727033 (1910) and 1488411 (1920), Steve Morse ED Finder with 236 Sterling Ave for 1920 ED, Providence city directories on Internet Archive. Updated Barnett_Salmanson, timeline_gaps."
 tags: [genealogy, research, log]
 ---
 
@@ -3441,3 +3441,53 @@ Former synagogue (now art gallery since 1978) displays list of 3,000 murdered re
 
 ### Files Updated
 - [[Brina_Goldbaum]], [[Joseph_Brandt]], [[Helen_Brandt]], [[Timeline]], [[Research_Log]]
+
+## 2026-04-18: Barnett Salmanson 1910 and 1920 Census Search, 10 searches
+
+### Summary
+
+Searched for Barnett (Benjamin/Berko) Salmanson/Salmonson/Zalmanson in the 1910 and 1920 US Federal Census. 10 web searches conducted across FamilySearch, Ancestry indexes, WikiTree, NARA, Steve Morse, and general genealogy sources. **No individual census records located.** All census record databases require login or paid subscription for individual name queries, consistent with previous research findings.
+
+### Searches Conducted
+
+| # | Search | Database/Source | Result |
+|---|---|---|---|
+| 1 | "Barnett Salmanson 1910 census" | Web/NARA/Ancestry | Negative. General census information only. No individual record. |
+| 2 | "Benjamin Salmanson 1910 census Providence Rhode Island" | Web/RIHS/FamilySearch | Negative. General RI census access info. RI Historical Society has CD-ROM 1910 index. |
+| 3 | "Salmanson 1920 census Providence Rhode Island" | Web/RIHS/FamilySearch | Negative. General RI census access info. 1920 Soundex index on microfilm at RIHS. |
+| 4 | "Salmonson 1910 census New York OR Providence" | Web/NARA/Steve Morse | Negative. Found Steve Morse Unified Census ED Finder (useful tool for locating EDs). |
+| 5 | "Salmonson 1920 census Providence Rhode Island Benjamin" | Web/various | Negative. General information only. |
+| 6 | "site:familysearch.org Salmanson 1910 OR 1920 census" | FamilySearch | Negative. General collection pages only. FamilySearch requires login for individual record searches. |
+| 7 | "Elizabeth Salmanson OR Elizabeth Salmonson 1910 OR 1920 census Providence" | Web/various | Negative. General census access information. |
+| 8 | "Barnett Salmanson OR Benjamin Salmanson OR Barnett Salmonson census ancestry genealogy" | Ancestry/WikiTree | **Partial.** Found Benjamin Salmonson in 1940 Census, Juanita, Washington (different person, born ~1889, wife Emillia). Ancestry has Barnett Salmanson in US City Directories, residence Rhode Island. WikiTree has 15 Salmonson profiles, none from Providence. |
+| 9 | "Benjamin Salmonson Providence 1930 census Sterling OR Elizabeth children" | Web/NARA/Ancestry | Negative for individual record. Found us-census.org has Providence 1930 transcription project (T626-2175 to T626-2180, T626-2183). |
+| 10 | "Excello Braid Providence Rhode Island 1910s 1920s address directory" | RI State Archives/Internet Archive | **Partial.** RI State Archives Digital Archive has Polk City Directories for Providence (1916-1921). Internet Archive has Providence city directories. Ancestry has RI city directories. These can confirm Barnett's address for ED-based census lookup. |
+
+### Key Findings
+
+1. **No census records found via web search.** Census individual records are behind login/paywall at Ancestry and FamilySearch, consistent with project documentation (reference/what-ai-can-and-cannot-do.md).
+2. **Providence 1930 Census transcription project** at us-census.org may have the confirmed "Benjamin Salmonson" 1930 record transcribed and freely accessible.
+3. **City directories** for Providence (1916-1921) are digitized at RI State Archives and Internet Archive. These would confirm addresses for ED-based census browsing.
+4. **Steve Morse Unified Census ED Finder** (stevemorse.org/census/unified.html) can convert the known 1918 address (236 Sterling Ave) to a 1920 Enumeration District for targeted browsing.
+5. **WikiTree has no Salmanson profiles** from Providence. This family is not yet on WikiTree.
+
+### Recommended Human Actions (priority order)
+
+1. **FamilySearch 1920 Census** (free with login): Search "Salmanson" and "Salmonson" in Providence, RI. Also try "Benjamin" as first name. Collection 1488411.
+2. **Steve Morse ED Finder** (free, no login): Enter "236 Sterling Ave, Providence RI" for 1920 to get the Enumeration District. Then browse that ED page by page on FamilySearch.
+3. **FamilySearch 1910 Census** (free with login): Search same name variants in both Rhode Island and New York. Collection 1727033.
+4. **Providence City Directories** on Internet Archive (free): Look up Barnett Salmanson / Excello Braid Co. in 1910 and 1915 directories to determine pre-1918 addresses for 1910 census ED lookup.
+5. **Ancestry.com** (subscription): Search Salmanson/Salmonson in 1910 (collection 7884) and 1920 (collection 6061) censuses.
+
+### Analysis: Where Was Barnett in 1910?
+
+The 1910 Census was taken April 15, 1910. Barnett married Elizabeth Salk September 12, 1909 in Providence. Their son Leonard was born June 21, 1910 (after the census date). Son Samuel was born June 24, 1912 in Brooklyn, NY. Three scenarios:
+
+- **Providence**: Married there Sep 1909. Elizabeth's family (Salk) was in Providence. Possible they stayed.
+- **New York City/Brooklyn**: Samuel's 1912 Brooklyn birthplace means the family was in Brooklyn by at least 1911. They may have moved to NYC soon after marriage.
+- **Boarding**: As a newly married couple with no children (in April 1910), they may appear as boarders, making the record harder to find if the enumerator spelled the name differently.
+
+For the 1910 search, try both Providence, RI and Kings County (Brooklyn), NY.
+
+### Files Updated
+- [[Barnett_Salmanson]], [[Research_Log]], [[timeline_gaps]]

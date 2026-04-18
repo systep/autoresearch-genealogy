@@ -97,6 +97,38 @@ A systematic search of free web resources (Steve Morse One Step, JewishGen EIDB,
 4. **Statue of Liberty Foundation** (statueofliberty.org): Passenger search. HUMAN ACTION REQUIRED (free with registration).
 4. **1920 Census**: Would list year of immigration and naturalization status. Not yet accessed.
 
+## Census Search (2026-04-18)
+
+### 1910 Census (not located)
+
+10 web searches conducted for Barnett/Benjamin Salmanson/Salmonson in the 1910 US Federal Census. **No individual census record was located through free web search.** All census record databases (Ancestry, FamilySearch individual records, Findmypast) require login or paid access for individual name queries.
+
+**Search context for 1910**: The 1910 Census was enumerated April 15, 1910. Barnett would be age 25 to 27, recently married (Sep 12, 1909). Son Leonard was born June 21, 1910, so would not appear in the April 1910 census. The household should show Barnett and Elizabeth only, possibly as boarders. Location uncertain: could be Providence (where they married) or New York City/Brooklyn area (Samuel born in Brooklyn, Jun 1912, suggesting the family was in NYC by 1912 or earlier).
+
+**Name variants searched**: Barnett Salmanson, Benjamin Salmanson, Salmonson, Berko Zalmanson, Elizabeth Salmanson/Salmonson.
+
+### 1920 Census (not located)
+
+**Search context for 1920**: The 1920 Census was enumerated January 1920. Barnett (age 35 to 37) and Elizabeth (age ~33) should appear with children Leonard (~9), Samuel (~7), Charles (~5 to 6). Martha was born ~1919, so may appear as infant. By 1918, Barnett was at 236 Sterling Ave, Providence, RI (WWI Draft Card), so the 1920 address is likely Sterling Ave or nearby. The 1920 Census would list: year of immigration (confirming 1904), naturalization status (resolving the citizenship discrepancy), and whether Barnett could read/write English.
+
+**Name variants searched**: Salmanson, Salmonson, Benjamin Salmonson, Elizabeth Salmanson/Salmonson. Providence, Rhode Island and Brooklyn, New York.
+
+### Best Paths to Locate Census Records (HUMAN ACTION REQUIRED)
+
+1. **FamilySearch 1910 Census** (familysearch.org/en/search/collection/1727033): Search for Barnett Salmanson, Benjamin Salmanson, Benjamin Salmonson, Berko Zalmanson in Rhode Island or New York. Free with login.
+2. **FamilySearch 1920 Census** (familysearch.org/en/search/collection/1488411): Search same name variants in Providence, Rhode Island. Free with login.
+3. **Steve Morse Unified Census ED Finder** (stevemorse.org/census/unified.html): Use the 1920 finder with address "236 Sterling Ave, Providence" to identify the exact Enumeration District. Then browse that ED on FamilySearch. Free, no login for the finder tool.
+4. **Providence City Directories (1910, 1915, 1920)**: Rhode Island State Archives Digital Archive (sosri.access.preservica.com) has Polk City Directories for Providence. These would confirm addresses for both Barnett Salmanson and Excello Braid Co., enabling ED-based census browsing. Internet Archive also has Providence city directories (archive.org/details/providencerhodei00unse). Free.
+5. **1930 Census as template**: The 1930 Census record is confirmed ("Benjamin Salmonson," age 46, Providence). Use Ancestry or FamilySearch to pull the 1930 record image, which will show the exact address, enabling backward search from known location. FamilySearch free with login.
+6. **Ancestry.com**: Search Salmanson/Salmonson in the 1910 Census (collection 7884) and 1920 Census (collection 6061). Subscription required.
+
+### Why These Records Matter
+
+| Census | Key Data Points |
+|---|---|
+| 1910 | Location (NYC vs Providence), occupation (pre-Excello Braid), whether living with in-laws (Salk family), age (resolving 1883 vs 1885 birth year), immigration year |
+| 1920 | Address (likely Sterling Ave), immigration year (confirming 1904), naturalization status (resolving citizenship discrepancy on WWI draft card), occupation (at Excello Braid?), children present (Leonard, Samuel, Charles, possibly Martha) |
+
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
