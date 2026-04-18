@@ -4,7 +4,7 @@ name: "Paul Christman"
 born: 1605
 died: 1666
 family: "Christman"
-confidence: moderate
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10

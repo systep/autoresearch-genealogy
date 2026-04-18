@@ -4,7 +4,7 @@ name: "William Goldsmith Long"
 born: 1862
 died: 1937
 family: "Long"
-confidence: strong
+confidence: moderate
 sources:
   - "Pedigree chart page 6"
   - "MyHeritage family tree"

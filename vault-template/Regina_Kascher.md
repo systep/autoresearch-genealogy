@@ -4,7 +4,7 @@ name: "Regina Kascher"
 born: 1861-08-03
 died: 1933-03-04
 family: "Kascher"
-confidence: strong
+confidence: low
 sources:
   - "Waldhutten church certificate 'VATER' (Tier 1, 10 Feb 1938, Pastor A. Bogeschdorfer)"
 created: 2026-04-13

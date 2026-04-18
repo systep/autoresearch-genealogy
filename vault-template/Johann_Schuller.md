@@ -4,7 +4,7 @@ name: "Johann Schuller"
 born: 1797-09-03
 died: 1858
 family: "Schuller"
-confidence: strong
+confidence: moderate
 sources:
   - "Waldhutten church certificate 'VATER' (Tier 1, 10 Feb 1938, Pastor A. Bogeschdorfer)"
   - "GEDCOM f266i6 (MyHeritage/FamilySearch, Tier 3)"

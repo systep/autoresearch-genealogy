@@ -4,7 +4,7 @@ name: "John Cowgill"
 born: 1572-09-27
 died: 1634-07-23
 family: "Cowgill"
-confidence: strong
+confidence: moderate
 sources:
   - "Thornton in Craven Parish Registers, Yorkshire (Tier 1, parish records)"
   - "Carleton in Craven Parish Registers, Yorkshire (Tier 1, parish records)"

@@ -7,6 +7,7 @@ family: "Cowgill"
 confidence: moderate
 sources:
   - "Thornton in Craven Parish Registers, Yorkshire (Tier 1, parish records)"
+  - "cowgillcousins.org Bryan Cowgill family tree page, confirms burial 7 Aug 1599 and will dated 13 Jul 1599 probated 21 Oct 1599 (Tier 2, published genealogy)"
 created: 2026-04-12
 tags: [genealogy, cowgill, person, yorkshire, england, thornton-in-craven]
 ---
@@ -40,6 +41,7 @@ Bryan died on August 7, 1599 at Thornton in Craven. He is the grandfather of Edm
 | Document | Type | Vault Note |
 |---|---|---|
 | Thornton in Craven Parish Registers (baptisms, burials) | Parish records (Tier 1) | |
+| cowgillcousins.org Bryan Cowgill Family Tree | Published genealogy (Tier 2) | Confirms burial 7 Aug 1599; will dated 13 Jul 1599, probated 21 Oct 1599 |
 
 ## Data Discrepancies
 

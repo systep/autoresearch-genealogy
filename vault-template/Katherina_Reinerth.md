@@ -4,7 +4,7 @@ name: "Katherina Reinerth"
 born: 1813
 died: 1876-06-14
 family: "Reinerth"
-confidence: moderate
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage/FamilySearch)"
 created: 2026-04-10

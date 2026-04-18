@@ -4,7 +4,7 @@ name: "Anna Barbara Wolpack"
 born: ~1599
 died: 1683-12-23
 family: "Wolpack"
-confidence: moderate
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage/Geni)"
 created: 2026-04-10

@@ -4,7 +4,7 @@ name: "Martin Binder"
 born: 1831-05-03
 died: unknown
 family: "Binder"
-confidence: strong
+confidence: moderate
 sources:
   - "Waldhutten church certificate 'MUTTER' (Tier 1, 4 Apr 1938, Pastor A. Bogeschdorfer)"
   - "GEDCOM f266i6 (MyHeritage)"

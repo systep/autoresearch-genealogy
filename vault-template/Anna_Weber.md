@@ -4,7 +4,7 @@ name: "Anna Weber"
 born: 1841-04-25
 died: unknown
 family: "Weber"
-confidence: strong
+confidence: moderate
 sources:
   - "Waldhutten church certificate 'MUTTER' (Tier 1, 4 Apr 1938, Pastor A. Bogeschdorfer)"
   - "GEDCOM f266i6 (MyHeritage)"

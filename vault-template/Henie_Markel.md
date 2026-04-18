@@ -4,7 +4,7 @@ name: "Henie Markel"
 born: ~1835-1845
 died:
 family: "Markel"
-confidence: strong
+confidence: low
 sources:
   - "AGAD Warsaw, Fond 424, File 103, Record 34, Scan 52 (Sambor Jewish Marriages 1891-1897, Tier 1; her son Hersch's 1894 marriage)"
 created: 2026-04-17

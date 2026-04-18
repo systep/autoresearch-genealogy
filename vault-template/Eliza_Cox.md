@@ -4,7 +4,7 @@ name: "Eliza Cox"
 born: 1798-06-14
 died: 1880-04-13
 family: "Cox"
-confidence: moderate
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10

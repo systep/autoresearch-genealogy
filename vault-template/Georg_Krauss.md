@@ -4,7 +4,7 @@ name: "Georg Krauss (Alias Binder)"
 born: 1794-02-14
 died: unknown
 family: "Krauss/Binder"
-confidence: strong
+confidence: moderate
 sources:
   - "Waldhutten church certificate 'MUTTER' (Tier 1, 4 Apr 1938, Pastor A. Bogeschdorfer)"
   - "GEDCOM f266i6 (MyHeritage)"

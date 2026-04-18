@@ -4,7 +4,7 @@ name: "Sarah Markel Tachner"
 born: 
 died: 
 family: "Markel"
-confidence: moderate
+confidence: low
 sources:
   - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
 created: 2026-04-10

@@ -4,7 +4,7 @@ name: "Katherina Dressler"
 born: 1844
 died: 1934
 family: "Dressler"
-confidence: strong
+confidence: moderate
 sources:
   - "Petersdorf church register Entry #15 (Tier 1, certified by Brandsch)"
   - "GEDCOM f266i6 (MyHeritage, Tier 3)"

@@ -4,7 +4,7 @@ name: "Anna Katherine Hoffman"
 born: 1663-09-27
 died: 1740-10-10
 family: "Hoffman"
-confidence: moderate
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage/FamilySearch/Geni)"
 created: 2026-04-10

@@ -4,7 +4,7 @@ name: "Sara Kascher (1910)"
 born: 1910-05-01
 died: unknown
 family: "Kascher"
-confidence: strong
+confidence: low
 sources:
   - "Waldhutten church certificate 'KINDER' (Tier 1, 10 Feb 1938)"
 created: 2026-04-13

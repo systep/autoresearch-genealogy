@@ -4,7 +4,7 @@ name: "Johann Kascher (1900)"
 born: 1900-10-28
 died: unknown
 family: "Kascher"
-confidence: strong
+confidence: moderate
 sources:
   - "Waldhutten church certificate 'KINDER' (Tier 1, 10 Feb 1938)"
   - "Youngstown Vindicator obituary of Michael Kascher Sr. (1935)"

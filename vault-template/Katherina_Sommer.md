@@ -4,7 +4,7 @@ name: "Katherina Sommer"
 born: 1824
 died: 1893
 family: "Sommer"
-confidence: moderate
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10

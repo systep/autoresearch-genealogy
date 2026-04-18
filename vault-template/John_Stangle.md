@@ -4,7 +4,7 @@ name: "John Stangle"
 born: 1744
 died: unknown
 family: "Stangle"
-confidence: moderate
+confidence: low
 sources:
   - "IMG_0789.jpg (handwritten family notes, single source)"
 created: 2026-04-10

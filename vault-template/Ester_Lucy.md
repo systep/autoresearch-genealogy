@@ -4,7 +4,7 @@ name: "Esther Lucy Kyle"
 born: 1827-07
 died: 1912-05-20
 family: "Kyle"
-confidence: moderate
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage/FamilySearch)"
 created: 2026-04-10

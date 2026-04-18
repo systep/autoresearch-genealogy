@@ -4,7 +4,7 @@ name: "Albert Graham Bright"
 born: 1893
 died: 1961
 family: "Bright"
-confidence: strong
+confidence: moderate
 sources:
   - "MyHeritage family tree"
   - "1950 US Census"

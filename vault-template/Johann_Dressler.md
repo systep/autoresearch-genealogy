@@ -4,7 +4,7 @@ name: "Johann Dressler"
 born: 1814
 died: 1888
 family: "Dressler"
-confidence: moderate
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10

@@ -4,7 +4,7 @@ name: "Governor Samuel Mathews Jr."
 born: 1630
 died: 1660
 family: "Mathews"
-confidence: strong
+confidence: moderate
 sources:
   - "Wikipedia: Samuel Mathews Jr. (Tier 2, published secondary source)"
   - "Virginia colonial records (Tier 1)"

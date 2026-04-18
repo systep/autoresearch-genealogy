@@ -4,7 +4,7 @@ name: "Thomas Manning Cox"
 born: 1828
 died: 1897
 family: "Cox"
-confidence: strong
+confidence: moderate
 sources:
   - "MyHeritage family tree"
   - "WikiTree Cox-18821 (father Thomas B. Cox)"

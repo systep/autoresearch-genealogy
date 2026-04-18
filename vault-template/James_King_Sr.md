@@ -4,7 +4,7 @@ name: "James King Sr."
 born: ~1788
 died: ""
 family: "King"
-confidence: moderate
+confidence: low
 sources:
   - "1850 U.S. Federal Census, Eastern Sub Division, Anderson County, SC, Family 398, Series M432 (Tier 1)"
 created: 2026-04-13

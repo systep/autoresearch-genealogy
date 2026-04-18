@@ -4,7 +4,7 @@ name: "Anna Margaretha Christmann"
 born: 1637-01-01
 died: 1703-09-09
 family: "Christmann"
-confidence: moderate
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage/FamilySearch/Geni)"
 created: 2026-04-10

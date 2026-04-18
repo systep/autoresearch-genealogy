@@ -4,7 +4,7 @@ name: "Christina Frank"
 born: 1626
 died: 1685-04-02
 family: "Frank"
-confidence: moderate
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage/FamilySearch/Geni)"
 created: 2026-04-10

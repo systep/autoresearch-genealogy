@@ -4,7 +4,7 @@ name: "Friedrich Kascher (1907)"
 born: 1907-12-10
 died: unknown
 family: "Kascher"
-confidence: strong
+confidence: moderate
 sources:
   - "Waldhutten church certificate 'KINDER' (Tier 1, 10 Feb 1938)"
   - "Youngstown Vindicator obituary of Michael Kascher Sr. (1935)"

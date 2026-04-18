@@ -4,9 +4,10 @@ name: "Levi Itzhak Zalmanson"
 born: 1851
 died:
 family: "Zalmanson"
-confidence: strong
+confidence: moderate
 sources:
   - "MyHeritage family tree"
+  - "Geni.com profile for Rabbi Levi Yitzchok Zalmanson (1812-1872), family tree lists Srul Mendel and descendants including Levi Itzhak (Tier 3)"
 created: 2026-04-09
 tags: [genealogy, zalmanson, person, lithuania, rokiskis]
 ---
@@ -50,5 +51,6 @@ Levi Itzhak also married **Bella (born Measroch)**, though the timing and circum
 
 | Document | Type | Vault Note |
 |---|---|---|
-| MyHeritage family tree | Family tree database | Profile: Levi Itzhak Zalmanson |
+| MyHeritage family tree | Family tree database (Tier 3) | Profile: Levi Itzhak Zalmanson |
 | Rokiškis marriage record, Dec 2 1877 | Vital record (implied by MyHeritage) | MyHeritage |
+| Geni.com: Rabbi Levi Yitzchok Zalmanson profile | User-contributed tree (Tier 3) | Lists Srul Mendel as brother; corroborates Levi Itzhak's parentage |

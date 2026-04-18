@@ -4,7 +4,7 @@ name: "Anna Kascher (1903)"
 born: 1903-05-17
 died: unknown
 family: "Kascher"
-confidence: strong
+confidence: low
 sources:
   - "Waldhutten church certificate 'KINDER' (Tier 1, 10 Feb 1938)"
 created: 2026-04-13

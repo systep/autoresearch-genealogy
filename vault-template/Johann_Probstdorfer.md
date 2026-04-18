@@ -4,7 +4,7 @@ name: "Johann Probstdorfer"
 born: 1821
 died: 1884
 family: "Probstdorfer"
-confidence: moderate
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10

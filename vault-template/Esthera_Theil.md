@@ -4,7 +4,7 @@ name: "Esthera Theil"
 born: 1791-10-09
 died: unknown
 family: "Theil"
-confidence: strong
+confidence: moderate
 sources:
   - "Waldhutten church certificate 'MUTTER' (Tier 1, 4 Apr 1938, Pastor A. Bogeschdorfer)"
   - "GEDCOM f266i6 (MyHeritage)"

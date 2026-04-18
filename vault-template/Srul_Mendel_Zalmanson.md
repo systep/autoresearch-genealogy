@@ -4,9 +4,11 @@ name: "Srul Mendel Zalmanson"
 born: 1820
 died: 1854
 family: "Zalmanson"
-confidence: strong
+confidence: moderate
 sources:
   - "MyHeritage family tree"
+  - "Geni.com profile for Rabbi Levi Yitzchok Zalmanson (1812-1872), lists Srul Mendel as sibling (Tier 3)"
+  - "loebtree.com ZALMANSON Family Tree page, documents Yekutiel Zalman and descendants (Tier 2, published genealogy)"
 created: 2026-04-09
 tags: [genealogy, zalmanson, person, belarus, barysaw]
 ---
@@ -40,4 +42,6 @@ He died in 1854 at approximately age 34 in **Barysaw (Borisov)**, in the Minsk R
 
 | Document | Type | Vault Note |
 |---|---|---|
-| MyHeritage family tree | Family tree database | Profile: Srul Mendel Zalmanson |
+| MyHeritage family tree | Family tree database (Tier 3) | Profile: Srul Mendel Zalmanson |
+| Geni.com: Rabbi Levi Yitzchok Zalmanson profile | User-contributed tree (Tier 3) | Lists Srul Mendel as sibling; corroborates family structure |
+| loebtree.com ZALMANSON Family Tree | Published genealogy (Tier 2) | Documents Yekutiel Zalman and descendants including Srul Mendel |

@@ -2,7 +2,7 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-18
-last_session: "2026-04-18 Goldbaum deep search in Lisko/Lesko Galician Jewish databases (15 searches): no Goldbaum from Lesko found in any database"
+last_session: "2026-04-18 Colonial Records Search (prompts/10-colonial-records-search.md): 7 SC colonial families, 10 iterations, ~30 searches. Key findings: William Cox Sr. Granville land grants 1754 (3 grants, 1440 acres on Deep River, Orange Co NC); Harmon Cox (1723-1812) confirmed as son of Delaware William Cox, NOT related to our William Cox Sr. per Y-DNA; Argaleus Henderson Regulators signer 1768, 1804 deed to son John, 1806 estate inventory; Thomas Brasher Sr. 1770 will with daughters named; Fork Shoals Baptist Church records 1813-1899 digitized at SC Digital Library; SC Archives state plats 1784-1868 now online at archivesindex.sc.gov."
 tags: [genealogy, research, log]
 ---
 

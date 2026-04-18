@@ -4,7 +4,7 @@ name: "Maria Ranft"
 born: 1882
 died: 1891
 family: "Ranft"
-confidence: moderate
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10

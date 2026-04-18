@@ -4,7 +4,7 @@ name: "Hans Jost Hoffman"
 born: 1628
 died: 1697-02-26
 family: "Hoffman"
-confidence: moderate
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage/FamilySearch/Geni)"
 created: 2026-04-10
