@@ -44,8 +44,15 @@ Complete inventory of all ancestry-related data assets. Each tagged with source,
 
 ### Identified But Not Yet Accessed (Require Human Browser Access)
 
-| Database/Source | Family | URL | Status (2026-04-14) |
+| Database/Source | Family | URL | Status (2026-04-17) |
 |---|---|---|---|
+| RIJHA "M" Obituaries PDF (Jewish Herald Voice) | Markel, Brandt | https://rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf | 403 on programmatic access. **DECISIVE** for Helen Brandt line: should contain Morris Markel (~1963) and Helen Markel (~1975) obituaries naming parents and family. |
+| MyHeritage Goldbaum family site | Goldbaum, Brandt | https://www.myheritage.com/site-family-tree-1131568351/goldbaum-family-site | 403 on programmatic access. User-contributed Goldbaum family tree. May contain Brina Goldbaum details. |
+| Gesher Galicia Brandt families page | Brandt | https://www.geshergalicia.org/families/?id=brandt/ | 403 on programmatic access. Indexed Brandt records from Galician vital records. |
+| Jack Schlusselberg obituary (Salem MA) | Markel, Schlusselberg | https://www.dignitymemorial.com/obituaries/salem-ma/jack-schlusselberg-8066256 | 403 on programmatic access. If son of Anne Markel Schlusselberg, would name Helen as grandmother. |
+| Ferilyn Kaplan obituary (West Warwick RI) | Kaplan, Markel | https://www.legacy.com/us/obituaries/providence/name/ferilyn-kaplan-obituary?id=12678216 | 403 on fetch. Died Aug 6, 2019. Likely Irving Kaplan family (Kate Markel's husband). |
+| Jewish Rhode Island article: "The rise and fall of a West Warwick temple" | Markel, Sternbach | https://www.jewishrhody.com/stories/the-rise-and-fall-of-a-west-warwick-temple,9862 | 403 on fetch. May name Markel family as congregation members. |
+| CJH Ulrich Skaller Collection (Brandt family in Galicia and Russia) | Brandt | https://www.cjh.org/ (contact for finding aid, reference ME 605) | Collection documenting Brandt, Ament, Kohl, Kalahora, Lebenheim families in Galicia. |
 | Gesher Galicia All Galicia Database, Sambor records (indexed from TsDIAL Fond 701) | Markel | https://search.geshergalicia.org/ | Sambor fully indexed; 403 on programmatic access; search for "Markel" in browser |
 | JRI-Poland Sambor town page with surname lists | Markel | https://jri-poland.org/town/sambor.htm | 403 on programmatic access; check Sambor surname list for Markel |
 | AGAD Warsaw Fond 300, Sambor Jewish metrical books (1877 to 1911, scans available) | Markel | https://www.geshergalicia.org/agad/ | Scans digitized; browse for Markel in marriage records (1878 key year) |

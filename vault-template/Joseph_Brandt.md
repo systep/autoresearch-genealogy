@@ -60,10 +60,32 @@ The surname "Brandt" appears in:
 | Birth year | ~1815 (GEDCOM) | Helen born ~1889 (making Joseph ~74 at her birth) | **DATA ERROR.** The GEDCOM birth year of ~1815 is almost certainly wrong. If Helen was born ~1889, Joseph was more likely born ~1855-1870. The "27 Jul" dates in the GEDCOM (appearing identically for birth and death) are system artifacts, not real dates. |
 | Death year | ~1891 (GEDCOM) | Brina died in the Holocaust (post-1939) | If Joseph died in 1891 and Brina survived until the Holocaust era, Joseph would have predeceased Brina by nearly 50 years. This is possible but unusual. More likely the 1891 death date is also a GEDCOM error. |
 
-## Research Leads
+## 2026-04-17 Research Session Update
 
-1. **Gesher Galicia All Galicia Database**: Search for "Brandt" in the database (search.geshergalicia.org). May find birth/marriage/death records from Galicia.
-2. **JRI-Poland**: Search for "Brandt" in indexed 19th century Jewish records from current and former territories of Poland.
-3. **1930 US Census, West Warwick, RI**: If Joseph was still alive and in the US by 1930, he might appear in the household of Morris and Helen Markel.
-4. **Ship passenger manifests (~1928)**: If Joseph immigrated with the Markel family, he would appear on the manifest.
-5. **Yad Vashem Central Database**: Search for Joseph Brandt as a possible Holocaust victim (if he did not emigrate).
+Conducted 20+ web searches as part of Helen Brandt deep research. No primary or secondary sources located for Joseph Brandt specifically. Key databases (Gesher Galicia, Yad Vashem, JRI-Poland, RIJHA obituaries) require browser-based access (all returned 403 on programmatic access).
+
+### New Leads Identified
+
+1. **Gesher Galicia Brandt families page**: geshergalicia.org/families/?id=brandt/ confirmed. This page indexes Brandt records from Galician vital records. HUMAN ACTION REQUIRED.
+2. **CJH collection**: The Center for Jewish History has a collection documenting "Brandt, Ament, Kohl, Kalahora, and Lebenheim families in Galicia and Russia." This may reference Joseph Brandt or his ancestors.
+3. **Tarnopol 1880 and 1890 Jewish Census records**: Indexed in the All Galicia Database. Brandt appears in the 1910 Tarnopol census surname list. If Joseph was from the Tarnopol area, he should appear in these census records.
+4. **Ancestry collection 3132**: Galicia, Ukraine, Jewish Births, Marriages, and Deaths, 1789-1905. Would cover Joseph's estimated birth period (~1855-1870).
+5. **MyHeritage Goldbaum family site**: myheritage.com/site-family-tree-1131568351/goldbaum-family-site may contain Joseph Brandt as husband of Brina Goldbaum.
+
+### Assessment Update
+
+Joseph Brandt remains at **Speculative** confidence. Zero independent records found. The only source is the MyHeritage GEDCOM (Tier 3). His birth and death dates in the GEDCOM (~1815/~1891) are confirmed as data errors. Estimated birth: ~1855-1870 (based on daughter Helen's ~1891 birth). If Joseph died before Helen's 1928 emigration, he left no US records. If he remained in Europe and survived into the 1930s-1940s, he may appear in Holocaust records.
+
+## Research Leads (Updated 2026-04-17)
+
+1. **Gesher Galicia All Galicia Database**: Search search.geshergalicia.org for "Brandt" in Tarnopol district. The 1880/1890/1910 censuses are indexed. HUMAN ACTION REQUIRED (browser access only).
+2. **Gesher Galicia Brandt families page**: Access geshergalicia.org/families/?id=brandt/ in browser.
+3. **CJH Brandt family collection**: Contact Center for Jewish History (cjh.org) about their Brandt/Ament/Kohl/Kalahora/Lebenheim collection. Request finding aid.
+4. **JRI-Poland**: Search for "Brandt" in indexed 19th century Jewish records.
+5. **Ancestry collection 3132**: Galicia Jewish vital records 1789-1905. Subscription required.
+6. **1930 US Census, West Warwick, RI**: Check if Joseph was in the Markel household. His absence would confirm he remained in Europe or died before 1928.
+7. **Ship passenger manifests (~1928)**: Search for Joseph Brandt on the same manifest as the Markel family.
+8. **Yad Vashem Central Database**: Search collections.yadvashem.org for Joseph Brandt from Galicia/Tarnopol.
+9. **RIJHA "M" Obituaries PDF**: Morris Markel's obituary (~1963) may name Helen's parents (i.e., Joseph Brandt). Access rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf in browser.
+10. **Rhode Island death records**: Helen Markel's death record (~1975) should list her parents' names. Request from RI Dept of Health (records 50+ years old are public).
+11. **MyHeritage Goldbaum family site**: Access myheritage.com/site-family-tree-1131568351/goldbaum-family-site in browser.

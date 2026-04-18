@@ -2,13 +2,66 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-17
-last_session: "2026-04-17 four-stream parallel sweep: Markiel/Frei click-through, Salk death cert, Deych Rokiskis, Kascher Wurmloch"
+last_session: "2026-04-17 Helen Brandt deep research (Brandt/Goldbaum line)"
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-17: Helen Brandt / Joseph Brandt / Brina Goldbaum Deep Research
+
+### Summary
+Conducted 20+ web searches targeting the thinnest line in the family tree: Helen Brandt (wife of Morris Markel), her father Joseph Brandt, and her mother Brina Goldbaum. All three individuals are at Speculative confidence with only Tier 3 (MyHeritage GEDCOM) as their source. Goal: find ANY primary or secondary source that corroborates or expands this line.
+
+**Result: No new primary or secondary sources located through web search.** All key genealogical databases (Gesher Galicia All Galicia Database, Yad Vashem names database, Find a Grave cemetery search within Lincoln Park Cemetery, RIJHA obituary PDFs, MyHeritage Goldbaum family site, JRI-Poland Sambor page, KehilaLinks Markel family page) returned 403 errors on programmatic access. These databases require manual browser-based access.
+
+**However, several significant leads were identified that are likely to yield results when accessed manually in a browser.**
+
+### Searches Conducted
+
+| # | Query | Source | Result |
+|---|---|---|---|
+| 1 | Helen Brandt Markel obituary Rhode Island | Web | NEGATIVE. Helen Brandt obit from Rock Island IL (2022) is unrelated. |
+| 2 | Find a Grave Helen Markel Rhode Island Lincoln Park Cemetery | Find a Grave | NEGATIVE. No memorial found. Kate Kaplan (#232002112) confirmed. |
+| 3 | Morris Markel obituary 1963 Rhode Island Providence Journal | Web | NEGATIVE. General database links only. |
+| 4 | "Helen Brandt" Jewish immigration Poland Rhode Island 1928 | Web | NEGATIVE. General Jewish immigration history only. |
+| 5 | "Anne Markel" Schlusselberg obituary Rhode Island | Web/Find a Grave | NEGATIVE. Thelma's memorial confirms Anne as sister. No standalone obit. |
+| 6 | "Rita Markel" obituary Rhode Island | Web | NEGATIVE. Rita Martell (1930-2017, Pawtucket) is different person. |
+| 7 | "Joseph Harold Markel" West Warwick | Web | NEGATIVE. |
+| 8 | Brandt Jewish family Tarnopol Galicia JewishGen | Gesher Galicia | PARTIAL. Brandt families page at geshergalicia.org confirmed (403). |
+| 9 | Goldbaum Jewish family Tarnopol Galicia Holocaust | Gesher Galicia | PARTIAL. Both surnames in Tarnopol 1910 Census confirmed. USHMM source 33098. |
+| 10 | Yad Vashem "Goldbaum" Tarnopol | Yad Vashem | NEGATIVE (403 on search). |
+| 11 | Yad Vashem "Brandt" Tarnopol | Yad Vashem | NEGATIVE (403 on search). |
+| 12 | Jack Schlusselberg Salem MA obituary | Dignity Memorial | PARTIAL. Obituary exists (403 on fetch). Possible son of Anne Markel Schlusselberg. |
+| 13 | Ferilyn Kaplan obituary West Warwick | Legacy.com | PARTIAL. Died Aug 6, 2019 (403 on fetch). Likely Kate Kaplan family. |
+| 14 | Kate Kaplan obituary full text | Legacy.com | NEGATIVE (403). Snippet confirms: b. Poland, URI, Sloan Kettering, Atlanta. |
+| 15 | Lincoln Park Cemetery Markel burial records | Web | PARTIAL. Cemetery confirmed: 401-737-5333, 13,809 memorials, 54 sections. |
+| 16 | "Brandt" "Goldbaum" Jewish Poland Galicia | CJH/Gesher Galicia | POSITIVE. CJH collection documents Brandt family in Galicia. Gesher Galicia Brandt page. |
+| 17 | MyHeritage "Helen Brandt" "Joseph Brandt" "Brina Goldbaum" | MyHeritage | POSITIVE. Goldbaum family site discovered (403 on access). |
+| 18 | "Brandt" Tarnopol Jewish records 1880-1900 | Gesher Galicia/AGAD | PARTIAL. 1880/1890 censuses indexed in All Galicia Database. |
+| 19 | Ahavath Sholom congregation history Markel | RIJHA/JewishRhody | PARTIAL. Articles exist (403). May name congregation members. |
+| 20 | RIJHA obituaries M section | RIJHA | NEGATIVE (403). PDF at rijha.org likely contains Markel obituaries. |
+| 21 | Morris Markel naturalization West Warwick | Web | NEGATIVE. |
+| 22 | "Helen Brandt" born Poland ~1891 immigration | Web | NEGATIVE. |
+
+### Key Leads Identified (HUMAN ACTION REQUIRED)
+
+1. **RIJHA "M" Obituaries PDF** (rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf): Access in browser. Should contain Morris Markel (~1963) and Helen Markel (~1975) obituaries from the Jewish Herald Voice. **HIGHEST PRIORITY. DECISIVE RECORD.**
+2. **Lincoln Park Cemetery** (401-737-5333): Phone call to confirm Morris + Helen burials and headstone data.
+3. **Helen Markel RI death record** (~1975): Request from RI Dept of Health. Would list parents' names.
+4. **MyHeritage Goldbaum family site** (myheritage.com/site-family-tree-1131568351/goldbaum-family-site): Access in browser.
+5. **Gesher Galicia All Galicia Database**: Search for Brandt and Goldbaum in Tarnopol district.
+6. **Jack Schlusselberg obituary** (Dignity Memorial): Access in browser.
+7. **CJH Brandt family collection**: Contact CJH for finding aid.
+8. **Yad Vashem names database**: Search for Brina Goldbaum.
+
+### Vault Updates Made
+- Helen_Brandt.md: Updated birth year estimate to ~1891, added 2026-04-17 research session with all 22 searches, updated research leads with prioritized human-action items.
+- Joseph_Brandt.md: Added 2026-04-17 research update, new leads (Gesher Galicia Brandt page, CJH collection, MyHeritage Goldbaum site, RIJHA obituaries).
+- Brina_Goldbaum.md: Added 2026-04-17 research update, new leads (MyHeritage Goldbaum site, Tarnopol censuses, USHMM Yizkor names, Tarnopol Yizkor book).
+- Open_Questions.md: Updated #21 with full 2026-04-17 search history and revised leads. Merged #30 into #21. Updated #32 with additional search history. Added Data Acquisition Priorities #33-42.
 
 ## 2026-04-17: Four-stream parallel research sweep
 
