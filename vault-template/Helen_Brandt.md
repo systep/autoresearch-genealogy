@@ -56,6 +56,20 @@ The Yichus narrative (Tier 2) confirms Helen as "Helen Brandt Markel," wife of M
 
 Based on the obituary of daughter Kate (Markel) Kaplan (Providence Journal, Jan 13, 2006), Kate was "born in Poland" and "moved to W. Warwick, RI at the age of 3." Kate was born December 6, 1925 (Find a Grave #232002112), placing the family's immigration to West Warwick at approximately 1928. This means older children Thelma (b. 1920) and possibly Anne and Frieda were also born in Poland. The family settled directly in West Warwick (Arctic), where Morris's sister [[Minnie_Markel_Sternbach]] and her husband Abraham Sternbach had been established since 1912 as founding members of the local Jewish community.
 
+### Parents' Fate in the Holocaust (2026-04-18)
+
+Helen's mother **[[Brina_Goldbaum]]** reportedly died in the Holocaust (GEDCOM, Tier 3). Research (2026-04-18) has established the complete deportation timeline for the Jewish community of Lesko (Lisko), Helen's birthplace:
+
+- **June 1942**: Lesko Jews confined in a ghetto.
+- **Mid-August 1942**: Ghetto liquidated. Approximately 100 elderly/infirm shot at the Jewish cemetery. Remainder marched to Zaslaw transit camp.
+- **September 7-10, 1942**: Approximately 17,000 Jews deported from Zaslaw to **Belzec extermination camp** and murdered immediately.
+
+If Brina remained in Lesko, at her estimated age of 67-82 she was most likely among those shot at the cemetery or deported to Belzec. Helen's father **[[Joseph_Brandt|Józef Brand]]** may have predeceased the Holocaust (GEDCOM death ~1891, a data error but possibly directionally correct), or may have suffered the same fate.
+
+Helen emigrated to the United States approximately 1928 with her husband Morris and their children. By leaving Europe before 1939, the Markel/Brandt family narrowly avoided the fate that consumed both their origin communities: the Lesko Jews (murdered Aug-Sept 1942) and the Sambor Jews (murdered 1942-1943, including four of Morris's siblings).
+
+The Lesko Yizkor Book necrology (pp. 467-489, jewishgen.org/yizkor/lesko/) and the Yad Vashem names database may contain entries for Brina and/or Joseph. HUMAN ACTION REQUIRED.
+
 ### Children
 
 Together Helen and Morris had five documented children:

@@ -84,7 +84,14 @@ Joseph Brandt remains at **Speculative** confidence. Zero independent records fo
 
 **CORRECTED**: Joseph was from **Lisko (Lesko)**, not Tarnopol (per Tier 1 evidence). If Joseph remained in Lisko, he would have been subject to the Lesko deportation of August 1942, when the entire Jewish population was deported and exterminated. The Lesko Jewish community numbered approximately 2,400 in 1921 (63% of the population). At his estimated birth (~1860-1880), Joseph would have been 62-82 years old in 1942. Given the GEDCOM death date of ~1891 (which is a data error), it is possible Joseph died before the Holocaust.
 
-No results found for "Joseph Brand" or "Brandt" from Lisko/Lesko in Yad Vashem or USHMM databases via web search (all returned 403; HUMAN ACTION REQUIRED).
+**Lesko Holocaust Timeline (2026-04-18, Tier 2, multiple corroborating sources)**:
+- **June 1942**: Jews from Lesko and vicinity confined in a ghetto.
+- **Mid-August 1942**: Ghetto liquidated. Approximately 100 of the least physically fit (elderly, sick, disabled) were **shot at the Lesko Jewish cemetery**. Remainder marched to Zaslaw transit camp (unfinished paper factory, 5 miles south of Sanok).
+- **September 7-10, 1942**: Approximately 17,000 Jews from the Sanok district deported from Zaslaw to **Belzec extermination camp** and murdered immediately in gas chambers.
+
+**Joseph's probable fate**: If Joseph was alive in 1942, at estimated age 62-82 he would have been among the elderly. He was most likely either (a) shot at the Lesko Jewish cemetery in mid-August 1942, or (b) deported to Belzec and murdered September 7-10, 1942. However, if the GEDCOM death date of ~1891 has any basis (even approximate), Joseph may have died decades before the Holocaust.
+
+No results found for "Joseph Brand" or "Brandt" from Lisko/Lesko in Yad Vashem, USHMM, or JewishGen databases via web search (15 Holocaust-focused searches conducted 2026-04-18; all database pages returned 403). The Lesko Yizkor Book necrology (pp. 467-489, jewishgen.org/yizkor/lesko/) and Yad Vashem names database are the most likely sources to contain his name if he was among the murdered. HUMAN ACTION REQUIRED.
 
 **Note (2026-04-18)**: The earlier vault note suggesting Dwora Goldbaum/Brand was Joseph's "daughter-in-law" was incorrect. Dwora is Joseph's **daughter**, the same person as Helen Brandt Markel. See [[Mojzesz_Majer_Markiel]] for the full identity analysis.
 
