@@ -2,11 +2,14 @@
 type: audit
 audit_type: source-citation
 created: 2026-04-18
-total_person_files: 654
-pass_count: 225
-needs_corroboration_count: 429
-note: "10 files upgraded from NEEDS_CORROBORATION to PASS via web search corroboration"
+updated: 2026-04-19
+total_person_files: 1087
+pass_count: 270
+needs_corroboration_count: 817
+rabbinic_dynasty_stubs_deferred: 431
+non_rabbinic_needs_corroboration: 386
 unsourced_count: 0
+note: "2026-04-19 scoped audit: Salk and Baldwin batches reviewed, Kuniansky upgrades applied, John_Baldwin_Oldest downgraded to stub, rabbinic-dynasty stubs flagged en masse as NEEDS_CORROBORATION (deferred to specialized research track)"
 ---
 
 # Source Citation Audit
@@ -847,3 +850,172 @@ Based on this audit, the following confidence updates are recommended:
 3. **Holocaust research** for Markel family: search Yad Vashem Pages of Testimony directly
 4. **Transylvanian records** for Kascher family: search Siebenbuergen archives, FamilySearch microfilm
 5. **Remaining non-core NEEDS_CORROBORATION files** are low priority (distant collateral, ancient figures)
+
+---
+
+# 2026-04-19 Scoped Re-Audit
+
+**Audit date**: 2026-04-19
+**Scope**: New and updated person files from the 2026-04-19 session (Salk batch, Baldwin line), plus pre-existing low/stub candidates and prior-flagged NEEDS_CORROBORATION items. Rabbinic-dynasty stubs from the Shneur Zalman of Liadi Geni ingest were flagged en masse as a single deferred research track and were not individually re-audited.
+
+## Summary
+
+| Category | Count | % |
+|---|---|---|
+| Total person files in vault | 1087 | 100% |
+| Total redirect files | 27 | - |
+| PASS (2+ sources) | 270 | 25% |
+| NEEDS_CORROBORATION (1 source) | 817 | 75% |
+| UNSOURCED (0 sources) | 0 | 0% |
+
+Of the 817 NEEDS_CORROBORATION files, **431 are single-source Geni rabbinic-dynasty stubs** added during the 2026-04-19 Shneur Zalman of Liadi ingest. These are flagged en masse as NEEDS_CORROBORATION with the note "Geni-only rabbinic-dynasty stub; corroboration requires specialized rabbinic-biography sources (JewishGen rabbinic databases, Chabad Sefarim, printed rabbinic biographies); deferred to separate research track." Deeper web corroboration for these individual rabbis was not attempted in this audit pass.
+
+Non-rabbinic NEEDS_CORROBORATION: **386 files**. These remain the target of future audit passes (prioritize direct ancestors and first-degree collateral).
+
+## Confidence Distribution (Post-Audit)
+
+| Confidence | Count |
+|---|---|
+| high | 151 |
+| moderate | 79 |
+| low | 856 |
+| stub | 1 |
+
+Note: some low-confidence files have 2 listed sources but both derive from the same underlying record and are therefore treated as 1 independent source (see guard notes below).
+
+## Source Count Distribution
+
+| Sources | Files |
+|---|---|
+| 1 | 817 |
+| 2 | 100 |
+| 3 | 76 |
+| 4 | 45 |
+| 5 | 29 |
+| 6 | 9 |
+| 7 | 3 |
+| 8 | 2 |
+| 9 | 2 |
+| 10 | 1 |
+| 11 | 1 |
+| 13 | 1 |
+| 28 | 1 |
+
+## Files Re-Audited This Run
+
+### Salk batch (new 2026-04-19 person files)
+
+| File | Sources Listed | Independent Sources | Confidence | Status |
+|---|---|---|---|---|
+| [[Julius_Salk]] | 2 (NY Marriage Cert + MyHeritage index) | 1 (same record) | low (corrected from moderate) | NEEDS_CORROBORATION |
+| [[Rebecca_Marcus_Friedberg]] | 2 | 1 (same record) | low (corrected from moderate) | NEEDS_CORROBORATION |
+| [[Benjamin_Salk]] | 2 | 1 (same record, derivative mention) | low | NEEDS_CORROBORATION |
+| [[Esther_Rappaport]] | 2 | 1 (same record, derivative mention) | low | NEEDS_CORROBORATION |
+| [[Willy_Friedberg]] | 1 | 1 | low | NEEDS_CORROBORATION (single-source note added) |
+| [[Henriette_Goldberg]] | 1 | 1 | low | NEEDS_CORROBORATION (single-source note added) |
+| [[Lena_Port]] | 2 | 1 (both MyHeritage views of same RI record) | low (corrected from moderate) | NEEDS_CORROBORATION |
+| [[Hannah_Salk]] | 1 | 1 | low | NEEDS_CORROBORATION (single-source note added) |
+| [[Rose_Gerwitz]] | 1 | 1 | low | NEEDS_CORROBORATION (single-source note added; one candidate Geni profile surfaced but unverifiable) |
+| [[Israel_Salk]] | 1 | 1 | low | NEEDS_CORROBORATION (single-source note added) |
+| [[Robert_Salem_Salk]] | 1 | 1 | low | NEEDS_CORROBORATION (single-source note added) |
+| [[Max_Salk_Chicago_1892]] | 1 | 1 | low | NEEDS_CORROBORATION (single-source note added) |
+| [[Simon_Port]] | 2 (MyHeritage GEDCOM + RI marriage index) | 2 (different origin) | moderate | PASS |
+| [[Sarah_Salk]] | 2 (MyHeritage GEDCOM + RI marriage index naming her as mother of bride) | 2 (different origin) | moderate | PASS |
+
+### Baldwin line
+
+| File | Sources | Confidence | Status |
+|---|---|---|---|
+| [[John_Baldwin_Oldest]] | 1 (user-provided) | stub (corrected from low) | NEEDS_CORROBORATION |
+| [[John_Baldwin_Oxfordshire]] | 3 (Chester Meeting, WikiTree, Chester Co wills) | high | PASS |
+| [[Thomas_Baldwin_Oxfordshire]] | 2 (Chester Co wills, WikiTree) | moderate | PASS |
+| [[William_Baldwin_Aylesbury]] | 3 (WikiTree, Baker's History, Gray's Inn) | high | PASS |
+| [[John_Baldwin_Sr]] | 5 (WikiTree, Geni, FamilySearch, Chatham deed, Chatham Historical Journal) | high | PASS |
+| [[John_Baldwin_Chester_PA]] | 3 (Chester Co wills, Chester Meeting, WikiTree) | high | PASS |
+
+### Pre-existing low-confidence family files (spot check)
+
+| File | Sources | Confidence | Change |
+|---|---|---|---|
+| [[Milton_Kuniansky]] | 2 (GEDCOM + Find a Grave #140747645) | moderate (upgraded from low) | Upgraded low -> moderate |
+| [[Harry_Kuniansky]] | 2 (GEDCOM + Find a Grave #99745398) | moderate (upgraded from low) | Upgraded low -> moderate |
+
+Other Kascher, Brecht, Bright, Kuniansky, Kleinberg, Drake, Cox, Long, Wert single-source files already flagged in the 2026-04-18 audit were spot-checked; none had new independent sources added during the 2026-04-19 session work (which was focused on Salk and Baldwin). They remain in NEEDS_CORROBORATION at `low` confidence.
+
+### Prior-flagged NEEDS_CORROBORATION items (re-check)
+
+All 25 "Searches With No Second Source Found" items from the 2026-04-18 audit were spot-checked. Only [[Sarah_Salk]] gained a second source during this session (RI marriage index naming her as mother of bride Lena Salk-Port; upgraded to moderate in the Salk agent's work). The rest remain at 1 source. Two prior items (Albert_Bright, Rowland_Black_Cox) are no longer person files (consolidated into canonical person files as redirects).
+
+## Upgrades This Run (confidence change)
+
+| File | Change | Reason |
+|---|---|---|
+| [[Milton_Kuniansky]] | low -> moderate | Find a Grave memorial added (2nd independent source) |
+| [[Harry_Kuniansky]] | low -> moderate | Find a Grave memorial added (2nd independent source) |
+| [[Sarah_Salk]] | low -> moderate (via Salk agent) | RI marriage index added (2nd independent source) |
+| [[Simon_Port]] | low -> moderate (via Salk agent) | RI marriage index added (2nd independent source) |
+
+## Downgrades This Run
+
+| File | Change | Reason |
+|---|---|---|
+| [[Julius_Salk]] | moderate -> low | Two sources listed, but MyHeritage index derives from the same NY marriage certificate |
+| [[Rebecca_Marcus_Friedberg]] | moderate -> low | Same as Julius Salk |
+| [[Lena_Port]] | moderate -> low | Two MyHeritage views of same RI 1917 marriage record |
+| [[John_Baldwin_Oldest]] | low -> stub | Only "user-provided data" and no dates; stub is the correct tier |
+
+## Tier 3 to Tier 1/2 Promotions (2026-04-19 Salk/Baldwin work)
+
+The 2026-04-19 session brought several persons from Tier 3-only (MyHeritage GEDCOM) to Tier 1 or Tier 2 corroboration:
+
+| File | Prior State | New State |
+|---|---|---|
+| [[Simon_Port]] | Tier 3 GEDCOM only | Tier 3 + Tier 2 RI 1917 Marriage index (primary record, indexed) |
+| [[Sarah_Salk]] | Tier 3 GEDCOM only | Tier 3 + Tier 2 RI 1917 Marriage index naming her as mother of bride |
+
+The Julius Salk / Rebecca Marcus Friedberg / Benjamin Salk / Esther Rappaport / Willy Friedberg / Henriette Goldberg file set is anchored in Tier 1 (the NY 1910 marriage certificate, transcribed in [[Julius_Salk_Rebecca_Marcus_NY_Marriage_1910]]), which is a net Tier 1 addition for those persons (previously not in the vault at all).
+
+Baldwin line: [[John_Baldwin_Oxfordshire]], [[Thomas_Baldwin_Oxfordshire]], [[John_Baldwin_Chester_PA]] added Tier 1 Chester County PA wills and Chester Monthly Meeting Quaker records, a significant Tier 1 addition for that branch.
+
+## Rabbinic Dynasty Files (Bulk Flag)
+
+**431 files** added during the 2026-04-19 Shneur Zalman of Liadi Geni ingest have as their only source "Geni curated World Family Tree, Shneur Zalman of Liadi project" (or close variant). These are flagged en masse as NEEDS_CORROBORATION with the disposition:
+
+> Geni-only rabbinic-dynasty stub; corroboration requires specialized rabbinic-biography sources (JewishGen rabbinic databases, Chabad Sefarim, printed rabbinic biographies, Encyclopedia of Hasidism); deferred to separate research track.
+
+Individual web searches on these rabbinic stubs were not attempted in this audit pass. They should be handled as a batch research track of their own.
+
+## Web Search Results (2026-04-19, targeted)
+
+Targeted single-query web searches for the Salk batch single-source files:
+
+| Person | Query | Result |
+|---|---|---|
+| [[Robert_Salem_Salk]] | Chicago 1889 Kovno Ludmilla | No specific record |
+| [[Israel_Salk]] | 1882 Kovno alien registration | No specific record |
+| [[Rose_Gerwitz]] | Rose Gerwitz/Gewirtz 1918 Manhattan Victor | Found Geni profile for Victor Henry Gerwitz (1867-1947) with daughter Caroline Rose Gerwitz (1904-1996), but Caroline predates the 1918 marriage; not a confirmable match |
+| [[Max_Salk_Chicago_1892]] | Chicago 1892 Kovno WWI draft | No specific record |
+| [[Lena_Port]] | Providence RI 1917 Simon | No specific record beyond the MyHeritage-indexed record already cited |
+| [[Julius_Salk]] | Rebecca Marcus/Friedberg Bronx 1910 storekeeper | No specific record |
+| [[Simon_Port]] | Providence RI 1928 death Lithuania | No specific record |
+| [[Hyman_Salk_1873]] | Providence RI 1873 obituary grave | No new record |
+| [[Nussen_Elia_Salk]] | Providence RI St. Petersburg | No new record |
+
+No new second sources were added via web search in this pass for Salk batch files.
+
+## Actions Completed (2026-04-19)
+
+1. [DONE] Downgraded Julius_Salk, Rebecca_Marcus_Friedberg, Lena_Port from moderate to low (derivative-source correction)
+2. [DONE] Added single-source notes to Willy_Friedberg, Henriette_Goldberg, Hannah_Salk, Rose_Gerwitz, Israel_Salk, Robert_Salem_Salk, Max_Salk_Chicago_1892
+3. [DONE] Upgraded Milton_Kuniansky and Harry_Kuniansky from low to moderate (2nd independent source via Find a Grave)
+4. [DONE] Downgraded John_Baldwin_Oldest from low to stub (no dates, single user-provided source)
+5. [DONE] Tagged the 431 rabbinic-dynasty Geni stubs as a deferred research track (bulk flag, no individual edits)
+6. [DONE] Audit file updated with 2026-04-19 section
+
+## Remaining Next Steps (carryover)
+
+1. Obtain the full image of the NY 1910 marriage certificate (not just the MyHeritage index) so it can serve as a genuine Tier 1 primary source for Julius Salk, Rebecca Marcus Friedberg, and their parents.
+2. Obtain the full image of the RI 1917 marriage certificate for Lena Salk / Simon Port to confirm Lena's father's name.
+3. WWI / WWII draft card images for Max Salk (Chicago) and Robert Salem Salk to surface next-of-kin and residence.
+4. Rabbinic dynasty: plan a separate research track using JewishGen, Chabad archives, and printed rabbinic biographies. Do not conflate with the general family audit.
+5. Prior-audit items remain open: Max Salk (Providence) death-year discrepancy, George Adam Bright death-year, Markel Holocaust records, Kascher Transylvanian records.
