@@ -1,47 +1,11 @@
 ---
-type: person
-name: "Cythia Cox"
-born: 1762
-died: 1835
-family: "Cox"
-confidence: low
-sources:
-  - "MyHeritage GEDCOM export (Tier 3)"
+type: redirect
+redirect_to: "[[Cynthia_Sithey_Cox]]"
 created: 2026-04-18
-tags: [genealogy, cox, person, south-carolina, alabama]
+updated: 2026-04-19
+tags: [redirect]
 ---
 
-# Cythia Cox
+# Redirect
 
-## Vital Information
-
-| Field | Value | Source |
-|---|---|---|
-| Full Name | Cythia Cox | MyHeritage GEDCOM (unverified) |
-| Born | 1762, Greenville County, South Carolina | MyHeritage GEDCOM (unverified) |
-| Birthplace | Greenville County, South Carolina | MyHeritage GEDCOM (unverified) |
-| Died | 1835, Talladega County, Alabama | MyHeritage GEDCOM (unverified) |
-| Father | Unknown | MyHeritage GEDCOM (unverified) |
-| Mother | Unknown | MyHeritage GEDCOM (unverified) |
-| Spouse | Unknown | MyHeritage GEDCOM (unverified) |
-| Children | None recorded | MyHeritage GEDCOM (unverified) |
-
-## Biography
-
-Cythia Cox was born 1762 in Greenville County, South Carolina (unverified).
-
-Cythia Cox died 1835 in Talladega County, Alabama (unverified).
-
-All data sourced from MyHeritage GEDCOM export (Tier 3). No independent verification has been performed.
-
-## Document Sources
-
-| Document | Type | Vault Note |
-|---|---|---|
-| MyHeritage GEDCOM export | Family tree database (Tier 3) | Unverified |
-
-## Data Discrepancies
-
-| Field | Source A | Source B | Resolution |
-|---|---|---|---|
-| | | | |
+This person has a canonical file at [[Cynthia_Sithey_Cox]]. Same person, spelling variant of first name (Cythia vs Cynthia). Both files had identical birth (1762, Greenville SC) and death (1835, Talladega AL) data sourced from MyHeritage GEDCOM (Tier 3). Consolidated 2026-04-19 per cross_reference_audit.md duplicate pass.

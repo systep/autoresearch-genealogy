@@ -1,47 +1,11 @@
 ---
-type: person
-name: "William Cox Cox"
-born: 1798-06-08
-died: 1682-02-15
-family: "Cox"
-confidence: low
-sources:
-  - "MyHeritage GEDCOM export (Tier 3)"
+type: redirect
+redirect_to: "[[William_Cox_1798]]"
 created: 2026-04-18
-tags: [genealogy, cox, person, south-carolina]
+updated: 2026-04-19
+tags: [redirect]
 ---
 
-# William Cox Cox
+# Redirect
 
-## Vital Information
-
-| Field | Value | Source |
-|---|---|---|
-| Full Name | William Cox Cox | MyHeritage GEDCOM (unverified) |
-| Born | 8 JUN 1798, Greenville, Greenville, South Carolina | MyHeritage GEDCOM (unverified) |
-| Birthplace | Greenville, Greenville, South Carolina | MyHeritage GEDCOM (unverified) |
-| Died | 15 FEB 1682, Simpsonville, Greenville, South Carolina | MyHeritage GEDCOM (unverified) |
-| Father | Unknown | MyHeritage GEDCOM (unverified) |
-| Mother | Unknown | MyHeritage GEDCOM (unverified) |
-| Spouse | Unknown | MyHeritage GEDCOM (unverified) |
-| Children | None recorded | MyHeritage GEDCOM (unverified) |
-
-## Biography
-
-William Cox Cox was born 8 JUN 1798 in Greenville, Greenville, South Carolina (unverified).
-
-William Cox Cox died 15 FEB 1682 in Simpsonville, Greenville, South Carolina (unverified).
-
-All data sourced from MyHeritage GEDCOM export (Tier 3). No independent verification has been performed.
-
-## Document Sources
-
-| Document | Type | Vault Note |
-|---|---|---|
-| MyHeritage GEDCOM export | Family tree database (Tier 3) | Unverified |
-
-## Data Discrepancies
-
-| Field | Source A | Source B | Resolution |
-|---|---|---|---|
-| | | | |
+This person has a canonical file at [[William_Cox_1798]]. The "William Cox Cox" filename is a GEDCOM artifact (surname duplicated). Born 8 JUN 1798 in Greenville SC; death date "15 FEB 1682" in the GEDCOM is an obvious data error (century inversion; a birth in 1798 cannot predate death by more than a century). The canonical William Cox b. 1798 d. 1862 married Eliza and had son Thomas Manning Cox. Consolidated 2026-04-19.
