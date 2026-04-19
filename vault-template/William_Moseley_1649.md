@@ -25,7 +25,7 @@ tags: [genealogy, moseley, person, virginia, lower-norfolk, rotterdam, merchant-
 |---|---|---|
 | Full Name | William Moseley, Gent. | WikiTree Moseley-506 (Tier 3), Colonial Virginia Portraits (Tier 2) |
 | Born | c. 1605, Staffordshire, England (probable) | WikiTree (Tier 3) |
-| Birthplace | Staffordshire, England (ancestral seat at Rolleston) | WikiTree (Tier 3), Colonial Virginia Portraits (Tier 2) |
+| Birthplace | Disputed. Possibly London (St Margaret's, Westminster, baptism 15 or 17 December 1606, unverified). Staffordshire / Rolleston claim refuted: see Data Discrepancies. | WikiTree (Tier 3), [[Moseley_Virginia_English_Origin_Research_2026_04_19]] |
 | Died | Before 1655, Lower Norfolk County, Virginia | WikiTree (Tier 3) |
 | Burial | Unknown (Lower Norfolk County, Virginia) | |
 | Father | Unknown. Older Tier 3 claim of descent from Mosleys of Rolleston Hall, Staffordshire, is refuted (Sir Edward Mosley d. 1638 without issue). | Lewis-genealogy.org (Tier 3), WikiTree Space: earliest Moseleys in America (Tier 3 rebuttal) |
