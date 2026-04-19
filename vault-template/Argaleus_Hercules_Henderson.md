@@ -67,3 +67,7 @@ His son **Ezekiel Henderson** (1763-1846) served in the Revolutionary War (priva
 |---|---|---|---|
 | Birth year | ~1720 (WikiTree) | ~1727 (some trees) | Range of ~1720-1727 recorded. Exact birth year unknown; no primary source. |
 | Death year | ~1804 (will dated Sept 6, 1804) | ~1806 (some trees) | Will dated 1804 provides a terminus post quem. Death was 1804-1806. |
+
+## Scots-Irish Origin (Upstream)
+
+See [[Henderson_Scots_Irish_Origin_Research_2026_04_19]] for the working hypothesis on the pre-colonial origin of this Henderson line. Summary (Moderate Signal): the upstream ancestor **James Henderson Sr. (c.1632-bef.1692)** of Hungars Parish, Northampton Co VA (by May 5, 1661) and later Somerset Co MD (1666 Pocomoke patent) signed the 1689 Somerset County Grand Jury "Advice of Loyalty" alongside Ulster-Scot Presbyterian neighbors from the Laggan (eastern Donegal, Lifford area) who had followed Francis Makemie and William Trail to Somerset in 1683. Published research notes a cluster of Hendersons around **Perth, Scotland** in 16th/17th century parish records as probable ancestors. Proposed migration path: Scotland (Perth/Fife) -> Ulster (probably Donegal/Laggan) -> Virginia Eastern Shore (by 1661) -> Somerset Co MD (by 1666) -> Onslow NC (c.1720) -> Chatham NC -> SC. Not yet corroborated by a primary parish or hearth-money record; see the hypothesis file for specific next steps.
