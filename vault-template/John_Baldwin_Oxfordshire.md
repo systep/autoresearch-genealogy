@@ -27,8 +27,8 @@ tags: [genealogy, baldwin, person, oxfordshire, hook-norton, england, chester-co
 | Birthplace | Hook Norton, Oxfordshire, England (likely) | Chatham Historical Journal 1994 (Tier 2); see [[Baldwin_Chesham_Quaker_Research_2026_04_19]] |
 | Died | circa 1732, Chester County, Pennsylvania | Chester County wills (Tier 1) |
 | Burial | Unknown | |
-| Father | William Baldwin (1631-1670) of Southrop, Hook Norton, Oxfordshire (unverified) | WikiTree Baldwin-2344 (Tier 3), Chatham Historical Journal 1994 (Tier 2) |
-| Mother | Mary Daves (unverified) | WikiTree Daves-46 (Tier 3), Chatham Historical Journal 1994 (Tier 2) |
+| Father | [[William_Baldwin_Hook_Norton\|William Baldwin]] (~1626-1670) of Hook Norton, Oxfordshire (moderate confidence) | WikiTree Baldwin-2344 (Tier 3), Chatham Historical Journal 1994 (Tier 2) |
+| Mother | Mary Daves (moderate confidence) | WikiTree Daves-46 (Tier 3), Chatham Historical Journal 1994 (Tier 2) |
 | Spouse | Katherine (Carter) Turner (m. 1689, Chester Meeting) | Chester Monthly Meeting Records (Tier 1) |
 | Children | [[John_Baldwin_Chester_PA]] (b. 1697) | Chester County wills (Tier 1), WikiTree Baldwin-2335 (Tier 3) |
 
