@@ -2,7 +2,7 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-19
-last_session: "2026-04-19 Timeline Gap Analysis (prompt 07): ~20 searches across 8 iterations. Identified 55 new expected-record gaps (82 total OPEN). No Marvin Sternbach KIA Okinawa record found in free databases. Morris Markel death corrected to 1964 Florida. NARA RI casualty list inaccessible. All census/military/immigration records behind login walls."
+last_session: "2026-04-18 Immigration Search (Prompt 11): ~30 searches across 10 immigrants. No manifests located (all databases require login/subscription). Key finding: FamilySearch collection 2622566 (RI Naturalization Records 1907-1991, free with login) is the single best path to resolve immigration details for Morris Markel, Barnett Salmanson, Abraham Sternbach, Elizabeth Salk. Ship 'The Liberty' (Florence 1923) remains unconfirmed."
 tags: [genealogy, research, log]
 ---
 

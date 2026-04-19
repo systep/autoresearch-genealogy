@@ -64,6 +64,20 @@ Minnie's siblings, in birth order per the Yichus narrative (pages 6-8):
 
 Confidence: Moderate. The Yichus narrative (Tier 2) provides birth year, death year, parents, and settlement location. Spouse data comes from MyHeritage (Tier 3). The birth year discrepancy (1887 vs 1889) requires resolution.
 
+### Immigration (2026-04-18, Prompt 11 session)
+
+Abraham and Minnie Sternbach arrived in Arctic (West Warwick), Rhode Island in **1912** (RIJHA article by Rebecca Twersky, RI Jewish Historical Notes Vol. 7, 1977, Tier 2). This is independently confirmed by the fact that their son Maurice was born in 1912 (Yichus typed family tree, Tier 2).
+
+**Passenger manifest status:** NOT LOCATED. Systematic search across Ellis Island Foundation, Steve Morse One-Step, JewishGen EIDB, and general web found no manifest for Abraham Sternbach, Avraham Sternbach, or Minnie Markel/Sternbach arriving 1912. The manifest should exist in the Ellis Island database (1892-1924 coverage) and would be on NARA microfilm T715.
+
+**Naturalization record status:** NOT LOCATED. Abraham Sternbach was one of seven founding members of Congregation Ahavath Shalom (chartered December 12, 1919) and served as its first vice president. He would have naturalized in Rhode Island, likely in the U.S. District Court. His petition is probably in FamilySearch collection 2622566 (RI Naturalization Records 1907-1991, free with login).
+
+HUMAN ACTION REQUIRED:
+1. Search FamilySearch collection 2622566 for Abraham Sternbach / Abraham David Sternbach / Avraham Sternbach in Rhode Island.
+2. Search Steve Morse One-Step for Sternbach arriving 1912 from Austria/Galicia at New York. Also try: Szternbach, Sternbah, Shternbach.
+3. Search JewishGen EIDB by town: Waniowice or Sokoliki, arriving 1911-1913.
+4. Search Statue of Liberty Foundation for same variants.
+
 ## Document Sources
 
 | Document | Type | Vault Note |

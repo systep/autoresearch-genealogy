@@ -55,3 +55,11 @@ Levi Itzhak also married **Bella (born Measroch)**, though the timing and circum
 | MyHeritage family tree | Family tree database (Tier 3) | Profile: Levi Itzhak Zalmanson |
 | Rokiškis marriage record, Dec 2 1877 | Vital record (implied by MyHeritage) | MyHeritage |
 | Geni.com: Rabbi Levi Yitzchok Zalmanson profile | User-contributed tree (Tier 3) | Lists Srul Mendel as brother; corroborates Levi Itzhak's parentage |
+
+## Immigration Status (2026-04-18, Prompt 11 session)
+
+**Immigration to the United States: UNCONFIRMED but possible.** Barnett Salmanson's WWI Draft Registration Card (1918, Tier 1) has Box 12 checked: "Citizen by Father's Naturalization Before Registrant's Majority." If accurate, this means Levi Itzhak was in the United States and naturalized before Barnett turned 21 (~1904-1906). However, NO other source documents Levi Itzhak's immigration or presence in the US.
+
+Systematic search (2026-04-18) across Ellis Island Foundation, Steve Morse One-Step, JewishGen EIDB, and general web found no passenger manifest or naturalization record for Levi Zalmanson, Louis Salmanson, Lavi Salmanson, or any variant. The GEDCOM records his death as approximately January 28, 1907 (Tier 3, unverified). If he died in 1907, he could have been in the US for only a few years (arriving sometime before Barnett's 21st birthday in 1904).
+
+**HUMAN ACTION REQUIRED:** Search FamilySearch collection 2622566 (RI Naturalization Records 1907-1991) for Levi Zalmanson, Louis Salmanson, Lavi Salmanson in Providence, RI. Also search the pre-1906 records in FamilySearch collection 2064580 (New England Petitions for Naturalization 1787-1906). If Levi naturalized before 1906, his record would be minimal (name and country only), but its existence would confirm his US presence.

@@ -112,7 +112,7 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 | Samuel | ~1912 (Brooklyn, NY) | Oct 21, 2004 (West Palm Beach, FL) | Hilda Mittleman (1916-2016) | James; Tobey (m. Richard Oresman) | Palm Beach Post obit |
 | Charles | 1914 | 2008 | Hannah Kushner (1914-2001) | (not confirmed) | AncientFaces, Find a Grave #185239892 |
 | Donald | 1924 | Sept 7, 2015 | Never married (companion: Lisle Whiteley) | None mentioned | Providence Journal obit |
-| Martha E. | ~1919-1920 | ~2014-2015 (age 95) | (1) Paul Corin, (2) Edward Schwartz | Rosalind Hill, Larry Schwartz | Jewish Rhode Island obit |
+| Martha E. | ~1919-1920 | Sept 26, 2013 (age 95) | (1) Paul Corin, (2) Edward Schwartz | Rosalind Hill, Larry Schwartz | Jewish Rhode Island obit |
 
 **In-law families:**
 - **Hilda (Mittleman) Salmanson** (1916-2016): daughter of Max and Fannie Mittleman; siblings Harry Mittleman, Joseph Mittleman, Sara Goldberg

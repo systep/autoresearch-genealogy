@@ -60,7 +60,9 @@ A systematic search was conducted for Michael Kascher's passenger manifest and n
 HUMAN ACTION REQUIRED:
 1. Search FamilySearch Ohio County Naturalization Records for Michael Kascher in Mahoning County.
 2. Search Ancestry/FamilySearch for Kascher arriving from Austria-Hungary (or Hungary) at New York 1908-1913.
-3. Contact Mahoning County Clerk of Courts (330-740-2114) for naturalization records.
+3. Contact Mahoning County Clerk of Courts (330-740-2111; address: 345 Oak Hill Avenue, Renaissance Place, Entrance A, Youngstown, OH 44502) for naturalization records.
+
+**Immigration search update (2026-04-18, Prompt 11 session):** Systematic search across Ellis Island Foundation, Steve Morse One-Step, Hamburg Passenger Lists references, GG Archives, and general web found no passenger manifest for Michael or Michel Kascher arriving from Austria-Hungary or Transylvania ~1910-1912. Also searched for surname "Kascher" with Waldhutten/Valchid origin -- no results. Michael was in the US by May 10, 1913 (marriage in Beaver, PA), so arrival was ~1910-1912. The manifest would be on NARA microfilm T715 (New York) or T674 (Philadelphia). **Hamburg Passenger Lists** (Ancestry collection 1068, FamilySearch) are a promising additional source since many Transylvanian Saxons departed via Hamburg. Mahoning County Clerk of Courts (330-740-2111) confirmed as holding naturalization records. The Historical Society of Pennsylvania (HSP) Balch collection also holds Mahoning County naturalization papers. FamilySearch has Ohio County Naturalization Records 1800-1977 (free with login).
 
 ## Document Sources
 

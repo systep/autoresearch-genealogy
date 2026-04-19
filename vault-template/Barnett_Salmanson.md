@@ -92,10 +92,12 @@ A systematic search of free web resources (Steve Morse One Step, JewishGen EIDB,
 
 **Best remaining paths to locate the manifest:**
 1. **FamilySearch collection 2622566**: Rhode Island Naturalization Records 1907-1991. Barnett's naturalization petition would list ship name, arrival date, and port. Search for Barnett Salmanson, Benjamin Salmanson, or Berko Zalmanson. HUMAN ACTION REQUIRED (free with login).
-2. **Steve Morse One Step** (stevemorse.org/ellis/passengers.php): Search the New York passenger lists using the Gold Form with Daitch-Mokotoff Soundex for Zalmanson variants arriving December 1904. HUMAN ACTION REQUIRED (free, no login).
-3. **JewishGen EIDB** (jewishgen.org/databases/eidb/): Gold Form allows town-of-origin search for Vilna. HUMAN ACTION REQUIRED (free, no login).
+2. **Steve Morse One Step** (stevemorse.org/ellis/passengers.php): Search the New York passenger lists using the Gold Form with Daitch-Mokotoff Soundex for Zalmanson variants arriving December 1904. HUMAN ACTION REQUIRED (requires Ancestry subscription -- confirmed 2026-04-18).
+3. **JewishGen EIDB** (jewishgen.org/databases/eidb/ellisgold.html): Gold Form allows town-of-origin search for Vilna. HUMAN ACTION REQUIRED (free, no login for search form but results may require login).
 4. **Statue of Liberty Foundation** (statueofliberty.org): Passenger search. HUMAN ACTION REQUIRED (free with registration).
-4. **1920 Census**: Would list year of immigration and naturalization status. Not yet accessed.
+5. **1920 Census**: Would list year of immigration and naturalization status. Not yet accessed.
+
+**Immigration search update (2026-04-18, Prompt 11 session):** Conducted systematic search across all free web sources. GG Archives confirmed no SS Baltic passenger list for December 1904 is digitized there (earliest available: Dec 1917). The December 14, 1904 Liverpool departure and December 23 New York arrival remain confirmed by secondary sources. The actual manifest exists on NARA microfilm T715 and in the Ancestry/FamilySearch digitized collections but is not accessible without login. Name variants to search: Berko Zalmanson, Berl Zalmanson, Berko Zalmanzon, B. Salmanson, Berko Salmanson, Benjamin Zalmanson. FamilySearch collection 2622566 (RI Naturalization Records, free with login) is the highest-priority path.
 
 ## Census Search (2026-04-18)
 

@@ -45,7 +45,7 @@ tags: [genealogy, Brandt, person, jewish, poland, immigrant, rhode-island, lisko
 | Memberships | Ahavath Sholom Synagogue (West Warwick); Jewish Home for the Aged; Providence Chapter of Hadassah; Pioneer Women; Jewish Community Center; Providence Hebrew Day School; Golden Agers | RIJHA obituary (Tier 2) |
 | Marriage | Banns: 29 Nov, 6 Dec, 13 Dec 1919, Sambor | 1919 marriage banns (Tier 1) |
 | Residence at Marriage | Sambor, Galicia | 1919 marriage banns (Tier 1) |
-| Immigration | Approximately 1928 (family was still in Poland when daughter Kate was born Dec 1925; Kate arrived in West Warwick at age 3) | Kate Kaplan obituary (Tier 2) |
+| Immigration | Approximately 1928 (family was still in Poland when daughter Kate was born Dec 1925; Kate arrived in West Warwick at age 3). **Prompt 11 search (2026-04-18): 30 searches across Ellis Island, Steve Morse, JewishGen, GG Archives, Chronicling America -- no manifest located. All databases require login/subscription.** | Kate Kaplan obituary (Tier 2) |
 | Children | **5 children, 10 grandchildren**: (1) Thelma (Tobi) Markel (1920-2011), (2) Anne (m. Schlusselberg, NYC), (3) Freda Markel (NYC), (4) Kate Markel (m. Kaplan; 1925-2006), (5) Joseph H. Markel (Providence; ~1932-1989) | RIJHA obituary (Tier 2); Kate Kaplan obituary (Tier 2); Find a Grave #232002112 |
 | Funeral | Sugarman Memorial Chapel, 458 Hope St., Providence | RIJHA death notice (Tier 2) |
 | Shiva | At home of Mrs. Leonard Salmanson (Thelma), Freeman Parkway, Providence | RIJHA death notice (Tier 2) |

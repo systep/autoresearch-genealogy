@@ -39,7 +39,15 @@ Florence (Sura Feiga) Markel Mermelstein was born on **May 15, 1909** and died o
 
 In **1923**, Florence arrived alone in the United States on a ship the family remembered as **"The Liberty"** (Yichus narrative, Tier 2). She was approximately 14 years old at the time of her immigration. A ticket had also been purchased for her sister Hannah, but Hannah refused to leave because she was engaged to be married (Yichus narrative, Tier 2).
 
-**Ship name analysis (2026-04-18):** No transatlantic passenger vessel named "The Liberty" has been confirmed for 1923. The SS Liberty (1890) was a British railway vessel, not a transatlantic liner. The name is likely a family memory error. Florence's 1923 arrival falls within the Ellis Island database coverage (1892-1924) and her manifest should be searchable via Steve Morse One Step or the Ellis Island Foundation under her Yiddish name "Sura Feiga Markel" or a variant. HUMAN ACTION REQUIRED: Search the Ellis Island database for a Markel female aged approximately 14 arriving in 1923 from Poland/Galicia.
+**Ship name analysis (2026-04-18):** No transatlantic passenger vessel named "The Liberty" has been confirmed for 1923. The SS Liberty (1890) was a British railway vessel, not a transatlantic liner. The name is likely a family memory error. Florence's 1923 arrival falls within the Ellis Island database coverage (1892-1924) and her manifest should be searchable via Steve Morse One Step or the Ellis Island Foundation under her Yiddish name "Sura Feiga Markel" or a variant.
+
+**Immigration search update (2026-04-18, Prompt 11 session):** Systematic search across Ellis Island Foundation, Steve Morse One-Step, JewishGen EIDB, theshipslist.com 1923 arrivals, GG Archives, and general web. **No passenger manifest located and no ship "The Liberty" confirmed.** Searched for "Sura Feiga Markel," "Sura Markiel," "Florence Markel," and "Florence Mermelstein" -- all negative. Also searched for "The Liberty" and "La Liberté" as transatlantic passenger vessels in 1923 -- no such vessel found. The ship name is almost certainly a family memory error (possibly a confusion with the Statue of Liberty, which immigrants passed on arrival, or a garbled ship name like "SS Leviathan" which was in service 1923). Florence's manifest SHOULD exist in the Ellis Island database (1892-1924 coverage).
+
+HUMAN ACTION REQUIRED:
+1. Search Steve Morse One-Step Gold Form (stevemorse.org/ellis/passengers.php) for: Markel female aged 13-15 arriving 1923 from Poland/Galicia. Try: Sura Markel, Feiga Markel, Sara Markel, Sura Markiel, Florence Markel. Use Daitch-Mokotoff Soundex.
+2. Search JewishGen EIDB Gold Form (jewishgen.org/databases/eidb/ellisgold.html) by town: Waniowice, arriving 1923.
+3. Search Statue of Liberty Foundation (statueofliberty.org) for same name variants.
+4. Consider searching for the Yichus narrative's statement that a ticket was also bought for Hannah (who refused) -- the ticket purchase may have left a record even if Hannah did not travel.
 
 ### Marriage and Family
 
