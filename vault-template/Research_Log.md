@@ -3923,3 +3923,52 @@ Systematic search for passenger manifests and naturalization records for 10 iden
 
 ### Files Updated
 - [[Morris_Markel]], [[Helen_Brandt]], [[Barnett_Salmanson]], [[Elizabeth_Salk]], [[Levi_Itzhak_Zalmanson]], [[Michael_Kascher_Transylvania]], [[Florence_Markel_Mermelstein]], [[Minnie_Markel_Sternbach]], [[Simon_Port]], [[Research_Log]], [[Family_Tree]]
+
+---
+
+## 2026-04-19 Evening: Open Question Resolution (Session 08)
+
+**Goal**: Prioritized pass over OPEN questions using web search plus session context (Julius Salk/Kovno ingest, Baldwin FreeREG, Shneur Zalman Geni ingest, Find a Grave sweep).
+
+**Searches run (approx 15; all free web, no login):**
+
+| # | Search | Result | Resolution |
+|---|---|---|---|
+| 1 | "Nathan Fain" "Lena" Providence RI Lincoln Park Cemetery | NEGATIVE (no individual records, only Alfred Fain's 2005 legacy.com obituary reconfirmed) | OQ #36 no advance |
+| 2 | "William Thomas Long" 1825 Standing Springs | NEGATIVE (no Find a Grave memorial; only different William Thomas Longs from other states) | OQ #20 no advance |
+| 3 | "Benjamin Salk" Kovno Lithuania "Esther Rappaport" | NEGATIVE (no external corroboration of the Benjamin-Esther couple beyond the NY marriage certificate already in vault) | No new link for OQ #16 |
+| 4 | "Georgia King Sims" Fork Shoals 1885 | POSITIVE (confirms same cemetery as Judson King; same Find a Grave details already noted) | OQ #17 re-confirmed: post-1880 King child candidate identified but not named H.H. |
+| 5 | Baldwin emigrants 1682 Pennsylvania Chesham Bucks Oxfordshire Joshua Hastings | POSITIVE: search snippet explicitly states "Three young Baldwin brothers Thomas, John, and Francis sailed from **Oxfordshire**, England, around 1682 as servants of Joshua Hastings." Supports vault's existing Oxfordshire attribution over the Buckinghamshire FreeREG hypothesis; Bucks hits remain unverified candidates. | Baldwin-Oxfordshire attribution corroborated by one additional Tier 3 web source. |
+| 6 | "Lena Fain" OR "Lena Salk Fain" Providence obituary OR cemetery | NEGATIVE (no independent result beyond Alfred Fain's 2005 obit already known) | OQ #36 no advance |
+| 7 | "Troskunai" Zalk family "Leyzer" grandson Duluth | POSITIVE: JewishGen KehilaLinks page for Troskunai Zalk family confirmed. Leyzer Zalk > Zalkind Zalk + Freyda > Shmuel (1830) > Max (Mortkhel) Zalk (b. 1857) emigrated to Duluth MN 1905. **No Louis/Lazar Salk in Providence in this line.** Providence Louis Elizar Salk (b. ~1840) is not the Troskunai Leyzer (much earlier generation) and is not the Max (Duluth) line. | OQ #18: MODERATE evidence AGAINST the Troskunai link for the Providence Salk family. Naming similarity alone was insufficient; confirmed the Troskunai line went to Duluth, not Providence. |
+| 8 | "Hyman Salk" Providence Kovno Lithuania hardware 1900 founder | NEGATIVE (business is confirmed founded Providence 1900, but no genealogical biography) | OQ #16 no further advance |
+| 9 | "George Adam Bright" Heidelberg Lebanon PA 1731 1769 1783 | POSITIVE: Web result confirms TWO distinct persons: George Bright (b. 9 Feb 1731 Heidelberg PA, d. 1769) AND George Adam Bright (b. 2 Sep 1730, d. 14 Jun 1804). Cross_reference_audit item for "George Adam Bright 1769 vs 1783" reflects two different Find a Grave memorials (#124244091 for GAB b.1730, and #285400993 for George Bright b.1731). Not a date error but a name/person conflation. | Cross-reference audit resolved (not an OPEN question in Open_Questions.md; update handled by prior Find a Grave sweep). |
+| 10 | "Judson King" Pelzer 1900 census "H H King" | NEGATIVE | OQ #17 no advance |
+| 11 | "Jeddiah Clark" Greenville SC 1850 census Gilley | NEGATIVE (census PDFs exist but not indexed by search engines) | OQ #28 no advance |
+| 12 | "Rebecca L Bright" Virginia 1894 maiden name | NEGATIVE | OQ #1 no advance |
+| 13 | "Mary Elizabeth Huff" "William Thomas Long" Greenville 1900 census widow | NEGATIVE | OQ #20 no advance |
+| 14 | "Mojzesz Majer Markiel" 1919 Sambor marriage banns age | NEGATIVE (JRI-Poland Krakow index exists but no Sambor result surfaced) | OQ #34 no advance |
+| 15 | "Feiga Goldbaum" Lesko Yad Vashem Page of Testimony | NEGATIVE (general Yad Vashem results only; no specific PoT visible to web search) | OQ #24 no advance |
+| 16 | "Harry Kuniansky" Atlanta Komarovka Odessa 1888 1889 | POSITIVE: Find a Grave memorial #99745398 confirms **b. 21 Mar 1889** (not 15 Jun 1888 from GEDCOM). | Cross-reference audit: Find a Grave (Tier 2, headstone-derived) supersedes MyHeritage GEDCOM (Tier 3). Harry Kuniansky DOB resolved in favor of **21 Mar 1889** at Strong Signal level. Not an OPEN question in Open_Questions.md, logged here. |
+| 17 | "Baldwin-2330" Eli Baldwin Forsyth NC marriage 1800 Quaker bond | NEGATIVE (no marriage bond surfaced; only the existing WikiTree profile) | OQ #25 confirmed: "Edaline L. Transon" remains uncorroborated; "Elizabeth (unknown)" remains WikiTree consensus. |
+
+**Session context ingested (informs resolution attempts):**
+- Julius Salk (b. ~1871 Kovno, father Benjamin Salk, mother Esther Rappaport, m. Rebecca Marcus-Friedberg 1910 NYC Tier 1): adds a new Salk branch distinct from Abraham Salk. Does NOT directly merge Abraham and Hyman Salk families.
+- Baldwin_Buckinghamshire_FreeREG_Records_1590-1680 (14 entries, Chesham stronghold): provides candidate birth parents for the 1682 Oxfordshire emigrants, but the emigrants' Oxfordshire origin is today corroborated by an additional web source. Bucks hits remain a competing hypothesis.
+- Shneur Zalman Geni ingest (436 stubs) substantially expands rabbinic lineage; 10 discrepancies logged in cross_reference_audit rows 51-60 (handled by prior session agent, not touched here).
+- Find a Grave sweep (Harry Kuniansky, Milton Kuniansky, David Bright memorials added): already reflected in person files and findagrave_audit.md.
+
+**Open questions touched this session (see Open_Questions.md for detail):**
+- OQ #16 (Abraham Salk / Hyman Salk relationship): PARTIALLY_RESOLVED -- new Kovno-origin Salk branches (Julius Salk line) documented; Abraham/Hyman link still unproven.
+- OQ #18 (Louis Salk / Troskunai Zalk link): PARTIALLY_RESOLVED -- evidence now tilts against the Troskunai link.
+- OQ #17 (H.H. King): no advance; confirmed a post-1880 King child (Georgia King Sims) but no H.H.
+- OQ #20, #28, #1, #15 (Clark, Cooley, Long, Bright branch questions): no advance without paid/login databases.
+- OQ #24, #34: no advance (databases all require browser login).
+- OQ #25 Eli Baldwin wife: confirmed "Elizabeth (unknown)" consensus; "Edaline L. Transon" remains uncorroborated.
+
+**Negative results logged** for OQ #1, #17, #20, #24, #28, #34, #36 across the 15 searches above.
+
+### Files updated (2026-04-19 evening)
+- [[Open_Questions]] (OQ #16, #18 updated with 2026-04-19 findings)
+- [[Louis_Elizar_Salk]] (note that Troskunai link is now evidence-against)
+- [[Research_Log]] (this entry)
