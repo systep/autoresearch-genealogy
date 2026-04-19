@@ -1,17 +1,16 @@
 ---
 type: person
-name: "Johann Christoph Schwarz (later John M Schwartz)"
+name: "Johann Christoph Schwarz"
 born: 1822-05-17
 died: 1907-02-14
 family: "Schwartz"
-confidence: high
+confidence: moderate
 sources:
   - "FamilySearch Germany Births and Baptisms 1558-1898, indexing project J94102-3, GS Film 1184569 (Tier 1, derivative of original Enzweihingen Evangelical parish register)"
-  - "1870 US Federal Census, Sharon Township, Johnson County, Iowa, page 6 (Tier 1)"
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18
 updated: 2026-04-19
-tags: [genealogy, schwartz, schwarz, person, germany, wuerttemberg, enzweihingen, iowa, west-virginia, immigrant]
+tags: [genealogy, schwartz, schwarz, person, germany, wuerttemberg, enzweihingen, immigrant]
 ---
 
 # Johann Christoph Schwarz (later John M Schwartz)
@@ -20,33 +19,41 @@ tags: [genealogy, schwartz, schwarz, person, germany, wuerttemberg, enzweihingen
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | **Johann Christoph Schwarz** (baptismal); **John M Schwartz** (1870 US census, "M" probably an informal rendering of Christoph) | FamilySearch baptismal record (Tier 1); 1870 US Census (Tier 1) |
+| Full Name | **Johann Christoph Schwarz** (baptismal) | FamilySearch baptismal record (Tier 1) |
 | Born | **17 May 1822** | FamilySearch baptismal record, Tier 1 (corrects GEDCOM's 1821 by one year) |
 | Christened | 19 May 1822, Evangelisch, Enzweihingen, Neckarkreis, Württemberg | FamilySearch baptismal record (Tier 1) |
 | Birthplace | **Enzweihingen, Neckarkreis, Württemberg** (present-day part of Vaihingen an der Enz, Ludwigsburg Kreis, Baden-Württemberg, Germany) | FamilySearch baptismal record (Tier 1) |
 | Died | 14 FEB 1907, Pleasant Valley, Marshall, West Virginia (vault GEDCOM, not independently verified) | MyHeritage GEDCOM (Tier 3) |
 | Father | [[Johann_Conrad_Schwarz]] | FamilySearch baptismal record (Tier 1) |
 | Mother | [[Susanna_Barbara_Eitel]] | FamilySearch baptismal record (Tier 1) |
-| Spouse | [[Catharine_Schwartz_1821]] (b. ~1821 Württemberg, also in 1870 Iowa household) | 1870 US Census (Tier 1) |
-| Children | None co-resident in 1870 Iowa census; any adult children would have married out by that date. GEDCOM records no children. | 1870 US Census (Tier 1); MyHeritage GEDCOM (Tier 3) |
-| Occupation 1870 | Farmer (Sharon Township, Johnson County, Iowa) | 1870 US Census (Tier 1) |
-| Real estate 1870 | $3,000 | 1870 US Census (Tier 1) |
-| Personal property 1870 | $900 | 1870 US Census (Tier 1) |
+| Spouse | Unknown — **candidate [[Catharine_Schwartz_1821]]** (b. ~1821 Württemberg, in 1870 Iowa census), but identification is not confirmed (see Data Discrepancies below) | Candidate only |
+| Children | Unknown (GEDCOM records none; multiple candidate US Schwartz households with the same Johann + Catharine name pair exist, with conflicting data) | |
 
 ## Biography
 
 Johann Christoph Schwarz was born **17 May 1822** in Enzweihingen, Neckarkreis, Württemberg, and christened there at the Evangelical (Lutheran) parish **19 May 1822** (FamilySearch "Germany, Births and Baptisms, 1558-1898" indexing project J94102-3, GS Film 1184569; Tier 1 derivative of the original parish register). His parents were **[[Johann_Conrad_Schwarz]]** and **[[Susanna_Barbara_Eitel]]** (Tier 1 identifications from the same baptismal record; both previously listed as Unknown in the vault).
 
-He emigrated to the United States at an unknown date before 1870 and settled as a farmer in **Sharon Township, Johnson County, Iowa** (Post Office Belleair). The **1870 US Federal Census** (enumerated 11 July 1870 by William Queen, Asst. Marshal; page 6, dwelling 43, family 45) records him as "**John Schwartz**, 49, M, farmer, $3,000 real estate, $900 personal property, born Württemberg" in a two-person household with his wife **Catharine** (also age 49, Württemberg-born, "keeping house"). Both were marked on the census with parents of foreign birth. The surname spelling "Schwartz" (with a "t") is the Americanized form of the original "Schwarz"; the middle initial **"M"** does not correspond to the baptismal middle name **Christoph** and is probably a census-taker misread or informal self-identified variant.
+The GEDCOM records his death as 14 Feb 1907 in Pleasant Valley, Marshall County, West Virginia (Tier 3, not independently corroborated). His US residence, marriage, and any children are currently **open questions** — see below.
 
-The age of 49 in July 1870 is consistent with birth in 1820-1821; the 17 May 1822 Tier 1 baptismal date supersedes (a one-year discrepancy is common for illiterate immigrants). See [[Schwartz_FamilySearch_Records_2026_04_19]] for full transcriptions and the age-discrepancy reconciliation.
+### US residence and spouse: ambiguous
 
-Death at 14 Feb 1907 in Pleasant Valley, Marshall County, West Virginia, comes from the GEDCOM (Tier 3) and is not independently corroborated; how the family relocated from Iowa (1870) to West Virginia (by 1907) is an open question.
+Multiple US Schwartz households with Württemberg-born John + Catharine pairs have surfaced, and the available records contain internal age inconsistencies that prevent confident merging. Candidates:
+
+- **1860 Detroit, Wayne County, Michigan (Tier 1 census)**: John Schwarz age 37 (→ b. ~1823), wife Catharine age 32 (→ b. ~1828), sons John (6), Nicolaus (3), Leopold (<1), all Michigan-born. See [[John_Schwarz_Detroit_1860]].
+- **1870 Sharon Township, Johnson County, Iowa (Tier 1 census)**: John Schwartz age 49 (→ b. ~1821), wife Catharine age 49 (→ b. ~1821), no co-resident children. See [[Catharine_Schwartz_1821]].
+
+**The Catharine age difference across 1860 and 1870 is 17 years**, which is impossible for a single woman across 10 calendar years. Either the two households are different families, or the Detroit Catharine died before 1870 and John remarried a same-age Catharine (for which no intermediate record has been located). Additionally, the 1860 Detroit three sons are missing from the 1870 Iowa household, which the remarriage hypothesis does not explain.
+
+**Conclusion**: the vault's Johann Christoph Schwarz (Tier 1 confirmed by the 1822 Enzweihingen baptism) is **not confidently linked to either US census household** at Strong Signal standard. The 1870 Iowa household is the closer match on age and independence (both ~49, Württemberg, farming household), but cannot be promoted to RESOLVED without corroborating primary sources (marriage record, West Virginia 1907 death certificate naming spouse and parents, or vital record linking the 1822 Enzweihingen baptism to the 1870 Iowa John). See [[Schwartz_Additional_Records_2026_04_19]] for the full reconciliation analysis.
 
 ### Disambiguation
 
-This Johann Schwartz is NOT the same person as:
-- **Johann Christian Schwarz** of Krotoschin, Posen, Prussia, who m. Elisabeth Hahn 8 Jan 1826 (age 24, born ~1801-1802). Different province, different parents, different generation. See [[Schwartz_FamilySearch_Records_2026_04_19]].
+This Johann Schwartz (Enzweihingen 1822, vault canonical) is **NOT** the same person as:
+
+- **[[Johann_Christian_Schwarz_Posen]]** of Krotoschin, Posen, Prussia, who m. Elisabeth Hahn 8 Jan 1826 (age 24, born ~1801-1802). Different province, different parents, different generation.
+- **Johann Christian Schwartz b. 1821 Bavaria** with wife Elisabeth Hahn and 9 US-named children (Record D, MyHeritage Tier 3 merged tree). Different state (Bavaria, not Württemberg); different wife (Elisabeth Hahn, not Catharine).
+- **Johann Schwarz b. 1822, wife Elise Schwarz (born Grünhut), children Karl Wilhelm and Heinrich** (Record E, Geni Tier 3). Different wife; Jewish-surname context suggests different religious/cultural origin.
+- **[[John_Schwarz_Detroit_1860]]** (b. ~1823 Württemberg, Detroit laborer, first wife Catharine b. ~1828, 3 Michigan-born sons). Possibly the same person as vault Johann, but NOT confirmed (see age-inconsistency analysis above).
 - **[[Christian_Schwartz]]** b. 24 Dec 1841 Kolmsee, West Prussia. Different person by 20 years and different province.
 
 ## Document Sources
@@ -54,15 +61,14 @@ This Johann Schwartz is NOT the same person as:
 | Document | Type | Vault Note |
 |---|---|---|
 | FamilySearch Germany, Births and Baptisms 1558-1898 (indexing J94102-3, GS Film 1184569) | Baptismal record index (Tier 1, derivative of original Enzweihingen Evangelical parish register) | [[Schwartz_FamilySearch_Records_2026_04_19]] Record A |
-| 1870 US Federal Census, Sharon Township, Johnson County, Iowa, page 6 | Federal census (Tier 1) | [[Schwartz_FamilySearch_Records_2026_04_19]] Record C |
 | MyHeritage GEDCOM export | Family tree database (Tier 3) | Original unverified stub |
+| 1870 US Federal Census, Sharon Twp, Johnson Co, Iowa | Federal census (Tier 1, candidate only) | [[Schwartz_FamilySearch_Records_2026_04_19]] Record C. Possibly but not confirmed to be this person. |
+| 1860 US Federal Census, 4th Ward Detroit, Wayne Co, Michigan | Federal census (Tier 1, candidate only) | [[Schwartz_Additional_Records_2026_04_19]] Record F. Possibly but not confirmed to be this person; see [[John_Schwarz_Detroit_1860]]. |
 
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Birth year | 1821 (MyHeritage GEDCOM, Tier 3) | **1822** (FamilySearch baptismal record, Tier 1) | **RESOLVED: 1822 per Tier 1 baptismal record.** Census age 49 in 1870 is consistent with 1820-1821 but is less authoritative than the baptismal record. |
-| Middle name | "M" middle initial (1870 US Census, Tier 1) | **Christoph** (FamilySearch baptismal record, Tier 1) | Baptismal record gives the full legal name "Johann Christoph Schwarz." The 1870 census "M" is likely a clerical misread by the enumerator or an informal self-identification. Canonical middle name: Christoph. |
-| Spouse | Unknown (MyHeritage GEDCOM, Tier 3) | **Catharine** (1870 US Census, Tier 1) | **RESOLVED: Spouse Catharine, also Württemberg-born, both age 49 in July 1870. See [[Catharine_Schwartz_1821]].** |
+| Birth year | 1821 (MyHeritage GEDCOM, Tier 3) | **1822** (FamilySearch baptismal record, Tier 1) | **RESOLVED: 1822 per Tier 1 baptismal record.** |
 | Parents | Unknown (MyHeritage GEDCOM, Tier 3) | **Johann Conrad Schwarz + Susanna Barbara Eitel** (FamilySearch baptismal record, Tier 1) | **RESOLVED: Parents named in Tier 1 baptismal record.** See [[Johann_Conrad_Schwarz]] and [[Susanna_Barbara_Eitel]]. |
-| Residence | Pleasant Valley, Marshall, West Virginia (GEDCOM at death 1907) | Sharon Township, Johnson County, Iowa (1870 US Census, Tier 1) | Not contradictory (37 years between dates); family migrated from Iowa to West Virginia sometime between 1870 and 1907. Route and reason unknown; open question. |
+| US residence / spouse / children | GEDCOM (Tier 3) says "Unknown" / no spouse / no children / died West Virginia 1907 | 1870 Iowa census shows John + Catharine age 49 (possibly this person); 1860 Detroit census shows John + Catharine + 3 sons (possibly this person); the two US records have an impossible-for-single-person Catharine-age gap | UNRESOLVED. The 1822 Enzweihingen baptism (Tier 1) is confirmed. The linkage to any US household is speculative. My earlier claim that the 1870 Iowa John Schwartz = this person was too aggressive and is now downgraded; see [[Schwartz_Additional_Records_2026_04_19]]. Need Marshall County WV 1907 death certificate or an 1850-1860 US marriage record to resolve. |
