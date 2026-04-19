@@ -10,6 +10,7 @@ sources:
   - "Geni.com"
   - "FamilySearch family tree"
   - "MyHeritage family tree (GEDCOM)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, boruchovich, schneerson, chabad, person, rebbetzin]
 ---
@@ -50,6 +51,7 @@ A biography by Sholom DovBer Avtzon about the Mitteler Rebbe lists pertinent det
 | FamilySearch family tree | online tree | Tier 3 |
 | Geni.com profile | online tree | Tier 3 |
 | Wikipedia (Dovber Schneuri) | encyclopedia | Tier 2 |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Sheyna (Sheine.) Shneuri, [2nd CHABAD Rbzn]" b. c. 1773 Yanovichi; d. 1855 Lyubavichi. Consistent with existing vault data |
 
 ## Data Discrepancies
 

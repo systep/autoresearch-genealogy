@@ -7,6 +7,7 @@ family: "Schneerson"
 confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-18
 tags: [genealogy, schneerson, shneuri, chabad, lubavitch, person, rebbetzin]
 ---
@@ -35,3 +36,4 @@ Through her husband, she was the mother of [[Shmuel_Schneerson]] (Maharash, 4th 
 | Document | Type | Vault Note |
 |---|---|---|
 | MyHeritage GEDCOM export | family tree database | Tier 3 |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Rbzn. Chaya Mushka Schneerson, 3rd CHABAD Rbzn." b. 1789 Belarus; d. Dec 21, 1861 Lubavitchi. Redirect or same-person variant; consistent with Chaya_Mushka_Schneerson.md |

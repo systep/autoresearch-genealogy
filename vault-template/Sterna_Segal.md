@@ -11,6 +11,7 @@ sources:
   - "FamilySearch family tree"
   - "MyHeritage family tree (GEDCOM)"
   - "Chabadpedia"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, segal, chabad, person, rebbetzin]
 ---
@@ -54,6 +55,7 @@ Her siblings included David M'Stepin Segal and Mrs. Akiva Segal (FamilySearch).
 | Geni.com profile | online tree | Tier 3 |
 | Chabadpedia (Hebrew) | encyclopedia | Tier 2 |
 | Wikipedia (Shneur Zalman of Liadi) | encyclopedia | Tier 2 |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Rbzn. Sterna Boruchovitch [1st Rbzn. of CHABAD] (Segal)" b. c. 1745 Shklov; d. unknown. Consistent with existing vault data. Wife of the Alter Rebbe, m. July 1760 |
 
 ## Data Discrepancies
 

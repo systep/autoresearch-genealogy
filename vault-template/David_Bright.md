@@ -9,7 +9,9 @@ sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage)"
   - "Geni World Family Tree (record 40000:6139222)"
   - "Filae Family Trees (record 14100:1199549546)"
+  - "Find a Grave memorial #47249821 (Pvt David Brecht; Tier 2)"
 created: 2026-04-10
+updated: 2026-04-19
 tags: [genealogy, bright, brecht, person, virginia, pennsylvania, colonial]
 ---
 

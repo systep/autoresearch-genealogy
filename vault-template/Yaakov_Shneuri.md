@@ -10,6 +10,7 @@ sources:
   - "Geni.com (via GEDCOM record match)"
   - "Chabad.org: 15 Historical Facts About Rabbi DovBer of Lubavitch"
   - "Wikipedia: Dovber Schneuri (mentions father-in-law)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, Shneuri, person, Chabad-line]
 ---
@@ -58,6 +59,7 @@ Confidence: **Stub**. While his existence is confirmed by Chabad.org and Wikiped
 |---|---|---|
 | MyHeritage GEDCOM (I500826) | GEDCOM export | Assets/ |
 | Chabad.org articles on the Mitteler Rebbe | Published tradition (Tier 2) | Web source |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "(descendant, appears in Geni tree)" . Consistent with existing vault data |
 
 ## Data Discrepancies
 

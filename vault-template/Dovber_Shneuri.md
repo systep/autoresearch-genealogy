@@ -10,6 +10,7 @@ sources:
   - "Chabad.org"
   - "Geni.com"
   - "MyHeritage family tree"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, schneerson, chabad, lubavitch, person, rabbi, mitteler-rebbe]
 ---
@@ -58,6 +59,7 @@ Dovber is the direct ancestor of the Salmanson family through his daughter Rivka
 | Geni.com profiles | Family tree database | Geni.com (Tier 3) |
 | MyHeritage family tree | Family tree database | MyHeritage (Tier 3) |
 | Family Tree compiled data | Compiled reference | [[Family_Tree]] |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Rabbi Dovber Shneuri, [The Mitteler Rebbe]" b. Nov 24, 1773 Liozna; d. Nov 28, 1827 Nizhyn. Consistent with existing vault data |
 
 ## Data Discrepancies
 

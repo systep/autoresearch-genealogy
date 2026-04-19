@@ -10,6 +10,7 @@ sources:
   - "Chabad.org"
   - "MyHeritage family tree"
   - "shulchanaruchharav.com"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, schneerson, zalmanson, wallis, chabad, person]
 ---
@@ -53,6 +54,7 @@ The family's connection to the Schneerson dynasty runs through both maternal and
 | MyHeritage family tree | Family tree database | MyHeritage (Tier 3) |
 | JewishGen | Genealogical database | JewishGen |
 | Family Tree compiled data | Compiled reference | [[Family_Tree]] |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Rivka Beila Wallis" spouse: R' Yekutiel Zalman Wallis of Berdichev (1794-1872), m. 1808. Consistent with existing vault data |
 
 ## Data Discrepancies
 

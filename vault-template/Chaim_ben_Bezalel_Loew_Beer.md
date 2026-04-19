@@ -11,6 +11,7 @@ sources:
   - "loebtree.com Ancestors of the Maharal of Prague"
   - "Find a Grave Memorial 271897952"
   - "Chaim Freedman, 'The Maharal of Prague's Descent from King David' (blog, 2007)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, Loew-Beer, person, Maharal-line, pre-1500]
 ---
@@ -61,6 +62,7 @@ Confidence: **Moderate**. Multiple genealogical sources confirm his existence an
 | MyHeritage GEDCOM (I501125, I501186) | GEDCOM export | Two separate INDI records in GEDCOM |
 | loebtree.com | Published genealogy (Tier 2) | Web source |
 | Find a Grave (271897952) | Memorial (Tier 2) | Web source |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Chaim, Maharal Pat.Gd.father (Geni gen 10)" . Geni: paternal grandfather of Maharal |
 
 ## Data Discrepancies
 

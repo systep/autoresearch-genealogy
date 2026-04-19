@@ -1,47 +1,11 @@
 ---
-type: person
-name: "William Cox"
-born: 1770
-died: 1798
-family: "Cox"
-confidence: low
-sources:
-  - "MyHeritage GEDCOM export (Tier 3)"
+type: redirect
+redirect_to: "[[William_Cox_Jr]]"
 created: 2026-04-18
-tags: [genealogy, cox, person, north-carolina, south-carolina]
+updated: 2026-04-19
+tags: [redirect]
 ---
 
-# William Cox
+# Redirect
 
-## Vital Information
-
-| Field | Value | Source |
-|---|---|---|
-| Full Name | William Cox | MyHeritage GEDCOM (unverified) |
-| Born | 1770, Greenville Co., North Carolina | MyHeritage GEDCOM (unverified) |
-| Birthplace | Greenville Co., North Carolina | MyHeritage GEDCOM (unverified) |
-| Died | 1798, South Carolina | MyHeritage GEDCOM (unverified) |
-| Father | Unknown | MyHeritage GEDCOM (unverified) |
-| Mother | Unknown | MyHeritage GEDCOM (unverified) |
-| Spouse | Unknown | MyHeritage GEDCOM (unverified) |
-| Children | None recorded | MyHeritage GEDCOM (unverified) |
-
-## Biography
-
-William Cox was born 1770 in Greenville Co., North Carolina (unverified).
-
-William Cox died 1798 in South Carolina (unverified).
-
-All data sourced from MyHeritage GEDCOM export (Tier 3). No independent verification has been performed.
-
-## Document Sources
-
-| Document | Type | Vault Note |
-|---|---|---|
-| MyHeritage GEDCOM export | Family tree database (Tier 3) | Unverified |
-
-## Data Discrepancies
-
-| Field | Source A | Source B | Resolution |
-|---|---|---|---|
-| | | | |
+This person has a canonical file at [[William_Cox_Jr]]. Same person: William Cox Jr., born Orange County NC, died 1798. The GEDCOM record assigned birth year 1770 (unverified), but the canonical William Cox Jr. profile (WikiTree, Cox Family History Project) confirms he is the son of William Cox Sr., husband of Connie Baker, and father of Thomas B. Cox. Both files agree on 1798 death date. Consolidated 2026-04-19.

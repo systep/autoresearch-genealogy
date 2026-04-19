@@ -7,6 +7,7 @@ family: "Schneerson"
 confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-18
 tags: [genealogy, schneerson, chabad, lubavitch, person, rabbi, maharash]
 ---
@@ -34,3 +35,4 @@ He was the father of [[Shalom_Dov_Ber_Schneerson]] (the Rashab, 5th Lubavitcher 
 | Document | Type | Vault Note |
 |---|---|---|
 | MyHeritage GEDCOM export | family tree database | Tier 3 |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Shmuel Schneerson, 4th CHABAD Rebbe, MaHaRash" b. May 11, 1834 Lyubavichi; d. Sept 26, 1882 Lyubavichi. Consistent with existing vault data |

@@ -7,6 +7,7 @@ family: "Schneerson"
 confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-18
 tags: [genealogy, schneerson, chabad, lubavitch, person, rabbi, tzemach-tzedek]
 ---
@@ -44,6 +45,7 @@ His daughter [[Dvorah_Leah_Schneerson]] married Rabbi [[Levi_Yitzchok_Zalmanson]
 | Document | Type | Vault Note |
 |---|---|---|
 | MyHeritage GEDCOM export | family tree database | Tier 3 |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Menachem Mendel Schneerson, Tzemach Tzedek, 3rd CHABAD Admor" b. Sept 20, 1789 Liozna; d. Mar 29, 1866 Lyubavichi. Consistent with existing vault data |
 
 ## Data Discrepancies
 

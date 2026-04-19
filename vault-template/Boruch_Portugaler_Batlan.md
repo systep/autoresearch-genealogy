@@ -9,6 +9,7 @@ sources:
   - "MyHeritage GEDCOM (Salmanson Family Tree), Record Match, 23 Aug 2024"
   - "Geni.com profile: Boruch Portugaler (Batlan) (record 40000:8202715)"
   - "Chabadpedia (Hebrew): article on Rebbetzin Rachel"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, Portugaler, person, Sephardic, Chabad-line]
 ---
@@ -58,6 +59,7 @@ Confidence: **Moderate**. Corroborated by Geni.com and Chabadpedia (Hebrew), whi
 | MyHeritage GEDCOM (I502184) | GEDCOM export | Assets/ |
 | Geni.com profile | User-contributed tree (Tier 3) | Web source |
 | Chabadpedia article on Rebbetzin Rachel | Published tradition (Tier 2) | Hebrew source, referenced in GEDCOM note on I502185 |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Boruch Portugaler (Batlan)" b. c. 1670; d. Poznan. Consistent with existing vault data |
 
 ## Data Discrepancies
 

@@ -8,6 +8,7 @@ confidence: moderate
 sources:
   - "Wikipedia: Solomon Luria (https://en.wikipedia.org/wiki/Solomon_Luria)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (not individually present; Luria family chain provides context)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, luria, person, davidic-descent, halachic-authority]
 confidence: moderate
@@ -46,6 +47,7 @@ The GEDCOM does not contain a separate individual record for Solomon Luria. The 
 |---|---|---|
 | GEDCOM Luria family chain | family tree entries | MyHeritage export (no individual record for Maharshal) |
 | Wikipedia: Solomon Luria | encyclopedia | https://en.wikipedia.org/wiki/Solomon_Luria |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Rabbi Shlomo Ashkenazi Luria" b. c. 1495 Germany; d. c. 1540 Jerusalem. Geni dates differ from usual Maharshal dates (c. 1510-1573); the Geni record may refer to a different Luria figure |
 
 ## Data Discrepancies
 

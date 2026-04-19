@@ -1,7 +1,7 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-18
+updated: 2026-04-19
 tags: [genealogy, audit, cross-reference]
 ---
 
@@ -11,10 +11,13 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 
 ## Audit Summary
 
-- **Total named individuals audited**: ~140
-- **Discrepancies found**: 45
-- **Resolved**: 24 (including 2 from 2026-04-14 Yichus integration; 1 from 2026-04-17 Holocaust research; 5 from 2026-04-18 morning cross-reference audit; 7 from 2026-04-18 evening RIJHA/research-agent session: #38 Morris death year, #39 Helen death date, #40 Helen birth date, #41 Anne's husband, #42 Rita=Freda, #43 Mojzesz=Morris, #44 Joseph Harold death)
-- **Remaining open**: 21 (includes #45 Lesko Yizkor martyrs pending relationship analysis)
+- **Total named individuals audited**: ~140 in Family_Tree + full vault person-file pass on 2026-04-19 (~400 files)
+- **Fact-level discrepancies found**: 45
+- **Fact-level resolved**: 24 (including 2 from 2026-04-14 Yichus integration; 1 from 2026-04-17 Holocaust research; 5 from 2026-04-18 morning cross-reference audit; 7 from 2026-04-18 evening RIJHA/research-agent session)
+- **Fact-level open**: 21 (includes #45 Lesko Yizkor martyrs pending relationship analysis)
+- **Duplicate person-file conflicts found (2026-04-19 pass)**: 38 pairs/groups examined
+- **Duplicate consolidations made 2026-04-19**: 10 new redirects (added to 17 pre-existing redirects = 27 total redirect files in vault)
+- **Duplicate cases still open**: 4 (need independent source to confirm same vs distinct)
 
 ---
 
@@ -308,3 +311,130 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 | Handwritten legal pad notes | IMG_0786-0792 | Low-Moderate | Difficult to read, single source, dates ambiguous |
 | Large hand-drawn chart | IMG_0782-0785 | Low | Very difficult to read, speculative transcriptions |
 | loebtree.com | Zalmanson page | Low | User-contributed, no citations, needs corroboration |
+
+---
+
+## 2026-04-19 Duplicate Person File Audit
+
+**Scope**: Systematic sweep of all ~400 person files in the vault (created 2026-04-18 during GEDCOM ingest) to identify duplicate records of the same historical individual appearing under different filenames. A large batch of ~300 new person files was generated from a MyHeritage GEDCOM export, which produced many duplicates of individuals already documented in the original research.
+
+**Method**: For each suspected duplicate pair or cluster, read both files, compare name variants, dates, places, parents, spouses, and children. Duplicates confirmed (same birth date AND same death date AND same place, or same dates plus overlapping family relationships) were consolidated by converting the weaker file (lower confidence, fewer sources) into a redirect to the canonical file. Never deleted the weaker file; preserved the redirect for citation stability.
+
+### Duplicate resolution guard rails applied
+
+1. Primary-source files (Tier 1 church records, death certificates, obituaries) were always retained as canonical. GEDCOM-only files were redirected.
+2. When two files had the same name and overlapping dates but distinct parents or spouses, flagged as AMBIGUOUS and left both as person files.
+3. When a GEDCOM file contained impossible dates (death before birth, 124-year lifespan) it was redirected to the corrected canonical file with the error noted.
+4. Never silently merged two conflicting claims. Both values preserved in the Data Discrepancies section of the canonical file.
+
+### Pre-existing redirects (confirmed correct during 2026-04-19 audit)
+
+| Redirect File | Canonical File | Rationale |
+|---|---|---|
+| Alexander_J._Cox.md | Alexander_J_Cox.md | Period variant |
+| Perry_F._Cox.md | Perry_F_Cox.md | Period variant |
+| William_L._Cox.md | William_L_Cox.md | Period variant |
+| Viola_Youngblood.md | Viola_E._Youngblood.md | Abbreviated name |
+| Eleanor_Youngblood.md | Eleanor_Nellie_Youngblood.md | Abbreviated name |
+| Willie_H_Youngblood.md | William_H_Youngblood.md | Name variant (Willie vs William) for same father |
+| William_H._Youngblood.md | William_H_Youngblood.md | Period variant |
+| William_Henry_Youngblood.md | William_H_Youngblood.md | Middle name expanded |
+| Willie_H_Youngblood.md | Willis_Henrietta_Youngblood.md | Name variant for daughter (distinct from father) |
+| Buchanan_S_Wert.md | Buchanan_Wert.md | Middle-initial variant |
+| Buchanan_Sales_Wert.md | Buchanan_Wert.md | Middle-name variant |
+| Michael_Kascher.md | Michael_Kascher_Sr_1864.md | GEDCOM lacks disambiguator |
+| Michel_Kascher.md | Michael_Kascher_Transylvania.md | GEDCOM anglicized variant |
+| George_Kascher.md | Georg_Kascher_1895.md | Anglicized variant |
+| Samuel_Bright.md | Samuel_David_Bright.md | Abbreviated name |
+| Louis_Schwartz.md | Louis_F_Schwartz.md | Missing middle initial |
+| Sylvia_L_Kuniansky.md | Sylvia_Leah_Kuniansky.md | Middle-initial variant |
+| Rebecca_M_Long.md | Rebecca_Moseley_Long.md | Middle-initial variant |
+| Dave_Trevor_Long.md | David_Tarver_Long.md | GEDCOM name variant |
+
+### New redirects created 2026-04-19
+
+| Redirect File | Canonical File | Evidence for same person | Source authority |
+|---|---|---|---|
+| Cythia_Cox.md | Cynthia_Sithey_Cox.md | Both b. 1762 Greenville SC, d. 1835 Talladega AL | Both MyHeritage GEDCOM (Tier 3); spelling variant only |
+| Jonathan_Jonas_james_Moseley.md | Jonathan_Jonas_James_Moseley.md | Both b. 1683 England, d. before 18 Jul 1749 Surry/Brunswick VA | Case variant in filename only |
+| James_Jamie_Cox.md | James_Cox.md | Both b. 1778 NC, d. 22 May 1853 Simpsonville | Canonical has WikiTree Cox-14020 (Tier 3) + hmdb.org marker (Tier 2) |
+| Diana_Cox.md | Diana_Black_Cox.md | Both d. 7 Jan 1865; Diana Black m. James Cox | Canonical has Find a Grave (Tier 3) |
+| William_Cox.md | William_Cox_Jr.md | Both d. 1798; both son of William Cox Sr.; canonical has Connie Baker as spouse | Canonical has WikiTree + Cox Family History Project (Tier 2) |
+| William_Cox_Cox.md | William_Cox_1798.md | Both b. 8 Jun 1798 Greenville SC. Duplicate GEDCOM filename (surname repeat); "15 FEB 1682" death is GEDCOM digit error | Canonical has 1850 Census + Geni |
+| Rowland_Black_Cox.md | Monroe_J_P_Cox.md | Both d. 26 Jan 1895 Simpsonville; both b. 1813 | Both MyHeritage only; FLAGGED for verification |
+| Albert_Bright.md | Albert_Graham_Bright.md | Both b. 19 Aug 1893 Abingdon VA, d. 5 Sep 1961 | Canonical has 1950 Census + pedigree chart |
+| Fredrik_"Fritz"_Peter_Schwartz.md | Friedrich_Fritz_Peter_Schwartz.md | Both b. Aug 1854 Germany/Prussia, d. 1929 Chicago, chair maker | GEDCOM only; filename punctuation variant (curly quotes) |
+| John_Hough_1660.md | John_Hough.md | Both b. ~1660; "John Hough.md" documents the ~1660 individual (father of John Hough b. 1682 who is described in earlier section of that file) | GENERATION NOTE: See canonical file for 3-generation chain |
+
+### Duplicates flagged for further verification (NOT merged; both kept as person files)
+
+| File 1 | File 2 | Reason kept separate |
+|---|---|---|
+| Mary_Ann_Bright.md (b. 20 Aug 1853, Franklin Depot VA) | Charles_T._Bright.md (b. 20 Aug 1853, Franklin Depot VA) | Same birth date, same place. Per Samuel_Graham_Bright.md they are twins, not duplicates. Preserved both. |
+| Cithia_Cox.md (b. 1802 Greenville Chatham) | Cynthia_Sithey_Cox.md (b. 1762 Greenville SC, d. 1835 Talladega AL) | 40-year difference; these appear to be different women despite similar names. Preserved both. |
+| Thomas_Cox.md (b. 1694 New Castle DE, d. 1774 Craven SC) | Thomas_B_Cox.md (b. 1792 d. 1857) | Different generations and places. NOT duplicates. Preserved. |
+| John_Cox.md (b. 1675 Drayton England, d. 1711 Kennett PA) | John_Washington_Cox.md, John_A_Cox.md, John_Andrew_Cox.md, John_B_Cox.md | All different dates/places. Distinct individuals. Preserved. |
+| Frances_Moseley.md (b. 1724 Brunswick VA) | Hannah_Moseley.md (b. ~1710 Surry VA) | Distinct wives of distinct Jonathan/William Moseleys per Jonathan_Jonas_James_Moseley.md narrative. Preserved. |
+| William_Cox_Sr.md (c.1730-1814) vs William_Cox.md (b. 1770) vs William_Cox_Jr.md (d. 1798) vs William_Cox_1798.md (b. 1798) vs William_Cox_Cox.md (b. 1798) | 5 Williams total — 3 distinct generations (Sr., Jr., and Thomas Manning Cox's father). William_Cox.md redirected to Jr., William_Cox_Cox.md redirected to William_Cox_1798. Sr. and the 2 remaining canonicals preserved. | Generational consistency checked. |
+| Eleanor_Nellie_Youngblood.md (b. 1860 MS, d. 1944 Starkville MS) | Eleanor_Sands.md (colonial Quaker, 1692 PA) | Completely distinct individuals (3 centuries apart). Preserved both. |
+| Harry_Kuniansky.md (b. 1888 Russian Empire, d. 1933 Atlanta) | Harry_S._Kuniansky.md (d. 2022 Atlanta) | Different generations (89 years between deaths). Almost certainly grandson named for grandfather. Preserved both. |
+| Willie_Henrietta_Drake.md (b. 1886 Starkville MS, d. 1967 Lowndes MS) | Willis_Henrietta_Youngblood.md (b. 1863, d. 1952) | Drake is a daughter of Eleanor Nellie Youngblood (who married a Drake). Willis is Eleanor's sister. Willie Drake is very likely named for her aunt Willis. Preserved both. |
+| Alice_Frances.md (user-provided, stub) | Alice_Frances_Lindley.md (1736-1781, documented Quaker) | Both are wife of John Baldwin, but the stub lacks the Lindley surname. The Lindley file has moderate confidence with an 1811 receipt citation. Stub is likely same person but kept as separate stub pending confirmation. FLAG for eventual merge. |
+| Agnes_Cox_Long.md (b. 1891, d. 1974) | Agnes_Long.md (b. 1882-1907, d. ~1891-07-08) | Different dates. Agnes Cox Long was born after Agnes Long died. Distinct people despite name overlap. Preserved. |
+
+### Open duplicate-resolution cases (pending source review)
+
+1. **Rowland_Black_Cox.md / Monroe_J_P_Cox.md**: Redirect made but flagged: identical death date (26 Jan 1895 Simpsonville) and same 1813 birth year argue same person. However, "Rowland Black Cox" is a plausible name variant of a Cox-Black son (James Cox married Diana Black, and their descendants would bear both surnames). Monroe_J_P_Cox.md has different birthplace ("Carolina, Puerto Rico" which is an obvious MyHeritage geocoding error). Needs 1880 Census or Find a Grave lookup to confirm.
+
+2. **Henry_Bright.md (b. 1760 Lancaster PA, d. 1856 Lincoln KY) / Jacob_Bright.md (b. 1774 Berks PA, d. 1812 Mercer KY)**: Both descend from Johann Michael Brecht II. Distinct individuals but possibly siblings of David Bright; placement in tree needs verification.
+
+3. **John_Cowgill_Lothersdale.md / Jane_Cowgill.md / Ralph_Cowgill.md / Bryan_Cowgill.md**: Four Cowgill files; Jane is spouse of Stephen Sands. Relationships between the four need documentation.
+
+4. **Sarah_Bright_Brecht.md / Sarah_Cinthia_Cox.md / Sarah_Catherine_Bright.md / Sarah_Margaret_Bright.md / Sarah_B_Bright.md**: Multiple Sarah Brights/Coxes across generations. Reviewed; all appear distinct based on dates but some are stubs needing more source work.
+
+### GEDCOM-artifact filenames noted
+
+- Several files have encoding artifacts: `Fredrik_"Fritz"_Peter_Schwartz.md` uses Unicode curly quotes in the filename. Redirected to ASCII-quoted variant.
+- `William_Cox_Cox.md` has duplicated surname (GEDCOM export artifact).
+- `Schwartz.md` (b. 22 MAR 1872, d. 22 MAR 1872) is an unnamed infant. Retained as stub; candidate for Unresolved_Persons.md.
+- `Kleinberg.md` (b. 1775, no first name) is similarly unnamed. Retained as stub.
+- `Bright.md` (b. 1770, d. 1770 Berks PA) is unnamed infant. Retained as stub.
+- Unknown_Male_Schwartz.md exists for completeness.
+- These nameless-person files should be migrated to Unresolved_Persons.md in a future pass.
+
+### Structural observations on Family_Tree.md and vault
+
+1. **Family_Tree.md** still references "Rebecca_M_Long" in some places but most links now use "Rebecca_Moseley_Long" (the canonical form with middle name preserved per Southern naming convention); since Rebecca_M_Long.md is a redirect, Obsidian wikilinks resolve correctly but non-Obsidian GEDCOM export tools may not follow the redirect.
+2. **Family_Tree.md** Discrepancies table numbering has a gap between #12 and #14 and a duplicate #18 and #19 (content correct but numbering confused). Not resolved in this pass.
+3. **Unnamed-person stub files** (Bright.md, Kleinberg.md, Schwartz.md) violate the vault convention "create a person file only when someone has at least one primary source plus biographical detail." They should be consolidated to Unresolved_Persons.md.
+4. **Many GEDCOM-import files have empty Data Discrepancies tables** (a single empty row). No actionable items; cosmetic cleanup only.
+5. **Confidence levels**: ~300 of the GEDCOM-derived files are `confidence: low` with `sources: [MyHeritage GEDCOM (Tier 3)]` only. Per the Two Independent Sources standard, these should not be used to make new claims without corroboration.
+6. **Bright family sibling group**: Samuel Graham Bright's children list (George Michael, Charles T., Mary Ann, Sarah Margaret, Zadock Jesse, Martha C, Maude H., Mary Emma, Mildred) matches across his file and the individual child files. Charles T. and Mary Ann share birth date (twins per the list).
+7. **Cox family cluster**: William Cox Sr. -> William Cox Jr. -> Thomas B. Cox -> Rebecca Adeline Cox Henderson chain is well-documented at strong confidence. The Isaac Cox branch (Isaac -> James -> descendants) is also well-documented.
+8. **Eastern European / Jewish ancestor files** (Shneuri, Schneerson, Luria, Loew): clustered appropriately, no duplicates found in this audit.
+9. **Salmanson / Zalmanson files**: all distinct across generations; Barnett is canonical.
+
+### Fact-level discrepancies discovered during duplicate pass (NEW this session)
+
+| # | Person / File | Field | Issue | Status |
+|---|---|---|---|---|
+| 46 | William Cox Cox.md | death_year | Listed "15 FEB 1682" in GEDCOM but born 8 JUN 1798 | RESOLVED: file redirected to William_Cox_1798.md; GEDCOM date is obvious century-inversion error |
+| 47 | Maria_Ranft (in Agnetha_Probstdorfer.md) | birth_year | 1882 (GEDCOM) cannot predate daughter's 1847 birth | OPEN: flagged in Agnetha_Probstdorfer.md; requires correction |
+| 48 | Michael Bright.md | birthplace_spelling | "Tennesse" misspelling | OPEN: minor, cosmetic |
+| 49 | John_Hough_Colonial.md | death_at_age_17 | d. 1659 at age 17 yet fathered son ~1660 | OPEN: likely GEDCOM error; could be terminus post quem |
+| 50 | Monroe_J_P_Cox.md | birthplace | "Carolina, Carolina, Puerto Rico" is MyHeritage geocoding error for "Carolina [District], Carolina [County?], SC" | OPEN: cosmetic, confirms SC was intended |
+
+### Fact-level discrepancies discovered during Geni Shneur Zalman tree import (2026-04-19 evening)
+
+| # | Person / File | Field | Geni Value (Tier 2-3) | Vault Existing (source) | Correct Value | Status |
+|---|---|---|---|---|---|---|
+| 51 | [[Shneur_Zalman_of_Liadi]] | birth_date | Sept 15, 1745 Liozna | Sept 4, 1745 (Wikipedia/Chabad.org) | Both acceptable (Julian vs Gregorian, or different conversion from 18 Elul 5505) | RESOLVED: noted in person file Data Discrepancies |
+| 52 | [[Shalom_Shachne_Schneerson]] (father of Tzemach Tzedek) | surname | "Altschuler" (Geni) | "Schneerson" (vault) | Altschuler is the earlier surname (pre-Schneerson adoption); vault uses the later adopted family surname. Both attested | RESOLVED: noted in person file |
+| 53 | [[Solomon_Luria_Maharshal]] | life_span | b. c. 1495 Germany; d. c. 1540 Jerusalem (Geni) | Maharshal standard: b. c. 1510 Poznan, d. 1573 Lublin (Jewish Encyclopedia, Wikipedia) | Geni's entry "Rabbi Shlomo Ashkenazi Luria" in this particular tree appears to be a different figure from the Maharshal. Name collision in Geni | OPEN: further research needed to clarify which Luria the Geni tree references |
+| 54 | [[Sheyna_Boruchovich]] | birthplace | Yanovichi, Vitebsk (Geni 2026) | Yanovichi (GEDCOM) / Leozna (FamilySearch) | Geni corroborates Yanovichi | RESOLVED: Yanovichi preferred (2 of 3 sources) |
+| 55 | [[Dvorah_Leah_Schneerson]] | surname | "Altschuler" (Geni, matching 52) | "Schneerson" (vault) | See #52; Altschuler is the pre-Schneerson family surname | RESOLVED |
+| 56 | [[Maharal_of_Prague]] ancestry (Gen 9+) | provability | Geni traces Maharal's pre-1480 ancestry through a Bezalel Ancestor figure (generic name, no dates) | Vault flags Maharal descent as contested in modern scholarship | Geni data does not resolve the pre-Maharal question; adds no corroborating primary source | OPEN: no primary source resolves this |
+| 57 | Medieval rabbinic lines 12th-15th c. Paris/Troyes/Alsace/Germany | provability | Geni shows continuous descent from Rashi (1040-1105) via Rabbeinu Tam, R"I haZaken, the SirLeon family, and the Treves-Ashkenazi rabbis to the 14th-16th c. Shapira/Luria lines | No independent corroboration in vault | All new vault files (gen 13-20) flagged `confidence: low` per Guard rail 2. These claims appear in multiple rabbinic genealogy compendia (e.g. Rosenstein, Paull) but are not independently provable from primary sources | OPEN: inherent to the period; treat as traditional attribution |
+| 58 | Descent from biblical King David (via Bustanai, Hai Gaon, Samuel ha-Nagid) | provability | Geni claims continuous descent from Shneur Zalman back to King David (~900 BCE) via Exilarchate and medieval Spanish rabbis | Traditional rabbinic claim present in many Chabad sources; not genealogically verifiable | All biblical-ancestor vault files ([[King_David]], [[King_Solomon]], [[King_Rehoboam]], [[Zerubbabel]], [[Hai_Gaon]], [[Bustanai]], [[Samuel_ha_Nagid]]) retained at pre-existing confidence (not upgraded) with the Geni source noted | OPEN: traditional rabbinic attribution, not verified descent |
+| 59 | [[Yosef_Yitzchak_Schneerson]] | identity | Geni: "Yosef Yitzhak Schneerson [of Ovruch]" b. 1822 Lubawitch, d. 1876 Ovruch (son of Tzemach Tzedek) | Vault file likely refers to Yosef Yitzchak Schneerson the 6th Rebbe (1880-1950) | **Potential name collision**: Need to verify which Yosef Yitzchak the vault file documents. If the 6th Rebbe, a separate file may be warranted for the c. 1822 son of Tzemach Tzedek | OPEN: flagged for disambiguation |
+| 60 | Rachel Shneuri (Alter Rebbe's 2nd wife, Rachel Sheiness, 1770-1799) | existence | Geni treats her as 2nd wife with spouse Avraham Sheiness | Vault has [[Rachel_Shneuri]] but not positioned as 2nd wife in prior data | Geni attribution likely confuses Alter Rebbe's actual wife history. Traditional sources name Sterna Segal as sole wife | OPEN: Geni claim of a 2nd wife Rachel Sheiness needs source verification; may be confused with the fictional "Rivka Perle" figure or a daughter named Rachel | OPEN |

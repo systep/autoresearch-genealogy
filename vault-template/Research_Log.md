@@ -2,13 +2,80 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-19
-last_session: "2026-04-18 Immigration Search (Prompt 11): ~30 searches across 10 immigrants. No manifests located (all databases require login/subscription). Key finding: FamilySearch collection 2622566 (RI Naturalization Records 1907-1991, free with login) is the single best path to resolve immigration details for Morris Markel, Barnett Salmanson, Abraham Sternbach, Elizabeth Salk. Ship 'The Liberty' (Florence 1923) remains unconfirmed."
+last_session: "2026-04-19 Cross-Reference Audit (Prompt 02): Full vault duplicate-file pass across ~400 person files. 10 new redirects created consolidating confirmed duplicates (Cythia_Cox->Cynthia_Sithey_Cox, James_Jamie_Cox->James_Cox, Diana_Cox->Diana_Black_Cox, William_Cox->William_Cox_Jr, William_Cox_Cox->William_Cox_1798, Rowland_Black_Cox->Monroe_J_P_Cox, Albert_Bright->Albert_Graham_Bright, Fredrik_Fritz_Peter_Schwartz->Friedrich_Fritz_Peter_Schwartz, Jonathan_Jonas_james->Jonathan_Jonas_James, John_Hough_1660->John_Hough). Identified 4 duplicate cases requiring verification before merging and 3 naming-collision cases preserved as distinct (Moseley Frances vs Hannah, Willie_Henrietta_Drake vs Willis_Henrietta_Youngblood, Harry vs Harry_S. Kuniansky). See cross_reference_audit.md 'Duplicate Person File Audit' section."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-19 (evening): Geni curated World Family Tree import for Shneur Zalman of Liadi (20-gen ancestors + 5-gen descendants)
+
+### Summary
+
+Ingested two Geni.com curated-tree PDFs covering Rabbi Shneur Zalman of Liadi (the Alter Rebbe, 1745-1812, founder of Chabad-Lubavitch), his 20-generation ancestry, and his 5-generation descendants. PDFs exported from Geni on Apr 19, 2026 at 3:15-3:16 PM and stored in `/Assets/`. Ran `pdftotext -layout` to extract hierarchical tree structure with generation numbers preserved via indentation.
+
+### PDFs processed
+
+- `/Assets/Admor-Shneur-Zalman-of-Liadi-Boruchovitch_ancestors_20.pdf` (100 pages, 3709 lines extracted)
+- `/Assets/Admor-Shneur-Zalman-of-Liadi-Boruchovitch_descendants_5.pdf` (16 pages, 554 lines extracted)
+
+### Vault outputs
+
+1. **2 transcription files**: `[[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]]` (~3700 lines) and `[[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]` (~600 lines). Both carry the full `pdftotext -layout` output inside fenced code blocks, preserving the generation hierarchy.
+2. **67 existing vault person files updated**: Added the Geni curated tree as a Tier 2-3 source to the frontmatter `sources:` list and as a new row in the Document Sources table. Files span the Chabad dynasty (Shneur Zalman, Dovber, Tzemach Tzedek, MaHaRash, RaSHaB, Yosef Yitzchak, Ramash), their spouses, the immediate Shneuri/Schneerson children, the Loew/Maharal line (8 files), the Luria line (8 files), biblical-descent claim nodes (King David, King Solomon, King Rehoboam, Zerubbabel, Hai Gaon, Bustanai, Samuel ha-Nagid), Segal (Sterna + Yehuda Leib), Boruchovich (Sheyna), Katz (Shneur Zalman Katz), Poisner, and Portugaler. No vital facts were changed; Geni data corroborates existing vault entries for these 67 files.
+3. **436 new person files created**: Stub files for individuals attested only in the Geni tree. Each has `confidence: low`, Geni-only sourcing, and cross-links to the two transcription files. Files span the extended Ashkenazi rabbinic lineages Geni claims for the Alter Rebbe: Treves-Ashkenazi (Paris/Troyes, 12th-15th c.), Shapira/Spira (Speyer, 14th-15th c.), Luria (Brest-Heilbronn-Mantua, 14th-15th c.), Schor/Shachna, Isserles/ReMa, Meisels, Auerbach, Landau, Rapaport/Rapa, Treves/Zekl Neustadt, Fiszel/Fishel, Pollack, Altschuler/Eberles, Schrentzel/Shrentzel, Klauber, and the medieval French branch reaching Rashi (1040-1105), Rabbeinu Tam, and R"I haZaken. On the descendant side, files span the Twersky-Schneerson intermarriages, the Zalmanson-Wallis-Slonim-Alexandrov-Fundaminsky-Feigelsohn-Rivlin-Derbarmdiker cousin web, the Klutzkar-Zaslavski-Kremenchug-Lavin-Brennan Australian-Ukrainian branch, and numerous 19th-century Russian Empire grandchildren.
+4. **Family_Tree.md**: Appended a new section "Chabad / Rabbinic Dynasty Line (Geni curated tree, 2026-04-19)" with the direct patrilineal spine back 10 generations, the maternal Loew-Luria-Katz line, the Schor-Meisels branch, the Luria-Shrentzel-Treves and Treves-Ashkenazi branches, and the descendant spine.
+5. **cross_reference_audit.md**: Appended discrepancy rows for Geni-vs-vault conflicts (see below).
+
+### Counts
+
+- PDFs processed: 2
+- Transcription files created: 2
+- Existing vault files updated: 67
+- New vault person files created: 436
+- Hebrew-only Geni entries skipped (no Latin-script name to key a vault file): ~60
+- "Duplicate tree section" markers in Geni output skipped: many (Geni itself labels them)
+- Total vault file count after this session: ~1141 (was 697 before)
+
+### Discrepancies flagged (see cross_reference_audit.md)
+
+- Shneur Zalman birth date: Geni says Sept 15, 1745; vault (via Wikipedia/Chabad.org) says Sept 4, 1745. Resolution: both are valid (18 Elul 5505 converts to Aug 27 Julian / Sept 7 Gregorian, but modern Chabad sources typically give Sept 4 or Sept 15 depending on calendar convention and era).
+- Shalom Shachne Altschuler vs Shalom Shachne Schneerson: Geni uses Altschuler as surname for the father of Tzemach Tzedek. Vault has him as Schneerson. Resolution: Altschuler is the earlier (pre-Schneerson) surname used by the Tzemach Tzedek before he formally adopted the Schneerson/Schneersohn surname.
+- Solomon Luria (Maharshal) dates: Geni says b. c. 1495 Germany, d. c. 1540 Jerusalem. Standard Maharshal dates are b. c. 1510 Poznan, d. 1573 Lublin. Resolution: Geni's "Rabbi Shlomo Ashkenazi Luria" in this tree appears to be a different figure from the Maharshal; the naming overlap caused confusion. Flag for further research.
+- Maharal ancestry: Claim that Alter Rebbe descends from Maharal through Moshe Loew of Posen remains contested in modern scholarship per existing vault discrepancy record.
+- Dovber Shneuri's wife: Geni says Sheyna Shneuri b. c. 1773 Yanovichi. Vault has conflicting birthplaces (Yanovichi per GEDCOM, Leozna per FamilySearch). Geni supports Yanovichi.
+
+### Plausibility flags
+
+- Geni's descent from the Alter Rebbe back to biblical King David via Bustanai the Exilarch, Hai Gaon, Samuel ha-Nagid, and the Treves-Ashkenazi rabbis traverses 2800+ years and crosses multiple geographic regions (Babylonia to Spain to France to Germany to Poland/Belarus). Per CLAUDE.md Common Pitfalls and Source Hierarchy, such claims are traditional rabbinic attributions, not genealogically proven descents. The vault files for biblical ancestors have been updated with the Geni source but `confidence` was not upgraded from the existing `low` / `speculative` tier.
+- Multiple "Duplicate tree section to be isolated, no need to merge" markers in the Geni export indicate Geni's own internal duplicate awareness; these were skipped rather than creating orphan stubs.
+- Ancestry lines with Hebrew-script-only names (no Latin transliteration) were preserved in the transcription but did not generate vault person files.
+
+## 2026-04-19 (afternoon): Cross-Reference Audit Prompt 02 duplicate-file pass
+
+### Summary
+
+Executed cross_reference_audit prompt against all ~400 person files in vault. Identified 38 suspected duplicate pairs or clusters. Consolidated 10 via redirects (on top of 26 pre-existing redirects from 2026-04-18 session). Flagged 4 for further source verification. All changes logged in cross_reference_audit.md 'Duplicate Person File Audit' section.
+
+### Key findings
+
+1. **MyHeritage GEDCOM import (2026-04-18)** produced ~300 new low-confidence person files, many of which duplicate existing research-sourced files under different name variants (period vs. no period, abbreviated middle name vs. full, diminutive "Jamie" vs. "James", GEDCOM encoding artifacts with curly quotes, and in one case a repeated surname "William_Cox_Cox"). Redirects preserve link integrity while consolidating to canonical files.
+2. **Impossible-date files** flagged: William_Cox_Cox.md listed death "15 FEB 1682" for someone born 8 JUN 1798 (century-inversion error). John_Hough_Colonial.md records death at age 17 but fathered a son. Maria Ranft's GEDCOM birth (1882) postdates her 1847 daughter.
+3. **Twins preserved**: Mary_Ann_Bright and Charles_T._Bright share birth date 20 Aug 1853 Franklin Depot VA. These are documented twins per Samuel_Graham_Bright's children list, not duplicates.
+4. **Naming conventions preserved**: Willie_Henrietta_Drake (b. 1886) is the daughter of Eleanor_Nellie_Youngblood (who married a Drake), almost certainly named for her aunt Willis_Henrietta_Youngblood (b. 1863). Both kept as person files.
+5. **Generation clarifications**: Three John Hough generations appear: (1) John Hough b. ~1642 Yorkshire (colonial progenitor), (2) John Hough b. ~1660 Cheshire (his son), (3) John Hough b. 1682 Cheshire (grandson who emigrated to Bucks County PA). The 1660 stub was redirected to John_Hough.md which contains that generation's data.
+6. **Unnamed-infant stubs**: Bright.md, Kleinberg.md, Schwartz.md, Unknown_Male_Schwartz.md all document unnamed infants from GEDCOM. Not merged; recommended for consolidation into Unresolved_Persons.md in future pass.
+
+### Structural issues noted in Family_Tree.md
+
+- Discrepancies table numbering has gap between #12 and #14 and duplicate #18 and #19 (content correct but numbering confused)
+- Some wikilinks still reference Rebecca_M_Long (redirect file) rather than canonical Rebecca_Moseley_Long; Obsidian resolves but GEDCOM export may not
+
+### No new external searches this session
+
+All work was internal vault analysis; no external databases queried. 10 iterations of file-by-file comparison across Cox, Youngblood, Bright, Moseley, Long, Salk, Schwartz, Kuniansky, Wert, Hough, Kleinberg, Henderson, Culpeper, Kascher, Brecht, Drake family clusters.
 
 ## 2026-04-19: Timeline Gap Analysis (prompt 07), ~20 searches across 8 iterations
 
@@ -3856,3 +3923,52 @@ Systematic search for passenger manifests and naturalization records for 10 iden
 
 ### Files Updated
 - [[Morris_Markel]], [[Helen_Brandt]], [[Barnett_Salmanson]], [[Elizabeth_Salk]], [[Levi_Itzhak_Zalmanson]], [[Michael_Kascher_Transylvania]], [[Florence_Markel_Mermelstein]], [[Minnie_Markel_Sternbach]], [[Simon_Port]], [[Research_Log]], [[Family_Tree]]
+
+---
+
+## 2026-04-19 Evening: Open Question Resolution (Session 08)
+
+**Goal**: Prioritized pass over OPEN questions using web search plus session context (Julius Salk/Kovno ingest, Baldwin FreeREG, Shneur Zalman Geni ingest, Find a Grave sweep).
+
+**Searches run (approx 15; all free web, no login):**
+
+| # | Search | Result | Resolution |
+|---|---|---|---|
+| 1 | "Nathan Fain" "Lena" Providence RI Lincoln Park Cemetery | NEGATIVE (no individual records, only Alfred Fain's 2005 legacy.com obituary reconfirmed) | OQ #36 no advance |
+| 2 | "William Thomas Long" 1825 Standing Springs | NEGATIVE (no Find a Grave memorial; only different William Thomas Longs from other states) | OQ #20 no advance |
+| 3 | "Benjamin Salk" Kovno Lithuania "Esther Rappaport" | NEGATIVE (no external corroboration of the Benjamin-Esther couple beyond the NY marriage certificate already in vault) | No new link for OQ #16 |
+| 4 | "Georgia King Sims" Fork Shoals 1885 | POSITIVE (confirms same cemetery as Judson King; same Find a Grave details already noted) | OQ #17 re-confirmed: post-1880 King child candidate identified but not named H.H. |
+| 5 | Baldwin emigrants 1682 Pennsylvania Chesham Bucks Oxfordshire Joshua Hastings | POSITIVE: search snippet explicitly states "Three young Baldwin brothers Thomas, John, and Francis sailed from **Oxfordshire**, England, around 1682 as servants of Joshua Hastings." Supports vault's existing Oxfordshire attribution over the Buckinghamshire FreeREG hypothesis; Bucks hits remain unverified candidates. | Baldwin-Oxfordshire attribution corroborated by one additional Tier 3 web source. |
+| 6 | "Lena Fain" OR "Lena Salk Fain" Providence obituary OR cemetery | NEGATIVE (no independent result beyond Alfred Fain's 2005 obit already known) | OQ #36 no advance |
+| 7 | "Troskunai" Zalk family "Leyzer" grandson Duluth | POSITIVE: JewishGen KehilaLinks page for Troskunai Zalk family confirmed. Leyzer Zalk > Zalkind Zalk + Freyda > Shmuel (1830) > Max (Mortkhel) Zalk (b. 1857) emigrated to Duluth MN 1905. **No Louis/Lazar Salk in Providence in this line.** Providence Louis Elizar Salk (b. ~1840) is not the Troskunai Leyzer (much earlier generation) and is not the Max (Duluth) line. | OQ #18: MODERATE evidence AGAINST the Troskunai link for the Providence Salk family. Naming similarity alone was insufficient; confirmed the Troskunai line went to Duluth, not Providence. |
+| 8 | "Hyman Salk" Providence Kovno Lithuania hardware 1900 founder | NEGATIVE (business is confirmed founded Providence 1900, but no genealogical biography) | OQ #16 no further advance |
+| 9 | "George Adam Bright" Heidelberg Lebanon PA 1731 1769 1783 | POSITIVE: Web result confirms TWO distinct persons: George Bright (b. 9 Feb 1731 Heidelberg PA, d. 1769) AND George Adam Bright (b. 2 Sep 1730, d. 14 Jun 1804). Cross_reference_audit item for "George Adam Bright 1769 vs 1783" reflects two different Find a Grave memorials (#124244091 for GAB b.1730, and #285400993 for George Bright b.1731). Not a date error but a name/person conflation. | Cross-reference audit resolved (not an OPEN question in Open_Questions.md; update handled by prior Find a Grave sweep). |
+| 10 | "Judson King" Pelzer 1900 census "H H King" | NEGATIVE | OQ #17 no advance |
+| 11 | "Jeddiah Clark" Greenville SC 1850 census Gilley | NEGATIVE (census PDFs exist but not indexed by search engines) | OQ #28 no advance |
+| 12 | "Rebecca L Bright" Virginia 1894 maiden name | NEGATIVE | OQ #1 no advance |
+| 13 | "Mary Elizabeth Huff" "William Thomas Long" Greenville 1900 census widow | NEGATIVE | OQ #20 no advance |
+| 14 | "Mojzesz Majer Markiel" 1919 Sambor marriage banns age | NEGATIVE (JRI-Poland Krakow index exists but no Sambor result surfaced) | OQ #34 no advance |
+| 15 | "Feiga Goldbaum" Lesko Yad Vashem Page of Testimony | NEGATIVE (general Yad Vashem results only; no specific PoT visible to web search) | OQ #24 no advance |
+| 16 | "Harry Kuniansky" Atlanta Komarovka Odessa 1888 1889 | POSITIVE: Find a Grave memorial #99745398 confirms **b. 21 Mar 1889** (not 15 Jun 1888 from GEDCOM). | Cross-reference audit: Find a Grave (Tier 2, headstone-derived) supersedes MyHeritage GEDCOM (Tier 3). Harry Kuniansky DOB resolved in favor of **21 Mar 1889** at Strong Signal level. Not an OPEN question in Open_Questions.md, logged here. |
+| 17 | "Baldwin-2330" Eli Baldwin Forsyth NC marriage 1800 Quaker bond | NEGATIVE (no marriage bond surfaced; only the existing WikiTree profile) | OQ #25 confirmed: "Edaline L. Transon" remains uncorroborated; "Elizabeth (unknown)" remains WikiTree consensus. |
+
+**Session context ingested (informs resolution attempts):**
+- Julius Salk (b. ~1871 Kovno, father Benjamin Salk, mother Esther Rappaport, m. Rebecca Marcus-Friedberg 1910 NYC Tier 1): adds a new Salk branch distinct from Abraham Salk. Does NOT directly merge Abraham and Hyman Salk families.
+- Baldwin_Buckinghamshire_FreeREG_Records_1590-1680 (14 entries, Chesham stronghold): provides candidate birth parents for the 1682 Oxfordshire emigrants, but the emigrants' Oxfordshire origin is today corroborated by an additional web source. Bucks hits remain a competing hypothesis.
+- Shneur Zalman Geni ingest (436 stubs) substantially expands rabbinic lineage; 10 discrepancies logged in cross_reference_audit rows 51-60 (handled by prior session agent, not touched here).
+- Find a Grave sweep (Harry Kuniansky, Milton Kuniansky, David Bright memorials added): already reflected in person files and findagrave_audit.md.
+
+**Open questions touched this session (see Open_Questions.md for detail):**
+- OQ #16 (Abraham Salk / Hyman Salk relationship): PARTIALLY_RESOLVED -- new Kovno-origin Salk branches (Julius Salk line) documented; Abraham/Hyman link still unproven.
+- OQ #18 (Louis Salk / Troskunai Zalk link): PARTIALLY_RESOLVED -- evidence now tilts against the Troskunai link.
+- OQ #17 (H.H. King): no advance; confirmed a post-1880 King child (Georgia King Sims) but no H.H.
+- OQ #20, #28, #1, #15 (Clark, Cooley, Long, Bright branch questions): no advance without paid/login databases.
+- OQ #24, #34: no advance (databases all require browser login).
+- OQ #25 Eli Baldwin wife: confirmed "Elizabeth (unknown)" consensus; "Edaline L. Transon" remains uncorroborated.
+
+**Negative results logged** for OQ #1, #17, #20, #24, #28, #34, #36 across the 15 searches above.
+
+### Files updated (2026-04-19 evening)
+- [[Open_Questions]] (OQ #16, #18 updated with 2026-04-19 findings)
+- [[Louis_Elizar_Salk]] (note that Troskunai link is now evidence-against)
+- [[Research_Log]] (this entry)

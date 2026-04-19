@@ -8,6 +8,7 @@ confidence: moderate
 sources:
   - "Wikipedia: Hai Gaon (https://en.wikipedia.org/wiki/Hai_Gaon)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (referenced in name of @I501262@ as 'gd.son Of Hai Gaon')"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, gaon, person, davidic-descent]
 confidence: moderate
@@ -45,6 +46,7 @@ In the claimed Davidic descent lineage, Hai Gaon's granddaughter (or descendant)
 |---|---|---|
 | GEDCOM reference in @I501262@ name | family tree entry | MyHeritage export (no individual record) |
 | Wikipedia: Hai Gaon | encyclopedia | https://en.wikipedia.org/wiki/Hai_Gaon |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "(medieval Babylonian ancestor)" . Traditional Davidic-descent claim |
 
 ## Data Discrepancies
 

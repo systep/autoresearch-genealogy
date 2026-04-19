@@ -7,6 +7,7 @@ family: "Luria"
 confidence: low
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (@I501146@)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, luria, person, davidic-descent]
 ---
@@ -39,6 +40,7 @@ The descent chain from Kalman to the Maharal runs: Kalman Luria > Leibish Kalman
 | Document | Type | Vault Note |
 |---|---|---|
 | GEDCOM @I501146@ | family tree entry | MyHeritage export |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "(ancestor in Luria line)" . Check against Geni tree for placement |
 
 ## Data Discrepancies
 

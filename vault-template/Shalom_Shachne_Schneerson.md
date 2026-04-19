@@ -7,6 +7,7 @@ family: "Schneerson"
 confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-18
 tags: [genealogy, schneerson, chabad, person, liozna, nizhyn]
 ---
@@ -31,3 +32,4 @@ Shalom Shachne was the father of the Tzemach Tzedek ([[Menachem_Mendel_Schneerso
 | Document | Type | Vault Note |
 |---|---|---|
 | MyHeritage GEDCOM export | family tree database | Tier 3 |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Rabbi Shalom Shachne Altschuler" Ukraine; d. 1800. Geni gives surname as Altschuler, not Schneerson; noted as father of Tzemach Tzedek |

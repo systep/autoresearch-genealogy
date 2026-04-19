@@ -7,6 +7,7 @@ family: "Schneerson"
 confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-18
 tags: [genealogy, schneerson, chabad, person, rabbi, nizhyn, ukraine]
 ---
@@ -37,6 +38,7 @@ His children included Moshe Schneerson (1869-1883), [[Nachoum_Schneerson]] (1882
 | Document | Type | Vault Note |
 |---|---|---|
 | MyHeritage GEDCOM export | family tree database | Tier 3 |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Israel Noah Schneerson, [HaRIN of Nizhyn]" b. 1815 Lubawitch; d. Apr 24, 1883 Nizhyn. Consistent with existing vault data |
 
 ## Data Discrepancies
 

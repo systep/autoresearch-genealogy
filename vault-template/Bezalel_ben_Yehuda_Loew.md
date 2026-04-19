@@ -10,6 +10,7 @@ sources:
   - "Geni.com profile: Betzalel ben Yehuda Loew, [Maharal Gt.Gd.father?] (c.1418 - c.1460)"
   - "loebtree.com Ancestors of the Maharal of Prague"
   - "Putik, 'Judah Loew ben Bezalel, Called Maharal: A Study on His Genealogy and Biography' (2009)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, Loew, person, Maharal-line, pre-1500]
 ---
@@ -57,6 +58,7 @@ Confidence: **Speculative**. This individual appears only in genealogical compil
 |---|---|---|
 | MyHeritage GEDCOM (I501127) | GEDCOM export | Assets/ |
 | Geni.com profile | User-contributed tree (Tier 3) | Web source |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Betzalel ben Chaim, [Maharal's father]" b. c. 1480 Prague; d. c. 1550 Poznań. Vault name differs from Geni attribution; Geni calls him Betzalel ben Chaim (Maharal's father) |
 
 ## Data Discrepancies
 

@@ -44,9 +44,10 @@ John's 1732 will (Chester County probate records, Tier 1) mentions his grandsons
 | Chester Monthly Meeting Records (marriage 1689) | Quaker meeting records (Tier 1) | |
 | Chester County PA will, circa 1732 | Probate record (Tier 1) | |
 | WikiTree profile Baldwin-2334 | User-contributed tree (Tier 3) | |
+| FreeREG Buckinghamshire parish register transcripts, 1590-1680 | Parish register index (Tier 1, derivative transcription) | [[Baldwin_Buckinghamshire_FreeREG_Records_1590-1680]]. Multiple Baldwin families clustered in Chesham St Mary parish and neighboring Bucks parishes. Contains candidate ancestors; not yet linked to this person. |
 
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| | | | No discrepancies identified at this time. |
+| Birth county | "Oxfordshire" per WikiTree Baldwin-2334 (Tier 3, user-contributed) | Multiple Baldwin baptisms in Buckinghamshire (especially Chesham St Mary 1612-1634) per FreeREG parish register indexes (Tier 1, derivative). None prove origin; but the Oxfordshire attribution is unverified and may be a WikiTree error. | UNRESOLVED. Logged pending corroboration from Bucks/Oxfordshire Quaker meeting records or probate records. See [[Baldwin_Buckinghamshire_FreeREG_Records_1590-1680]] for candidate Chesham baptisms (especially 01 Jan 1627/8 as possible father). Buckinghamshire origin is plausible given Chesham's active Quaker community (Friends Meeting House 1671) and proximity to the Oxfordshire border. |

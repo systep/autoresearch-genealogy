@@ -4,10 +4,11 @@ name: "John Baldwin"
 born: 
 died: 
 family: "Baldwin"
-confidence: low
+confidence: stub
 sources:
   - "User-provided data"
 created: 2026-04-10
+updated: 2026-04-19
 tags: [genealogy, baldwin, person, stub]
 ---
 
