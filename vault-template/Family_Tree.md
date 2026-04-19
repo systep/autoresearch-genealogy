@@ -1,7 +1,7 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-18
+updated: 2026-04-19
 tags: [genealogy, family-tree]
 confidence: mixed
 sources: [Assets/Screenshots, Assets/IMG_0782-0792, Assets/IMG_0791-church-note, web-research-2026-04-09]
@@ -127,18 +127,30 @@ Louis Salk (b. Russia) + Rose P. Salk (b. Russia)
 └── [[Abraham_Zolly_Salk]] (b. ~1860, Russia; d. Feb 22, 1925, Providence RI) + Tobey/Tauba Salk
     ├── [[Elizabeth_Salk]] (Mar 5, 1887 - Nov 30, 1974) + [[Barnett_Salmanson]]
     ├── [[Lena_Fain]] (b. ~1885-1895) + Nathan Fain
-    │   ├── Alfred Fain (~1912, d. 2005; twin; co-owner Fain's Department Store) + Sylvia Kniznik
+    │   ├── Irving I. Fain (b. Dec 18, 1899, d. Sep 1983; co-founder Fain's Floorcovering 1927) + Miriam Grossman (b. 1904, RI)
+    │   │   ├── Barnet "Bunny" Fain (Mar 31, 1932 - May 4, 2018) + Jean Segal
+    │   │   │   ├── Kenneth Fain + Lisa Gim
+    │   │   │   └── Jill Fain Lehman + Philip Lehman
+    │   │   └── Judi (Fain) Kanter + Buz Kanter
+    │   ├── Alfred Fain (d. 2005 age 93; co-owner Fain's Department Store 53 years) + Sylvia (Kniznik) Fain
+    │   │   └── Larry G. Fain + Susan
+    │   │       └── Marc Fain + Chris
     │   ├── Alfred's twin brother (name unknown; co-owner Fain's Department Store)
-    │   ├── Jeanette (Fain) Rosofsky
-    │   ├── Leonard Fain
-    │   └── Dora (Fain) Paster
+    │   ├── Rebecca (Fain) Sandler (speculative — from MyHeritage, needs confirmation)
+    │   ├── Leila (Fain) Rosen (speculative — from MyHeritage, needs confirmation)
+    │   ├── Bertha (Fain) Feingold (speculative — from MyHeritage, needs confirmation)
+    │   ├── Jeanette (Fain) Rosofsky (deceased per Alfred's 2005 obit)
+    │   ├── Leonard Fain (deceased per Alfred's 2005 obit)
+    │   └── Dora (Fain) Paster (deceased per Alfred's 2005 obit)
     ├── Anna Salk (b. Jul 22, 1893, RI; d. Jan 26, 1958, GA) + Samuel Zipperman
     └── Marry Salk + Lyons
 ```
 
 **Note:** Lena Fain was discovered from Abraham's 1925 death certificate (informant: "daughter Lena Fain"). Her maiden name "Salk" was confirmed by Alfred Fain's 2005 obituary (Providence Journal), which names his parents as "Nathan and Lena (Salk) Fain." She was previously absent from all known family trees (GEDCOM, Geni, MyHeritage).
 
-**Note on Fain family disambiguation:** The Nathan and Lena (Salk) Fain family (Fain's Department Store) is distinct from the Alfred A. Fain Sr. and Elizabeth (Stoneman) Fain family (Teknor Apex / Irving J. Fain, RI Heritage Hall of Fame inductee 1985). Both were prominent Jewish families in Providence but are not the same family.
+**Note on Fain family disambiguation:** The Nathan and Lena (Salk) Fain family includes TWO businesses: (1) "Fain's Department Store" (Alfred + twin, 53 years, retired 1982) and (2) "Fain's Floorcovering" (Irving I. + partner, opened 1927 on North Main Street, grew to 14 stores, acquired 1994 by New York Carpet World). These may be two branches of the same family business, or two separate enterprises by siblings. A THIRD, unrelated Fain family is the Alfred A. Fain Sr. and Elizabeth (Stoneman) Fain family (Teknor Apex / Irving J. Fain b. 1906, RI Heritage Hall of Fame inductee 1985).
+
+**Note on Irving I. Fain (b. 1899)**: MyHeritage shows Irving with 11 siblings. Alfred's obituary names only Jeanette Rosofsky, Leonard Fain, and Dora Paster as deceased siblings. The relationship between Irving (b. 1899) and Alfred (d. 2005 age 93, so b. ~1912) needs census confirmation. If Irving was Alfred's twin, the twin would have been born ~1912, not 1899. More likely Irving and Alfred are different siblings, with Alfred's unnamed twin being yet another sibling.
 
 ### Eastern European Ancestry: Zalmanson Line
 
@@ -238,6 +250,23 @@ Thelma Markel (1920-2011, married Leonard Irving Salmanson 1947) was the daughte
 ```
 
 **Note on Nissen Mendel's position**: The Yichus narrative places Nissen Mendel as Dov's father (Heshel's grandfather). The 1894 Tier 1 record confirms Mordko Ber as Heshel's father, but does NOT name Mordko Ber's father. Nissen Mendel remains a Tier 2 Yichus attribution only. Four JRI Poland partner hits for "Nissen+Markel" have not yet been examined.
+
+### Brandt/Goldbaum Family (Helen Brandt's Family of Origin, Lesko/Lisko)
+
+*Source: 1919 Sambor marriage banns (Tier 1); Lesko Yizkor Book necrology pp. 467-469 (JewishGen, Tier 2) -- added 2026-04-18.* **(moderate)**
+
+Helen Brandt's parents were **Józef BRAND of Lisko** and **Brancia (Brina) GOLDBAUM of Lisko** per the 1919 marriage banns (Tier 1). Helen's Yiddish name was Dwora (Devorah). The Brandt/Goldbaum family was from **Lesko (Lisko)**, Sanok district, NOT Tarnopol as previously assumed.
+
+**Lesko Yizkor Book Holocaust Martyrs (pp. 467-469)**: Five Goldbaum individuals are listed among the Lesko martyrs (murdered 1942):
+- **GOLDBAUM, David** (M)
+- **GOLDBAUM, Feiga** (F) -- mother of 3 children below
+- **GOLDBAUM, Ester** (F) -- daughter of Feiga
+- **GOLDBAUM, Chana** (F) -- daughter of Feiga
+- **GOLDBAUM, Yisrael Lipa** (M) -- son of Feiga
+
+**No Brand or Brandt entries** appear in any section of the Lesko Yizkor necrology (pp. 467-489).
+
+**Analysis**: Feiga Goldbaum is a candidate for Brina/Brancia Goldbaum (Helen's mother). "Feiga" could be her Yiddish name while "Brancia" was the Polish civil name. If confirmed, David Goldbaum could be her husband (or another relative), and Ester, Chana, and Yisrael Lipa would be Helen's siblings who remained in Lesko. This connection requires verification through the All Galicia Database or Yad Vashem.
 
 ### Frei Family (Leah Frei's Family of Origin)
 

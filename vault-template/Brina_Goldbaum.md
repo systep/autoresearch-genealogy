@@ -20,8 +20,8 @@ sources:
   - "Uncovering Jewish Heritage (Tier 2)"
   - "zchor.org Belzec deportation list (Tier 2)"
 created: 2026-04-10
-updated: 2026-04-18
-tags: [genealogy, goldbaum, brandt, person, tier-1, holocaust, jewish, poland, galicia, lisko, lesko]
+updated: 2026-04-19
+tags: [genealogy, goldbaum, brandt, person, tier-1, holocaust, jewish, poland, galicia, lisko, lesko, yizkor]
 ---
 
 # Brina Goldbaum
@@ -38,7 +38,7 @@ tags: [genealogy, goldbaum, brandt, person, tier-1, holocaust, jewish, poland, g
 | Father | Unknown | |
 | Mother | Unknown | |
 | Spouse | **[[Joseph_Brandt]]** (Józef BRAND of Lisko; religiously but not civilly married) | 1919 marriage banns (Tier 1); GEDCOM (Tier 3) |
-| Children | **[[Helen_Brandt]]** (Dwora GOLDBAUM false BRAND; b. Lisko) | 1919 marriage banns (Tier 1); GEDCOM (Tier 3) |
+| Children | **[[Helen_Brandt]]** (Dwora GOLDBAUM false BRAND; b. Lisko); **possibly also** Ester Goldbaum (F), Chana Goldbaum (F), Yisrael Lipa Goldbaum (M) -- listed as children of Feiga Goldbaum in Lesko Yizkor necrology p. 469, IF Feiga = Brina | 1919 marriage banns (Tier 1); GEDCOM (Tier 3); Lesko Yizkor Book p. 469 (Tier 2, UNCONFIRMED identification) |
 
 ## Biography
 
@@ -65,7 +65,23 @@ Research (2026-04-18) has established the complete deportation timeline for the 
 
 **The Lesko synagogue memorial**: The former Lesko synagogue (damaged during WWII, rebuilt in the 1960s-70s, now an art gallery since 1978) displays a **list of 3,000 residents of Lesko and surroundings murdered by Nazis during 1939-1944**. The vestibule contains photographs about Jewish life and memorial plaques with names. If Brina was among the murdered, her name may appear on this list. HUMAN ACTION REQUIRED: Visit or photograph this memorial.
 
-**The Lesko Yizkor Book necrology** (pp. 467-489) lists the martyrs from Lesko and villages in the Linsk district. If Brina remained in Lesko, her name should appear in these pages. All pages are translated at jewishgen.org/yizkor/lesko/ but returned 403 on automated access. **HUMAN ACTION REQUIRED: Read pp. 467-489 in browser for Brand/Goldbaum names.** This is the single highest priority action for determining Brina's fate.
+**The Lesko Yizkor Book necrology** (pp. 467-489) lists the martyrs from Lesko and villages in the Linsk district.
+
+**MAJOR UPDATE (2026-04-18 late-night session): Lesko Yizkor necrology ACCESSED.** Page 469 of the Lesko Yizkor Book (jewishgen.org/yizkor/lesko/les467.html, Tier 2) lists **5 named Goldbaum martyrs**:
+1. **GOLDBAUM, David** (M) -- no further details listed
+2. **GOLDBAUM, Feiga** (F) -- mother of 3 children below
+3. **GOLDBAUM, Ester** (F) -- daughter of Feiga
+4. **GOLDBAUM, Chana** (F) -- daughter of Feiga
+5. **GOLDBAUM, Yisrael Lipa** (M) -- son of Feiga
+
+**No Brand or Brandt entries** appear anywhere in the necrology (pp. 467-489). Pages 476-489 cover surrounding villages (Ustrzyki Dolne, Olesznica, Tarnawa Gorna, etc.) and contain no additional Goldbaum entries.
+
+**Analysis: Feiga Goldbaum as a candidate for Brina/Brancia.** "Feiga" (Yiddish: "beautiful/good," from the Germanic root "fein") could be Brina's Yiddish name while "Brancia" was the Polish civil name. This dual-naming pattern (one name in synagogue/community, another in civil records) was standard in Galician Jewish life. If Feiga = Brina, then:
+- David Goldbaum could be her husband (if Józef Brand predeceased her), father, brother, or son.
+- Ester, Chana, and Yisrael Lipa would be Helen's siblings who remained in Lesko and were murdered in August-September 1942.
+- The absence of Brand/Brandt from the martyrs list could mean Józef Brand predeceased the Holocaust.
+
+**IMPORTANT**: This identification is a HYPOTHESIS, not a confirmation. "Feiga Goldbaum" could be an unrelated Goldbaum from Lesko. To confirm or refute, search the All Galicia Database for Goldbaum vital records in Lesko, and search Yad Vashem for Pages of Testimony for all 5 individuals. HUMAN ACTION REQUIRED.
 
 **Note on Tarnopol Holocaust timeline**: The Tarnopol ghetto timeline documented below was recorded before the Tier 1 correction establishing Brina's origin as Lisko, not Tarnopol. It is retained for reference but is **no longer the primary hypothesis** for Brina's fate. The Lesko timeline above is now the correct context.
 

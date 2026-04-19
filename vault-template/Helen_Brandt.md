@@ -18,8 +18,8 @@ sources:
   - "1940 US Census, West Warwick RI, Enum. Dist. 2-46 (Tier 1)"
   - "1950 US Census, West Warwick RI (Tier 1)"
 created: 2026-04-10
-updated: 2026-04-18
-tags: [genealogy, Brandt, person, jewish, poland, immigrant, rhode-island, lisko, lesko, galicia]
+updated: 2026-04-19
+tags: [genealogy, Brandt, person, jewish, poland, immigrant, rhode-island, lisko, lesko, galicia, holocaust]
 ---
 
 # Helen Brandt
@@ -76,7 +76,16 @@ If Brina remained in Lesko, at her estimated age of 67-82 she was most likely am
 
 Helen emigrated to the United States approximately 1928 with her husband Morris and their children. By leaving Europe before 1939, the Markel/Brandt family narrowly avoided the fate that consumed both their origin communities: the Lesko Jews (murdered Aug-Sept 1942) and the Sambor Jews (murdered 1942-1943, including four of Morris's siblings).
 
-The Lesko Yizkor Book necrology (pp. 467-489, jewishgen.org/yizkor/lesko/) and the Yad Vashem names database may contain entries for Brina and/or Joseph. HUMAN ACTION REQUIRED.
+**Lesko Yizkor Book Goldbaum Martyrs (2026-04-18 late-night session)**: The Lesko Yizkor Book necrology page 469 (jewishgen.org/yizkor/lesko/les467.html, Tier 2) lists **5 Goldbaum individuals** among the Lesko Holocaust martyrs:
+1. **GOLDBAUM, David** (M)
+2. **GOLDBAUM, Feiga** (F) -- mother of 3 children below
+3. **GOLDBAUM, Ester** (F) -- daughter of Feiga
+4. **GOLDBAUM, Chana** (F) -- daughter of Feiga
+5. **GOLDBAUM, Yisrael Lipa** (M) -- son of Feiga
+
+**No Brand or Brandt entries** appear in any section of the necrology (pp. 467-489). **Feiga Goldbaum is a candidate for Brina (Brancia) Goldbaum**, Helen's mother. "Feiga" could be her Yiddish name while "Brancia" was the Polish civil form -- this dual-naming pattern is standard in Galician Jewish records. If Feiga = Brina, then David Goldbaum could be her husband or relative, and Ester, Chana, and Yisrael Lipa would be Helen's siblings who remained in Lesko. This identification remains UNPROVEN and requires corroboration from the All Galicia Database or Yad Vashem. See also Open Questions #24.
+
+The Yad Vashem names database may contain Pages of Testimony for these individuals. HUMAN ACTION REQUIRED to search in browser.
 
 ### Children
 

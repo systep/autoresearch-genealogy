@@ -10,7 +10,7 @@ sources:
   - "Alfred Fain obituary, Providence Journal, 2005 (Tier 2): names parents as 'Nathan and Lena (Salk) Fain'"
   - "Barnet Fain obituary, 2018 (Tier 2): grandson; son of Irving I. Fain"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 tags: [genealogy, salk, fain, person, rhode-island, providence]
 ---
 
@@ -28,7 +28,7 @@ tags: [genealogy, salk, fain, person, rhode-island, providence]
 | Father | [[Abraham_Zolly_Salk]] (d. Feb 22, 1925) | Death Certificate No. 584/226 (Tier 1) |
 | Mother | Tobey Salk (Tauba/Toby/Theresa) | Death Certificate No. 584/226 (Tier 1) |
 | Spouse | Nathan Fain | Alfred Fain obituary 2005 (Tier 2) |
-| Children | Alfred Fain (~1912, d. 2005, twin), Alfred's twin brother (name unknown), Jeanette (Fain) Rosofsky, Leonard Fain, Dora (Fain) Paster, and possibly others including Irving I. Fain (b. 1899) | Alfred Fain obituary 2005 (Tier 2); Barnet Fain obituary 2018 (Tier 2) |
+| Children | Irving I. Fain (b. Dec 18, 1899, d. Sep 1983), Alfred Fain (d. 2005 age 93, twin), Alfred's twin brother (name unknown), Rebecca (Fain) Sandler, Leila (Fain) Rosen, Bertha (Fain) Feingold, Jeanette (Fain) Rosofsky, Leonard Fain, Dora (Fain) Paster -- and possibly more (MyHeritage shows Irving had 11 siblings) | Alfred Fain obituary 2005 (Tier 2); Barnet Fain obituary 2018 (Tier 2); MyHeritage (Tier 3) |
 
 ## Biography
 
@@ -36,16 +36,21 @@ Lena Salk was a daughter of [[Abraham_Zolly_Salk]] and Tobey Salk, born in the R
 
 Lena married **Nathan Fain** and settled in Providence, Rhode Island. On February 22, 1925, she served as the informant on her father Abraham's death certificate (Providence Death Certificate No. 584/226, Tier 1), identifying herself as his daughter. At that time she was living in the Providence area.
 
-Lena and Nathan Fain had multiple children, including:
-- **Alfred Fain** (~1912, d. 2005, age ~93): Co-owner of Fain's Department Store in Providence with his twin brother for 53 years (retired 1982). Married Sylvia (Kniznik). His obituary in the Providence Journal (2005) names his parents as "Nathan and Lena (Salk) Fain," the key source confirming Lena's maiden name and husband.
-- **Alfred's twin brother** (name not yet identified): Co-owner of Fain's Department Store.
-- **Jeanette (Fain) Rosofsky**
-- **Leonard Fain**
-- **Dora (Fain) Paster**
+Lena and Nathan Fain had a large family. MyHeritage records indicate Irving I. Fain had 11 siblings. The confirmed children include:
 
-Additionally, **Irving I. Fain** (b. Dec 18, 1899, d. Sept 1983, Providence) may be a son of Nathan and Lena Fain, though this has not been confirmed. Irving I. Fain's son was **Barnet "Bunny" Fain** (1932-2018), a Providence businessman and artist, whose obituary states his father was "Irving I. Fain" and mother was "Miriam Grossman."
+- **Irving I. Fain** (b. Dec 18, 1899, d. Sep 1983, Providence): Co-founder of **Fain's Floorcovering** with a brother/uncle in 1927 on North Main Street, Providence. The business eventually grew to 14 stores in RI, MA, and CT before its 1994 acquisition by New York Carpet World. Irving married **Miriam Grossman** (b. 1904, RI). Their children: Barnet "Bunny" Fain (1932-2018, artist and businessman) + Jean Segal; Judi (Fain) Kanter + Buz Kanter. Barnet's children: Kenneth Fain + Lisa Gim, Jill Fain Lehman + Philip Lehman.
+- **Alfred Fain** (d. 2005, age ~93, so b. ~1912): Co-owner of **Fain's Department Store** with his twin brother for 53 years (retired 1982). Married **Sylvia (Kniznik) Fain**. Son: Larry G. Fain + Susan; grandson Marc Fain + Chris; 3 great-grandchildren (Brandon, Shannon, Cameron). Member Temple Emanu El, honorary board member Jewish Family Service, charter member and past president North End Businessmen's Association. Buried **Lincoln Park Cemetery**. His obituary (Legacy.com, 2005) names his parents as "Nathan and Lena (Salk) Fain."
+- **Alfred's twin brother** (name not yet identified): Co-owner of Fain's Department Store. Predeceased Alfred.
+- **Rebecca (Fain) Sandler** (per MyHeritage, Tier 3; unconfirmed)
+- **Leila (Fain) Rosen** (per MyHeritage, Tier 3; unconfirmed)
+- **Bertha (Fain) Feingold** (per MyHeritage, Tier 3; unconfirmed)
+- **Jeanette (Fain) Rosofsky** (deceased per Alfred's 2005 obituary)
+- **Leonard Fain** (deceased per Alfred's 2005 obituary)
+- **Dora (Fain) Paster** (deceased per Alfred's 2005 obituary)
 
-**Important distinction**: The Nathan and Lena (Salk) Fain family (Fain's Department Store) is a **separate** Providence Jewish family from the Alfred A. Fain Sr. and Elizabeth (Stoneman) Fain family, whose son **Irving J. Fain** (b. 1906, d. 1970) founded Teknor Apex Company and was inducted into the Rhode Island Heritage Hall of Fame. Irving J. Fain (Teknor Apex) was son of Alfred and Elizabeth Stoneman, not of Nathan and Lena Salk.
+**Note on two family businesses**: The Fain family ran TWO distinct businesses: (1) "Fain's Department Store" (Alfred + twin, North End, 53 years) and (2) "Fain's Floorcovering" (Irving I. + partner, North Main Street, 1927-1994). These may represent two branches of the same family enterprise or two independent businesses by siblings. The question of whether Irving (b. 1899) was Alfred's (b. ~1912) twin is chronologically implausible; they are likely different siblings.
+
+**Important distinction**: The Nathan and Lena (Salk) Fain family is a **separate** Providence Jewish family from the Alfred A. Fain Sr. and Elizabeth (Stoneman) Fain family, whose son **Irving J. Fain** (b. Aug 11, 1906, d. Aug 22, 1970) was a captain of Harvard's debate team (1927), founded Teknor Apex Company (vinyl garden hose), championed fair housing legislation, and was inducted into the Rhode Island Heritage Hall of Fame (1985). Irving J. Fain (Teknor Apex) was son of Alfred A. and Elizabeth (Stoneman) Fain, NOT of Nathan and Lena (Salk) Fain.
 
 ### Discovery Context
 

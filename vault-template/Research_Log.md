@@ -1,14 +1,100 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-18
-last_session: "2026-04-18 Judson King 1900 Census and H.H. King Search: 10 searches across Find a Grave, census transcription projects, WikiTree, BillionGraves, Genealogy Trails. Confirmed Judson King buried Fork Shoals Baptist Church Cemetery (FAG #8422324). Discovered Georgia King Sims (1885-1974, FAG #13396670) at same cemetery, probable daughter born after 1880. H.H. King remains unidentified; 1900 census behind login walls is decisive record."
+updated: 2026-04-19
+last_session: "2026-04-18 Open Question Resolution (late-night): ~30 searches. Major breakthroughs: 5 Goldbaum martyrs in Lesko Yizkor (Feiga, David, Ester, Chana, Yisrael Lipa); Alfred Fain obituary confirmed Nathan+Lena(Salk) parents; Ahavath Sholom had no rabbi; SC pre-1911 no marriage records; Edaline Transon assessed as GEDCOM error; 5 Providence Salk branches documented."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-18: Open Question Resolution (late-night session), ~30 searches
+
+### Summary
+
+Systematic attack on open questions per prompt 08. Focused on questions resolvable with free web sources. Major breakthroughs on Lesko Yizkor Goldbaum martyrs, Fain family business history, Ahavath Sholom congregational history, SC marriage records dating, Eli Baldwin/Transou assessment, and Providence Salk family branches.
+
+### Key Findings
+
+1. **Lesko Yizkor Goldbaum martyrs (OQ #24)**: 5 named Goldbaum Holocaust victims confirmed on page 469 of Lesko Yizkor Book necrology (JewishGen): David Goldbaum (M), Feiga Goldbaum (F, mother of 3), Ester Goldbaum (F, daughter of Feiga), Chana Goldbaum (F, daughter of Feiga), Yisrael Lipa Goldbaum (M, son of Feiga). No Brand/Brandt in any necrology page. Feiga is a candidate for Brina (Brancia) Goldbaum.
+
+2. **Lena (Salk) Fain family (OQ #36)**: Alfred Fain obituary fully confirmed (Legacy.com). Buried Lincoln Park Cemetery. Deceased siblings: Jeanette Rosofsky, Leonard Fain, Dora Paster. Barnet Fain (1932-2018) obituary reveals Fain's Floorcovering opened 1927 by "his father [Irving I. Fain] and uncle" on North Main Street. Two distinct Fain businesses documented.
+
+3. **Ahavath Sholom / Morris Markel (OQ #23)**: JewishRhody.com article confirms congregation "could not afford a rabbi." Morris Markel was likely a lay religious leader, not an ordained rabbi.
+
+4. **SC marriage records (OQ #15)**: South Carolina did NOT record marriages before July 1, 1911. No marriage record for Judson King + Charstee Cooley can exist. Hiram Cooley's children documented but no Charity/Charstee found.
+
+5. **Eli Baldwin wife (OQ #25)**: WikiTree confirms wife as Elizabeth (maiden name unknown). GEDCOM's "Edaline L. Transon" almost certainly an error. Transou family was Moravian in Bethania; no Transou-Baldwin connection in any source.
+
+6. **Providence Salk families (OQ #16)**: Now 5 distinct branches documented. Harold Salk (d. 2024) parents: Samuel and Ruth (Fleisig) Salk. Harvey M. Salk (1921-1997) daughter Patricia Fain creates Salk-Fain cross-link.
+
+### Searches Conducted
+
+| # | Search | Database/Source | Result |
+|---|---|---|---|
+| 1 | Charstee Cooley King Judson King marriage Greenville County SC | Web/multiple | NEGATIVE for marriage record. FINDING: SC marriages not recorded before 1911. |
+| 2 | Lena Salk Fain Nathan Fain Providence RI obituary | Web/Legacy.com | NEGATIVE. Generic obituary database pages. |
+| 3 | Albert G Bright parents Virginia 1894 Charles Edward Bright | Web/multiple | NEGATIVE. Charles Edward Bright = English businessman, wrong person. |
+| 4 | William Thomas Long 1825 Standing Springs Cemetery | Web/Find a Grave | NEGATIVE. No memorial found at Standing Springs. Cemetery confirmed (696 records). |
+| 5 | Nathan Fain Providence RI Fain's store Find a Grave | Web/FAG | NEGATIVE. No memorial found. |
+| 6 | Find a Grave William Long Standing Springs Cemetery | Web | NEGATIVE. No specific memorial. |
+| 7 | Edaline Transon / Eli Baldwin Greenville SC | Web/WikiTree | POSITIVE: WikiTree Baldwin-2330 confirms wife as Elizabeth (unknown). |
+| 8 | Irving Fain Providence RI born 1899 obituary | Web/MyHeritage/RIHHF | POSITIVE: Irving b. Dec 18 1899, 11 siblings, married Miriam Grossman 1904. |
+| 9 | Alfred Fain twin Providence Fain's Department Store 2005 | Web/Legacy.com | POSITIVE: Full obituary confirmed. Parents Nathan + Lena (Salk) Fain. |
+| 10 | Hiram Cooley Greenville SC descendants Charity/Charstee | Web/blog/Geni | POSITIVE: Hiram's children documented, but no Charity/Charstee among them. |
+| 11 | Alfred Fain obituary fetch (Legacy.com) | WebFetch | POSITIVE: Complete details extracted. Buried Lincoln Park Cemetery. |
+| 12 | Barnet Fain obituary fetch (Legacy.com) | WebFetch | POSITIVE: Parents Irving I. Fain + Miriam Grossman. Store opened 1927. |
+| 13 | Irving J. Fain RI Heritage Hall of Fame fetch | WebFetch | POSITIVE: Different person (b. 1906, parents Alfred and Elizabeth Stoneman Fain). |
+| 14 | WikiTree Baldwin-2330 fetch | WebFetch | POSITIVE: Full family details extracted. |
+| 15 | Hiram Cooley 1796-1864 blog fetch | WebFetch | PARTIAL: Children by two wives documented. Incomplete list. |
+| 16 | RIJHA Ahavath Sholom PDF fetch | WebFetch | FAILED: Binary PDF, unreadable. |
+| 17 | Baldwin families Chatham County NC blog fetch | WebFetch | POSITIVE: No mention of Eli Baldwin or SC migration. |
+| 18 | Lesko Yizkor pages 467-476 fetch (JewishGen) | WebFetch | **MAJOR POSITIVE**: 5 Goldbaum martyrs confirmed page 469. |
+| 19 | Feiga Goldbaum Lesko Yizkor martyrs search | Web | NEGATIVE. No additional details beyond Yizkor page. |
+| 20 | Irving Israel Fain 1899 Nathan Lena Salk siblings | Web/MyHeritage | POSITIVE: 11 siblings confirmed. |
+| 21 | Jeanette Rosofsky / Leonard Fain / Dora Paster Fain Salk | Web | PARTIAL: Harvey M Salk daughter Patricia Fain discovered. |
+| 22 | Charstee Cooley / Charity Cooley King Greenville SC | Web | NEGATIVE. No match in any database. |
+| 23 | Lesko Yizkor pages 476-482 fetch | WebFetch | POSITIVE: No Goldbaum in this section (Ustrzyki Dolne villages). |
+| 24 | Goldbaum Lesko Yizkor David Feiga search | Web/USHMM | NEGATIVE. No additional detail. |
+| 25 | Columbus Index Mississippi 1889 Chronicling America | Web/LOC | POSITIVE: Newspaper confirmed digitized 1869-1893 at LOC. |
+| 26 | Willis Henrietta Youngblood II&C Columbus teacher | Web | NEGATIVE. No new data. |
+| 27 | William Thomas Long 1825 1887/1897 Greenville SC | Web | NEGATIVE. seekingmyroots PDF too large to fetch. |
+| 28 | Transou family Forsyth County NC genealogy | Web/WikiTree | POSITIVE: 55 Transou profiles, Moravian family. No Baldwin connection. |
+| 29 | WikiTree Transou genealogy fetch | WebFetch | POSITIVE: Complete list. No Edaline, no Baldwin marriage. |
+| 30 | Chronicling America Columbus Index fetch | WebFetch | REDIRECT then 403. |
+| 31 | Ahavath Sholom West Warwick RI founding families | Web/JewishRhody | POSITIVE: Congregation confirmed no rabbi. |
+| 32 | JewishRhody Ahavath Sholom article fetch | WebFetch | POSITIVE: No rabbi, no Markel mentioned. |
+| 33 | Harvey M Salk 1921-1997 Find a Grave | Web/FAG/Dignity | POSITIVE: Harvey Salk obit confirmed (different Harvey). Patricia Fain daughter. |
+| 34 | Harold Salk obituary 2024 | Web/Dignity | POSITIVE: Parents Samuel + Ruth (Fleisig) Salk confirmed. |
+| 35 | Barnet Fain Dignity Memorial fetch | WebFetch | POSITIVE: Confirmed father Irving I. Fain, cousin Barry Fain. |
+| 36 | Barnet Fain JewishRhody fetch | WebFetch | POSITIVE: Same details confirmed. |
+| 37 | Lesko Yizkor pages 485-489 fetch | WebFetch | POSITIVE: No Goldbaum in this section. |
+| 38 | Harvey Salk Dignity Memorial fetch | WebFetch | DIFFERENT PERSON: Harvey b. 1943, parents David + Dorothy Lipman Salk. |
+| 39 | Harold Salk Dignity Memorial fetch | WebFetch | POSITIVE: Full details. Korean War, Temple Beth-El. |
+| 40 | Stephen Salk obituary 2023 | Web | POSITIVE: Parents Gabriel and Frances (Shapiro) Salk. |
+
+### Negative Results (Important)
+
+- No marriage record for Judson King + Charstee Cooley can exist (SC pre-1911).
+- No Find a Grave memorial for William Thomas Long at Standing Springs Cemetery.
+- No Albert G Bright parents found in free web sources.
+- "Edaline L. Transon" appears nowhere outside the GEDCOM. Almost certainly an error.
+- No "Charity" or "Charstee" Cooley found among documented Hiram Cooley descendants.
+- Columbus Index 1889 digitized but could not be accessed (redirect/403).
+- No Willis Henrietta Youngblood found in any new source.
+
+### Analysis
+
+This session resolved or partially resolved 4 questions and advanced 3 others:
+- OQ #24 (Brina Goldbaum): PARTIALLY RESOLVED with 5 named Goldbaum martyrs from Lesko Yizkor.
+- OQ #23 (Morris Markel rabbi): PARTIALLY RESOLVED -- congregation had no rabbi; Morris was likely a lay leader.
+- OQ #25 (Eli Baldwin wife): UPDATED with strong evidence that "Edaline Transon" is an error.
+- OQ #36 (Lena Fain): SUBSTANTIALLY ADVANCED with full Alfred Fain obituary and two Fain businesses identified.
+- OQ #15 (Judson King wife): UPDATED with SC marriage records limitation.
+- OQ #16 (Hyman/Abraham Salk): UPDATED with 5 distinct Salk branches and new obituary data.
+- OQ #1 (Mary Elizabeth Bright): No progress. Albert G Bright parents remain unknown.
 
 ## 2026-04-18: Judson King 1900 Census Search and H.H. King Identification, 10 searches
 
