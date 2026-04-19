@@ -23,7 +23,7 @@ tags: [genealogy, schwartz, schwarz, person, germany, wuerttemberg, enzweihingen
 | Born | **17 May 1822** | FamilySearch baptismal record, Tier 1 (corrects GEDCOM's 1821 by one year) |
 | Christened | 19 May 1822, Evangelisch, Enzweihingen, Neckarkreis, Württemberg | FamilySearch baptismal record (Tier 1) |
 | Birthplace | **Enzweihingen, Neckarkreis, Württemberg** (present-day part of Vaihingen an der Enz, Ludwigsburg Kreis, Baden-Württemberg, Germany) | FamilySearch baptismal record (Tier 1) |
-| Died | 14 FEB 1907, Pleasant Valley, Marshall, West Virginia (vault GEDCOM, not independently verified) | MyHeritage GEDCOM (Tier 3) |
+| Died | 14 FEB 1907, Pleasant Valley, Marshall, West Virginia — **UNVERIFIED and likely wrong**: WV State Archives Vital Research Records search (2026-04-19) returned NO Schwartz death record for Marshall County 1907. See [[Schwartz_WV_Archives_Search_2026_04_19]]. | MyHeritage GEDCOM (Tier 3, now suspect) |
 | Father | [[Johann_Conrad_Schwarz]] | FamilySearch baptismal record (Tier 1) |
 | Mother | [[Susanna_Barbara_Eitel]] | FamilySearch baptismal record (Tier 1) |
 | Spouse | Unknown — **candidate [[Catharine_Schwartz_1821]]** (b. ~1821 Württemberg, in 1870 Iowa census), but identification is not confirmed (see Data Discrepancies below) | Candidate only |
