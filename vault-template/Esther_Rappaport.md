@@ -7,7 +7,7 @@ family: "Rappaport"
 confidence: low
 sources:
   - "New York State Marriage Certificate No. 30826, 24 Nov 1910 (Tier 1, primary source, derivative mention): see [[Julius_Salk_Rebecca_Marcus_NY_Marriage_1910]]"
-  - "MyHeritage NYC Marriages 1866-1949 index (Tier 2)"
+  - "MyHeritage NYC Marriages 1866-1949 index (Tier 2, derived from the same NY marriage record, not an independent source)"
 created: 2026-04-19
 tags: [genealogy, rappaport, salk, person, lithuania, kovno, stub]
 ---

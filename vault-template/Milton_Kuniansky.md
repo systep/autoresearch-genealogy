@@ -4,7 +4,7 @@ name: "Milton Kuniansky"
 born: 1920-02-18
 died: 2014-12-31
 family: "Kuniansky"
-confidence: low
+confidence: moderate
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
   - "Find a Grave #140747645 (Tier 2)"

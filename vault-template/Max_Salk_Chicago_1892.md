@@ -47,6 +47,8 @@ Although the birth years are close, the birth cities (Kovno vs St. Petersburg) a
 
 The Chicago Salks (Max b. 1892 and [[Robert_Salem_Salk]] b. 1889) share Kovno origin and Chicago residence, suggesting a sibling or close-cousin relationship. Their parents are not identified in current records. See [[Robert_Salem_Salk]] for hypotheses on their placement in the extended Louis Elizar / Nussen Elia / Benjamin Salk family.
 
+Single source only; corroboration not yet found. Targeted 2026-04-19 search returned no independent hit. Cook County IL census, marriage, and death records are the next avenues.
+
 ## Document Sources
 
 | Document | Type | Vault Note |

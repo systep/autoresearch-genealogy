@@ -32,7 +32,9 @@ Henriette Goldberg is known only from the 24 November 1910 New York marriage cer
 
 ### Middle name/initial ambiguity
 
-The marriage certificate appears to list an additional initial or middle name for Henriette that is partially illegible — possibly "L." (Leah?). A higher-resolution image review or retrieval of the original certificate would clarify.
+The marriage certificate appears to list an additional initial or middle name for Henriette that is partially illegible, possibly "L." (Leah?). A higher-resolution image review or retrieval of the original certificate would clarify.
+
+Single source only; corroboration not yet found. Libau Jewish vital records and Kurland Goldberg family indices are the next avenues.
 
 ## Document Sources
 

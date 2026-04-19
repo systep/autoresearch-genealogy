@@ -33,6 +33,8 @@ Israel Salk was born **29 September 1882** in Kovno (Kaunas), Russian Empire (no
 
 Given his birth year and Kovno birthplace, Israel is plausibly a younger sibling of [[Abraham_Zolly_Salk]] (b. ~1859-1860) or a cousin within the Louis Elizar / Nussen Elia / Benjamin Salk extended family network. At 22 years Abraham's junior, a sibling relationship is possible (large-family spacing) but cousin-level is also plausible. Direct placement is an open question.
 
+Single source only; corroboration not yet found. Targeted 2026-04-19 search of public records returned no independent hit. US Census 1920/1930/1940 and naturalization records are the next avenues.
+
 ## Document Sources
 
 | Document | Type | Vault Note |

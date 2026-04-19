@@ -4,10 +4,10 @@ name: "Lena (Salk) Port"
 born: 1892-01-08
 died: unknown
 family: "Salk"
-confidence: moderate
+confidence: low
 sources:
   - "Rhode Island Marriages 1850-1922 index, 20 Dec 1917 Providence (Tier 2): MyHeritage-indexed primary record"
-  - "MyHeritage NYC Marriages index, summary view"
+  - "MyHeritage NYC Marriages index, summary view (Tier 2, derived from the same RI marriage record, not an independent source)"
 created: 2026-04-19
 tags: [genealogy, salk, port, person, lithuania, kovno, rhode-island, providence, immigrant]
 ---

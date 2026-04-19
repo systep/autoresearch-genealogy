@@ -39,6 +39,8 @@ Robert's Chicago residence, Kovno birthplace, and his unique middle name "Salem"
 
 The Chicago Salks (Robert Salem b. 1889 and Max b. 1892, both Kovno-born) may represent a sibling pair within a single family that emigrated together from Kovno. Their parents are not identified in current records. Hypothesis: they could be children of one of the Kovno Benjamin Salks (father of Julius Salk, see [[Benjamin_Salk]]) or of an unknown Salk sibling of Louis Elizar / Nussen Elia.
 
+Single source only; corroboration not yet found. Targeted 2026-04-19 search returned no independent hit. Cook County IL naturalization, marriage, and death records are the next avenues.
+
 ## Document Sources
 
 | Document | Type | Vault Note |

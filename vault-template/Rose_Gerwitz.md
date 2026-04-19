@@ -32,6 +32,8 @@ Rose Gerwitz was born circa 1894 in Kovno, Russia, daughter of a (Gerwitz) fathe
 
 Through her mother Hannah Salk, Rose connects to the broader Kovno-Gubernia Salk/Zalk family network documented in this vault.
 
+Single source only; corroboration not yet found. Targeted 2026-04-19 search surfaced a Geni profile for a Victor Henry Gerwitz (1867-1947) with daughter Caroline Rose Gerwitz (1904-1996), but the daughter predates the 1918 marriage and without confirming names and residence the Geni profile cannot be accepted as a second independent source for this Rose.
+
 ## Document Sources
 
 | Document | Type | Vault Note |

@@ -32,6 +32,8 @@ The witness Leo Friedberg at Rebecca's 1910 wedding is almost certainly Willy's 
 
 "Willy" is likely an Americanization or informal form of a Germanic/Yiddish given name such as Velvel (Wolf) or Wilhelm.
 
+Single source only; corroboration not yet found. Targeted 2026-04-19 search found no independent record; Libau Jewish vital records are the next avenue.
+
 ## Document Sources
 
 | Document | Type | Vault Note |

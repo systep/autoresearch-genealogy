@@ -30,6 +30,8 @@ Hannah Salk is known only from the MyHeritage index of the 6 July 1918 Manhattan
 
 Her husband's surname was evidently **Gerwitz** (the daughter's maiden surname); his given name is not recorded in the available index view.
 
+Single source only; corroboration not yet found. The full 1918 NYC marriage certificate image would supply the second independent source.
+
 ### Placement in the broader Salk family
 
 Given the Kovno origin of Rose's birth, Hannah is probably a member of the same extended Kovno-Zalk family network that includes [[Louis_Elizar_Salk]], [[Nussen_Elia_Salk]], [[Benjamin_Salk]], and their siblings/cousins of the mid-19th century. She is a candidate sibling of one of the known Kovno Salks, but no specific placement is supported by current evidence.

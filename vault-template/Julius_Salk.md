@@ -4,10 +4,10 @@ name: "Julius Salk"
 born: ~1871
 died: unknown
 family: "Salk"
-confidence: moderate
+confidence: low
 sources:
   - "New York State Marriage Certificate No. 30826, 24 Nov 1910 (Tier 1, primary source): see [[Julius_Salk_Rebecca_Marcus_NY_Marriage_1910]]"
-  - "MyHeritage New York City Marriages 1866-1949 index (Tier 2)"
+  - "MyHeritage New York City Marriages 1866-1949 index (Tier 2, derived from the same NY marriage record, not an independent source)"
 created: 2026-04-19
 tags: [genealogy, salk, person, lithuania, kovno, new-york, bronx, immigrant]
 ---
