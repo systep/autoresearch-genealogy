@@ -10,6 +10,7 @@ sources:
   - "Chabad.org"
   - "Geni.com"
   - "MyHeritage family tree"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, schneerson, chabad, lubavitch, person, rabbi, alter-rebbe]
 ---
@@ -61,6 +62,7 @@ The historical Zalmanson-Schneerson connection is confirmed at Strong Signal by 
 | Chabad.org official timeline | Religious organization | Chabad.org (Tier 2) |
 | Geni.com profiles | Family tree database | Geni.com (Tier 3) |
 | MyHeritage family tree | Family tree database | MyHeritage (Tier 3) |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Admor Shneur Zalman of Liadi Boruchovitch" b. Sept 15, 1745 Liozna; d. Dec 15, 1812 Piena, Kursk oblast. Consistent with existing vault data (Sept 4 vs Sept 15 represents Julian/Gregorian difference or secular-vs-Hebrew-calendar conversion) |
 
 ## Data Discrepancies
 

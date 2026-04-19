@@ -8,6 +8,7 @@ confidence: moderate
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (@I502059@)"
   - "Wikipedia: Bustanai (https://en.wikipedia.org/wiki/Bustanai)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, exilarch, person, davidic-descent]
 confidence: moderate
@@ -45,6 +46,7 @@ He is a pivotal figure in the claimed Davidic descent lineage: the chain passes 
 |---|---|---|
 | GEDCOM @I502059@ | family tree entry | MyHeritage export |
 | Wikipedia: Bustanai | encyclopedia | https://en.wikipedia.org/wiki/Bustanai |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "(Exilarch ancestor)" . Traditional Davidic-descent claim |
 
 ## Data Discrepancies
 

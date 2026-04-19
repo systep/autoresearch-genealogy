@@ -7,6 +7,7 @@ family: "Schneerson"
 confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-18
 tags: [genealogy, schneerson, chabad, lubavitch, person, rabbi, rayatz, frierdiker-rebbe]
 ---
@@ -34,3 +35,4 @@ His daughter [[Chaya_Mushka_Schneerson]] (March 16, 1901; died February 10, 1988
 | Document | Type | Vault Note |
 |---|---|---|
 | MyHeritage GEDCOM export | family tree database | Tier 3 |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Yosef Yitzchak Schneerson, [of Ovruch]" b. 1822 Lubawitch; d. 1876 Ovruch. Note: Geni here refers to son of Tzemach Tzedek; separate from 6th Rebbe of same name |

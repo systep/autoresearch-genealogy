@@ -11,6 +11,7 @@ sources:
   - "Chaim Freedman, 'The Maharal of Prague's Descent from King David' (blog, 2007)"
   - "Putik, 'Judah Loew ben Bezalel, Called Maharal: A Study on His Genealogy and Biography' (2009)"
   - "Otto Muneles, tombstone research (1950s)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, Loew, person, Maharal-line, pre-1500, contested]
 ---
@@ -62,6 +63,7 @@ Confidence: **Speculative**. While the tombstone physically exists in Prague, th
 | MyHeritage GEDCOM (I501141, I501139, I501137) | GEDCOM export | Multiple INDI records; see discrepancies |
 | Tombstone inscription, Old Jewish Cemetery, Prague | Primary source (Tier 1) | Physical monument |
 | Perels, Megillat Yuhasin (1745) | Secondary source (Tier 2) | Contains known errors per Putik (2009) |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "(generic appellation, see ancestor tree)" . Check for identity with Yehuda Leib Bezalels |
 
 ## Data Discrepancies
 

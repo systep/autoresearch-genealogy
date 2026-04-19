@@ -8,6 +8,7 @@ confidence: moderate
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500881)"
   - "FamilySearch Family Tree (record 40001:1017009696)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, segal, person, vitebsk, belarus, chabad]
 confidence: moderate
@@ -46,6 +47,7 @@ Yehuda Leib died in 1918 in Vitebsk, Belarus and was buried in Safed, Israel (GE
 |---|---|---|
 | GEDCOM (MyHeritage, entry I500881) | family tree database | |
 | FamilySearch Family Tree (record 40001:1017009696) | compiled index | |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "(ancestor in Segal line)" . Consistent with existing Segal line data |
 
 ## Data Discrepancies
 

@@ -9,6 +9,7 @@ sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (@I502276@)"
   - "Wikipedia: Solomon (https://en.wikipedia.org/wiki/Solomon)"
   - "Hebrew Bible (1 Kings, 2 Chronicles)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, house-of-david, person, biblical, davidic-descent]
 ---
@@ -44,6 +45,7 @@ The GEDCOM records him as "Solomon; Jedidiah / 2nd King House Of David" with FAM
 | GEDCOM @I502276@ | family tree entry | MyHeritage export |
 | Hebrew Bible | primary religious text | 1 Kings, 2 Chronicles |
 | Wikipedia article on Solomon | encyclopedia | https://en.wikipedia.org/wiki/Solomon |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "(biblical ancestor)" . Traditional claim via Davidic line |
 
 ## Data Discrepancies
 

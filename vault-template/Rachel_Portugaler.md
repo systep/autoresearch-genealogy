@@ -8,6 +8,7 @@ confidence: moderate
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500973)"
   - "Geni World Family Tree (record 40000:4629293)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, portugaler, loew, person, poznan, poland, sephardic, chabad]
 confidence: moderate
@@ -47,6 +48,7 @@ Rachel and her husband moved from Poznan to Vitebsk, where she died in 1735 whil
 | GEDCOM (MyHeritage, entry I500973) | family tree database | |
 | Geni World Family Tree (record 40000:4629293) | user-contributed tree | |
 | Chabadpedia (referenced in GEDCOM notes) | religious encyclopedia | |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Rachel Loew, [pat.Gd.mother Alter rebbe]" b. 1693 Poznan; d. 1735. Consistent with existing vault data |
 
 ## Data Discrepancies
 

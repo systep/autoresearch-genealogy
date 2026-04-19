@@ -10,6 +10,7 @@ sources:
   - "Geni.com"
   - "MyHeritage family tree (GEDCOM)"
   - "FamilySearch family tree"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, loew, maharal, chabad, person, rabbi]
 ---
@@ -51,6 +52,7 @@ The Maharal's lineage connects to the Chabad-Lubavitch dynasty through his son [
 | GEDCOM (MyHeritage export) | family tree | Assets/f266i6_859862b56ye2qz66897fd8_A.ged |
 | Geni.com profile | online tree | Tier 3 |
 | Wikipedia article | encyclopedia | Tier 2 |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "MaHaRaL of Prague" b. c. 1525 Poznań; d. Sept 17, 1609 Prague. Consistent with existing vault data. Geni places him as 8th-generation ancestor of Alter Rebbe via Bezalel Charif Loew |
 
 ## Data Discrepancies
 

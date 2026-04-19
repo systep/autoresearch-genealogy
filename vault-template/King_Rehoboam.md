@@ -8,6 +8,7 @@ confidence: moderate
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (@I502275@)"
   - "Hebrew Bible (1 Kings 12-14, 2 Chronicles 10-12)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, house-of-david, person, biblical, davidic-descent]
 ---
@@ -42,6 +43,7 @@ The GEDCOM records him as "Rehoboam / 1st King of Judah; 3rd King House Of David
 |---|---|---|
 | GEDCOM @I502275@ | family tree entry | MyHeritage export |
 | Hebrew Bible | primary religious text | 1 Kings 12-14, 2 Chronicles 10-12 |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "(biblical ancestor)" . Traditional claim via Davidic line |
 
 ## Data Discrepancies
 

@@ -9,6 +9,7 @@ sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (@I502277@)"
   - "Wikipedia: David (https://en.wikipedia.org/wiki/David)"
   - "Hebrew Bible (1 Samuel, 2 Samuel, 1 Kings, 1 Chronicles)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, house-of-david, person, biblical, davidic-descent]
 ---
@@ -44,6 +45,7 @@ The GEDCOM records him as "David, king of ancient Israel and Judah and the third
 | GEDCOM @I502277@ | family tree entry | MyHeritage export |
 | Hebrew Bible | primary religious text | 1 Samuel, 2 Samuel, 1 Kings |
 | Wikipedia article on David | encyclopedia | https://en.wikipedia.org/wiki/David |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "(biblical ancestor)" . Appears via traditional rabbinic descent claim through Exilarch Bustanai |
 
 ## Data Discrepancies
 

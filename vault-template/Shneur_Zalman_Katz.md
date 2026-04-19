@@ -8,6 +8,7 @@ confidence: moderate
 sources:
   - "Filae Family Trees (record 14100:2436013835, via Sara Katz entry)"
   - "User-provided data"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, katz, person, stub, unverified]
 ---
@@ -38,6 +39,7 @@ Minimal data available. Shneur Zalman KATZ was born circa 1600. He is listed as 
 |---|---|---|
 | Filae Family Trees (indirect, via Sara Katz record 14100:2436013835) | compiled genealogy | |
 | User-provided family data | tertiary | |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Shneur Zalman Katz" b. 1582 Prague; d. Sept 11, 1649 Lublin. Consistent with existing vault data |
 
 ## Data Discrepancies
 

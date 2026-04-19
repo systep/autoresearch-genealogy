@@ -8,6 +8,7 @@ confidence: moderate
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500765)"
   - "MyHeritage Smart Matches (profiles 1500037, 1500355)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, loew, hirtz, person, chabad, liozna, belarus]
 confidence: moderate
@@ -42,6 +43,7 @@ She was the mother of the Alter Rebbe, [[Shneur_Zalman_of_Liadi]], founder of th
 | GEDCOM (MyHeritage, entry I500765) | family tree database | |
 | MyHeritage Smart Match (profile 1500037) | user-contributed tree | |
 | MyHeritage Smart Match (profile 1500355) | user-contributed tree | |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "Rbzn. Rivka Loew, [mother, Alter Rebbe]" b. c. 1721. Consistent with existing vault data |
 
 ## Data Discrepancies
 

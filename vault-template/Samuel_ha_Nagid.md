@@ -8,6 +8,7 @@ confidence: moderate
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (@I501265@)"
   - "Wikipedia: Samuel ibn Naghrela (https://en.wikipedia.org/wiki/Samuel_ibn_Naghrela)"
+  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
 created: 2026-04-10
 tags: [genealogy, ha-nagid, person, davidic-descent, sephardic]
 confidence: moderate
@@ -48,6 +49,7 @@ The GEDCOM records extensive name variants in Hebrew and Arabic. His son Yosef (
 |---|---|---|
 | GEDCOM @I501265@ | family tree entry | MyHeritage export |
 | Wikipedia: Samuel ibn Naghrela | encyclopedia | https://en.wikipedia.org/wiki/Samuel_ibn_Naghrela |
+| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]; Geni entry: "(medieval ancestor)" . Referenced via medieval Spanish-Jewish ancestry branch |
 
 ## Data Discrepancies
 
