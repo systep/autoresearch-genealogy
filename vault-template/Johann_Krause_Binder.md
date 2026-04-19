@@ -10,6 +10,7 @@ sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10
 tags: [genealogy, Binder, Krause, person, Transylvanian-Saxon]
+confidence: moderate
 ---
 
 # Johann Krause Binder

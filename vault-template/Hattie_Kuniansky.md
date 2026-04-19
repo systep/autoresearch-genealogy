@@ -4,7 +4,7 @@ name: "Hattie Kuniansky"
 born: 1925-03-25
 died: 2017-05-21
 family: "Kuniansky"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Elizabeth R. (Lizzie)(Leah) Salk"
 born: 1876-04-18
 died: 1963-12-23
 family: "Salk"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

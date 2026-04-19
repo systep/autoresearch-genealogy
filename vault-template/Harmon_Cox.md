@@ -4,8 +4,9 @@ name: "Harmon Cox"
 born: 1723-02-18
 died: ~1812-02
 family: "Cox"
-confidence: speculative
+confidence: moderate
 sources:
+  - "WikiTree profile Cox-1959; Find a Grave memorial #115076588"
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18
 tags: [genealogy, cox, person, north-carolina]

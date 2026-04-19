@@ -4,7 +4,7 @@ name: "Robert King II"
 born: ~1750
 died: 1826-12-13
 family: "King"
-confidence: strong
+confidence: high
 sources:
   - "Find a Grave Memorial #48870135, King Family Cemetery, Belton, Anderson Co, SC (Tier 2)"
   - "WikiTree King-12061 (Tier 3)"

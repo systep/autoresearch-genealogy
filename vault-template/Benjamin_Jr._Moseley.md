@@ -4,7 +4,7 @@ name: "Benjamin Jr. Moseley"
 born: ~1751
 died: unknown
 family: "Moseley"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

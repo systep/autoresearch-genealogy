@@ -4,7 +4,7 @@ name: "Mary Bright"
 born: ~1769
 died: 1837
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

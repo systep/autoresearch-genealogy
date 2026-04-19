@@ -4,7 +4,7 @@ name: "Deborah M. Salmanson"
 born: 1945-10-19
 died: 2002-03-21
 family: "Salmanson"
-confidence: moderate
+confidence: high
 sources:
   - "1950 US Census, Providence, RI (Tier 1)"
   - "US Social Security records (Tier 1)"

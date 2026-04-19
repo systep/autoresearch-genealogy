@@ -4,7 +4,7 @@ name: "Menucha Rachel Shneuri"
 born: 1798-11-27
 died: 1888-02-06
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

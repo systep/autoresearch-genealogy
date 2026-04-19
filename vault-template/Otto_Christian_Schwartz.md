@@ -4,7 +4,7 @@ name: "Otto Christian Schwartz"
 born: 1878-09-30
 died: 1957-06-27
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

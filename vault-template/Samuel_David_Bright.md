@@ -4,7 +4,7 @@ name: "Samuel David Bright"
 born: 1929-11-03
 died: 2006-09-19
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Mojzesz Majer Markiel"
 born: ~1895-1900
 died:
 family: "Markel"
-confidence: strong
+confidence: low
 sources:
   - "AGAD Warsaw, Fond 424, File 212, Record 65, Page 315 (Sambor Jewish Marriage Banns 1904-1926, Tier 1; marriage to Dwora Goldbaum/Brand 1919)"
 created: 2026-04-17

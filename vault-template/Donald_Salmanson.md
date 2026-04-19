@@ -4,7 +4,7 @@ name: "Donald Salmanson"
 born: 1924-05-12
 died: 2015-09-07
 family: "Salmanson"
-confidence: strong
+confidence: high
 sources:
   - "Providence Journal obituary (2015)"
   - "Jewish Rhode Island obituary"

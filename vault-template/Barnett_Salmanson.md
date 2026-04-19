@@ -4,7 +4,7 @@ name: "Barnett (Berko) Salmanson"
 born: 1883-05-15
 died: 1960-12-14
 family: "Salmanson"
-confidence: strong
+confidence: high
 sources:
   - "WWI Draft Registration Card, Sept 12, 1918, Providence RI, Division 3 (Tier 1)"
   - "BillionGraves headstone, Lincoln Park Cemetery (Tier 1)"

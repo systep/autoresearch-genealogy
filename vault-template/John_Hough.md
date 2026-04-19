@@ -4,7 +4,7 @@ name: "John Hough"
 born: 1682-07-16
 died: 1744-11-17
 family: "Hough"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage)"
   - "Filae Family Trees (record 14100:28749494)"

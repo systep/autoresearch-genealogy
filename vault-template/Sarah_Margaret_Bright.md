@@ -4,7 +4,7 @@ name: "Sarah Margaret Bright"
 born: 1858-01-11
 died: 1936-03-14
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

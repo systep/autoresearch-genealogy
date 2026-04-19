@@ -4,7 +4,7 @@ name: "Muriel Kleinberg"
 born: 1917-08-09
 died: 2012-07-20
 family: "Kleinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

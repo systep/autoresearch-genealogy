@@ -4,7 +4,7 @@ name: "Cicely Barrett"
 born: ~1512
 died: ~1559
 family: "Barrett"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Barrett-194 (Tier 3)"
   - "Geni.com profile Cicely Culpeper Baroness of Alvethy (Tier 3)"

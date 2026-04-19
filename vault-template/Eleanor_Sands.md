@@ -4,7 +4,7 @@ name: "Eleanor Sands"
 born: 1692-10-05
 died: 1744
 family: "Sands"
-confidence: low
+confidence: high
 sources:
   - "MyHeritage GEDCOM (Tier 3, unverified)"
   - "Geni World Family Tree (record 40000:30905885)"

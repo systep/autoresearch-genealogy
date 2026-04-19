@@ -4,7 +4,7 @@ name: "Gita Zalmanson"
 born: 1820
 died: 
 family: "Zalmanson"
-confidence: low
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500321)"
   - "Geni World Family Tree (record 40000:622441536)"

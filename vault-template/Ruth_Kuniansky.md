@@ -4,7 +4,7 @@ name: "Ruth Kuniansky"
 born: 1923-01-18
 died: 2016-12-04
 family: "Kuniansky"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

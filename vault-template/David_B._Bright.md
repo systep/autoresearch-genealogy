@@ -4,7 +4,7 @@ name: "David B. Bright"
 born: 1810-03-07
 died: 1888-07-01
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

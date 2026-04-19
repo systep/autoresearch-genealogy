@@ -10,6 +10,7 @@ sources:
   - "cowgillcousins.org Bryan Cowgill family tree page, confirms burial 7 Aug 1599 and will dated 13 Jul 1599 probated 21 Oct 1599 (Tier 2, published genealogy)"
 created: 2026-04-12
 tags: [genealogy, cowgill, person, yorkshire, england, thornton-in-craven]
+confidence: moderate
 ---
 
 # Bryan Cowgill

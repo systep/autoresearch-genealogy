@@ -4,7 +4,7 @@ name: "Jacob Bright"
 born: 1774-07-31
 died: 1812-12-14
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

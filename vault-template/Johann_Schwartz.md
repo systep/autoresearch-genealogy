@@ -4,7 +4,7 @@ name: "Johann Schwartz"
 born: 1821-05-17
 died: 1907-02-14
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

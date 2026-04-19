@@ -4,7 +4,7 @@ name: "Shneer Zalman Sheinberg"
 born: 1887-06-17
 died: ~1946
 family: "Sheinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

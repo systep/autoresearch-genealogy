@@ -4,7 +4,7 @@ name: "Johann Michael Brecht"
 born: 1706-05-28
 died: 1794-09-13
 family: "Brecht"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage)"
   - "Geni World Family Tree (record 40000:93268844)"

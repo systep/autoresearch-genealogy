@@ -4,7 +4,7 @@ name: "Dr. Martin Culpepper"
 born: 1540-03-02
 died: 1605-10-10
 family: "Culpepper"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM import (MyHeritage, Tier 3)"
   - "WikiTree Culpeper-9 (Tier 3)"

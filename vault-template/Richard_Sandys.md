@@ -4,7 +4,7 @@ name: "Richard Sandys"
 born: 
 died: 
 family: "Sandys"
-confidence: stub
+confidence: moderate
 sources:
   - "User-provided data"
   - "MyHeritage (English flag noted)"

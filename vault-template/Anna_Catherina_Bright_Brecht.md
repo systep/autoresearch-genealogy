@@ -4,7 +4,7 @@ name: "Anna Catherina Bright Brecht"
 born: 1734-04-06
 died: 1795
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

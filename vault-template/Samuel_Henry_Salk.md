@@ -4,7 +4,7 @@ name: "Samuel Henry Salk"
 born: 1899-10-16
 died: 1971-01-08
 family: "Salk"
-confidence: speculative
+confidence: moderate
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
   - "Harold Salk obituary, 2024 (Tier 2)"

@@ -10,6 +10,7 @@ sources:
   - "Charles River Parish records, York County, VA (Tier 1)"
 created: 2026-04-12
 tags: [genealogy, holloway, person, virginia, colonial, york-county]
+confidence: moderate
 ---
 
 # James Holloway

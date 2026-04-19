@@ -4,7 +4,7 @@ name: "Peter Bright"
 born: 1774-01-26
 died: 1797
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

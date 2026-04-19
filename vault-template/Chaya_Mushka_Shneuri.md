@@ -4,7 +4,7 @@ name: "Chaya Mushka Shneuri"
 born: ~1789
 died: 1861-12-21
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

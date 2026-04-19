@@ -4,7 +4,7 @@ name: "William Moseley"
 born: 1605
 died: 1655
 family: "Moseley"
-confidence: strong
+confidence: high
 sources:
   - "WikiTree Moseley-506 (Tier 3)"
   - "Wikipedia: William Moseley (via Colonial Virginia Portraits) (Tier 2)"

@@ -4,7 +4,7 @@ name: "Margaret de Clare"
 born: 1292
 died: 1342
 family: "de Clare"
-confidence: moderate
+confidence: high
 sources:
   - "Pedigree Charts (1-46.pdf)"
   - "Wikipedia: Margaret de Clare, Baroness Badlesmere"

@@ -4,7 +4,7 @@ name: "Matthew Bolivar Drake"
 born: 1814-02-28
 died: 1871-12-02
 family: "Drake"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

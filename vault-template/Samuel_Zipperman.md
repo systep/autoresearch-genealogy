@@ -4,8 +4,9 @@ name: "Samuel Zipperman"
 born: 1888-03-18
 died: 1977-03-21
 family: "Zipperman"
-confidence: speculative
+confidence: moderate
 sources:
+  - "FamilySearch person G49M-W8H"
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18
 tags: [genealogy, zipperman, person, georgia, atlanta, immigrant]

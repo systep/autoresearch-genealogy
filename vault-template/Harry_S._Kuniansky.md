@@ -4,7 +4,7 @@ name: "Harry S. Kuniansky"
 born: unknown
 died: 2022-02-17
 family: "Kuniansky"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Viola E. Youngblood"
 born: 1857-01-23
 died: 1924-04-14
 family: "Youngblood"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

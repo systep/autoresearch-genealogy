@@ -4,7 +4,7 @@ name: "Martha 'Patty' Holloway"
 born: ~1755
 died: ~1811
 family: "Holloway"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Holloway-58 (Tier 3)"
   - "WikiTree Moseley-3817 (Abigail Moseley Holloway, daughter, Tier 3)"

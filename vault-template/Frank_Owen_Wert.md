@@ -4,7 +4,7 @@ name: "Frank Owen Wert"
 born: 1859-08
 died: 1910
 family: "Wert"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

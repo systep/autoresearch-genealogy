@@ -4,7 +4,7 @@ name: "Friedrich Schwartz"
 born: 1826-05-16
 died: unknown
 family: "Friedrich"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

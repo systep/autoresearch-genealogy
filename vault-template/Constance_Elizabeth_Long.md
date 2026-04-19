@@ -4,7 +4,7 @@ name: "Constance Elizabeth Long"
 born: 1887-03-01
 died: 1957-08-12
 family: "Long"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

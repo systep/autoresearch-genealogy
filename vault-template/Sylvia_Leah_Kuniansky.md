@@ -4,7 +4,7 @@ name: "Sylvia Leah Kuniansky"
 born: 1917-12-01
 died: 2000-09-27
 family: "Kuniansky"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

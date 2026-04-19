@@ -4,7 +4,7 @@ name: "John Wallace Drake"
 born: 1851-05-26
 died: 1916-02-27
 family: "Drake"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

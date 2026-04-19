@@ -4,7 +4,7 @@ name: "Jacob Cox"
 born: 1765-10-30
 died: 1838-10-10
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

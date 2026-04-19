@@ -4,7 +4,7 @@ name: "Michael Kascher"
 born: 1889-02-11
 died: 1975-06-07
 family: "Kascher"
-confidence: strong
+confidence: high
 sources:
   - "MyHeritage family tree"
   - "Ohio Birth Index (son Henry's record, state file #1914109692)"

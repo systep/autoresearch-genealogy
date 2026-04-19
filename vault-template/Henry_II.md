@@ -4,7 +4,7 @@ name: "Henry II"
 born: 1133-03-05
 died: 1189-07-06
 family: "Plantagenet"
-confidence: moderate
+confidence: high
 sources:
   - "Pedigree Charts (1-46.pdf)"
   - "Wikipedia: Henry II of England"

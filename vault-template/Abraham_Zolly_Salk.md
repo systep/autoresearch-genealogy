@@ -4,7 +4,7 @@ name: "Abraham (Charles) Zolly Salk"
 born: ~1860
 died: 1925-02-22
 family: "Salk"
-confidence: strong
+confidence: high
 sources:
   - "Providence Death Certificate No. 584/226, Feb 22, 1925 (Tier 1, primary source)"
   - "MyHeritage family tree (Tier 3, unverified)"

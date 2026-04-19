@@ -4,7 +4,7 @@ name: "Thomas R Wert"
 born: 1896-11-11
 died: 1982-02-16
 family: "Wert"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

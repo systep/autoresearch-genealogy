@@ -4,7 +4,7 @@ name: "Albert Graham Bright Jr"
 born: ~1927
 died: 1989-02
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "William Manning Long"
 born: 1888-08-20
 died: 1889
 family: "Long"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

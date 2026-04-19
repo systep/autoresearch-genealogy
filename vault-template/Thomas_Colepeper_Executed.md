@@ -4,7 +4,7 @@ name: "Sir Thomas Colepeper of Bayhall"
 born: ~1271
 died: 1321
 family: "Culpeper"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Colepeper-7 (Tier 3)"
   - "Geni.com profile 6000000008744718763 (Tier 3)"

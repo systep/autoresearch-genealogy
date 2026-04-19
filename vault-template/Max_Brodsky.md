@@ -4,7 +4,7 @@ name: "Max Brodsky"
 born: 1902-02-17
 died: 1975-04-09
 family: "Brodsky"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

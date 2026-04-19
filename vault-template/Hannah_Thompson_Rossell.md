@@ -4,7 +4,7 @@ name: "Hannah Thompson Rossell"
 born: 
 died: 
 family: "Rossell"
-confidence: stub
+confidence: low
 sources:
   - "User-provided data"
 created: 2026-04-10

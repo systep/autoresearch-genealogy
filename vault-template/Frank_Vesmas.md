@@ -4,7 +4,7 @@ name: "Frank Vesmas"
 born: ~1908
 died: unknown
 family: "Vesmas"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

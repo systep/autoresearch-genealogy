@@ -4,7 +4,7 @@ name: "Stephania Benning"
 born: 1829-01-27
 died: 1876-05-22
 family: "Benning"
-confidence: strong
+confidence: high
 sources:
   - "Waldhutten church certificate 'VATER' (Tier 1, 10 Feb 1938, Pastor A. Bogeschdorfer)"
   - "MyHeritage GEDCOM (Tier 3)"

@@ -4,7 +4,7 @@ name: "Johann Christof Friedrich"
 born: 1827-02-26
 died: unknown
 family: "Friedrich"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

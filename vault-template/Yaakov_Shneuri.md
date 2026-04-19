@@ -4,7 +4,7 @@ name: "Yaakov Shneuri"
 born: ""
 died: ""
 family: "Shneuri"
-confidence: stub
+confidence: high
 sources:
   - "MyHeritage GEDCOM (Salmanson Family Tree), 27 Jul 2024"
   - "Geni.com (via GEDCOM record match)"

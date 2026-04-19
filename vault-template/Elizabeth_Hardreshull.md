@@ -4,7 +4,7 @@ name: "Elizabeth Hardreshull"
 born: ~1312
 died: ~1386
 family: "Hardreshull"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Hardreshall-1 (Tier 3)"
   - "Geni.com profile Sir John de Hardreshull (Tier 3)"

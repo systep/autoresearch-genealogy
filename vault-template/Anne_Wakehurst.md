@@ -4,7 +4,7 @@ name: "Anne Wakehurst"
 born: ~1420
 died: ~1470
 family: "Wakehurst"
-confidence: moderate
+confidence: high
 sources:
   - "Geni.com profile Sir John Culpepper (Tier 3)"
   - "Syngeneia.org John Gainsford III (Tier 3)"

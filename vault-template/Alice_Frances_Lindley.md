@@ -10,6 +10,7 @@ sources:
   - "WikiTree Lindley-409 (Tier 3)"
 created: 2026-04-13
 tags: [genealogy, lindley, person, chatham-county, north-carolina, quaker, chester-county, pennsylvania]
+confidence: moderate
 ---
 
 # Alice Frances Lindley

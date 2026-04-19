@@ -10,6 +10,7 @@ sources:
   - "WikiTree Cox-18821 (father Thomas B. Cox)"
 created: 2026-04-10
 tags: [genealogy, cox, person, south-carolina]
+confidence: moderate
 ---
 
 # Thomas Manning Cox

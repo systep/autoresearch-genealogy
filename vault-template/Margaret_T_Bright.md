@@ -4,7 +4,7 @@ name: "Margaret T Bright"
 born: 1820-06-22
 died: 1892-10-14
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Sir John Colepeper of Hardreshull"
 born: ~1305
 died: 1376
 family: "Culpeper"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Colepeper-5 (Tier 3)"
   - "Geni.com profile 6000000003210303937 (Tier 3)"

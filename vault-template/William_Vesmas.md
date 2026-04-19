@@ -4,7 +4,7 @@ name: "William Vesmas"
 born: 1913-11-16
 died: 1981-10-31
 family: "Vesmas"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

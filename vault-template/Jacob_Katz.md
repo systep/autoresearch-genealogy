@@ -4,7 +4,7 @@ name: "Jacob Katz"
 born: 1860-05-15
 died: 1917-05-01
 family: "Katz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

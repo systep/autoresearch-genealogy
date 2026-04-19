@@ -4,7 +4,7 @@ name: "Henry III"
 born: 1207-10-01
 died: 1272-11-16
 family: "Plantagenet"
-confidence: moderate
+confidence: high
 sources:
   - "Pedigree Charts (1-46.pdf)"
   - "Wikipedia: Henry III of England"

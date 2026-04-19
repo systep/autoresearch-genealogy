@@ -4,7 +4,7 @@ name: "Mary D. Bright"
 born: 1814
 died: unknown
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Argaleus Hercules Henderson I"
 born: ~1720
 died: ~1806
 family: "Henderson"
-confidence: strong
+confidence: high
 sources:
   - "WikiTree Henderson-7309"
   - "Find a Grave #11725276"

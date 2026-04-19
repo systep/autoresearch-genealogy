@@ -4,7 +4,7 @@ name: "Johann Ranft"
 born: unknown
 died: unknown
 family: "Ranft"
-confidence: stub
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10

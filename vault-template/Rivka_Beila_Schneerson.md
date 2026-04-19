@@ -4,7 +4,7 @@ name: "Rivka Beila Schneerson"
 born: 1797
 died: unknown
 family: "Schneerson"
-confidence: strong
+confidence: high
 sources:
   - "Geni.com"
   - "Chabad.org"

@@ -4,7 +4,7 @@ name: "Lilly Minnie Bertha Schwartz"
 born: 1896-02-19
 died: 1915-07-20
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Dvorah Leah Schneerson"
 born: ~1818
 died: 1876-04-25
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "John Clarke"
 born: 1558
 died: 1579
 family: "Clarke"
-confidence: stub
+confidence: moderate
 sources:
   - "GEDCOM import (MyHeritage, Tier 3)"
   - "FamilySearch Family Tree (Tier 3)"

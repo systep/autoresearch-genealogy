@@ -4,7 +4,7 @@ name: "Thamer Moseley"
 born: 1770
 died: 1837
 family: "Moseley"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

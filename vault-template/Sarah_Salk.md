@@ -4,7 +4,7 @@ name: "Sarah Salk"
 born: ~1869
 died: 1924-09-21
 family: "Salk"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

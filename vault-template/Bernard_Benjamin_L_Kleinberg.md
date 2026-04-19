@@ -4,7 +4,7 @@ name: "Bernard Benjamin L Kleinberg"
 born: 1832-05-30
 died: 1927-02-28
 family: "Kleinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

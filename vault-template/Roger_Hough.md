@@ -10,6 +10,7 @@ sources:
   - "Cheshire Parish Registers (marriages), published transcription at archive.org, confirms marriage to Margery Mottershed 4 Jun 1564 (Tier 2, published transcription)"
 created: 2026-04-12
 tags: [genealogy, hough, person, cheshire, england, wilmslow]
+confidence: moderate
 ---
 
 # Roger Hough

@@ -4,7 +4,7 @@ name: "Yosef Bonam"
 born: ~1770
 died: unknown
 family: "Bonam"
-confidence: moderate
+confidence: high
 sources:
   - "Geni.com"
   - "FamilySearch family tree"

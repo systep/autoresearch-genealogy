@@ -4,7 +4,7 @@ name: "Agnes Long"
 born: unknown
 died: ~1891-07-08
 family: "Long"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Clara Elizabeth Wert"
 born: 1842-08-16
 died: 1917-05-23
 family: "Wert"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

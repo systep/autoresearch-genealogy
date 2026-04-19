@@ -4,7 +4,7 @@ name: "Kyle Bright Walker"
 born: 1894-09-08
 died: 1950-08-31
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

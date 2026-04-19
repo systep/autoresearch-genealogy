@@ -4,7 +4,7 @@ name: "Helen rosemary Kascher"
 born: 1917-09-02
 died: 1994-12-24
 family: "Kascher"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

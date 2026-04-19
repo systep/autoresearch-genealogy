@@ -4,7 +4,7 @@ name: "Chaim ben Bezalel Loew-Beer"
 born: 1450
 died: 1522
 family: "Loew-Beer"
-confidence: moderate
+confidence: high
 sources:
   - "MyHeritage GEDCOM (Salmanson Family Tree), Smart Match, 2 Aug 2024"
   - "Geni.com profile: Rabbi Chaim ben Bezalel Loew-Beer"

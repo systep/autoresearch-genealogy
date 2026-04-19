@@ -4,7 +4,7 @@ name: "John Mathews"
 born: 1659
 died: 1706
 family: "Mathews"
-confidence: strong
+confidence: high
 sources:
   - "Virginia land patent, 1678 (Tier 1, court/legal record)"
   - "Virginia court records, 1702 (Tier 1)"

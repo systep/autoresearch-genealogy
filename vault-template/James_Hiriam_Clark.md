@@ -4,7 +4,7 @@ name: "James Hiriam Clark"
 born: ~1770
 died: ~1835
 family: "Clark"
-confidence: moderate
+confidence: high
 sources:
   - "User-provided data"
   - "Research data (Virginia birth, South Carolina residence)"

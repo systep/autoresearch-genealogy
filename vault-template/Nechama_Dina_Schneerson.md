@@ -4,7 +4,7 @@ name: "Nechama Dina Schneerson"
 born: 1881-10-24
 died: 1971-01-07
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

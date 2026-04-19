@@ -4,7 +4,7 @@ name: "Rabbi Yitzchak haKohen Katz"
 born: 1550
 died: 1624-05-30
 family: "Katz"
-confidence: strong
+confidence: high
 sources:
   - "MyHeritage GEDCOM (Salmanson Family Tree), Smart Match, 2 Aug 2024"
   - "Geni.com profile: Rabbi Yitzhak haKohen Katz, [Maharal s.in law] (1550 - 1624)"

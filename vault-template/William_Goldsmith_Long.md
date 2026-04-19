@@ -10,6 +10,7 @@ sources:
   - "MyHeritage family tree"
 created: 2026-04-10
 tags: [genealogy, long, person, south-carolina]
+confidence: moderate
 ---
 
 # William Goldsmith Long

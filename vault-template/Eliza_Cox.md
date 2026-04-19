@@ -9,6 +9,7 @@ sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10
 tags: [genealogy, Cox, person]
+confidence: low
 ---
 
 # Eliza Cox

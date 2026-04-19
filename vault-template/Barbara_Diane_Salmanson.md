@@ -4,7 +4,7 @@ name: "Barbara Diane Salmanson"
 born: 1947-12-15
 died: 
 family: "Salmanson"
-confidence: speculative
+confidence: moderate
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
   - "Find a Grave #231959788 (Thelma Markel memorial)"

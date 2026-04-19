@@ -4,7 +4,7 @@ name: "Nannie Leigh Wert"
 born: 1854-02-26
 died: 1883-11-26
 family: "Wert"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

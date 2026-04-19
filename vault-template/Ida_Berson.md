@@ -4,7 +4,7 @@ name: "Ida Berson"
 born: ~1879
 died: 1982-06-22
 family: "Berson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Mary Jane Bernard"
 born: 1829-08-13
 died: 1900-09-15
 family: "Bernard"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500375)"
   - "FamilySearch Family Tree (record 40001:662814841)"

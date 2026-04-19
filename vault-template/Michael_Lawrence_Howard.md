@@ -4,7 +4,7 @@ name: "Michael Lawrence Howard"
 born: 1891-11-15
 died: 1972-06-20
 family: "Howard"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

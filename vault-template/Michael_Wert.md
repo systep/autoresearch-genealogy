@@ -4,7 +4,7 @@ name: "Michael Wert"
 born: 1815-05-10
 died: 1893-07-05
 family: "Wert"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

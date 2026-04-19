@@ -4,7 +4,7 @@ name: "Charstee A. Cooley King"
 born: 1842-06-30
 died: 1921-03-15
 family: "King"
-confidence: strong
+confidence: high
 sources:
   - "Find a Grave Memorial #8422324, Fork Shoals Baptist Church Cemetery (Tier 2)"
   - "1880 U.S. Federal Census, Oaklawn Twp, Greenville Co, SC (Tier 1)"

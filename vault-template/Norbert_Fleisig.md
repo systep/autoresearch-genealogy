@@ -4,7 +4,7 @@ name: "Norbert Fleisig"
 born: 1875-10-07
 died: 1924-08-25
 family: "Fleisig"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

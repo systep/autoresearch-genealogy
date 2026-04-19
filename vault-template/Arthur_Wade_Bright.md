@@ -4,7 +4,7 @@ name: "Arthur Wade Bright"
 born: 1899-01-05
 died: 1981-03-24
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

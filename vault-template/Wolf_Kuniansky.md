@@ -4,7 +4,7 @@ name: "Wolf Kuniansky"
 born: 1884-12-15
 died: 1964-09-22
 family: "Kuniansky"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

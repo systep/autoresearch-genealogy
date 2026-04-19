@@ -4,7 +4,7 @@ name: "Robert Wallace Howard"
 born: 1920-12-13
 died: 2010-11-19
 family: "Howard"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

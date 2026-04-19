@@ -4,7 +4,7 @@ name: "Zerubbabel, 3rd Exilarch"
 born: "c. 566 BCE"
 died: "c. 510 BCE"
 family: "House of David (Exilarchs)"
-confidence: speculative
+confidence: moderate
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (@I502095@)"
   - "Hebrew Bible (Ezra, Haggai, Zechariah, 1 Chronicles 3:19)"

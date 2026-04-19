@@ -4,7 +4,7 @@ name: "Harriet Cordelia Hassletine Drake"
 born: 1855-07-07
 died: 1881-07-25
 family: "Drake"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

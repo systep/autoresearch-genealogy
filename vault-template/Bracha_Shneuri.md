@@ -4,7 +4,7 @@ name: "Bracha Shneuri"
 born: ~1808
 died: unknown
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

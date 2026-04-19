@@ -4,7 +4,7 @@ name: "Thomas Stackhouse"
 born: 1601-05-01
 died: 1686-10-10
 family: "Stackhouse"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM import (MyHeritage, Tier 3)"
   - "WikiTree Stackhouse-58 (Tier 3)"

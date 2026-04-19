@@ -4,7 +4,7 @@ name: "John Cox"
 born: 1675-09-24
 died: 1711
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

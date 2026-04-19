@@ -4,7 +4,7 @@ name: "Albert Leander Drake"
 born: 1897-04-20
 died: 1972-06
 family: "Drake"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

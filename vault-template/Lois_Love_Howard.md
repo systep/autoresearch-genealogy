@@ -4,7 +4,7 @@ name: "Lois Love Howard"
 born: 1923-02-06
 died: 2017-10-02
 family: "Howard"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

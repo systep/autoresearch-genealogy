@@ -4,7 +4,7 @@ name: "Augusta Anna Bertha Schwartz"
 born: 1879-08-20
 died: 1903-02-01
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

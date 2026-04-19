@@ -4,7 +4,7 @@ name: "Diana Cox"
 born: ~1780
 died: 1865-01-07
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Mollie Mistofsky"
 born: 1900-12-25
 died: 1974-12-15
 family: "Mistofsky"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

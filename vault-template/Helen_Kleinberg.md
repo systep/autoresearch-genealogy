@@ -4,7 +4,7 @@ name: "Helen Kleinberg"
 born: 1893-02-21
 died: 1978-08-01
 family: "Kleinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

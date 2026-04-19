@@ -9,6 +9,7 @@ sources:
   - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
 created: 2026-04-10
 tags: [genealogy, markel, tachner, goodman, person, galicia, jewish, new-york, tier-2]
+confidence: low
 ---
 
 # Sarah Markel Tachner

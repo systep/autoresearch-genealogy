@@ -4,7 +4,7 @@ name: "Sara Katz"
 born: 1665
 died: 1736
 family: "Katz"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500977)"
   - "MyHeritage Smart Match"

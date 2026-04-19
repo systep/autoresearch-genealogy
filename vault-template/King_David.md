@@ -4,7 +4,7 @@ name: "David, King of Israel and Judah"
 born: "c. 1040 BCE (traditional)"
 died: "c. 970 BCE (traditional)"
 family: "House of David"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (@I502277@)"
   - "Wikipedia: David (https://en.wikipedia.org/wiki/David)"

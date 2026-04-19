@@ -4,7 +4,7 @@ name: "Schwartz"
 born: 1872-03-22
 died: 1872-03-22
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

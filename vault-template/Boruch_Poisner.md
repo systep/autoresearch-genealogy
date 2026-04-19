@@ -10,6 +10,7 @@ sources:
   - "MyHeritage family tree (GEDCOM)"
 created: 2026-04-10
 tags: [genealogy, poisner, loew, chabad, person, rabbi]
+confidence: moderate
 ---
 
 # Boruch Poisner

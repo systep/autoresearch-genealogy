@@ -4,7 +4,7 @@ name: "Nicholas Culpeper of Wakehurst"
 born: ~1437
 died: 1510-05-23
 family: "Culpeper"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Colepeper-25 (Tier 3)"
   - "Geni.com profile Nicholas Culpeper (Tier 3)"

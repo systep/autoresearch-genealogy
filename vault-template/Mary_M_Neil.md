@@ -4,7 +4,7 @@ name: "Mary M. Neil"
 born: 
 died: 
 family: "Neil"
-confidence: stub
+confidence: low
 sources:
   - "FamilySearch Family Tree (via GEDCOM record 40001:237052816, Samuel Graham Bright entry)"
 created: 2026-04-10

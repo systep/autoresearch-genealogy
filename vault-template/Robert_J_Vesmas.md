@@ -4,7 +4,7 @@ name: "Robert J Vesmas"
 born: 1943-03-25
 died: 2000-12-08
 family: "Vesmas"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Olga Wienold Friedrich"
 born: 1882-09-09
 died: 1949-11-12
 family: "Friedrich"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

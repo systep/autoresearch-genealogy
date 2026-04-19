@@ -4,7 +4,7 @@ name: "Sir Thomas de Colepeper, the Recognitor"
 born: ~1170
 died: ~1247
 family: "Culpeper"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Culpepper-144 (Tier 3)"
   - "Geni.com profile 6000000008251935990 (Tier 3)"

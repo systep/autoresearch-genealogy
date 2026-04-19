@@ -4,7 +4,7 @@ name: "Beila Levinsohn"
 born: 1727
 died: 
 family: "Levinsohn"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500882)"
   - "FamilySearch Family Tree (record 40001:1017009594)"

@@ -4,7 +4,7 @@ name: "Kathryn Ann Kascher"
 born: 1946-01-01
 died: unknown
 family: "Kascher"
-confidence: strong
+confidence: high
 sources:
   - "Handwritten chart (IMG_0783-0785)"
   - "MyHeritage (1950 Census, Ohio birth index)"

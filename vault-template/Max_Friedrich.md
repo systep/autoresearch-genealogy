@@ -4,7 +4,7 @@ name: "Max Friedrich"
 born: 1885-01
 died: 1917-03-16
 family: "Friedrich"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

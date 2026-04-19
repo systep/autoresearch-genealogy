@@ -4,7 +4,7 @@ name: "Ralph Neville"
 born: 1291
 died: 1367
 family: "Neville"
-confidence: moderate
+confidence: high
 sources:
   - "Pedigree Charts (1-46.pdf)"
   - "Wikipedia: Ralph Neville, 2nd Baron Neville de Raby"

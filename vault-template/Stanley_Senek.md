@@ -4,7 +4,7 @@ name: "Stanley Senek"
 born: 1913-09-30
 died: 1990-10-27
 family: "Senek"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

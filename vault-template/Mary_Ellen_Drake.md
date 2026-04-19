@@ -4,7 +4,7 @@ name: "Mary Ellen Drake"
 born: 1890-08-04
 died: 1896-06
 family: "Drake"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

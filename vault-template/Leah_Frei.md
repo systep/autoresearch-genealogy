@@ -4,7 +4,7 @@ name: "Leah Frei"
 born: 1864
 died: 1940
 family: "Frei"
-confidence: strong
+confidence: high
 sources:
   - "AGAD Warsaw, Fond 424, File 103, Record 34, Scan 52 (Sambor Jewish Marriages 1891-1897, Tier 1; her 1894 marriage to Hersch Markel, age 29)"
   - "AGAD Warsaw, Fond 424, File 212, Record 65, Page 315 (Sambor Jewish Marriage Banns 1904-1926, Tier 1; son Mojzesz Majer's 1919 marriage names her as Lea Frey, Waniowice)"

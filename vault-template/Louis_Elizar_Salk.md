@@ -4,7 +4,7 @@ name: "Louis (Elizar)(Lazar) Salk"
 born: 1840
 died: 1910
 family: "Salk"
-confidence: low
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500065)"
   - "MyHeritage Smart Match"

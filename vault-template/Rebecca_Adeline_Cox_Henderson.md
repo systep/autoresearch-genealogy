@@ -4,7 +4,7 @@ name: "Rebecca Adeline Cox Henderson"
 born: 1813-09-13
 died: 1894-09-26
 family: "Cox"
-confidence: strong
+confidence: high
 sources:
   - "WikiTree Cox-18821"
   - "WikiTree Henderson-12233"

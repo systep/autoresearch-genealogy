@@ -4,8 +4,9 @@ name: "Johann Stephan Bright"
 born: 1692-02-17
 died: 1747-09-24
 family: "Bright"
-confidence: speculative
+confidence: moderate
 sources:
+  - "WikiTree profile Brecht-10; Find a Grave memorial #73801127; Geni.com"
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18
 tags: [genealogy, bright, person, germany, pennsylvania]

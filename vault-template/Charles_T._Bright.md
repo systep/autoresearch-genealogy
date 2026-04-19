@@ -4,7 +4,7 @@ name: "Charles T. Bright"
 born: 1853-08-20
 died: 1901-09-15
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

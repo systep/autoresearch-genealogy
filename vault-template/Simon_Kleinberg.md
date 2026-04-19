@@ -4,7 +4,7 @@ name: "Simon Kleinberg"
 born: 1805
 died: 1900-02-28
 family: "Kleinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

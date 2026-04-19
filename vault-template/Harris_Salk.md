@@ -4,7 +4,7 @@ name: "Harris Salk"
 born: ~1880
 died: ~1900
 family: "Salk"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

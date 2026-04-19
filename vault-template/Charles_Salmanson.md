@@ -4,7 +4,7 @@ name: "Charles Salmanson"
 born: 1914-09-01
 died: 2008-07-07
 family: "Salmanson"
-confidence: strong
+confidence: high
 sources:
   - "AncientFaces"
   - "Find a Grave #185239892 (Hannah Kushner Salmanson)"

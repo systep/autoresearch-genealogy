@@ -4,7 +4,7 @@ name: "Srul Mendel Zalmanson"
 born: 1820
 died: 1854
 family: "Zalmanson"
-confidence: moderate
+confidence: high
 sources:
   - "MyHeritage family tree"
   - "Geni.com profile for Rabbi Levi Yitzchok Zalmanson (1812-1872), lists Srul Mendel as sibling (Tier 3)"

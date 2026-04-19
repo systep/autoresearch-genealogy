@@ -4,7 +4,7 @@ name: "Maria Kascher"
 born: 1825-03-03
 died: 1895-01-07
 family: "Kascher"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

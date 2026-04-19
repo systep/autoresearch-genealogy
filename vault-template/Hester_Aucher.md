@@ -4,7 +4,7 @@ name: "Hester Aucher"
 born: 
 died: 
 family: "Aucher"
-confidence: stub
+confidence: low
 sources:
   - "User-provided data"
 created: 2026-04-10

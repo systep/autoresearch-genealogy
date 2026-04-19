@@ -4,7 +4,7 @@ name: "Henie Markel"
 born: 
 died: 
 family: "Markel"
-confidence: moderate
+confidence: high
 sources:
   - "AGAD Warsaw, Fond 424, File 103, Record 34 (Sambor Jewish Marriages 1891-1897, Tier 1)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500079)"

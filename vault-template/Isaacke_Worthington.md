@@ -10,6 +10,7 @@ sources:
   - "GEDCOM family tree data (Tier 3)"
 created: 2026-04-12
 tags: [genealogy, worthington, person, cheshire, england, wilmslow]
+confidence: moderate
 ---
 
 # Isaacke Worthington

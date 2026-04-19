@@ -4,7 +4,7 @@ name: "Carl Johan Martin Schwartz"
 born: 1883-02-08
 died: 1956-03-20
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

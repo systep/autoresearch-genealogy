@@ -4,7 +4,7 @@ name: "Sir Samuel Sandys, MP, Knight"
 born: 1560-12-28
 died: 1623-08-18
 family: "Sandys"
-confidence: strong
+confidence: high
 sources:
   - "GEDCOM import (MyHeritage Smart Match, Tier 3)"
   - "WikiTree Sandys-24 (Tier 3)"

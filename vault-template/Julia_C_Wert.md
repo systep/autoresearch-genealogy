@@ -4,7 +4,7 @@ name: "Julia C Wert"
 born: 1844-10-30
 died: 1913-12-21
 family: "Wert"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

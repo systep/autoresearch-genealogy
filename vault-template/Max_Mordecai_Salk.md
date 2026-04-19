@@ -4,8 +4,9 @@ name: "Max (Mordecai) Salk"
 born: 1882-04-25
 died: ~1959-06-10
 family: "Salk"
-confidence: speculative
+confidence: moderate
 sources:
+  - "Find a Grave memorial #191821942 (Lincoln Park Cemetery, Warwick, RI)"
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18
 tags: [genealogy, salk, person, lithuania, rhode-island, providence]

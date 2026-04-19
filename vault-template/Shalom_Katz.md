@@ -4,7 +4,7 @@ name: "Shalom (Solomon) Katz"
 born: ~1840
 died: unknown
 family: "Katz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

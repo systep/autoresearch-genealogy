@@ -4,7 +4,7 @@ name: "Samuel Bright Walker"
 born: 1900-10-05
 died: 1975-01-03
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -10,6 +10,7 @@ sources:
   - "Geni World Family Tree (record 40000:4629293)"
 created: 2026-04-10
 tags: [genealogy, portugaler, loew, person, poznan, poland, sephardic, chabad]
+confidence: moderate
 ---
 
 # Rachel Portugaler

@@ -4,7 +4,7 @@ name: "Manley Breaker Long"
 born: 1896-07-31
 died: 1920-04-20
 family: "Long"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

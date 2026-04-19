@@ -4,7 +4,7 @@ name: "Nachoum Schneerson"
 born: 1882-01-25
 died: 1938-04-24
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

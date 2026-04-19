@@ -4,7 +4,7 @@ name: "Catherine Cox"
 born: 1732
 died: 1785-02-24
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

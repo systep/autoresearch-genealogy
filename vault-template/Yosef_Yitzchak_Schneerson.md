@@ -4,7 +4,7 @@ name: "Yosef Yitzchak Schneerson (Rayatz)"
 born: 1880-06-21
 died: 1950-01-28
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

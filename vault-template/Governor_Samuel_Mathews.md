@@ -10,6 +10,7 @@ sources:
   - "Virginia colonial records (Tier 1)"
 created: 2026-04-12
 tags: [genealogy, mathews, person, virginia, colonial, governor]
+confidence: moderate
 ---
 
 # Governor Samuel Mathews Jr.

@@ -4,7 +4,7 @@ name: "Michael R. Bright"
 born: 1822
 died: 1899
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

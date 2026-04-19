@@ -4,7 +4,7 @@ name: "Judson King"
 born: 1841-06-20
 died: 1921-05-12
 family: "King"
-confidence: strong
+confidence: high
 sources:
   - "SC Death Certificate File No. 7013 (Tier 1)"
   - "1880 U.S. Federal Census, Oaklawn Twp, Greenville Co, SC (Tier 1)"

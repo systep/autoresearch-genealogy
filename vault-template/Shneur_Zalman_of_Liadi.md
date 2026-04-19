@@ -4,7 +4,7 @@ name: "Shneur Zalman of Liadi"
 born: 1745-09-04
 died: 1812-12-15
 family: "Schneerson"
-confidence: strong
+confidence: high
 sources:
   - "Wikipedia (Shneur Zalman of Liadi)"
   - "Chabad.org"

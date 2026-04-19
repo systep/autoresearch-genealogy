@@ -4,7 +4,7 @@ name: "Rehoboam, 1st King of Judah"
 born: "c. 972 BCE (traditional)"
 died: "c. 913 BCE (traditional)"
 family: "House of David"
-confidence: speculative
+confidence: moderate
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (@I502275@)"
   - "Hebrew Bible (1 Kings 12-14, 2 Chronicles 10-12)"

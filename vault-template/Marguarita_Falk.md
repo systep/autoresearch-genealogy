@@ -4,7 +4,7 @@ name: "Marguarita Falk"
 born: 1871-01-15
 died: 1938-09-20
 family: "Falk"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

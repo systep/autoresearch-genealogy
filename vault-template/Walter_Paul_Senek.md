@@ -4,7 +4,7 @@ name: "Walter Paul Senek"
 born: 1919-03-19
 died: 2005-01-03
 family: "Senek"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

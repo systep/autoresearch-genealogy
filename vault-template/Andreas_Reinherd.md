@@ -4,7 +4,7 @@ name: "Andreas Reinherd"
 born: unknown
 died: unknown
 family: "Reinherd"
-confidence: stub
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage/FamilySearch)"
 created: 2026-04-10

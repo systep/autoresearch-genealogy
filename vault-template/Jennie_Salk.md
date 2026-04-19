@@ -4,7 +4,7 @@ name: "Jennie Salk"
 born: ~1890
 died: 1978-09-19
 family: "Salk"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "William Wert Bright"
 born: 1896-01-12
 died: unknown
 family: "Wert"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

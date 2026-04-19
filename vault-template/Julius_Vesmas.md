@@ -4,7 +4,7 @@ name: "Julius Vesmas"
 born: 1917-01-23
 died: 1943-01-10
 family: "Vesmas"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

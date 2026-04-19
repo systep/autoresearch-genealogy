@@ -4,7 +4,7 @@ name: "Menachem Mendel Schneerson (Tzemach Tzedek)"
 born: 1789-09-09
 died: 1866-03-17
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

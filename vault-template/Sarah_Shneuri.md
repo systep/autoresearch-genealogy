@@ -4,7 +4,7 @@ name: "Sarah Shneuri"
 born: ~1795
 died: ~1845
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

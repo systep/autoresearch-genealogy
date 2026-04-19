@@ -4,7 +4,7 @@ name: "Maria Denget"
 born: unknown
 died: unknown
 family: "Denget"
-confidence: stub
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10

@@ -4,7 +4,7 @@ name: "Ann A. Wert"
 born: 1849-12-25
 died: 1887-08-07
 family: "Wert"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

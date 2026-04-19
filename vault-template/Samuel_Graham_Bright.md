@@ -4,7 +4,7 @@ name: "Samuel Graham Bright"
 born: 1825-10-17
 died: 1909-07-27
 family: "Bright"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500374)"
   - "FamilySearch Family Tree (record 40001:237052816)"

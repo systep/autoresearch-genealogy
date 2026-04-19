@@ -4,7 +4,7 @@ name: "Thomas B. Cox"
 born: 1792-05-15
 died: 1857-06-12
 family: "Cox"
-confidence: strong
+confidence: high
 sources:
   - "WikiTree Cox-18821"
   - "Cox Family History Project"

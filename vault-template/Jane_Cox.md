@@ -4,7 +4,7 @@ name: "Jane Cox"
 born: 1765
 died: 1844-11
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

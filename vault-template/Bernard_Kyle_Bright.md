@@ -4,7 +4,7 @@ name: "Bernard Kyle Bright"
 born: 1892-06-17
 died: 1978-12-16
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

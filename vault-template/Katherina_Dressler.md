@@ -10,6 +10,7 @@ sources:
   - "GEDCOM f266i6 (MyHeritage, Tier 3)"
 created: 2026-04-10
 tags: [genealogy, Dressler, person, Transylvanian-Saxon]
+confidence: moderate
 ---
 
 # Katherina Dressler

@@ -4,7 +4,7 @@ name: "Elizabeth (Salk) Salmanson"
 born: 1887-03-05
 died: 1974-11-30
 family: "Salk"
-confidence: strong
+confidence: high
 sources:
   - "1930 US Census (Providence, RI)"
   - "Multiple children's obituaries (Martha Corin, Donald, Samuel, Charles Salmanson)"

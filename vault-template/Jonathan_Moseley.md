@@ -10,6 +10,7 @@ sources:
   - "WikiTree: The very earliest Moseleys in America (Tier 3)"
 created: 2026-04-10
 tags: [genealogy, moseley, person, virginia, surry, brunswick, colonial, england]
+confidence: moderate
 ---
 
 # Jonathan Jonas James Moseley

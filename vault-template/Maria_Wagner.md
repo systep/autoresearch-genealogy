@@ -4,7 +4,7 @@ name: "Maria Wagner"
 born: 1795
 died: 
 family: "Wagner"
-confidence: moderate
+confidence: high
 sources:
   - "Waldhutten church certificate 'VATER' (Tier 1, 10 Feb 1938, Pastor A. Bogeschdorfer)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I501329)"

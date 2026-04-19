@@ -10,6 +10,7 @@ sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (not individually present; Luria family chain provides context)"
 created: 2026-04-10
 tags: [genealogy, luria, person, davidic-descent, halachic-authority]
+confidence: moderate
 ---
 
 # Solomon Luria (Maharshal)

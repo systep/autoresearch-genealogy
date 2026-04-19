@@ -4,7 +4,7 @@ name: "Thomas Jefferson Bright"
 born: 1806-02-19
 died: 1863-12-08
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

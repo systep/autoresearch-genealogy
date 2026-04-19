@@ -4,8 +4,9 @@ name: "Celia (Zipporah) Bella Salk"
 born: 1872-10-12
 died: 1959-09-05
 family: "Salk"
-confidence: speculative
+confidence: moderate
 sources:
+  - "Ancestry.ca genealogical record (confirms Providence, RI; 5 children)"
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18
 tags: [genealogy, salk, person, lithuania, rhode-island, providence]

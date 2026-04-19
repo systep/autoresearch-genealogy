@@ -4,7 +4,7 @@ name: "Catharina Schuller"
 born: 1836-04-08
 died: 1912-09-17
 family: "Schuller"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

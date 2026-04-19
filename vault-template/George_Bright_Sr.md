@@ -4,7 +4,7 @@ name: "George Bright Sr."
 born: ~1782
 died: 1873
 family: "Bright"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Bright-298 (Tier 3)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, Tier 3)"

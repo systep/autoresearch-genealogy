@@ -4,7 +4,7 @@ name: "Thomas Long"
 born: ~1882
 died: unknown
 family: "Long"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

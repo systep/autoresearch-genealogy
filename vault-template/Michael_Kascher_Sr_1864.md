@@ -4,7 +4,7 @@ name: "Michael Kascher Sr."
 born: 1864-03-30
 died: 1935-07-22
 family: "Kascher"
-confidence: strong
+confidence: high
 sources:
   - "Waldhutten church certificate 'VATER' (Tier 1, 10 Feb 1938, Pastor A. Bogeschdorfer)"
   - "Waldhutten church certificate 'KINDER' (Tier 1, 10 Feb 1938)"

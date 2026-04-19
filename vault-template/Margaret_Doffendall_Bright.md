@@ -4,7 +4,7 @@ name: "Margaret Doffendall Bright"
 born: 1771-12-03
 died: 1846-08-13
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

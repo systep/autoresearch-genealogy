@@ -4,7 +4,7 @@ name: "Lena Salk"
 born: ~1881
 died: 
 family: "Salk"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

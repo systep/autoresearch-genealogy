@@ -4,7 +4,7 @@ name: "Menashe Kleinberg"
 born: unknown
 died: unknown
 family: "Kleinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Molly Mary Clark"
 born: 1722
 died: 1804
 family: "Clark"
-confidence: low
+confidence: moderate
 sources:
   - "MyHeritage GEDCOM (Tier 3, unverified)"
   - "Find a Grave memorial #11725276 (Argaleus Hercules Henderson I)"

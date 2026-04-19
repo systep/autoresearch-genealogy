@@ -4,7 +4,7 @@ name: "Frank Marion Drake"
 born: 1888-10-12
 died: 1965-04-14
 family: "Drake"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

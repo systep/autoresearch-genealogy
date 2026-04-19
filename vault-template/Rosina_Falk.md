@@ -4,7 +4,7 @@ name: "Rosina Falk"
 born: 1896-09-11
 died: 1928-05-27
 family: "Falk"
-confidence: strong
+confidence: high
 sources:
   - "Marriage record (microfilm #001290365)"
   - "MyHeritage family tree"

@@ -4,7 +4,7 @@ name: "John Baldwin Sr."
 born: ~1730
 died: ~1811
 family: "Baldwin"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Baldwin-2336 (Tier 3)"
   - "Geni.com profile 324069751490005446 (Tier 3)"

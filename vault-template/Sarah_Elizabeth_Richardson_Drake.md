@@ -4,7 +4,7 @@ name: "Sarah Elizabeth Richardson Drake"
 born: 1828-04-08
 died: 1904-05-04
 family: "Drake"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

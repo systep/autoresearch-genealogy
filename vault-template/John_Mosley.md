@@ -4,7 +4,7 @@ name: "John Mosley"
 born: 1914-12-27
 died: 2001-05-04
 family: "Mosley"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

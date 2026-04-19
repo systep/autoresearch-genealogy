@@ -4,7 +4,7 @@ name: "John Baldwin Jr."
 born: 1697
 died: ~1745
 family: "Baldwin"
-confidence: moderate
+confidence: high
 sources:
   - "Chester County PA wills, John Baldwin Sr. 1732 will (Tier 1, probate records)"
   - "Chester Monthly Meeting Records, marriage 1719 (Tier 1, Quaker meeting records)"

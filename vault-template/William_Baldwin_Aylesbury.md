@@ -4,7 +4,7 @@ name: "William Baldwin"
 born: 1441
 died: 1479
 family: "Baldwin"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Baldwin family profiles (Tier 3)"
   - "Baker's History of Northamptonshire (Tier 2, published genealogy)"

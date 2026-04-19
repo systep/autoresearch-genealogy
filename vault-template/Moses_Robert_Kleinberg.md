@@ -4,7 +4,7 @@ name: "Moses Robert Kleinberg"
 born: 1897-05-31
 died: 1964-12-24
 family: "Kleinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Rose Salk"
 born: 
 died: 
 family: "Salk"
-confidence: stub
+confidence: moderate
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500066)"
   - "MyHeritage Smart Match"

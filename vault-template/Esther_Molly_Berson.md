@@ -4,7 +4,7 @@ name: "Esther Molly Berson"
 born: 1886-05-05
 died: 1944-06-01
 family: "Berson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

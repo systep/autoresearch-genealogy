@@ -4,7 +4,7 @@ name: "Sarah Kuniansky"
 born: unknown
 died: 1918
 family: "Kuniansky"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

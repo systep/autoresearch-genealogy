@@ -4,7 +4,7 @@ name: "Joseph Brandt"
 born: ~1855-1870
 died: unknown
 family: "Brandt"
-confidence: low
+confidence: moderate
 sources:
   - "AGAD Warsaw, Fond 424, File 212, Record 65, Page 315 (Sambor Jewish Marriage Banns 1904-1926, Tier 1; named as 'Józef BRAND of Lisko', father of bride Dwora)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500805)"

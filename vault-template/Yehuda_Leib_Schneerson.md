@@ -4,7 +4,7 @@ name: "Yehuda Leib Schneerson (Maharil of Kopust)"
 born: ~1810
 died: 1866-10-13
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

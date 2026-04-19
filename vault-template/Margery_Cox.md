@@ -4,7 +4,7 @@ name: "Margery Cox"
 born: 1724
 died: 1805
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

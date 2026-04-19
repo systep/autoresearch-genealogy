@@ -4,7 +4,7 @@ name: "Elka (Olea) Sheinberg"
 born: 1889-07-06
 died: 1953-12-01
 family: "Sheinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

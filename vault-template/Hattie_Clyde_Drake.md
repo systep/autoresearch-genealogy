@@ -4,7 +4,7 @@ name: "Hattie Clyde Drake"
 born: 1883
 died: 1899
 family: "Drake"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

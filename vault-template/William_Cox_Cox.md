@@ -4,7 +4,7 @@ name: "William Cox Cox"
 born: 1798-06-08
 died: 1682-02-15
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

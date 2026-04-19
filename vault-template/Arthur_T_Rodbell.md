@@ -4,7 +4,7 @@ name: "Arthur T Rodbell"
 born: 1948-11-14
 died: unknown
 family: "Rodbell"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Max Bernard Kleinberg"
 born: 1927-09-09
 died: 2009-10-28
 family: "Kleinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

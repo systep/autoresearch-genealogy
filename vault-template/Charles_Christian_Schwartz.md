@@ -4,7 +4,7 @@ name: "Charles Christian Schwartz"
 born: 1910-11-04
 died: 1966-12-07
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

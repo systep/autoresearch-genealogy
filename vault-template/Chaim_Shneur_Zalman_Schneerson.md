@@ -4,7 +4,7 @@ name: "Chaim Shneur Zalman Schneerson"
 born: ~1814
 died: ~1880
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Clyde A. Rodbell"
 born: 1927-08-16
 died: 2015-01-10
 family: "Rodbell"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

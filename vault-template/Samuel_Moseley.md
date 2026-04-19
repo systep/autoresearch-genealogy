@@ -4,7 +4,7 @@ name: "Samuel Moseley"
 born: ~1735
 died: ~1801
 family: "Moseley"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Moseley-3817 (Abigail Moseley Holloway, sister, Tier 3)"
   - "WikiTree Holloway-58 (Martha Patty Holloway, Tier 3)"

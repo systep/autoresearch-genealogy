@@ -4,7 +4,7 @@ name: "Georg Kascher (1895)"
 born: 1895-05-28
 died: unknown
 family: "Kascher"
-confidence: strong
+confidence: high
 sources:
   - "Waldhutten church certificate 'KINDER' (Tier 1, 10 Feb 1938)"
   - "Georg Kascher 1913 immigration record (SS Armenia, Hamburg to New York)"

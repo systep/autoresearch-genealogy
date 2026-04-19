@@ -4,7 +4,7 @@ name: "Elizabeth Brasher"
 born: ~1765
 died: ~1839
 family: "Brasher"
-confidence: moderate-speculative
+confidence: high
 sources:
   - "Family_Tree.md"
   - "WikiTree Brasher-153"

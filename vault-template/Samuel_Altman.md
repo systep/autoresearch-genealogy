@@ -4,7 +4,7 @@ name: "Samuel Altman"
 born: ~1886
 died: 1955-11-22
 family: "Altman"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

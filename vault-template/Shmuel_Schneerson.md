@@ -4,7 +4,7 @@ name: "Shmuel Schneerson (Maharash)"
 born: 1834-05-11
 died: 1882-09-26
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

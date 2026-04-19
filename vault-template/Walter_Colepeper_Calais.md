@@ -4,7 +4,7 @@ name: "Walter Colepeper, Under-Marshal of Calais"
 born: ~1465
 died: ~1515
 family: "Culpeper"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Culpepper-600 (Tier 3)"
   - "WikiTree Aucher-1 (Anne Aucher profile, Tier 3)"

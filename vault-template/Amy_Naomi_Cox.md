@@ -4,7 +4,7 @@ name: "Amy Naomi Cox"
 born: 1698
 died: 1778-09-13
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Chaya Mushka Schneerson"
 born: 1901-03-16
 died: 1988-02-10
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

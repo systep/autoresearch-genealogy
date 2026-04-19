@@ -4,7 +4,7 @@ name: "Johannes Schuller"
 born: 1821-02-02
 died: unknown
 family: "Schuller"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Sir John de Hardreshull, Knight Banneret"
 born: 1291-08-24
 died: ~1367
 family: "Hardreshull"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Hardreshull-2 (Tier 3)"
   - "Geni.com profile 6000000008771739355 (Tier 3)"

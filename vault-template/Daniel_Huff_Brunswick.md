@@ -4,7 +4,7 @@ name: "Daniel Huff"
 born: ~1710
 died: ~1777
 family: "Huff"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Huff-1770 (Tier 3)"
   - "Brunswick County VA Will Book (1773 will, probated 24 Nov 1777) (Tier 1)"

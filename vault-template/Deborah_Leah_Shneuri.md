@@ -4,7 +4,7 @@ name: "Deborah Leah Shneuri"
 born: ~1766
 died: 1792-09-20
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

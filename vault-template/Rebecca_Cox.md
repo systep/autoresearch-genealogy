@@ -4,7 +4,7 @@ name: "Rebecca Cox"
 born: 1716
 died: 1787-01-01
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

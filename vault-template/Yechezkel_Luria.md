@@ -4,7 +4,7 @@ name: "Yechezkel (Ezekiel) Luria"
 born: "c. 1120 CE"
 died: "c. 1170 CE"
 family: "Luria"
-confidence: speculative
+confidence: low
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (@I501152@)"
 created: 2026-04-10

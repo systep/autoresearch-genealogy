@@ -4,7 +4,7 @@ name: "Mary Polly Cox"
 born: 1805-03-07
 died: 1878-05-08
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

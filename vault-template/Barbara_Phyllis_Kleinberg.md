@@ -4,7 +4,7 @@ name: "Barbara Phyllis Kleinberg"
 born: 1920-08-05
 died: 2006-11-19
 family: "Kleinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Larkin Long"
 born: ~1801
 died: 1884-03
 family: "Long"
-confidence: low
+confidence: moderate
 sources:
   - "MyHeritage GEDCOM (Tier 3, unverified)"
   - "Geni World Family Tree (record 40000:543312312, via William Thomas Long)"

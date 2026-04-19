@@ -4,7 +4,7 @@ name: "William Cox Sr."
 born: 1730
 died: 1814-11
 family: "Cox"
-confidence: strong
+confidence: high
 sources:
   - "WikiTree Cox-14022"
   - "Cox Family History Project"

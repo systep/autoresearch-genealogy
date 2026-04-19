@@ -4,7 +4,7 @@ name: "Menachem Nachum Schneerson"
 born: ~1788
 died: ~1868
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

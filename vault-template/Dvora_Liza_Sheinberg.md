@@ -4,7 +4,7 @@ name: "Dvora Liza Sheinberg"
 born: 1890-12-03
 died: 1986-11-09
 family: "Sheinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

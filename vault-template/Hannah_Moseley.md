@@ -4,7 +4,7 @@ name: "Hannah Moseley"
 born: ~1710
 died: ~1749
 family: "Moseley"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

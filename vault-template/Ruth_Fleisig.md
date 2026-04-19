@@ -4,7 +4,7 @@ name: "Ruth Fleisig"
 born: 1904-04-09
 died: 1993-01-15
 family: "Fleisig"
-confidence: speculative
+confidence: moderate
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
   - "Harold Salk obituary, 2024 (Tier 2)"

@@ -4,7 +4,7 @@ name: "Eleanor of Aquitaine"
 born: 1122
 died: 1204
 family: "Ramnulfids"
-confidence: moderate
+confidence: high
 sources:
   - "Pedigree Charts (1-46.pdf)"
   - "Wikipedia: Eleanor of Aquitaine"

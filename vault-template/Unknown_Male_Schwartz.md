@@ -4,7 +4,7 @@ name: "Unknown Male Schwartz"
 born: 1888-08-28
 died: unknown
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

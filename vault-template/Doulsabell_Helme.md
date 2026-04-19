@@ -4,7 +4,7 @@ name: "Doulsabell Helme"
 born: 
 died: 
 family: "Helme"
-confidence: stub
+confidence: low
 sources:
   - "User-provided data"
 created: 2026-04-10

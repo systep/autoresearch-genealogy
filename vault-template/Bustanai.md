@@ -10,6 +10,7 @@ sources:
   - "Wikipedia: Bustanai (https://en.wikipedia.org/wiki/Bustanai)"
 created: 2026-04-10
 tags: [genealogy, exilarch, person, davidic-descent]
+confidence: moderate
 ---
 
 # Bustanai ben Haninai, Exilarch

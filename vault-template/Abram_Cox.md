@@ -4,7 +4,7 @@ name: "Abram Cox"
 born: 1831
 died: 1868
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

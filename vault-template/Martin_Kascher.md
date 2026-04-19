@@ -4,7 +4,7 @@ name: "Martin Kascher"
 born: 1912-04-17
 died: 1913-01-18
 family: "Kascher"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

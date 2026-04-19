@@ -4,7 +4,7 @@ name: "Wilhelm Schwartz"
 born: 1834-07-26
 died: unknown
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

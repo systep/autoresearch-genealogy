@@ -4,7 +4,7 @@ name: "Helen Brandt"
 born: 1889-11-26
 died: 1976-11-06
 family: "Brandt"
-confidence: strong
+confidence: high
 sources:
   - "RIJHA M Obituaries PDF, p. 101 (Helen Markel obituary, Jewish Herald Voice, Nov 1976; Tier 2)"
   - "RIJHA M Obituaries PDF, death notice (Helen (Brand) Markel, d. November 6, 1976; Tier 2)"

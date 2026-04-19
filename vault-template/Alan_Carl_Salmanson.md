@@ -4,7 +4,7 @@ name: "Alan Carl Salmanson"
 born: ~1951
 died: unknown
 family: "Salmanson"
-confidence: strong
+confidence: high
 sources:
   - "Samuel Salmanson obituary (2004)"
   - "Find a Grave #231959694 (Leonard Irving memorial)"

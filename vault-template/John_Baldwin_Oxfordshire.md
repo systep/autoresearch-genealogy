@@ -4,7 +4,7 @@ name: "John Baldwin Sr."
 born: ~1657
 died: ~1732
 family: "Baldwin"
-confidence: moderate
+confidence: high
 sources:
   - "Chester Monthly Meeting Records (Tier 1, Quaker meeting records)"
   - "WikiTree Baldwin-2334 (Tier 3)"

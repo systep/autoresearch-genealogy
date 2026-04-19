@@ -4,7 +4,7 @@ name: "Sara Loew Katz"
 born: 1633
 died: 1680
 family: "Katz"
-confidence: stub
+confidence: moderate
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500984)"
   - "MyHeritage Smart Match"

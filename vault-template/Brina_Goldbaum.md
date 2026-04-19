@@ -4,7 +4,7 @@ name: "Brina Goldbaum"
 born: ~1860-1875
 died: "Aug-Sept 1942 (Lesko ghetto liquidation or Belzec extermination camp)"
 family: "Goldbaum"
-confidence: speculative
+confidence: high
 sources:
   - "AGAD Warsaw, Fond 424, File 212, Record 65, Page 315 (Sambor Jewish Marriage Banns 1904-1926, Tier 1; named as 'Brancia GOLDBAUM' of Lisko, mother of bride Dwora)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500806)"

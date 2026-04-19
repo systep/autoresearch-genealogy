@@ -4,7 +4,7 @@ name: "Thomas Cox"
 born: 1694
 died: 1774
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

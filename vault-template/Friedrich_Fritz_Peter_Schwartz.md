@@ -4,7 +4,7 @@ name: "Friedrich Fritz Peter Schwartz"
 born: ~1854-08
 died: 1929-02-14
 family: "Friedrich"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

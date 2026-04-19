@@ -4,8 +4,9 @@ name: "David Grant Bright"
 born: 1775-04-13
 died: 1851-05-25
 family: "Bright"
-confidence: speculative
+confidence: moderate
 sources:
+  - "Geni.com profile; FamilySearch person KLXV-5D9"
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18
 tags: [genealogy, bright, person, indiana, pennsylvania]

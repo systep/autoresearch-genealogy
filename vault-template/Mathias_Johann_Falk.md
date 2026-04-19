@@ -4,7 +4,7 @@ name: "Mathias Johann Falk"
 born: 1811
 died: 1873
 family: "Falk"
-confidence: stub
+confidence: low
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I501354)"
 created: 2026-04-10

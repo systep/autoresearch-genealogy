@@ -4,7 +4,7 @@ name: "Sir Edwin Sandys"
 born: 1561-12-09
 died: 1629-10-31
 family: "Sandys"
-confidence: strong
+confidence: high
 sources:
   - "GEDCOM import (MyHeritage Smart Match, Tier 3)"
   - "WikiTree Sandys-95 (Tier 3)"

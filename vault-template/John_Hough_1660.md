@@ -4,7 +4,7 @@ name: "John Hough"
 born: 1660
 died: 
 family: "Hough"
-confidence: stub
+confidence: low
 sources:
   - "User-provided data"
 created: 2026-04-10

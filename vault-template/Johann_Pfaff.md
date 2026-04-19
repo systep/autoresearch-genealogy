@@ -4,7 +4,7 @@ name: "Johann Pfaff"
 born: 1848-03-19
 died: 1879-01-24
 family: "Pfaff"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

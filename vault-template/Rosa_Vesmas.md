@@ -4,7 +4,7 @@ name: "Rosa Vesmas"
 born: 1875
 died: 1959-04-08
 family: "Vesmas"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

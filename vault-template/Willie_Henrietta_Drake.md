@@ -4,7 +4,7 @@ name: "Willie Henrietta Drake"
 born: 1886-10-24
 died: 1967-07-11
 family: "Drake"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

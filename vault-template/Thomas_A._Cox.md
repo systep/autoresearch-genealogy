@@ -4,7 +4,7 @@ name: "Thomas A. Cox"
 born: 1753-08-25
 died: 1845-11
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

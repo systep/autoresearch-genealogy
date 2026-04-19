@@ -4,7 +4,7 @@ name: "Mathias Pfaff"
 born: 1836
 died: 1899-12-14
 family: "Pfaff"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

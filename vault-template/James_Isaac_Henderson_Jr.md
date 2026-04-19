@@ -4,7 +4,7 @@ name: "James Isaac Henderson Jr."
 born: ~1705
 died: ~1752
 family: "Henderson"
-confidence: moderate
+confidence: high
 sources:
   - "Family_Tree.md"
   - "WikiTree Henderson-7310"

@@ -4,7 +4,7 @@ name: "Chaim Luria"
 born: "1615 CE"
 died: "c. 1706 CE"
 family: "Luria"
-confidence: speculative
+confidence: low
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (@I501065@)"
 created: 2026-04-10

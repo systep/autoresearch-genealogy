@@ -4,7 +4,7 @@ name: "Sarah B Bright"
 born: 1807
 died: 1889
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

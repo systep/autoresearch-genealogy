@@ -4,7 +4,7 @@ name: "Joseph Henry Rodbell"
 born: 1886-07-27
 died: 1964-03-20
 family: "Rodbell"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

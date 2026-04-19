@@ -4,7 +4,7 @@ name: "Ghersh Hirsh Tzvi Sheinberg"
 born: 1856-10-12
 died: unknown
 family: "Sheinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -10,6 +10,7 @@ sources:
   - "GEDCOM import (MyHeritage Smart Match, Tier 3)"
 created: 2026-04-10
 tags: [genealogy, heald, hough, person, cheshire, england]
+confidence: moderate
 ---
 
 # Ann Heald

@@ -4,7 +4,7 @@ name: "Amy Elizabeth Moseley"
 born: 1779
 died: 1837
 family: "Moseley"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

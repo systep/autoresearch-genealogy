@@ -4,7 +4,7 @@ name: "Zadock Jesse Bright"
 born: 1860-09-22
 died: 1930-08-12
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

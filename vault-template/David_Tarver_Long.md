@@ -4,7 +4,7 @@ name: "David Tarver Long"
 born: 1893-08-30
 died: 1972-04-18
 family: "Long"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

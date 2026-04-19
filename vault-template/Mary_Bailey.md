@@ -4,7 +4,7 @@ name: "Mary Bailey"
 born: 
 died: 
 family: "Bailey"
-confidence: speculative
+confidence: moderate
 sources:
   - "GEDCOM import (MyHeritage Smart Match, Tier 3)"
   - "WikiTree Youngblood-746 (Tier 3, records surname as Bradley)"

@@ -4,7 +4,7 @@ name: "Rebecca Moseley"
 born: 1772-04-11
 died: 1837-01-07
 family: "Moseley"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage)"
   - "Geni World Family Tree (record 40000:477275575)"

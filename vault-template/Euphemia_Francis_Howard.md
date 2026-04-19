@@ -4,7 +4,7 @@ name: "Euphemia Francis Howard"
 born: 1864-08-31
 died: 1930-03-05
 family: "Howard"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

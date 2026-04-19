@@ -4,7 +4,7 @@ name: "Levi Yitzchok Zalmanson"
 born: ~1812
 died: 1872-03-05
 family: "Zalmanson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

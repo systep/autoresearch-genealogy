@@ -4,7 +4,7 @@ name: "Johann Konnerth"
 born: 1780-10-02
 died: 1854-07-23
 family: "Konnerth"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

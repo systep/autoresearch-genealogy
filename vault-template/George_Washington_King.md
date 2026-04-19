@@ -4,7 +4,7 @@ name: "George Washington King"
 born: ~1815
 died: ""
 family: "King"
-confidence: strong
+confidence: high
 sources:
   - "1850 U.S. Federal Census, Eastern Sub Division, Anderson County, SC, Family 401, Series M432, Image 536 (Tier 1)"
   - "1870 U.S. Federal Census, South Carolina, Series M593, Frame 00301, Sheet 41, Family 323 (Tier 1)"

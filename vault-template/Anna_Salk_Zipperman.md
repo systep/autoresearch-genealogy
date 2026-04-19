@@ -4,7 +4,7 @@ name: "Anna Salk Zipperman"
 born: 1893-07-22
 died: 1958-01-26
 family: "Salk"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "John Moore Bright"
 born: 1816-10-03
 died: ~1892
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

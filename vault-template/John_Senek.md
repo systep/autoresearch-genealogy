@@ -4,7 +4,7 @@ name: "John Senek"
 born: 1915-07-06
 died: 1999-03-02
 family: "Senek"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

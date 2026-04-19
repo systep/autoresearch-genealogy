@@ -4,7 +4,7 @@ name: "Isaac Cox"
 born: 1755
 died: 1830
 family: "Cox"
-confidence: strong
+confidence: high
 sources:
   - "WikiTree Cox-8529"
   - "Cox Family History Project"

@@ -4,7 +4,7 @@ name: "Morris Moishe Myer Markel"
 born: unknown
 died: 1964
 family: "Markel"
-confidence: strong
+confidence: high
 sources:
   - "RIJHA M Obituaries PDF (Helen Markel obituary, Nov 1976; Tier 2) — confirms death in Florida, Markel Dress Store, 5 children"
   - "RIJHA M Obituaries PDF (Joseph H. Markel obituary, Dec 1989; Tier 2) — confirms sons M. William and Gregory S. Markel"

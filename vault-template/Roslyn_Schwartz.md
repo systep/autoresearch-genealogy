@@ -4,7 +4,7 @@ name: "Roslyn Schwartz"
 born: ~1940
 died: unknown
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

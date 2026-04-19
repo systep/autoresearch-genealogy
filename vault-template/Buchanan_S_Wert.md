@@ -4,7 +4,7 @@ name: "Buchanan S Wert"
 born: 1890-11
 died: 1911-07-21
 family: "Wert"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

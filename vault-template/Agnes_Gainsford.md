@@ -4,7 +4,7 @@ name: "Agnes Gainsford"
 born: ~1430
 died: ~1490
 family: "Gainsford"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Colepeper-3 (Tier 3)"
   - "Geni.com profile Sir John Culpepper Kt of Bayhall (Tier 3)"

@@ -4,7 +4,7 @@ name: "George Michael Bright"
 born: 1852
 died: 1939
 family: "Bright"
-confidence: strong
+confidence: high
 sources:
   - "WikiTree Bright-3343"
   - "MyHeritage family tree"

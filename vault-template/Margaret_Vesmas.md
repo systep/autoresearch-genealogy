@@ -4,7 +4,7 @@ name: "Margaret Vesmas"
 born: 1909-08-28
 died: 1997-12-06
 family: "Vesmas"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

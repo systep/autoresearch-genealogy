@@ -4,7 +4,7 @@ name: "Marie Kleinberg"
 born: 1891-02-22
 died: 1979-02-02
 family: "Kleinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

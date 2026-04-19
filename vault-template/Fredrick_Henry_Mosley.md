@@ -4,7 +4,7 @@ name: "Fredrick Henry Mosley"
 born: 1912-07-20
 died: 1996-06-21
 family: "Mosley"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

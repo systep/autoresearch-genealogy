@@ -9,6 +9,7 @@ sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10
 tags: [genealogy, Dressler, person, Transylvanian-Saxon]
+confidence: low
 ---
 
 # Johann Dressler

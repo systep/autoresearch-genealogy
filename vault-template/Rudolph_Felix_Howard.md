@@ -4,7 +4,7 @@ name: "Rudolph Felix Howard"
 born: ~1887
 died: 1909-08-20
 family: "Howard"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

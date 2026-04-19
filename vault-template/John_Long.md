@@ -4,7 +4,7 @@ name: "John Long"
 born: ~1865
 died: unknown
 family: "Long"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

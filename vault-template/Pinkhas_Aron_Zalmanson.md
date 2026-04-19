@@ -4,7 +4,7 @@ name: "Pinkhas Aron Zalmanson"
 born: ~1823
 died: unknown
 family: "Zalmanson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

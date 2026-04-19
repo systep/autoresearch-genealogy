@@ -4,7 +4,7 @@ name: "David Bright"
 born: 1740-08-09
 died: 1808
 family: "Bright"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage)"
   - "Geni World Family Tree (record 40000:6139222)"

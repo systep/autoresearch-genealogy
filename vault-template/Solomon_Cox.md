@@ -4,7 +4,7 @@ name: "Solomon Cox"
 born: 1730
 died: 1812
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

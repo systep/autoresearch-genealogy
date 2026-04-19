@@ -4,7 +4,7 @@ name: "Jackson Womack Moseley"
 born: 1818-12-24
 died: 1913
 family: "Moseley"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

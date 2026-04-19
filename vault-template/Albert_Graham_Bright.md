@@ -10,6 +10,7 @@ sources:
   - "1950 US Census"
 created: 2026-04-10
 tags: [genealogy, bright, person, virginia, new-york]
+confidence: moderate
 ---
 
 # Albert Graham Bright

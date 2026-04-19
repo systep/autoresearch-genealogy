@@ -4,7 +4,7 @@ name: "Sarah Cox"
 born: ~1692
 died: 1755-04-02
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

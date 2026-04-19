@@ -4,7 +4,7 @@ name: "Maria Fleischer"
 born: unknown
 died: unknown
 family: "Fleischer"
-confidence: stub
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10

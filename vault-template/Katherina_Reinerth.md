@@ -9,6 +9,7 @@ sources:
   - "GEDCOM f266i6 (MyHeritage/FamilySearch)"
 created: 2026-04-10
 tags: [genealogy, Reinerth, person, Transylvanian-Saxon]
+confidence: low
 ---
 
 # Katherina Reinerth

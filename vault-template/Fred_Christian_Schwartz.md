@@ -4,7 +4,7 @@ name: "Fred Christian Schwartz"
 born: 1887-05-16
 died: 1946-11-29
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

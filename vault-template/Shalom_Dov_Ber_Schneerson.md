@@ -4,7 +4,7 @@ name: "Shalom Dov Ber Schneerson (Rashab)"
 born: 1860-11-05
 died: 1920-03-01
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -10,6 +10,7 @@ sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10
 tags: [genealogy, Krauss, Binder, person, Transylvanian-Saxon]
+confidence: moderate
 ---
 
 # Georg Krauss (Alias Binder)

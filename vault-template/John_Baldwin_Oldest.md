@@ -4,7 +4,7 @@ name: "John Baldwin"
 born: 
 died: 
 family: "Baldwin"
-confidence: stub
+confidence: low
 sources:
   - "User-provided data"
 created: 2026-04-10

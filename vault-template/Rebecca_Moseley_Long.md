@@ -4,7 +4,7 @@ name: "Rebecca Moseley Long"
 born: 1898-09-14
 died: 1985
 family: "Long"
-confidence: moderate
+confidence: high
 sources:
   - "MyHeritage (1930 + 1950 US Census)"
   - "Handwritten family chart (IMG_0783)"

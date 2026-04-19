@@ -4,7 +4,7 @@ name: "Carl Johann Wilhelm Schwartz"
 born: 1866-07-11
 died: unknown
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

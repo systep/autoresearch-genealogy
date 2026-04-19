@@ -4,7 +4,7 @@ name: "Chaya Sarah Shneuri"
 born: ~1801
 died: 1846-03-09
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

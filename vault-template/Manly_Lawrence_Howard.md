@@ -4,7 +4,7 @@ name: "Manly Lawrence Howard"
 born: 1919-03-21
 died: 2009-11-16
 family: "Howard"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

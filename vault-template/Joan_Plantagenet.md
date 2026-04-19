@@ -4,7 +4,7 @@ name: "Joan Plantagenet"
 born: 1272-04
 died: 1307-04-23
 family: "Plantagenet"
-confidence: moderate
+confidence: high
 sources:
   - "Pedigree Charts (1-46.pdf)"
   - "Wikipedia: Joan of Acre"

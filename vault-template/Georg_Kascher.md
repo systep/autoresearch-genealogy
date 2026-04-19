@@ -4,7 +4,7 @@ name: "Georg Kascher"
 born: 1792-03
 died: unknown
 family: "Kascher"
-confidence: strong
+confidence: high
 sources:
   - "Waldhutten church certificate 'VATER' (Tier 1, 10 Feb 1938, Pastor A. Bogeschdorfer)"
   - "MyHeritage family tree (Tier 3, unverified)"

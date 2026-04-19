@@ -10,6 +10,7 @@ sources:
   - "FamilySearch Family Tree (record 40001:1017009696)"
 created: 2026-04-10
 tags: [genealogy, segal, person, vitebsk, belarus, chabad]
+confidence: moderate
 ---
 
 # Yehuda Leib halevi Segal

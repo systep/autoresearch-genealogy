@@ -4,7 +4,7 @@ name: "Balthasar Hans Brecht"
 born: 1636-08-24
 died: 1703-09-09
 family: "Brecht"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage)"
   - "WikiTree Brecht-11"

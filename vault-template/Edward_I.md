@@ -4,7 +4,7 @@ name: "Edward I"
 born: 1239-06-17
 died: 1307-07-07
 family: "Plantagenet"
-confidence: moderate
+confidence: high
 sources:
   - "Pedigree Charts (1-46.pdf)"
   - "Wikipedia: Edward I of England"

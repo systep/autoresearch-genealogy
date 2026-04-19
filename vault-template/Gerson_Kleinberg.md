@@ -4,7 +4,7 @@ name: "Gerson Kleinberg"
 born: ~1807
 died: 1867
 family: "Kleinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

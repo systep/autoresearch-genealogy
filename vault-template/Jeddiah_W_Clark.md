@@ -4,7 +4,7 @@ name: "Jeddiah W. Clark"
 born: 1801-03-05
 died: 1860-01-27
 family: "Clark"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6 (MyHeritage)"
   - "rootsweb sc12164 (Tier 3)"

@@ -4,7 +4,7 @@ name: "Mendel Sheinberg"
 born: ~1877
 died: 1952-07-10
 family: "Sheinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Gilley Elizabeth Baldwin"
 born: 1805-08-19
 died: 1886-05-25
 family: "Baldwin"
-confidence: moderate
+confidence: high
 sources:
   - "MyHeritage GEDCOM (Tier 3, unverified)"
   - "WikiTree Baldwin-2330 (Tier 3)"

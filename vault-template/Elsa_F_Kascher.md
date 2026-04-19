@@ -4,7 +4,7 @@ name: "Elsa F Kascher"
 born: 1933-05-22
 died: unknown
 family: "Kascher"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

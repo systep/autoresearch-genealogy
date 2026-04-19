@@ -4,7 +4,7 @@ name: "Richard Thomas Mosley"
 born: 1879-05-01
 died: 1952-03
 family: "Mosley"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

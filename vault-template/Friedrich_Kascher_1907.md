@@ -10,6 +10,7 @@ sources:
   - "Youngstown Vindicator obituary of Michael Kascher Sr. (1935)"
 created: 2026-04-13
 tags: [genealogy, kascher, person, transylvania, ohio, transylvanian-saxon]
+confidence: moderate
 ---
 
 # Friedrich Kascher (1907)

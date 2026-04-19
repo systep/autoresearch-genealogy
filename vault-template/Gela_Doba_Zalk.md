@@ -4,7 +4,7 @@ name: "Gela Doba Zalk"
 born: ~1835
 died: 
 family: "Zalk"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

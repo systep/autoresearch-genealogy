@@ -4,7 +4,7 @@ name: "Mary Emma Bright"
 born: 1868-06-21
 died: 1956-02-03
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

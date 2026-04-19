@@ -4,7 +4,7 @@ name: "Martin Konnerth"
 born: 1823-05-30
 died: 1884-08-16
 family: "Konnerth"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

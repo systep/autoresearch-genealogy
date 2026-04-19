@@ -10,6 +10,7 @@ sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (referenced in name of @I501262@ as 'gd.son Of Hai Gaon')"
 created: 2026-04-10
 tags: [genealogy, gaon, person, davidic-descent]
+confidence: moderate
 ---
 
 # Hai Gaon (Hai ben Sherira)

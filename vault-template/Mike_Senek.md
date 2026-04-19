@@ -4,7 +4,7 @@ name: "Mike Senek"
 born: 1907
 died: 1970-06-01
 family: "Senek"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Baruch Shalom Schneerson"
 born: ~1805
 died: ~1869
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

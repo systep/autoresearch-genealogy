@@ -4,7 +4,7 @@ name: "Rosa Schwartz"
 born: 1877-05-11
 died: 1959-06-29
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

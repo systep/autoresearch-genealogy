@@ -4,7 +4,7 @@ name: "Jessie Cox"
 born: 1770
 died: 1822-08-05
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

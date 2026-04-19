@@ -4,7 +4,7 @@ name: "Max (Movsha) Zalmanson"
 born: ~1888
 died: ~1937
 family: "Zalmanson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

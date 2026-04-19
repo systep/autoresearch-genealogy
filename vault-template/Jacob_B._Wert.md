@@ -4,7 +4,7 @@ name: "Jacob B. Wert"
 born: 1846-04-15
 died: unknown
 family: "Wert"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Max Herbert Kleinberg"
 born: 1888-08-24
 died: 1958-02-04
 family: "Kleinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

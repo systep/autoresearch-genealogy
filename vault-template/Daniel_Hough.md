@@ -4,7 +4,7 @@ name: "Daniel Hough"
 born: 1693-06-14
 died: ~1755
 family: "Hough"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Hough-149 (Tier 3)"
   - "MyHeritage family tree (Tier 3, unverified)"

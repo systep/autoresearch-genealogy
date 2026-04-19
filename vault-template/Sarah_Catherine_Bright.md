@@ -4,7 +4,7 @@ name: "Sarah Catherine Bright"
 born: 1768-11-19
 died: 1848-03-17
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

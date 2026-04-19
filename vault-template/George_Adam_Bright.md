@@ -4,8 +4,9 @@ name: "George Adam Bright"
 born: 1731-02-09
 died: 1769
 family: "Bright"
-confidence: speculative
+confidence: moderate
 sources:
+  - "Geni.com profile; Find a Grave memorials #124244091 and #285400993"
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18
 tags: [genealogy, bright, person, pennsylvania]

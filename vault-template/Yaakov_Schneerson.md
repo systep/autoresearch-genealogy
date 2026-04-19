@@ -4,7 +4,7 @@ name: "Yaakov Schneerson (Rebbe in Orsha)"
 born: ~1808
 died: 1876-06-21
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Clara Friedrich"
 born: 1890-07
 died: 1893-08-13
 family: "Friedrich"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

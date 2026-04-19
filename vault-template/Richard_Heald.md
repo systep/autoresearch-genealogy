@@ -4,7 +4,7 @@ name: "Richard Heald"
 born: 1574
 died: 
 family: "Heald"
-confidence: stub
+confidence: moderate
 sources:
   - "GEDCOM import (MyHeritage, Tier 3)"
   - "WikiTree Heald genealogy index (Tier 3)"

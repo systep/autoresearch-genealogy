@@ -4,7 +4,7 @@ name: "Samuel Tennis Wert"
 born: 1852-02-08
 died: 1921-07-25
 family: "Wert"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

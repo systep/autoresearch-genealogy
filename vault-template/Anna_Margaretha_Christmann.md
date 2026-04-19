@@ -9,6 +9,7 @@ sources:
   - "GEDCOM f266i6 (MyHeritage/FamilySearch/Geni)"
 created: 2026-04-10
 tags: [genealogy, Christmann, person, Brecht]
+confidence: low
 ---
 
 # Anna Margaretha Christmann

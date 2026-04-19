@@ -4,7 +4,7 @@ name: "Rabbi Judah Loew ben Bezalel"
 born: 1510-04-10
 died: 1609-08-22
 family: "Loew"
-confidence: moderate
+confidence: high
 sources:
   - "Wikipedia (Judah Loew ben Bezalel)"
   - "Geni.com"

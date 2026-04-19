@@ -4,7 +4,7 @@ name: "Louis F Schwartz"
 born: 1889-07-20
 died: 1951-09-10
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

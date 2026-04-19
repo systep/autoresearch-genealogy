@@ -4,7 +4,7 @@ name: "Hermon Schlack Schwartz"
 born: 1870-06-22
 died: 1913-06-08
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

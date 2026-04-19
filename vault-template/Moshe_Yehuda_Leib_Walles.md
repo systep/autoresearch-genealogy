@@ -4,7 +4,7 @@ name: "Moshe Yehuda Leib Walles"
 born: 1807-01-05
 died: unknown
 family: "Walles"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

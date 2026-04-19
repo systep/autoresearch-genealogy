@@ -4,7 +4,7 @@ name: "Shalom Shachne Altschuler (born Schneerson)"
 born: 1772-09-18
 died: ~1827
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

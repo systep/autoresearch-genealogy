@@ -4,7 +4,7 @@ name: "Mordko Ber (Dov) Markiel"
 born: ~1830-1840
 died:
 family: "Markel"
-confidence: strong
+confidence: high
 sources:
   - "AGAD Warsaw, Fond 424, File 103, Record 34, Scan 52 (Sambor Jewish Marriages 1891-1897, Tier 1; father of groom in son Hersch's 1894 marriage)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500078)"

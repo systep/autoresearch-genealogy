@@ -4,7 +4,7 @@ name: "Carol S. Salmanson"
 born: ~1954
 died: 
 family: "Salmanson"
-confidence: speculative
+confidence: moderate
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
   - "Find a Grave #231959788 (Thelma Markel memorial)"

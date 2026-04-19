@@ -4,7 +4,7 @@ name: "John Washington Cox"
 born: 1803-05-31
 died: 1871-05-22
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

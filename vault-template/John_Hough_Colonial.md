@@ -4,7 +4,7 @@ name: "John Hough"
 born: 1642
 died: 1659
 family: "Hough"
-confidence: speculative
+confidence: moderate
 sources:
   - "GEDCOM import (MyHeritage, Tier 3)"
   - "WikiTree Hough-146 (Tier 3, records different dates)"

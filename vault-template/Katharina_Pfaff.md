@@ -4,7 +4,7 @@ name: "Katharina Pfaff"
 born: 1871-10-08
 died: unknown
 family: "Pfaff"
-confidence: strong
+confidence: high
 sources:
   - "Petersdorf church register Entry #7 (Tier 1, certified 25.6.39 by Brandsch)"
   - "MyHeritage GEDCOM (Tier 3)"

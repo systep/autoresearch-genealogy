@@ -4,7 +4,7 @@ name: "Minna Anna Friedrich"
 born: 1888-06-11
 died: unknown
 family: "Friedrich"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

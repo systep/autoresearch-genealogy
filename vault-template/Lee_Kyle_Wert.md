@@ -4,7 +4,7 @@ name: "Lee Kyle Wert"
 born: 1887-07-18
 died: 1958-08-31
 family: "Wert"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

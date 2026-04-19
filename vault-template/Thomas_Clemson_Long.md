@@ -4,7 +4,7 @@ name: "Thomas Clemson Long"
 born: 1890-02-04
 died: 1891-01-01
 family: "Long"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

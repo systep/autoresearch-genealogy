@@ -10,6 +10,7 @@ sources:
   - "Wikipedia: Samuel ibn Naghrela (https://en.wikipedia.org/wiki/Samuel_ibn_Naghrela)"
 created: 2026-04-10
 tags: [genealogy, ha-nagid, person, davidic-descent, sephardic]
+confidence: moderate
 ---
 
 # Samuel ibn Naghrela (Samuel ha-Nagid)

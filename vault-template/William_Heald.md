@@ -4,7 +4,7 @@ name: "William Heald"
 born: 1596-01-18
 died: 
 family: "Heald"
-confidence: stub
+confidence: moderate
 sources:
   - "GEDCOM import (MyHeritage Smart Match, Tier 3)"
   - "WikiTree Heald genealogy index (Tier 3)"

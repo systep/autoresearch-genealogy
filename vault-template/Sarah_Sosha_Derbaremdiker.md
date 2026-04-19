@@ -4,7 +4,7 @@ name: "Sarah Sosha Derbaremdiker"
 born: 1720
 died: 1770
 family: "Derbaremdiker"
-confidence: moderate
+confidence: high
 sources:
   - "MyHeritage GEDCOM (Salmanson Family Tree), Person Discovery, 3 Aug 2024"
   - "Geni.com profile: Sara Sosha Derbaremdiker (record 40000:116757527)"

@@ -4,7 +4,7 @@ name: "Jesse W Bright"
 born: 1777-11-13
 died: 1857-03-19
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

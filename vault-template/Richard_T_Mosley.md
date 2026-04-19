@@ -4,7 +4,7 @@ name: "Richard T Mosley"
 born: 1910-05-11
 died: 1998-05-13
 family: "Mosley"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

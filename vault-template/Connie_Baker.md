@@ -4,7 +4,7 @@ name: "Connie Baker"
 born: 1760
 died: unknown
 family: "Baker"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree (Tier 3)"
   - "Cox Family History Project (Tier 2)"

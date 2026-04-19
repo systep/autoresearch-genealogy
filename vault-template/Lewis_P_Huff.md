@@ -4,7 +4,7 @@ name: "Lewis P Huff"
 born: 1803-07-22
 died: 1873-02-24
 family: "Huff"
-confidence: moderate
+confidence: high
 sources:
   - "MyHeritage family tree (Tier 3, unverified)"
   - "Geni World Family Tree (via MyHeritage Smart Match)"

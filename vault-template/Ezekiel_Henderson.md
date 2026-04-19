@@ -4,7 +4,7 @@ name: "Ezekiel Henderson"
 born: 1763
 died: 1846-11-02
 family: "Henderson"
-confidence: strong
+confidence: high
 sources:
   - "WikiTree Henderson-1855"
   - "RevWarApps Pension S6994"

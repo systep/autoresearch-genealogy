@@ -4,7 +4,7 @@ name: "Mary Elizabeth Bright"
 born: 1921-06-05
 died:
 family: "Bright"
-confidence: strong
+confidence: high
 sources:
   - "MyHeritage (1930 + 1950 US Census)"
   - "Family Tree compiled data"

@@ -4,7 +4,7 @@ name: "Leonard Irving Salmanson"
 born: 1910-06-21
 died: 1975-05-15
 family: "Salmanson"
-confidence: strong
+confidence: high
 sources:
   - "Find a Grave #231959694"
   - "Samuel Salmanson obituary (2004)"

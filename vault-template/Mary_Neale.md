@@ -4,7 +4,7 @@ name: "Mary Neale"
 born: 
 died: 
 family: "Neale"
-confidence: stub
+confidence: low
 sources:
   - "User-provided data"
 created: 2026-04-10

@@ -4,7 +4,7 @@ name: "Morris Solmonson"
 born: 1891-12-24
 died: ~1961
 family: "Solmonson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

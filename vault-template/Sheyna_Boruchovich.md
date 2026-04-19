@@ -4,7 +4,7 @@ name: "Sheyna Boruchovich"
 born: 1773
 died: 1855
 family: "Boruchovich"
-confidence: strong
+confidence: high
 sources:
   - "Wikipedia (Dovber Schneuri)"
   - "Geni.com"

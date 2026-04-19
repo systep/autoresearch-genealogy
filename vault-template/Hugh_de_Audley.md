@@ -4,7 +4,7 @@ name: "Hugh de Audley"
 born: 1289
 died: 1347
 family: "de Audley"
-confidence: moderate
+confidence: high
 sources:
   - "Pedigree Charts (1-46.pdf)"
   - "Wikipedia: Hugh de Audley, 1st Earl of Gloucester"

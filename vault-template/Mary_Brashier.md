@@ -4,7 +4,7 @@ name: "Mary (Eliza) Brashier"
 born: 1806
 died: between 1841 and 1906
 family: "Brashier"
-confidence: speculative
+confidence: high
 sources:
   - "MyHeritage GEDCOM (Tier 3, unverified)"
   - "WikiTree (Huff-142) (Tier 3)"

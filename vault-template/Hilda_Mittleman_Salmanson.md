@@ -4,7 +4,7 @@ name: "Hilda (Mittleman) Salmanson"
 born: 1916
 died: 2016-01
 family: "Mittleman"
-confidence: strong
+confidence: high
 sources:
   - "Legacy.com obituary (Boston Globe)"
   - "Jewish Rhode Island obituary"

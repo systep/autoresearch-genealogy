@@ -4,7 +4,7 @@ name: "Yoseph Luria"
 born: "c. 1210 CE (estimated)"
 died: "unknown"
 family: "Luria"
-confidence: speculative
+confidence: low
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (@I501148@)"
 created: 2026-04-10

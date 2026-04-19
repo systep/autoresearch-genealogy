@@ -4,7 +4,7 @@ name: "Michael C Wert"
 born: 1848-01-05
 died: 1888-01-23
 family: "Wert"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

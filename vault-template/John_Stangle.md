@@ -9,6 +9,7 @@ sources:
   - "IMG_0789.jpg (handwritten family notes, single source)"
 created: 2026-04-10
 tags: [genealogy, stangle, person, england, south-carolina, german, colonial]
+confidence: low
 ---
 
 # John Stangle

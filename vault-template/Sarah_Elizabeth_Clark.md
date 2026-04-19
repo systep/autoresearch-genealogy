@@ -4,7 +4,7 @@ name: "Sarah Elizabeth Clark"
 born: 1836-08-13
 died: 1879-07-05
 family: "Clark"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage)"
   - "Find a Grave #8304975"

@@ -4,7 +4,7 @@ name: "Bernhard Friedrich"
 born: 1861
 died: ~1905
 family: "Friedrich"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

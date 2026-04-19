@@ -4,7 +4,7 @@ name: "James Huff"
 born: 1768-02-14
 died: 1842-05-31
 family: "Huff"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Huff-1775 (Tier 3)"
   - "WikiTree Huff-1770 (Daniel Huff, father, Tier 3)"

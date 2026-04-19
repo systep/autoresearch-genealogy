@@ -4,7 +4,7 @@ name: "Katherina Bohm"
 born: unknown
 died: unknown
 family: "Bohm"
-confidence: stub
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10

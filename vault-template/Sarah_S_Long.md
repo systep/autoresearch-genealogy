@@ -4,7 +4,7 @@ name: "Sarah S. Goldsmith"
 born: ~1800
 died: unknown
 family: "Goldsmith"
-confidence: moderate
+confidence: high
 sources:
   - "Pedigree chart page 6"
   - "MyHeritage GEDCOM (Tier 3)"

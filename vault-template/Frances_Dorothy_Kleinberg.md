@@ -4,7 +4,7 @@ name: "Frances Dorothy Kleinberg"
 born: 1916-03-06
 died: 1998-08
 family: "Kleinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

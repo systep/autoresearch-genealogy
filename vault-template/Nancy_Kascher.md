@@ -4,7 +4,7 @@ name: "Nancy Kascher"
 born: ~1948
 died: unknown
 family: "Kascher"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

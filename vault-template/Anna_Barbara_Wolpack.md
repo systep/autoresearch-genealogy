@@ -9,6 +9,7 @@ sources:
   - "GEDCOM f266i6 (MyHeritage/Geni)"
 created: 2026-04-10
 tags: [genealogy, Wolpack, person, Brecht]
+confidence: low
 ---
 
 # Anna Barbara Wolpack

@@ -4,7 +4,7 @@ name: "Ester Miriam Shneuri"
 born: ~1804
 died: 1819-06-27
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Chaim Avraham Shneuri"
 born: ~1779
 died: ~1844
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

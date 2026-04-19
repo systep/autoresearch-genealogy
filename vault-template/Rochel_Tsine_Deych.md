@@ -4,7 +4,7 @@ name: "Rochel Tsine Deych"
 born: 1861
 died: ~1935-07-26
 family: "Deych"
-confidence: strong
+confidence: high
 sources:
   - "MyHeritage family tree (GEDCOM)"
   - "Geni.com"

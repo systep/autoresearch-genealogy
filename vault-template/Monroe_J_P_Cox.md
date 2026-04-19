@@ -4,7 +4,7 @@ name: "Monroe J P Cox"
 born: 1813
 died: 1895-01-26
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

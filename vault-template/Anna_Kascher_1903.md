@@ -9,6 +9,7 @@ sources:
   - "Waldhutten church certificate 'KINDER' (Tier 1, 10 Feb 1938)"
 created: 2026-04-13
 tags: [genealogy, kascher, person, transylvania, ohio, transylvanian-saxon]
+confidence: low
 ---
 
 # Anna Kascher (1903)

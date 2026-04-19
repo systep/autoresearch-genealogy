@@ -4,7 +4,7 @@ name: "Eleanor Nellie Youngblood"
 born: 1860-06-30
 died: 1944-10-04
 family: "Youngblood"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

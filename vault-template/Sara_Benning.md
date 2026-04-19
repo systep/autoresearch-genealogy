@@ -10,6 +10,7 @@ sources:
   - "GEDCOM f266i6 (MyHeritage/FamilySearch, Tier 3)"
 created: 2026-04-10
 tags: [genealogy, Benning, person, Transylvanian-Saxon]
+confidence: moderate
 ---
 
 # Sara Benning

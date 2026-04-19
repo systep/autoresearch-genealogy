@@ -4,7 +4,7 @@ name: "William Cox Jr."
 born:
 died: 1798
 family: "Cox"
-confidence: strong
+confidence: high
 sources:
   - "WikiTree"
   - "Cox Family History Project"

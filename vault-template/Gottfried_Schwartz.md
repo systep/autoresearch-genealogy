@@ -4,7 +4,7 @@ name: "Gottfried Schwartz"
 born: 1840-07-14
 died: 1918-03-18
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Sidney Kuniansky"
 born: 1916-08-31
 died: 1995-05-28
 family: "Kuniansky"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

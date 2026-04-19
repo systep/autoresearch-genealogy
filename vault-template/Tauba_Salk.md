@@ -4,7 +4,7 @@ name: "Tauba Salk"
 born: 1850
 died: 
 family: "Salk"
-confidence: low
+confidence: moderate
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500041)"
   - "MyHeritage Smart Match"

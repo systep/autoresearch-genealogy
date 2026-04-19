@@ -10,6 +10,7 @@ sources:
   - "WikiTree Brecht-12"
 created: 2026-04-10
 tags: [genealogy, brecht, person, germany, schriesheim, neudorf]
+confidence: moderate
 ---
 
 # Christoph Stoffel Brecht

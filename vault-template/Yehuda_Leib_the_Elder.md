@@ -4,7 +4,7 @@ name: "Yehuda Leib the Elder (HaZakein)"
 born: 1345
 died: 1439
 family: "Loew"
-confidence: speculative
+confidence: high
 sources:
   - "MyHeritage GEDCOM (Salmanson Family Tree), Smart Match, 2 Aug 2024"
   - "Wikipedia: Judah Leib the Elder"

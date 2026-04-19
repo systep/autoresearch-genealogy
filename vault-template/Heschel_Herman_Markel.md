@@ -4,7 +4,7 @@ name: "Heschel Herman Markel"
 born: 1862
 died: 1916
 family: "Markel"
-confidence: strong
+confidence: high
 sources:
   - "AGAD Warsaw, Fond 424, File 103, Record 34, Scan 52 (Sambor Jewish Marriages 1891-1897, Tier 1; marriage to Lea Frei 21 Aug 1894)"
   - "AGAD Warsaw, Fond 424, File 212, Record 65, Page 315 (Sambor Jewish Marriage Banns 1904-1926, Tier 1; his son Mojzesz Majer's 1919 marriage names Hersch as innkeeper, Waniowice)"

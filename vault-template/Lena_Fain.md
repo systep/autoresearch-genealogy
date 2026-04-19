@@ -4,7 +4,7 @@ name: "Lena (Salk) Fain"
 born: ~1885-1895
 died: unknown
 family: "Salk"
-confidence: moderate
+confidence: high
 sources:
   - "Providence Death Certificate No. 584/226, Feb 22, 1925 (Tier 1, primary source): informant on father Abraham Salk's death certificate"
   - "Alfred Fain obituary, Providence Journal, 2005 (Tier 2): names parents as 'Nathan and Lena (Salk) Fain'"

@@ -11,6 +11,7 @@ sources:
 created: 2026-04-10
 updated: 2026-04-13
 tags: [genealogy, deykh, zalmanson, person, rokiskis, lithuania]
+confidence: moderate
 ---
 
 # Zawel Deykh

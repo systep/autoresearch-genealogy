@@ -9,6 +9,7 @@ sources:
   - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
 created: 2026-04-10
 tags: [genealogy, frei, karp, person, galicia, jewish, holocaust, tier-2]
+confidence: low
 ---
 
 # Feiga Frei Karp

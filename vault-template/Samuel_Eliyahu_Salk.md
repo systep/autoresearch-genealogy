@@ -4,7 +4,7 @@ name: "Samuel Eliyahu Salk"
 born: 1884-09-25
 died: 1977-01-15
 family: "Salk"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

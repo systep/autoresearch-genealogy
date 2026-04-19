@@ -4,7 +4,7 @@ name: "Shmaryahu Noah Schneerson"
 born: ~1842
 died: 1923-12-24
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

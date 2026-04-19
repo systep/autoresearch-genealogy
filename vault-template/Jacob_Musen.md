@@ -4,7 +4,7 @@ name: "Jacob Musen"
 born: ~1867
 died: 
 family: "Musen"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

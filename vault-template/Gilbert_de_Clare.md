@@ -4,7 +4,7 @@ name: "Gilbert de Clare"
 born: 1243
 died: 1295
 family: "de Clare"
-confidence: moderate
+confidence: high
 sources:
   - "Pedigree Charts (1-46.pdf)"
   - "Wikipedia: Gilbert de Clare, 6th Earl of Gloucester"

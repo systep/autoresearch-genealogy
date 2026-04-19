@@ -4,7 +4,7 @@ name: "Sarah Edwards"
 born: 1730
 died: 1860-06
 family: "Edwards"
-confidence: stub
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10

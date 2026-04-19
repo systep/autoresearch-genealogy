@@ -4,7 +4,7 @@ name: "Luba Tirtsa Derbaremdiker"
 born: 1781
 died: ~1838
 family: "Derbaremdiker"
-confidence: moderate
+confidence: high
 sources:
   - "Geni.com"
   - "FamilySearch family tree"

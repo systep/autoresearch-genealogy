@@ -4,7 +4,7 @@ name: "Harry Kuniansky"
 born: 1888-06-15
 died: 1933-10-26
 family: "Kuniansky"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

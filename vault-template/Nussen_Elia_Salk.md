@@ -4,7 +4,7 @@ name: "Nussen Elia (Nathan) Salk"
 born: ~1841
 died: ~1904
 family: "Salk"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

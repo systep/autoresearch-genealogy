@@ -4,7 +4,7 @@ name: "Edward C. Schwartz"
 born: 1874-04-29
 died: 1950-05-18
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

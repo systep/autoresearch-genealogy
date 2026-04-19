@@ -4,7 +4,7 @@ name: "Rev. Henry Langford Henderson"
 born: 1812-06-07
 died: 1886-11-18
 family: "Henderson"
-confidence: strong
+confidence: high
 sources:
   - "WikiTree Henderson-12233"
   - "Find a Grave #8302585"

@@ -4,7 +4,7 @@ name: "Keyla Wallis"
 born: ~1822
 died: unknown
 family: "Wallis"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Christiana Bright Brecht"
 born: 1747-08-12
 died: 1835-01-07
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

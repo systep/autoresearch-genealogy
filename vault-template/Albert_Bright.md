@@ -4,7 +4,7 @@ name: "Albert Bright"
 born: 1893-08-19
 died: 1961-09-05
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Pauline Kuniansky"
 born: 1885
 died: 1965
 family: "Kuniansky"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

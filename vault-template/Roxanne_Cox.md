@@ -4,7 +4,7 @@ name: "Roxanne Cox"
 born: 1865-02-21
 died: 1912-12-05
 family: "Cox"
-confidence: strong
+confidence: high
 sources:
   - "MyHeritage family tree"
   - "Handwritten family chart (IMG_0783)"

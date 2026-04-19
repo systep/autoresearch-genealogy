@@ -4,7 +4,7 @@ name: "Israel Noah Schneerson"
 born: ~1815
 died: 1883-04-24
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

@@ -4,7 +4,7 @@ name: "Levi Itzhak Zalmanson"
 born: 1851
 died: ~1907
 family: "Zalmanson"
-confidence: moderate
+confidence: high
 sources:
   - "MyHeritage family tree"
   - "Geni.com profile for Rabbi Levi Yitzchok Zalmanson (1812-1872), family tree lists Srul Mendel and descendants including Levi Itzhak (Tier 3)"

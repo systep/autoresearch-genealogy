@@ -4,7 +4,7 @@ name: "William Culpepper of Hunton"
 born: ~1509
 died: 1559-12-06
 family: "Culpeper"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Culpeper-39 (Tier 3)"
   - "WikiTree Barrett-194 (Cicely Barrett profile, Tier 3)"

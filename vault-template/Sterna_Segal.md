@@ -4,7 +4,7 @@ name: "Sterna Segal"
 born: ~1745
 died: unknown
 family: "Segal"
-confidence: strong
+confidence: high
 sources:
   - "Wikipedia (Shneur Zalman of Liadi)"
   - "Geni.com"

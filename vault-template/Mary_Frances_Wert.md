@@ -4,7 +4,7 @@ name: "Mary Frances Wert"
 born: 1839-08-31
 died: 1905-02-28
 family: "Wert"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

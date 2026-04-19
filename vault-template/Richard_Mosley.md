@@ -4,7 +4,7 @@ name: "Richard Mosley"
 born: 1793
 died: 
 family: "Mosley"
-confidence: stub
+confidence: low
 sources:
   - "GEDCOM import (MyHeritage, Tier 3)"
 created: 2026-04-10

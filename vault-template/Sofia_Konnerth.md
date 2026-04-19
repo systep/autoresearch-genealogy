@@ -4,7 +4,7 @@ name: "Sofia Konnerth"
 born: 1806-10-06
 died: 1880-03-03
 family: "Konnerth"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

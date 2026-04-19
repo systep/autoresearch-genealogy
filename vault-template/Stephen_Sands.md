@@ -4,7 +4,7 @@ name: "Stephen Sands"
 born: 
 died: 
 family: "Sands"
-confidence: stub
+confidence: low
 sources:
   - "User-provided data"
 created: 2026-04-10

@@ -4,7 +4,7 @@ name: "Esther Kleinberg"
 born: 1900-01-25
 died: 1985-03-10
 family: "Kleinberg"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

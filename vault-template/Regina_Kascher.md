@@ -9,6 +9,7 @@ sources:
   - "Waldhutten church certificate 'VATER' (Tier 1, 10 Feb 1938, Pastor A. Bogeschdorfer)"
 created: 2026-04-13
 tags: [genealogy, kascher, person, transylvania, waldhütten, transylvanian-saxon]
+confidence: low
 ---
 
 # Regina Kascher

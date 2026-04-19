@@ -4,7 +4,7 @@ name: "Rachel Shneuri"
 born: ~1770
 died: ~1799
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

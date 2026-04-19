@@ -4,7 +4,7 @@ name: "Rosa Luria"
 born: 1625
 died: 
 family: "Luria"
-confidence: stub
+confidence: moderate
 sources:
   - "Filae Family Trees (record 14100:2436013835, via Sara Katz entry)"
   - "User-provided data"

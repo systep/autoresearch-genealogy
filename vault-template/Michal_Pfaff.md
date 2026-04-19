@@ -4,7 +4,7 @@ name: "Michal Pfaff"
 born: unknown
 died: unknown
 family: "Pfaff"
-confidence: stub
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10

@@ -4,7 +4,7 @@ name: "Agnetha Probstdorfer"
 born: 1847-02-12
 died: 1888-08-20
 family: "Probstdorfer"
-confidence: low
+confidence: high
 sources:
   - "MyHeritage GEDCOM (Tier 3, unverified)"
   - "FamilySearch Family Tree (record 40001:1780350671)"

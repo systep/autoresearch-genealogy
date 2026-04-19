@@ -10,6 +10,7 @@ sources:
   - "WikiTree Baldwin-2342 (Tier 3)"
 created: 2026-04-13
 tags: [genealogy, baldwin, person, oxfordshire, england, chester-county, pennsylvania, quaker, immigrant]
+confidence: moderate
 ---
 
 # Thomas Baldwin

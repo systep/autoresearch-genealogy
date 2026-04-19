@@ -4,7 +4,7 @@ name: "James Louis Long"
 born: 1883-02-11
 died: 1965-01-26
 family: "Long"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

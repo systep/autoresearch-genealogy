@@ -4,7 +4,7 @@ name: "Mollie Drake Pearson"
 born: 1863-08-29
 died: 1904-11-28
 family: "Drake"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

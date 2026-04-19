@@ -4,7 +4,7 @@ name: "James Cox"
 born: 1778
 died: 1853-05-22
 family: "Cox"
-confidence: strong
+confidence: high
 sources:
   - "WikiTree Cox-14020"
   - "hmdb.org Historical Marker #168369"

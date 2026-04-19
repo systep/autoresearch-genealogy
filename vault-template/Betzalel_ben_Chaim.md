@@ -4,7 +4,7 @@ name: "Betzalel ben Chaim Loew"
 born: 1480
 died: 1539
 family: "Loew"
-confidence: moderate
+confidence: high
 sources:
   - "MyHeritage GEDCOM (Salmanson Family Tree), Smart Match, 2 Aug 2024"
   - "Geni.com profile: Betzalel ben Chaim, [Maharal's father] (c.1480 - c.1550)"

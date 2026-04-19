@@ -4,7 +4,7 @@ name: "Willis Henrietta Youngblood"
 born: 1863-11-23
 died: 1952-06-28
 family: "Youngblood"
-confidence: moderate
+confidence: high
 sources:
   - "MyHeritage family tree (Tier 3, unverified)"
   - "FamilySearch Family Tree (via MyHeritage)"

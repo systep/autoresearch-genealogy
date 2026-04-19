@@ -4,7 +4,7 @@ name: "Sophie Friedrich"
 born: 1889-08-15
 died: 1960-11
 family: "Friedrich"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

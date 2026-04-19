@@ -4,8 +4,9 @@ name: "Nicholas Cox"
 born: 1755
 died: 1829-03-16
 family: "Cox"
-confidence: speculative
+confidence: moderate
 sources:
+  - "WikiTree profile Cox-5313"
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18
 tags: [genealogy, cox, person, north-carolina, ohio]

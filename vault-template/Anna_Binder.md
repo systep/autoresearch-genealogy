@@ -4,7 +4,7 @@ name: "Anna Binder"
 born: 1868-04-01
 died: 1915-10-18
 family: "Binder"
-confidence: strong
+confidence: high
 sources:
   - "Waldhutten church certificate 'MUTTER' (Tier 1, 4 April 1938, Pastor A. Bogeschdorfer)"
   - "Waldhutten church certificate 'KINDER' (Tier 1, 10 Feb 1938)"

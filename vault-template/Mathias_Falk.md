@@ -4,7 +4,7 @@ name: "Mathias Falk"
 born: 1867-06-03
 died: 1934
 family: "Falk"
-confidence: strong
+confidence: high
 sources:
   - "Petersdorf church register Entry #6 (Tier 1, certified 25.6.39 by Brandsch)"
   - "Fan chart (06.pdf, Kascher Family Album)"

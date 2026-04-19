@@ -4,7 +4,7 @@ name: "Sidney Rodbell"
 born: 1946-07-12
 died: unknown
 family: "Rodbell"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

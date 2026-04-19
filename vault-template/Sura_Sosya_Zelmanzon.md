@@ -4,7 +4,7 @@ name: "Sura Sosya Zelmanzon"
 born: ~1794
 died: ~1858
 family: "Zelmanzon"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

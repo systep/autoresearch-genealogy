@@ -4,7 +4,7 @@ name: "Samuel Salmanson"
 born: 1912-06-24
 died: 2004-10-21
 family: "Salmanson"
-confidence: strong
+confidence: high
 sources:
   - "Palm Beach Post obituary (2004)"
   - "Find a Grave (family memorials)"

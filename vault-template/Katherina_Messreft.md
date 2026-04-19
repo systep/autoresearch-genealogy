@@ -4,7 +4,7 @@ name: "Katherina Messreft"
 born: unknown
 died: unknown
 family: "Messreft"
-confidence: stub
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10

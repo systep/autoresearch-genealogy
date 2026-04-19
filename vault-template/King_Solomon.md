@@ -4,7 +4,7 @@ name: "Solomon (Jedidiah), King of Israel"
 born: "c. 990 BCE (traditional)"
 died: "c. 931 BCE (traditional)"
 family: "House of David"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (@I502276@)"
   - "Wikipedia: Solomon (https://en.wikipedia.org/wiki/Solomon)"

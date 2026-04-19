@@ -4,7 +4,7 @@ name: "Mordechai Dov Ber Twersky-Schneerson"
 born: 1847-09-19
 died: 1920-04-04
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

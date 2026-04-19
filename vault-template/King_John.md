@@ -4,7 +4,7 @@ name: "King John"
 born: 1166-12-24
 died: 1216-10-19
 family: "Plantagenet"
-confidence: moderate
+confidence: high
 sources:
   - "Pedigree Charts (1-46.pdf)"
   - "Wikipedia: John, King of England"

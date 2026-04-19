@@ -4,7 +4,7 @@ name: "Leonard Daniel Salmanson"
 born: 1982-01-27
 died: 
 family: "Salmanson"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500001)"
   - "US Public Records Index (MyHeritage record 10220:678722934)"

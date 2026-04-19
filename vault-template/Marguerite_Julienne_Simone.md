@@ -4,7 +4,7 @@ name: "Marguerite Julienne Simone"
 born: 1708-03-21
 died: 1778-03-21
 family: "Simone"
-confidence: low
+confidence: high
 sources:
   - "MyHeritage GEDCOM (Tier 3, unverified)"
   - "Geni World Family Tree (record 40000:45903497)"

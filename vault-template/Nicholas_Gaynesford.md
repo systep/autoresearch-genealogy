@@ -4,7 +4,7 @@ name: "Nicholas Gaynesford"
 born: ~1427
 died: 1498
 family: "Gainsford"
-confidence: moderate
+confidence: high
 sources:
   - "Wikipedia: Nicholas Gaynesford (Tier 2)"
   - "WikiTree Gaynsford-8 (Tier 3)"

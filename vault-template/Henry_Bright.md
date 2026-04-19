@@ -4,8 +4,9 @@ name: "Henry Bright"
 born: 1760-11-21
 died: 1856-12-18
 family: "Bright"
-confidence: speculative
+confidence: moderate
 sources:
+  - "FamilySearch; published genealogy (Harry W. Mills, Descendants of Henry Bright)"
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18
 tags: [genealogy, bright, person, kentucky, pennsylvania]

@@ -4,7 +4,7 @@ name: "Mary Rhodes"
 born: ~1700
 died: unknown
 family: "Rhodes"
-confidence: low
+confidence: moderate
 sources:
   - "MyHeritage GEDCOM (Tier 3, unverified)"
   - "User research notes"

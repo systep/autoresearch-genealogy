@@ -4,7 +4,7 @@ name: "Carl Gottfried Schwartz"
 born: 1869-02-07
 died: 1869-02-28
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

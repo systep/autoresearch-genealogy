@@ -4,7 +4,7 @@ name: "Yekutiel Zalman Wallis (Volis)"
 born: ~1794
 died: ~1872
 family: "Zalmanson"
-confidence: strong
+confidence: high
 sources:
   - "MyHeritage family tree"
   - "Geni.com (multiple profiles)"

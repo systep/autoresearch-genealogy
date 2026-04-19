@@ -4,7 +4,7 @@ name: "Mary Elizabeth Huff"
 born: 1838-06-21
 died: 1922-08-06
 family: "Huff"
-confidence: strong
+confidence: high
 sources:
   - "Headstone (Standing Springs area)"
   - "MyHeritage family tree"

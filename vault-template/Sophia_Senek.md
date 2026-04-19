@@ -4,7 +4,7 @@ name: "Sophia Senek"
 born: 1905-08-20
 died: 2000-04-26
 family: "Senek"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

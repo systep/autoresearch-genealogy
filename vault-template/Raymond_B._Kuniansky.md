@@ -4,7 +4,7 @@ name: "Raymond B. Kuniansky"
 born: 1922-02-21
 died: 1963-03-04
 family: "Kuniansky"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

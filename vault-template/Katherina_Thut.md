@@ -4,7 +4,7 @@ name: "Katherina Thut"
 born: unknown
 died: unknown
 family: "Thut"
-confidence: stub
+confidence: low
 sources:
   - "GEDCOM f266i6 (MyHeritage)"
 created: 2026-04-10

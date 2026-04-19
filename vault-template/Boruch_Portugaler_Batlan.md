@@ -4,7 +4,7 @@ name: "Boruch Portugaler (Batlan)"
 born: 1670
 died: ""
 family: "Portugaler"
-confidence: moderate
+confidence: high
 sources:
   - "MyHeritage GEDCOM (Salmanson Family Tree), Record Match, 23 Aug 2024"
   - "Geni.com profile: Boruch Portugaler (Batlan) (record 40000:8202715)"

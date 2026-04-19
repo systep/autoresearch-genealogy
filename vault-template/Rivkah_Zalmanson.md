@@ -4,7 +4,7 @@ name: "Rivkah Zalmanson"
 born: ~1854
 died: 1933-05-22
 family: "Zalmanson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

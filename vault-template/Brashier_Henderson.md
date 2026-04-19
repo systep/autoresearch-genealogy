@@ -4,7 +4,7 @@ name: "Brashier Henderson"
 born: 1790-05-10
 died: ~1847
 family: "Henderson"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Henderson-6197 (Tier 3)"
   - "Ezekiel Henderson person file"

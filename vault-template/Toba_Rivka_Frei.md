@@ -4,7 +4,7 @@ name: "Toba Rivka Frei"
 born:
 died:
 family: "Frei"
-confidence: moderate
+confidence: high
 sources:
   - "AGAD Warsaw, Fond 424, File 103, Record 34, Scan 52 (Sambor Jewish Marriages 1891-1897, Tier 1; named as mother-of-bride Taube FREI of Waniowice on daughter Lea's 21 Aug 1894 marriage)"
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500082)"

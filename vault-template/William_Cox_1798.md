@@ -4,7 +4,7 @@ name: "William Cox"
 born: 1798
 died: 1862
 family: "Cox"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage)"
   - "Geni World Family Tree (record 40000:191690067, via Thomas Manning Cox entry)"

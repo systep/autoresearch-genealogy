@@ -4,7 +4,7 @@ name: "Caroline Schwartz"
 born: 1872-12-18
 died: 1953-08-05
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

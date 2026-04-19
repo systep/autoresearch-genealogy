@@ -4,7 +4,7 @@ name: "Simon I. Wolk"
 born: 1870-12-25
 died: 1940-07-23
 family: "Wolk"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

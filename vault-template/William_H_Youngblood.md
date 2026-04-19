@@ -4,7 +4,7 @@ name: "William Henry Youngblood"
 born: 1828-05
 died: 1916-03-24
 family: "Youngblood"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM import (MyHeritage, Tier 3)"
   - "FamilySearch Family Tree (Tier 3, via MyHeritage match)"

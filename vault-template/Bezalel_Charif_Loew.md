@@ -10,6 +10,7 @@ sources:
   - "MyHeritage family tree (GEDCOM)"
 created: 2026-04-10
 tags: [genealogy, loew, maharal, chabad, person, rabbi]
+confidence: moderate
 ---
 
 # Bezalel Charif Loew

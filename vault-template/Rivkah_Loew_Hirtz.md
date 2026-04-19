@@ -10,6 +10,7 @@ sources:
   - "MyHeritage Smart Matches (profiles 1500037, 1500355)"
 created: 2026-04-10
 tags: [genealogy, loew, hirtz, person, chabad, liozna, belarus]
+confidence: moderate
 ---
 
 # Rivkah Loew Hirtz

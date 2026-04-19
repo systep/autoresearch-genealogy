@@ -4,7 +4,7 @@ name: "Martha E. Salmanson Corin"
 born: 1918-07-01
 died: 2015-09-26
 family: "Salmanson"
-confidence: strong
+confidence: high
 sources:
   - "Jewish Rhode Island obituary (2015)"
   - "Find a Grave (family memorials)"

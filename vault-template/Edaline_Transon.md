@@ -4,7 +4,7 @@ name: "Edaline L. Transon"
 born: 
 died: 
 family: "Transon"
-confidence: stub
+confidence: low
 sources:
   - "User-provided data"
 created: 2026-04-10

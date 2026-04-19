@@ -4,7 +4,7 @@ name: "Adele Kuniansky"
 born: 1916-01-23
 died: 2008-02-07
 family: "Kuniansky"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

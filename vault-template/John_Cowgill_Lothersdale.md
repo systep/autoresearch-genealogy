@@ -10,6 +10,7 @@ sources:
   - "Carleton in Craven Parish Registers, Yorkshire (Tier 1, parish records)"
 created: 2026-04-12
 tags: [genealogy, cowgill, person, yorkshire, england, lothersdale, carleton-in-craven]
+confidence: moderate
 ---
 
 # John Cowgill "of Lothersdale"

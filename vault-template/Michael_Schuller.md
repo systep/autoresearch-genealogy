@@ -4,7 +4,7 @@ name: "Michael Schuller"
 born: 1826-11-16
 died: 1876-05-05
 family: "Schuller"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

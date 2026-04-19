@@ -4,7 +4,7 @@ name: "Augustine Schwartz"
 born: 1867-08-09
 died: 1869-05-10
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

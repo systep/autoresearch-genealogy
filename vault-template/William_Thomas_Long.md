@@ -4,7 +4,7 @@ name: "William Thomas Long"
 born: 1825-11-25
 died: 1887
 family: "Long"
-confidence: strong
+confidence: high
 sources:
   - "MyHeritage family tree"
   - "Headstone (Standing Springs area)"

@@ -4,7 +4,7 @@ name: "Gertrude Gittel Solmonson"
 born: ~1878
 died: 1973-10
 family: "Solmonson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

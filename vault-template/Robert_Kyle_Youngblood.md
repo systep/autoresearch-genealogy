@@ -4,7 +4,7 @@ name: "Robert Kyle Youngblood"
 born: 1856
 died: 1943-02-12
 family: "Youngblood"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

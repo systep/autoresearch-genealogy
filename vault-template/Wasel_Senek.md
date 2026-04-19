@@ -4,7 +4,7 @@ name: "Wasel Senek"
 born: 1881
 died: unknown
 family: "Senek"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

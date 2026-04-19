@@ -4,7 +4,7 @@ name: "John Stackhouse"
 born: 1559
 died: 1663-11-05
 family: "Stackhouse"
-confidence: stub
+confidence: high
 sources:
   - "GEDCOM import (MyHeritage, Tier 3)"
   - "WikiTree Stackhouse-57 (Tier 3)"

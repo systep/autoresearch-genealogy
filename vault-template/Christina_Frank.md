@@ -9,6 +9,7 @@ sources:
   - "GEDCOM f266i6 (MyHeritage/FamilySearch/Geni)"
 created: 2026-04-10
 tags: [genealogy, Frank, person, Hoffman, Brecht]
+confidence: low
 ---
 
 # Christina Frank

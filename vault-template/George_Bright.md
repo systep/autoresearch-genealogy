@@ -4,7 +4,7 @@ name: "George Bright"
 born: 1776-11-30
 died: 1829-04-04
 family: "Bright"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

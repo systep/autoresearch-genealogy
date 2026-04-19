@@ -4,7 +4,7 @@ name: "Eliyahu (Elijah) Salk"
 born: ~1820
 died: ~1875
 family: "Salk"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

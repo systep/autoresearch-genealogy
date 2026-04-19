@@ -4,7 +4,7 @@ name: "Rabbi Levi Yitzchak of Berditchev"
 born: 1740-09-17
 died: 1809-10-05
 family: "Derbaremdiker"
-confidence: strong
+confidence: high
 sources:
   - "MyHeritage GEDCOM (Salmanson Family Tree), Smart Match, 3 Aug 2024"
   - "Wikipedia: Levi Yitzchok of Berditchev"

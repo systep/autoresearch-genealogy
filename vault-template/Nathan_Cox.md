@@ -4,7 +4,7 @@ name: "Nathan Cox"
 born: 1762-10-30
 died: 1842-10-10
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

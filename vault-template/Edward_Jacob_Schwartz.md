@@ -4,7 +4,7 @@ name: "Edward Jacob Schwartz"
 born: 1893-01-16
 died: 1953-11-10
 family: "Schwartz"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

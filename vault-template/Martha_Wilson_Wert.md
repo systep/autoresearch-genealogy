@@ -4,7 +4,7 @@ name: "Martha Wilson Wert"
 born: 1840-11-18
 died: 1906
 family: "Wert"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

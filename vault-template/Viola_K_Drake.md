@@ -4,7 +4,7 @@ name: "Viola K Drake"
 born: 1892-03
 died: unknown
 family: "Drake"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

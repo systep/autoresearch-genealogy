@@ -4,7 +4,7 @@ name: "William L Cox"
 born: 1860-09-12
 died: 1879-08-14
 family: "Cox"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

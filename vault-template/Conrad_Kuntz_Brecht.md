@@ -4,7 +4,7 @@ name: "Conrad Kuntz Brecht"
 born: ~1563
 died: ~1612
 family: "Brecht"
-confidence: moderate
+confidence: high
 sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage)"
   - "WikiTree Brecht-13"

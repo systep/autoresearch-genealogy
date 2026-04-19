@@ -4,7 +4,7 @@ name: "Eli Berry Clark"
 born: 1825-07-31
 died: 1895-11-26
 family: "Clark"
-confidence: moderate
+confidence: high
 sources:
   - "MyHeritage GEDCOM (Tier 3)"
   - "WikiTree Henderson-12233 (indirect, Tier 3)"

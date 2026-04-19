@@ -4,7 +4,7 @@ name: "James Youngblood"
 born: 
 died: 
 family: "Youngblood"
-confidence: speculative
+confidence: moderate
 sources:
   - "GEDCOM import (MyHeritage Smart Match, Tier 3)"
   - "WikiTree Youngblood-746 (Tier 3)"

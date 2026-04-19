@@ -4,7 +4,7 @@ name: "Eli Baldwin"
 born: ~1775
 died: 1840-01-18
 family: "Baldwin"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Baldwin-2330 (Tier 3)"
   - "Geni.com profile 6000000105789453937 (Tier 3)"

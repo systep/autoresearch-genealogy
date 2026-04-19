@@ -4,7 +4,7 @@ name: "Anne Aucher"
 born: ~1462
 died: ~1532
 family: "Aucher"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Aucher-1 (Tier 3)"
   - "Geni.com profile Anne Culpeper nee Aucher (Tier 3)"

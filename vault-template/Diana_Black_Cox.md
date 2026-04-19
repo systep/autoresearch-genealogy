@@ -10,6 +10,7 @@ sources:
   - "User-provided data"
 created: 2026-04-10
 tags: [genealogy, black, cox, person, north-carolina]
+confidence: moderate
 ---
 
 # Diana Black Cox

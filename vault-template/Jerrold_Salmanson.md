@@ -4,7 +4,7 @@ name: "Jerrold A. Salmanson"
 born: 1942-01-30
 died: 2024-01
 family: "Salmanson"
-confidence: moderate
+confidence: high
 sources:
   - "1950 US Census (Providence, RI)"
   - "US Public Records Index (MyHeritage)"

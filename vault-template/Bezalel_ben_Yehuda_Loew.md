@@ -4,7 +4,7 @@ name: "Bezalel ben Yehuda Loew"
 born: 1420
 died: 1460
 family: "Loew"
-confidence: speculative
+confidence: high
 sources:
   - "MyHeritage GEDCOM (Salmanson Family Tree), Smart Match, 2 Aug 2024"
   - "Geni.com profile: Betzalel ben Yehuda Loew, [Maharal Gt.Gd.father?] (c.1418 - c.1460)"

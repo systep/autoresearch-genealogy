@@ -4,7 +4,7 @@ name: "Thelma (Tobi) Markel"
 born: 1920-09-12
 died: 2011-09-22
 family: "Markel"
-confidence: strong
+confidence: high
 sources:
   - "Find a Grave #231959788"
   - "MyHeritage family tree"

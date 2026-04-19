@@ -4,7 +4,7 @@ name: "Frieda Shneuri"
 born: ~1764
 died: 1813-06-05
 family: "Schneerson"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

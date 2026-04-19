@@ -4,7 +4,7 @@ name: "Hannah (Kushner) Salmanson"
 born: 1914-06-26
 died: 2001-12-04
 family: "Kushner"
-confidence: strong
+confidence: high
 sources:
   - "Find a Grave #185239892"
   - "Charles Salmanson obituary (2008)"

@@ -4,8 +4,9 @@ name: "Michael Bright"
 born: 1759-08-10
 died: 1842-11-13
 family: "Bright"
-confidence: speculative
+confidence: moderate
 sources:
+  - "Historical and Biographical Annals of Berks County (Morton Montgomery)"
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18
 tags: [genealogy, bright, person, pennsylvania]

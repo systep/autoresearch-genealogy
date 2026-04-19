@@ -4,7 +4,7 @@ name: "William red-root Moseley"
 born: 1744
 died: ~1808-04-25
 family: "Moseley"
-confidence: speculative
+confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-18

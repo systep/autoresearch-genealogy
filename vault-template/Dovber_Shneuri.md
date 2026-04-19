@@ -4,7 +4,7 @@ name: "Dovber Shneuri"
 born: 1773-11-13
 died: 1827-11-16
 family: "Schneerson"
-confidence: strong
+confidence: high
 sources:
   - "Wikipedia (Dovber Schneuri)"
   - "Chabad.org"

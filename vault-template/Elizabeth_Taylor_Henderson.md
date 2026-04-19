@@ -4,7 +4,7 @@ name: "Elizabeth Taylor"
 born: 
 died: 
 family: "Taylor"
-confidence: stub
+confidence: low
 sources:
   - "User-provided data"
 created: 2026-04-10

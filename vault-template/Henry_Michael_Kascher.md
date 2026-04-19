@@ -4,7 +4,7 @@ name: "Henry Michael Kascher"
 born: 1914-12-10
 died: 1987-01-10
 family: "Kascher"
-confidence: strong
+confidence: high
 sources:
   - "Ohio Birth Index (state file #1914109692)"
   - "1950 US Census"
