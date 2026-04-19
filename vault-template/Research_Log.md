@@ -2,13 +2,37 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-19
-last_session: "2026-04-18 Immigration Search (Prompt 11): ~30 searches across 10 immigrants. No manifests located (all databases require login/subscription). Key finding: FamilySearch collection 2622566 (RI Naturalization Records 1907-1991, free with login) is the single best path to resolve immigration details for Morris Markel, Barnett Salmanson, Abraham Sternbach, Elizabeth Salk. Ship 'The Liberty' (Florence 1923) remains unconfirmed."
+last_session: "2026-04-19 Cross-Reference Audit (Prompt 02): Full vault duplicate-file pass across ~400 person files. 10 new redirects created consolidating confirmed duplicates (Cythia_Cox->Cynthia_Sithey_Cox, James_Jamie_Cox->James_Cox, Diana_Cox->Diana_Black_Cox, William_Cox->William_Cox_Jr, William_Cox_Cox->William_Cox_1798, Rowland_Black_Cox->Monroe_J_P_Cox, Albert_Bright->Albert_Graham_Bright, Fredrik_Fritz_Peter_Schwartz->Friedrich_Fritz_Peter_Schwartz, Jonathan_Jonas_james->Jonathan_Jonas_James, John_Hough_1660->John_Hough). Identified 4 duplicate cases requiring verification before merging and 3 naming-collision cases preserved as distinct (Moseley Frances vs Hannah, Willie_Henrietta_Drake vs Willis_Henrietta_Youngblood, Harry vs Harry_S. Kuniansky). See cross_reference_audit.md 'Duplicate Person File Audit' section."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-19 (afternoon): Cross-Reference Audit Prompt 02 duplicate-file pass
+
+### Summary
+
+Executed cross_reference_audit prompt against all ~400 person files in vault. Identified 38 suspected duplicate pairs or clusters. Consolidated 10 via redirects (on top of 26 pre-existing redirects from 2026-04-18 session). Flagged 4 for further source verification. All changes logged in cross_reference_audit.md 'Duplicate Person File Audit' section.
+
+### Key findings
+
+1. **MyHeritage GEDCOM import (2026-04-18)** produced ~300 new low-confidence person files, many of which duplicate existing research-sourced files under different name variants (period vs. no period, abbreviated middle name vs. full, diminutive "Jamie" vs. "James", GEDCOM encoding artifacts with curly quotes, and in one case a repeated surname "William_Cox_Cox"). Redirects preserve link integrity while consolidating to canonical files.
+2. **Impossible-date files** flagged: William_Cox_Cox.md listed death "15 FEB 1682" for someone born 8 JUN 1798 (century-inversion error). John_Hough_Colonial.md records death at age 17 but fathered a son. Maria Ranft's GEDCOM birth (1882) postdates her 1847 daughter.
+3. **Twins preserved**: Mary_Ann_Bright and Charles_T._Bright share birth date 20 Aug 1853 Franklin Depot VA. These are documented twins per Samuel_Graham_Bright's children list, not duplicates.
+4. **Naming conventions preserved**: Willie_Henrietta_Drake (b. 1886) is the daughter of Eleanor_Nellie_Youngblood (who married a Drake), almost certainly named for her aunt Willis_Henrietta_Youngblood (b. 1863). Both kept as person files.
+5. **Generation clarifications**: Three John Hough generations appear: (1) John Hough b. ~1642 Yorkshire (colonial progenitor), (2) John Hough b. ~1660 Cheshire (his son), (3) John Hough b. 1682 Cheshire (grandson who emigrated to Bucks County PA). The 1660 stub was redirected to John_Hough.md which contains that generation's data.
+6. **Unnamed-infant stubs**: Bright.md, Kleinberg.md, Schwartz.md, Unknown_Male_Schwartz.md all document unnamed infants from GEDCOM. Not merged; recommended for consolidation into Unresolved_Persons.md in future pass.
+
+### Structural issues noted in Family_Tree.md
+
+- Discrepancies table numbering has gap between #12 and #14 and duplicate #18 and #19 (content correct but numbering confused)
+- Some wikilinks still reference Rebecca_M_Long (redirect file) rather than canonical Rebecca_Moseley_Long; Obsidian resolves but GEDCOM export may not
+
+### No new external searches this session
+
+All work was internal vault analysis; no external databases queried. 10 iterations of file-by-file comparison across Cox, Youngblood, Bright, Moseley, Long, Salk, Schwartz, Kuniansky, Wert, Hough, Kleinberg, Henderson, Culpeper, Kascher, Brecht, Drake family clusters.
 
 ## 2026-04-19: Timeline Gap Analysis (prompt 07), ~20 searches across 8 iterations
 

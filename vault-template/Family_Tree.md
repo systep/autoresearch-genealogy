@@ -5,6 +5,7 @@ updated: 2026-04-19
 tags: [genealogy, family-tree]
 confidence: mixed
 sources: [Assets/Screenshots, Assets/IMG_0782-0792, Assets/IMG_0791-church-note, web-research-2026-04-09]
+audit_note: "Full duplicate-file pass 2026-04-19; 10 redirects added on top of 26 pre-existing. See cross_reference_audit.md 'Duplicate Person File Audit' section."
 ---
 
 # Family Tree
