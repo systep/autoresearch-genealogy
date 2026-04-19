@@ -71,12 +71,18 @@ From Martha Brasseur:
 
 ## Relationships
 
-- Father: Edward Moseley (c. 1599 to 1673), of Kinver, Staffordshire.
+- Father: [[Edward_Moseley_1599_Kinver]] (bp. 25 Apr 1599 Kinver, d. 1673/74), of Kinver, Staffordshire.
 - Mother: Margaret Moseley (unknown maiden name).
+- Paternal grandfather: Edward Moseley Sr. (bp. 6 Feb 1564/65 Kinver), m. Elizabeth Brettell at Kinver 14 Nov 1597.
+- Paternal grandmother: Elizabeth (Brettell) Moseley.
+- Paternal great-grandfather: Thomas Moseley of Kinver (fl. 1560s).
+- Paternal great-grandmother: Isabell (Lyn) Moseley.
 - Sister: Mary (Moseley) Underwood, wife of Col. William Underwood (Old Rappahannock).
 - Nephew: William Underwood (1649 to 1717), son of sister Mary and Col. William Underwood.
 - Wife: Martha (Brasseur) Moseley (c. 1636 to aft. 1684).
 - Father-in-law: Robert Brasseur (bef. 1600 to c. 1663), Huguenot from Kent / Isle of Thanet.
+
+Source for grandparent and great-grandparent generations: WikiTree Space "The Moseley families of Kinfare, Staffordshire" synthesizing Kinver St Peter's parish register; see [[Moseley_Kinver_Staffordshire_Parents_Research_2026_04_19]]. Moderate confidence pending direct register verification.
 
 ## Why This Matters for the Vault
 
