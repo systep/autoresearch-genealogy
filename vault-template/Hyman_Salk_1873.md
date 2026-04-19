@@ -7,8 +7,11 @@ family: "Salk"
 confidence: low
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
+  - "Warwick Beacon / Johnston Sun Rise business feature on Salk's Hardware (Tier 2)"
+  - "Harold Salk obituary, Dignity Memorial, 2024 (Tier 2)"
+  - "Salk's Hardware & Marine corporate history, salkshardware.com / acehardware.com / visitwarwickri.com (Tier 2)"
 created: 2026-04-18
-tags: [genealogy, salk, person, lithuania, rhode-island, providence, immigrant]
+tags: [genealogy, salk, person, lithuania, rhode-island, providence, immigrant, salks-hardware]
 ---
 
 # Hyman Salk
@@ -44,4 +47,9 @@ Hyman died February 22, 1949 in Providence, Rhode Island.
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Identity | Hyman Salk (b. 1873, GEDCOM) | Hyman Salk (hardware store founder, arrived ~1900, per Abraham Zolly Salk vault file) | Likely the same person, but unverified. Requires census or vital records to confirm. |
+| Identity | Hyman Salk (b. 1873, GEDCOM) | Hyman Salk (hardware store founder, arrived ~1900, per Abraham Zolly Salk vault file) | Supported, Moderate Signal. Per 2026-04-19 research (see [[Hyman_Salk_1873_Providence_Research_2026_04_19]]): Warwick Beacon business feature confirms Hyman bought Providence tailor shop 1900; Harold Salk's 2024 obituary confirms 3-generation chain Hyman -> Samuel -> Harold. Upgrading to Strong Signal requires one Tier 1 record (census, manifest, naturalization, or death certificate). |
+
+## Research Notes
+
+- 2026-04-19: Corroborating research documented in [[Hyman_Salk_1873_Providence_Research_2026_04_19]]. Warwick Beacon article ("Tough times, the right time to grow, says Salk") and Harold Salk obituary (Dignity Memorial, d. 2024) confirm Hyman founded Salk's Hardware (tailor shop 1900 Providence, moved to Oakland Beach Warwick 1917). Son "Sam" in article matches [[Samuel_Henry_Salk]]; son "Lewis" matches Louis Salk. Harold Salk (1932-2024) named as son of Samuel and Ruth (Fleisig) Salk, 3rd-generation owner. Newark NJ birthplaces of Hyman's sons (1898, 1899) fit immigrant path: arrive US pre-1898, Newark, Providence by 1900.
+- Open: Ellis Island manifest, RI naturalization, 1900-1940 censuses, 1949 death certificate, RIJHA family file.
