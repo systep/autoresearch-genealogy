@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Morris Markel 1930 Census (collection 1810731)",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.familysearch.org/search/record/results?q.givenName=Morris&q.surname=Markel&q.residencePlace=Rhode%20Island&q.residenceDate.from=1930&q.residenceDate.to=1930&f.collectionId=1810731\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "name": "Morris Markal 1930 Census (misspelling from 1940)",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.familysearch.org/search/record/results?q.givenName=Morris&q.surname=Markal&q.residencePlace=Rhode%20Island&q.residenceDate.from=1929&q.residenceDate.to=1931&f.collectionId=1810731\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "name": "Morris Workel 1930 Census (misspelling from 1950)",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.familysearch.org/search/record/results?q.givenName=Morris&q.surname=Workel&q.residencePlace=Rhode%20Island&q.residenceDate.from=1929&q.residenceDate.to=1931&f.collectionId=1810731\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "name": "Morris Markel Naturalization RI (collection 2622566)",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.familysearch.org/search/record/results?q.givenName=Morris&q.surname=Markel&f.collectionId=2622566\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "name": "Morris Markel Naturalization Index (collection 2141014)",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.familysearch.org/search/record/results?q.givenName=Morris&q.surname=Markel&f.collectionId=2141014\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "name": "Moishe Markel Naturalization (collection 2622566)",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.familysearch.org/search/record/results?q.givenName=Moishe&q.surname=Markel&f.collectionId=2622566\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "name": "Helen Markel 1930 Census",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.familysearch.org/search/record/results?q.givenName=Helen&q.surname=Markel&q.residencePlace=Rhode%20Island&q.residenceDate.from=1929&q.residenceDate.to=1931&f.collectionId=1810731\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "name": "Thelma Markel 1930 Census (daughter, age ~10)",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.familysearch.org/search/record/results?q.givenName=Thelma&q.surname=Markel&q.residencePlace=Rhode%20Island&q.residenceDate.from=1929&q.residenceDate.to=1931&f.collectionId=1810731\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "name": "Morris Markel death RI 1960-1965",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.familysearch.org/search/record/results?q.givenName=Morris&q.surname=Markel&q.deathLikePlace=Rhode%20Island&q.deathLikeDate.from=1960&q.deathLikeDate.to=1966\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "name": "Morris Markel death Florida 1963-1965",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.familysearch.org/search/record/results?q.givenName=Morris&q.surname=Markel&q.deathLikePlace=Florida&q.deathLikeDate.from=1963&q.deathLikeDate.to=1965\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "name": "Helen Markel death RI 1975-1977",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.familysearch.org/search/record/results?q.givenName=Helen&q.surname=Markel&q.deathLikePlace=Rhode%20Island&q.deathLikeDate.from=1975&q.deathLikeDate.to=1977\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "name": "Mojzesz Markiel all records",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.familysearch.org/search/record/results?q.givenName=Mojzesz&q.surname=Markiel\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "name": "Brand Lisko marriages",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.familysearch.org/search/record/results?q.surname=Brand&q.marriageLikePlace=Lisko%2C%20Galicia\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "name": "Goldbaum Lisko all records",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.familysearch.org/search/record/results?q.surname=Goldbaum&q.anyPlace=Lisko\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "name": "Markel West Warwick 1935 RI State Census",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.familysearch.org/search/record/results?q.surname=Markel&q.residencePlace=West%20Warwick%2C%20Rhode%20Island&f.collectionId=1529126\", waiting until \"networkidle\"\u001b[22m\n"
+  }
+]

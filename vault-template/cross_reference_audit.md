@@ -11,10 +11,10 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 
 ## Audit Summary
 
-- **Total named individuals audited**: ~135
-- **Discrepancies found**: 37
-- **Resolved**: 17 (including 2 from 2026-04-14 Yichus integration; 1 from 2026-04-17 Holocaust research; 5 from 2026-04-18 cross-reference audit)
-- **Remaining open**: 20
+- **Total named individuals audited**: ~140
+- **Discrepancies found**: 45
+- **Resolved**: 24 (including 2 from 2026-04-14 Yichus integration; 1 from 2026-04-17 Holocaust research; 5 from 2026-04-18 morning cross-reference audit; 7 from 2026-04-18 evening RIJHA/research-agent session: #38 Morris death year, #39 Helen death date, #40 Helen birth date, #41 Anne's husband, #42 Rita=Freda, #43 Mojzesz=Morris, #44 Joseph Harold death)
+- **Remaining open**: 21 (includes #45 Lesko Yizkor martyrs pending relationship analysis)
 
 ---
 
@@ -60,6 +60,14 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 | 35 | Michael Kascher (Transylvania) | father_spouse | "married Sara Schuller? or Anna Binder?" (Michael_Kascher_Transylvania.md) | Church certificate "KINDER" (Tier 1): married Anna Binder (1868-1915). Stephania Benning (GEDCOM: "Sara Schuller") was Michael Sr.'s mother, not wife. | **Anna Binder is correct.** The "Sara Schuller?" confusion arose from conflating generations: Stephania Benning was Michael I's wife (d. 1876), and Anna Binder was Michael Sr.'s wife (married 1888). | Church certificate "KINDER" (Tier 1) | **RESOLVED 2026-04-18: Fixed Michael_Kascher_Transylvania.md.** |
 | 36 | Louis Elizar Salk | existence_confirmation | GEDCOM only (Tier 3) | **Abraham Salk death certificate No. 584/226, 1925 (Tier 1)**: father listed as "Louis Salk, born Russia" | **Confirmed at Tier 1.** Louis Salk's existence as Abraham's father is now corroborated by a primary source. Birthplace "Russia" on death cert vs "Lithuania" in GEDCOM: not contradictory (Lithuania was within the Russian Empire). | Death certificate (Tier 1) confirms GEDCOM (Tier 3) | **RESOLVED 2026-04-18: Updated Louis_Elizar_Salk.md with Tier 1 confirmation.** |
 | 37 | Leonhard Schuller | descendant_name | "Stephania Benning/Sara Schuller" (plain text, not wikilinked) | Should use corrected display name per Discrepancy #19 | **Stephania Benning** is the Tier 1 name. | Church certificate "VATER" (Tier 1) | **RESOLVED 2026-04-18: Updated Leonhard_Schuller.md wikilink.** |
+| 38 | Morris Markel | death_year | 1963 (MyHeritage GEDCOM, Tier 3; Family_Tree.md) | **1964** (Kate Markel Kaplan Find a Grave #232002112 parent dates: 1890-1964) | **1964.** Find a Grave (Tier 1) supersedes MyHeritage (Tier 3). Helen's RIJHA obituary (Tier 2) confirms Morris predeceased Helen and that family moved to Miami FL ~1957, consistent with Florida death. | Find a Grave #232002112 (Tier 1) + RIJHA obituary (Tier 2) supersede MyHeritage (Tier 3) | **RESOLVED 2026-04-18: Fixed Family_Tree.md and Morris_Markel.md.** |
+| 39 | Helen Brandt Markel | death_date | ~1975 / "EST 27 Jul 1975" (GEDCOM, Tier 3; Family_Tree.md) | **November 6, 1976**, Miriam Hospital, Providence RI (RIJHA obituary/death notice, Tier 2) | **Nov 6, 1976.** RIJHA obituary (Tier 2) supersedes GEDCOM estimate (Tier 3). Age 86 (born Nov 26, 1889). | RIJHA M Obituaries PDF (Tier 2) supersedes GEDCOM (Tier 3) | **RESOLVED 2026-04-18: Fixed Family_Tree.md and Helen_Brandt.md (already had correct date).** |
+| 40 | Helen Brandt Markel | birth_date | ~1889 (GEDCOM); no specific date in Family_Tree.md | **November 26, 1889**, Poland (RIJHA obituary, Tier 2) | **Nov 26, 1889.** RIJHA obituary (Tier 2) provides exact date, confirming GEDCOM year estimate. | RIJHA obituary (Tier 2) confirms GEDCOM year (Tier 3) | **RESOLVED 2026-04-18: Fixed Family_Tree.md. Helen_Brandt.md already had correct date.** |
+| 41 | Anne Markel | husband_name | "Sol Schlusselberg" (GEDCOM, Tier 3; Family_Tree.md) | **Peppi Schlusselberg** (1927-2014, Hewlett NY, buried Israel; MyHeritage/research agents; Peppi Schlusselberg obituary at dignitymemorial.com) | **Peppi Schlusselberg.** "Sol" appears only in GEDCOM (Tier 3). Research agents and obituary confirm Peppi. Helen's RIJHA obituary (Tier 2) names "Mrs. Anne Schlusselberg" but does not give husband's first name. | MyHeritage/research agents + obituary supersede GEDCOM (Tier 3) | **RESOLVED 2026-04-18: Fixed Family_Tree.md, Morris_Markel.md, Helen_Brandt.md.** |
+| 42 | Rita Markel / Freda Markel | identity | "Rita Markel" (1940/1950 Census, Tier 1) listed separately from "Frieda Markel (dec.)" (Yichus, Tier 2) in vault | **Same person.** Helen's 1976 RIJHA obituary (Tier 2) lists exactly 5 children: Joseph H., Thelma, Anne, Freda, Kate — no "Rita." Census lists Rita with no Freda. | **Rita = Freda = same person.** Used "Rita" in census records; "Freda/Frieda" in family usage and obituary. | RIJHA obituary (Tier 2) + Census (Tier 1): 5 children total, no separate Rita and Freda | **RESOLVED 2026-04-18: Merged in Family_Tree.md, Morris_Markel.md, Helen_Brandt.md.** |
+| 43 | Mojzesz Majer Markiel | identity | Listed as 9th child of Heshel + Leah, separate from Morris Markel (#3) (Family_Tree.md, Heschel_Herman_Markel.md, Mojzesz_Majer_Markiel.md) | **Same person as Morris Markel.** The 1919 marriage banns (Tier 1) record the marriage of "Mojżesz Majer MARKIEL" to "Dwora GOLDBAUM false BRAND of Lisko" — this is Morris marrying Helen Brandt. Polish civil "Mojżesz Majer" = Yiddish "Moishe Myer" = American "Morris." Bride's parents match Helen's parents exactly. | **Mojzesz Majer Markiel IS Morris Markel.** Not a separate 9th sibling. The 1919 marriage record is Morris's own marriage. | 1919 marriage banns (Tier 1) + identity analysis (6/6 data points match) | **RESOLVED 2026-04-18: Updated Family_Tree.md, Heschel_Herman_Markel.md, Mojzesz_Majer_Markiel.md, Morris_Markel.md.** |
+| 44 | Joseph Harold Markel | death_date | Not previously recorded (alive as of vault creation) | **December 6, 1989**, age 57 (RIJHA obituary, Tier 2) | **Dec 6, 1989.** RIJHA obituary (Tier 2) provides date, cause, and biographical details. Co-founder Mortgage Guarantee & Title Co., URI grad, BU Law, Army vet. Sons M. William Markel and Gregory S. Markel. | RIJHA M Obituaries PDF (Tier 2) | **RESOLVED 2026-04-18: Added to Family_Tree.md and Helen_Brandt.md.** |
+| 45 | Lesko Yizkor Book | holocaust_martyrs | No Goldbaum/Brand martyrs previously in vault | **6 Goldbaum martyrs confirmed in Lesko**: David, Feiga (with children Ester, Chana, Yisrael Lipa), Edel Gross nee Goldbaum. **Brand martyrs in Baligrod list**: Leibish Brand, Mordechai Brand. | New data from Lesko Yizkor Book necrology. These may be relatives of Helen Brandt (Dwora Goldbaum/Brand of Lisko). | Lesko Yizkor Book (Tier 2) | OPEN: Relationship to Helen's parents (Jozef Brand, Brancia Goldbaum) not yet established. Requires further research. Added 2026-04-18. |
 
 ---
 
@@ -240,6 +248,33 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 - Donald_Salmanson.md: dates consistent (1924-2015). ✓
 - Charles_Salmanson.md: dates consistent (1914-2008). ✓
 
+### 2026-04-18 Evening Cross-Reference Audit Session (RIJHA Obituaries + Research Agents)
+
+**Scope:** Integration of newly confirmed data from RIJHA M Obituaries PDF (Tier 2), MyHeritage/research agents, 1940/1950 Census cross-references, and Lesko Yizkor Book. Seven discrepancies resolved (#38-44), one new open discrepancy added (#45).
+
+**RIJHA Obituary Data (Tier 2):**
+- Helen (Brand) Markel obituary: born Nov 26, 1889 Poland; died Nov 6, 1976, Miriam Hospital, Providence RI; father "Mr. and Mrs. Joseph Brand"; operated Markel Dress Store in West Warwick, retiring 1957; lived West Warwick 26 years, then Miami FL, then Providence 13 years; 5 children (Joseph H., Thelma, Anne, Freda, Kate), 10 grandchildren; buried Lincoln Park Cemetery. → Discrepancies #39 (death date), #40 (birth date) RESOLVED
+- Joseph H. Markel obituary: born ~1932 Providence; died Dec 6, 1989 age 57; co-founder Mortgage Guarantee & Title Co.; URI graduate, BU Law; Army vet; sons M. William Markel and Gregory S. Markel; 4 sisters (Thelma, Kay/Kate, Ann, Freda); buried Lincoln Park Cemetery. → Discrepancy #44 RESOLVED
+
+**MyHeritage / Research Agent Data:**
+- Morris Markel death: **1964 in Florida** (NOT 1963 as in GEDCOM). Kate Markel Kaplan Find a Grave #232002112 lists parent dates as (1890-1964) and (1889-1976). → Discrepancy #38 RESOLVED
+- Anne Schlusselberg's husband: **Peppi Schlusselberg** (1927-2014, Hewlett NY, buried Israel), NOT "Sol Schlusselberg" as in GEDCOM. → Discrepancy #41 RESOLVED
+- Rita = Freda: same person. "Rita" in 1940/1950 Census; "Freda/Frieda" in Yichus and obituary. Helen's obit lists 5 children with no "Rita." → Discrepancy #42 RESOLVED
+- Mojzesz Majer Markiel (sibling #9) = Morris Markel (sibling #3): The 1919 Sambor marriage record is Morris's own marriage to Helen Brandt. Polish civil "Mojżesz Majer" = Yiddish "Moishe Myer." Bride "Dwora GOLDBAUM false BRAND" = Helen (parents match exactly). → Discrepancy #43 RESOLVED
+
+**Lesko Yizkor Book Data (Tier 2):**
+- 6 Goldbaum Holocaust martyrs confirmed in Lesko: David, Feiga (with children Ester, Chana, Yisrael Lipa), Edel Gross nee Goldbaum
+- Brand family in Baligrod martyrs list: Leibish Brand, Mordechai Brand
+- Relationship to Helen's parents (Jozef Brand, Brancia Goldbaum) not yet established. → Discrepancy #45 OPEN
+
+**Files updated in this session:**
+- Family_Tree.md: Morris death year (1963→1964), Helen birth/death dates added, Joseph Harold death/career/sons added, Anne husband corrected (Sol→Peppi), Rita/Freda merged, Mojzesz sibling #9 marked as duplicate of Morris #3, Markel Dress Store added
+- Morris_Markel.md: death year (1963→1964), death location (Florida), occupation (Markel Dress Store added), Anne husband corrected, Rita/Freda merged, Mojzesz=Morris identity noted, data discrepancies table updated
+- Heschel_Herman_Markel.md: sibling #9 marked as resolved duplicate of #3, child count corrected from 9 to 8
+- Mojzesz_Majer_Markiel.md: identity resolution note added at top, confidence upgraded from low to strong
+- Helen_Brandt.md: already contained correct RIJHA data from earlier session; no changes needed
+- cross_reference_audit.md: 8 new rows (#38-45), summary counts updated
+
 ---
 
 ## Consistency Checks Passed
@@ -255,7 +290,7 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 | Web-sourced dates match across multiple web sources | PASS (Salmanson dates consistent across Find a Grave, obituaries, AncientFaces) |
 | Handwritten note facts match across pages | FAIL for Kopp vs Huff (#5) |
 | Family tree app data matches web research | PASS for Salmanson line |
-| Person file dates match Family_Tree.md dates | PASS after 2026-04-18 corrections (Bright marriage, Wolpack birth) |
+| Person file dates match Family_Tree.md dates | PASS after 2026-04-18 corrections (Bright marriage, Wolpack birth, Morris death, Helen dates, Joseph Harold death) |
 | Generational consistency (father/son not confused) | PASS (Michael Kascher Transylvania father field corrected, #35) |
 
 ---

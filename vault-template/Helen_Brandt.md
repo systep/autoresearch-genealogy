@@ -1,11 +1,13 @@
 ---
 type: person
 name: "Helen Brandt"
-born: ~1891
-died: ~1975
+born: 1889-11-26
+died: 1976-11-06
 family: "Brandt"
-confidence: moderate
+confidence: strong
 sources:
+  - "RIJHA M Obituaries PDF, p. 101 (Helen Markel obituary, Jewish Herald Voice, Nov 1976; Tier 2)"
+  - "RIJHA M Obituaries PDF, death notice (Helen (Brand) Markel, d. November 6, 1976; Tier 2)"
   - "AGAD Warsaw, Fond 424, File 212, Record 65, Page 315 (Sambor Jewish Marriage Banns 1904-1926, Tier 1; bride listed as 'Dwora GOLDBAUM false BRAND of Lisko'; marriage to Mojzesz Majer Markiel 1919)"
   - "MyHeritage GEDCOM (Tier 3, unverified)"
   - "Geni World Family Tree (record 40000:9390141)"
@@ -28,19 +30,25 @@ tags: [genealogy, Brandt, person, jewish, poland, immigrant, rhode-island, lisko
 |---|---|---|
 | Full Name | **Dwora GOLDBAUM false BRAND** (Polish civil name, 1919 marriage record); Americanized as **Helen Brandt (Markel)** | 1919 marriage banns (Tier 1); Yichus narrative (Tier 2); GEDCOM (Tier 3) |
 | Yiddish/Hebrew Name | **Dwora** (Hebrew: Devorah, דבורה, meaning "bee") | 1919 marriage banns (Tier 1) |
-| Born | About 1894-1901 (estimated from 1919 marriage at typical age 18-25; also: 1950 Census age 59, b. ~1891; 1940 Census age 43, b. ~1897; GEDCOM ~1889. Range ~1889-1901, best estimate ~1894-1897.) | 1919 marriage banns (Tier 1, inferred); 1940/1950 Census (Tier 1); GEDCOM (estimated) |
+| Born | **November 26, 1889**, in Poland | RIJHA obituary (Tier 2); confirmed by GEDCOM (~1889) and 1950 Census (age 59, b. ~1891) |
 | Birthplace | **Lisko (Lesko)**, Sanok district, Galicia (Austria-Hungary); now Lesko, Podkarpackie, Poland | 1919 marriage banns (Tier 1) |
-| Died | Estimated 1975 (month/day unknown) | MyHeritage GEDCOM (estimated) |
-| Burial | Likely Lincoln Park Cemetery, Warwick, RI (family cemetery; unconfirmed) | Inference from family burial pattern |
-| Father | **[[Joseph_Brandt]]** (Józef BRAND of Lisko; dates unknown; GEDCOM dates ~1815/~1891 are data errors) | 1919 marriage banns (Tier 1); MyHeritage GEDCOM (Tier 3) |
-| Mother | **[[Brina_Goldbaum]]** (Brancia GOLDBAUM of Lisko; d. Holocaust) | 1919 marriage banns (Tier 1); MyHeritage GEDCOM (Tier 3) |
+| Died | **November 6, 1976**, at Miriam Hospital, Providence, RI (age 86) | RIJHA death notice (Tier 2) |
+| Burial | **Lincoln Park Cemetery, Warwick, RI** | RIJHA obituary (Tier 2) |
+| Address at Death | 228 Freeman Parkway, Providence, RI | RIJHA obituary/death notice (Tier 2) |
+| Father | **[[Joseph_Brandt]]** (Józef BRAND of Lisko; dates unknown; GEDCOM dates ~1815/~1891 are data errors) — **CONFIRMED by RIJHA obituary: "daughter of the late Mr. and Mrs. Joseph Brand"** | 1919 marriage banns (Tier 1); RIJHA obituary (Tier 2); MyHeritage GEDCOM (Tier 3) |
+| Mother | **[[Brina_Goldbaum]]** (Brancia GOLDBAUM of Lisko; d. Holocaust) — referenced in RIJHA obituary only as "Mrs. Joseph Brand" (first name not given) | 1919 marriage banns (Tier 1); RIJHA obituary (Tier 2); MyHeritage GEDCOM (Tier 3) |
 | Legal Surname at Birth | GOLDBAUM (mother's maiden name; assigned because parents were religiously but not civilly married in Galicia) | 1919 marriage banns "false" notation (Tier 1) |
 | Commonly Used Surname | BRAND / BRANDT (father's surname) | 1919 marriage banns (Tier 1); GEDCOM (Tier 3) |
-| Spouse | **[[Morris_Markel]]** (Mojzesz Majer MARKIEL / Morris Markel; b. Waniowice, Galicia; d. 1963) | 1919 marriage banns (Tier 1); GEDCOM; Geni; Yichus narrative (Tier 2) |
+| Spouse | **[[Morris_Markel]]** (Mojzesz Majer MARKIEL / Morris Markel; b. ~1890 Waniowice, Galicia; d. 1964 Florida) — "widow of Morris Markel" per RIJHA obituary | 1919 marriage banns (Tier 1); RIJHA obituary (Tier 2); GEDCOM; Geni; Yichus narrative (Tier 2) |
+| Occupation | Co-operated **Markel Dress Store** in West Warwick with husband Morris, retiring 1957 | RIJHA obituary (Tier 2) |
+| Residences | West Warwick RI (26 years, ~1928-1957); Miami, FL (~1957-1963); Providence, RI (228 Freeman Parkway, ~1963-1976) | RIJHA obituary (Tier 2) |
+| Memberships | Ahavath Sholom Synagogue (West Warwick); Jewish Home for the Aged; Providence Chapter of Hadassah; Pioneer Women; Jewish Community Center; Providence Hebrew Day School; Golden Agers | RIJHA obituary (Tier 2) |
 | Marriage | Banns: 29 Nov, 6 Dec, 13 Dec 1919, Sambor | 1919 marriage banns (Tier 1) |
 | Residence at Marriage | Sambor, Galicia | 1919 marriage banns (Tier 1) |
 | Immigration | Approximately 1928 (family was still in Poland when daughter Kate was born Dec 1925; Kate arrived in West Warwick at age 3) | Kate Kaplan obituary (Tier 2) |
-| Children | Thelma (Tobi) Markel (1920-2011), Anne (m. Schlusselberg), Frieda Markel, Kate Markel (m. Kaplan; 1925-2006), Joseph Markel | MyHeritage GEDCOM; Geni; Kate Kaplan obituary (Tier 2); Find a Grave #232002112 |
+| Children | **5 children, 10 grandchildren**: (1) Thelma (Tobi) Markel (1920-2011), (2) Anne (m. Schlusselberg, NYC), (3) Freda Markel (NYC), (4) Kate Markel (m. Kaplan; 1925-2006), (5) Joseph H. Markel (Providence; ~1932-1989) | RIJHA obituary (Tier 2); Kate Kaplan obituary (Tier 2); Find a Grave #232002112 |
+| Funeral | Sugarman Memorial Chapel, 458 Hope St., Providence | RIJHA death notice (Tier 2) |
+| Shiva | At home of Mrs. Leonard Salmanson (Thelma), Freeman Parkway, Providence | RIJHA death notice (Tier 2) |
 
 ## Biography
 
@@ -72,12 +80,12 @@ The Lesko Yizkor Book necrology (pp. 467-489, jewishgen.org/yizkor/lesko/) and t
 
 ### Children
 
-Together Helen and Morris had five documented children:
-1. **Thelma (Tobi) Markel** (Sept 12, 1920, Poland, Jan 22, 2011), married (1) [[Leonard_Irving_Salmanson]] (1947), (2) Leonard Rodbell (1978). Buried Lincoln Park Cemetery, Warwick, RI.
-2. **Anne Markel** (m. Schlusselberg)
-3. **Frieda Markel** (dates unknown)
-4. **Kate Markel** (Dec 6, 1925, Poland, Jan 11, 2006; m. Irving Kaplan). Born in Poland, moved to West Warwick at age 3. Graduate of University of Rhode Island. Biochemist at Sloan Kettering Hospital, New York. Later lived in Atlanta, GA. Buried Lincoln Park Cemetery, Warwick, RI. (Kate Kaplan obituary, Providence Journal, Jan 13, 2006; Find a Grave #232002112)
-5. **Joseph Markel** (dates unknown)
+Together Helen and Morris had five documented children (per RIJHA obituary, Tier 2; Kate Kaplan obituary, Tier 2):
+1. **Thelma (Tobi) Markel** (Sept 12, 1920, Poland – Sept 22, 2011). Married (1) [[Leonard_Irving_Salmanson]] (1947), (2) Leonard Rodbell (1978). Buried Lincoln Park Cemetery, Warwick, RI. Find a Grave #231959788.
+2. **Anne Markel** (m. Schlusselberg; husband Peppi Schlusselberg, 1927-2014, Hewlett NY, buried Israel). Living in NYC as of 2006.
+3. **Freda Markel** (dates unknown; "Miss Freda Markel of New York City" per Helen's 1976 obituary; "Rita" in 1940/1950 Census. Predeceased sister Kate, d. before Jan 2006.)
+4. **Kate Markel** (Dec 6, 1925, Poland – Jan 11, 2006). Born in Poland, moved to West Warwick at age 3. URI graduate. Biochemist at Sloan-Kettering. Married Dr. Irving Kaplan. Buried Lincoln Park Cemetery, Warwick, RI. Find a Grave #232002112.
+5. **[[Joseph_H_Markel|Joseph H. Markel]]** (~1932, Providence – **December 6, 1989**, age 57). URI graduate, BU Law degree. Co-founder & president of Mortgage Guarantee & Title Co., Providence. Army veteran. RI Supreme Court special prosecutor. Sons: M. William Markel, Gregory S. Markel. Buried Lincoln Park Cemetery, Warwick, RI. (RIJHA obituary, Tier 2)
 
 Note: The GEDCOM previously listed this daughter as "Kay Kaplan." Her actual name was Kate, per Find a Grave and her obituary.
 
@@ -87,16 +95,37 @@ The birth and death dates for Helen in the GEDCOM use the "ABT" and "EST" qualif
 
 The Yichus narrative (Tier 2, primary family document by Ruth Gold, Oct 9, 2011) confirms the marriage of Helen Brandt to Morris Markel but provides no additional biographical detail about Helen herself (birth date, parents, etc.). **However, the 2026-04-18 identification of Helen as Dwora Goldbaum/Brand from the 1919 Sambor marriage banns (Tier 1) now provides her Yiddish name, origin town, parents' names, and marriage date from a primary civil record.** This elevates Helen's overall confidence from Speculative to Moderate Signal.
 
+## RIJHA Obituary Transcription (2026-04-18)
+
+**Source**: RIJHA M Obituaries PDF (rijha.org/wp-content/uploads/Obituaries/M%20Obituaries.pdf), page 101 of 581. Extracted 2026-04-18.
+
+### Obituary
+> MRS. HELEN MARKEL, 66 [sic; actually 86], of 228 Freeman Parkway, Providence, died Saturday in the Miriam Hospital, Providence, after a week's illness. She was the widow of Morris Markel. She operated Markel Dress Store in West Warwick with her husband, retiring in 1957.
+>
+> Born in Poland, Nov. 26, 1889, she was the daughter of the late Mr. and Mrs. Joseph Brand. She lived in West Warwick for 26 years, moving to Miami, Fla., and later returning to Providence where she resided for the last 13 years.
+>
+> She was a member of Ahavath Sholam [sic] Synod [synagogue], West Warwick; the Jewish Home for the Aged, the Providence Chapter of Hadassah, the Pioneer Women, Jewish Community Center, Providence Hebrew Day School and the Golden Agers.
+>
+> Surviving is a son, Joseph H. Markel of Providence; four daughters, Mrs. Thelma Salmanson of Providence, Mrs. Anne Schlusselberg and Miss Freda Markel, both of New York City, Mrs. Kate Kaplan of Cranston, and 10 grandchildren.
+>
+> Funeral services were held yesterday from the Sugarman Memorial Chapel, 458 Hope St., Providence. Burial was in Lincoln Park Cemetery, Warwick.
+
+### Death Notice
+> MARKEL, Helen (Brand). November 6, 1976. Residence 228 Freeman Parkway, Providence. Beloved wife of the late Morris Markel. Funeral services to which relatives and friends are invited will be held Sunday at 2:30 p.m. at the Sugarman Memorial Chapel, 458 Hope St. In lieu of flowers contributions in her memory may be made to the Jewish Home for the Aged. Shiva will be observed at the home of Mrs. Leonard Salmanson, Freeman Parkway, Providence.
+
+**Note**: The obituary states age "66" which is an OCR or typographical error; Helen was born 1889 and died 1976, making her 86.
+
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
+| RIJHA M Obituaries PDF, p. 101 (Helen Markel obituary + death notice, Nov 1976) | Newspaper obituary (Tier 2) | rijha.org; extracted 2026-04-18. Confirms birth Nov 26 1889 Poland, death Nov 6 1976, father Joseph Brand, 5 children, 10 grandchildren, burial Lincoln Park Cemetery. |
 | Sambor Jewish Marriage Banns 1904-1926 | Austrian / Polish civil marriage register (Tier 1) | AGAD Fond 424 File 212 Record 65 Page 315; Identifier #206:1086; indexed by Gesher Galicia. Bride: "Dwora GOLDBAUM false BRAND of Lisko." |
 | MyHeritage GEDCOM export | user-contributed tree (Tier 3) | |
 | Geni World Family Tree record 40000:9390141 | user-contributed tree (Tier 3) | |
 | MyHeritage Smart Match profiles (1500004, 1500005) | user-contributed tree (Tier 3) | |
 | Yichus narrative by Ruth Gold, Oct 9, 2011 | Primary family document (Tier 2) | Assets/Yicchis and Narrative.PDF |
-| Kate Kaplan obituary, Providence Journal, Jan 13, 2006 | Newspaper obituary (Tier 2) | Legacy.com pid=16302813 |
+| Kate Kaplan obituary, Providence Journal, Jan 13, 2006 | Newspaper obituary (Tier 2) | Legacy.com pid=16302813; pid=16304013 |
 | Kate Markel Kaplan, Find a Grave #232002112 | Cemetery record (Tier 1) | Lincoln Park Cemetery, Warwick, RI |
 
 ## Data Discrepancies
@@ -107,8 +136,8 @@ The Yichus narrative (Tier 2, primary family document by Ruth Gold, Oct 9, 2011)
 | Surname | GOLDBAUM false BRAND (1919 marriage record, Tier 1) | Brandt (GEDCOM, Tier 3; Yichus, Tier 2) | "Goldbaum" was her legal registered surname (mother's maiden name, standard Galician practice for children of religiously but not civilly married parents). "Brand" was her father's surname, also used. "Brandt" is the anglicized American spelling of "Brand." All refer to the same person. |
 | Origin town | Lisko (1919 marriage record, Tier 1) | Poland, unspecified (GEDCOM); Galicia near Lemberg (previous inference) | **Lisko** (now Lesko) in the Sanok/Bieszczady region is confirmed by Tier 1 source. Previous inference of Tarnopol origin (based on Goldbaum in Tarnopol 1910 Census) is superseded. |
 | Mother's name | Brancia GOLDBAUM (1919 marriage record, Tier 1) | Brina GOLDBAUM (GEDCOM, Tier 3) | Brancia and Brina are variant forms of the same Yiddish name (both from Breindel/Brayn- cluster). Not a discrepancy. |
-| Birth year | ABT 1889 (GEDCOM); age 43 in 1940 Census (b. ~1897); age 59 in 1950 Census (b. ~1891); 1919 marriage implies c. 1894-1901 | Four estimates spanning 12 years | The 1919 marriage (Tier 1) at typical age 18-25 implies b. c. 1894-1901. The 1940 Census (b. ~1897) falls within this range. The 1950 Census (b. ~1891) and GEDCOM (~1889) are slightly earlier. Best estimate revised to **~1894-1897**, consistent with both the 1919 marriage and the 1940 Census. |
-| Death year/date | EST 27 Jul 1975 (GEDCOM) | No independent source | The "27 Jul" date is a system artifact identical to the birth date artifact. Year ~1975 may be approximately correct. RI death record needed. |
+| Birth year | ABT 1889 (GEDCOM); age 43 in 1940 Census (b. ~1897); age 59 in 1950 Census (b. ~1891); 1919 marriage implies c. 1894-1901 | **RIJHA obituary (Tier 2): "Born in Poland, Nov. 26, 1889"** | **RESOLVED 2026-04-18: Born November 26, 1889.** RIJHA obituary (Tier 2) provides exact date. GEDCOM year (~1889) was correct. 1950 Census age 59 (b. ~1891) was close. 1940 Census age 43 (b. ~1897) was significantly understated. Helen married in 1919 at age 30, older than typical but not unusual. |
+| Death year/date | EST 27 Jul 1975 (GEDCOM) | **RIJHA obituary/death notice (Tier 2): died November 6, 1976, Miriam Hospital, Providence RI** | **RESOLVED 2026-04-18: Died November 6, 1976.** RIJHA obituary (Tier 2) supersedes GEDCOM estimate (Tier 3). The "27 Jul" date in GEDCOM was a system artifact; the year ~1975 was off by one year. |
 | Daughter's name | "Kay Kaplan" (GEDCOM, Geni) | "Kate Markel Kaplan" (Find a Grave #232002112; Providence Journal obituary) | Actual name was Kate, not Kay. Find a Grave (Tier 1) and obituary (Tier 2) supersede GEDCOM (Tier 3). |
 | Father's dates | Joseph Brandt b. ~1815 / d. ~1891 (GEDCOM) | Helen born ~1894-1897 (revised estimate) | GEDCOM dates for Joseph Brandt are data errors. A birth year of ~1860-1875 is more plausible. See [[Joseph_Brandt]]. |
 

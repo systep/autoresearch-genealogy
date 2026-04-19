@@ -1,7 +1,7 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-18
 tags: [genealogy, family-tree]
 confidence: mixed
 sources: [Assets/Screenshots, Assets/IMG_0782-0792, Assets/IMG_0791-church-note, web-research-2026-04-09]
@@ -200,7 +200,7 @@ The names in the family tree screenshots (Dovber, Yekutiel, Rivka, Srul, Levi, R
 
 ### Markel Family (Galicia, Thelma Markel's Paternal Line)
 
-*Source: Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2); GEDCOM (Tier 3); 1940/1950 Census (Tier 1); RIJHA article (Tier 2); **Sambor Jewish Marriages 1891-1897 (AGAD Fond 424 File 103 Record 34, Tier 1)** and **Sambor Jewish Marriage Banns 1904-1926 (AGAD Fond 424 File 212 Record 65, Tier 1)** — both added 2026-04-17.* **(strong for Hersch-Lea-parents generation)**
+*Source: Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2); GEDCOM (Tier 3); 1940/1950 Census (Tier 1); RIJHA article (Tier 2); **RIJHA M Obituaries PDF — Helen Markel obit Nov 1976 + Joseph H. Markel obit Dec 1989 (Tier 2)** — added 2026-04-18; **Sambor Jewish Marriages 1891-1897 (AGAD Fond 424 File 103 Record 34, Tier 1)** and **Sambor Jewish Marriage Banns 1904-1926 (AGAD Fond 424 File 212 Record 65, Tier 1)** — both added 2026-04-17.* **(strong for Hersch-Lea-parents generation; strong for Morris/Helen/children generation via RIJHA obituaries)**
 
 Thelma Markel (1920-2011, married Leonard Irving Salmanson 1947) was the daughter of [[Morris_Markel]] and [[Helen_Brandt]]. The Markel family is now confirmed at Tier 1 as being from **Waniowice** (Yichus: "Vanyavitch"), a village in the Sambor district of Galicia (now Sambir Raion, Lviv Oblast, Ukraine). Two independent primary-source civil marriage records (1894, 1919) place both the Markel and Frei families in Waniowice and record Hersch Markel's occupation as innkeeper (*Schenker*). The Sambor Yizkor book lists "Yosef Markel and Family (5 People)" in the necrology, likely a descendant of this family.
 
@@ -214,13 +214,13 @@ Thelma Markel (1920-2011, married Leonard Irving Salmanson 1947) was the daughte
     │   │   ├── Florence Buchwald Sternbach (1917, dec.) + David Futtersak
     │   │   └── Hinda Lea Sternbach Hoffman (b. 1942) + Victor Hoffman (b. 1940)
     │   ├── 2. [[Masha_Markel_Tachner]] (Mashe; murdered 1939) + Tachner
-    │   ├── 3. [[Morris_Markel]] (Moishe Myer; d. 1963) + [[Helen_Brandt]]
+    │   ├── 3. [[Morris_Markel]] (Moishe Myer / Mojżesz Majer MARKIEL; b. ~1890-1891, Waniowice; d. **1964, Florida**) + [[Helen_Brandt]] (Dwora GOLDBAUM false BRAND; b. **Nov 26, 1889**, Lisko, Poland; d. **Nov 6, 1976**, Miriam Hospital, Providence RI; buried Lincoln Park Cemetery)
+    │   │   [Operated **Markel Dress Store** in West Warwick, retiring 1957 (RIJHA obit, Tier 2)]
     │   │   ├── [[Thelma_Markel]] (Tobi; 1920-2011) + [[Leonard_Irving_Salmanson]]
-    │   │   ├── Anne Markel (~1922) + Sol Schlusselberg
-    │   │   ├── Rita Markel (~1925)
+    │   │   ├── Anne Markel (~1922) + **Peppi Schlusselberg** (1927-2014, Hewlett NY, buried Israel) — *corrected from "Sol Schlusselberg" (GEDCOM Tier 3); per MyHeritage/research agents*
+    │   │   ├── Freda Markel (dec.; "Miss Freda Markel of New York City" per Helen's 1976 obit) = **Rita** in 1940/1950 Census — same person, different names
     │   │   ├── Kate Markel (1925-2006) + Irving Kaplan (dec.)
-    │   │   ├── Frieda Markel (dec.)
-    │   │   └── Joseph Harold Markel (~1932)
+    │   │   └── Joseph Harold Markel (~1932, Providence – **Dec 6, 1989**, age 57; URI grad, BU Law; co-founder Mortgage Guarantee & Title Co.; Army vet; sons **M. William Markel** and **Gregory S. Markel**; buried Lincoln Park Cemetery)
     │   ├── 4. [[Sarah_Markel_Tachner]] (Tsirl) + (1) Arthur Goodman (div.) + (2) Max Tachner
     │   │   ├── Harold Tachner
     │   │   └── Irving Tachner
@@ -231,7 +231,7 @@ Thelma Markel (1920-2011, married Leonard Irving Salmanson 1947) was the daughte
     │   │   ├── Hashy (b. 1940)
     │   │   └── Lea (b. 1945)
     │   ├── 8. [[Pessel_Peppy_Frei]] (Pessel/Peggy; murdered 1939/1940)
-    │   └── 9. [[Mojzesz_Majer_Markiel]] (NEW 2026-04-17; b. Waniowice ~1895-1900, merchant in Sambor, m. Dwora Goldbaum/Brand of Lisko, 1919)
+    │   └── ~~9. [[Mojzesz_Majer_Markiel]]~~ — **RESOLVED 2026-04-18: Mojżesz Majer Markiel IS Morris Markel (#3 above).** The 1919 Sambor marriage banns (Tier 1) record the marriage of "Mojżesz Majer MARKIEL" to "Dwora GOLDBAUM false BRAND of Lisko" — this is Morris marrying Helen Brandt. "Mojżesz Majer" is the Polish civil form of "Moishe Myer." Dwora's parents (Józef Brand + Brancia Goldbaum) match Helen's parents (Joseph Brandt + Brina Goldbaum) exactly. NOT a separate sibling. See [[Mojzesz_Majer_Markiel]] for full identity analysis.
     └── Mattis Markel (Yichus, Tier 2; Heshel's brother)
 
 [[Dov_Markel]]'s wife: [[Henie_Markel]] of Waniowice (Tier 1; maiden name unresolved — possibly Markel/endogamous, or omitted)

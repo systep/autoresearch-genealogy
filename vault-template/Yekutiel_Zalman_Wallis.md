@@ -1,8 +1,8 @@
 ---
 type: person
 name: "Yekutiel Zalman Wallis (Volis)"
-born:
-died:
+born: ~1794
+died: ~1872
 family: "Zalmanson"
 confidence: strong
 sources:
@@ -21,8 +21,8 @@ tags: [genealogy, zalmanson, wallis, volis, person, chabad]
 | Field | Value | Source |
 |---|---|---|
 | Full Name | R' Yekutiel Zalman Wallis / Volis / Volem | MyHeritage, Geni.com |
-| Born | Unknown | |
-| Died | Unknown | |
+| Born | ~1794, Berdychiv, Zhytomyr Uyezd, Volyn Guberniya, Russian Empire (unverified) | MyHeritage GEDCOM export (Tier 3) |
+| Died | ~1872, Berdychiv, Zhytomyrs'ka oblast, Ukraine (unverified) | MyHeritage GEDCOM export (Tier 3) |
 | Father | **Yosef Bunim** (son-in-law of Rabbi Levi Yitzchak of Berditchev) | shulchanaruchharav.com |
 | Mother | Unknown | |
 | Spouse | **Rivka Beila (Shneuri)** (daughter of the Mitteler Rebbe) | MyHeritage, Geni.com |

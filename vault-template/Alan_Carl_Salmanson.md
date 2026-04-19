@@ -1,7 +1,7 @@
 ---
 type: person
 name: "Alan Carl Salmanson"
-born: unknown
+born: ~1951
 died: unknown
 family: "Salmanson"
 confidence: strong
@@ -10,6 +10,7 @@ sources:
   - "Find a Grave #231959694 (Leonard Irving memorial)"
   - "Thelma Markel memorial (Find a Grave #231959788)"
   - "Moses Brown School records"
+  - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-10
 tags: [genealogy, salmanson, person, rhode-island, providence, cranston]
 ---
@@ -21,7 +22,7 @@ tags: [genealogy, salmanson, person, rhode-island, providence, cranston]
 | Field | Value | Source |
 |---|---|---|
 | Full Name | Alan Carl Salmanson (also Alan C. Salmanson) | Samuel Salmanson obituary, Find a Grave #231959694 |
-| Born | Unknown (graduated Moses Brown School 1969, so likely ~1950-1951) | Moses Brown School |
+| Born | ~1951 (graduated Moses Brown School 1969, so likely ~1950-1951; GEDCOM records "1951") | Moses Brown School; MyHeritage GEDCOM export (Tier 3) |
 | Father | [[Leonard_Irving_Salmanson]] (June 21, 1910 - May 15, 1975) | Find a Grave #231959694 |
 | Mother | [[Thelma_Markel]] (September 12, 1920 - September 22, 2011) | Find a Grave #231959788 |
 | Spouse | [[Kathryn_Ann_Kascher]] (b. January 1, 1946) | Handwritten chart, family records |

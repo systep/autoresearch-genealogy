@@ -12,7 +12,7 @@ sources:
   - "MyHeritage Smart Match (Geni)"
   - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
 created: 2026-04-10
-updated: 2026-04-17
+updated: 2026-04-18
 tags: [genealogy, markel, person, galicia, jewish, tier-1, waniowice, sambor]
 ---
 
@@ -38,7 +38,7 @@ tags: [genealogy, markel, person, galicia, jewish, tier-1, waniowice, sambor]
 | Father-in-law | **[[Yoseph_Frei\|Jozef Frei]]** of Waniowice | 1894 marriage (Tier 1) |
 | Mother-in-law | **[[Toba_Rivka_Frei\|Taube Frei]]** of Waniowice | 1894 marriage (Tier 1) |
 | Children (total) | 14 born, 6 died in childhood, 8+ surviving | Yichus narrative (Tier 2) |
-| Surviving Children (documented) | 1. [[Minnie_Markel_Sternbach]] (Freitca Miritza, 1887-1975); 2. [[Masha_Markel_Tachner]] (Mashe, d. 1939, Pogrom); 3. [[Morris_Markel]] (Moishe Myer); 4. [[Sarah_Markel_Tachner]] (Tsirl); 5. [[Avraham_Chaim_Markel]] (d. 1939, Pogrom); 6. [[Hannah_Markel]] (d. 1939, Pogrom); 7. [[Florence_Markel_Mermelstein]] (Sura Feiga, 5/15/1909-11/24/1990); 8. [[Pessel_Peppy_Frei]] (Pessel/Peggy, d. 1939/1940, Pogrom); 9. **[[Mojzesz_Majer_Markiel]]** (b. Waniowice, merchant in Sambor, m. Dwora Goldbaum/Brand 1919, NEW via Gesher Galicia sweep 2026-04-17) | Yichus (1-8, Tier 2); 1919 marriage banns (9, Tier 1) |
+| Surviving Children (documented) | 1. [[Minnie_Markel_Sternbach]] (Freitca Miritza, 1887-1975); 2. [[Masha_Markel_Tachner]] (Mashe, d. 1939, Pogrom); 3. [[Morris_Markel]] (Moishe Myer / **Mojżesz Majer MARKIEL**; b. ~1890-1891; d. **1964, Florida**); 4. [[Sarah_Markel_Tachner]] (Tsirl); 5. [[Avraham_Chaim_Markel]] (d. 1939, Pogrom); 6. [[Hannah_Markel]] (d. 1939, Pogrom); 7. [[Florence_Markel_Mermelstein]] (Sura Feiga, 5/15/1909-11/24/1990); 8. [[Pessel_Peppy_Frei]] (Pessel/Peggy, d. 1939/1940, Pogrom). ~~9. [[Mojzesz_Majer_Markiel]]~~ **RESOLVED 2026-04-18: #9 IS #3 (Morris Markel).** The 1919 marriage record is Morris's own marriage to Helen Brandt (= Dwora Goldbaum/Brand). Not a separate sibling. | Yichus (1-8, Tier 2); 1919 marriage banns (Tier 1); RIJHA obituary (Tier 2) |
 
 ## Biography
 
@@ -46,7 +46,7 @@ Heshel (civil name Hersch) Markel was born in 1862 in Waniowice (Yichus: "Vanyav
 
 Heshel's patrilineal line: **Mordko Ber Markiel → Heshel** is now confirmed at Tier 1 by the 1894 marriage record, which lists Hersch's father as **"Mordko Ber MARKIEL"** of Waniowice. The Yichus narrative's earlier attribution of Heshel's father as "Dov" is reconciled by noting that "Mordko Ber" is a Yiddish compound name (Mordko = Mordechai; Ber = Yiddish for bear = Hebrew Dov); family oral tradition preserved only the "Dov/Ber" component. The previously-hypothesized grandfather **[[Nissen_Mendel_Markel]]** is NOT corroborated by the 1894 civil record (which names only the father's generation) and rests on Yichus tradition alone (Tier 2). Heshel's mother is now identified as **[[Henie_Markel]]** of Waniowice (same 1894 marriage record, Tier 1), where previously the vault recorded only [[Wife_Markel]] with no name. Heshel had a brother **Mattis** (Yichus narrative, Tier 2).
 
-Heshel and [[Leah_Frei]] were civilly registered as married on **21 August 1894** (Sambor Jewish Marriages 1891-1897 register). At that point Lea was age 29. The Yichus narrative states they were married in 1878 at ages 16 and 14 respectively; this is best reconciled as a religious marriage in 1878 that was civilly backfilled in 1894, a pattern that was extremely common among Galician Jews after the 1876 Austrian law required civil registration of Jewish marriages. Together they had **14 children**, of whom **6 died in childhood** and at least **9** are now documented by name (the Yichus lists 8 survivors; the 2026-04-17 Gesher Galicia sweep confirmed a 9th, **Mojżesz Majer Markiel**, who was born in Waniowice and married Dwora Goldbaum/Brand of Lisko in 1919).
+Heshel and [[Leah_Frei]] were civilly registered as married on **21 August 1894** (Sambor Jewish Marriages 1891-1897 register). At that point Lea was age 29. The Yichus narrative states they were married in 1878 at ages 16 and 14 respectively; this is best reconciled as a religious marriage in 1878 that was civilly backfilled in 1894, a pattern that was extremely common among Galician Jews after the 1876 Austrian law required civil registration of Jewish marriages. Together they had **14 children**, of whom **6 died in childhood** and **8** surviving children are documented by name in the Yichus narrative. (A previously-listed 9th child, **Mojżesz Majer Markiel**, identified from the 2026-04-17 Gesher Galicia sweep, was **resolved on 2026-04-18 as being the same person as Morris Markel (#3)**. The 1919 marriage banns record Morris's own marriage to Helen Brandt (= Dwora Goldbaum/Brand of Lisko). See [[Mojzesz_Majer_Markiel]] for full identity analysis.)
 
 The eight surviving children, in birth order per the Yichus narrative (pages 6-8, Ruth Gold):
 1. **[[Minnie_Markel_Sternbach]]** (Freitca Miritza; 1887-1975), settled Rhode Island; first sibling to emigrate

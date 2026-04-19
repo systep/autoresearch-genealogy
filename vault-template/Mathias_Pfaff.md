@@ -1,0 +1,47 @@
+---
+type: person
+name: "Mathias Pfaff"
+born: 1836
+died: 1899-12-14
+family: "Pfaff"
+confidence: speculative
+sources:
+  - "MyHeritage GEDCOM export (Tier 3)"
+created: 2026-04-18
+tags: [genealogy, pfaff, person]
+---
+
+# Mathias Pfaff
+
+## Vital Information
+
+| Field | Value | Source |
+|---|---|---|
+| Full Name | Mathias Pfaff | MyHeritage GEDCOM (unverified) |
+| Born | 1836 | MyHeritage GEDCOM (unverified) |
+| Birthplace | Unknown | MyHeritage GEDCOM (unverified) |
+| Died | 14 DEC 1899 | MyHeritage GEDCOM (unverified) |
+| Father | Unknown | MyHeritage GEDCOM (unverified) |
+| Mother | Unknown | MyHeritage GEDCOM (unverified) |
+| Spouse | Unknown | MyHeritage GEDCOM (unverified) |
+| Children | None recorded | MyHeritage GEDCOM (unverified) |
+
+## Biography
+
+Mathias Pfaff was born 1836 (unverified).
+
+Mathias Pfaff died 14 DEC 1899 (unverified).
+
+All data sourced from MyHeritage GEDCOM export (Tier 3). No independent verification has been performed.
+
+## Document Sources
+
+| Document | Type | Vault Note |
+|---|---|---|
+| MyHeritage GEDCOM export | Family tree database (Tier 3) | Unverified |
+
+## Data Discrepancies
+
+| Field | Source A | Source B | Resolution |
+|---|---|---|---|
+| | | | |

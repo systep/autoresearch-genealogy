@@ -2,14 +2,18 @@
 type: person
 name: "Morris Moishe Myer Markel"
 born: unknown
-died: 1963
+died: 1964
 family: "Markel"
 confidence: strong
 sources:
+  - "RIJHA M Obituaries PDF (Helen Markel obituary, Nov 1976; Tier 2) — confirms death in Florida, Markel Dress Store, 5 children"
+  - "RIJHA M Obituaries PDF (Joseph H. Markel obituary, Dec 1989; Tier 2) — confirms sons M. William and Gregory S. Markel"
+  - "Kate Markel Kaplan Find a Grave #232002112 — parent dates (1890-1964) and (1889-1976) (Tier 1)"
   - "MyHeritage family tree (Tier 3, unverified)"
   - "Geni World Family Tree (Tier 3, unverified)"
   - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
 created: 2026-04-10
+updated: 2026-04-18
 tags: [genealogy, markel, person, poland, jewish, immigrant, rabbi, rhode-island]
 ---
 
@@ -21,15 +25,15 @@ tags: [genealogy, markel, person, poland, jewish, immigrant, rabbi, rhode-island
 |---|---|---|
 | Full Name | Moishe Myer (Morris) Markel | MyHeritage (Tier 3); Yichus narrative (Tier 2) |
 | Born | ~1891-1892, Vanyavitch, Galicia (Austria/Poland) | 1940 Census: age 48, Poland (Tier 1); 1950 Census: age 59, Austria (Tier 1) |
-| Died | 1963 | MyHeritage (Tier 3, unverified) |
+| Died | **1964, Florida** | Kate Markel Kaplan Find a Grave #232002112 parent dates (1890-1964) (Tier 1); Helen Markel RIJHA obituary: "widow of Morris Markel" + residences show move to Miami FL ~1957 (Tier 2). Corrected from 1963 (MyHeritage, Tier 3). |
 | Father | [[Heschel_Herman_Markel]] (Heshel Markel; b. 1862, Vanyavitch, Galicia; d. 1916) | MyHeritage (Tier 3); Yichus (Tier 2) |
 | Mother | [[Leah_Frei]] (Leah Frei; b. 1864; d. 1940) | MyHeritage (Tier 3); Yichus (Tier 2) |
 | Paternal Grandfather | [[Dov_Markel]] | MyHeritage (Tier 3); Yichus (Tier 2) |
 | Paternal Great-Grandfather | [[Nissen_Mendel_Markel]] | Yichus narrative (Tier 2) |
 | Maternal Grandparents | [[Yoseph_Frei]] + [[Toba_Rivka_Frei]] (of Dubosari) | MyHeritage (Tier 3); Yichus (Tier 2) |
 | Spouse | [[Helen_Brandt]] (Helen Brandt Markel) | MyHeritage (Tier 3); Yichus (Tier 2) |
-| Occupation | Rabbi, Ahavath Sholom Synagogue, Arctic (West Warwick), RI | Yichus narrative (Tier 2) |
-| Children | Thelma (Tobi) Markel (1920-2011), Anne Markel (~1922), Rita Markel (~1925), Katherine/Kate Markel (~1926), Joseph Harold Markel (~1932) | 1940 Census (Tier 1); 1950 Census (Tier 1); Yichus (Tier 2) |
+| Occupation | Rabbi / learned man, Ahavath Sholom Synagogue, Arctic (West Warwick), RI; co-operated **Markel Dress Store** in West Warwick with wife Helen, retiring 1957 | Yichus narrative (Tier 2); RIJHA Helen Markel obituary (Tier 2) |
+| Children | Thelma (Tobi) Markel (1920-2011), Anne Markel (~1922), Freda/Rita Markel (~1925; same person), Katherine/Kate Markel (Dec 6, 1925-Jan 11, 2006), Joseph Harold Markel (~1932-Dec 6, 1989) | 1940 Census (Tier 1); 1950 Census (Tier 1); Yichus (Tier 2); RIJHA obituaries (Tier 2) |
 
 ## Biography
 
@@ -107,24 +111,23 @@ Searches attempted:
 3. Helen's age: 43 in 1940 (b. ~1897) vs 59 in 1950 (b. ~1891). **Six year discrepancy.** Helen appears to have understated her age in 1940 or overstated it in 1950.
 4. "Harold" (1940) = "Joseph" (1950) = **Joseph Harold Markel**. The Yichus narrative confirms: "First son Joseph Harold was born." The 1940 census used the middle name; the 1950 used the first name.
 5. Thelma absent from 1950 (married Leonard Salmanson 1947).
-6. Frieda Markel not listed in either census. She may have died young, married before 1940, or been living elsewhere.
-7. No "Frieda" but the Yichus lists "Frieda Markel dec." separately. She may be a different generation or died before 1940.
+6. **RESOLVED 2026-04-18: "Frieda" IS "Rita."** "Rita" in both census records = "Freda/Frieda" in Yichus and Helen's 1976 obituary. Helen's obituary lists exactly 5 children (Joseph H., Thelma, Anne, Freda, Kate) with no separate "Rita." Same person, different names.
 
 ### Ahavath Sholom Discrepancy
 
 The Yichus narrative states Morris "entered the United States claiming to fill a position as a Rabbi" at Ahavath Sholom. However, a historical article about the congregation ("The Founding of a Jewish Community: The Early Years of Congregation Ahavath Shalom of West Warwick, Rhode Island" by Rebecca Twersky, RI Jewish Historical Notes, Vol. 7, 1977) states that the small congregation of 30 families "could not afford a rabbi" and that the men who served the community were "not rabbis, just learned men." Morris, described as "a very learned man" in the Yichus narrative, may have functioned as a de facto religious leader without being formally employed as an ordained rabbi, or may have served in this capacity at a later date after the congregation grew. The Yichus narrative's phrasing ("claiming to fill a position") may refer to his immigration visa justification rather than actual employment.
 
-Morris and Helen had at least six documented children (1940 and 1950 Census, Tier 1; Yichus narrative, Tier 2):
+Morris and Helen had **five** children (per RIJHA obituary, Tier 2; confirmed by 1940 and 1950 Census, Tier 1; Yichus narrative, Tier 2). Previously listed as six because "Rita" (Census) and "Frieda" (Yichus) were counted separately; they are the same person:
 1. **Thelma (Tobi) Markel** (Sept 12, 1920, Poland; d. Sept 22, 2011), age 19 in 1940 Census. Married (1) [[Leonard_Irving_Salmanson]] (1947), (2) Leonard Rodbell (1978). Absent from 1950 Census (already married).
-2. **Anne Markel** (~1922), age 18 in 1940, age 28 in 1950. Married Sol Schlusselberg.
-3. **Rita Markel** (~1925), age 15 in 1940, age 25 in 1950. Not previously in vault.
+2. **Anne Markel** (~1922), age 18 in 1940, age 28 in 1950. Married **Peppi Schlusselberg** (1927-2014, Hewlett NY, buried Israel). Previously listed as "Sol Schlusselberg" per GEDCOM (Tier 3); corrected per MyHeritage/research agents and Peppi Schlusselberg obituary (dignitymemorial.com).
+3. **Rita / Freda Markel** (~1925), age 15 in 1940 (as "Rita"), age 25 in 1950 (as "Rita"). **Rita and Freda are the same person** — "Rita" appears in both census records (1940, 1950), while "Miss Freda Markel of New York City" appears in Helen's 1976 RIJHA obituary. The Yichus narrative lists "Frieda Markel (dec.)" Helen's obituary lists 5 children (Joseph H., Thelma, Anne, Freda, Kate) with no "Rita," confirming the equivalence.
 4. **Katherine "Kate" Markel** (Dec 6, 1925, Poland; d. Jan 11, 2006), age 14 in 1940, age 24 in 1950. Married Irving Kaplan. URI graduate. Biochemist at Sloan Kettering. Buried Lincoln Park Cemetery, Warwick, RI. (Kate Kaplan obituary, Providence Journal, Jan 13, 2006; Find a Grave #232002112)
-5. **Joseph Harold Markel** (~1932), age 8 in 1940 (listed as "Harold"), age 18 in 1950 (listed as "Joseph"). The Yichus narrative confirms: "First son Joseph Harold was born."
-6. **Frieda Markel** (dec.). Listed in Yichus but absent from both 1940 and 1950 Census. May have died before 1940 or been living elsewhere.
+5. **Joseph Harold Markel** (~1932, Providence – Dec 6, 1989, age 57), age 8 in 1940 (listed as "Harold"), age 18 in 1950 (listed as "Joseph"). The Yichus narrative confirms: "First son Joseph Harold was born." URI graduate, BU Law degree. Co-founder & president of Mortgage Guarantee & Title Co., Providence. Army veteran. Sons: M. William Markel, Gregory S. Markel. Buried Lincoln Park Cemetery, Warwick, RI. (RIJHA obituary, Tier 2)
+~~6. **Frieda Markel** (dec.)~~ — **RESOLVED 2026-04-18: Frieda = Rita (child #3 above).** Previously listed separately because "Rita" appeared in census and "Frieda" in Yichus, but Helen's 1976 obituary listing 5 children (not 6) with "Freda" and no "Rita" confirms they are the same person.
 
 Through his daughter Thelma's marriage to Leonard Irving Salmanson, Morris is the paternal grandfather of [[Alan_Carl_Salmanson]], [[Kathryn_Ann_Kascher]]'s husband, connecting the Polish Jewish Markel family to the Providence Salmanson family.
 
-Morris died in 1963. The location and circumstances of his death are not documented in available sources.
+Morris died in **1964 in Florida**. Kate Markel Kaplan's Find a Grave memorial (#232002112) lists parent dates as (1890-1964) and (1889-1976), and Helen's RIJHA obituary (Tier 2) describes her as "widow of Morris Markel" and states she lived in Miami, FL after retiring from the Markel Dress Store in 1957. The family's move to Miami ~1957 and Morris's death there in 1964 are consistent. The previous death year of 1963 (MyHeritage, Tier 3) is superseded by the Find a Grave parent dates (Tier 1) and the RIJHA obituary context (Tier 2).
 
 ### Obituary Search Status (2026-04-18)
 
@@ -167,3 +170,8 @@ Conducted 12 targeted searches for Morris Markel's obituary through RIJHA, Find 
 | Occupation | Not recorded (MyHeritage) | Rabbi at Ahavath Sholom Synagogue, Arctic (West Warwick), RI (Yichus narrative, Tier 2) | Yichus narrative is higher tier. Morris entered the US claiming to fill this rabbinical position. However, RIJHA historical article (Tier 2) states congregation of 30 families "could not afford a rabbi" and had "learned men" instead. Morris was "a very learned man" (Yichus) but may not have held a formal rabbinical appointment. |
 | Daughter's name | "Kay Markel" (m. Irving Kaplan) (GEDCOM, Geni) | Kate Markel Kaplan (Find a Grave #232002112; Providence Journal obituary) | Actual name was Kate, not Kay. Find a Grave (Tier 1) and obituary (Tier 2) supersede GEDCOM (Tier 3). |
 | Immigration date | Not documented | ~1928 (Kate Kaplan obituary: born Poland, arrived West Warwick at age 3; Kate born Dec 1925) | Family immigrated ~1928. Kate Kaplan obituary (Tier 2). |
+| Death year | 1963 (MyHeritage, Tier 3) | **1964** (Kate Markel Kaplan Find a Grave #232002112 parent dates: 1890-1964; Tier 1) | **RESOLVED 2026-04-18: 1964 is correct.** Find a Grave (Tier 1) supersedes MyHeritage (Tier 3). Helen's RIJHA obituary (Tier 2) states she was "widow of Morris Markel" and lived in Miami FL after retiring 1957, consistent with Morris dying in Florida 1964. |
+| Death location | Unknown | **Florida** | RIJHA Helen Markel obituary (Tier 2): Helen "lived in West Warwick for 26 years, moving to Miami, Fla." Morris died while the couple was living in Florida. |
+| Anne's husband | Sol Schlusselberg (GEDCOM, Tier 3) | **Peppi Schlusselberg** (1927-2014, Hewlett NY, buried Israel; MyHeritage/research agents) | **RESOLVED 2026-04-18: Peppi Schlusselberg is correct.** "Sol" appears only in GEDCOM (Tier 3). Peppi Schlusselberg obituary at dignitymemorial.com confirms identity. |
+| Daughter Rita/Freda | "Rita Markel" (1940, 1950 Census, Tier 1); "Frieda Markel (dec.)" (Yichus, Tier 2) | "Miss Freda Markel of New York City" (Helen's 1976 RIJHA obituary, Tier 2) | **RESOLVED 2026-04-18: Rita and Freda are the same person.** Helen's obituary lists exactly 5 children (Joseph H., Thelma, Anne, Freda, Kate) with no "Rita." Census records list "Rita" with no "Freda." Same person used different names. |
+| Identity: Mojzesz Majer | [[Mojzesz_Majer_Markiel]] (1919 marriage banns, Tier 1) listed as 9th child | Morris Markel (Moishe Myer), child #3 | **RESOLVED 2026-04-18: Same person.** "Mojżesz Majer" is the Polish civil form of "Moishe Myer." The bride Dwora Goldbaum/Brand = Helen Brandt (parents match exactly). NOT a separate sibling. |

@@ -7,6 +7,7 @@ family: "Markel"
 confidence: low
 sources:
   - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
+  - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-10
 tags: [genealogy, markel, sternbach, person, galicia, jewish, rhode-island, tier-2]
 ---
@@ -21,6 +22,7 @@ tags: [genealogy, markel, sternbach, person, galicia, jewish, rhode-island, tier
 | Born | 1887 | Yichus narrative (Tier 2) |
 | Birthplace | Vanyavitch, Galicia (near Lemberg/Lviv; Austria/Poland; now Ukraine) | Yichus narrative (Tier 2) |
 | Died | 1975 | Yichus narrative (Tier 2) |
+| Death Place | Providence, Providence, Rhode Island, USA (unverified) | GEDCOM (Tier 3) |
 | Burial | Unknown | |
 | Father | [[Heschel_Herman_Markel]] (Heshel Markel; b. 1862; d. 1916) | Yichus narrative (Tier 2) |
 | Mother | [[Leah_Frei]] (b. 1864; d. 1940) | Yichus narrative (Tier 2) |
@@ -77,4 +79,6 @@ Confidence: Moderate. The Yichus narrative (Tier 2) provides birth year, death y
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | Birth year | 1887 (Yichus narrative, Tier 2) | 1889 (MyHeritage, Tier 3, per Morris Markel file reference to "Minnie Mircha Markel 1889-1975") | Yichus narrative (Tier 2) takes precedence over MyHeritage (Tier 3). The 1887 date is from a primary family document; 1889 is from an unverified user-contributed tree. Defer to 1887 pending independent confirmation. |
+| Birthplace | Vanyavitch, Galicia (Yichus narrative, Tier 2) | "Wamocoica, Austria, Galicia?, Austria" (GEDCOM, Tier 3) | "Wamocoica" is likely a garbled rendering of "Waniowice" (the established Markel family village). Both refer to the same location. Yichus/Tier 1 records confirm Waniowice. |
+| Death place | Not previously documented | Providence, Providence, Rhode Island, USA (GEDCOM, Tier 3) | New data from GEDCOM. Unverified. |
 | Name variant | "Minnie Markel Sternbach" (Yichus) | "Minnie Mircha Markel" (MyHeritage) | "Mircha" may be a Yiddish name variant or middle name not mentioned in the Yichus narrative. Both refer to the same person. |

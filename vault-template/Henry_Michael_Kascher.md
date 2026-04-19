@@ -2,7 +2,7 @@
 type: person
 name: "Henry Michael Kascher"
 born: 1914-12-10
-died:
+died: 1987-01-10
 family: "Kascher"
 confidence: strong
 sources:

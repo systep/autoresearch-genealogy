@@ -4,16 +4,19 @@ name: "Mojzesz Majer Markiel"
 born: ~1895-1900
 died:
 family: "Markel"
-confidence: low
+confidence: strong
 sources:
   - "AGAD Warsaw, Fond 424, File 212, Record 65, Page 315 (Sambor Jewish Marriage Banns 1904-1926, Tier 1; marriage to Dwora Goldbaum/Brand 1919)"
 created: 2026-04-17
-tags: [genealogy, markel, person, galicia, jewish, tier-1, waniowice, sambor, newly-documented]
+updated: 2026-04-18
+tags: [genealogy, markel, person, galicia, jewish, tier-1, waniowice, sambor, identity-resolved, duplicate-of-morris-markel]
 ---
 
 # Mojzesz Majer Markiel
 
-New person file created 2026-04-17 via Gesher Galicia sweep. Previously unknown to the vault.
+**IDENTITY RESOLVED 2026-04-18: This person IS [[Morris_Markel]] (Moishe Myer Markel, sibling #3).** The 1919 Sambor marriage banns record Morris's own marriage to Helen Brandt (= Dwora Goldbaum/Brand of Lisko). "Mojżesz Majer" is the Polish civil form of "Moishe Myer." The bride's parents (Józef Brand + Brancia Goldbaum) match Helen Brandt's known parents (Joseph Brandt + Brina Goldbaum) exactly. This is NOT a separate 9th sibling. See the "Critical Identity Analysis" section below for the full data-point-by-data-point match.
+
+Originally created 2026-04-17 via Gesher Galicia sweep as a presumed new individual. Reclassified 2026-04-18 as a duplicate of Morris Markel.
 
 ## Vital Information
 
@@ -41,7 +44,7 @@ Mojżesz Majer Markiel was a son of Hersch Markel and Lea Frei, born in Waniowic
 
 The match with Heshel and Leah's known family is certain: both parents are named, both with Waniowice as town of origin, and the father's surname spelling (MARKIEL) and occupation (innkeeper, the German *Schenker*, or the Polish *karczmarz*) match the established family. The mother's surname is spelled FREY on this 1919 record, vs FREI on the 1894 marriage record of the parents — a routine orthographic variation.
 
-Mojżesz Majer is not mentioned in Ruth Gold's 2011 Yichus narrative, which lists 8 surviving children. He is the 9th documented child. His absence from the Yichus suggests either (a) he died before the Yichus author's generation came of age, (b) he emigrated and lost contact with the Rhode Island / US branch of the family, (c) he was murdered in the Holocaust and his name was not preserved by survivors who emigrated before the war, or (d) he is simply an omission from Ruth Gold's oral-tradition reconstruction. His fate after 1919 is currently unknown.
+**RESOLVED 2026-04-18:** Mojżesz Majer IS mentioned in the Yichus narrative -- as **Morris (Moishe Myer) Markel**, child #3. The reason he appeared to be a "new 9th child" was that the 1919 marriage record uses the Polish civil name form (Mojżesz Majer MARKIEL) while the Yichus uses the Yiddish/American form (Moishe Myer / Morris Markel). The bride "Dwora GOLDBAUM false BRAND of Lisko" is Helen Brandt Markel (Dwora = Helen's Yiddish name; GOLDBAUM false BRAND = her legal/alias surname; Józef Brand = Joseph Brandt, her father; Brancia Goldbaum = Brina Goldbaum, her mother). Morris emigrated to the US ~1928, settled in West Warwick RI, co-operated the Markel Dress Store, and died in 1964 in Florida. See [[Morris_Markel]] for full biography.
 
 Confidence: **Strong** on all data derived from the 1919 marriage banns (Tier 1 primary civil record). Strong on the sibling relationship to Heshel and Leah's other documented children (multiple independent identifiers match).
 

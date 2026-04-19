@@ -2,12 +2,13 @@
 type: person
 name: "Levi Itzhak Zalmanson"
 born: 1851
-died:
+died: ~1907
 family: "Zalmanson"
 confidence: moderate
 sources:
   - "MyHeritage family tree"
   - "Geni.com profile for Rabbi Levi Yitzchok Zalmanson (1812-1872), family tree lists Srul Mendel and descendants including Levi Itzhak (Tier 3)"
+  - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-09
 tags: [genealogy, zalmanson, person, lithuania, rokiskis]
 ---
@@ -20,7 +21,7 @@ tags: [genealogy, zalmanson, person, lithuania, rokiskis]
 |---|---|---|
 | Full Name | Levi Itzhak Zalmanson | MyHeritage |
 | Born | 1851 | MyHeritage |
-| Died | Unknown | |
+| Died | ~January 28, 1907 (unverified) | MyHeritage GEDCOM export (Tier 3) |
 | Father | [[Srul_Mendel_Zalmanson]] (1820-1854) | MyHeritage |
 | Mother | [[Gita_Zalmanson]] | MyHeritage |
 | Spouse 1 | [[Rochel_Tsine_Deych]] (b. 1861; m. December 2, 1877, Rokiškis, Lithuania) | MyHeritage |
@@ -29,7 +30,7 @@ tags: [genealogy, zalmanson, person, lithuania, rokiskis]
 
 ## Biography
 
-Levi Itzhak Zalmanson was born in 1851, the son of Srul Mendel Zalmanson (1820-1854) and Gita Zalmanson. His father died when Levi Itzhak was approximately 3 years old, in Barysaw (Borisov), Minsk Region, Belarus.
+Levi Itzhak Zalmanson was born in 1851, the son of Srul Mendel Zalmanson (1820-1854) and Gita Zalmanson. His father died when Levi Itzhak was approximately 3 years old, in Barysaw (Borisov), Minsk Region, Belarus. The GEDCOM records Levi Itzhak's death as approximately January 28, 1907 (unverified, Tier 3).
 
 He married **Rochel Tsine Deych** (b. 1861, daughter of Zawel Deykh) on **December 2, 1877** in **Rokiškis, Rokiškis District Municipality, Panevėžys County, Lithuania**. They had at least three children: Gita, Zalman, and Berko (Barnett). Berko was born in Vilnius (Vilna), Lithuania in 1883, suggesting the family moved from Rokiškis to Vilnius between 1877 and 1883.
 
