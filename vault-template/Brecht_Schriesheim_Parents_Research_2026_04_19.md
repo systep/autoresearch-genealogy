@@ -21,9 +21,9 @@ The father of emigrant [[Johann_Michael_Brecht]] (b. 28 May 1706 Schriesheim, d.
 
 Note: the vault file `Anna_Catherina_Bright_Brecht.md` was previously populated from a MyHeritage GEDCOM with a 1734 PA birth date, which is almost certainly a distinct later descendant (great-granddaughter?), NOT the 1726 emigrant widow. The 1726 emigrant widow is Anna Katarina Hoffman Brecht, born 1664 in Schriesheim.
 
-## Status: SUPPORTED (Moderate Signal)
+## Status: SUPPORTED (Moderate Signal, trending Strong)
 
-Multiple independent tertiary/secondary sources converge; primary register inspection on archion.de (Schriesheim Evangelical) would upgrade to Strong.
+Multiple independent tertiary/secondary sources converge; primary register inspection on archion.de (Schriesheim Evangelical) would upgrade to Strong. Round 5 retry (2026-04-19 post-500-error) adds confirming hits from Green 1900 (Tier 2), the werelate Stephen Brecht profile, FHL film #1597524 Item 14 (compiled genealogy), and the Schriesheim Ortsfamilienbuch reference via "Ancestors in Baden". These are substantially independent of WikiTree/Geni/Familypedia.
 
 ## Evidence For
 
