@@ -129,7 +129,44 @@ Conducted 40+ web searches across Find a Grave, BillionGraves, WikiTree, Legacy.
 
 ## 2026-04-19 Priority-Branch Sweep (continuation)
 
-Focus branches this run: Brecht/Bright PA, Kuniansky Atlanta cluster, Drake Greenville SC, Kascher Youngstown OH, Kleinberg. Only canonical `type: person` files touched; redirect stubs skipped.
+Focus branches this run: Brecht/Bright PA, Kuniansky Atlanta cluster, Drake Mississippi (user mentioned Greenville SC but vault has this Drake family in MS/AL/LA), Kascher Youngstown OH, Kleinberg. Only canonical `type: person` files touched; redirect stubs skipped.
+
+**Persons searched this run (31 unique new searches)**:
+- Kuniansky (8): Harry, Milton, Wolf, Isadore, Sidney, Raymond B., Pauline, Adele
+- Brecht/Bright PA (9): Johann Michael Brecht II, Michael Bright (1759), Johann Stephan Bright (reconfirm), Peter Bright (1774), Jacob Bright (1774), Samuel Bright Walker, David Bright (new FaG link), Samuel Graham Bright (repeat of 2026-04-18 NEEDS), Thomas Jefferson Bright
+- Drake (8): Matthew Bolivar, John Wallace, Sarah Elizabeth Richardson, Frank Marion, Albert Leander, Willie Henrietta, Mollie Drake Pearson (plus Pearson Cemetery browse)
+- Kleinberg (6): Max Herbert, Moses Robert, Bernard Benjamin L, Rosa, Max Bernard, Muriel
+- Kascher (2): Michael Kascher Sr, Henry Michael Kascher
+- Context search: Greenwood Cemetery Atlanta Jewish section
+
+**Priority adjustments made this run**:
+- Drake family in vault is tagged Mississippi/Alabama/Louisiana, NOT Greenville SC as stated in the sweep brief. Treated as Mississippi Drake cluster. (The Greenville SC connection in the vault is through the Cox/Henderson/Long/Bright/King lines, not the Drake surname.)
+- Find a Grave 403 on direct page fetches persists (same as 2026-04-18 and prior-session). All finds rely on web-search-indexed snippets.
+
+**Memorial finds this run (3 new vault-person links)**:
+1. Harry Kuniansky #99745398 — Greenwood Cemetery, Atlanta. DOB discrepancy logged (GEDCOM: 15 Jun 1888; memorial: 21 Mar 1889).
+2. Milton "Mickey" Kuniansky #140747645 — Crest Lawn Cemetery, Atlanta. New family data extracted (wife 72 yrs, 3 children, 5 grandchildren, sister Ruth Willner).
+3. David Bright (Pvt David Brecht) #47249821 — Reading, Berks Co, PA. Revolutionary War Patriotic Service.
+
+**Auxiliary finds (sibling memorials, no current vault person file)**:
+4. Pvt Peter Brecht #47251028 — Trinity Lutheran Church Cemetery, Reading. Son of Johann Michael Brecht (1706-1794); brother of David Bright.
+5. Marguerite Simone Brecht #146512237 — Wife of Johann Michael Brecht (1706-1794). Mother of the Brecht/Bright children generation including David, Peter, George Adam, Jacob, Christiana, Sarah, Anna Catherina.
+
+**Reconfirmations (already in vault sources, re-validated)**:
+- Johann Stephan Brecht #73801127 — already cited in [[Johann_Stephan_Bright]] sources.
+- George Adam Bright #285400993 — already cited in [[George_Adam_Bright]] sources (alongside #124244091). Date discrepancy noted: vault records death 1769, memorial records 1783. Reconciliation deferred to discrepancy-resolution workflow.
+
+**Discrepancies requiring escalation**:
+1. Harry Kuniansky DOB: GEDCOM (15 Jun 1888) vs Find a Grave memorial #99745398 (21 Mar 1889). Both Tier 3 and Tier 2 respectively. Need Georgia death certificate or Atlanta Jewish burial record (Tier 1) to resolve. Logged in Harry_Kuniansky.md Data Discrepancies.
+2. George Adam Bright death date: vault 1769 vs Find a Grave #285400993 1783. Defer to cross-reference audit; may indicate two individuals conflated.
+3. Argaleus Hercules Henderson I (prior finding): memorial #11725276 cemetery attribution (Oakwood, Richmond VA) conflicts with all genealogical sources (died Chatham Co NC). Not a new finding, carried from earlier sweep.
+
+**Next actions for future sweeps**:
+- Create vault person files for Pvt Peter Brecht (1738-1793) and Marguerite Simone Brecht (1708-1778) if they are to be treated as ancestors or documented siblings.
+- Try direct findagrave.com browser search for Greenwood Cemetery Atlanta "Kuniansky" (full cemetery roster likely contains Wolf, Isadore, Sidney, Raymond, Pauline).
+- Contact Crest Lawn Memorial Park (Atlanta) to cross-reference Kuniansky family plot via cemetery office.
+- Search the Kuniansky father-side (spouses Rosenberg, Willner) and Kleinberg in-laws.
+- For Michael Kascher Sr, BillionGraves has the headstone but Find a Grave indexing gap; may need manual cross-post.
 
 ### FOUND (new this sweep, 2026-04-19 priority continuation)
 
