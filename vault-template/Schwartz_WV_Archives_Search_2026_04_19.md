@@ -16,11 +16,40 @@ ocr_quality: partial
 
 A search of the West Virginia State Archives Vital Research Records index (wvculture.org/vrr) for **Schwartz** deaths in **Marshall County**, **year ~1907**, returned **one hit**:
 
-| Date of Death | First Name | Last Name | County | Image link |
-|---|---|---|---|---|
-| 12 Dec 1910 | Elwood | Schwartz | Marshall | (image viewable via WV Archives) |
+| Date of Death | First Name | Last Name | County |
+|---|---|---|---|
+| 12 Dec 1910 | Elwood | Schwartz | Marshall |
 
-The register page (WV Register of Deaths page 207, cropped screenshot) appears to show additional context — the Schwartz row shows an age field of "4/18" (probably 4 months 18 days) and marital status "Single," consistent with **infant death**. Occupation column reads "Infant." Informant and coroner fields are not fully legible from the cropped image.
+## Full register row (WV Register of Deaths, page 207/307, line ~4)
+
+A higher-resolution view of the register page (user-provided follow-up, 2026-04-19) supplies the full row:
+
+| Field | Value |
+|---|---|
+| Name in full | **Schwartz, Elwood H.** |
+| Sex | Male |
+| Date of death | **Dec 12, 1910** |
+| Place of birth | **McMechen**, West Virginia |
+| Name of disease or cause of death | **Anemia** |
+| Age | **4 months 18 days** (→ born ~24 July 1910) |
+| Occupation | Infant |
+| Consort of / or unmarried | (blank — consistent with infant) |
+| Name of person giving information | **D. J. Slater** (the attending physician) |
+| Designation of informant | Physician |
+
+**Elwood H. Schwartz was therefore an infant (4 months 18 days) who died of anemia on 12 December 1910 in or near McMechen, Marshall County, West Virginia.** Physician D. J. Slater signed as informant (not a family member), which is standard for infant deaths reported by the attending doctor rather than a parent.
+
+**McMechen** is a small community on the Ohio River in Marshall County WV, approximately 10 miles south of Wheeling and 5 miles north of Moundsville. The GEDCOM claim of Johann Schwartz's death place was "**Pleasant Valley**, Marshall County." Both are in Marshall County but are different communities; Pleasant Valley is a smaller community near Benwood/Moundsville. Close enough for a family connection to be plausible.
+
+## Critical caveat: parents are still missing
+
+The register summary does NOT name Elwood's parents. For the WV pre-1917 register format, the **parents' names are typically written in the full death certificate (one physical step deeper than the register row)**. Clicking through to the full certificate image at WV Archives should reveal the father and mother.
+
+**This is the single highest-value next action** on the Schwartz side: pull the Elwood H. Schwartz 12 Dec 1910 full certificate image. Expected fields:
+- Father: Full name + birthplace
+- Mother: Full maiden name + birthplace
+- Residence of parents
+- Burial location
 
 ## Critical negative
 
