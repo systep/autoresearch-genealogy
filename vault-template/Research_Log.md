@@ -2,13 +2,90 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-19
-last_session: "2026-04-18 Open Question Resolution (late-night): ~30 searches. Major breakthroughs: 5 Goldbaum martyrs in Lesko Yizkor (Feiga, David, Ester, Chana, Yisrael Lipa); Alfred Fain obituary confirmed Nathan+Lena(Salk) parents; Ahavath Sholom had no rabbi; SC pre-1911 no marriage records; Edaline Transon assessed as GEDCOM error; 5 Providence Salk branches documented."
+last_session: "2026-04-19 Timeline Gap Analysis (prompt 07): ~20 searches across 8 iterations. Identified 55 new expected-record gaps (82 total OPEN). No Marvin Sternbach KIA Okinawa record found in free databases. Morris Markel death corrected to 1964 Florida. NARA RI casualty list inaccessible. All census/military/immigration records behind login walls."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-04-19: Timeline Gap Analysis (prompt 07), ~20 searches across 8 iterations
+
+### Summary
+
+Systematic timeline gap analysis per prompt 07. For every person in Family_Tree.md with known birth/death dates, generated expected records (census, military, immigration, vital records) and compared against existing vault documentation. Identified 55 new expected-record gaps across census (31 new), military (9 new), immigration (4 new), death records (5 new), marriage records (3 new), and naturalization (3 new). Conducted 20 web searches targeting HIGH/CRITICAL priority gaps. All census, military, and immigration databases remain behind login walls.
+
+### Key Findings
+
+1. **Marvin Sternbach KIA Okinawa 1945**: Per family tradition, a Sternbach was killed at Okinawa. However, Marvin Sternbach (1928-2006) found in web search is the WRONG person (too young and survived). Maurice Sternbach (1912-1998) also survived. The KIA individual is not among the known children of Abraham David and Minnie (Markel) Sternbach. NARA WWII Army Casualties RI list (archives.gov) timed out on automated fetch. This remains a CRITICAL gap requiring human action (direct NARA access, ABMC search, family clarification).
+
+2. **Morris Markel death jurisdiction corrected**: Previous entry listed death as "~1963, Rhode Island." Corrected to **1964, Florida** based on Kate Markel FAG #232002112 parent dates (1890-1964) and Helen Markel's RIJHA obituary identifying her as "widow" living in Miami FL ~1957-1963. Search target changed from RI State Archives to Florida Death Index.
+
+3. **Helen Markel death date confirmed**: RIJHA death notice confirms November 6, 1976, at Miriam Hospital, Providence RI. Post-1975 records at RI Dept of Health (not State Archives).
+
+4. **Hilda Salmanson obituary confirmed**: Found at Legacy.com (Boston Globe). Died West Palm Beach FL, age 99. Wife of Samuel Salmanson. Daughter of Max and Fannie Mittleman. Sister of late Harry and Joseph Mittleman and Sara Goldberg. Funeral at Lincoln Park Cemetery chapel. No new information beyond what was already in vault.
+
+5. **55 new gaps identified**: Every Salmanson child (Leonard, Samuel, Charles, Martha, Donald) should appear in multiple US censuses (1920-1950). Thelma Markel should appear in 1930 (first US census). Abraham David and Minnie Sternbach should appear in 1920, 1930, 1940. Michael Kascher family should appear in 1920 Youngstown OH. 9 military service/draft records expected for males of service age.
+
+### Searches Conducted
+
+| # | Search | Database/Source | Result |
+|---|---|---|---|
+| 1 | "Marvin Sternbach killed action Okinawa 1945 World War II" | Web/multiple | NEGATIVE. Only general Battle of Okinawa information. |
+| 2 | "Sternbach killed Okinawa 1945 Rhode Island Providence" | Web/multiple | NEGATIVE. NARA RI casualty page found but content inaccessible. |
+| 3 | NARA WWII Army Casualties RI page fetch (archives.gov) | WebFetch | FAILED: Socket connection closed (page too large). |
+| 4 | "Maurice Sternbach OR Marvin Sternbach WWII military killed 1945" | Web/AncientFaces/Legacy | POSITIVE (negative for KIA): Maurice (1912-1999) and Marvin (1928-2006) both survived. |
+| 5 | "Sternbach Okinawa killed 1945 Find a Grave" | Web/FAG | NEGATIVE. |
+| 6 | "WWII army casualties Rhode Island Sternbach NARA" | Web/NARA | PARTIAL: Confirmed existence of RI casualty lists at NARA and RI State Archives. No Sternbach in snippets. |
+| 7 | site:archives.gov "Sternbach" army casualties RI WWII | Web/NARA | NEGATIVE. |
+| 8 | "Abraham Sternbach OR Abraham David Sternbach WWI draft Providence" | Web/NARA | NEGATIVE. General info only. |
+| 9 | "Michael Kascher immigration Youngstown Ohio 1913 Transylvania" | Web/multiple | NEGATIVE. Anna Binder Kascher confirmed on Siebenbuerger.de. No immigration record. |
+| 10 | "Leonard Salmanson OR Leonard Salmonson 1940 census Providence RI" | Web/multiple | PARTIAL: FAG #231959694 (known). Census behind login. |
+| 11 | "Leonard Salmanson 1930 census Providence RI Adams Drug" | Web/Wikipedia/RIHS | NEGATIVE for census. Adams Drug 1932 confirmed. |
+| 12 | "Florence Markel OR Sura Feiga Markel immigration 1923 Ellis Island" | Web/multiple | NEGATIVE. |
+| 13 | "Kascher family Waldhutten Valchid immigration Youngstown" | Web/Siebenbuerger | PARTIAL: Binder-Kascher family confirmed. No ship record. |
+| 14 | "Leonard Salmanson WWII draft 1942 Providence" | Web/Fold3/NARA | NEGATIVE. |
+| 15 | "Markel family immigration Poland 1928 ship Providence RI" | Web/NARA | NEGATIVE. |
+| 16 | "Hilda Mittleman OR Hilda Salmanson 1916 2016 obituary Providence" | Web/Legacy/JewishRhody | POSITIVE: Full obituary confirmed. No new data. |
+| 17 | "Morris Markel obituary 1964 Florida Miami" | Web/Legacy | NEGATIVE. |
+| 18 | "Joseph H Markel obituary Mortgage Guarantee Title Providence" | Web/Legacy | NEGATIVE. Wrong Joseph Markel found (Indiana, 2014). |
+| 19 | "Donald Salmanson World War II military service" | Web/multiple | NEGATIVE. |
+| 20 | "Tobey Salk OR Tauba Salk OR Theresa Salk death Providence RI" | Web/Legacy | NEGATIVE. |
+
+### Negative Results (Important)
+
+- **Marvin Sternbach KIA Okinawa**: No record found in any free web database. Name "Marvin" does not appear among known Sternbach children.
+- **NARA WWII Casualties RI page**: Too large for automated fetch. Requires direct browser access.
+- **All census records**: Behind FamilySearch/Ancestry login walls. 31 new gaps identified but none resolvable through free web search.
+- **All immigration records**: Behind login walls. 4 new gaps identified.
+- **Morris Markel Florida obituary**: 1964 Florida death records not freely accessible online.
+- **Tobey/Tauba Salk death**: No obituary found. RI death index not accessible without login.
+
+### Gap Count Summary
+
+| Category | Previous OPEN | New Gaps Added | Total OPEN |
+|---|---|---|---|
+| Census | 7 | 31 | 38 |
+| Immigration | 5 | 4 | 9 |
+| Death Records | 3 | 5 | 8 |
+| Marriage Records | 1 | 3 | 4 |
+| Naturalization | 2 | 3 | 5 |
+| Military Records | 2 (PARTIAL) | 9 | 11 |
+| Burial Records | 7 | 0 | 7 |
+| **TOTAL** | **27** | **55** | **82** |
+
+### Priority Actions for Human
+
+1. **CRITICAL**: Access NARA WWII Army Casualties RI page in browser (archives.gov/research/military/ww2/army-casualties/rhode-island.html), search S section for "Sternbach."
+2. **CRITICAL**: Search ABMC (abmc.gov) for Sternbach burials in Pacific cemeteries.
+3. **CRITICAL**: Ask family: Who was "Marvin Sternbach KIA Okinawa 1945"? Relationship to Abraham David + Minnie?
+4. **CRITICAL**: FamilySearch login for 1930 censuses (Morris Markel West Warwick, Barnett Salmanson Providence).
+5. **HIGH**: FamilySearch RI Naturalizations (coll. 2622566) for Barnett Salmanson and Morris Markel.
+6. **HIGH**: FamilySearch WWI Draft Cards for Abraham David Sternbach, West Warwick RI.
+7. **HIGH**: Florida Death Index on FamilySearch for Morris Markel, 1964.
+
+---
 
 ## 2026-04-18: Open Question Resolution (late-night session), ~30 searches
 
@@ -3684,3 +3761,98 @@ Searched for Abraham Salk's household in the 1910 US Federal Census, Providence 
 
 ### Files Updated
 - [[Abraham_Zolly_Salk]], [[Research_Log]], [[timeline_gaps]]
+
+## 2026-04-18: Immigration Search (Prompt 11), 10 iterations, ~30 searches
+
+### Summary
+
+Systematic search for passenger manifests and naturalization records for 10 identified immigrant ancestors. Searched across Ellis Island Foundation (libertyellisfoundation.org/statueofliberty.org), Steve Morse One-Step tools (stevemorse.org), JewishGen EIDB (jewishgen.org/databases/eidb), GG Archives (ggarchives.com), Chronicling America (chroniclingamerica.loc.gov / loc.gov), FamilySearch wiki and collection pages, Ancestry collection references, NARA resources, PolishRoots, ImmigrantShips.net, NorwayHeritage, and general web search. **No individual passenger manifests or naturalization records were located through free web search.** All primary databases (Ancestry, FamilySearch individual records, Ellis Island Foundation search, JewishGen EIDB search) require login or paid access for individual record queries.
+
+### Immigrants Searched
+
+| # | Person | Origin | Arrival | Ship | Result |
+|---|---|---|---|---|---|
+| 1 | **Barnett Salmanson** (Berko Zalmanson) | Vilnius, Lithuania | Dec 23, 1904 | SS Baltic (White Star Line) | NOT FOUND. Ship/date confirmed (GG Archives, NorwayHeritage). No Dec 1904 passenger list digitized at GG Archives (earliest: Dec 1917). Ancestry subscription required. |
+| 2 | **Elizabeth Salk** | Poland | ~1897 | Unknown | NOT FOUND. 1897 is problematic: Ellis Island fire (June 15, 1897) destroyed records. If arrived before fire, only Customs Lists survive. |
+| 3 | **Levi Itzhak Zalmanson** (Louis) | Lithuania | Unknown | Unknown | NOT FOUND. No arrival date known. WWI draft card for son Barnett claims citizenship by father's naturalization, implying Levi may have been in US. No record found. |
+| 4 | **Morris Markel** (Mojzesz Majer Markiel) | Waniowice, Galicia | ~1928 | Unknown | NOT FOUND. Family arrived ~1928 (Kate born Dec 1925 in Poland, arrived age 3). Likely sailed from Gdynia or Bremen/Hamburg. Polish ships (SS Kosciuszko, SS Polonia, SS Pulaski) were common. NARA T715 microfilm. |
+| 5 | **Helen Brandt** (Dwora Goldbaum/Brand) | Lisko, Galicia | ~1928 (with Morris) | Unknown (same ship as Morris) | NOT FOUND. Would be on same manifest as Morris and children. |
+| 6 | **Abraham Dovid Sternbach** | Sokoliki(?), Galicia | ~1912 | Unknown | NOT FOUND. Confirmed arrived 1912 per RIJHA article. Ellis Island records (1892-1924) should contain manifest. |
+| 7 | **Minnie Markel Sternbach** | Waniowice, Galicia | ~1912 (with Abraham) | Unknown | NOT FOUND. Likely on same manifest as Abraham Sternbach. |
+| 8 | **Florence Markel Mermelstein** (Sura Feiga) | Waniowice, Galicia | 1923 | "The Liberty" (family memory) | NOT FOUND. Ship name "The Liberty" unconfirmed -- no transatlantic passenger vessel by that name found for 1923. Family memory error likely. Manifest should be in Ellis Island database (1892-1924 coverage). |
+| 9 | **Michael Kascher** (Michel) | Waldhutten/Valchid, Transylvania | ~1910-1912 | Unknown | NOT FOUND. In US by May 1913 (marriage in Beaver, PA). May have arrived via New York or Philadelphia. Hamburg passenger lists (1890-1913) are a possible source. |
+| 10 | **Simon Port** | Lithuania | ~1890s | Unknown | NOT FOUND. Estimated arrival 1890s based on children born in NJ. If arrived before 1892, Castle Garden records apply; if after 1892, Ellis Island. |
+
+### Searches Conducted (All Negative Unless Noted)
+
+| # | Search Query/Target | Database/Source | Result |
+|---|---|---|---|
+| 1 | site:libertyellisfoundation.org "Zalmanson" OR "Salmanson" OR "Salmonson" 1904 | Web/Google | NEGATIVE. No indexed pages found. |
+| 2 | "Berko Zalmanson" OR "Berl Zalmanson" OR "Barnett Salmanson" passenger manifest SS Baltic 1904 | Web/multiple | NEGATIVE. GG Archives and NorwayHeritage confirm ship but no individual passenger data accessible. |
+| 3 | "Markiel" OR "Markel" passenger manifest Ellis Island 1928 Poland Galicia Rhode Island | Web/multiple | NEGATIVE. General database references only. |
+| 4 | stevemorse.org Ellis Island "Zalmanson" OR "Salmanson" passenger list December 1904 | Web/Steve Morse | NEGATIVE. Tool confirmed operational but requires Ancestry subscription for actual searches. |
+| 5 | "Sura Feiga" OR "Florence Markel" OR "Sura Markiel" passenger manifest 1923 Ellis Island | Web/multiple | NEGATIVE. No specific record found. |
+| 6 | "Abraham Sternbach" OR "Avraham Sternbach" passenger manifest Ellis Island 1912 Rhode Island | Web/multiple | NEGATIVE. General database references only. |
+| 7 | chroniclingamerica.loc.gov "Salmanson" naturalization Rhode Island (1900-1930) | Chronicling America | NEGATIVE (403 on redirect). |
+| 8 | "Barnett Salmanson" OR "Benjamin Salmanson" naturalization Providence Rhode Island | Web/RIHS/FamilySearch wiki | NEGATIVE for records. POSITIVE for resource identification: RI naturalization records at NARA Waltham, FamilySearch collection 2622566. |
+| 9 | "Michel Kascher" OR "Michael Kascher" passenger manifest immigration Youngstown Ohio 1910-1913 | Web/multiple | NEGATIVE. |
+| 10 | "Simon Port" immigration passenger manifest Lithuania New Jersey 1890s Jewish | Web/multiple | NEGATIVE. |
+| 11 | "Salk" passenger manifest Castle Garden 1897 New York Poland | Web/FamilySearch wiki | NEGATIVE. Note: Providence passenger lists have gap 1872-1911. Ellis Island fire June 1897 complicates search. |
+| 12 | "Minnie Sternbach" OR "Minnie Markel" OR "Abraham Sternbach" naturalization RI | Web/RIJHA | PARTIAL. RIJHA article confirms Sternbachs arrived Arctic 1912. No naturalization record located. |
+| 13 | GG Archives SS Baltic passenger lists page | WebFetch/ggarchives.com | POSITIVE. No Dec 1904 list available; earliest is Dec 1917. |
+| 14 | "Levi Zalmanson" OR "Louis Salmanson" OR "Lavi Salmanson" immigration Lithuania | Web/multiple | NEGATIVE. No record found in any database. |
+| 15 | "Kascher" OR "Kasher" passenger manifest Austria-Hungary Transylvania 1910-1912 | Web/multiple | NEGATIVE. |
+| 16 | "Morris Markel" OR "Mojzesz Markiel" naturalization Rhode Island petition | Web/FamilySearch/RIHS | NEGATIVE for record. POSITIVE for collection ID: FamilySearch 2622566 (RI Naturalization Records 1907-1991). |
+| 17 | "Elizabeth Salk" OR "Salk" passenger manifest 1897 New York Poland immigration | Web/NARA/FamilySearch | NEGATIVE. |
+| 18 | "Abraham Salk" OR "Abraham Zolly Salk" 1894 1896 immigration passenger list | Web/multiple | NEGATIVE. |
+| 19 | jewishgen.org EIDB "Zalmanson" OR "Salmanson" Vilna Lithuania | Web/JewishGen | NEGATIVE. Tool confirmed (EIDB Gold Form, 22M+ records 1892-1924) but requires direct database search. |
+| 20 | "Sternbach" passenger ship Ellis Island 1912 Galicia | Web/multiple | NEGATIVE. |
+| 21 | FamilySearch "Berko Zalmanson" OR "Barnett Salmanson" 1904 New York | Web/FamilySearch | NEGATIVE. No indexed web result. |
+| 22 | "Michael Kascher" OR "Kascher" naturalization Mahoning County Ohio | Web/FamilySearch/HSP | NEGATIVE for record. POSITIVE for resource: Mahoning County naturalization records at Clerk of Courts (330-740-2111) and HSP Balch collection. |
+| 23 | "Markel" OR "Markiel" ship manifest 1926-1928 Poland Gdynia Kosciuszko/Polonia/Pulaski | Web/multiple | NEGATIVE. |
+| 24 | "Salk" OR "Zalk" family Providence Rhode Island immigration 1890s 1897 | Web/multiple | NEGATIVE. Note: Providence passenger lists 1911-1943 only. Family likely arrived via New York. |
+| 25 | "Abraham Sternbach" immigration passenger manifest 1912 Poland Galicia | Web/multiple | NEGATIVE. |
+| 26 | "Florence Mermelstein" OR "Sura Feiga Markel" ship "The Liberty" 1923 | Web/Ellis Island Foundation | NEGATIVE. No ship "The Liberty" confirmed for transatlantic 1923 service. |
+| 27 | Ship "Liberty" OR "Liberté" transatlantic passenger 1923 New York from Europe | Web/multiple | NEGATIVE. No transatlantic passenger vessel named "Liberty" or "Liberté" confirmed for 1923. |
+| 28 | FamilySearch RI naturalization wiki page (full collection inventory) | WebFetch/FamilySearch wiki | POSITIVE. Complete inventory of RI naturalization collections extracted. Key: collection 2622566 (free with login, 1907-1991), collection 2141014 (district court indexes), collection 5000148 (district and circuit court), Ancestry collection 61208. |
+| 29 | Barnett Salmanson obituary 1960 Providence Temple Emanu-El immigration | Web/multiple | NEGATIVE for obituary text. Heritage Hub (Providence Journal) confirmed as source. |
+| 30 | RIJHA founding article (Ahavath Sholom) PDF fetch | WebFetch/rijha.org | NEGATIVE (PDF binary, not readable by web fetch). |
+
+### Key Findings and Conclusions
+
+1. **All primary passenger list databases require login/subscription**: Ancestry (collection 7488 for NY, collection 1068 for Hamburg), FamilySearch (collection 1368704 for Ellis Island 1892-1924), Statue of Liberty Foundation (statueofliberty.org), JewishGen EIDB -- all require authentication for individual record searches. Free web search cannot access individual record data.
+
+2. **Steve Morse One-Step tools require Ancestry subscription**: The Gold Form at stevemorse.org/ellis/passengers.php is confirmed operational with fields for first/last name, arrival year, ship name, town of origin, Daitch-Mokotoff Soundex, etc. But it queries Ancestry's database and requires a subscription.
+
+3. **Naturalization records are the best alternative path**: FamilySearch collection 2622566 (Rhode Island Naturalization Records 1907-1991) is FREE with login and contains index + images. Post-1906 naturalization petitions contain: full name, birth date, birthplace (town and country), arrival date, port, ship name, occupation, current address, and witnesses. This would resolve immigration details for Morris Markel, Barnett Salmanson, Abraham Sternbach, and Elizabeth Salk in a single collection.
+
+4. **Ship "The Liberty" (Florence Markel, 1923) remains unconfirmed**: No transatlantic passenger vessel named "The Liberty" has been found for 1923. The name is almost certainly a family memory error. Florence's manifest should be searchable in the Ellis Island database under "Sura Feiga Markel" or "Sura Markiel" arriving 1923 from Poland/Galicia, age ~14.
+
+5. **Elizabeth Salk's 1897 arrival is complicated by the Ellis Island fire**: The Main Immigration Building fire of June 15, 1897 destroyed Federal and State immigration records. If the Salk family arrived before June 15, only Customs Lists survive (available via Statue of Liberty Foundation). If after June 15, records were processed at the Barge Office (temporary facility).
+
+6. **GG Archives has no SS Baltic passenger list for December 1904**: The earliest Baltic list available is December 1917. The December 1904 manifest exists on NARA microfilm T715 and in the Ancestry/FamilySearch digitized collections.
+
+7. **Mahoning County (Ohio) naturalization records** for Michael Kascher are held at the Clerk of Courts (345 Oak Hill Avenue, Youngstown, OH 44502, 330-740-2111) and at the Historical Society of Pennsylvania Balch collection. FamilySearch has Ohio County Naturalization Records 1800-1977.
+
+### HUMAN ACTION REQUIRED (Priority Order)
+
+**Highest Priority (one collection, multiple immigrants):**
+1. **FamilySearch collection 2622566** (Rhode Island Naturalization Records 1907-1991, FREE with login): Search for Morris Markel / Moishe Markel / Mojzesz Markiel, Barnett Salmanson / Benjamin Salmanson / Berko Zalmanson, Abraham Sternbach / Abraham Dovid Sternbach, and Elizabeth Salk. Post-1906 petitions would resolve ship name, arrival date, port, and birthplace for each. URL: familysearch.org/en/search/collection/2622566
+
+**High Priority (individual searches):**
+2. **Steve Morse One-Step Gold Form** (stevemorse.org/ellis/passengers.php, requires Ancestry subscription): Search for Berko Zalmanson arriving Dec 1904 on SS Baltic at New York. Use Daitch-Mokotoff Soundex. Also search for Sura Feiga Markel/Markiel arriving 1923, Abraham Sternbach arriving 1912, and Simon Port arriving 1890-1895.
+3. **JewishGen EIDB Gold Form** (jewishgen.org/databases/eidb/ellisgold.html, free): Search by town of origin: Vilna (for Barnett), Waniowice (for Sternbachs/Florence), Lisko (for Helen Brandt).
+4. **Statue of Liberty Foundation** (statueofliberty.org, free with registration): Search for all 10 immigrants by name.
+5. **FamilySearch Ohio County Naturalization Records**: Search for Michael Kascher in Mahoning County, OH. Free with login.
+6. **Mahoning County Clerk of Courts** (330-740-2111): Request naturalization records for Michael Kascher, naturalized ~1913-1920 in Youngstown, OH.
+
+**Medium Priority:**
+7. **FamilySearch collection 2141014** (RI District Court Naturalization Indexes 1906-1991): Cross-reference with collection 2622566.
+8. **Ancestry collection 7488** (NY Passenger and Crew Lists 1820-1957): Direct search for all immigrants.
+9. **Ancestry collection 61208** (RI State and Federal Naturalization Records 1802-1945): Covers earlier period than 2622566.
+10. **Hamburg Passenger Lists** (FamilySearch or Ancestry collection 1068): Search for Michael Kascher departing Hamburg/Bremen ~1910-1912 for New York.
+11. **Castle Garden database** (castlegarden.org): Search for Simon Port arriving 1890-1892 (pre-Ellis Island).
+12. **Heritage Hub / Providence Journal archives** (via Providence Public Library): Search for Barnett Salmanson naturalization notice (Providence Journal would have published list of new citizens).
+
+### Files Updated
+- [[Morris_Markel]], [[Helen_Brandt]], [[Barnett_Salmanson]], [[Elizabeth_Salk]], [[Levi_Itzhak_Zalmanson]], [[Michael_Kascher_Transylvania]], [[Florence_Markel_Mermelstein]], [[Minnie_Markel_Sternbach]], [[Simon_Port]], [[Research_Log]], [[Family_Tree]]
