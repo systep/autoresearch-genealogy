@@ -49,6 +49,8 @@ His son **Ezekiel Henderson** (1763-1846) served in the Revolutionary War (priva
 
 **NOTE on James Isaac Henderson Jr.'s origin:** The claim that James arrived as a convict on the ship "Friendship" in 1716 is NOT SUPPORTED. The Friendship of Belfast carried 80 Jacobite prisoners to Maryland on August 20, 1716, but no James Henderson appears on any of the 10 Jacobite transport ships' passenger lists. The Henderson family was already established in Somerset County, MD by the 1680s. The "S.S. Friendship" designation is anachronistic (no steamships in 1716). This claim likely originated from user-contributed trees, not primary sources (Strong Signal for negative result).
 
+**UPGRADE 2026-04-19: Upstream Henderson line to Tier 1.** The progenitor [[James_Henderson_Sr_1632_VA]] (c.1632-bef.1692) is now supported by three independent Tier 1 primary records: (1) Hungars Parish Northampton Co VA baptism of son John, 5 May 1661; (2) 400-acre Pocomoke River land patent, Accomack Co VA, 17 Nov 1665, abstracted in Nugent, *Cavaliers and Pioneers* Vol. I; (3) signer of the 28 Nov 1689 Somerset County MD Address of Loyalty to William and Mary (Archives of Maryland Vol. 106). The VA/MD Eastern Shore leg of the lineage (James Sr. to William "the Sawyer" to James "the Mariner" to James Isaac Jr. to Argaleus) is now **Strong Signal** for the 1661-1752 timeframe. The pre-1661 Scottish/Ulster origin remains **Moderate Signal** pending a matching Hearth Money Roll, muster roll, or Laggan Presbytery session entry. See [[Henderson_Scots_Irish_Origin_Research_2026_04_19]].
+
 ## Document Sources
 
 | Document | Type | Vault Note |
