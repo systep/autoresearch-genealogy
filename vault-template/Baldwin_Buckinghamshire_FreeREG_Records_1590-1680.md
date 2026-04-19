@@ -2,15 +2,16 @@
 type: transcription
 source: "freereg.org.uk (user-provided screenshots, Apr 19 2026)"
 document_type: other
-person: "John Baldwin, Thomas Baldwin, and spouses"
-date: 1590-1680
+person: "John Baldwin, Thomas Baldwin, William Baldwin, and spouses"
+date: 1579-1680
 created: 2026-04-19
+updated: 2026-04-19
 tags: [genealogy, baldwin, transcription, england, buckinghamshire, chesham, freereg, primary-source]
 ocr_method: manual
 ocr_quality: good
 ---
 
-# Baldwin Records in Buckinghamshire, FreeREG transcript of Parish Registers (1590-1680)
+# Baldwin Records in Buckinghamshire, FreeREG transcript of Parish Registers (1579-1680)
 
 Derivative Tier 1 source: Phillimore's Parish Register transcripts and other parish register transcripts, as indexed by FreeREG (freereg.org.uk), a free volunteer-indexed searchable database of English parish registers. Original parish registers are the primary source; these are the secondary transcriptions routinely used as the highest-practicality substitute.
 
@@ -39,6 +40,14 @@ Derivative Tier 1 source: Phillimore's Parish Register transcripts and other par
 | T5 | Marriage | 03 Jan 1653/54 | Mary MERIDEN + Thos. BALDWIN | Hedgerley : St Mary the Virgin | Buckinghamshire | Phillimore's |
 | T6 | Marriage | 05 Jul 1654 | Elizab. LEA + Tho. BALDWIN | Edlesborough : St Mary | Buckinghamshire | Other |
 
+### William BALDWIN records (3 entries)
+
+| # | Type | Date | Persons | Parish | County | Transcript source |
+|---|---|---|---|---|---|---|
+| W1 | Baptism | 29 Nov 1579 | Willm BALDWIN | Chesham : St Mary | Buckinghamshire | Other |
+| W2 | Baptism | 25 Feb 1645/6 | William BALDWIN | Eton : St John the Evangelist | Buckinghamshire | Other |
+| W3 | Marriage | 05 Jul 1647 | Elish. * + Willm. BALDWIN | Chicheley : St Lawrence | Buckinghamshire | Phillimore's (bride's surname illegible, marked with asterisk in index) |
+
 ## Extracted Facts
 
 Each row above is a distinct parish-register event. High confidence on the indexed fields (parish, date, surnames, given names). Note that transcribers occasionally abbreviate given names (Joh/Tho/Thos) and the Old Style year convention (1627/8 = either 1627 New Style or 1628 Old Style depending on date) is preserved.
@@ -47,25 +56,32 @@ Each row above is a distinct parish-register event. High confidence on the index
 
 ### Parish clustering
 
-- **Chesham St Mary**: 4 events (J2, J3, T2, T4, J7) — strongest concentration, 1612-1680.
+- **Chesham St Mary**: 6 events (W1 in 1579, J2 in 1612, T2 in 1612/3, T4 in 1622, J3 in 1627/8, J7 in 1679/80) — strongest concentration over 100 years.
 - **Aston Clinton St Michael and All Angels**: 2 events (T1 in 1590, J5 in 1665).
 - **Little Missenden St John the Baptist**: 2 events (J1 in 1601, T3 in 1615).
-- **Adstock, Edlesborough, Eton, Hedgerley**: 1 event each; scattered.
+- **Eton St John the Evangelist**: 2 events (J4 in 1634, W2 in 1645/6).
+- **Adstock, Chicheley, Edlesborough, Hedgerley**: 1 event each; scattered.
 
-The geographic spread is all within ~20 miles of each other in the Chilterns area of Buckinghamshire. This is consistent either with a single mobile family or with multiple Baldwin families in the same region. Parish-register transcripts usually do not name parents, so linking generations requires additional records (wills, manorial records).
+The geographic spread is all within ~30 miles of each other in Buckinghamshire. Chesham St Mary is the clear Baldwin stronghold, with records spanning 1579-1680 (101 years). The Eton cluster (1634 + 1645/6) is 25 miles southeast of Chesham and may represent a separate branch or an individual family relocation.
+
+Parish-register transcripts usually do not name parents, so linking generations requires additional records (wills, manorial records).
 
 ### Plausible generational hypothesis (NOT CONFIRMED; requires corroboration)
 
 A speculative chronology that would fit most records as a single Chesham-area Baldwin family:
 
-- **Generation 0 (b. ~1560s)**: Thomas Baldwin who m. Jane HAYLE 06 Jul 1590 (T1) at Aston Clinton.
-- **Generation 1 (b. ~1590-1600)**: John Baldwin who m. Faith RANDALL 19 Oct 1601 (J1) at Little Missenden (possibly son of T1). Plus Thomas Baldwin who m. Ann HAWSE 15 May 1615 (T3).
+- **Generation -1 (b. ~1555, unattested)**: parent(s) of W1.
+- **Generation 0 (b. ~1579)**: William Baldwin bap 29 Nov 1579 Chesham St Mary (W1). Plus Thomas Baldwin who m. Jane HAYLE 06 Jul 1590 (T1) at Aston Clinton (birth c.1565-1570, likely cousin or uncle of W1). The 1579 William is the earliest Baldwin record in this Chesham series.
+- **Generation 1 (b. ~1590-1600)**: John Baldwin who m. Faith RANDALL 19 Oct 1601 (J1) at Little Missenden (possibly son of W1, who would have been ~22 in 1601 — plausible as father). Plus Thomas Baldwin who m. Ann HAWSE 15 May 1615 (T3). W1 William Baldwin is a candidate father of both G1 marriages.
 - **Generation 2 (baptisms 1612-1634)**: children of G1 marriages.
   - John Baldwin bap 15 Nov 1612 Chesham (J2).
   - Thomas Baldwin bap 14 Mar 1612/3 Chesham (T2).
   - Thomas Baldwin bap 19 May 1622 Chesham (T4).
   - John Baldwin bap 01 Jan 1627/8 Chesham (J3).
   - John Baldwin bap 23 Nov 1634 Eton (J4; possibly different branch given the different parish).
+- **Generation 2b (Eton branch)**:
+  - William Baldwin bap 25 Feb 1645/6 Eton (W2). Could be son of J4 (1634 Eton), forming a small Eton-parish branch.
+  - William Baldwin m. Elish.* 05 Jul 1647 Chicheley (W3). This William is too old to be W2; more plausibly son of W1 (would be ~22-68 in 1647 — any age plausible in range). Or a third distinct William.
 - **Generation 3 (marriages 1653-1680)**:
   - Thomas Baldwin + Mary Meriden 03 Jan 1653/4 Hedgerley (T5).
   - Thomas Baldwin + Elizab Lea 05 Jul 1654 Edlesborough (T6).
