@@ -4,10 +4,12 @@ name: "Simon Port"
 born: 1872-08-15
 died: 1928-11-30
 family: "Port"
-confidence: low
+confidence: moderate
 sources:
   - "MyHeritage GEDCOM export (Tier 3)"
+  - "Rhode Island Marriages 1850-1922 index, 20 Dec 1917 Providence: marriage to Lena Salk (Tier 2)"
 created: 2026-04-18
+updated: 2026-04-19
 tags: [genealogy, port, salk, person, lithuania, rhode-island, providence, immigrant]
 ---
 
@@ -25,6 +27,8 @@ tags: [genealogy, port, salk, person, lithuania, rhode-island, providence, immig
 
 Simon Port was born August 15, 1872 in Lithuania/Russia (GEDCOM, unverified). He had at least ten children, several born in New Jersey before the family relocated to Rhode Island. The migration pattern (Lithuania to New Jersey to Rhode Island) parallels the Salk family experience.
 
+On **20 December 1917** Simon married **[[Lena_Port]]** (Lena Salk, b. 8 Jan 1892 Kovno, daughter of [[Sarah_Salk]]) in Providence, Rhode Island (RI Marriages 1850-1922 index, Tier 2). Given his ten children and the New Jersey-before-RI migration pattern, this was very likely Simon's second marriage; he was probably widowed from a first wife in New Jersey before relocating to Providence and marrying Lena Salk. Lena was a niece of [[Abraham_Zolly_Salk]] through her mother Sarah, which ties the Port family into the Louis Elizar Salk / Abraham Zolly Salk Providence cluster. See [[Lena_Port]].
+
 Simon died November 30, 1928 in Rhode Island at approximately age 56.
 
 ## Document Sources
@@ -32,6 +36,7 @@ Simon died November 30, 1928 in Rhode Island at approximately age 56.
 | Document | Type | Vault Note |
 |---|---|---|
 | MyHeritage GEDCOM export | Family tree database (Tier 3) | Birth, death, children |
+| Rhode Island Marriages 1850-1922 index (MyHeritage) | Marriage index (Tier 2) | 20 Dec 1917 marriage to Lena Salk in Providence; names Lena's mother Sarah Salk |
 
 ## Immigration (2026-04-18, Prompt 11 session)
 
