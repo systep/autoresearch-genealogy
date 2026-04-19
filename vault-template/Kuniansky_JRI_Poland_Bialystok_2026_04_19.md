@@ -1,11 +1,12 @@
 ---
 type: transcription
-source: "JRI-Poland (jri-poland.org), user-provided screenshots, Apr 19 2026"
+source: "JRI-Poland (jri-poland.org), user-provided screenshots, Apr 19 2026; supplementary web research Apr 19 2026"
 document_type: certificate
-person: "Sore Leja Kunjanska, Gersz Konjanski (Białystok Kuniansky candidates)"
+person: "Sore Leja Kunjanska, Gersz Konjanski (Białystok; relationship to Atlanta Kuniansky cluster now assessed UNLIKELY)"
 date: 1866-1874
 created: 2026-04-19
-tags: [genealogy, kuniansky, konjanski, kunjanska, transcription, jri-poland, bialystok, grodno-gubernia, russian-empire, primary-source-index, candidate-ancestry]
+updated: 2026-04-19
+tags: [genealogy, kuniansky, konjanski, kunjanska, transcription, jri-poland, bialystok, grodno-gubernia, russian-empire, primary-source-index, unrelated-candidate-refuted]
 ocr_method: claude_multimodal
 ocr_quality: good
 ---
@@ -71,16 +72,54 @@ This is a **candidate ancestral chain** for the vault's Atlanta Kuniansky cluste
 | Gersz Konjanski son of Srol, died 1874 Białystok | High |
 | Sore Leja Kunjanska daughter of Gersz, died 1866 Białystok | High |
 | Gersz and Sore Leja were father and daughter (same Gersz named across both records) | Moderate-High (plausible but not explicitly stated) |
-| This Białystok family is the ancestral origin of the vault's Atlanta Kuniansky cluster ([[Wolf_Kuniansky]], [[Harry_Kuniansky]], [[Milton_Kuniansky]], [[Isadore_Kuniansky]], etc.) | **Speculative** — plausible by region and chronology, but requires corroborating record linking Atlanta immigrants to a specific Białystok Konjanski |
+| This Białystok family is the ancestral origin of the vault's Atlanta Kuniansky cluster ([[Wolf_Kuniansky]], [[Harry_Kuniansky]], [[Milton_Kuniansky]], [[Isadore_Kuniansky]], etc.) | **Refuted as primary hypothesis; downgraded to unlikely** (see 2026-04-19 follow-up below). Independent sources point to a Podolia / Vinnytsia (Ukraine) origin for the Atlanta cluster, not Grodno Gubernia. |
+
+## 2026-04-19 follow-up research: Atlanta Kuniansky cluster origin is Podolia / Vinnytsia, NOT Białystok
+
+Supplementary web research conducted 2026-04-19 across the family-maintained Kuniansky Family website (kuniansky.org), the William Breman Jewish Heritage Museum oral history of Max Lewis Kuniansky (interviewed 28 Jul 1990, Atlanta; transcript hosted at thebreman.org), obituaries, Geni / FamilySearch Family Tree summaries, and JewishGen place-resolution resources consistently identify the Atlanta Kuniansky cluster as originating in **Podolia Gubernia / Vinnytsia region (central Ukraine)**, not Grodno Gubernia / Białystok (north-east Russian Poland).
+
+Key corroborating details:
+
+| Finding | Source | Tier |
+|---|---|---|
+| Max Lewis Kuniansky b. 1917 Atlanta, son of Louis "Louie" Kuniansky and Annie Fitterman; Annie emigrated from **Voroshilovka (now Voroshylivka, Tyvriv raion, Vinnytsia oblast, Ukraine)**, historically in Podolia Gubernia | Breman Museum oral history 1990-07-28 (Tier 2, annotated transcript); summarized in public Breman ArchivesSpace finding aid | Tier 2 |
+| Family tree at kuniansky.org: patriarch Max Kuniansky (the Atlanta cluster's grandfather) married **Huddle (Adele) Freemer**, adopted stepdaughter of **Baruch Freemer** (b. ~1831 Russia). Wolf and Harry were the first of ~7 siblings to emigrate; the grandfather Max was killed in an accident in Europe. | kuniansky.org family site (Tier 3 family tree, but authored by documented descendant Max Lewis Kuniansky) | Tier 3 |
+| Vault's pre-existing record for [[Harry_Kuniansky]] gives birthplace **"Komarovka, Odessa, Russian Empire"** per Find a Grave #99745398 (Tier 2, headstone-derived) and MyHeritage GEDCOM (Tier 3). "Komarovka / Komarivka" is a common Ukrainian village name; several Komarivkas exist in Podolia / Vinnytsia oblast. "Odessa" in early 20th-century American usage often meant "somewhere in south-west Russian Empire / Ukraine," not specifically the city. | Find a Grave #99745398; MyHeritage GEDCOM | Tier 2 / Tier 3 |
+| Vault's pre-existing record for [[Isadore_Kuniansky]] gives same birthplace "Komarovka, Odessa, Russian Empire." | MyHeritage GEDCOM | Tier 3 |
+| Geographic / gubernia mismatch: Białystok is in Grodno Gubernia, ~600 miles north-west of Podolia / Vinnytsia. No sources place any Atlanta Kuniansky ancestor in Grodno Gubernia, Podlasie, or north-eastern Russian Poland. | Place-resolution via JewishGen Gazetteer; Wikipedia Voroshylivka and Podolia articles | Tier 2 |
+| "Kuniansky" surname distribution: the surname Kuniansky / Kunyansky / Konjanski appears broadly across Pale of Settlement Jewish communities (Poland, Belarus, Ukraine, Lithuania). Presence in Białystok records is not evidence of connection to any particular Kuniansky family elsewhere. | Hebrew Surnames Database (hebrewsurnames.com/KUNIANSKY); JewishGen Given Names Database; JRI-Poland surname list | Tier 2 |
+
+**Revised assessment of the 2 Białystok records:**
+
+- Record K1 (Sore Leja Kunjanska d. 1866 Białystok, daughter of Gersz) and Record K2 (Gersz Konjanski d. 1874 Białystok, son of Srol) remain valid primary-index observations of a Białystok Jewish family using the Kuniansky-variant surname.
+- The father-daughter link between records K1 and K2 (same Gersz) remains plausible but unproven without the full register images.
+- The connection to the **Atlanta Kuniansky cluster is refuted as a working hypothesis**: independent family documentation places the Atlanta cluster's origin in Podolia / Vinnytsia (Ukraine), ~600 miles from Białystok. The name match alone, absent any geographic, migration, or naming overlap, does not meet the Two Independent Sources Standard (see CLAUDE.md) for establishing ancestry.
+- The Białystok Konjanski family and the Atlanta Kuniansky cluster are **most likely unrelated Kuniansky-variant families**, a common outcome for common Jewish surnames spread across the Pale of Settlement.
+
+**Retained value of the Białystok records:**
+
+- Documented as a distinct, contemporaneous Kuniansky-variant family for surname-distribution and pattern-recognition purposes.
+- Useful control / comparison data should any later Atlanta Kuniansky document (e.g., a ship manifest, a naturalization petition, a Georgia death certificate) unexpectedly cite Białystok or Grodno Gubernia. In that event, the hypothesis would be re-opened.
+- Preserved in stub person files for [[Srol_Konjanski_Bialystok]], [[Gersz_Konjanski_Bialystok]], [[Sore_Leja_Kunjanska_Bialystok]] (2026-04-19) so that the evidence remains discoverable.
 
 ## Next steps (in priority order)
 
-1. **Order LDS microfilms 1191934 and 1191936** via FamilySearch affiliate library — would provide the full register images for Sore Leja 1866 death and Gersz 1874 death. Each should show: **mother's given name** (not in the index), full residence address, informant (typically close relative), witnesses. Critical missing link: the mother of Sore Leja and the spouse/widow of Gersz.
-2. **Search JRI-Poland Białystok for ALL Konjanski/Kunjanski/Kuniansky records** across births, marriages, divorces — not just deaths. The Białystok index covers births 1855, 1871-1876, 1881, 1883-1886 and marriages 1866-1878, 1883-1886. Full family reconstruction would likely yield 10-20 more records (other children of Gersz, grandchildren, brothers of Srol).
-3. **Contact JRI-Poland Białystok town volunteer** — per the screenshot footer, the volunteer can supply context on completeness of coverage, Fond 264 access, and related Białystok Jewish community materials.
-4. **Alex Krakovsky's Wiki** (kdkv.name) for Białystok Russian Empire vital record scans — may host the 1866 and 1874 register images directly, saving the LDS microfilm order.
-5. **Ellis Island / Castle Garden arrivals** for Kuniansky / Konjanski / Kuniansky from Białystok 1880-1914, cross-referenced to the vault's Atlanta cluster (Wolf b. 1884 immigration year unknown; Harry b. 1888, etc.). An arrival manifest naming "last residence: Białystok" would corroborate the link.
-6. **Yad Vashem Pages of Testimony** for any Kuniansky / Konjanski from Białystok killed in the Holocaust — these often name pre-war parents + siblings + addresses, extending the family tree through cousins.
+**Revised 2026-04-19 after Podolia / Vinnytsia origin was established for the Atlanta cluster.** Priorities now shift from Białystok-proving to Podolia / Vinnytsia-proving. Białystok steps retained at low priority for completeness.
+
+Podolia / Vinnytsia (primary):
+
+1. **JewishGen Ukraine / Podolia Gubernia databases** for Kuniansky / Kunyansky / Kunjansky variants in **Voroshilovka, Vinnitsa Uyezd, Podol Guberniya** and surrounding shtetls (Tyvriv, Vinnytsia town, Bratslav, etc.). The Fitterman-from-Voroshilovka link establishes the family's geography. Whether the Kuniansky-side also originated in Voroshilovka, or in a neighbouring Podolian shtetl, is the central open question.
+2. **Resolve "Komarovka, Odessa"** for Harry and Isadore. Identify which Komarivka / Komarówka (several exist) is meant: candidates include Komarivka in Haisyn raion (Podolia), Komarivka in Tomashpil raion (Podolia), Komarivka in Odesa oblast. Geographic proximity to Voroshilovka would corroborate; geographic distance would suggest a second hometown or an Americanization artifact.
+3. **Alex Krakovsky's Wiki** (kdkv.name) for Podolia / Vinnytsia / Odesa Jewish vital register scans 1850-1920 — Alex Krakovsky's project has uploaded tens of thousands of Ukrainian archive images. A Kuniansky entry in a Podolia register would be decisive.
+4. **Ellis Island / Castle Garden / NY passenger manifests** for Wolf, Harry, Isadore, Louis Kuniansky and their parents arriving from Russia 1900-1914, last residence column likely showing a Podolian shtetl (Voroshilovka or neighbour). Matched arrival would close the US-to-Europe origin link.
+5. **Breman Museum oral history transcript of Max Lewis Kuniansky (1990-07-28)** — full-text review for any additional town names, ship names, years, or ancestor names not captured in the summary.
+6. **Yad Vashem Pages of Testimony** for Kuniansky / Kunyansky / Konyansky from Podolia, Vinnytsia, Voroshilovka, or Komarivka killed in the Holocaust — these often name pre-war parents + siblings + addresses and could extend the family tree through Ukrainian cousins who did not emigrate.
+
+Białystok (retained, low priority; now effectively a disconfirmation track):
+
+7. **LDS microfilms 1191934 and 1191936** via FamilySearch affiliate library would provide the full register images for Sore Leja 1866 death and Gersz 1874 death. Useful only if a later-discovered Atlanta Kuniansky document unexpectedly cites Białystok or Grodno; otherwise not cost-effective given the revised origin geography.
+8. **JRI-Poland Białystok full-record-type search** across births, marriages, divorces for Konjanski / Kunjanski / Kuniansky — retained as a surname-distribution exercise but no longer ancestry-critical. The Białystok index covers births 1855, 1871-1876, 1881, 1883-1886 and marriages 1866-1878, 1883-1886.
+9. **JRI-Poland surname list for Białystok** confirms "KONJANSKI" is present (verified via web search 2026-04-19); no additional variants beyond the two already-documented records surface in automated public search. A browser-session live search at jri-poland.org/jriplweb.htm would be required to enumerate every hit — deferred pending the Podolia / Vinnytsia track above.
 
 ## Notes
 
