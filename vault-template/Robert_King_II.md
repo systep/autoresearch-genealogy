@@ -72,6 +72,8 @@ A monument was erected at the King Family Cemetery by Robert II's "only survivin
 |---|---|---|---|
 | Birth year | c. 1750 (some sources) | c. 1756 (other sources, incl. 1929 monument inscription) | Approximate; no primary source available. The 1929 monument gives 1756. |
 | Birthplace in Ireland | Wexford (one WikiTree note, Tier 3) | Larne / Co. Antrim area (implied by ship Jupiter departure, Tier 3) | Larne/Antrim is consistent with the Scots-Irish emigration geography and 1770 Antrim lease crisis; Wexford is inconsistent with Larne embarkation. See [[King_Ireland_Origin_Research_2026_04_19]]. |
+| Ship name and route | "Jupiter, Larne, 1770" (WikiTree Dolby-84, Geni, Find a Grave; all Tier 3) | Documented historical Jupiter sailed Derry to Philadelphia in 1772 (Derry Journal / Brian Mitchell, Tier 2); all attested Larne-to-Charleston ships (James and Mary, Lord Dunluce) sailed in 1772 with Rev. William Martin, not 1770 (Stephenson, Tier 2) | **Open**. The Tier 2 historical record contradicts the Tier 3 family tradition. Most likely reality: 1772 with Rev. William Martin flotilla from Larne to Charleston. Full analysis in [[Robert_King_II_Larne_1770_Research_2026_04_19]]. |
+| Port of arrival | Implied Charleston (WikiTree, Geni) | Baltimore / Annapolis / Chesapeake (smokykin.com record I352185, mytrees.com, Tier 3) | **Open**. Neither has primary-source confirmation. See [[Robert_King_II_Larne_1770_Research_2026_04_19]] H-1 vs H-2. |
 
 ## Origin Hypothesis
 
