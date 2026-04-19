@@ -3,7 +3,8 @@ type: hypothesis
 status: open
 evidence_for:
   - "Multiple Tier 2/3 sources (WikiTree Brasseur-19, Geni, sonsofdewittcolony.org, 'A Brazier/Brasher Saga') name Robert Brasseur as Huguenot progenitor"
-  - "Robert Brasseur held VA land patents (1636, 1638 Nansemond Co.; 1200 acres 1653) — Tier 1 colonial records"
+  - "Robert Brasseur held VA land patents (1636, 1638, 1640, 1653 Nansemond Co.) — Tier 1 VA Colonial Land Office abstracts (Nugent Vol. 1 p. 41 confirmed for 1636; pages for 1638/1640/1653 pending direct archive.org verification). See [[Brasseur_Nansemond_1636_Primary_Source_Research_2026_04_19]] and [[Robert_Brasseur_VA_1636]]"
+  - "21 Jan 1659/60 Rappahannock deed names 'Robert Brusner gent new deced' leaving Nansemond land by will to daughter Martha, wife of William Moseley — Tier 1 (Rappahannock Records 1656-64 p. 99). Decisive tie from the Brasseur Nansemond estate into the Moseley Old Rappahannock line."
   - "Benois 'Bennet' Brasseur listed in American Huguenot Society registers and First Families of Maryland qualifying ancestors (Calvert Co. by 1663)"
   - "Charles Calvert's declaration Dec 4, 1662, granting Benois Brafseuir 'free Dennizen' status, held in Maryland Hall of Records, Council Proceedings — Tier 1"
   - "Inventory of goods of Benjamin Brassear, Feb 24, 1663/4, Maryland Archives Inventories Book 1E p.92 — Tier 1"
@@ -31,7 +32,8 @@ Most genealogical sources, including the 532-page "A Brazier/Brasher Saga" by Br
 
 Primary-source support located in this session (Tier 1):
 
-- **VA Land Patents.** Robert Brasseur received a 600-acre patent Feb 24, 1638 on Warrisquicke Creek, Nansemond Co. (with Peter Rey); a 100-acre patent Oct 6, 1640, Upper Norfolk Co., west branch of Nansemond River; and a 1200-acre grant on April 12, 1653 in Nansemond Co.
+- **VA Land Patents.** Robert Brasseur's first VA record is a 1 June 1636 promissory-note renewal in Warrisquicke Co. (Nugent, Cavaliers and Pioneers, Vol. 1, p. 41). He then received a 600-acre patent in 1638 on Warrisquicke Creek, Upper Co. of New Norfolk / Nansemond Co. (with Peeter Rey, purchased from Peter Johnson); a 100-acre patent Oct 6, 1640, Upper Norfolk Co., west branch of Nansemond River (transport of Peeter and Reene Bersairdier); and a 1,200-acre grant on April 12, 1653 in Nansemond Co. at the head of the southern branch of the Nanzemond River (transport of Robert, wife Florence, and children Mary, Perside, Katherine and Bennet Brasseur). See [[Brasseur_Nansemond_1636_Primary_Source_Research_2026_04_19]] and [[Robert_Brasseur_VA_1636]].
+- **Rappahannock deed naming Robert Brasseur's will.** 21 Jan 1659/60 (Rappahannock Records 1656-64, p. 99): "...whereas Robert Brusner [sic] gent new deced did by his last will and testament give unto his daughter Martha now wife me William Mosely..." specifying land in Nansemond. This places Robert's death before 21 Jan 1659/60 (not c. 1663 as tertiary trees often state, that being a separate Robert Brasseur of Calvert Co. MD) and ties the Brasseur Nansemond estate to [[Captain_William_Moseley_1650_Rappahannock]].
 - **Maryland Denization.** Charles Calvert's declaration of December 4, 1662, granting Benois Brafseuir (Robert's son) "free Dennizen" status in the Province of Maryland; original in Maryland Hall of Records, Council Proceedings.
 - **Estate Record.** Inventory of goods and chattels of Benjamin Brassear, February 24, 1663/4, Maryland Archives Inventories Book 1E, p. 92.
 - **Huguenot Recognition.** Benois Brasseur is listed in the registers of the American Huguenot Society; Robert and Benjamin Brashear appear in the Register of Huguenot Ancestors. Benjamin Brashear (1620-c.1663) is on the First Families of Maryland qualifying-ancestors list.

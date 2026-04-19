@@ -10,10 +10,13 @@ evidence_for:
   - "Nobel Prize biographical materials for Martin Rodbell (b. 1925 Baltimore) naming parents Milton Rodbell (grocer) and Shirley Abrams"
   - "Find a Grave memorial 208750452 for Shirley Abrams Rodbell (1904-1982), wife of Milton W. Rodbell"
   - "USHMM Barbara Ledermann Rodbell papers: married Martin Rodbell 1950, children Paul, Susanne, Andrew, Phillip"
+  - "Clyde Rodbell obituary (Legacy.com / Dignity Memorial, Tier 2): names his parents as Joseph Henry Rodbell and Fannie Turetsky Rodbell of Atlanta"
+  - "Apex Supply company history and Supply House Times article (Tier 2): Joseph Rodbell founded Capitol Hide and Metal Co. in Atlanta in 1911/1912; Leonard and Clyde were his sons who inherited and rebranded the firm (Apex Plumbing Specialties, 1947)"
+  - "William Breman Jewish Heritage Museum oral history interview with Sidney Rodbell (Atlanta, 2022), Tier 2 primary-like record of the Atlanta branch"
 evidence_against:
   - "Vault GEDCOM lists Phillip Rodbell and Ida Rodbell born ~1865 Russia (not Poland); Joseph Henry Rodbell born 1886 Poland"
-  - "No direct GEDCOM link yet established between Baltimore Rodbell bakers (Solomon/Abram/Milton) and vault's Atlanta branch (Leonard Bland, Clyde A.)"
-decisive_record: "Unresolved. Needs passenger manifest for Solomon Rodbell 1894 and for Abram Rodbell pre-1894; needs Milton Rodbell's 1900/1910 census entry naming parents."
+  - "No direct documentary bridge (passenger manifest, census, or obituary) yet links Joseph Henry Rodbell (Atlanta) to Solomon or Abram Rodbell (Baltimore) as siblings, nephews, or cousins"
+decisive_record: "Still needed: (a) 1900 or 1910 US Census for Joseph Henry Rodbell naming his parents; (b) Social Security application or naturalization for Joseph Henry Rodbell; (c) 1900 US Census for Solomon Rodbell Baltimore listing his children and any boarding relatives; (d) Baltimore-to-Atlanta city directory trace for Joseph Henry ca. 1905-1911."
 ---
 
 # Rodbell Origin Research, 2026-04-19
@@ -114,3 +117,44 @@ The vault's Atlanta Rodbells (Leonard Bland, Clyde A.) do NOT obviously map to t
 - Find a Grave memorial 290909834, Barbara Ledermann Rodbell (Tier 2, memorial).
 - USHMM / EHRI Barbara Rodbell papers (Tier 2).
 - Negative results: Ellis Island Foundation search, Ancestry login-gated collections, WikiTree genealogy page (403 on fetch), direct Find a Grave memorial fetches (403).
+
+## Session 2 (2026-04-19, afternoon): Atlanta bridge research
+
+### Tier 2 findings (Legacy.com / Dignity Memorial obituary of Clyde A. Rodbell, 2015)
+
+- Clyde Armand Rodbell (1927-2015, Atlanta) was the son of the late Joseph Henry Rodbell and the late Fannie Turetsky Rodbell, both of Atlanta.
+- This establishes Fannie Turetsky (not Fannie, Solomon Rodbell's wife of Baltimore) as the mother of the Atlanta Rodbell siblings.
+- Joseph Henry Rodbell (b. 1886 Poland per GEDCOM, d. 1964) is therefore confirmed as the father of Clyde Armand Rodbell and (via Apex Supply corporate history) of Leonard Bland Rodbell.
+
+### Tier 2 findings (Apex Supply corporate history / Supply House Times)
+
+- Joseph Rodbell founded Capitol Hide and Metal Company in Atlanta in 1911 (one source says 1912). This was a scrap metal business.
+- Leonard Rodbell, son of Joseph, rebranded/pivoted the firm to Apex Plumbing Specialties in 1947.
+- Clyde Rodbell, Leonard's brother, joined the firm as equal partner in 1949.
+- Leonard Bland Rodbell was the father of Sidney Rodbell (consistent with vault's [[Sidney_Rodbell]]).
+
+### Tier 2 finding (William Breman Jewish Heritage Museum, Atlanta)
+
+- Oral history interview with Sidney Rodbell conducted 11 January 2022 at the Breman Museum. Available on the Aviary platform. Likely contains direct Rodbell family history from Sidney's perspective; should be accessed in person or via digital request to confirm grandfather Joseph Henry's origins and parents.
+
+### Bridge hypothesis (updated, Moderate Signal)
+
+Joseph Henry Rodbell (Atlanta, b. 1886 Poland) and Solomon Rodbell (Baltimore, b. ~1860s Poland, arr. 1894) share:
+
+1. Rare Ashkenazi Jewish surname Rodbell.
+2. Stated origin Poland.
+3. Overlapping US timeframe (Solomon arrives 1894 Baltimore; Joseph establishes business 1911 Atlanta at age ~25, consistent with earlier US arrival as a young immigrant who then relocated from Baltimore to Atlanta).
+4. A wife named Fannie for both men (coincidental; Solomon's wife Fannie is a different person from Joseph's wife Fannie Turetsky).
+
+Most probable relationship: Joseph Henry is a nephew of Solomon and Abram (i.e., son of a third Rodbell brother still in Poland, or son of Abram or Solomon himself) who emigrated later, stopped in Baltimore with his uncles / father, then moved to Atlanta by 1911. The rarity of the surname and shared origin makes this far more plausible than coincidence.
+
+Less likely but possible: Joseph Henry and Solomon/Abram are first cousins rather than nephew/uncle.
+
+Remaining documentary steps to confirm:
+
+1. 1900 US Census Baltimore: look for a young Joseph Rodbell (aged ~14) in Solomon's or Abram's household, or in a boarding house near them.
+2. 1910 US Census Atlanta: Joseph Henry Rodbell aged 24, should be in Atlanta already, possibly newly married to Fannie Turetsky.
+3. Joseph Henry Rodbell's Social Security application (SS-5 form) via NARA: would name parents directly.
+4. Naturalization papers for Joseph Henry Rodbell in Fulton County, Georgia or Baltimore City.
+5. Joseph Henry Rodbell's obituary (Atlanta Constitution, March 1964): should name siblings and parents.
+6. Breman Museum Sidney Rodbell oral history: first-person family narrative.

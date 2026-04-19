@@ -49,6 +49,8 @@ William Moseley died before 1655 in Lower Norfolk County. His son William Mosele
 
 The connection between William Moseley of Lower Norfolk (1649) and the Surry/Brunswick County Moseley line (Jonathan Jonas James Moseley, b. 1683) has not been confirmed by primary sources. Both families are in colonial Virginia, and the Staffordshire origins of William Moseley align with the Staffordshire roots of the later Mosley/Moseley line (Richard Mosley of Kingsley, Staffordshire). WikiTree's "The very earliest Moseleys in America" page discusses the relationship between various Moseley branches in Virginia.
 
+**Important note on progenitor identification (2026-04-19 research)**: Subsequent research (see [[Moseley_Captain_William_1650_Old_Rappahannock_Research_2026_04_19]]) indicates the vault's Surry/Brunswick Moseley line is much more likely descended from a distinct individual, [[Captain_William_Moseley_1650_Rappahannock]] (b. 5 Dec 1630 Kinver, Staffordshire; arrived Virginia 1649/50 via his brother-in-law Col. William Underwood; Burgess for Rappahannock County 1671 to 1674). The two William Moseleys are frequently conflated in tertiary family trees. Nugent's Cavaliers and Pioneers vol. 1 documents both as separate patentees.
+
 ## Verification Searches
 
 | Database | Search Performed | Date | Result |

@@ -1,10 +1,13 @@
 ---
 type: hypothesis
-status: open
+status: supported
 evidence_for:
   - "Somerset County MD was founded in 1680s by Ulster-Scot emigrants from the Laggan (eastern Donegal, particularly Lifford) following Presbyterian ministers Francis Makemie and William Trail (1683)"
-  - "James Henderson Sr. (c.1632-bef.1692), progenitor of the Somerset MD Hendersons, is first recorded at Hungars Parish, Northampton Co VA, May 5, 1661, baptizing son John"
-  - "James Henderson Sr. appears among signers of the 1689 Somerset County Grand Jury Advice of Loyalty to William and Mary, a document dominated by Ulster-Scot Presbyterian names (Knox, Alexander, etc.)"
+  - "James Henderson Sr. (c.1632-bef.1692), progenitor of the Somerset MD Hendersons, is first recorded at Hungars Parish, Northampton Co VA, May 5, 1661, baptizing son John (CONFIRMED, multiple independent sources citing Hungars Parish register)"
+  - "PRIMARY: 17 Nov 1665 VA land patent to James Henderson, 400 acres on south side of Pocomoke River, Accomack Co VA, bounded east by land surveyed for Thomas Davis, in return for transporting 8 persons (headrights). Placed in Somerset Co MD after 1668 boundary resolution. (Cavaliers and Pioneers Vol. I, Nugent; Library of Virginia Colonial Land Office; corroborated by Geni, WikiTree Henderson-1383)"
+  - "PRIMARY: 16 Aug 1667 second patent to James Henderson, 150 acres Accomack Co VA, headrights Michael Towes, Joseph Miller, Davy Glascock (Cavaliers and Pioneers)"
+  - "PRIMARY: 28 Nov 1689 Somerset County MD Address of Loyalty to William and Mary (not technically a Grand Jury, corrected nomenclature), transcribed at MDGenWeb (somerset/histrec/1689.htm) from Archives of Maryland Vol. 106 Somerset County Judicial Records 1689-1690. James Henderson is among signers; overwhelming majority Presbyterian Ulster-Scot"
+  - "Gilbert Henderson (possible brother/close relative of James) appears as headright of Thomas Johnson Jr. in Northampton Co VA, May 1652 (Cavaliers and Pioneers)"
   - "Cluster of Hendersons around Perth, Scotland in 16th/17th century commissariot records identified as probable ancestors/relatives of James and Gilbert Henderson of Somerset (WikiTree Henderson-1383 research notes)"
   - "Clan Henderson migration pattern: Fordell (Fife) / Perth and Shetland / Liddesdale Hendersons moved to Ulster during plantation (Donegal first, then Tyrone and Antrim), with many re-emigrating to America"
   - "Mary Rhodes (wife of James Isaac Henderson Jr., Argaleus's mother) traditionally recorded as born in Scotland (~1700), though unverified"
@@ -49,14 +52,17 @@ Multiple independent secondary sources confirm:
 - The 1689 Somerset County Grand Jury "Advice of Loyalty" to William and Mary carried 235 signers, the majority Presbyterian and heavily Ulster-Scot (Knox, Alexander, and others from Laggan/Lifford).
 - **James Henderson was among the signers.** (WikiTree Henderson-1383 narrative; Clan Pollock "From Lifford to America" series; discoverulsterscots.com Ulster-Virginia migration page; confirmed by two independent web summaries.)
 
-### 2. James Henderson Sr. of Somerset, primary source trail (Tier 1 skeleton)
+### 2. James Henderson Sr. of Somerset, primary source trail (Tier 1 CONFIRMED 2026-04-19)
 
-- **May 5, 1661**: James and wife Mary baptize son John at Hungars Parish, Northampton Co VA. This is the earliest documentary record.
-- **April 1666**: James patents 400 acres on the south side of the Pocomoke River. The land was in Accomack Co VA at patent; the 1666 VA/MD border resolution placed it in Somerset Co MD later that summer.
-- **1689**: Signs Advice of Loyalty, Somerset Co MD.
-- **bef. 1692**: Dies in Somerset.
+- **May 5, 1661**: James and wife Mary baptize son John at Hungars Parish, Northampton Co VA. (Some sources give 12 May 1661; original Hungars Parish register entry.) This is the earliest documentary record. CONFIRMED.
+- **November 17, 1665**: James patents 400 acres on the south side of the Pocomoke River, bounded east by land surveyed for **Thomas Davis**, in return for transporting 8 persons into the county (headrights). The land was in Accomack Co VA at patent; the 1668 VA/MD border resolution placed it in Somerset Co MD. Abstracted in Nugent, *Cavaliers and Pioneers* Vol. I. CONFIRMED as Tier 1.
+- **August 16, 1667**: Second patent, 150 acres in Accomack Co VA, headrights Michael Towes, Joseph Miller, Davy Glascock. CONFIRMED as Tier 1.
+- **November 28, 1689**: Signs Somerset County Address of Loyalty to William and Mary. Transcription at MDGenWeb, underlying primary at Archives of Maryland Vol. 106 (Somerset County Judicial Records 1689-1690). CONFIRMED as Tier 1. (Note: the document is properly titled "Address of Loyalty", not "Grand Jury Advice of Loyalty" as earlier session notes recorded; correction propagated.)
+- **bef. August 9, 1692**: Dies in Somerset Co MD.
 
 This timeline means James was physically in Virginia by 1661, so he did not arrive with the Makemie 1680s wave. He was either an earlier Scottish/Ulster emigrant who predated the organized Laggan migration, or an English-extraction settler who assimilated into the Presbyterian Ulster-Scot community when it arrived.
+
+**Related headright**: Gilbert Henderson appears as a headright of Thomas Johnson Jr. in Northampton Co VA, May 1652 (Nugent, *Cavaliers and Pioneers*). Possible brother or close kin of James; supports a slightly earlier Henderson presence on the Eastern Shore than James's own 1661 record.
 
 ### 3. Scottish origin cluster (Tier 2, speculative)
 
@@ -80,7 +86,9 @@ Several user-submitted trees state Argaleus's mother Mary Rhodes (~1700) was bor
 
 **Migration path:** Scotland (Perth/Fife) -> Ulster (Donegal, possibly Lifford/Laggan) -> Virginia Eastern Shore (Northampton/Accomack) by 1661 -> Somerset Co MD by 1666 -> Onslow Co NC by c.1720 -> Chatham Co NC by 1778 -> Greenville Co SC post-1783.
 
-**Confidence: Moderate Signal.** Supported by the 1689 Advice of Loyalty signature, the Makemie-Laggan context, and the Perth cluster hypothesis. Not yet Strong Signal because no primary document names James Henderson Sr.'s specific Scottish or Ulster parish.
+**Confidence on the VA/MD colonial leg: Strong Signal** (upgraded 2026-04-19). The 1661 Hungars Parish baptism, the 1665 Pocomoke patent, the 1667 Accomack patent, and the 1689 Address of Loyalty signature are all Tier 1 primary records, independently corroborated, consistent in name, dates, and place.
+
+**Confidence on the Scottish/Ulster origin leg: Moderate Signal.** Supported by the Makemie-Laggan context and the Perth Henderson cluster hypothesis, but no primary document names James Henderson Sr.'s specific Scottish or Ulster parish. Needs a matching Hearth Money Roll, muster roll, or session minute entry to reach Strong.
 
 **Alternative hypothesis (Speculative):** James Henderson Sr. was an English (not Ulster-Scot) settler who arrived via Virginia tobacco migration and merely signed the 1689 Advice alongside Ulster-Scot neighbors. Arguments against: given name patterns (James, John, William) fit Scottish practice; Presbyterian association by 1689.
 
@@ -102,8 +110,9 @@ Richard Henderson (1735-1785), founder of the Transylvania Company and born in H
 
 ## Sources Consulted (2026-04-19)
 
-- WikiTree Henderson-1855 (Ezekiel), Henderson-7309 (Argaleus I), Henderson-7310 (James Isaac Jr.), Henderson-1383 (James Sr. of Somerset)
-- Geni.com James Henderson of Somerset County Maryland profile
+- WikiTree Henderson-1855 (Ezekiel), Henderson-7309 (Argaleus I), Henderson-7310 (James Isaac Jr.), Henderson-1383 (James Sr. of Somerset), Henderson-1463 (John Henderson b. 1661)
+- Geni.com James Henderson of Somerset County Maryland profile (Geni ID 6000000000115892951)
+- Geni.com John Henderson Sr. of Worcester County profile (Geni ID 6000000010033815658)
 - Clan Pollock, "From Lifford to America, Part 1"
 - Clan Henderson Society history and historical branches pages
 - DiscoverUlsterScots.com, Ulster-Virginia migration page
@@ -111,6 +120,16 @@ Richard Henderson (1735-1785), founder of the Transylvania Company and born in H
 - WikiTree Henderson-386 (Richard Henderson, Transylvania)
 - McCue, John N., "Henderson Chronicles" (archive.org)
 - NCpedia, Scottish Settlers and Richard Henderson entries
+
+## Primary Sources Confirmed 2026-04-19
+
+- **Nugent, Nell Marion, *Cavaliers and Pioneers: Abstracts of Virginia Land Patents and Grants*, Vol. I, 1623-1666** (Internet Archive, archive.org/details/cavalierspioneer00nuge; HathiTrust uiuo.ark/13960/t9p27xf8p): James Henderson 400-acre Pocomoke patent 17 Nov 1665, 8 headrights; Gilbert Henderson headright 1652.
+- **Nugent, *Cavaliers and Pioneers* Vol. II, 1666-1695** (archive.org/details/cavalierspioneer0000nuge): James Henderson 150-acre Accomack patent 16 Aug 1667.
+- **Library of Virginia, Virginia Land Patents and Grants Research Guide** (lva-virginia.libguides.com/land-grants): gateway to original Colonial Land Office patent books, free online.
+- **Archives of Maryland Volume 106, Somerset County Judicial Records 1689-1690** (msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000106/html/): contains the 28 Nov 1689 Address of Loyalty.
+- **MDGenWeb Somerset, Address of Loyalty 1689** (mdgenweb.org/somerset/histrec/1689.htm): full transcription of signers.
+- **MDGenWeb Somerset, They Lived In Somerset: 17th Century Marylanders, H entries** (mdgenweb.org/somerset/tlis/tlis1_h.htm): James Henderson biographical index.
+- **Maryland State Archives, LAND OFFICE (Patent Record, Original) S920 1657-1815** (guide.msa.maryland.gov/pages/series.aspx?ID=S920): original Maryland patent records.
 
 ## Do Not Modify
 
