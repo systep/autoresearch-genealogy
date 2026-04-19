@@ -28,7 +28,7 @@ tags: [genealogy, moseley, person, virginia, lower-norfolk, rotterdam, merchant-
 | Birthplace | Staffordshire, England (ancestral seat at Rolleston) | WikiTree (Tier 3), Colonial Virginia Portraits (Tier 2) |
 | Died | Before 1655, Lower Norfolk County, Virginia | WikiTree (Tier 3) |
 | Burial | Unknown (Lower Norfolk County, Virginia) | |
-| Father | Unknown (possibly connected to Sir William Moseley of Staffordshire) | Lewis-genealogy.org (Tier 3) |
+| Father | Unknown. Older Tier 3 claim of descent from Mosleys of Rolleston Hall, Staffordshire, is refuted (Sir Edward Mosley d. 1638 without issue). | Lewis-genealogy.org (Tier 3), WikiTree Space: earliest Moseleys in America (Tier 3 rebuttal) |
 | Mother | Unknown | |
 | Spouse | Susanna Burnet (or Burnett) | WikiTree (Tier 3), Archive.org (Tier 2) |
 | Children | William Moseley II (c. 1634 to 1671), Arthur Moseley | WikiTree (Tier 3) |
@@ -76,4 +76,6 @@ The connection between William Moseley of Lower Norfolk (1649) and the Surry/Bru
 |---|---|---|---|
 | Birth year | c. 1605 (WikiTree) | "c. 1607" (Geni, other trees) | Minor difference; approximate dates. WikiTree Moseley-506 uses c. 1605; Geni uses c. 1607. Both are estimates. |
 | Wife's surname | Burnet (WikiTree) | Burnett (other sources) | Spelling variant only; same person. |
-| Connection to Surry/Brunswick Moseleys | Implied by shared Virginia residence and Staffordshire origins | Not confirmed by primary evidence | This connection is plausible but speculative. Requires further research in colonial Virginia court records. |
+| Connection to Surry/Brunswick Moseleys | Implied by shared Virginia residence and Staffordshire origins | Not confirmed by primary evidence; Captain William Moseley of Old Rappahannock (arrived 1650, separate immigrant) is a stronger candidate progenitor for the Surry/Brunswick line. | See [[Moseley_Virginia_English_Origin_Research_2026_04_19]]. Connection to the 1649 Lower Norfolk William Moseley is now considered less likely; the 1650 Rappahannock William Moseley is the better candidate for Jonathan Moseley b. 1683 Surry. |
+| Rolleston / Staffordshire ancestry | Implied by Virginia estate name "Rolleston Hall" and older Tier 3 trees | Refuted: Sir Edward Mosley (1569 to 1638) of Rolleston Hall, Staffordshire, died without issue. WikiTree Space "The very earliest Moseleys in America" explicitly states there is no evidence connecting this William Moseley to the Staffordshire Mosleys. | The Virginia estate name is commemorative, not evidentiary. English origin remains open; London / Merchant Adventurers network is the leading hypothesis. See [[Moseley_Virginia_English_Origin_Research_2026_04_19]]. |
+| Candidate London baptism | St Margaret's, Westminster, 15 December 1606 | St Margaret's, Westminster, 17 December 1606 | Both are commonly cited. Neither is conclusively linked to this William Moseley. Requires parish register verification. |
