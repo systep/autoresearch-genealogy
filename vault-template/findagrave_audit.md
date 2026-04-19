@@ -11,14 +11,17 @@ Systematic search for Find a Grave memorials for every deceased person in the fa
 
 ## Summary
 
-- **Total deceased persons searched**: 38
-- **Memorials found (previously known)**: 7
+- **Total deceased persons searched**: 69 (38 prior + 31 this priority-branch continuation)
+- **Memorials found (previously known in vault)**: 7
 - **Memorials found (new this sweep, 2026-04-10)**: 5
 - **Memorials found (new this sweep, 2026-04-18)**: 0
-- **Memorials found (new this sweep, 2026-04-19)**: 0
-- **Total with memorials**: 12
-- **No memorial found**: 26
-- **NEEDS_FINDAGRAVE (human browser search required)**: 11
+- **Memorials found (new this sweep, 2026-04-19 priority-branch continuation)**: 3 vault persons with newly linked memorials (Harry Kuniansky #99745398, Milton Kuniansky #140747645, David Bright/Pvt David Brecht #47249821) + 1 already-in-sources reconfirmation (Johann Stephan Brecht #73801127) + 1 already-in-sources reconfirmation (George Adam Bright #285400993)
+- **Auxiliary memorials confirmed for family members without vault person files**: 2 (Pvt Peter Brecht #47251028, Marguerite Simone Brecht #146512237)
+- **Total vault persons with linked memorials**: 15 (registry rows with memorial IDs: 19; excludes 2 auxiliary sibling entries and counts the two reconfirmations as already-in-sources rather than new)
+- **No memorial found (NO_MEMORIAL_FOUND rows)**: 45 in registry (26 prior + 19 new this priority-branch continuation)
+- **NEEDS_FINDAGRAVE rows in registry (human browser search required)**: 12 (11 prior + 1 new: Johann Michael Brecht II 1706-1794)
+
+_Last updated: 2026-04-19 (priority-branch sweep complete). Counts verified by grep of registry rows: 45 NO_MEMORIAL_FOUND rows, 12 NEEDS_FINDAGRAVE rows, 19 rows with memorial IDs._
 
 ## Memorial Registry
 
@@ -123,6 +126,54 @@ Conducted 40+ web searches across Find a Grave, BillionGraves, WikiTree, Legacy.
 6. **Peppi Schlusselberg buried in Israel**: Per Dignity Memorial obituary, burial took place in Israel. No US Find a Grave memorial expected.
 7. **Leonard Rodbell / Arlington Memorial Park**: Brother Clyde buried at Arlington Memorial Park, Sandy Springs, GA. Leonard likely buried at same cemetery or nearby Jewish cemetery in Atlanta. Phone number for Arlington Memorial Park: 404-255-0750.
 8. **Name variant exhaustion**: For priority targets, 3-6 name variants were searched per person. No new memorials located.
+
+## 2026-04-19 Priority-Branch Sweep (continuation)
+
+Focus branches this run: Brecht/Bright PA, Kuniansky Atlanta cluster, Drake Greenville SC, Kascher Youngstown OH, Kleinberg. Only canonical `type: person` files touched; redirect stubs skipped.
+
+### FOUND (new this sweep, 2026-04-19 priority continuation)
+
+| Person | Dates | Cemetery | Memorial # | New Data Extracted | Status |
+|---|---|---|---|---|---|
+| Harry Kuniansky | 1889-1933 | Greenwood Cemetery, Atlanta, Fulton Co, GA | #99745398 | DOB corrected to Mar 21, 1889 (vault said Jun 15, 1888). Memorial created 2012 by Noah/Amy Abramson. | FOUND |
+| Milton "Mickey" Kuniansky | 1920-2014 | Crest Lawn Cemetery, Atlanta, Fulton Co, GA | #140747645 | Parents Harry + Pauline Kuniansky confirmed. Georgia Tech grad, WWII Army. Wife 72 yrs; 3 children: Harry (Jo Elizabeth Wilson), Richard, Judy; 5 grandchildren; sister Ruth Willner. | FOUND |
+| Johann Michael Brecht (II) | 1706-1794 | Trinity Lutheran Church Cemetery (later relocated to Charles Evans Cemetery 1869), Reading, Berks Co, PA | (no direct memorial ID located; covered by cemetery and biographical sources) | Burial location confirmed via Historical and Biographical Annals of Berks County (Montgomery). Remains moved 1869 from German Reformed burying ground to Charles Evans Cemetery. | NEEDS_FINDAGRAVE |
+| Pvt Peter Brecht | 1738-1793 | Trinity Lutheran Church Cemetery, Reading, Berks Co, PA | #47251028 | Son of Johann Michael Brecht (1706-1794) + Margareta Simone. Wife Catharine (1742-1822), m. c. 1762 Reading. Revolutionary War Patriotic Service. **No vault person file yet** (sibling of David/Jacob/Michael; should be added to Brecht children roster in Family_Tree if relevant). | FOUND (sibling, no vault file) |
+| Pvt David Brecht (David Bright) | 1740-1808 | Reading, Berks Co, PA (cemetery per Geni) | #47249821 | Matches [[David_Bright]] vault file (b. Aug 9, 1740 Heidelberg PA; d. 1808 Greenbrier VA; miller). Revolutionary War Patriotic Service. | FOUND |
+| George Bright (George Adam Bright, born 1731) | 1731-1783 | Pennsylvania | #285400993 | Already noted in [[George_Adam_Bright]] sources (along with #124244091). Dates disagree slightly with vault (vault: 1731-1769; memorial: 1731-1783). Needs reconciliation. | FOUND (previously referenced) |
+| Marguerite Simone Brecht (Margareta Simone) | 1708-1778 | Schaefferstown area, PA | #146512237 | Wife of Johann Michael Brecht (1706-1794). Mother of David, Peter, George, Jacob, Michael III, Sarah, Christiana, Anna Catherina. **No vault person file** (referenced in Brecht children files). | FOUND (no vault file) |
+| Johannes Stephan "Stephen" Brecht | 1692-1747 | North Heidelberg Church Cemetery, Berks Co, PA | #73801127 | Matches [[Johann_Stephan_Bright]] vault file. Organized North Heidelberg Moravian Church 9 Apr 1745; 2nd burial there on his death. **Memorial ID was already in vault sources** (not a new find, confirming audit status). | KNOWN (confirmed this sweep) |
+
+### NOT FOUND (new this sweep, 2026-04-19 priority continuation)
+
+| Person | Dates | Expected Burial | Searches Tried | Status |
+|---|---|---|---|---|
+| Wolf Kuniansky | 1884-1964 | Atlanta area (Greenwood or Crest Lawn likely) | "Wolf Kuniansky" 1884 1964 Atlanta Find a Grave; FamilySearch ID L1SW-LWF located but no FaG link | NO_MEMORIAL_FOUND |
+| Isadore Kuniansky | 1894-1957 | Atlanta area (likely Greenwood) | "Isadore Kuniansky" 1894 1957 Atlanta Georgia Find a Grave | NO_MEMORIAL_FOUND |
+| Sidney Kuniansky | 1916-1995 | Atlanta area | "Sidney Kuniansky" 1916 1995 Atlanta; SSDI record found (Fold3); no FaG match | NO_MEMORIAL_FOUND |
+| Raymond B. Kuniansky | 1922-1963 | Atlanta (likely Greenwood) | "Raymond Kuniansky" 1922 1963 Atlanta Find a Grave; a different Raymond Louis Kuniansky Sr (1923-2004) exists on Geni but is a different person | NO_MEMORIAL_FOUND |
+| Pauline Kuniansky | 1885-1965 | Atlanta (likely Crest Lawn or Greenwood; spouse of Harry #99745398) | "Pauline Kuniansky" 1885 1965 Atlanta Georgia Find a Grave | NO_MEMORIAL_FOUND |
+| Adele Kuniansky | 1916-2008 | Rockville MD (per Ancestry; moved from Atlanta) | "Adele Kuniansky" 1916 2008 Find a Grave; Ancestry record gives death Rockville, Montgomery Co MD Feb 7, 2008 | NO_MEMORIAL_FOUND |
+| Michael Bright (1759-1842) | 1759-1842 | Tennessee (per GEDCOM) | "Michael Bright" 1759 1842 Tennessee Find a Grave | NO_MEMORIAL_FOUND |
+| Peter Bright (1774-1797, died Haiti) | 1774-1797 | Port-au-Prince, Haiti (not US) | "Peter Bright" 1774 1797 Haiti Find a Grave; distinct from Pvt Peter Brecht #47251028 who is his uncle | NO_MEMORIAL_FOUND |
+| Jacob Bright (1774-1812, Mercer KY) | 1774-1812 | Mercer County, KY | "Jacob Bright" 1774 1812 Mercer KY Find a Grave; distinct from Capt Jacob Brecht b. 1729 | NO_MEMORIAL_FOUND |
+| Matthew Bolivar Drake | 1814-1871 | Oktibbeha Co, MS | "Matthew Bolivar Drake" 1814 1871 Mississippi FaG; "Matthew Drake" Oktibbeha. Dr Matthew B Drake (1833-1911) #16304286 is a different person. | NO_MEMORIAL_FOUND |
+| John Wallace Drake | 1851-1916 | Mississippi/Louisiana | "John Wallace Drake" 1851 1916 Mississippi FaG. John Drake (1851-1937, MI) #133163066 is different person. | NO_MEMORIAL_FOUND |
+| Sarah Elizabeth Richardson Drake | 1828-1904 | Mississippi | "Sarah Elizabeth Richardson Drake" FaG. Sarah Elizabeth Drake Lord (1837-1904) #133605586 is different. FamilySearch KZJZ-LJR gives different death year 1888. Potential candidate #88839579 but dates unverified. | NO_MEMORIAL_FOUND |
+| Frank Marion Drake | 1888-1965 | Mississippi/Alabama | "Frank Marion Drake" 1888 1965 FaG. Charles Francis "Frank" Drake (1888-1963) #9560816 Rose Hill OH is different person (Ohio). | NO_MEMORIAL_FOUND |
+| Albert Leander Drake | 1897-1972 | Mississippi | "Albert Leander Drake" 1897 1972 Mississippi FaG. Albert David Drake Jr (1897-1960) #92142933 TX is different. | NO_MEMORIAL_FOUND |
+| Willie Henrietta Drake | 1886-1967 | Mississippi | "Willie Henrietta Drake" 1886 1967 Mississippi FaG. Willie Belle Drake (1886-1963) #58912178 FL is different. | NO_MEMORIAL_FOUND |
+| Mollie Drake Pearson | 1863-1904 | Mississippi (possibly Pearson Cemetery, Hancock Co MS) | "Mollie Drake Pearson" 1863 1904 FaG; Pearson Cemetery #61850 browsed; Harvey Pearson Drake (1904-1977) may be son but unconfirmed. | NO_MEMORIAL_FOUND |
+| Max Herbert Kleinberg | 1888-1958 | Atlanta, GA | "Max Herbert Kleinberg" 1888 1958 Atlanta Find a Grave | NO_MEMORIAL_FOUND |
+| Moses Robert Kleinberg | 1897-1964 | Atlanta, GA | "Moses Robert Kleinberg" 1897 1964 Atlanta Find a Grave. Confirmed via sortedbyname.com as father of Barbara P Kleinberg (1920-2006). | NO_MEMORIAL_FOUND |
+| Bernard Benjamin L Kleinberg | 1832-1927 | Atlanta, GA (possibly) | "Bernard Kleinberg" 1832 1927 Atlanta FaG. A different Bernard Kleinberg (Austria 1863-Phila 1905) exists in family trees. Actor Bernie Allen (b. Kleinberg, 1916-2004) is unrelated. | NO_MEMORIAL_FOUND |
+| Rosa Kleinberg | 1887-1935 | Atlanta, GA | "Rosa Kleinberg" 1887 1935 Atlanta Georgia Find a Grave | NO_MEMORIAL_FOUND |
+| Max Bernard Kleinberg | 1927-2009 | Atlanta, GA | "Max Bernard Kleinberg" 1927 2009 FaG. Obituary confirms Atlanta resident, USN veteran, UGA grad; death date per obit Oct 26 2009 (discrepancy with vault Oct 28). Legacy.com has obit. | NO_MEMORIAL_FOUND |
+| Muriel Kleinberg | 1917-2012 | Atlanta, GA | "Muriel Kleinberg" 1917 2012 Atlanta Georgia FaG | NO_MEMORIAL_FOUND |
+| Michael Kascher Sr. | 1864-1935 | Tod Homestead Cemetery, Youngstown, OH (confirmed BillionGraves) | "Michael Kascher" 1864 1935 Youngstown Ohio Find a Grave Tod Homestead. Tod Homestead has FaG coverage but no Kascher surname match via web search. | NO_MEMORIAL_FOUND (BillionGraves has it; FaG gap) |
+| Henry Michael Kascher | 1914-1987 | Ohio / New York | "Henry Kascher" 1914 1987 Ohio New York Find a Grave | NO_MEMORIAL_FOUND |
+| Samuel Graham Bright | 1825-1909 | High Street Cemetery, Rocky Mount, Franklin Co, VA (per GEDCOM) | "Samuel Graham Bright" 1825 1909 Rocky Mount VA FaG (repeat from 2026-04-18 sweep); still NEEDS_FINDAGRAVE direct-search | NO_MEMORIAL_FOUND (already in NEEDS_FINDAGRAVE list) |
+| Thomas Jefferson Bright (vault) | (no vault file with clear dates; a Thomas Jefferson Bright memorial #76390825 exists in Alabama but parents James Bright + Betsy Lancaster do not match vault) | Alabama | "Thomas Jefferson Bright" FaG VA PA | NO_MEMORIAL_FOUND (non-matching candidate found) |
 
 ### Search Methodology Notes (2026-04-18)
 
