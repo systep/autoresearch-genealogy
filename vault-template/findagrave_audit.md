@@ -11,13 +11,13 @@ Systematic search for Find a Grave memorials for every deceased person in the fa
 
 ## Summary
 
-- **Total deceased persons searched**: 42
+- **Total deceased persons searched**: 38
 - **Memorials found (previously known)**: 7
 - **Memorials found (new this sweep, 2026-04-10)**: 5
 - **Memorials found (new this sweep, 2026-04-18)**: 0
 - **Memorials found (new this sweep, 2026-04-19)**: 0
 - **Total with memorials**: 12
-- **No memorial found**: 19
+- **No memorial found**: 26
 - **NEEDS_FINDAGRAVE (human browser search required)**: 11
 
 ## Memorial Registry

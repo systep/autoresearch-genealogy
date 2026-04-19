@@ -97,6 +97,7 @@ L.D. Salmanson (Leonard Daniel Salmanson)
 ### Generation: Alan Carl's Grandparents
 
 **Barnett Salmanson + Elizabeth (Salk) Salmanson** (strong)
+- Barnett: b. May 15, 1883, Vilnius; d. Dec 14, 1960, Miami FL; buried Lincoln Park Cemetery, Warwick, RI (Find a Grave #97021158)
 - Based in Providence, Rhode Island (family originally from Brooklyn, NY per Samuel's obituary)
 - Founded family drug store business that became Adams Drug Company (est. 1933, Pawtucket, RI) and later Brooks Drug (500+ stores, 10 states, NYSE-listed)
 - Elizabeth: b. **March 5, 1887**, Poland; d. **November 30, 1974**; buried Lincoln Park Cemetery, Warwick, RI (BillionGraves headstone, Tier 1)
@@ -231,7 +232,7 @@ Thelma Markel (1920-2011, married Leonard Irving Salmanson 1947) was the daughte
     │   │   ├── [[Thelma_Markel]] (Tobi; 1920-2011) + [[Leonard_Irving_Salmanson]]
     │   │   ├── Anne Markel (~1922) + **Peppi Schlusselberg** (1927-2014, Hewlett NY, buried Israel) — *corrected from "Sol Schlusselberg" (GEDCOM Tier 3); per MyHeritage/research agents*
     │   │   ├── Freda Markel (dec.; "Miss Freda Markel of New York City" per Helen's 1976 obit) = **Rita** in 1940/1950 Census — same person, different names
-    │   │   ├── Kate Markel (1925-2006) + Irving Kaplan (dec.)
+    │   │   ├── Kate Markel (1925-2006; Find a Grave #232002112) + Irving Kaplan (dec.)
     │   │   └── Joseph Harold Markel (~1932, Providence – **Dec 6, 1989**, age 57; URI grad, BU Law; co-founder Mortgage Guarantee & Title Co.; Army vet; sons **M. William Markel** and **Gregory S. Markel**; buried Lincoln Park Cemetery)
     │   ├── 4. [[Sarah_Markel_Tachner]] (Tsirl) + (1) Arthur Goodman (div.) + (2) Max Tachner
     │   │   ├── Harold Tachner
@@ -663,6 +664,9 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 | Find a Grave #231959788 | Thelma Markel Salmanson Rodbell memorial | Salmanson, Markel |
 | Assets/Yicchis and Narrative.PDF | Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2) | Markel, Frei, Karp, Mermelstein, Sternbach |
 | Find a Grave #185239892 | Hannah Kushner Salmanson memorial | Salmanson, Kushner |
+| Find a Grave #97021158 | Barnett Salmanson memorial | Salmanson |
+| Find a Grave #232002112 | Kate Markel Kaplan memorial | Markel, Kaplan |
+| Find a Grave #141232078 | Clyde Armand Rodbell memorial | Rodbell |
 | WikiTree Cox-14020 | James Cox (c.1778-1853) | Cox, Standing Springs |
 | WikiTree Cox-14022 | William Cox Sr. (c.1726-c.1814) | Cox |
 | WikiTree Cox-18821 | Rebecca Adeline Cox Henderson (1813-1894) | Cox, Henderson |
