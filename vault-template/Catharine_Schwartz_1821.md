@@ -52,4 +52,4 @@ The 1870 census marks her father and mother as "of foreign birth" (columns 11-12
 2. Exact birth date and parish in Württemberg.
 3. Did Catharine and Johann have children in the US before or after the 1870 census?
 4. When and where did Catharine die? The 1880 and later US Census records for the Schwartz household would help.
-5. The GEDCOM records her husband's death as 1907 West Virginia; was Catharine with him there?
+5. The GEDCOM records her husband's death as 1907 West Virginia; was Catharine with him there? **Negative search update 2026-04-19 pass 2**: no Schwartz/Schwarz/Swartz household headed by a Württemberg-born John/Johann with wife Catharine has been located via free web in Marshall County WV 1900 or 1910 census, and no Catharine Schwartz death is indexed in WV pre-1917 VRR for Marshall County. See [[Schwartz_WV_Archives_Search_2026_04_19]]. The WV hypothesis for Catharine's late-life residence is effectively unsupported; she may have died in Iowa (closer to the 1870 Sharon Township household) or elsewhere in a Midwest German-immigrant community.
