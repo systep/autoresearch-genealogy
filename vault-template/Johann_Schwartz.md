@@ -23,7 +23,7 @@ tags: [genealogy, schwartz, schwarz, person, germany, wuerttemberg, enzweihingen
 | Born | **17 May 1822** | FamilySearch baptismal record, Tier 1 (corrects GEDCOM's 1821 by one year) |
 | Christened | 19 May 1822, Evangelisch, Enzweihingen, Neckarkreis, Württemberg | FamilySearch baptismal record (Tier 1) |
 | Birthplace | **Enzweihingen, Neckarkreis, Württemberg** (present-day part of Vaihingen an der Enz, Ludwigsburg Kreis, Baden-Württemberg, Germany) | FamilySearch baptismal record (Tier 1) |
-| Died | 14 FEB 1907, Pleasant Valley, Marshall, West Virginia (vault GEDCOM, not independently verified) | MyHeritage GEDCOM (Tier 3) |
+| Died | 14 FEB 1907, Pleasant Valley, Marshall, West Virginia — **UNVERIFIED, likely wrong** (downgraded further 2026-04-19 pass 2): WV State Archives Vital Research Records index returned no 1907 Schwartz Marshall County death; Pleasant Valley Cemetery Find a Grave index has no Schwartz burial; 1900/1910 Marshall County free-web census indexes surface no Johann/John Schwartz head of household. A separate Württemberg-origin George Swartz family (b. ~1802) was established in Marshall County by 1850 and is a better match for the "Schwartz in Marshall WV" GEDCOM breadcrumb. See [[Schwartz_WV_Archives_Search_2026_04_19]]. | MyHeritage GEDCOM (Tier 3, strongly suspect) |
 | Father | [[Johann_Conrad_Schwarz]] | FamilySearch baptismal record (Tier 1) |
 | Mother | [[Susanna_Barbara_Eitel]] | FamilySearch baptismal record (Tier 1) |
 | Spouse | Unknown — **candidate [[Catharine_Schwartz_1821]]** (b. ~1821 Württemberg, in 1870 Iowa census), but identification is not confirmed (see Data Discrepancies below) | Candidate only |
@@ -55,6 +55,7 @@ This Johann Schwartz (Enzweihingen 1822, vault canonical) is **NOT** the same pe
 - **Johann Schwarz b. 1822, wife Elise Schwarz (born Grünhut), children Karl Wilhelm and Heinrich** (Record E, Geni Tier 3). Different wife; Jewish-surname context suggests different religious/cultural origin.
 - **[[John_Schwarz_Detroit_1860]]** (b. ~1823 Württemberg, Detroit laborer, first wife Catharine b. ~1828, 3 Michigan-born sons). Possibly the same person as vault Johann, but NOT confirmed (see age-inconsistency analysis above).
 - **[[Christian_Schwartz]]** b. 24 Dec 1841 Kolmsee, West Prussia. Different person by 20 years and different province.
+- **George Swartz b. ~1802 Württemberg, of Marshall County VA 1850 census** (wife Mary ~1805 Württemberg; sons George ~1830, Henry ~1831, others, all Württemberg-born). A distinct Württemberg-immigrant Schwartz/Swartz family established in Marshall County two decades earlier than any plausible Johann-in-WV scenario. NOT the vault's Johann by age (20-year gap) and NOT corroborated as kin, though shared Württemberg origin leaves a speculative distant-cousin hypothesis open. Source: USGenWeb / RootsWeb transcription of 1850 Marshall County VA census (indexed excerpt). See [[Schwartz_WV_Archives_Search_2026_04_19]] task 3.
 
 ## Document Sources
 

@@ -70,4 +70,9 @@ A monument was erected at the King Family Cemetery by Robert II's "only survivin
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Birth year | c. 1750 (some sources) | c. 1756 (other sources) | Approximate; no primary source available |
+| Birth year | c. 1750 (some sources) | c. 1756 (other sources, incl. 1929 monument inscription) | Approximate; no primary source available. The 1929 monument gives 1756. |
+| Birthplace in Ireland | Wexford (one WikiTree note, Tier 3) | Larne / Co. Antrim area (implied by ship Jupiter departure, Tier 3) | Larne/Antrim is consistent with the Scots-Irish emigration geography and 1770 Antrim lease crisis; Wexford is inconsistent with Larne embarkation. See [[King_Ireland_Origin_Research_2026_04_19]]. |
+
+## Origin Hypothesis
+
+Working hypothesis (Moderate Signal): Robert King II originated in central or northern County Antrim (Ballymena, Ballymoney, or Kellswater corridor), Scots-Irish Presbyterian, with paternal descent from Lowland Scots (likely Ayrshire or Galloway). His 1770 emigration aligns with the Marquis of Donegal lease crisis and the broader 1770-1772 Antrim exodus that included the Rev. William Martin Covenanter migration to the Pendleton District SC backcountry. Full analysis and next steps: [[King_Ireland_Origin_Research_2026_04_19]].
