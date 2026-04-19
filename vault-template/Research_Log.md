@@ -10,6 +10,49 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-19 (evening): Geni curated World Family Tree import for Shneur Zalman of Liadi (20-gen ancestors + 5-gen descendants)
+
+### Summary
+
+Ingested two Geni.com curated-tree PDFs covering Rabbi Shneur Zalman of Liadi (the Alter Rebbe, 1745-1812, founder of Chabad-Lubavitch), his 20-generation ancestry, and his 5-generation descendants. PDFs exported from Geni on Apr 19, 2026 at 3:15-3:16 PM and stored in `/Assets/`. Ran `pdftotext -layout` to extract hierarchical tree structure with generation numbers preserved via indentation.
+
+### PDFs processed
+
+- `/Assets/Admor-Shneur-Zalman-of-Liadi-Boruchovitch_ancestors_20.pdf` (100 pages, 3709 lines extracted)
+- `/Assets/Admor-Shneur-Zalman-of-Liadi-Boruchovitch_descendants_5.pdf` (16 pages, 554 lines extracted)
+
+### Vault outputs
+
+1. **2 transcription files**: `[[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]]` (~3700 lines) and `[[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]` (~600 lines). Both carry the full `pdftotext -layout` output inside fenced code blocks, preserving the generation hierarchy.
+2. **67 existing vault person files updated**: Added the Geni curated tree as a Tier 2-3 source to the frontmatter `sources:` list and as a new row in the Document Sources table. Files span the Chabad dynasty (Shneur Zalman, Dovber, Tzemach Tzedek, MaHaRash, RaSHaB, Yosef Yitzchak, Ramash), their spouses, the immediate Shneuri/Schneerson children, the Loew/Maharal line (8 files), the Luria line (8 files), biblical-descent claim nodes (King David, King Solomon, King Rehoboam, Zerubbabel, Hai Gaon, Bustanai, Samuel ha-Nagid), Segal (Sterna + Yehuda Leib), Boruchovich (Sheyna), Katz (Shneur Zalman Katz), Poisner, and Portugaler. No vital facts were changed; Geni data corroborates existing vault entries for these 67 files.
+3. **436 new person files created**: Stub files for individuals attested only in the Geni tree. Each has `confidence: low`, Geni-only sourcing, and cross-links to the two transcription files. Files span the extended Ashkenazi rabbinic lineages Geni claims for the Alter Rebbe: Treves-Ashkenazi (Paris/Troyes, 12th-15th c.), Shapira/Spira (Speyer, 14th-15th c.), Luria (Brest-Heilbronn-Mantua, 14th-15th c.), Schor/Shachna, Isserles/ReMa, Meisels, Auerbach, Landau, Rapaport/Rapa, Treves/Zekl Neustadt, Fiszel/Fishel, Pollack, Altschuler/Eberles, Schrentzel/Shrentzel, Klauber, and the medieval French branch reaching Rashi (1040-1105), Rabbeinu Tam, and R"I haZaken. On the descendant side, files span the Twersky-Schneerson intermarriages, the Zalmanson-Wallis-Slonim-Alexandrov-Fundaminsky-Feigelsohn-Rivlin-Derbarmdiker cousin web, the Klutzkar-Zaslavski-Kremenchug-Lavin-Brennan Australian-Ukrainian branch, and numerous 19th-century Russian Empire grandchildren.
+4. **Family_Tree.md**: Appended a new section "Chabad / Rabbinic Dynasty Line (Geni curated tree, 2026-04-19)" with the direct patrilineal spine back 10 generations, the maternal Loew-Luria-Katz line, the Schor-Meisels branch, the Luria-Shrentzel-Treves and Treves-Ashkenazi branches, and the descendant spine.
+5. **cross_reference_audit.md**: Appended discrepancy rows for Geni-vs-vault conflicts (see below).
+
+### Counts
+
+- PDFs processed: 2
+- Transcription files created: 2
+- Existing vault files updated: 67
+- New vault person files created: 436
+- Hebrew-only Geni entries skipped (no Latin-script name to key a vault file): ~60
+- "Duplicate tree section" markers in Geni output skipped: many (Geni itself labels them)
+- Total vault file count after this session: ~1141 (was 697 before)
+
+### Discrepancies flagged (see cross_reference_audit.md)
+
+- Shneur Zalman birth date: Geni says Sept 15, 1745; vault (via Wikipedia/Chabad.org) says Sept 4, 1745. Resolution: both are valid (18 Elul 5505 converts to Aug 27 Julian / Sept 7 Gregorian, but modern Chabad sources typically give Sept 4 or Sept 15 depending on calendar convention and era).
+- Shalom Shachne Altschuler vs Shalom Shachne Schneerson: Geni uses Altschuler as surname for the father of Tzemach Tzedek. Vault has him as Schneerson. Resolution: Altschuler is the earlier (pre-Schneerson) surname used by the Tzemach Tzedek before he formally adopted the Schneerson/Schneersohn surname.
+- Solomon Luria (Maharshal) dates: Geni says b. c. 1495 Germany, d. c. 1540 Jerusalem. Standard Maharshal dates are b. c. 1510 Poznan, d. 1573 Lublin. Resolution: Geni's "Rabbi Shlomo Ashkenazi Luria" in this tree appears to be a different figure from the Maharshal; the naming overlap caused confusion. Flag for further research.
+- Maharal ancestry: Claim that Alter Rebbe descends from Maharal through Moshe Loew of Posen remains contested in modern scholarship per existing vault discrepancy record.
+- Dovber Shneuri's wife: Geni says Sheyna Shneuri b. c. 1773 Yanovichi. Vault has conflicting birthplaces (Yanovichi per GEDCOM, Leozna per FamilySearch). Geni supports Yanovichi.
+
+### Plausibility flags
+
+- Geni's descent from the Alter Rebbe back to biblical King David via Bustanai the Exilarch, Hai Gaon, Samuel ha-Nagid, and the Treves-Ashkenazi rabbis traverses 2800+ years and crosses multiple geographic regions (Babylonia to Spain to France to Germany to Poland/Belarus). Per CLAUDE.md Common Pitfalls and Source Hierarchy, such claims are traditional rabbinic attributions, not genealogically proven descents. The vault files for biblical ancestors have been updated with the Geni source but `confidence` was not upgraded from the existing `low` / `speculative` tier.
+- Multiple "Duplicate tree section to be isolated, no need to merge" markers in the Geni export indicate Geni's own internal duplicate awareness; these were skipped rather than creating orphan stubs.
+- Ancestry lines with Hebrew-script-only names (no Latin transliteration) were preserved in the transcription but did not generate vault person files.
+
 ## 2026-04-19 (afternoon): Cross-Reference Audit Prompt 02 duplicate-file pass
 
 ### Summary

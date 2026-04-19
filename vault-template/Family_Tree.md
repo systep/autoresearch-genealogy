@@ -697,3 +697,129 @@ A handwritten note addressed **"To Rebecca"** (IMG_0791.jpg) states:
 8. **Zalmanson-Schneerson connection**: Is the family actually descended from Levi Yitzchok Zalmanson who married into the Chabad Schneerson dynasty in 1826? This would be historically significant and worth verifying through Chabad genealogical records or DNA.
 
 9. **The "German deacon"**: James Cox is confirmed as the land donor for Standing Springs Baptist Church. But the family note calls the ancestor "a faithful German." Is this James Cox (possibly of German descent through Koch > Cox), the Stangle ancestor, or someone else?
+
+
+## Chabad / Rabbinic Dynasty Line (Geni curated tree, 2026-04-19)
+
+Added 2026-04-19 from the Geni.com "World Family Tree" curated export. Ancestor file (20 generations): [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]]. Descendant file (5 generations): [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]. All claims are **Tier 2-3** (Geni is a curated but user-contributed tree). Medieval descents to biblical figures via Exilarch Bustanai are treated as **traditional rabbinic claims, not genealogically proven**.
+
+### Direct patrilineal spine, Alter Rebbe back 10 generations
+
+```
+Gen 1:  [[Shneur_Zalman_of_Liadi]] (the Alter Rebbe, 1745-1812, Liozna/Piena)
+Gen 2:  [[Boruch_Poisner]] (Baruch Lowe Hatzadik Poisner, 1721-1790, Mukacheve)
+Gen 3:  [[Schneur_Zalman_Loew]] (Rabbi Schneur Zalman Loew of Poznan, c. 1692-c. 1735)
+Gen 4:  [[Moshe_Loew_of_Posen]] (Moshe Loew of Posen, 1667-1736, Poznan/Minsk)
+Gen 5:  [[Yehuda_Leib_Loew]] (Rabbi Yehuda Leib Bezalels, c. 1625-1705, Prague)
+Gen 6:  [[Shmuel_Loew]] (Rabbi Shmuel ben Bezalel Loew of Hessen, 1576-1655, Prague)
+Gen 7:  [[Bezalel_Charif_Loew]] (Rabbi Bezalel Charif Loew, Maharal son #3, c. 1547-1599, Prague/Kolin)
+Gen 8:  [[Maharal_of_Prague]] (Judah Loew ben Bezalel, c. 1525-1609, Poznan/Prague) wife: Perel Loew (c. 1528-1610) → see [[Perel_Loew_Maharals_wife]]
+Gen 9:  [[Bezalel_ben_Yehuda_Loew]] (Betzalel ben Chaim, Maharal's father, c. 1480-c. 1550, Prague/Poznan)
+Gen 10: [[Chaim_ben_Bezalel_Loew_Beer]] (Chaim, Maharal Pat.Gd.father)
+Gen 11: Bezalel Ancestor (Maharal Pa.Gt.Gd.father) - stub in Geni
+```
+
+### Alter Rebbe maternal line (Loew-Luria-Katz)
+
+```
+Gen 2:  [[Rivkah_Loew_Hirtz]] (Rivka Loew, c. 1721, mother of Alter Rebbe)
+Gen 3:  Chaim Avraham, mat.Gd.father; and [[Sarah]] (unknown maternal Gd.mother)
+Gen 4:  [[Sara_Loew_Katz]] (Sara Loew of Posen, 1665-1736) + Moshe Loew of Posen
+Gen 5:  Missing 1-2 generations Katz (per Geni); then [[Shneur_Zalman_Katz]] (1582-1649, Prague/Lublin)
+Gen 6:  [[Rosa_Luria]] (c. 1590, wife of Shneur Zalman Katz)
+Gen 7:  Aminadav Luria (c. 1548-1605, Brest) → [[Aminadav_Luria]]
+Gen 8:  David Yehiel Drucker "the printer of Vienna" (1520-c. 1600, Brest) → [[David_Yehiel_Drucker]]
+Gen 9:  [[Solomon_Luria_Maharshal]] (Rabbi Shlomo Ashkenazi Luria, c. 1495-1540, per Geni; Maharshal)
+         Spouse: Dina Luria (c. 1503-c. 1585) → [[Dina_Luria]]
+Gen 10: [[Yitzhak_Klauber_of_Posen]] (HaRav Yitzhak Klauber, 1475-1530, Worms/Poznan)
+Gen 11: Zecharia Mendel Klauber / Sarah Sirka Klauber → [[Zecharia_Mendel_Klauber]], [[Sarah_Sirka_Klauber]]
+```
+
+### Alter Rebbe paternal-grandmother line (Schor-Meisels)
+
+```
+Gen 3:  [[Rachel_Portugaler]] (Rachel Loew, pat.Gd.mother, 1693-1735)
+Gen 4:  [[Boruch_Portugaler_Batlan]] (Boruch Portugaler Batlan, c. 1670-, Poznan)
+Gen 5-15: Via Chaim Avraham → Naftoli Hirtz → Avraham Shor → Naftali hersh Schor → Moshe Zalman Ephraim Schor → Abraham Hayyim Schor → Shmuel Schor → Avraham Schor → Shmuel Schor → Abraham ben Joshua → Joshua ben Samuel → Samuel ben Hayyim (Dampierre, France) → ...
+```
+
+### Maharal's wife (Gen 8) back through Loew-Treves
+
+```
+Gen 9:  Michla Loew, Maharal daughter-in-law (c. 1560)
+Gen 10: Jekutiel Menachem Kaufman Auspitz (d. 1594, Prague) + Bila Auspitz (d. 1595)
+Gen 11: Moshe SeGal → see [[Moshe_SeGal]]
+```
+
+### Luria-Shrentzel-Treves branch (via Gen 9 Dina Luria)
+
+```
+Gen 10: Dreizel Miriam Zeisel Schrenzel, ReMA Gd.mother (c. 1465-1559, Alsace/Lviv)
+Gen 11: Yechiel Yehuda ben Aharon Luria, ABD Brisk (c. 1430-1470, Heilbronn/Brest)
+Gen 12: Rabbi Aharon ben Nethanel Luria, the 1st Luria, ABD Heilbronn (1413-1478)
+Gen 13: Rabbi Nethanel Ben Yehiel pre-Luria of Wurzburg (1385-1460, Mantua)
+Gen 14: Rabbi Yechiel Yehudah pre-Luria I of Erfurt (c. 1370-c. 1450)
+Gen 15: Rabbi Shimshon pre-Luria of Erfurt (1325-1417)
+        + Miriam pre-Luria (1350-1427, Landau)
+Gen 16-20: Shapiro/Spira/Treves line extending to [[RASHI]] (1040-1105) via Rabbeinu Tam, R"I haZaken, and the SirLeon rabbinic family in Paris
+```
+
+### Treves-Ashkenazi branch (Gens 13-20, traced to RASHI and Davidic descent claim)
+
+```
+Gen 13-14: Rabbi Eliezer Treves, ABD Frankfurt (1493-1566) → [[Eliezer_Treves_ABD_Frankfurt]]
+Gen 15: Naftali Hirsch Treves of Frankfurt (c. 1473-1540) → [[Naftali_Hirsch_Treves]]
+Gen 16: Rabbi Eliezer Treves [ABD Schlezstadt] (1395-1490)
+Gen 17: Rabbi Shmuel Treves of Alsace (d. after 1450)
+Gen 18: Rabbi Yosef Treves (1355-1435, Sicily)
+Gen 19: Matityahu Ashkenazi Treves III, Chief Rabbi of France (c. 1325-1387, Paris)
+Gen 20: Rabbi Yosef (V) Tzarfati Treves Ashkenazi "HaGadol" (1304-c. 1370, Marseilles)
+        + Yochanan Ashkenazi Treves "HaGadol" (c. 1265-c. 1314, Troyes/Worms)
+        Ancestry continues (beyond Gen 20) via Avraham ben Matityahu, Matityahu II, Yosef ben Moshe (Porat Yosef), Moshe Porat, Jechiel "The Posek", Matityahu HaGadol of Paris, Moshe the 1st Treves, Rashi's son-in-law Rabbeinu Tam, and back through Jewish royalty (Samuel ha-Nagid, Hai Gaon, Bustanai the Exilarch) to [[King_David]] and [[King_Solomon]] / [[King_Rehoboam]] / [[Zerubbabel]] (traditional rabbinic claim, Tier 3)
+```
+
+### Descendant spine (5 generations via Shneur Zalman's descendants)
+
+Only immediate direct-line descendants are listed here. The full 228-person descendant set is in the transcription file.
+
+```
+Gen 1: [[Shneur_Zalman_of_Liadi]] (1745-1812) + [[Sterna_Segal]]
+Gen 2 (children): [[Dovber_Shneuri]] (Mitteler Rebbe) + [[Sheyna_Boruchovich]]
+                  [[Dvorah_Leah_Schneerson]] (Rbzn. Deborah Leah Altschuler, 1st Rebbe 1st wife per Geni)
+                  [[Chaim_Avraham_Shneuri]] (MaHarKhA)
+                  [[Moshe_Leon_Shneuri]] (Moshe Shneuri)
+                  [[Frieda_Shneuri]] (Frieda Klutzkar)
+                  [[Rachel_Shneuri]] (Rachel Sheiness, 2nd wife)
+Gen 3 (Dovber's children):
+     [[Chaya_Mushka_Schneerson]] (3rd CHABAD Rbzn., wife of Tzemach Tzedek)
+     [[Menucha_Rachel_Shneuri]] (Menucha Rachel Slonim, Rebbe dau. #2)
+     [[Chaya_Sarah_Shneuri]] (Chaya Sarah Alexandrov)
+     [[Sarah_Shneuri]] (Sarah Derbarmdiker, 1st Sarah)
+     [[Ester_Miriam_Shneuri]] (Ester Miriam Cullen)
+     [[Bracha_Shneuri]]
+     [[Menachem_Nachum_Schneerson]] (1788-1868, Willebadessen)
+     [[Dvora_Leah_Twersky]] (1792-1876, Cherkas)
+     Musia Hinde Feigelsohn → [[Musia_Hinde_Feigelsohn]]
+     Beila Raizah Schneerson → [[Beila_Raizah_Schneerson]]
+     Gita Rachel Beirech Ginzburg → [[Gita_Rachel_Beirech_Ginzburg]]
+     Rivka Beila Wallis → [[Rivka_Beila_Schneerson]] (canonical vault file)
+     Boruch Leiba Schneerson (1803) → [[Boruch_Leiba_Schneerson]]
+     Dov Ber Schneerson of Liadi (1797) → [[Dov_Ber_Schneerson_of_Liadi]]
+     Boruch Shmuel Schneerson (1803) → [[Boruch_Shmuel_Schneerson]]
+Gen 4 (Tzemach Tzedek's children):
+     [[Baruch_Shalom_Schneerson]] (RABASH, 1805-1869)
+     [[Yehuda_Leib_Schneerson]] (1807/12-1866, Kopust)
+     [[Chaim_Shneur_Zalman_Schneerson]] (1814-1880, Liady)
+     [[Israel_Noah_Schneerson]] (HaRIN of Nizhyn, 1815-1883)
+     [[Yosef_Yitzchak_Schneerson]] (of Ovruch, 1822-1876; Note: distinct from the 6th Rebbe)
+     [[Shmuel_Schneerson]] (MaHaRash, 4th Rebbe, 1834-1882)
+     [[Yaakov_Schneerson]] (of Orsha, c. 1808-1876)
+Gen 5: Many grandchildren, the vast majority now have stub files; see the descendants transcription for the full list.
+```
+
+### Caveats and confidence
+
+- Per CLAUDE.md Guard rail 2, Geni's curated tree is a single source and is insufficient on its own for high-confidence claims. All new person files carry `confidence: low`.
+- Existing vault person files in this line (67 updated on 2026-04-19) saw their source list augmented with the Geni tree; confidence ratings were not changed because primary-source corroboration was already in place.
+- The Ashkenazi rabbinic descent from Rashi through the Treves family to biblical kings via Bustanai the Exilarch is a **traditional claim**. Modern Jewish genealogists (e.g. Neil Rosenstein, Jeffrey Mark Paull) have published critiques. Treat pre-14th-century ancestors as traditional attribution, not verified descent.
+- The claim of Shneur Zalman's Maharal descent (via Moshe Loew of Posen claiming descent from Yehuda Leib Bezalels the Maharal's grandson) is also contested. See the `Data Discrepancies` section of [[Shneur_Zalman_of_Liadi]].
