@@ -44,7 +44,7 @@ All data sourced from MyHeritage GEDCOM export (Tier 3). No independent verifica
 
 This vault file was populated from a MyHeritage GEDCOM with a birth of **6 APR 1734 Heidleberg, Lebanon, PA** and death 1795 Lancaster, PA. That profile does NOT match the **1726 emigrant widow Anna Catherina Brecht** who departed Schriesheim with sons Stefan and Johann Michael.
 
-The 1726 emigrant widow is identified (WikiTree Brecht-58, Familypedia, Geni, 2026-04-19 research) as:
+The 1726 emigrant widow is identified (WikiTree Brecht-58, Familypedia, Geni, werelate Stephan_Brecht_(1), A.G. Green, "Historical Sketch of the Bright Family", Reading 1900, and Schriesheim Ortsfamilienbuch via "Ancestors in Baden"; round 5 retry 2026-04-19 research) as:
 
 - **Anna Katarina Hoffman**, b. 14 Oct 1664, daughter of Hans Jost Hoffman and Christina Frank
 - m. 29 Jul 1684 Schriesheim to Johannes Michael Brecht (1662-1719)
