@@ -42,13 +42,13 @@ Lena and Nathan Fain had a large family. MyHeritage records indicate Irving I. F
 - **Alfred Fain** (d. 2005, age ~93, so b. ~1912): Co-owner of **Fain's Department Store** with his twin brother for 53 years (retired 1982). Married **Sylvia (Kniznik) Fain**. Son: Larry G. Fain + Susan; grandson Marc Fain + Chris; 3 great-grandchildren (Brandon, Shannon, Cameron). Member Temple Emanu El, honorary board member Jewish Family Service, charter member and past president North End Businessmen's Association. Buried **Lincoln Park Cemetery**. His obituary (Legacy.com, 2005) names his parents as "Nathan and Lena (Salk) Fain."
 - **Alfred's twin brother** (name not yet identified): Co-owner of Fain's Department Store. Predeceased Alfred.
 - **Rebecca (Fain) Sandler** (per MyHeritage, Tier 3; unconfirmed)
-- **Leila (Fain) Rosen** (per MyHeritage, Tier 3; unconfirmed)
-- **Bertha (Fain) Feingold** (per MyHeritage, Tier 3; unconfirmed)
+- **Leila (Fain) Rosen** (per MyHeritage index for Irving I. Fain b. 1899, Tier 3; moderate signal: surname pattern Rosen aligns with sibling set Rosofsky/Paster/Sandler/Feingold)
+- **Bertha (Fain) Feingold** (per MyHeritage index for Irving I. Fain b. 1899, Tier 3; moderate signal: same rationale)
 - **Jeanette (Fain) Rosofsky** (deceased per Alfred's 2005 obituary)
 - **Leonard Fain** (deceased per Alfred's 2005 obituary)
 - **Dora (Fain) Paster** (deceased per Alfred's 2005 obituary)
 
-**Note on two family businesses**: The Fain family ran TWO distinct businesses: (1) "Fain's Department Store" (Alfred + twin, North End, 53 years) and (2) "Fain's Floorcovering" (Irving I. + partner, North Main Street, 1927-1994). These may represent two branches of the same family enterprise or two independent businesses by siblings. The question of whether Irving (b. 1899) was Alfred's (b. ~1912) twin is chronologically implausible; they are likely different siblings.
+**Note on two family businesses**: The Fain family ran TWO distinct businesses: (1) "Fain's Department Store" (Alfred + twin, North End, 53 years from ~1929 to 1982) and (2) "Fain's Floorcovering" (Irving I. + an "uncle", North Main Street, 1927-1994; see Fain_Providence_Research_2026_04_19.md). Retailer histories refer to the floorcovering founder as "Irving Fain and his uncle", which has caused conflation in secondary sources with Irving J. Fain (b. 1906, Teknor Apex line), but the operational continuity through Barnet "Bunny" Fain (Irving I.'s son) identifies Irving I. as the true founder. The "uncle" was likely a brother of Nathan Fain (not yet identified). The chronological impossibility of Irving I. (b. 1899) being Alfred's (b. ~1912) twin is resolved by recognizing they are different siblings: Alfred's twin is a separate, as-yet-unnamed brother who predeceased Alfred.
 
 **Important distinction**: The Nathan and Lena (Salk) Fain family is a **separate** Providence Jewish family from the Alfred A. Fain Sr. and Elizabeth (Stoneman) Fain family, whose son **Irving J. Fain** (b. Aug 11, 1906, d. Aug 22, 1970) was a captain of Harvard's debate team (1927), founded Teknor Apex Company (vinyl garden hose), championed fair housing legislation, and was inducted into the Rhode Island Heritage Hall of Fame (1985). Irving J. Fain (Teknor Apex) was son of Alfred A. and Elizabeth (Stoneman) Fain, NOT of Nathan and Lena (Salk) Fain.
 
