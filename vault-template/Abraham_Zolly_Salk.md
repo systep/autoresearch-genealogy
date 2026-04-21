@@ -17,8 +17,8 @@ sources:
   - "Elizabeth Salmanson headstone, Lincoln Park Cemetery, BillionGraves (Tier 1)"
   - "1930 US Census (Elizabeth household, Tier 1)"
 created: 2026-04-10
-updated: 2026-04-18
-tags: [genealogy, salk, person, russia, rhode-island, providence, immigrant, lithuania, zalk]
+updated: 2026-04-21
+tags: [genealogy, salk, person, russia, rhode-island, providence, immigrant, lithuania, zalk, kovno]
 ---
 
 # Abraham (Charles) Zolly Salk
@@ -89,6 +89,19 @@ Potential databases for human follow-up:
 4. **FamilySearch collection 1368704**: New York Passenger Arrival Lists (Ellis Island), 1892-1925. Free with login.
 5. **1910 and 1920 Census records**: Would list Abraham as head of household with year of immigration and naturalization status. The 1920 Census has been located (see below); the 1910 Census has NOT been found (see 1910 Census Search below).
 6. **Rhode Island death certificate** (1925): RI State Archives holds death records from 1853 to 1975; records 50+ years old are public. Would list birthplace, parents' names, and informant.
+
+### Kovno Gubernia Origin Hypothesis (2026-04-21)
+
+A geographic-origin analysis was conducted via targeted WebSearches on Providence Jewish neighborhood mapping. Key findings (Tier 2):
+
+- Abraham's residence at **60 Chalkstone Avenue** placed him on the street where **Congregation Beth David-Anshei Kovno** worshipped. The Anshei Kovno portion of the congregation was founded c. 1900 by immigrants from **Kovno, Lithuania** (Rhode Tour, Tier 2).
+- Chalkstone Avenue (numbers 38 to 313) had **46 peddlers and 7 junk businesses** clustered during the relevant period (Rhode Island Jewish Historical Notes, Tier 2). Abraham's occupation of "Peddler (Junk)" on his 1925 death cert fits this economic profile exactly.
+- **Providence's Lithuanian / Polish / Byelorussian Jews settled in the North End / Smith Hill**, while Galician / Romanian / Ukrainian Jews settled in South Providence (Geraldine Foster, Jews in Rhode Island 1985, Tier 2). Abraham's Chalkstone address is in the Lithuanian cluster.
+- Congregation Sons of Jacob (1896, Russian Orthodox) also worshipped at Shawmut Street and Chalkstone Avenue, the "area of particularly dense Jewish concentration."
+
+Combined with the Zalk/Salk surname's Lithuanian etymology (from Zalkind/Solomon), this evidence supports a **Kovno Gubernia, Lithuania** origin. The specific shtetl is not yet identified. The Troskunai Zalk branch (Ukmerge Uyezd) is ruled out because it emigrated to Duluth, MN in 1905, not Providence, but a collateral Kovno-Gubernia Zalk family remains plausible.
+
+Confidence: **Moderate Signal** (multiple Tier 2 sources converging on Kovno, one Tier 1 source confirming "Russia"). See [[Salk_Immigration_Manifests_Research_2026_04_19]] for full hypothesis and decisive-record plan (Steve Morse One-Step, JewishGen EIDB, NARA Waltham naturalization, RI Jewish Historical Association).
 
 ### 1910 Census Search (2026-04-18)
 
