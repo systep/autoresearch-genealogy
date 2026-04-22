@@ -25,8 +25,12 @@ tags: [genealogy, king, cooley, person, south-carolina, greenville, oaklawn]
 |---|---|---|
 | Full Name | **Charstee Ann Cooley King** (middle name **Ann** confirmed) | MyHeritage multiple trees consensus (2026-04-22 sweep6v2); Find a Grave "Charstee A. Cooley King" |
 | Maiden Name | **Cooley** (Strong Signal) | 3 independent FamilySearch-indexed sources + MyHeritage tree consensus. FS: Find a Grave Index, SC Deaths 1915-1973, 1900 Census co-resident Oryley H Cooley. MH: multiple user trees converge on Cooley. |
-| **Father** | **John Joseph Cooley** | **MyHeritage multiple tree consensus (Tier 2-3, located 2026-04-22)**: Divine Web Site, Anderson Web Site, Ritters-King-Fenslage-Kruse Family |
-| **Mother** | **Emily Susan Cooley** (maiden name: Black or Chapman; one tree lists "Emily Susan Black born Chapman" suggesting Emily's father was Black and Emily's mother was Chapman) | MyHeritage trees (Tier 2-3, located 2026-04-22) |
+| **Father** | **John Joseph Cooley** (b. **Aug 19 1819** Greenville SC; d. **Dec 13 1896** Greenville SC) | MyHeritage multi-tree consensus 2026-04-22: Taylor Web Site, Moody Web Site, Cristin's Family Tree, Slade, Davis Web Site (all independent user trees converge) |
+| **Mother** | **Emily Susan Chapman** (b. **May 11 1823** Greenville SC; d. **May 23 1857** Greenville SC -- Charstee was 15 when mother died) | MyHeritage consensus: Turner, Moody, Marsengill, Lloyd trees 2026-04-22 |
+| **Paternal Grandfather** | **Hiram Cooley** (1796-1864) of Greenville SC -- John Joseph was his son via Mary Ann Woodson (Hiram's 2nd wife). Hiram's 1st wife was Susan Cothran. | MH tree consensus 2026-04-22 (4 independent trees all name Hiram + Mary Ann Woodson as John Joseph's parents) |
+| **Paternal Grandmother** | **Mary Ann (Woodson) Cooley** | MH tree consensus 2026-04-22 |
+| **Maternal Grandfather** | **Thomas Chapman** | MH Marsengill Web Site 2026-04-22 |
+| **Maternal Grandmother** | **Stacy Ann Chapman** (maiden name unknown -- MH entry cut off at "Li..." possibly Lindsey or Lindley) | MH Marsengill Web Site 2026-04-22 |
 | Born | June 30, 1842 | Headstone at Fork Shoals Baptist Church Cemetery |
 | Birthplace | South Carolina | 1880 Census (Tier 1) |
 | Died | March 15, 1921 | Headstone at Fork Shoals Baptist Church Cemetery |

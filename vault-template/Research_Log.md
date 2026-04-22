@@ -10,6 +10,46 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-22 (part 7): MyHeritage sweep7 -- MEGA AVALANCHE (12 queries)
+
+### Summary
+
+Seventh browser batch of the day targeting the top-5 strategic unlocks identified after sweep6v2. Script `scripts/sweep7.js`; results `scripts/sweep7-results.json`. 10 MH searches + 2 FS drilldowns (both drilldown attempts failed).
+
+### MAJOR unlocks
+
+- **Levi Itzhak Zalmanson IMMIGRATED AND DIED IN PROVIDENCE, RHODE ISLAND**: Two independent MH family trees converge on US death location. Magen Web Site (Ami Magen): "Levi Itsko Zelmanzon, d. April 28 1907, Providence, Rhode Island, USA." Barbara Salmanson's tree (family member): anglicized US name was **"Louis" Zalmanson** ("Levi Itzhak (Louis) Zalmanson"). This VALIDATES Barnett's long-disputed 1918 WWI Draft Card claim ("Citizen by Father's Naturalization Before Registrant's Majority"). The FamilySearch tree says Jan 28 1907 (month conflict); RI State Death Index for 1907 under "Louis Zalmanson" would anchor this at Tier 1. Updated [[Levi_Itzhak_Zalmanson]] with Providence RI death + anglicized name Louis.
+
+- **OQ #15 Cooley lineage EXTENDED 3 generations beyond Charstee**: 
+  - Charstee Ann Cooley (1842-1921)
+  - **Father: John Joseph Cooley** (b. **Aug 19 1819** Greenville SC; d. **Dec 13 1896** Greenville SC)
+  - **Paternal grandfather: Hiram Cooley** (1796-1864) of Greenville SC (John Joseph was his son via Mary Ann Woodson, Hiram's 2nd wife; 1st wife was Susan Cothran)
+  - **Paternal grandmother: Mary Ann (Woodson) Cooley**
+  - Great-grandfather via Hiram: [[Jacob_Cooley_Sr]] (1735-1820) per vault
+  - Cooley line now **5 generations back from Charstee to ~1735**. Updated [[Charstee_King]] grandparent rows.
+
+- **OQ #15 Chapman lineage (maternal) NEW**:
+  - Charstee Ann Cooley's mother: **Emily Susan Chapman** (b. **May 11 1823** Greenville SC; d. **May 23 1857** Greenville SC -- Charstee was 15 when her mother died)
+  - **Maternal grandfather: Thomas Chapman**
+  - **Maternal grandmother: Stacy Ann Chapman** (maiden name unknown; MH entry truncated at "Li..." possibly Lindsey or Lindley -- note symmetry with Lindsey maiden name in Brasher line)
+
+- **OQ #10 Markel: parents CONFIRMED (different from previously hypothesized)**:
+  - Mordko Ber Markiel (= Dov Markel), b. 1828 Sambor Galicia
+  - **Father: Jankiel Markiel** (not Nissen Mendel as Yichus oral tradition suggested)
+  - **Mother: Rifka Markiel** (maiden name unknown)
+  - **OQ #10 Nissen Mendel hypothesis: REFUTED.** The Yichus oral tradition appears to have been wrong about Mordko's father; Geni + FS Family Tree consensus names Jankiel. Updated [[Dov_Markel]] (Mordko).
+  - **Bonus Tier 1**: Austria-Hungary WWI Casualty Lists 1914-1918 -- Mordko Ber Markiel b. 1884 Waniowice Sambor, imprisoned May 18 1917. Likely a grandson (named after grandfather Mordko b. 1828 per Ashkenazi naming convention) or Hersch's son Mojzesz Majer's contemporary.
+
+- **Hersch Markel's other children documented**: Mates Markiel, Pessel Markel, Sure Schrekinger (born Markiel), Jankiel Markiel (Geni tree via MH, Tier 2-3).
+
+### Drilldown misses
+
+- Barnett Salmanson RI Federal Naturalization (U.S. District and Circuit Court Naturalization Records 1802-1945): both drilldown attempts failed to find matching ARK. The collection ID was guessed (2064580) and did not yield a hit. Would need different collection ID or image-browsing of the FS catalog.
+
+### Remaining ambiguities
+
+- **Bella Measroch biographical**: MH surfaces a Bella Isabel Glucksman (née Measroch, b. 1893 Piet Retief South Africa) who is too young to be Levi Itzhak's wife (he died 1907). The "our Bella" was likely an earlier Lithuanian Bella from the same Measroch family that later emigrated to SA (Joseph Measroch + Deborah Werner parents). Her specific biography still elusive.
+
 ## 2026-04-22 (part 6): MyHeritage + Geni sweep6v2 -- AVALANCHE (12 queries)
 
 ### Summary

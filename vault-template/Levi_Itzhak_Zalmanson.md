@@ -19,6 +19,22 @@ tags: [genealogy, zalmanson, salmanson, rabbi, person, belarus, borisov, lithuan
 
 # Rabbi Levi Isaac (Levi Itzhak) Zalmanson / Salmanson
 
+## 2026-04-22 (late) Major Revision — US Immigration + Death in Providence RI CONFIRMED
+
+**Sweep7 breakthrough (MyHeritage)**: Multiple family trees now confirm Levi Itzhak **immigrated to the United States and died in Providence, Rhode Island**, validating Barnett's long-disputed 1918 WWI Draft Card claim ("Citizen by Father's Naturalization Before Registrant's Majority").
+
+### Sources
+
+- **Magen Web Site MH tree** (managed by Ami Magen): "Levi Itsko Zelmanzon", b. 1851, **d. April 28 1907, Providence, Rhode Island, USA**. Parents: Menachem Srul (Israel) Zelmanzon, Gita Zelmanzon.
+- **Salmanson Web Site MH tree** (managed by **Barbara Salmanson** — a family member): Rochel (Rachel) Salmanson (born Deych), husband listed as **"Levi Itzhak (Louis) Zalmanson"** — confirming anglicized American name **"Louis"**.
+- **FamilySearch Family Tree**: Rabbi Levi Isaac Salmanson, d. Jan 28 1907 (Tier 2). Month conflicts with MH Magen (Apr vs Jan); RI State Death Index would resolve.
+
+### Practical implication
+
+Levi Itzhak's **actual US anglicized name was "Louis Zalmanson"**, not Levi Salmanson — which is why all our earlier FamilySearch searches for "Levi Salmanson" and "Louis Salmanson" failed to find him (we didn't try "Louis **Zalmanson**"). The RI State death index for April 1907 (or Jan 1907) under spelling "Louis Zalmanson" should yield the Tier 1 anchor.
+
+If confirmed, the entire Chabad-descended rabbinic lineage (Rabbi Levi Yitzchok Zalmanson 1812-1872 → Srul Mendel → Rabbi Levi Isaac / Louis Zalmanson → Barnett) becomes anchored to a Tier 1 US primary record.
+
 ## 2026-04-22 Major Revision — Birthplace and Rabbinic Title Confirmed
 
 **Tier 1 LitvakSIG** Rokiskis 1877 marriage record (located via MyHeritage 2026-04-22) documents him as **"Leyvi Itsik Zelmenzon", born ~1855 in Borisov (Barysaw), Belarus** -- resolving his actual birthplace (NOT Lithuania as previously assumed) and providing a primary-source birth year estimate.

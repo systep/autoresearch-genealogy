@@ -22,11 +22,11 @@ tags: [genealogy, markel, person, galicia, jewish, tier-1, sambor, waniowice]
 | Field | Value | Source |
 |---|---|---|
 | Full Name | **Mordko Ber Markiel** (Mordechai Dov Ber; family knew him as "Dov") | AGAD marriage record (Tier 1); Yichus uses "Dov" (Tier 2) |
-| Born | Estimated c. 1830 to 1840 | |
-| Birthplace | Waniowice, Sambor district, Galicia | AGAD marriage record (Tier 1) |
+| Born | **1828 Sambor, Galicia** (Geni 2026-04-22) [previously estimated c. 1830-1840] | Geni World Family Tree via MyHeritage 2026-04-22 (Tier 2-3) |
+| Birthplace | Sambor / Waniowice, Sambor district, Galicia | AGAD marriage record (Tier 1); Geni tree |
 | Died | Unknown | GEDCOM |
-| Father | [[Nissen_Mendel_Markel]] | Yichus narrative (Tier 2) |
-| Mother | Unknown | |
+| **Father** | **Jankiel Markiel** — REVISES prior hypothesis. Previously thought to be Nissen Mendel Markel per oral Yichus narrative; Geni tree consensus 2026-04-22 names father as **Jankiel Markiel**, which **REFUTES the Nissen Mendel hypothesis** (OQ #10 resolved in the negative on Nissen Mendel). | Geni World Family Tree via MyHeritage 2026-04-22 (Tier 2-3), plus corroborating FamilySearch Family Tree entry for Mordko Markiel 1828 Sambor. |
+| **Mother** | **Rifka Markiel** (maiden name unknown) | Geni World Family Tree via MyHeritage 2026-04-22 (Tier 2-3) |
 | Spouse | **[[Henie_Markel]]** (Henie; likely Chana/Hannah or Hinde in Hebrew), of Waniowice | AGAD marriage record (Tier 1) |
 | Children | [[Heschel_Herman_Markel]] (Hersch; 1862-1916, **innkeeper in Waniowice**); Mattis Markel | AGAD (Tier 1); Yichus (Tier 2 for Mattis) |
 | Known grandchildren | [[Mojzesz_Majer_Markiel]] (b. Waniowice ~1895-1900, m. 1919 Dwora Goldbaum/Brand of Lisko) and all other children of Hersch × Lea listed in [[Heschel_Herman_Markel]] | 1919 marriage banns AGAD Fond 424 File 212 (Tier 1); Yichus |

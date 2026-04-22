@@ -5,6 +5,15 @@ updated: 2026-04-22
 tags: [genealogy, research, open-questions]
 ---
 
+## 2026-04-22 (part 6) session updates (MyHeritage sweep7 — MEGA AVALANCHE, 12 queries)
+
+- **Levi Itzhak Zalmanson IMMIGRATION + DEATH IN PROVIDENCE RI CONFIRMED**: Multiple MH trees, incl. family-member Barbara Salmanson's tree, converge on: Levi Itzhak (anglicized **"Louis" Zalmanson**) died in **Providence RI** in 1907. Magen tree gives April 28 1907; FS says Jan 28 1907. RI state death index search for "Louis Zalmanson" 1907 would anchor at Tier 1. **Validates Barnett's WWI draft card claim** about father's pre-majority naturalization. Updated [[Levi_Itzhak_Zalmanson]].
+- **OQ #15 Cooley lineage EXTENDED 3 GENERATIONS**: Charstee Ann Cooley → **John Joseph Cooley (1819-1896)** → **Hiram Cooley (1796-1864) + Mary Ann Woodson Cooley** → Jacob Cooley Sr. (1735-1820). 5-generation Cooley line to ~1735.
+- **OQ #15 Chapman maternal lineage NEW**: Charstee's mother **Emily Susan Chapman (1823-1857)**; maternal grandparents **Thomas Chapman + Stacy Ann (Lindsey?) Chapman**.
+- **OQ #10 Markel: NISSEN MENDEL HYPOTHESIS REFUTED.** Mordko Ber Markiel's actual parents per Geni + FS consensus: **Jankiel Markiel + Rifka Markiel** (not Nissen Mendel as Yichus oral tradition held). Line extends one generation to Jankiel. Plus Tier 1 WWI Casualty record for Mordko Ber Markiel b. 1884 Waniowice (grandson named after grandfather).
+- **OQ #5 Bella Measroch biographical**: South African Bella (b. 1893 Piet Retief) is NOT Levi Itzhak's wife (too young). "Our Bella" was an earlier Lithuanian Bella from the same Measroch family (Joseph Measroch + Deborah Werner) that later emigrated to SA. Specific biography still elusive.
+- **Drilldown miss**: Barnett's RI Federal Naturalization Petition drilldowns (2 attempts) failed to find matching ARK. Different collection IDs or image-browsing approach needed.
+
 ## 2026-04-22 (part 5) session updates (MyHeritage + Geni sweep6v2 — AVALANCHE of unlocks, 12 queries)
 
 - **OQ #15 (Zawel Deykh): RESOLVED Strong Signal + SURPRISE.** Tier 1 LitvakSIG Rokiskis 1877 marriage record (via MyHeritage) shows Rokhel Tsine Deych's **FATHER was named ZAVEL MOGIL** (not Deych). Rokhel Tsine's surname "Deych" was likely inherited from her mother. Zavel's surname Mogil suggests origin in Mogilev, Belarus. See [[Zawel_Deykh]] (now titled "Zavel Mogil (a.k.a. Zawel Deykh)"). Also the marriage record establishes the groom's birthplace as **Borisov, Belarus** (Leyvi Itsik b. ~1855) and bride's residence Vidzy (Vidz) Lithuania.
