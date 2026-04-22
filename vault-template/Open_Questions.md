@@ -1,9 +1,17 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-22
+updated: 2026-04-22 (part 8)
 tags: [genealogy, research, open-questions]
 ---
+
+## 2026-04-22 (part 8) session updates — LVIA Rokiskis Meshchan 1908 FAMILY LIST (TIER 1 FILE, 29 images)
+
+- **TIER 1 LVIA FOND I-210, OP. 2, D. 439 — Rokiskis Meshchan Admin 1908 Posemeynyy Spisok for Zalmanzon Leyvik Sroelev, entry №191, cross-ref 1887 №556.** Age 58 in 1908 → b. ~1850, consistent with and refining the 1858 Borisov revision "Leyvik b. ~1851". Images stored at `Assets/LVIA_Zalmanzon_1908_Family_List/`. See [[Levi_Itzhak_Zalmanson]] for full decode.
+- **NEW ANCHOR — Rokiskis 1887 Meshchan Family List №556** is referenced as cross-ref. Separate LVIA file. Would document Leyvik + wife Rokhel Tsine Deych at the time of their 1877 marriage. **Next target for archival request.**
+- **NEW OQ #18 (OPEN): Did Louis travel via South Africa before Providence RI?** Novoalexandrovsk City Police Supervisor's 8 Apr 1909 reply to Rokiskis: "Залманзонъ въ гор. Новоалександровскѣ не проживаетъ и, по слухамъ, болѣе десяти лѣтъ какъ выбылъ въ АФРИКУ." ("does not reside in Novoalexandrovsk and, according to rumors, more than ten years ago left for Africa"). Combined with wife Bella Measroch (rare surname, SA concentration) → circumstantial SA transit hypothesis. Research: SA Jewish immigration records 1890-1905, Durban/Cape Town Jewish burial societies, Gitelman & Kaplan "The Jews in South Africa" index.
+- **NEW CORROBORATION of child Srol/Israel Zalmanzon.** A 3 Mar 1909 Rokiskis Meshchan Admin letter №950 to Novoalexandrovsk Police requested verification of a family list for "Ракишкаго мещанина **Срол Лейвикова Залманцона** прожив. въ г. Новоалександровскѣ" — **Srol son of Leyvik Zalmanzon, townsman of Rokiskis, residing in Novoalexandrovsk**. This is our Louis's son Srol/Izrael Zalmanzon (FamilySearch Family Tree listed child), named after his grandfather per Ashkenazic convention. He too had emigrated ("Africa") before 1899.
+- **Minsk 2nd District (Belarus) connection.** Separate letter (Rokiskis №486 → Minsk Pristav) also searched for Leyvik in Minsk 2nd District. Minsk police canvassed residents (Fishka Berkin, Kiva Kantorovich, Mordukh Gudiskii questioned); none knew the family. Minsk Address Office card: "**Выбылъ**" (left). Minsk Pristav letter №5292 (11 Apr 1909) returns file to Rokiskis unable to locate. **Suggests Louis/family had passed through Minsk at some point before emigration** — consistent with Chabad-community transit from Rokiskis to Minsk to overseas.
 
 ## 2026-04-22 (part 7) session updates (PARALLEL sweep8 + 4 agents — BIG strategic unlocks)
 

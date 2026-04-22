@@ -10,6 +10,60 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-22 (part 11): LVIA ROKISKIS MESHCHAN ADMIN 1908 FAMILY LIST — Tier 1 file for Louis Zalmanson
+
+### Summary
+
+User supplied 29 scanned images of LVIA archival material, placed at `Assets/LVIA_Zalmanzon_1908_Family_List/`. The core find: an 8-leaf administrative case file (LVIA Fond I-210, Opis 2, Delo 439) from the Rokiskis (Ракишки / Rakishok) Meshchan Administration covering the 1908 Family List entry for **Zalmanzon Leyvik son of Sroel** (our Louis / Levi Itzhak), cross-referenced to the 1887 Family List №556.
+
+### File composition (18 images, CSZV-8F prefix)
+
+| Filename | Page role | Decoded content |
+|---|---|---|
+| 3Q9M-CSZV-8F6F.jpg | LVIA sign-off sheet | "8 sheets", signed R. Kolentienė 2010-03-10 |
+| 3Q9M-CSZV-8F6P.jpg | Cover page | "Посемейнаго списка 1908 года №191 / 1887г. №556 / На семейство мещанина Залманзонъ Лейвика Сроелъ" + shelfmark Фонд I-210 / Опись 2 / Дело 439 |
+| 3Q9M-CSZV-8FD8.jpg | Cover variant | Same cover (handwritten) |
+| 3Q9M-CSZV-8FD5.jpg | Rokiskis letter (Apr 1909) | M.V.D. letterhead "Ракишская Мѣщанская Управа, Новоалександровскаго уѣзда, Ковенской губернiи", letter №486, to Minsk 2nd District Pristav requesting family-list verification for "Рокишскаго мещанина Лейбика Сроелева Залманзона, прожив. въ г. Минскѣ 2 части" |
+| 3Q9M-CSZV-8FZB.jpg | Rokiskis letter (3 Mar 1909) | Same letterhead, letter №950, to Novoalexandrovsk Uezd Police requesting verification for "Ракишкаго мещанина **Срол Лейвикова Залманцона** прожив. въ г. Новоалександровскѣ" — LOUIS'S SON Srol |
+| 3Q9M-CSZV-8FZ2.jpg | Novoalexandrovsk reply (8 Apr 1909) | Police Supervisor of Novoalexandrovsk: "Залманзонъ въ гор. Новоалександровскѣ не проживаетъ и, по слухамъ, болѣе десяти лѣтъ какъ выбылъ въ **АФРИКУ**" ("emigrated to Africa more than 10 years ago") |
+| 3Q9M-CSZV-8FXX.jpg | Minsk Address Office card | "Минскiй Адресный Столъ" — "Залманзонъ Лейвикъ Сроель" status "Выбылъ" (left). Signed Supervisor Paniovsky, 2nd District Minsk |
+| 3Q9M-CSZV-8FF3.jpg | Minsk police protocol | Canvas report: "семейство это ему не извѣстно, гдѣ онъ проживаетъ никто не далъ свѣдѣнiй". Witnesses: Fishka (Рывка?) Berkin, Kiva Kantorovich, Mordukh Gudiskii |
+| 3Q9M-CSZV-8FZJ.jpg | Minsk Pristav return letter (11 Apr 1909) | "За не розысканiемъ Залманзона настоящую переписку возвращаю въ Ракишкую Мѣщанскую Управу Новоалександровского уѣзда Ковенской губернiи" — letter №5292. Case file closed as unresolvable |
+| 3Q9M-CSZV-8FDJ.jpg | Family List table | Entry: №147 / ревизская сказка 556 / "Залманзонъ Лейвикъ Сроель" / age 58 (1908) — so b. ~1850 |
+| 3Q9M-CSZV-8FFZ.jpg | Family List table (separate entry) | Same book structure, another entry age ~21 (1908) — could be son Srol's family entry |
+| 3Q9M-CSZV-8FDS, 8F6V, 8F8K, 8F8T, 8FXL, 8FX1, 8F6S | Blank form pages and signature pages | Meshchan Elder and Admin Member signatures |
+
+### Ancillary 11 images (CSCX-B9 prefix)
+
+Context pages from the same Rokiskis Meshchan registry book — other townsmen's entries for surnames **Шчокинъ (Shchokin), Gubersky, Лейхесъ (Leytes), Зак (Zak), Кеттиа (Kettia), Реве (Reve), Волкинъ (Volkin)**. None are known Zalmanzon in-laws. Could be cross-referenced for future witness-network research but not directly load-bearing for our chain.
+
+### Interpretation
+
+1. **Tier 1 confirmation of Louis's birth year ~1850.** Age 58 in 1908 revision = born ~1850. Matches 1858 Borisov revision "Leyvik age 7 in 1858" (b. ~1851). Consistent within the normal ±1-year drift of revision-list ages.
+
+2. **Official Russian record continued in absentia.** Rokiskis Meshchan rolls kept Leyvik registered as a townsman of Rokiskis through 1908 even though he had emigrated before 1899. This is standard Russian Empire practice — Meshchan rolls tracked tax/draft obligations regardless of actual residence.
+
+3. **"More than 10 years ago left for Africa".** Police hearsay from Novoalexandrovsk neighbors. Two scenarios:
+   - **Confusion**: "Амерiка" and "Африка" were frequently conflated by Yiddish-speaking Russian Empire Jews. Neighbors heard "went overseas" and guessed.
+   - **Actual SA transit**: Louis may have gone to South Africa first (consistent with wife Bella Measroch's rare SA-concentrated surname).
+
+4. **Son Srol Leyvikov Zalmanzon was separately tracked in Novoalexandrovsk** — confirms FamilySearch Family Tree's listed child "Srol/Izrael Zalmanzon" as a historical person, not a tree fabrication. Named per Ashkenazic convention after deceased grandfather Sroel.
+
+5. **Minsk 2nd District cross-reference.** The Rokiskis Meshchan Admin sent a parallel letter to Minsk 2nd District Pristav. Witnesses questioned by Minsk police (Fishka Berkin, Kiva Kantorovich, Mordukh Gudiskii) are Jewish names. Suggests family was briefly tracked to Minsk before emigration — **consistent with Rokiskis → Minsk → overseas transit**, a common Chabad-community migration pattern.
+
+### Next research targets (from this file)
+
+1. **LVIA Fond I-210, Rokiskis Meshchan 1887 Family List entry №556** — separate file. Would name Leyvik + Rokhel Tsine at the time of their 1877 marriage. Request via LVIA English-language research service.
+2. **Novoalexandrovsk Uezd Police files 1899** — any emigration passport issued to Leyvik or Srol Zalmanzon.
+3. **South African Jewish immigration records 1890-1905** — test hypothesis that Leyvik went to SA before reaching Providence.
+4. **Rokiskis Yizkor book (1952)** — check for Zalmanzon family mentions.
+
+### Vault updates
+
+- [[Levi_Itzhak_Zalmanson]]: new §"TIER 1 LVIA ARCHIVE FILE — Rokiskis Meshchan 1908 Family List + 1909 Police Search" added at top
+- [[Open_Questions]]: new section "2026-04-22 (part 8) session updates", new OQ #18 "Did Louis travel via South Africa?"
+- [[Research_Log]]: this entry
+
 ## 2026-04-22 (part 10): Chabad hypothesis rehabilitation — 4-agent parallel test
 
 ### Summary
