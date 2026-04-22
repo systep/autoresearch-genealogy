@@ -5,6 +5,15 @@ updated: 2026-04-22
 tags: [genealogy, research, open-questions]
 ---
 
+## 2026-04-22 (part 3) session updates (FamilySearch detail drilldowns + Judson's sons, 8 queries)
+
+- **[[Landreth_King]] = Landreth Foster King (1880-1964) CONFIRMED**, ARK M5DH-G51, FS tree KFF2-KFT. Full person file upgraded to confidence: high.
+- **Halbert / Holbert Oscar Cooley (1880-1912) CONFIRMED**, ARK M6S6-K4B, FS tree LRFY-2G9. Parents James (22, b. ~1858 SC) + Margaret Cooley (20, b. ~1860 SC) in Dunklin Greenville SC 1880.
+- **OQ #15 HYPOTHESIS REVISED**: Halbert/Holbert is NOT the same person as "Oryley H Cooley" (age 24 in Judson King's 1900 household). Halbert was born Jan 1880 so would be age 20 not 24 in 1900 -- 4-year gap too large. The James + Margaret Cooley cluster in Dunklin is still a real Cooley family near Charstee's Oaklawn but the specific link to Charstee is not yet established. Oryley H Cooley (b. ~1876) remains unidentified.
+- **OQ #17 H.H. King: ALL KNOWN JUDSON SONS RULED OUT.** 1910 Census located each son as an independent head of household: Andrew Lewis, James E. (Dunklin), William C. (Dunklin), John W., Landreth Foster. **None have initials H.H.** The 1921 death cert informant is therefore a grandson, daughter's husband, or Fork Shoals Baptist Church community member, not one of the named sons. Next step: search for sons/sons-in-law of each listed son above (grandsons of Judson reaching adulthood by 1921).
+- **"Barnett Solomon" Brooklyn Ward 21 1910 Census (ARK M5QN-DFB) = STRONG CANDIDATE** for Barnett Salmanson's 1910 Census. Age 26, b. 1884 Russia, married, wife Lizzie (22, Russia), no children. Pattern matches Barnett + Elizabeth Salk pre-Leonard (Jun 21 1910 birth). Needs image verification; status logged in [[Barnett_Salmanson]].
+- **OQ #1 Albert G Bright 1940 Virginia-filter: still wrong person on top (b. 1924 VA)**. Need tighter birth-year filter (~1893-1895).
+
 ## 2026-04-22 (part 2) session updates (FamilySearch browser-emulation next-10 follow-up, 11 queries)
 
 - **Landreth King 1910 Census: NEW FAMILY BRANCH UNLOCKED.** Judson and Charstee's son [[Landreth_King]] (b. 1880 SC, previously found in 1900 household as age 19) is confirmed in 1910 Oaklawn Greenville SC with wife **Polly E King** and children **Marvin E King, Roy L King**. Correct spelling is **Landreth** (not Landrath). This is a complete new sub-branch of the King family.

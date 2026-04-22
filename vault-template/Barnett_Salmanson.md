@@ -119,16 +119,23 @@ A systematic search of free web resources (Steve Morse One Step, JewishGen EIDB,
 
 ### 1910 Census (candidate: possibly mis-indexed as "Barnett Solomon")
 
-**2026-04-22 browser sweep finding**: Top hit on FamilySearch search "Barnett Salmanson 1910": **Barnett Solomon, 1910 Census, Brooklyn, Kings, New York, Birth 1884 Russia, Spouses Lizzie Solomon**.
+**2026-04-22 browser sweep finding + detail drilldown**: Top hit on FamilySearch search "Barnett Salmanson 1910": **Barnett Solomon** (FamilySearch ARK `M5QN-DFB`), 1910 Census, Brooklyn Ward 21, Kings, NY, Sheet 9-B. Digital Folder 004972948, Microfilm 1374981, Image 926, T624.
 
-Pattern match for Barnett Salmanson:
-- **Brooklyn location** matches son Samuel b. Brooklyn June 1912 (family was in NYC at that time)
-- **Russian birth** matches Vilna (Russian Empire)
+Record details:
+- Barnett Solomon, M, age 26 (b. ~1884), Married, White, Russia, Father Russia, Mother Russia. Head of household.
+- Wife: **Lizzie Solomon**, F, age 22 (b. ~1888), **Russia** (both parents Russia).
+- No children enumerated.
+
+Pattern match vs. Barnett Salmanson:
+- **Brooklyn location** matches: son Samuel b. Brooklyn June 1912 (family was in NYC at that time)
+- **Russian birth** consistent with Vilna (part of Russian Empire in 1884-1885)
 - **1884 birth** is within 1 year of confirmed 1885 (age-rounding within indexing tolerance)
-- **Wife "Lizzie"** is a plausible nickname for Elizabeth Salk (they married Sep 12, 1909, so the April 1910 enumeration catches them as newlyweds)
-- **"Salmanson" → "Solomon"** is a plausible indexer simplification of an unfamiliar Russian-Jewish surname
+- **"Lizzie"** fits Elizabeth Salk as a nickname (married Sep 12, 1909; April 1910 enumeration catches them as newlyweds)
+- **No children**: consistent (Leonard Irving not born until June 21, 1910)
 
-**Not yet confirmed**: image not pulled. Requires clicking through to the record detail to verify by cross-referencing address, occupation, family composition, and handwriting on the original enumeration form. If confirmed, this is Barnett's 1910 Census record.
+Caveat -- **Lizzie's birthplace indexed as "Russia" rather than Poland**. Elizabeth Salk was from Poland. However, "Russia" was the common enumerator label for Russian-Poland in the 1910 era (Poland did not exist as an independent state until 1918). This does not rule out the identification.
+
+**Status: STRONG CANDIDATE, not yet decisively confirmed.** The image (viewable at ARK M5QN-DFB) would allow cross-referencing the Brooklyn Ward 21 street address and neighboring households against other known 1910 Salmanson/Salk contacts. If confirmed, this is Barnett's 1910 Census record.
 
 ### 1910 Census (earlier search status)
 

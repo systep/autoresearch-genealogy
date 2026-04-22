@@ -10,6 +10,27 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-22 (part 3): FamilySearch detail drilldowns + Judson's sons as heads (8 queries)
+
+### Summary
+
+Third FamilySearch browser batch: 3 record-detail drilldowns (Landreth King 1910, Halbert Cooley 1880, Barnett Solomon 1910) plus 5 targeted searches looking for H.H. King among Judson's known sons and retrying Albert G Bright with a birthplace filter. Script `scripts/sweep3.js`; results `scripts/sweep3-results.json`.
+
+### Decisive findings
+
+- **Landreth Foster King (1880-1964) identity CONFIRMED.** ARK `M5DH-G51`. 1910 Census Oaklawn, Greenville SC, Sheet 6-B. Age 30, married, head, White. Wife Polly E King (21, SC). Sons Marvin E King (0, SC), Roy L King (2, SC). FamilySearch tree ID **KFF2-KFT**, with attached records in 1930 Census (indexed as "Foster L King"), Find a Grave Index, SC Deaths 1915-1973, SSDI. Updated [[Landreth_King]] person file with full name, death year 1964, and confidence level raised to high.
+- **Halbert O. Cooley / Holbert Oscar Cooley (1880-1912) identity CONFIRMED.** ARK `M6S6-K4B`. Born January 1880 (age 5 months in June 1880 Census). Dunklin Greenville SC, ED 85, Household 13843581. Parents: James Cooley (M, 22, b. ~1858 SC) + Margaret Cooley (F, 20, b. ~1860 SC). Siblings: Mamy (4), Willie (2). Also in household: Rhena Hindman (21) and Luthor Hindman (1). FamilySearch tree ID **LRFY-2G9**.
+- **OQ #15 HYPOTHESIS REVISED**: The earlier hypothesis that Halbert O. Cooley = "Oryley H Cooley" (age 24 in Judson King's 1900 household) no longer holds. Halbert was born Jan 1880, so he would have been age 20, not 24, in the 1900 Census -- a 4-year gap too large to be indexer error. Two different Cooleys. "Oryley H Cooley" (b. ~1876) remains unidentified. The James + Margaret Cooley cluster in Dunklin is still a real Cooley family near Charstee's Oaklawn but their specific relation to Charstee is no longer established.
+- **OQ #17 H.H. King rules out all known sons.** All six of Judson's 1880-documented sons confirmed in 1910 Census as independent heads of household: Andrew Lewis King (Oaklawn; wife Emma L; children Walter A, Mallie L); James E. King (b. ~1871, Dunklin; wife Annie; children Eugene, Charlie, Bland, Ruth, Bell, Ludie); William C. King (b. ~1877, Dunklin; wife Unal; children Carrie B, Beatrice, William B, Carl L, James B); John W. King (b. ~1873, Oaklawn; wife Bessie E; children Bessie L, Brooksy E, Ruth A, Mary E); Landreth Foster King (already covered). **None have initials H.H.** H.H. King of Pelzer (1921 death cert informant) is therefore not among Judson's adult sons. Candidates remaining: (a) a grandson via one of these sons grown up by 1921; (b) a daughter's husband (Dora S. or Mary E. may have married a King); (c) a Fork Shoals Baptist Church community member.
+
+### Candidate (not decisively confirmed)
+
+- **"Barnett Solomon" Brooklyn Ward 21 1910 Census = likely Barnett Salmanson.** ARK `M5QN-DFB`. Age 26 (b. ~1884), Russia, married, head; wife Lizzie Solomon (22, **Russia**). No children. Location/age/wife-name/family-composition all match Barnett Salmanson's known profile (Brooklyn 1909-1912+, b. 1885 Vilna, m. Elizabeth Salk Sep 1909, Leonard not born until Jun 21, 1910). The one caveat is Lizzie's birthplace "Russia" rather than "Poland" -- but "Russia" was the 1910-era label for Russian-Poland. Requires image-level address-and-neighborhood verification before Tier 1 confidence; logged as strong candidate in [[Barnett_Salmanson]].
+
+### Confirmed negatives
+
+- **Albert G Bright with birthPlace=Virginia filter, 1940 Census: top hits are b. 1924 VA (wrong generation)**. Our Albert G (b. ~1894 Virginia) did not surface in the top 5 of 27 results. Next try: narrower birth year range (1893-1895).
+
 ## 2026-04-22 (part 2): FamilySearch browser-emulation next-10 follow-up (11 queries)
 
 ### Summary
