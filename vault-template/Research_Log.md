@@ -10,6 +10,31 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-22 (part 4): FamilySearch sweep4 -- OQ #1 Resolved + H.H. King campaign (10 queries)
+
+### Summary
+
+Fourth FamilySearch browser batch of the day. Script `scripts/sweep4.js`; results `scripts/sweep4-results.json`. Two drilldowns + 8 targeted searches.
+
+### Major unlock
+
+- **OQ #1 (Mary Elizabeth Bright parents): RESOLVED Strong Signal** via Albert Bright 1940 Census (Rochesterville Monroe NY, b. 1894 VA, wife Rebecca, children Elizabeth/George/Robert/Samuel, widowed mother "Millie" Bright -- matches [[Willie_H_Youngblood]] Bright b. 1863, already documented as Albert's mother via MyHeritage; "Millie" is likely a 1940 indexer misread of "Willie"). The 1940 record is Tier 1 corroboration of the full MyHeritage tree chain. Updated [[Albert_Graham_Bright]] source list.
+
+### Secondary finds
+
+- **Barnett Salmanson FL death certificate: Certificate #45586** (ARK VV33-LTB), File FDI04-1960.txt, Volume 2204, Line 39907. Dec 1960 Dade FL. FS tree ID **GX2P-2XL**. Tier 1 identifier -- certificate itself can be ordered from FL state archives. Updated [[Barnett_Salmanson]].
+- **Jame H King b. 1870 Dunklin Greenville SC** (wife Annie E King, children Jane H J / Albert Ball / Henry Lee King b. 1903) appears to be either (a) a middle-initial indexing inconsistency of James E. King (Judson's son, b. 1871, also Dunklin, wife Annie, but 1910 children different), or (b) a different contemporaneous James King in the same township. Henry Lee King (b. 1903) is too young to be the 1921 H.H. King death cert informant (would be 18). Cannot definitively confirm without image.
+
+### Drilldown misses
+
+- **Barnett Salmanson NY 1912 Naturalization target**: drilldown instead landed on FL Death Index (same surname+given ordering put FL death on top over NY naturalization). Useful identifier captured anyway. Rerun with collection filter would isolate the NY record.
+- **James Cooley 1860 SC target**: drilldown landed on wrong person (James Cooley, 1873 Manchester England tax record). The search URL lacked a 1860-census collection filter, so the first ARK in the results was unrelated. OQ #15 James/Margaret Cooley parent-identification still open.
+
+### Confirmed negatives
+
+- **Morris Markel 1930 RI**: tested spellings Markel, Markal, Workel, Markiel, Mojzesz, and surname-only Markel — 0 real matches. Morris Markel's 1930 RI Census record is not reachable via FamilySearch's indexed variants.
+- **H.H. King "H H", Henry, Hiram, Dora** in Pelzer/Greenville 1900-1920: no direct match. H.H. King remains unidentified.
+
 ## 2026-04-22 (part 3): FamilySearch detail drilldowns + Judson's sons as heads (8 queries)
 
 ### Summary

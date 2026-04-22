@@ -9,7 +9,7 @@ sources:
   - "New York County Naturalization Records 1791-1980, Naturalization 1912 (Tier 1, FamilySearch-indexed, located 2026-04-22)"
   - "WWI Draft Registration Card, Sept 12, 1918, Providence RI, Division 3 (Tier 1)"
   - "BillionGraves headstone, Lincoln Park Cemetery (Tier 1, posthumous -- 1883 year superseded)"
-  - "Florida Death Index 1877-1998, December 1960 Dade FL (Tier 2)"
+  - "Florida Death Index 1877-1998, Dec 1960 Dade FL, Certificate 45586, Volume 2204, Line 39907 (Tier 1, ARK VV33-LTB, located 2026-04-22); FS tree ID GX2P-2XL"
   - "MyHeritage family tree (19 matches)"
   - "MyHeritage immigration record (SS Baltic)"
   - "MyHeritage military record (WWI)"

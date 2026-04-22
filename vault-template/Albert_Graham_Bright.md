@@ -6,8 +6,9 @@ died: 1961
 family: "Bright"
 confidence: moderate
 sources:
+  - "1940 US Census, Rochesterville, Monroe, NY (Tier 1, FamilySearch-indexed, located 2026-04-22) -- confirms Albert b. 1894 VA with wife Rebecca, children Elizabeth/George/Robert/Samuel, and widowed mother 'Millie' (= Willie H.) Bright in household"
+  - "1950 US Census, Sagamore Drive, Irondequoit, Monroe, NY (Tier 1)"
   - "MyHeritage family tree"
-  - "1950 US Census"
 created: 2026-04-10
 tags: [genealogy, bright, person, virginia, new-york]
 confidence: moderate
@@ -49,5 +50,6 @@ Their daughter Mary Elizabeth Bright (Jun 5, 1921, Johnson City, Washington Coun
 
 | Document | Type | Vault Note |
 |---|---|---|
-| MyHeritage family tree | Family tree database | Full profile |
+| 1940 U.S. Federal Census | Census record | **Located 2026-04-22 via FamilySearch browser search.** Rochesterville, Monroe, NY. Albert Bright, b. 1894 Virginia. Wife Rebecca. Children: Elizabeth, George, Robert, Samuel. Household also includes widowed mother "Millie" Bright (= [[Willie_H_Youngblood]]). Tier 1 corroboration of MyHeritage family tree data. |
 | 1950 US Census | Census record | Irondequoit, Monroe, NY; age 56 |
+| MyHeritage family tree | Family tree database | Full profile |

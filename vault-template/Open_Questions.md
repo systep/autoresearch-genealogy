@@ -5,6 +5,13 @@ updated: 2026-04-22
 tags: [genealogy, research, open-questions]
 ---
 
+## 2026-04-22 (part 4) session updates (FamilySearch sweep4: OQ #1 resolved + more H.H. King candidates, 10 queries)
+
+- **OQ #1 (Mary Elizabeth Bright parents): RESOLVED Strong Signal.** 1940 Census Tier 1 confirms Albert Bright (b. 1894 VA) in Rochesterville Monroe NY with wife Rebecca, children Elizabeth (= Mary Elizabeth, our target), George, Robert, Samuel, and his widowed mother "Millie Bright" (= Willie H. Youngblood Bright, already in vault). Corroborates existing [[Albert_Graham_Bright]] tree to Tier 1. Updated OQ #1.
+- **OQ #4 bonus: Barnett Salmanson FL death cert number 45586** (ARK VV33-LTB, File FDI04-1960.txt, Volume 2204, Line 39907, Dec 1960 Dade FL). Can be ordered from FL state archives for full certificate. FS tree ID for Barnett: GX2P-2XL.
+- **OQ #17 H.H. King: still not directly located, new leads surfaced.** Searches in Pelzer/Greenville 1920 for literal "H H", "Henry", "Hiram" King: Henry Lee King (b. 1903, son of "Jame H King" & Annie E King, Dunklin) -- would be age 18 in 1921, too young to be death cert informant. Interestingly "Jame H King" (b. 1870, Dunklin, wife Annie E) is very close to James E. King (Judson's son, b. 1871, wife Annie, Dunklin 1910) but the 1910 vs 1920 children mismatch. Possibilities: (a) James E. = James H. (middle initial indexing inconsistency), (b) two different contemporary James Kings in Dunklin. Cannot confirm without image.
+- **OQ #23 Morris Markel 1930 RI: CONFIRMED NEGATIVE across all tried spellings.** Markel, Markal, Workel, Markiel, Mojzesz — 0 real hits in 1930 RI Census collection. Record is either mis-indexed beyond guessable variants or the individual was not enumerated in RI in 1930.
+
 ## 2026-04-22 (part 3) session updates (FamilySearch detail drilldowns + Judson's sons, 8 queries)
 
 - **[[Landreth_King]] = Landreth Foster King (1880-1964) CONFIRMED**, ARK M5DH-G51, FS tree KFF2-KFT. Full person file upgraded to confidence: high.
@@ -104,9 +111,10 @@ Research gaps and unresolved questions, organized by priority and family line. U
 ## High Priority (Would Significantly Advance Understanding)
 
 ### 1. Mary Elizabeth Bright's parents and the SC connection
-- **PARTIALLY RESOLVED (2026-04-10)**: Parents identified: **Albert G Bright** (b. ~1894, Virginia) + **Rebecca L Bright** (b. ~1899). 1950 census: Sagamore Drive, Irondequoit, Monroe, NY, with sons George M (26), Samuel (20), Robert (19). Albert's Virginia origin could connect to the SC/VA region. "Charles Edward Bright" from the chart is NOT her father; may be Albert's father or uncle.
-- **Remaining**: Who are Albert G Bright's parents? Is Charles Edward Bright his father? What is Rebecca L's maiden name? How does the Bright line connect to King/Kopp in SC?
-- **Next step**: Search MyHeritage for Albert G Bright (b. ~1894 Virginia) parents. Search for Charles Edward Bright + Virginia + South Carolina.
+- **RESOLVED (2026-04-22) at Strong Signal**: Parents are **Albert (Graham) Bright** (b. 1893 or 1894, Virginia) + **Rebecca Moseley Long Bright** (1898-1985). 1940 Census (Tier 1, FamilySearch-indexed) confirms Albert Bright in **Rochesterville, Monroe, NY** (= Rochester NY, same area as 1950 Sagamore Drive Irondequoit) with wife Rebecca, children Elizabeth Bright (our target Mary Elizabeth, b. 1921), George, Robert, Samuel, AND Albert's widowed mother in the household (indexed as "Millie Bright", almost certainly [[Willie_H_Youngblood]] = Willie H. Youngblood Bright (1863-1952), already documented as Albert's mother via MyHeritage). The 1940 enumeration corroborates the existing MyHeritage family tree with Tier 1 data.
+- **Albert's extended lineage** (already in [[Albert_Graham_Bright]], now Tier 1 corroborated): Father **George Michael Bright** (1852-1939); grandparents Samuel Graham Bright (1825-1909) + Mary Jane Bernard (1829-1900); deep lineage to Johann Michael Brecht (1706-1794) immigrant from Schriesheim, Palatinate, 1726.
+- **Data-point discrepancy**: 1940 Census indexes Albert's birth as 1894 Virginia; vault frontmatter says 1893 (Apr 19, 1893 Abingdon VA per MyHeritage). One-year gap likely age-rounding; not a blocker.
+- **Remaining minor**: Rebecca L's maiden name already resolved (Moseley Long); the Bright line does NOT connect to King/Kopp in SC -- they are a separate VA-based German-Palatinate immigrant line.
 
 ### 2. Yekutiel Zalman Wallis and Rivka Beila (Shneuri) identity
 - **RESOLVED (2026-04-10)**: Rivka Beila (Shneuri) was a **daughter of the Mitteler Rebbe** (Rabbi Dovber Shneuri, 2nd Lubavitcher Rebbe) and **granddaughter of Shneur Zalman of Liadi** (Alter Rebbe, founder of Chabad). "Wallis" = transliteration of "Volis" (Ukrainian Jewish surname). Yekutiel Zalman Volis's father was Yosef Bunim, a son-in-law of Rabbi Levi Yitzchak of Berditchev. Srul Mendel and Rabbi Levi Yitzchok Zalmanson (1812-1872) were BROTHERS. **Strong Signal**: Geni.com (multiple profiles), Chabad.org, shulchanaruchharav.com, JewishGen.
