@@ -19,6 +19,24 @@ tags: [genealogy, zalmanson, salmanson, rabbi, person, belarus, borisov, lithuan
 
 # Rabbi Levi Isaac (Levi Itzhak) Zalmanson / Salmanson
 
+## 2026-04-22 (final) TIER 1 UNLOCK — Borisov 1850 Revision List identifies parents
+
+User manually searched JewishGen Belarus Database 2026-04-22 and located the **Borisov 1850 Revision List** (NHABMinsk/333/9/420, pp 245v-246, 28 Oct 1850) documenting the Srol' ZALMANZON household. Louis (Levi Itzhak) was born 1855, 5 years after this revision, so is not directly enumerated here, but the household matches the MH tree sibling set exactly:
+
+- **Father: Srol' ZALMANZON** (son of Zalman, b. ~1815 Borisov, petty bourgeois merchant) — this is "Srul Mendel Zalmanson" of MH trees, with the middle-name "Mendel" revealed as a tree fabrication
+- **Mother: Gita ZALMANZON** (daughter of Leyb, b. ~1830) — "Gita Zalmanson" of MH trees confirmed
+- **Siblings** (all documented Tier 1 in the 1850 revision):
+  - Berka (b. ~1838) — almost certainly father of the 1906 Borisov Zalmanzon Duma voters (Zalman, Israil, Srol Berkovich)
+  - Liba (b. ~1840)
+  - Minya (b. ~1842)
+  - Rayna (b. ~1843)
+
+This matches EXACTLY the MH Magen tree attribution of Louis's siblings ("Berko Dov, Liba, Minia, Raina") — the MH trees got the sibling set right but mangled the father's given name.
+
+**Louis's birth year per LitvakSIG 1877 marriage: ~1855 Borisov** — he would have been the youngest or near-youngest child of Srol' + Gita, born 5+ years after Rayna. Awaiting 1858 or 1874 Borisov revision list (if indexed on JewishGen) for direct Tier 1 confirmation of Louis IN his parents' household.
+
+**Chabad lineage reassessment**: Srol's father's name is given only as "Zalman" — compatible with (but not proving) Yekutiel Zalman Wallis. The petty-bourgeois class assignment and Borisov residence are inconsistent with the Chabad rabbinic line (Rabbi Levi Yitzchok 1812-1872 was based in Lubavitch, Mogilev guberniya, 400 km away, and was a documented scholar not a merchant). **Chabad attribution is SPECULATIVE, leaning toward refuted**, pending more evidence.
+
 ## 2026-04-22 (latest) TIER 1 SMOKING GUN — Rhode Island Death Index
 
 **Rhode Island Deaths 1850-1946 (FamilySearch-indexed via MyHeritage sweep8, 2026-04-22)**:
