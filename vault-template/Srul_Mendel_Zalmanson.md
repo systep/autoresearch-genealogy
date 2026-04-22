@@ -67,7 +67,28 @@ The 1907 RI Death Index names Louis's father as "Joseph Salmonson" and mother as
 
 The 1858 Borisov revision list would resolve this — if it names Louis as a son of Srol' and confirms Srol's family composition, the identification is locked at Tier 1.
 
-## Chabad attribution status
+## Chabad hypothesis — REHABILITATED to borderline Moderate Signal (2026-04-22 late)
+
+Parallel subagent research (Agents J, K, L) and user family oral tradition converge on the following reassessment:
+
+**Independent Tier 3 corroboration**: Both MyHeritage user trees AND Geni World Family Tree (checked independently via two Geni cross-linked profiles: Rabbi Levi Yitzchok Zalmanson AND his sister Sarah Freida Schneerson née Wallis) document "Srul Mendel Zalmanson" as a son of Yekutiel Zalman Wallis. The Geni finding is INDEPENDENT from MyHeritage (different dataset) — two tertiary sources converge. Geni's child list for Yekutiel Zalman: Levi Yitzchok (1812-1872), Shneer, **Srul Mendel**, Keyla (Cohen), Pinkhas Aron, Sarah Freida (Schneerson, c.1820), Reiza Sura.
+
+**Chabad-merchant historical pattern (Agent J)**: Shneur Zalman of Liadi (Alter Rebbe) deliberately recruited a Chabad-merchant committee of 9, including "Abraham and Baruch Joseph of Borisov" — Chabad.org confirms. Published Chabad yichus books (Beis Rabbi by Heilman 1902, loebtree.com) systematically document only rabbinic male lines; second/third merchant-class sons were omitted. Family oral tradition preserves what the books omit. This explains why loebtree.com lists only 3 siblings of Levi Yitzchok (no Srul Mendel) while Geni + MH show 7 — the published tree is curated to rabbinic descendants only.
+
+**Borisov had active Chabad presence (Agent J partly contradicts Agent L)**: Shmuel DovBer of Borisov was a prominent Chabad chassid corresponding with Rebbetzin Rivkah Schneersohn in the 1880s. Borisov was predominantly Litvak/misnagdic in its rabbinic leadership (Yerucham Yehuda Leib Perelman "Gadol of Minsk"), but had a documented Chabad minority. A Chabad-descended merchant settling there c. 1830 is historically plausible.
+
+**Name discrepancy**: Geni says "Srul Mendel" (double name); Borisov 1850 revision says just "Srol'" (no Mendel). Possible explanations: (a) Geni wrong on middle name, (b) revision-list used short form of double name, (c) the "Mendel" was added to distinguish from a different Srol'. Inconclusive.
+
+**Maternal Chabad path refuted as rabbinic (Agent K)**: The Deych/Mogil maternal line is NOT documented rabbinic Chabad descent. BUT — Zavel Mogil's surname is toponymic from Mogilev (Chabad heartland), and Rokiskis was 100% Chabad community. Family tradition of "Chabad descent" on the maternal side likely = community/cultural Chabad affiliation, not direct rebbe lineage.
+
+**Overall status**: **borderline Moderate Signal** for direct Chabad rabbinic descent via paternal line (Srol' possibly = Srul Mendel son of Yekutiel Zalman Wallis). Not refuted. Definitive resolution requires:
+- **Y-DNA 37-marker test** of a male-line descendant (Barnett's son → son's son...) submitted to a Chabad-focused DNA project
+- **1858 Borisov Revision List NHABMinsk/333/9/1089** (9 Zalmanzon records, indexed but not yet transcribed) — naming Srol's full patronymic and "prior residence transfer" notation
+- **Berka Zalmanzon's 1838 Borisov birth metrical record** — father's full patronymic
+- **Beis Rabbi** (Heilman 1902) Hebrew text footnotes for Yekutiel Zalman Wallis's un-rabbinic descendants
+- **JewishGen Rav-SIG** direct inquiry to the rabbinic-genealogy community
+
+## Chabad attribution status — earlier note (superseded by above)
 
 The MH trees claimed our Srol' Zalmanzon was a sibling of Rabbi Levi Yitzchok Zalmanson (1812-1872, Chabad rabbinic dynasty) via shared parents Yekutiel Zalman Wallis + Rivka Beila Shneuri. The Tier 1 record gives Srol's father's name only as "Zalman" — **compatible** with "Yekutiel Zalman" (compound Hebrew name) but NOT confirming it. The 1850 class marker "petty bourgeois" (merchant) is inconsistent with a rabbinic dynasty connection — Yekutiel Zalman Wallis's documented sons (Rabbi Levi Yitzchok, etc.) were scholars/rabbis, not petty bourgeois merchants in distant Borisov. **Chabad attribution remains SPECULATIVE** pending further Tier 1 evidence.
 

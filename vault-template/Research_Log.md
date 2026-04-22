@@ -10,6 +10,49 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-22 (part 10): Chabad hypothesis rehabilitation — 4-agent parallel test
+
+### Summary
+
+User stated confidence in family oral tradition of Chabad descent. Launched browser sweep11 + 3 Agent subagents (J, K, L) to test the hypothesis exhaustively across published Chabad genealogies, Borisov community history, maternal-line Deych/Mogil Chabad path.
+
+### Agent J — Chabad-internal research (BREAKTHROUGH)
+
+**Geni.com (independent from MyHeritage) documents "Srul Mendel Zalmanson" as a son of Yekutiel Zalman Wallis** — visible on two cross-linked Geni profiles (Rabbi Levi Yitzchok Zalmanson 1812-1872 AND his sister Sarah Freida Schneerson née Wallis). Full children list per Geni: Levi Yitzchok, Shneer, **Srul Mendel**, Keyla Cohen, Pinkhas Aron, Sarah Freida (Schneerson, c.1820), Reiza Sura. This is an independent Tier 3 corroboration beyond the 7+ MyHeritage user trees.
+
+**Chabad-merchant pattern documented**: The Alter Rebbe Shneur Zalman of Liadi deliberately recruited "Abraham and Baruch Joseph of Borisov" among 9 merchants in his economic-development committee — confirmed via Chabad.org. Published Chabad yichus books (Beis Rabbi by Heilman 1902, loebtree.com) systematically under-represent merchant branches; only rabbinic male lines are documented. Second/third sons who entered commerce were omitted. Loebtree.com's 3-sibling listing for Levi Yitzchok may reflect this curation bias, NOT the actual family composition.
+
+**Borisov had active Chabad presence**: Shmuel DovBer of Borisov was a prominent Chabad chassid corresponding with Rebbetzin Rivkah Schneersohn in the 1880s (Chabad.org source). Borisov was predominantly Litvak/misnagdic in leadership but had a documented Chabad minority contemporaneous with our Srol' Zalmanzon.
+
+**Name discrepancy**: Geni's "Srul Mendel" (double name) vs Borisov 1850 revision list's "Srol'" (no Mendel). Possibilities: (a) Geni wrong on middle name, (b) revision-list shortened form, (c) two different Srol's. Inconclusive.
+
+**Assessment**: Upgraded from SPECULATIVE to **borderline Moderate Signal** for paternal-line Chabad descent via Srol' = Srul Mendel son of Yekutiel Zalman Wallis. Hypothesis stands.
+
+### Agent K — Maternal Deych/Mogil Chabad path
+
+**Refuted as direct rabbinic Chabad descent** but produced important reframing:
+- No documented rabbinic descent via Deych/Mogil line
+- Rokiskis rabbinic succession is Ha-Kohen Katz dynasty, not Deych/Mogil
+- Daiches rabbinic family is Lithuanian MISNAGDIC, not Chabad — wrong tradition
+- BUT: Zavel Mogil's surname is toponymic from Mogilev (Chabad heartland — Liozna, Liadi, Lubavitch all in historic Mogilev guberniya). Rokiskis was 100% Chabad community
+- Reframing: "Chabad descent" in family tradition may reliably mean community/cultural affiliation via migration (Mogilev → Rokiskis → Vidzy), NOT direct descent from a named rebbe. Both can be simultaneously true
+
+### Agent L — Borisov Chabad community history
+
+Borisov was predominantly Litvak/misnagdic in rabbinic leadership (Rabbi Yerucham Yehuda Leib Perelman, "Gadol of Minsk", classic misnagdic gaon). Bobruisk (140 km south) was the real Chabad anchor in Minsk guberniya, not Borisov. BUT Chabad minority presence is documented (Shmuel DovBer of Borisov, per Agent J independent finding). A Chabad-descended merchant settling in Borisov c. 1830 is "plausible but unsupported by published sources" — atypical but not impossible.
+
+### Definitive test recommendations
+
+1. **Y-DNA 37-marker test** of a male-line descendant (Barnett → Samuel/Charles/Leonard/Donald → male grandson) submitted to a Chabad-focused DNA project (Agent J recommendation)
+2. **1858 Borisov Revision List NHABMinsk/333/9/1089** — 9 Zalmanzon records would name Srol's full patronymic (if "Yekutiel Zalman" vs just "Zalman"), confirming or refuting the Wallis connection
+3. **Berka Zalmanzon's 1838 Borisov birth metrical record** — any "from Berdychiv/Lubavitch" notation is decisive
+4. **Beis Rabbi (Heilman 1902)** Hebrew text — check footnotes for un-rabbinic descendants of Yekutiel Zalman Wallis
+5. **JewishGen Rav-SIG** direct inquiry to the rabbinic-genealogy community at https://www.jewishgen.org/rabbinic/
+
+### Final Chabad-hypothesis status
+
+**borderline MODERATE SIGNAL.** Supported by: (a) two independent Tier 3 sources (MH + Geni), (b) chronological + geographic plausibility, (c) documented Chabad-merchant recruitment pattern, (d) Chabad presence in Borisov contemporaneous with Srol', (e) family oral tradition. NOT refuted by: lack of loebtree.com entry (explained by curation bias), Borisov's misnagdic majority (Chabad minority existed). Awaiting Tier 1 primary evidence (1858 revision list or birth record) to upgrade to Strong Signal or definitively refute.
+
 ## 2026-04-22 (part 9): JewishGen Tier 1 CONVERGENCE — Louis's father = Srol'/Izrael Zalmanzon
 
 ### Summary
