@@ -19,6 +19,35 @@ tags: [genealogy, zalmanson, salmanson, rabbi, person, belarus, borisov, lithuan
 
 # Rabbi Levi Isaac (Levi Itzhak) Zalmanson / Salmanson
 
+## 2026-04-22 (latest) TIER 1 SMOKING GUN — Rhode Island Death Index
+
+**Rhode Island Deaths 1850-1946 (FamilySearch-indexed via MyHeritage sweep8, 2026-04-22)**:
+
+- **Name**: Louis Salmonson
+- **Birth**: ~1853 Russia
+- **Death**: **January 28, 1907, Providence, Providence, Rhode Island, United States**
+- **Father**: **Joseph Salmonson**
+- **Mother**: **Ida**
+
+Identity corroborated by a second RI index entry:
+- **Rhode Island Marriages 1850-1922**: "Louis Salmanson" listed as father of son **Barnet Salmanson** (b. ~1883 Russia; married Sep 12 1909 Providence to Rachel). Barnet = our Barnett; marriage matches Elizabeth Salk 1909 Providence.
+
+### CRITICAL CONFLICT with Chabad lineage attribution
+
+The RI Death Index (Tier 1 primary) gives Louis's parents as **Joseph + Ida**.
+
+Seven independent MyHeritage user trees + Geni World Family Tree (Tier 2-3) give his parents as **Srul Mendel Zalmanson + Gita Zalmanson**, placing him in the Chabad rabbinic descent (Yekutiel Zalman Wallis + Rivka Beila Shneuri → Srul Mendel → Levi Itzhak).
+
+**Resolution: UNRESOLVED.** Two possibilities:
+- (a) "Joseph + Ida" are informant-provided English renderings of Hebrew/Yiddish "Srul Mendel + Gita". Common for immigrant descendants who did not know their grandparents' formal Hebrew names and used general English names on official forms. However, Joseph ≠ Srul Mendel phonetically or semantically (Joseph = Yosef; Srul = Israel/Yisroel; Mendel = Menachem informal). Ida → Gita is closer (both Yiddish feminine diminutives).
+- (b) The MyHeritage user trees are propagating a bad merge that wrongly attaches our Borisov Salmanson/Zalmanson family to the Chabad Zalmanson line. Our actual patriarch is "Joseph Salmanson" from an unrelated Belarusian Jewish family.
+
+Until Tier 1 primary documentation (Borisov 1858/1874 Revision List with Srul Mendel's household OR Louis's original Russian birth certificate) resolves this, the Chabad 20-generation descent must be marked **SPECULATIVE**. The RI Death Index is the authoritative record.
+
+### Informant caveat
+
+The informant on the 1907 death certificate was most likely Barnett Salmanson, Louis's son, then age ~22 and recently arrived from Russia (1904). Barnett never knew his paternal grandparents (who lived in the Russian Empire and died before his emigration). His reporting of "Joseph + Ida" may be approximate.
+
 ## 2026-04-22 (late) Major Revision — US Immigration + Death in Providence RI CONFIRMED
 
 **Sweep7 breakthrough (MyHeritage)**: Multiple family trees now confirm Levi Itzhak **immigrated to the United States and died in Providence, Rhode Island**, validating Barnett's long-disputed 1918 WWI Draft Card claim ("Citizen by Father's Naturalization Before Registrant's Majority").

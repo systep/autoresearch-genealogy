@@ -4,13 +4,15 @@ name: "Srul Mendel Zalmanson"
 born: 1820
 died: 1854
 family: "Zalmanson"
-confidence: high
+confidence: speculative
 sources:
-  - "MyHeritage family tree"
-  - "Geni.com profile for Rabbi Levi Yitzchok Zalmanson (1812-1872), lists Srul Mendel as sibling (Tier 3)"
-  - "loebtree.com ZALMANSON Family Tree page, documents Yekutiel Zalman and descendants (Tier 2, published genealogy)"
+  - "MyHeritage family trees (7 independent user trees converging 2026-04-22): Urban, Wagner, Sagiv, Gitelman, Parkash, Kalley, Magen — all list Srul Mendel b. 1820 d. 1854 Barysaw, parents Yekutiel Zalman Wallis + Rivka Beila (Shneuri), siblings Levi Yitzchok Zalmanson (1812-1872 Chabad rabbi), Sarah Freida Schneerson, Keyla Cohen, Pinkhas Aron Zalmanson, Reiza Sura Wallis, Shneor Zalman (Tier 2-3)"
+  - "Geni World Family Tree 2026-04-22: confirms same (Tier 2-3)"
+  - "loebtree.com ZALMANSON Family Tree page — NOTE 2026-04-22: older agent read of this source reports only 3 siblings (Levi Yitzchak, Keila, Sarah Freida) without Srul Mendel; may be outdated or only partial listing"
+  - "CRITICAL CONFLICT (2026-04-22): Son Louis Salmanson's 1907 RI Death Index (Tier 1) names his parents as Joseph Salmonson + Ida, NOT Srul Mendel + Gita. Either 'Joseph + Ida' are anglicized informant-provided versions OR the MH tree Chabad attribution is wrong. Unresolved without Tier 1 Borisov revision list."
 created: 2026-04-09
-tags: [genealogy, zalmanson, person, belarus, barysaw]
+updated: 2026-04-22
+tags: [genealogy, zalmanson, person, belarus, barysaw, chabad-hypothesis]
 ---
 
 # Srul Mendel Zalmanson

@@ -10,6 +10,50 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-22 (part 8): PARALLEL sweep8 + 4 agents — BIG strategic unlocks
+
+### Summary
+
+Eighth batch of the day, running 5 parallel workers: browser sweep8 (11 MH lineage-anchor drilldowns) + 4 Agent subagents doing independent web research on multi-generation chain anchors. Target: unlock chains that extend 5-20 generations in one documented link.
+
+### TIER 1 SMOKING GUN — Louis Salmanson 1907 RI Death Index
+
+**Rhode Island Deaths 1850-1946**: Louis Salmonson, b. ~1853 Russia, **d. January 28 1907 Providence RI**. **Father: Joseph Salmonson. Mother: Ida.** Corroborated by RI Marriages 1850-1922 listing Louis as father of "Barnet Salmanson" b. ~1883 who married Sep 12 1909 Providence to Rachel — indisputably our Barnett + Elizabeth Salk.
+
+**CRITICAL CONFLICT**: RI Death Index parents (Joseph + Ida, Tier 1) differ from 7+ MH user trees + Geni which give Srul Mendel Zalmanson + Gita Zalmanson (Tier 2-3, Chabad lineage). Either informant-anglicization OR MH trees are wrong. The **Chabad 20-generation descent must be downgraded to SPECULATIVE** pending Tier 1 Borisov revision-list resolution.
+
+### Brasher chain extended 2 generations with Tier 1 church register support
+
+Both Agent A and sweep8 browser converge:
+- Elizabeth Brasher → **Thomas Levi Brasher Jr. (b. 18 Jun 1731 Baltimore MD, d. 27 Sep 1789 Greenville SC)** [Tier 1 land grant + SC Will 1789]
+- → **Thomas Brasher Sr. (baptized 1 Sep 1701 St. George's Parish Baltimore MD, d. 17 May 1770 Orange Co NC)** [Tier 1 church register]
+- → **William Brasher (c.1674, d. <1708 Baltimore MD) + Elizabeth Clayton** [Tier 2 Barnes compilation]
+- Chain dead-ends at William Brasher
+- **Huguenot Brasseur connection REFUTED**: per Brashear & McCoy *A Brazier/Brasher Saga* (1998), the Baltimore Brashers are explicitly separate from the Huguenot Brasseurs (Robert + Benois). The prior vault assumption of Huguenot descent was wrong.
+
+### Srul Mendel: sibling (not son) of Rabbi Levi Yitzchok 1812-1872
+
+MyHeritage + Geni consensus 2026-04-22: **Yekutiel Zalman Wallis + Rivka Beila (Shneuri)** had multiple children including Levi Yitzchok (1812-1872, Chabad rabbi), **Srul Mendel (1820-1854 Borisov)**, Sarah Freida, Keyla, Pinkhas Aron, Reiza Sura, Shneor Zalman. IF the Chabad attribution holds (see Tier 1 conflict above), Barnett's descent is via collateral line (Srul Mendel was uncle of Rabbi Levi Yitzchok's children), not via the direct Rabbi line. Agent C was partially right (Srul Mendel NOT a son of Rabbi Levi Yitzchok) but missed the sibling relationship.
+
+### Löw family extended 1 generation
+
+**Henie Markiel née Löw (1828-1899 Waniowice)** parents: **Selmann Löw + Sure Löw** (Geni World Family Tree via MyHeritage 2026-04-22). Agent D confirmed Maharal hypothesis is refuted (<2% odds); the Löw family is a generic post-1787 Josephine surname-reform cluster in Sambor/Galicia. Updated [[Henie_Markel]].
+
+### Markel chain multi-generation
+
+Jankiel Markiel (b. 1763-1823) + Rifka Markiel → Mordko Markiel (1828 Sambor) → Hersch Markiel (1858 Sambor). Tier 2 FS Family Tree + Geni. Previously thought Mordko's father was Nissen Mendel (Yichus oral tradition) — now REFUTED in favor of Jankiel.
+
+### Youngblood chain — Agent B findings
+
+Gen 1-2 confirmed Tier 1 (Willis Henrietta Youngblood → William H Youngblood 1830 Alabama). Gen 3 GEDCOM "James" label is suspect (1840 Bibb AL census shows Henry Youngblood, not James). James Youngblood-746 (1740 Edgefield SC) DNA-linked via FTDNA to Peter Jungblut Palatinate Germany PA 1739, but the connection Gen 2 → Gen 3 → James-746 is not primary-source-documented. "Youngblood-Armstrong and Allied Families" book (1962) is the next lead.
+
+**Sweep8 lead**: FS Family Tree Row [6] gives William H Youngblood 1830 parents as **William F Youngblood + Caroline M Covington (born)** — needs verification but adds a potential Gen 3 alternative to the GEDCOM "James".
+
+### Scripts and outputs
+
+- Browser: `scripts/sweep8.js`, results `scripts/sweep8-results.json`, screenshots `scripts/screenshots/sweep8/`
+- Agents A-D outputs embedded in runtime reports; findings reflected above.
+
 ## 2026-04-22 (part 7): MyHeritage sweep7 -- MEGA AVALANCHE (12 queries)
 
 ### Summary

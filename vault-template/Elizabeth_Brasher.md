@@ -47,6 +47,13 @@ tags: [genealogy, brasher, brashier, henderson, person, south-carolina, north-ca
 |---|---|---|
 | Full Name | Elizabeth Brasher (also Brashier, Brazier) | Family_Tree.md, WikiTree Brasher-153 |
 | Born | ~1765 (estimated from marriage in 1782; Geni says 1765, WikiTree says ~1764) | Estimated; WikiTree Brasher-153, Geni.com |
+| Father | **Thomas Levi Brasher Jr. (b. 18 Jun 1731 Baltimore MD, d. 27 Sep 1789 Greenville SC)** -- Tier 2-3 MH consensus 2026-04-22 + WikiTree Brasher-122; the 1789 will omits daughters but this is explained by colonial practice of excluding married daughters who had received their portion. | WikiTree Brasher-122; MyHeritage 7+ trees (sweep8 2026-04-22); SC Will Book Vol A-B p. 28 |
+| Mother | **Sarah (Lindsey) Brasher** -- per "A Brazier/Brasher Saga" + WikiTree + MyHeritage consensus (one of Thomas Levi Jr's two wives; first was Hannah Owens). Some MH trees list her as "Sarah Constance" (confusion with paternal grandmother). | MyHeritage consensus; WikiTree |
+| Paternal Grandfather | **Thomas Brasher Sr. (bap. 1 Sep 1701 St. George's Parish Baltimore MD, d. 17 May 1770 Orange Co NC)** — Tier 1 church register | St. George's Parish Register Baltimore MD (Tier 1); Orange Co NC will 17 May 1770; WikiTree Brasher-37 |
+| Paternal Grandmother | **Sarah (Constance)** Brasher, married 13 Oct 1726 | Barnes, *Baltimore County Families 1659-1759* (Tier 2); WikiTree Brasher-37 |
+| Great-Grandfather | **William Brasher (c. 1674, d. <24 Oct 1708 Baltimore MD)** | Barnes, *Baltimore County Families* (Tier 2); WikiTree Brasher-38 |
+| Great-Grandmother | **Elizabeth (Clayton) Brasher** (m. 1696) | Barnes, *Baltimore County Families* (Tier 2); WikiTree Brasher-38 |
+| PRE-William Brasher | **UNDOCUMENTED.** WikiTree speculates a Wiltshire England connection (Brasher-490) but without primary sources. The Huguenot Brasseur connection is **REFUTED** per "A Brazier/Brasher Saga" by Brashear & McCoy (1998, FS 734009). The Baltimore Brashers are a separate family from the French Huguenot Brasseurs (Robert + Benois). | Agent A web research 2026-04-22 + authoritative published genealogy |
 | Birthplace | Possibly Orange County, NC or Greenville area, Carolina Colony (unverified) | Geni.com (Tier 3); note: Greenville County did not exist until 1786 |
 | Died | ~1839, Greenville District, SC (WikiTree says Dec 24, 1839; Geni says Feb 24, 1839) | WikiTree Brasher-153, Geni.com (Tier 3) |
 | Death Place | Greenville District, South Carolina | WikiTree Brasher-153 (Tier 3) |

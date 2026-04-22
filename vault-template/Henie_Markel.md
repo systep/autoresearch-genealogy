@@ -27,8 +27,8 @@ New person file created 2026-04-17 via Gesher Galicia sweep. Previously the vaul
 | Birthplace | Likely Waniowice or nearby village in Sambor district; recorded as town-of-origin: Waniowice on her son's 1894 marriage | 1894 marriage (Tier 1) |
 | Died | Unknown | |
 | Burial | Unknown | |
-| Father | Unknown | |
-| Mother | Unknown | |
+| Father | **Selmann Löw** | Geni World Family Tree via MyHeritage sweep8 2026-04-22 (Tier 2-3) |
+| Mother | **Sure Löw** | Geni World Family Tree via MyHeritage sweep8 2026-04-22 (Tier 2-3) |
 | Spouse | **[[Dov_Markel\|Mordko Ber Markiel]]** of Waniowice | 1894 marriage (Tier 1) |
 | Known children | **[[Heschel_Herman_Markel\|Hersch Markel]]** (b. 1862, d. 1916); possibly **Mattis Markel** (named by Yichus as Heshel's brother, implies shared parentage) | 1894 marriage (Tier 1); Yichus (Tier 2 for Mattis) |
 

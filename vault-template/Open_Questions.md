@@ -5,6 +5,15 @@ updated: 2026-04-22
 tags: [genealogy, research, open-questions]
 ---
 
+## 2026-04-22 (part 7) session updates (PARALLEL sweep8 + 4 agents — BIG strategic unlocks)
+
+- **TIER 1 SMOKING GUN — Louis Salmanson 1907 RI Death Index (via MyHeritage sweep8)**: Louis Salmonson b. ~1853 Russia, **d. Jan 28 1907 Providence RI**, **Father Joseph Salmonson, Mother Ida**. Corroborated by RI Marriages 1850-1922 naming him father of Barnett (b. ~1883) who m. Sep 12 1909 Providence to Rachel. Validates Levi Itzhak's US immigration/death, BUT names his parents as Joseph + Ida, **NOT Srul Mendel + Gita** as MH user trees claim. **Chabad 20-generation descent DOWNGRADED TO SPECULATIVE** pending Tier 1 Borisov revision-list reconciliation.
+- **Brasher chain EXTENDED + Huguenot REFUTED**: Elizabeth Brasher → Thomas Levi Jr. (1731 Baltimore → 1789 Greenville SC) → Thomas Brasher Sr. (bap. 1701 St. George's Parish Baltimore MD, Tier 1 church register, d. 1770 Orange Co NC) → William Brasher (c.1674 Baltimore) + Elizabeth Clayton. Dead-ends there. **Brasseur Huguenot connection is REFUTED** per authoritative published genealogy — Baltimore Brashers and French Huguenot Brasseurs are separate families.
+- **Srul Mendel Zalmanson = SIBLING of Rabbi Levi Yitzchok 1812-1872**, not son. Both are children of Yekutiel Zalman Wallis + Rivka Beila Shneuri per 7+ MH trees + Geni. Chabad descent, IF valid, is via collateral line. Still conflicts with Tier 1 RI death index showing Louis's parents as Joseph + Ida.
+- **Henie Markiel née Löw parents IDENTIFIED**: Selmann Löw + Sure Löw (Geni via MH sweep8). Maharal hypothesis refuted (<2% odds per Agent D).
+- **Markel chain: Nissen Mendel hypothesis REFUTED**. Mordko Markiel's parents per Geni + FS: Jankiel Markiel (b. 1763-1823) + Rifka Markiel. Extends line 1 generation.
+- **Youngblood OQ #19 update**: Gen 3 GEDCOM "James Youngblood" label is likely wrong per Agent B — 1840 Bibb AL census shows Henry Youngblood, not James. FS Family Tree (via sweep8) offers alternative: William H Youngblood 1830 AL parents may be **William F Youngblood + Caroline M Covington**. James Youngblood-746 Edgefield SC (c.1740-1792) parents remain unknown; FTDNA links to Peter Jungblut Palatinate Germany PA 1739 but not primary-sourced.
+
 ## 2026-04-22 (part 6) session updates (MyHeritage sweep7 — MEGA AVALANCHE, 12 queries)
 
 - **Levi Itzhak Zalmanson IMMIGRATION + DEATH IN PROVIDENCE RI CONFIRMED**: Multiple MH trees, incl. family-member Barbara Salmanson's tree, converge on: Levi Itzhak (anglicized **"Louis" Zalmanson**) died in **Providence RI** in 1907. Magen tree gives April 28 1907; FS says Jan 28 1907. RI state death index search for "Louis Zalmanson" 1907 would anchor at Tier 1. **Validates Barnett's WWI draft card claim** about father's pre-majority naturalization. Updated [[Levi_Itzhak_Zalmanson]].
