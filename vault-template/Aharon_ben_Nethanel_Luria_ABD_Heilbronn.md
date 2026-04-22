@@ -1,40 +1,15 @@
 ---
-type: person
-name: "Rabbi Aharon ben Nethanel Luria, [the 1st Luria] ABD Heilbronn"
-born: 1413
-died: 1478
-family: "Heilbronn"
-confidence: low
-sources:
-  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
+type: redirect
+redirect_to: "[[Aharon_ben_Nethanel_Luria_ABD]]"
 created: 2026-04-19
-tags: [genealogy, geni, schneerson-ancestry, person, stub]
+updated: 2026-04-22
+tags: [redirect, genealogy, geni, schneerson-ancestry]
 ---
 
-# Rabbi Aharon ben Nethanel Luria, [the 1st Luria] ABD Heilbronn
+# Redirect
 
-## Vital Information
+This file was created by the 2026-04-19 rabbinic Geni stubs ingest as a GEDCOM-filename-truncation duplicate of [[Aharon_ben_Nethanel_Luria_ABD]].
 
-| Field | Value | Source |
-|---|---|---|
-| Full Name | Rabbi Aharon ben Nethanel Luria, [the 1st Luria] ABD Heilbronn | Geni curated tree |
-| Born | circa 1413, Heilbronn, Baden-Württemberg, Germany | Geni |
-| Died | 1478, Worms, Rheinland Pfalz, Germany | Geni |
+Both files documented the same person: **Rabbi Aharon ben Nethanel Luria, [the 1st Luria] ABD Heilbronn**, b. circa 1413 Heilbronn, d. 1478 Worms. Same Geni source, same dates, same places. Only the filename suffix differed (one cut off "Heilbronn", the other preserved it). Generation-number metadata differed trivially (12 vs 13) and is not a distinguishing fact.
 
-## Biography
-
-Person attested only in the Geni curated World Family Tree ("Shneur Zalman of Liadi" project, exported Apr 19, 2026). Appears at generation(s) 12 (ancestor) of [[Shneur_Zalman_of_Liadi]].
-
-No primary sources have yet been located for this individual in the vault. Per CLAUDE.md Guard rail 2, a single Geni attestation is Tier 2-3 and insufficient for high confidence; corroboration from another independent source is needed before upgrading `confidence` above `low`.
-
-## Document Sources
-
-| Document | Type | Vault Note |
-|---|---|---|
-| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]]; Geni entry: "Rabbi Aharon ben Nethanel Luria, [the 1st Luria] ABD Heilbronn" b. circa 1413, Heilbronn, Baden-Württemberg, Germany; d. 1478, Worms, Rheinland Pfalz, Germany |
-
-## Data Discrepancies
-
-| Field | Source A | Source B | Resolution |
-|---|---|---|---|
-| (None recorded) | | | |
+Per CLAUDE.md guard rails (duplicate resolution), redirected to the shorter filename as canonical. See cross_reference_audit.md 2026-04-22 audit session (Session AUDIT-A).

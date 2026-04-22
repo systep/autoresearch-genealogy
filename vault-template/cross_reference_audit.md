@@ -438,3 +438,41 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 | 58 | Descent from biblical King David (via Bustanai, Hai Gaon, Samuel ha-Nagid) | provability | Geni claims continuous descent from Shneur Zalman back to King David (~900 BCE) via Exilarchate and medieval Spanish rabbis | Traditional rabbinic claim present in many Chabad sources; not genealogically verifiable | All biblical-ancestor vault files ([[King_David]], [[King_Solomon]], [[King_Rehoboam]], [[Zerubbabel]], [[Hai_Gaon]], [[Bustanai]], [[Samuel_ha_Nagid]]) retained at pre-existing confidence (not upgraded) with the Geni source noted | OPEN: traditional rabbinic attribution, not verified descent |
 | 59 | [[Yosef_Yitzchak_Schneerson]] | identity | Geni: "Yosef Yitzhak Schneerson [of Ovruch]" b. 1822 Lubawitch, d. 1876 Ovruch (son of Tzemach Tzedek) | Vault file likely refers to Yosef Yitzchak Schneerson the 6th Rebbe (1880-1950) | **Potential name collision**: Need to verify which Yosef Yitzchak the vault file documents. If the 6th Rebbe, a separate file may be warranted for the c. 1822 son of Tzemach Tzedek | OPEN: flagged for disambiguation |
 | 60 | Rachel Shneuri (Alter Rebbe's 2nd wife, Rachel Sheiness, 1770-1799) | existence | Geni treats her as 2nd wife with spouse Avraham Sheiness | Vault has [[Rachel_Shneuri]] but not positioned as 2nd wife in prior data | Geni attribution likely confuses Alter Rebbe's actual wife history. Traditional sources name Sterna Segal as sole wife | OPEN: Geni claim of a 2nd wife Rachel Sheiness needs source verification; may be confused with the fictional "Rivka Perle" figure or a daughter named Rachel | OPEN |
+
+---
+
+## 2026-04-22 Cross-Reference Audit (Session AUDIT-A)
+
+**Scope**: Targeted audit of the highest-risk clusters after recent high-volume ingests: (1) rabbinic Geni stubs added 2026-04-19, (2) the George Adam Bright / George Bright conflation flagged in Research_Log 2026-04-19 item #9.
+
+**Not audited this session** (deferred): Zalmanzon / Salk / LVIA 1908 cluster, Baldwin Oxfordshire/Buckinghamshire question, Kuniansky DOB propagation, full Family_Tree.md re-read. The audit agent ran out of time (stream idle timeout) before reaching them. Listed as follow-up work.
+
+### GEDCOM-filename-truncation duplicates consolidated (7 new redirects)
+
+Duplicate person files created when the 2026-04-19 rabbinic Geni import emitted two filenames for the same Geni profile (one truncated, one with a suffix). Same birth date, same death date, same places. Redirected the weaker variant to the canonical file.
+
+| # | Redirect File | Canonical File | Evidence for same person |
+|---|---|---|---|
+| 61 | Aharon_ben_Nethanel_Luria_ABD_Heilbronn.md | Aharon_ben_Nethanel_Luria_ABD.md | Both b. c. 1413 Heilbronn, d. 1478 Worms; identical Geni source |
+| 62 | Avraham_Ben_Matityahu_Ashkenazi_of_Treves_1240.md | Avraham_Ben_Matityahu_Ashkenazi_of_Treves.md | Identical dates, parents, children |
+| 63 | Avraham_Ben_Matityahu_Ashkenazi_of_Treves_b.md | Avraham_Ben_Matityahu_Ashkenazi_of_Treves.md | Identical dates, parents, children |
+| 64 | Jechiel_Ben_Matityahu_AshkenaziTreves_The.md | Jechiel_Ben_Matityahu_AshkenaziTreves.md | Identical dates and Geni source |
+| 65 | Matityahu_Ashkenazi_Ashkenazi_Treves_Chief_Rabbi.md | Matityahu_Ashkenazi_Ashkenazi_Treves_Chief.md | Identical dates and Geni source |
+| 66 | Matityahu_Ashkenazi_Ashkenazi_Treves_Chief_Rabbi_of.md | Matityahu_Ashkenazi_Ashkenazi_Treves_Chief.md | Identical dates and Geni source |
+| 67 | Yosef_Tzarfati_Treves_Ashkenazi_1304.md | Yosef_Tzarfati_Treves_Ashkenazi.md | Identical dates and Geni source |
+| 68 | Yosef_Tzarfati_Treves_Ashkenazi_b.md | Yosef_Tzarfati_Treves_Ashkenazi.md | Identical dates and Geni source |
+
+### Fact-level discrepancies resolved (George Adam Bright conflation)
+
+| # | Person / File | Field | Value Before | Value After | Source Authority | Status |
+|---|---|---|---|---|---|---|
+| 69 | [[George_Adam_Bright]] | identity | b. 9 Feb 1731 Heidelberg PA, d. 1769 (MyHeritage GEDCOM Tier 3) | b. 2 Sep 1730 Heidelberg Twp PA, d. 14 Jun 1804 Augusta Co VA (buried Dutch Hollow Hanger Cemetery, Virginia DHR #007-6089) | Find a Grave #124244091 (Tier 2) + Virginia DHR Historic Register #007-6089 (Tier 2) + Geni + WikiTree Bright-270 | **RESOLVED 2026-04-22**: GEDCOM had merged two distinct men. George Adam Bright (Brecht) Sr. (1730-1804, Augusta Co VA) is the PA-to-VA Brecht anglicization figure with will proved 1805. File re-written to reflect the 1730-1804 life. |
+| 70 | [[George_Bright]] | identity | unclear / conflated with George Adam | b. 9 Feb 1731 Lancaster/Heidelberg PA, d. ~1783 Kentucky (scouted with Daniel Boone 1776) | Find a Grave #285400993 (Tier 2) | **RESOLVED 2026-04-22**: Confirmed as a distinct individual from George Adam Bright above. Likely a younger cousin or Brecht collateral, not brother of George Adam. |
+
+### Follow-up items (next audit session)
+
+1. Zalmanzon / Salk / LVIA Rokiskis 1908 cluster not yet audited against vault. Key person files to check: Levi_Itzhak_Zalmanson, Louis_Elizar_Salk, Bella_Measroch (stub), Benjamin_Salk, Julius_Salk, Hyman_Salk, Abraham_Salk, Elizabeth_Salk, Barnett_Salmanson, any Srol/Israel Zalmanzon child. Genuine identity question surfaced by OQ-18 agent: Louis_Elizar_Salk vs Levi_Itzhak_Zalmanson. See Open_Questions.md OQ-18.
+2. Kuniansky DOB propagation: verify every vault file referencing Harry Kuniansky uses 21 Mar 1889 (Find a Grave Tier 2) not 15 Jun 1888 (old GEDCOM).
+3. Baldwin cluster (Oxfordshire emigrants 1682 vs Buckinghamshire FreeREG candidates; Eli Baldwin wife "Elizabeth (unknown)" vs "Edaline L. Transon").
+4. Rabbinic Geni stubs rows 53 and 59 (Luria identity, Yosef Yitzchak Schneerson disambiguation) remain OPEN and need further source verification.
+5. `source_citation_audit.md` trivial edit made but not material to this session.

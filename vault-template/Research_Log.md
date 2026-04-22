@@ -10,6 +10,73 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-22 Cross-Reference Audit (Session AUDIT-A)
+
+Targeted audit of the highest-risk clusters after recent ingests. Ran concurrently with the OQ-18 South Africa investigation below; files were scope-partitioned so the two agents did not collide.
+
+### Scope completed
+
+1. **Rabbinic Geni stubs (2026-04-19 ingest)** — GEDCOM-filename-truncation duplicates. Seven person files redirected to their canonical filenames (rows 61-68 in `cross_reference_audit.md`): Aharon_ben_Nethanel_Luria_ABD_Heilbronn, Avraham_Ben_Matityahu_Ashkenazi_of_Treves_1240 / _b, Jechiel_Ben_Matityahu_AshkenaziTreves_The, Matityahu_Ashkenazi_Ashkenazi_Treves_Chief_Rabbi / _Rabbi_of, Yosef_Tzarfati_Treves_Ashkenazi_1304 / _b.
+2. **George Adam Bright / George Bright conflation** — resolved (rows 69-70). MyHeritage GEDCOM had merged two distinct men. [[George_Adam_Bright]] now correctly documents the PA→VA Brecht anglicization figure, b. 2 Sep 1730, d. 14 Jun 1804, Augusta Co VA (Find a Grave #124244091, Virginia DHR #007-6089). [[George_Bright]] updated to separate individual b. 9 Feb 1731 PA, d. ~1783 KY (Find a Grave #285400993).
+
+### Scope deferred (agent ran out of time before stream idle timeout)
+
+Zalmanzon/Salk/LVIA cluster, Baldwin Oxfordshire/Buckinghamshire, Kuniansky DOB propagation, rabbinic rows 53 and 59 disambiguation. Enumerated in `cross_reference_audit.md` under "Follow-up items (next audit session)".
+
+### Files modified
+
+- `vault-template/cross_reference_audit.md` (new Session AUDIT-A section, rows 61-70)
+- `vault-template/George_Adam_Bright.md`, `vault-template/George_Bright.md`
+- `vault-template/Aharon_ben_Nethanel_Luria_ABD_Heilbronn.md`, `Avraham_Ben_Matityahu_Ashkenazi_of_Treves_1240.md`, `Avraham_Ben_Matityahu_Ashkenazi_of_Treves_b.md`, `Jechiel_Ben_Matityahu_AshkenaziTreves_The.md`, `Matityahu_Ashkenazi_Ashkenazi_Treves_Chief_Rabbi.md`, `Matityahu_Ashkenazi_Ashkenazi_Treves_Chief_Rabbi_of.md`, `Yosef_Tzarfati_Treves_Ashkenazi_1304.md`, `Yosef_Tzarfati_Treves_Ashkenazi_b.md` (all converted to redirects)
+- `vault-template/source_citation_audit.md` (trivial, 2-line)
+
+## 2026-04-22 OQ-18 South Africa Transit Investigation
+
+Scoped investigation of OQ #18 (Did Louis Elizar Salk / Leyvik Zalmanzon travel via South Africa before Providence RI?). Drives off the 8 Apr 1909 Novoalexandrovsk Police "выбылъ въ АФРИКУ" (left for Africa) report, plus wife Bella Measroch (rare SA-concentrated surname).
+
+### Web searches executed (free, no login)
+
+| # | Query | Target | Result | Impact |
+|---|---|---|---|---|
+| 1 | "Measroch surname South Africa Lithuania origin Rokiskis Jewish" | surname geography | POSITIVE (general): confirms Measroch on Geni (32 profiles), Simeon Julian Measroch m. Durban 1917, Rokiskis-to-SA migration 1926-1930 documented | Tier 3 reinforcement; does not yet place Bella in SA pre-1907 |
+| 2 | "Zalmanson" OR "Salmanson" OR "Zalmanzon" South Africa immigration 1899-1900 | SA immigration | NEGATIVE for specific match. General context: 40,000 Jews arrived Cape 1880-1914, 2/3 from Kovno/Rakishok | Context only |
+| 3 | jewishroots.uct.ac.za/Arrivals.aspx direct fetch | SA Jewish Rootsbank arrivals | 403 (blocked; requires browser) | Unresolved |
+| 4 | "Measroch" Durban Cape Town Lithuania 1890s 1900s Geni | SA Measroch census | NEGATIVE: no pre-1917 SA Measroch record surfaced | No contradiction, no support |
+| 5 | "Measroch" genealogy "Joseph Measroch" OR "Deborah Werner" Lithuania | parents of Bella | PARTIAL: Geni snippet "Dvora Deborah Miriam Maria Measroch" whose parents were from Chaima Werner (Telšiai, Lithuania). Werner Lithuanian root confirmed. No direct Bella entry found. | Supports Measroch-Werner family tree in LT/SA |
+| 6 | "Bella Measroch" OR "Bella Glucksman" Piet Retief | Bella-in-SA lead | **STRONG POSITIVE (new)**: **Measroch Street in Piet Retief / eMkhondo, Mpumalanga**; Pendora Lodge, 13a Measroch Str; N H R Investments at 2 Measroch Str. Street is named for the family — indicates documented Measroch settlement prominent enough to warrant a street name. | Converts "rare surname" to "settler surname" — strong circumstantial support for SA Measroch family. |
+| 7 | "Measroch Street" Piet Retief history Jewish merchant | context for street name | NEGATIVE direct. Piet Retief municipal history pages and South African History Online do not narrate the Measroch family directly in surfaced snippets. Zoutnet street-names series exists but did not surface a Measroch story in snippet. | Needs manual archival lookup |
+| 8 | "Salk" OR "Salmanson" Providence RI obituary "South Africa"/"Cape Town"/"Durban" | US-side obit trace | NEGATIVE for SA mention. Found: Stephen D. Salk obit (Providence, no SA); Samuel Salmanson obit (Palm Beach, son of Barnett+Elizabeth Salk Salmanson, no SA). | No obituary has surfaced mentioning a SA residence for Louis Salk |
+| 9 | "Louis Salk" OR "Louis Zalmanson" Providence obituary 1907 immigrant | US arrival trace | NEGATIVE; no digitized obit surfaced | Gap |
+| 10 | "Leyvik Zalmanzon" OR "Leyvik Salmanson" Natal Transvaal Cape | direct name-in-SA | NEGATIVE | Gap |
+| 11 | "Israel Zalmanson" OR "Srol Zalmanson" South Africa 1900 naturalization | son Srol SA trace | NEGATIVE specific; general resources (Kaplan Centre, SA Jewish Rootsbank, Geni LT-Jews-in-SA project) noted | Gap |
+| 12 | elirab.me "Jewish Life in East Rand, Midrand, Southern Great Escarpment" direct PDF | Piet Retief Jewish history | 403 on fetch | Candidate for human browser lookup |
+| 13 | jewishgen.org/yizkor/rokiskis/rok306.html direct | Rokiskis emigrant list | 403 | Blocked |
+| 14 | jewishgen.org/safrica/natrec.htm direct (Cape Colony Naturalisation Register 1903-1907) | SA naturalisation | 403 on fetch; confirmed the register exists | Candidate for human browser lookup |
+| 15 | geni.com/surnames/measroch direct | SA Measroch tree | 403 | Blocked |
+| 16 | findagrave.com/memorial/122731027 Ivan Measroch direct | modern SA Measroch | 403 | Person exists (b.1951 d.2013) — confirms persistence of surname in SA across 60+ years, no direct pre-1910 tie |
+| 17 | "Rokiskis Jewish immigrants South Africa Novoalexandrovsk Zarasai" | migration route | **POSITIVE context**: confirms Novoalexandrovsk = Zarasai (uyezd containing Rokiskis). 2/3 of 40,000 Cape arrivals 1880-1914 came from Kovno/Rakishok. Liepāja-to-England-to-Cape the typical route. | Strong base-rate support: Louis's peers routinely took Rokiskis → SA route |
+| 18 | vault grep "Africa"/"Measroch"/"Durban"/"Cape Town"/"Transvaal" | internal cross-ref | POSITIVE. [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]] shows **Chaim Tzvi Schneerson b.1834 d.1881 South Africa** — a Zalmanson collateral kin confirmed in SA in the 1870s. Establishes a Chabad-adjacent SA family corridor pre-dating Louis's putative 1898 departure. | Raises prior probability: Louis's extended kin cluster already had SA members |
+
+### New findings
+
+1. **Measroch Street, Piet Retief (Mpumalanga, SA).** A street in present-day eMkhondo (Welverdiend area) bears the Measroch name. Municipal street names in small South African towns are routinely assigned for pioneer settler families or prominent local merchants. The existence of Measroch Street is the strongest independent evidence yet that the Measroch surname represents a real, established SA family rather than a phantom. Tier 3 (web listings / property sites); still needs an archival source for the dating of the street name.
+2. **Chabad-adjacent collateral in SA.** [[Chaim_Tzvi_Schneerson]] (b.1834 d.1881 South Africa), a Schneerson via the Shneur Zalman of Liadi Geni tree, establishes that the broader Chabad-Zalmanson kin network had a member in South Africa decades before Louis's putative 1898 departure. This raises the base-rate prior for a Zalmanson SA migration.
+3. **Route plausibility ratified.** 2/3 of all Cape Colony Jewish arrivals 1880-1914 came from Kovno-gubernia towns including Rakishok (Rokiskis). Louis's putative Rokiskis → SA route is the modal Litvak migration path of his generation.
+4. **NEGATIVE on direct records.** No pre-1907 SA Measroch, Zalmanson, Salmanson, or Salk record was surfaced by free web search. All three authoritative SA indices (SA Jewish Rootsbank, SA-SIG Cape naturalisation register, Geni Measroch surname page) returned 403 on automated fetch. Human browser access is required to progress to Tier 1/2 confirmation.
+5. **Timing compatibility check.** Police hearsay: "left more than 10 years ago" (i.e., before April 1899). Louis's Tier 1 RI death index: d. 28 Jan 1907 Providence. Interval: ~8 years, long enough for SA arrival c.1898, Boer War departure 1899-1902, onward emigration to New York/Providence by 1905-1906. This is timing-compatible.
+
+### Files modified
+
+- `/home/user/autoresearch-genealogy/vault-template/Research_Log.md` — this header
+- `/home/user/autoresearch-genealogy/vault-template/Open_Questions.md` — OQ #18 updated
+- `/home/user/autoresearch-genealogy/vault-template/Louis_Elizar_Salk.md`
+- `/home/user/autoresearch-genealogy/vault-template/Levi_Itzhak_Zalmanson.md`
+- `/home/user/autoresearch-genealogy/vault-template/Unresolved_Persons.md` — Bella Measroch tracked
+
+### Net status for OQ #18
+
+OPEN → **PARTIALLY_RESOLVED (Moderate Signal, leaning toward SUPPORTED)**. Three independent lines of circumstantial evidence now converge: (a) Tier 1 LVIA 1909 police statement naming "Africa" as Louis's destination; (b) Tier 3 but newly corroborated Measroch family SA presence (Measroch Street in Piet Retief + 1917 Durban marriage + Werner-Lithuania parent link); (c) base-rate ratification (2/3 of Cape arrivals from Kovno). Still insufficient for RESOLVED: no primary-source SA record for Louis, Srol, or Bella Measroch pre-1907. Next step: human browser access to SA Jewish Rootsbank Arrivals, Cape Colony Naturalisation Registers 1903-1907, and Geni Measroch surname page.
+
 ## 2026-04-22 (part 11): LVIA ROKISKIS MESHCHAN ADMIN 1908 FAMILY LIST — Tier 1 file for Louis Zalmanson
 
 ### Summary

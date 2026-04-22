@@ -1,38 +1,11 @@
 ---
-type: person
-name: "Avraham Ben Matityahu Ashkenazi, of Treves (Troyes) b."
-died: 1310
-family: "Troyes"
-confidence: low
-sources:
-  - "Geni curated World Family Tree, Shneur Zalman of Liadi project (Tier 2-3): see [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]] and [[Shneur_Zalman_Liadi_Geni_Descendants_5gen_2026]]"
+type: redirect
+redirect_to: "[[Avraham_Ben_Matityahu_Ashkenazi_of_Treves]]"
 created: 2026-04-19
-tags: [genealogy, geni, schneerson-ancestry, person, stub]
+updated: 2026-04-22
+tags: [redirect, genealogy, geni, schneerson-ancestry]
 ---
 
-# Avraham Ben Matityahu Ashkenazi, of Treves (Troyes) b.
+# Redirect
 
-## Vital Information
-
-| Field | Value | Source |
-|---|---|---|
-| Full Name | Avraham Ben Matityahu Ashkenazi, of Treves (Troyes) b. | Geni curated tree |
-| Died | 1310, Germany | Geni |
-
-## Biography
-
-Person attested only in the Geni curated World Family Tree ("Shneur Zalman of Liadi" project, exported Apr 19, 2026). Appears at generation(s) 16 (ancestor) of [[Shneur_Zalman_of_Liadi]].
-
-No primary sources have yet been located for this individual in the vault. Per CLAUDE.md Guard rail 2, a single Geni attestation is Tier 2-3 and insufficient for high confidence; corroboration from another independent source is needed before upgrading `confidence` above `low`.
-
-## Document Sources
-
-| Document | Type | Vault Note |
-|---|---|---|
-| Geni curated World Family Tree (Apr 19, 2026 export) | online tree (Tier 2-3) | [[Shneur_Zalman_Liadi_Geni_Ancestors_20gen_2026]]; Geni entry: "Avraham Ben Matityahu Ashkenazi, of Treves (Troyes) b." circa 1240, Troyes, France; d. 1310, Germany |
-
-## Data Discrepancies
-
-| Field | Source A | Source B | Resolution |
-|---|---|---|---|
-| (None recorded) | | | |
+Filename-truncation duplicate of [[Avraham_Ben_Matityahu_Ashkenazi_of_Treves]]. Same Geni-sourced person b. circa 1240 Troyes, d. 1310. See cross_reference_audit.md 2026-04-22 audit session (Session AUDIT-A).
