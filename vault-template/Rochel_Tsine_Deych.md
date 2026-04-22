@@ -22,11 +22,12 @@ tags: [genealogy, deych, zalmanson, person, rokiskis, lithuania]
 |---|---|---|
 | Full Name | Rochel Tsine Deych (also Rochel (Rachel) Deych; married name Zalmanson/Salmanson) | GEDCOM |
 | Hebrew/Yiddish Name | Rochel Tsine (Rachel + Tsine/Tsina, a Yiddish feminine name) | Onomastic analysis |
-| Born | 1861 | GEDCOM, Geni.com |
-| Birthplace | Unknown; likely Rokiskis or vicinity, Zarasai (Novoalexandrovsk) District, Kovno Gubernia, Lithuania | Inference from 1877 marriage location |
+| Born | **~1861 (LitvakSIG record: Circa 1861-1862)** | LitvakSIG 1877 marriage (Tier 1, 2026-04-22) |
+| Residence at marriage | **Vidzy (Vidz), Lithuania** | LitvakSIG 1877 marriage (Tier 1) |
+| Birthplace | Most likely Vidzy (per residence at 1877 marriage, age ~15-16) | LitvakSIG + inference |
 | Died | ~July 26, 1935 (estimated) | GEDCOM |
 | Burial | Unknown | |
-| Father | [[Zawel_Deykh]] (Zavel Deych/Deich) | GEDCOM, Geni.com |
+| Father | **[[Zawel_Deykh]] = Zavel MOGIL** (actual surname Mogil, per LitvakSIG 1877 marriage; daughter Rokhel Tsine used surname Deych) | **LitvakSIG 1877 marriage (Tier 1, 2026-04-22)** |
 | Mother | Unknown (not named in any source; Rokiskis vital record abstracts for births omit mother's name) | |
 | Spouse | [[Levi_Itzhak_Zalmanson]] (b. 1851; m. December 2, 1877, Rokiskis, Lithuania) | GEDCOM, Family Tree |
 | Children | Gita Zalmanson (b. 1878), Zalman Zalmanson, [[Barnett_Salmanson]] (Berko Zalmanson, 1883-1960), Mendel Zalmanson, Movsha Zalmanson, Iosel Zalmanson, Zalman Zalmanson (second child of same name) | GEDCOM, Geni.com |

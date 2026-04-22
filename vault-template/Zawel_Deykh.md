@@ -1,35 +1,51 @@
 ---
 type: person
-name: "Zawel Deykh"
-born: "~1830s (estimated)"
+name: "Zavel Mogil (a.k.a. Zawel Deykh)"
+born: "~1820s-1830s (estimated; pre-1861 daughter)"
 died: unknown
-family: "Deykh"
-confidence: moderate
+family: "Mogil / Deykh"
+confidence: high
 sources:
-  - "MyHeritage family tree (GEDCOM)"
-  - "Geni.com"
+  - "Lithuanian-Jewish Marriages and Divorces from LitvakSIG, 1808-1940 (Tier 1, located 2026-04-22 via MyHeritage): Father of bride at Dec 2 1877 Rokiskis marriage of Rokhel Tsine Deych to Leyvi Itsik Zelmenzon. Named as 'Zavel Mogil'."
+  - "Lithuanian-Jewish Records from LitvakSIG, 1795-1940 (Tier 1, same record in parent collection): Zavel Mogil, daughter Rokhel Tsine Deych, daughter b. ~1862 Vidz"
+  - "MyHeritage family tree (GEDCOM) [as 'Zawel Deykh']"
+  - "Geni.com [as 'Zawel Deykh']"
 created: 2026-04-10
-updated: 2026-04-13
-tags: [genealogy, deykh, zalmanson, person, rokiskis, lithuania]
-confidence: moderate
+updated: 2026-04-22
+tags: [genealogy, deykh, mogil, zalmanson, person, rokiskis, vidzy, lithuania]
 ---
 
-# Zawel Deykh
+# Zavel Mogil (a.k.a. Zawel Deykh)
+
+## 2026-04-22 Major Revision: Identity Resolved via LitvakSIG Tier 1
+
+**The Rokiskis 1877 marriage record of daughter Rokhel Tsine names the father-of-the-bride as "Zavel MOGIL", not "Zavel Deych".** Two LitvakSIG-indexed sources found via MyHeritage 2026-04-22:
+- *Lithuanian-Jewish Marriages and Divorces from LitvakSIG, 1808-1940*: Rokhel Tsine Deych (Zelmenzon), Residence Vidz, b. ~1861, Marriage **Dec 2, 1877, Rokiskis, Panevezys, Kaunas, Lithuania**, Groom Leyvi Itsik Zelmenzon, **Father: Zavel Mogil**.
+- *Lithuanian-Jewish Records from LitvakSIG, 1795-1940*: same event, father listed as **Zavel Mogil**, daughter's birth ~1862 in Vidz.
+
+This resolves OQ #15 at **Strong Signal**. The family patriarch's surname was **Mogil**, not Deych. Possible explanations for Rokhel Tsine's "Deych" surname:
+- Her mother's maiden name was Deych, and she went by her mother's family name (common in Jewish communities when mother's family had higher standing)
+- Ashkenazi Jewish surnames were not fully hereditary across generations until late 19th century; individual identity often tied to patronymic + locational/trade identifier independent of a stable family surname
+- Deych ("Deutsch" = "German") may have been an identifier for Rokhel's family branch's German-speaking origins, distinct from Zavel's own Mogil surname
+
+"Mogil" is a Jewish surname of locational origin, from **Mogilev** (Mahilyow), a city in Belarus. Zavel Mogil's family may originally have come from Mogilev, linking to the broader Belarus-Lithuania Jewish migration.
 
 ## Vital Information
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Zawel Deykh (also Deych, Deich, Daych) | GEDCOM, Geni.com |
-| Hebrew/Yiddish Name | Zavel (likely Yiddish form of Zevulun/Zebulun) | Onomastic analysis; cf. cantor Zavel Kwartin (born Zevulun) |
-| Born | Unknown; estimated 1830s based on daughter's 1861 birth | Inference |
-| Birthplace | Unknown; likely Rokiskis area, Zarasai (Novoalexandrovsk) District, Kovno Gubernia, Lithuania | Inference from daughter's 1877 marriage location |
+| Actual Surname | **Mogil** (from Mogilev, Belarus) | LitvakSIG 1877 Rokiskis marriage record (Tier 1) |
+| Daughter's Surname | Deych (inherited from wife's family or adopted independently) | Same record |
+| Hebrew/Yiddish Name | Zavel (Yiddish form of Zevulun/Zebulun) | Onomastic analysis |
+| Born | Unknown; estimated 1820s-1830s (daughter b. ~1861) | Inference |
+| Birthplace | Unknown; possibly Mogilev or nearby Belarus/Lithuania (surname origin) | Inference from surname |
+| Residence at time of daughter's marriage (1877) | Vidzy (Vidz), Lithuania | LitvakSIG (daughter's residence listed as Vidz) |
 | Died | Unknown | |
-| Burial | Unknown; possibly Rokiskis Jewish cemetery (extant but condition unknown) | |
+| Burial | Unknown | |
 | Father | Unknown | |
 | Mother | Unknown | |
-| Spouse | Unknown (wife's name not recorded in any source) | |
-| Children | [[Rochel_Tsine_Deych]] (b. 1861) | GEDCOM, Geni.com |
+| Spouse | Unknown — likely surnamed Deych/Deutsch (inferred from daughter adopting maternal surname) | Inference |
+| Children | [[Rochel_Tsine_Deych]] (b. ~1861 Vidzy; m. Dec 2 1877 Rokiskis to Leyvi Itsik Zelmenzon = [[Levi_Itzhak_Zalmanson]]) | LitvakSIG 1877 marriage (Tier 1) |
 
 ## Surname Analysis
 

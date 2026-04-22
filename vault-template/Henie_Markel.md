@@ -1,15 +1,17 @@
 ---
 type: person
-name: "Henie Markel"
+name: "Henie Markel (born Löw / Low)"
 born: ~1835-1845
 died:
 family: "Markel"
-confidence: low
+maiden: "Löw / Low"
+confidence: moderate
 sources:
   - "AGAD Warsaw, Fond 424, File 103, Record 34, Scan 52 (Sambor Jewish Marriages 1891-1897, Tier 1; her son Hersch's 1894 marriage)"
+  - "Geni World Family Tree via MyHeritage (Tier 2-3, located 2026-04-22): son Hersch Markiel b. 1858 Sambor d. 1916, mother 'Henie Markiel (born Low)' — confirms maiden name Low/Löw"
 created: 2026-04-17
-tags: [genealogy, markel, person, galicia, jewish, tier-1, waniowice, sambor, newly-documented]
-confidence: low
+updated: 2026-04-22
+tags: [genealogy, markel, low, person, galicia, jewish, tier-1, waniowice, sambor]
 ---
 
 # Henie Markel

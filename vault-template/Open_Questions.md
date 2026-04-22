@@ -5,6 +5,16 @@ updated: 2026-04-22
 tags: [genealogy, research, open-questions]
 ---
 
+## 2026-04-22 (part 5) session updates (MyHeritage + Geni sweep6v2 — AVALANCHE of unlocks, 12 queries)
+
+- **OQ #15 (Zawel Deykh): RESOLVED Strong Signal + SURPRISE.** Tier 1 LitvakSIG Rokiskis 1877 marriage record (via MyHeritage) shows Rokhel Tsine Deych's **FATHER was named ZAVEL MOGIL** (not Deych). Rokhel Tsine's surname "Deych" was likely inherited from her mother. Zavel's surname Mogil suggests origin in Mogilev, Belarus. See [[Zawel_Deykh]] (now titled "Zavel Mogil (a.k.a. Zawel Deykh)"). Also the marriage record establishes the groom's birthplace as **Borisov, Belarus** (Leyvi Itsik b. ~1855) and bride's residence Vidzy (Vidz) Lithuania.
+- **Levi Itzhak Zalmanson identity FULLY ESTABLISHED.** Tier 1 LitvakSIG marriage + Tier 2 FamilySearch Family Tree converge: **Rabbi Levi Isaac Salmanson** (a.k.a. Leyvi Itsik Zelmenzon), born ~1855 **Borisov, Belarus** (NOT Lithuania), died **January 28, 1907**. Documented as a rabbi. Children via Rochel Tsine Deych: **Srol/Izrael, Gertrude Galetsky, Zalman, Barnett/Berko, Morris** (MH/FS trees). Updated [[Levi_Itzhak_Zalmanson]].
+- **OQ #5 (Bella Measroch): RESOLVED as Levi Itzhak's confirmed second wife.** Geni and multiple MH trees list both Rochel Tsine Deych AND Bella Measroch as his wives. No longer speculative.
+- **OQ #10 (Hersch Markel): PARENTS + MOTHER MAIDEN NAME CONFIRMED.** Hersch Markiel (Geni), b. 1858 Sambor Galicia, d. 1916. Father: Mordko Markiel (= Dov Markel). **Mother: Henie Markiel (born Löw / Low) — NEW maiden name Löw.** Wife: Leah Markiel (born Frey, confirming OQ #12 Leah Frei). Daughter: Minnie Sternbach (née Markel) — potential Ahavath Sholom Sternbach link. Updated [[Henie_Markel]].
+- **OQ #15 Charstee Cooley parents: RESOLVED Moderate Signal.** MyHeritage multi-tree consensus (3 independent user trees): **Father John Joseph Cooley, Mother Emily Susan Cooley** (maternal grandmother maiden Chapman, maternal grandfather surname Black). Full name Charstee **Ann** Cooley King. Updated [[Charstee_King]].
+- **OQ #13 Elizabeth Brasher: ADVANCED.** Multiple MH trees converge: **Parents Thomas Brashier + Sarah Brashier (born Lindsey)** — matches "A Brazier/Brasher Saga" hypothesis.
+- **Leonard Irving Salmanson Hebrew name**: possibly **Leonard Levi Itzhak Salmanson** (namesake of grandfather Rabbi Levi Isaac) per MH tree.
+
 ## 2026-04-22 (part 4) session updates (FamilySearch sweep4: OQ #1 resolved + more H.H. King candidates, 10 queries)
 
 - **OQ #1 (Mary Elizabeth Bright parents): RESOLVED Strong Signal.** 1940 Census Tier 1 confirms Albert Bright (b. 1894 VA) in Rochesterville Monroe NY with wife Rebecca, children Elizabeth (= Mary Elizabeth, our target), George, Robert, Samuel, and his widowed mother "Millie Bright" (= Willie H. Youngblood Bright, already in vault). Corroborates existing [[Albert_Graham_Bright]] tree to Tier 1. Updated OQ #1.

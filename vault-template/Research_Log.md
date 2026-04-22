@@ -10,6 +10,38 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-22 (part 6): MyHeritage + Geni sweep6v2 -- AVALANCHE (12 queries)
+
+### Summary
+
+Sixth browser batch, targeting MyHeritage (user has paid subscription) with UI form-filling (selectors discovered: `input[data-automations="first_name_field"]`, `"last_name_field"`, `"birth_year_open_field_filter"`, `"place_open_field_filter"`, `button[data-automations="search_button"]`) and Geni direct URL search. Script `scripts/sweep6v2-myheritage-geni.js`. 7 MH queries + 5 Geni queries.
+
+### AVALANCHE unlocks
+
+- **OQ #15 (Zawel Deykh Rokiskis): RESOLVED Strong Signal with identity surprise.** Tier 1 **Lithuanian-Jewish Marriages and Divorces from LitvakSIG, 1808-1940** (via MyHeritage): Rokhel Tsine Deych (Zelmenzon), Residence Vidz, b. ~1861, married **Dec 2 1877 Rokiskis, Panevezys, Kaunas**, Groom Leyvi Itsik Zelmenzon (b. ~1855 Borisov), **Father of bride: Zavel MOGIL** (not Deych). The family patriarch's actual surname was **Mogil** (likely from Mogilev/Mahilyow, Belarus). Rokhel Tsine's "Deych" surname likely inherited from her mother or adopted independently. Updated [[Zawel_Deykh]] (renamed in frontmatter to "Zavel Mogil (a.k.a. Zawel Deykh)").
+
+- **Levi Itzhak Zalmanson patriarch FULLY IDENTIFIED.** Two Tier 1-2 sources via MyHeritage:
+  - **LitvakSIG 1877 Rokiskis marriage (Tier 1)**: "Leyvi Itsik Zelmenzon", born ~1855 **Borisov (Barysaw), Belarus** (NOT Lithuania as previously assumed). Rokhel Tsine residence "Vidz" (Vidzy, Lithuania) at marriage.
+  - **FamilySearch Family Tree (Tier 2)**: "Rabbi Levi Isaac Salmanson", b. 1853 Russia, d. Jan 28 1907, wife "Rachel Salmanson (born Deutch)", children **Srol/Izrael Zalmanzon, Gertrude Galetsky (born Solmonson), Barnett Salmanson, Morris Solmonson**. He was a documented rabbi — consistent with Chabad descent via Srul Mendel and Rabbi Levi Yitzchok Zalmanson (1812-1872). Updated [[Levi_Itzhak_Zalmanson]] with birthplace Borisov, rabbinic title, Tier 1 LitvakSIG source, and additional children Gertrude (Galetsky) and Morris.
+
+- **OQ #5 (Bella Measroch): CONFIRMED as Levi Itzhak's second wife.** MyHeritage Geni World Family Tree entry explicitly lists Levi Itzhak with two wives: Rochel Tsine Deych AND Bella Measroch. No longer "speculative" — upgraded to Tier 2-3 consensus.
+
+- **OQ #10 (Hersch Markel): PARENTS + MOTHER'S MAIDEN NAME CONFIRMED.** Geni World Family Tree (via MyHeritage): **Hersch Markiel**, b. 1858 Sambor Galicia Austrian Empire, d. 1916. **Father: Mordko Markiel** (= Mordko Ber = Dov Markel). **Mother: Henie Markiel (born Löw / Low)** — NEW maiden name. **Wife: Leah Markiel (born Frey)** — confirms OQ #12 Leah Frei as Hersch's wife. Daughter: **Minnie Mircha (Minnie) Sternbach (born Markel)** — potential Ahavath Sholom Sternbach connection explaining Morris Markel's community links. Updated [[Henie_Markel]] with maiden name Löw.
+
+- **OQ #15 Charstee Cooley parents: RESOLVED Moderate Signal.** MyHeritage multi-tree consensus (Divine Web Site, Anderson Web Site, Ritters-King-Fenslage-Kruse Family, all independent user trees): **Father John Joseph Cooley, Mother Emily Susan Cooley** (maiden name Chapman or Black; one tree phrases it "Emily Susan Black (born Chapman)" suggesting Emily's father was Black, maternal grandmother surname Chapman). Full name: **Charstee Ann Cooley King**. Updated [[Charstee_King]] with parents.
+
+- **OQ #13 Elizabeth Brasher: ADVANCED.** Multiple MyHeritage trees consistent: parents **Thomas Brashier + Sarah Brashier (born Lindsey)**. Matches the "A Brazier/Brasher Saga" hypothesis already documented in vault. Tier 2-3 convergent.
+
+- **Leonard Irving Salmanson full name: possibly "Leonard Levi Itzhak Salmanson"** (MH tree) — named after grandfather Rabbi Levi Isaac. Leonard's Hebrew name may have preserved the rabbinic namesake; his anglicized name was "Leonard Irving."
+
+### Geni direct URL searches returned 0 results
+
+All 5 Geni direct-URL searches returned "No results found" -- Geni's search URL format `https://www.geni.com/search?search_type=people&names=X` apparently does not surface our targets (though we know from MyHeritage that at least Levi Itzhak and Hersch Markiel DO have Geni profiles, since MyHeritage indexes Geni's World Family Tree). The Geni profiles are reachable only via known direct URLs or through MyHeritage's federated search. Not a priority to pursue further.
+
+### Technical note
+
+First attempt at MyHeritage used placeholder-based selectors (`input[placeholder*="First"]`) which did not match (MyHeritage inputs have no placeholder text). Discovery script `scripts/mh-discover-form.js` enumerated all visible inputs and revealed the form uses `data-automations` attributes. Second attempt with correct selectors worked flawlessly.
+
 ## 2026-04-22 (part 5): FamilySearch sweep5 -- strategic unlock top-5 attempt (11 queries)
 
 ### Summary

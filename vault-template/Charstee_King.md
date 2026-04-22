@@ -23,8 +23,10 @@ tags: [genealogy, king, cooley, person, south-carolina, greenville, oaklawn]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Charstee A. Cooley King | Find a Grave photo inscription + headstone (Tier 2) |
-| Maiden Name | **Cooley** (Strong Signal) | 3 independent FamilySearch-indexed sources located 2026-04-22: Find a Grave Index "Charstee A. Cooley King" (Tier 2); SC Deaths 1915-1973 naming Charity Cooley as mother of James Edward King with spouse Judson King (Tier 1); 1900 Census household lists Oryley H Cooley (M, 24) as co-resident of Judson King home (Tier 1). Photo inscription on Find a Grave #8422324 (Tier 2) is the original attestation. |
+| Full Name | **Charstee Ann Cooley King** (middle name **Ann** confirmed) | MyHeritage multiple trees consensus (2026-04-22 sweep6v2); Find a Grave "Charstee A. Cooley King" |
+| Maiden Name | **Cooley** (Strong Signal) | 3 independent FamilySearch-indexed sources + MyHeritage tree consensus. FS: Find a Grave Index, SC Deaths 1915-1973, 1900 Census co-resident Oryley H Cooley. MH: multiple user trees converge on Cooley. |
+| **Father** | **John Joseph Cooley** | **MyHeritage multiple tree consensus (Tier 2-3, located 2026-04-22)**: Divine Web Site, Anderson Web Site, Ritters-King-Fenslage-Kruse Family |
+| **Mother** | **Emily Susan Cooley** (maiden name: Black or Chapman; one tree lists "Emily Susan Black born Chapman" suggesting Emily's father was Black and Emily's mother was Chapman) | MyHeritage trees (Tier 2-3, located 2026-04-22) |
 | Born | June 30, 1842 | Headstone at Fork Shoals Baptist Church Cemetery |
 | Birthplace | South Carolina | 1880 Census (Tier 1) |
 | Died | March 15, 1921 | Headstone at Fork Shoals Baptist Church Cemetery |

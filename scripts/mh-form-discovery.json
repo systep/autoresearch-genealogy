@@ -1,0 +1,439 @@
+{
+  "inputs": [
+    {
+      "idx": 0,
+      "tag": "a",
+      "type": null,
+      "name": null,
+      "id": "go_premium",
+      "placeholder": null,
+      "ariaLabel": "Order DNA kits",
+      "className": "css_button css_button_small css_button_success css_button_925146912 js_dna_order",
+      "value": "undefined",
+      "text": "Order DNA kits\n\n    (function () {\n        var elements = do",
+      "dataAutomations": null
+    },
+    {
+      "idx": 1,
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "dropdown_header",
+      "value": "",
+      "text": "L.D. Salmanson",
+      "dataAutomations": "user_menu"
+    },
+    {
+      "idx": 2,
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "dropdown_header",
+      "value": "",
+      "text": "Help",
+      "dataAutomations": "help_menu"
+    },
+    {
+      "idx": 3,
+      "tag": "a",
+      "type": null,
+      "name": null,
+      "id": "user_strip_language_picker",
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "user_strip_item",
+      "value": "undefined",
+      "text": "English",
+      "dataAutomations": null
+    },
+    {
+      "idx": 4,
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": "Accessibility",
+      "className": "accessibility_button",
+      "value": "",
+      "text": "Accessibility",
+      "dataAutomations": "accessibility_button"
+    },
+    {
+      "idx": 5,
+      "tag": "input",
+      "type": "text",
+      "name": null,
+      "id": ":R559f:",
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "text_field input_control text_input search_field_input",
+      "value": "",
+      "text": "",
+      "dataAutomations": "first_name_field"
+    },
+    {
+      "idx": 6,
+      "tag": "input",
+      "type": "text",
+      "name": null,
+      "id": ":R599f:",
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "text_field input_control text_input search_field_input",
+      "value": "",
+      "text": "",
+      "dataAutomations": "last_name_field"
+    },
+    {
+      "idx": 7,
+      "tag": "input",
+      "type": "text",
+      "name": null,
+      "id": ":R5d9f:",
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "text_field input_control text_input search_field_input search_form_year_field",
+      "value": "",
+      "text": "",
+      "dataAutomations": "birth_year_open_field_filter"
+    },
+    {
+      "idx": 8,
+      "tag": "input",
+      "type": "text",
+      "name": null,
+      "id": ":R5h9f:",
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "text_field input_control text_input search_field_input",
+      "value": "",
+      "text": "",
+      "dataAutomations": "place_open_field_filter"
+    },
+    {
+      "idx": 9,
+      "tag": "button",
+      "type": "submit",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": "Search",
+      "className": "button_component allow_hover shape_rounded hierarchy_primary spinner_button form_submit_button",
+      "value": "",
+      "text": "Search",
+      "dataAutomations": "search_button"
+    },
+    {
+      "idx": 10,
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "icon_button delete_icon size_small shape_circle outline_none",
+      "value": "",
+      "text": "",
+      "dataAutomations": null
+    },
+    {
+      "idx": 11,
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "icon_button delete_icon size_small shape_circle outline_none",
+      "value": "",
+      "text": "",
+      "dataAutomations": null
+    },
+    {
+      "idx": 12,
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "icon_button delete_icon size_small shape_circle outline_none",
+      "value": "",
+      "text": "",
+      "dataAutomations": null
+    },
+    {
+      "idx": 13,
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "icon_button delete_icon size_small shape_circle outline_none",
+      "value": "",
+      "text": "",
+      "dataAutomations": null
+    },
+    {
+      "idx": 14,
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "icon_button delete_icon size_small shape_circle outline_none",
+      "value": "",
+      "text": "",
+      "dataAutomations": null
+    },
+    {
+      "idx": 15,
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "icon_button delete_icon size_small shape_circle outline_none",
+      "value": "",
+      "text": "",
+      "dataAutomations": null
+    },
+    {
+      "idx": 16,
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "icon_button delete_icon size_small shape_circle outline_none",
+      "value": "",
+      "text": "",
+      "dataAutomations": null
+    },
+    {
+      "idx": 17,
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "icon_button delete_icon size_small shape_circle outline_none",
+      "value": "",
+      "text": "",
+      "dataAutomations": null
+    },
+    {
+      "idx": 18,
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "icon_button delete_icon size_small shape_circle outline_none",
+      "value": "",
+      "text": "",
+      "dataAutomations": null
+    },
+    {
+      "idx": 19,
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "icon_button delete_icon size_small shape_circle outline_none",
+      "value": "",
+      "text": "",
+      "dataAutomations": null
+    },
+    {
+      "idx": 20,
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "icon_button navigation_button prev size_medium shape_circle outline_none",
+      "value": "",
+      "text": "",
+      "dataAutomations": null
+    },
+    {
+      "idx": 21,
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": null,
+      "className": "icon_button navigation_button next button_visible size_medium shape_circle outline_none",
+      "value": "",
+      "text": "",
+      "dataAutomations": null
+    },
+    {
+      "idx": 22,
+      "tag": "a",
+      "type": null,
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": "Facebook",
+      "className": "facebook",
+      "value": "undefined",
+      "text": "",
+      "dataAutomations": null
+    },
+    {
+      "idx": 23,
+      "tag": "a",
+      "type": null,
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "ariaLabel": "Twitter",
+      "className": "twitter",
+      "value": "undefined",
+      "text": "",
+      "dataAutomations": null
+    }
+  ],
+  "forms": [],
+  "labels": [
+    {
+      "text": "First and middle name(s)",
+      "forId": ":R559f:"
+    },
+    {
+      "text": "Match name exactly",
+      "forId": null
+    },
+    {
+      "text": "Last name",
+      "forId": ":R599f:"
+    },
+    {
+      "text": "Match name exactly",
+      "forId": null
+    },
+    {
+      "text": "Year of birth",
+      "forId": ":R5d9f:"
+    },
+    {
+      "text": "Match year exactly",
+      "forId": null
+    },
+    {
+      "text": "Place",
+      "forId": ":R5h9f:"
+    },
+    {
+      "text": "Place must match",
+      "forId": null
+    },
+    {
+      "text": "First and middle name(s)",
+      "forId": ":r0:"
+    },
+    {
+      "text": "Match name exactly",
+      "forId": null
+    },
+    {
+      "text": "Spelling variations",
+      "forId": null
+    },
+    {
+      "text": "Match initials",
+      "forId": null
+    },
+    {
+      "text": "Starts with specific letters",
+      "forId": null
+    },
+    {
+      "text": "Last name",
+      "forId": ":r2:"
+    },
+    {
+      "text": "Match name exactly",
+      "forId": null
+    },
+    {
+      "text": "First and middle name(s)",
+      "forId": ":r4:"
+    },
+    {
+      "text": "Match name exactly",
+      "forId": null
+    },
+    {
+      "text": "Spelling variations",
+      "forId": null
+    },
+    {
+      "text": "Match initials",
+      "forId": null
+    },
+    {
+      "text": "Starts with specific letters",
+      "forId": null
+    },
+    {
+      "text": "Last name",
+      "forId": ":r6:"
+    },
+    {
+      "text": "Match name exactly",
+      "forId": null
+    },
+    {
+      "text": "First and middle name(s)",
+      "forId": ":r8:"
+    },
+    {
+      "text": "Match name exactly",
+      "forId": null
+    },
+    {
+      "text": "Spelling variations",
+      "forId": null
+    },
+    {
+      "text": "Match initials",
+      "forId": null
+    },
+    {
+      "text": "Starts with specific letters",
+      "forId": null
+    },
+    {
+      "text": "Last name",
+      "forId": ":ra:"
+    },
+    {
+      "text": "Match name exactly",
+      "forId": null
+    },
+    {
+      "text": "Day",
+      "forId": ":rc:"
+    }
+  ]
+}

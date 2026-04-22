@@ -1,32 +1,47 @@
 ---
 type: person
-name: "Levi Itzhak Zalmanson"
-born: 1851
-died: ~1907
+name: "Rabbi Levi Isaac (Levi Itzhak) Zalmanson / Salmanson (Leyvi Itsik Zelmenzon)"
+born: "~1855 Borisov (Barysaw), Belarus"
+died: "1907-01-28"
 family: "Zalmanson"
 confidence: high
 sources:
-  - "MyHeritage family tree"
-  - "Geni.com profile for Rabbi Levi Yitzchok Zalmanson (1812-1872), family tree lists Srul Mendel and descendants including Levi Itzhak (Tier 3)"
+  - "Lithuanian-Jewish Marriages and Divorces from LitvakSIG, 1808-1940 (Tier 1, located 2026-04-22): Leyvi Itsik Zelmenzon, b. ~1855 Borisov, married Rokhel Tsine Deych Dec 2 1877 Rokiskis"
+  - "Lithuanian-Jewish Records from LitvakSIG, 1795-1940 (Tier 1): same marriage record"
+  - "FamilySearch Family Tree (Tier 2): Rabbi Levi Isaac Salmanson, b. 1853 Russia, d. Jan 28 1907, wife Rachel Salmanson (born Deutch), children Srol/Izrael, Gertrude Galetsky, Barnett Salmanson, Morris Solmonson"
+  - "MyHeritage family tree consensus (Tier 2-3)"
+  - "Geni World Family Tree (Tier 2-3)"
   - "MyHeritage GEDCOM export (Tier 3)"
 created: 2026-04-09
-tags: [genealogy, zalmanson, person, lithuania, rokiskis]
+updated: 2026-04-22
+tags: [genealogy, zalmanson, salmanson, rabbi, person, belarus, borisov, lithuania, rokiskis]
 ---
 
-# Levi Itzhak Zalmanson
+# Rabbi Levi Isaac (Levi Itzhak) Zalmanson / Salmanson
+
+## 2026-04-22 Major Revision — Birthplace and Rabbinic Title Confirmed
+
+**Tier 1 LitvakSIG** Rokiskis 1877 marriage record (located via MyHeritage 2026-04-22) documents him as **"Leyvi Itsik Zelmenzon", born ~1855 in Borisov (Barysaw), Belarus** -- resolving his actual birthplace (NOT Lithuania as previously assumed) and providing a primary-source birth year estimate.
+
+**Tier 2 FamilySearch Family Tree** gives his American name as **"Rabbi Levi Isaac Salmanson"** with death January 28, 1907, wife Rachel Salmanson (born Deutch), and children Srol/Izrael Zalmanzon, Gertrude Galetsky (born Solmonson), Barnett Salmanson, Morris Solmonson.
+
+He is documented as a **rabbi** in FamilySearch, consistent with his descent from the Chabad dynasty (via Srul Mendel Zalmanson to Rabbi Levi Yitzchok Zalmanson 1812-1872).
 
 ## Vital Information
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Levi Itzhak Zalmanson | MyHeritage |
-| Born | 1851 | MyHeritage |
-| Died | ~January 28, 1907 (unverified) | MyHeritage GEDCOM export (Tier 3) |
-| Father | [[Srul_Mendel_Zalmanson]] (1820-1854) | MyHeritage |
-| Mother | [[Gita_Zalmanson]] | MyHeritage |
-| Spouse 1 | [[Rochel_Tsine_Deych]] (b. 1861; m. December 2, 1877, Rokiškis, Lithuania) | MyHeritage |
-| Spouse 2 | Bella (born Measroch) | MyHeritage |
-| Children (with Rochel Tsine) | Gita Zalmanson, Zalman Zalmanson, [[Barnett_Salmanson]] (Berko Zalmanson) | MyHeritage |
+| Full Name (Hebrew/Yiddish) | **Leyvi Itsik Zelmenzon** | LitvakSIG 1877 marriage (Tier 1) |
+| Anglicized Name | **Rabbi Levi Isaac Salmanson** | FamilySearch Family Tree (Tier 2) |
+| Religious role | Rabbi | FamilySearch Family Tree |
+| Born | **~1855, Borisov (Barysaw), Minsk Region, Belarus** | LitvakSIG 1877 marriage (Tier 1) [prior vault 1851 superseded] |
+| Died | **January 28, 1907** | FamilySearch Family Tree (Tier 2, previously Tier 3 GEDCOM) |
+| Father | [[Srul_Mendel_Zalmanson]] | MyHeritage consensus (Tier 2-3) |
+| Mother | [[Gita_Zalmanson]] | MyHeritage consensus (Tier 2-3) |
+| Spouse 1 | [[Rochel_Tsine_Deych]] (Rokhel Tsine Deych, Zelmenzon after marriage) (b. ~1861 Vidzy, Lithuania; m. **December 2, 1877, Rokiskis, Lithuania**) | LitvakSIG 1877 marriage (Tier 1) |
+| Spouse 2 | **Bella (born Measroch)** — CONFIRMED via MH consensus | MyHeritage + Geni (Tier 2-3) -- resolves OQ #5 |
+| Children (with Rochel Tsine) | Srol/Izrael Zalmanzon, Gertrude Galetsky (born Solmonson), Zalman Zalmanson, [[Barnett_Salmanson]] (Berko), Morris Solmonson, plus Gita, Mendel, Movsha, Iosel per GEDCOM | FamilySearch Family Tree + GEDCOM |
+| Children (with Bella Measroch) | Not yet identified | — |
 
 ## Biography
 
