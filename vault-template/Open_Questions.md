@@ -5,6 +5,16 @@ updated: 2026-04-22
 tags: [genealogy, research, open-questions]
 ---
 
+## 2026-04-22 (part 2) session updates (FamilySearch browser-emulation next-10 follow-up, 11 queries)
+
+- **Landreth King 1910 Census: NEW FAMILY BRANCH UNLOCKED.** Judson and Charstee's son [[Landreth_King]] (b. 1880 SC, previously found in 1900 household as age 19) is confirmed in 1910 Oaklawn Greenville SC with wife **Polly E King** and children **Marvin E King, Roy L King**. Correct spelling is **Landreth** (not Landrath). This is a complete new sub-branch of the King family.
+- **OQ #15 (Charstee Cooley family): EXTENDED to probable sibling James Cooley.** Halbert O. Cooley 1880 Census (Dunklin Greenville SC, b. 1879, parents **James Cooley + Margaret Cooley**, siblings Mamy and Willie) is almost certainly the same person as "Oryley H Cooley" indexed as a co-resident of Judson King's 1900 household (name reversal + age-4 in 1880 → age-24 in 1900 → approximate match). Working hypothesis: **James Cooley is Charstee's brother**; chasing his parents' identity via 1860 census will establish Charstee's parents. Next: pull Halbert/James Cooley 1880 record image for full household data.
+- **Andrew Lewis King full name CONFIRMED (NUMIDENT SSN index, Tier 1)** -- resolves "Andrew L." from 1880 census.
+- **Possible Barnett Salmanson 1910 Census mis-indexed as "Barnett Solomon", Brooklyn NY** (b. 1884 Russia, wife Lizzie Solomon). Not confirmed but pattern matches strongly: Brooklyn location matches son Samuel b. Brooklyn Jun 1912, Russian birth, 1884 date within 1 year of confirmed 1885, wife "Lizzie" matches Elizabeth. Requires image verification.
+- **OQ #17 (H.H. King): NO SURFACE-LEVEL HIT across 3 attempts.** (a) King Pelzer 1910: 643 results, H.H. not in top rows. (b) King Pelzer 1920: 707 results, H.H. not in top rows. (c) Given-name "H" Greenville 1900: 24 results, top is wrong person (John H King b. England 1848). H.H. King is likely indexed under full first name -- next strategy: search for individual known sons of Judson (Andrew Lewis, James Edward, William C., John W.) as independent heads of household, filter by Pelzer/Greenville.
+- **OQ #23 (Morris Markel 1930): Markal variant returned only Markwalter VA false positives; Workel variant returned 0 hits.** Both variants confirmed as not the indexing of Morris Markel's 1930 RI record. Remaining to try: Moseszi, Moshe, Morris Markiel, or surname-only in RI.
+- **OQ #1 (Mary E Bright parents): Albert G Bright 1940 without birthplace filter returned wrong person** (Corpus Christi TX b. 1888 TX). Needs birthplace=Virginia filter for the correct Albert (b. ~1894 VA).
+
 ## 2026-04-22 session updates (FamilySearch browser-emulation top-5 unlock, 13 queries)
 
 - **OQ #15 (Judson King wife maiden name Cooley): RESOLVED Strong Signal.** Three independent FamilySearch-indexed sources now confirm Cooley: (a) Find a Grave Index "Charstee A. Cooley King" (b. 30 June 1842, d. 15 March 1921, Pelzer); (b) SC Deaths 1915-1973 naming Charity Cooley as mother of James Edward King with spouse Judson King; (c) 1900 Census (ARK M3TM-NCY) household includes Oryley H Cooley (M, 24, SC) as co-resident in Judson's home. The maiden name Cooley is now Tier 1/2 corroborated.

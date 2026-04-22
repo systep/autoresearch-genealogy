@@ -10,6 +10,37 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-22 (part 2): FamilySearch browser-emulation next-10 follow-up (11 queries)
+
+### Summary
+
+Follow-up batch after the top-5 unlock session earlier the same day. Script `scripts/next10-searches.js`; results `scripts/next10-results.json`; screenshots `scripts/screenshots/next10/`. 11 queries total.
+
+### New unlocks
+
+- **Landreth King 1910 Census: NEW FAMILY BRANCH UNLOCKED.** 1910 Oaklawn, Greenville SC. Birth 1880 SC. **Wife Polly E King. Children: Marvin E King, Roy L King.** This is the son Landrath/Landreth King first identified in Judson King's 1900 household (ARK M3TM-NCY, age 19). Correct indexed spelling is **Landreth** (not Landrath). By 1910 he had his own household in the same township, married with at least 2 sons. Created [[Landreth_King]] person file.
+- **Halbert O. Cooley 1880 Census: likely identity of "Oryley H Cooley" (1900 Judson household co-resident).** 1880 Dunklin Greenville SC, b. 1879, parents **James Cooley + Margaret Cooley**, siblings Mamy Cooley and Willie Cooley. Location (Dunklin = adjacent to Oaklawn = Judson's township), approximate age match (age 4 in 1880 → age 24 in 1900, off by ~3 years), and name reversal (Halbert O. ↔ Oryley H, indexer error) make this a strong candidate. Working hypothesis: **James Cooley is Charstee Cooley King's brother**, making Halbert her nephew and placing Charstee's parents as James Cooley's parents (to be identified via 1860 or earlier census).
+- **Andrew Lewis King full name: Tier 1 confirmation.** United States Social Security NUMIDENT 1936-2007 index entry names Charstee A Cooley as mother of **Andrew Lewis King** -- confirms the "Andrew L." of the 1880 census.
+
+### Candidate (needs image verification)
+
+- **Barnett Salmanson 1910 Census may be indexed as "Barnett Solomon" in Brooklyn Kings NY.** Top hit on "Barnett Salmanson 1910" search: Barnett Solomon, 1910 Census, Brooklyn, Kings, New York, Birth 1884 Russia, Spouses Lizzie Solomon. Pattern match: (a) Brooklyn location matches son Samuel b. Brooklyn June 1912; (b) Russian birth matches Vilna; (c) 1884 birth is within 1 year of confirmed 1885; (d) wife "Lizzie" matches Elizabeth Salk. "Salmanson" → "Solomon" is a plausible indexer simplification of an unfamiliar Russian-Jewish surname. Requires clicking into the record image to confirm.
+
+### Confirmed negatives
+
+- **H.H. King not in top rows** of (a) King surname Pelzer SC 1910 (643 results), (b) King surname Pelzer SC 1920 (707 results), (c) H given-name King Greenville 1900 (24 results). H.H. King is probably indexed under his full given name rather than "H.H." or "H.", requiring a different search strategy (e.g., sons Andrew Lewis King or James Edward King as independent households).
+- **Morris Markal 1930 RI Census: 3 results, all Markwalter (Virginia).** Markal spelling variant does not resolve OQ #23. Consistent with "Markal" being specifically a 1940 census misspelling only.
+- **Morris Workel 1930 RI Census: 0 results.**
+- **Albert G Bright 1940 Census: 950 results**, top hit is Corpus Christi TX (b. 1888 TX) — not our Virginia-born Albert (b. ~1894). Needs birthplace=Virginia filter.
+
+### Action items generated
+
+- [ ] Click into Landreth King 1910 record for full household enumeration (ARK not yet captured).
+- [ ] Click into Halbert O. Cooley 1880 record for full family enumeration and James Cooley's birth year/place to chase Charstee's parents.
+- [ ] Click into "Barnett Solomon" Brooklyn 1910 record image to confirm identity match.
+- [ ] Retry H.H. King search via sons-of-Judson as independent heads (Andrew Lewis King, James Edward King, John W. King, Landreth King, William C. King in 1900/1910 Greenville/Anderson).
+- [ ] Rerun Albert G Bright 1940 with birthplace=Virginia filter.
+
 ## 2026-04-22: FamilySearch browser-emulation top-5 unlock session (13 queries)
 
 ### Summary

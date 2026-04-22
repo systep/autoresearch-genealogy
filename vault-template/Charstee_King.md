@@ -46,6 +46,20 @@ In 1910, Charstee (67) and Judson (68) were living with a nephew, Luther Pressle
 
 She is buried at **Fork Shoals Baptist Church Cemetery** (110 Fork Shoals Church Road, Pelzer, Greenville County, SC) alongside Judson and several of their children.
 
+## Probable Siblings (Cooley family of Dunklin, Greenville Co, SC)
+
+**Working hypothesis (2026-04-22)**: Charstee Cooley's brother was **James Cooley**, who lived in Dunklin Township, Greenville County, SC (adjacent to Charstee's Oaklawn Township) in 1880. James Cooley's family:
+
+| Name | Role | Born | Source |
+|---|---|---|---|
+| James Cooley | Father (probable brother of Charstee) | | 1880 Census, Dunklin Greenville SC (Tier 1) |
+| Margaret Cooley | Mother (wife of James) | | 1880 Census, Dunklin Greenville SC (Tier 1) |
+| Halbert O. Cooley | Son (likely = "Oryley H Cooley" b. ~1876 in Judson King's 1900 household) | 1879 | 1880 Census (Tier 1) |
+| Mamy Cooley | Daughter | | 1880 Census (Tier 1) |
+| Willie Cooley | Son | | 1880 Census (Tier 1) |
+
+The identification of Halbert O. Cooley with "Oryley H Cooley" (1900 Judson King household, age 24) rests on: (a) name reversal (Halbert O. ↔ Oryley H) as plausible indexer error; (b) geographic match (Dunklin adjacent to Oaklawn, where Judson lived); (c) age match within typical indexing tolerance (age 4 in June 1880 → age 24 in June 1900 = off by ~3 years). If Halbert = Oryley H, then James Cooley is the most likely brother of Charstee (the nephew boarding with her in 1900). Charstee's parents would then be James Cooley's parents, identifiable via the 1860 or 1850 Census. HUMAN ACTION REQUIRED to pull James Cooley's 1860 or earlier record.
+
 ## Children (expanded from cemetery records)
 
 | Name | Born | Died | Notes | Source |
@@ -55,7 +69,8 @@ She is buried at **Fork Shoals Baptist Church Cemetery** (110 Fork Shoals Church
 | Bessie C. King | 1871 | 1964 | | Fork Shoals Baptist Church Cemetery headstone |
 | John W. King | 1873 | 1957 | | Fork Shoals Baptist Church Cemetery headstone |
 | Dora S. King | | | Per 1880 Census | 1880 Census (Tier 1) |
-| Andrew L. King | May 11, 1878 | August 16, 1960 | Wife: Emma Coker King (1883-1945) | Fork Shoals Baptist Church Cemetery |
+| Andrew Lewis King | May 11, 1878 | August 16, 1960 | Full name "Andrew Lewis" confirmed via NUMIDENT SSN index Tier 1 (2026-04-22). Wife: Emma Coker King (1883-1945) | Fork Shoals Baptist Church Cemetery; NUMIDENT |
+| Landreth King | ~1880 | | Confirmed in 1900 Census household as son age 19; 1910 Census as head with wife Polly E and sons Marvin E and Roy L. See [[Landreth_King]] | 1900/1910 Census (Tier 1) |
 | Mary E. King | | | Per 1880 Census | 1880 Census (Tier 1) |
 | James E. King | | | Per 1880 Census | 1880 Census (Tier 1) |
 | William C. King | | | Per 1880 Census | 1880 Census (Tier 1) |

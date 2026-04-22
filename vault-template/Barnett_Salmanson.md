@@ -117,7 +117,20 @@ A systematic search of free web resources (Steve Morse One Step, JewishGen EIDB,
 
 ## Census Search (2026-04-18)
 
-### 1910 Census (not located)
+### 1910 Census (candidate: possibly mis-indexed as "Barnett Solomon")
+
+**2026-04-22 browser sweep finding**: Top hit on FamilySearch search "Barnett Salmanson 1910": **Barnett Solomon, 1910 Census, Brooklyn, Kings, New York, Birth 1884 Russia, Spouses Lizzie Solomon**.
+
+Pattern match for Barnett Salmanson:
+- **Brooklyn location** matches son Samuel b. Brooklyn June 1912 (family was in NYC at that time)
+- **Russian birth** matches Vilna (Russian Empire)
+- **1884 birth** is within 1 year of confirmed 1885 (age-rounding within indexing tolerance)
+- **Wife "Lizzie"** is a plausible nickname for Elizabeth Salk (they married Sep 12, 1909, so the April 1910 enumeration catches them as newlyweds)
+- **"Salmanson" → "Solomon"** is a plausible indexer simplification of an unfamiliar Russian-Jewish surname
+
+**Not yet confirmed**: image not pulled. Requires clicking through to the record detail to verify by cross-referencing address, occupation, family composition, and handwriting on the original enumeration form. If confirmed, this is Barnett's 1910 Census record.
+
+### 1910 Census (earlier search status)
 
 10 web searches conducted for Barnett/Benjamin Salmanson/Salmonson in the 1910 US Federal Census. **No individual census record was located through free web search.** All census record databases (Ancestry, FamilySearch individual records, Findmypast) require login or paid access for individual name queries.
 

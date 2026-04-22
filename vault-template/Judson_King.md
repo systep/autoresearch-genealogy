@@ -86,6 +86,11 @@ The death certificate informant was H.H. King of Pelzer, SC. None of the seven c
 
 Landrath King (b. ~1881) is a previously undocumented post-1880 son. John F King (b. ~1889) is listed as "Other People on This Record" rather than as a child and may be a grandson or ward. Oryley H Cooley (b. ~1876) is the first confirmed Cooley relative co-resident with Judson and Charstee, providing Tier 1 corroboration of the Cooley maternal line.
 
+**2026-04-22 follow-up**:
+- **Landrath King = [[Landreth_King]]** (correct spelling per 1910 Census). 1910 Census (Oaklawn Greenville SC) shows him as head of household with wife **Polly E King** and sons **Marvin E King** and **Roy L King** -- a complete new sub-branch of Judson's family. See [[Landreth_King]].
+- **Oryley H Cooley is probably the same person as Halbert O. Cooley** who appears in the 1880 Census (Dunklin, Greenville SC, b. 1879) as son of **James Cooley + Margaret Cooley**, with siblings Mamy and Willie. Name reversal (Halbert O. ↔ Oryley H) is a plausible indexer error; location adjacent to Oaklawn; age 4 in 1880 → ~24 in 1900 (within indexing tolerance). Working hypothesis: **James Cooley is Charstee's brother**, making Halbert her nephew. To chase Charstee's parents: pull James Cooley's 1860 or earlier census record.
+- **Andrew L. King full name = Andrew Lewis King** (confirmed Tier 1 via NUMIDENT SSN index naming Charstee A Cooley as mother).
+
 **Note on township**: The 1880 and 1920 censuses place Judson in Oaklawn Township, while the 1921 death certificate records Dunklin Township. These are adjacent areas in southern Greenville County. Judson likely lived near the boundary, or the township lines may have shifted.
 
 ## Relationship to Other King Family Members
