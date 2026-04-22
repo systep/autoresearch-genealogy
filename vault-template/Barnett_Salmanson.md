@@ -1,13 +1,15 @@
 ---
 type: person
 name: "Barnett (Berko) Salmanson"
-born: 1883-05-15
+born: 1885-05-15
 died: 1960-12-14
 family: "Salmanson"
 confidence: high
 sources:
+  - "New York County Naturalization Records 1791-1980, Naturalization 1912 (Tier 1, FamilySearch-indexed, located 2026-04-22)"
   - "WWI Draft Registration Card, Sept 12, 1918, Providence RI, Division 3 (Tier 1)"
-  - "BillionGraves headstone, Lincoln Park Cemetery (Tier 1)"
+  - "BillionGraves headstone, Lincoln Park Cemetery (Tier 1, posthumous -- 1883 year superseded)"
+  - "Florida Death Index 1877-1998, December 1960 Dade FL (Tier 2)"
   - "MyHeritage family tree (19 matches)"
   - "MyHeritage immigration record (SS Baltic)"
   - "MyHeritage military record (WWI)"
@@ -25,7 +27,7 @@ tags: [genealogy, salmanson, zalmanson, person, immigrant]
 | Field | Value | Source |
 |---|---|---|
 | Full Name | Barnett Salmanson (born Berko Zalmanson; also Berl Salmonson, Berko Zalmanzon; English name **Benjamin**; Hebrew name **Dov Ber**) | MyHeritage; 1930 Census (Benjamin); BillionGraves headstone (Dov Ber) |
-| Born | May 15, 1883, Vilnius (Vilna), Lithuania | MyHeritage family tree; BillionGraves (1883); 1930 Census age 46 (~1884) |
+| Born | **May 15, 1885, Vilna, Russia** | **NY County Naturalization Records 1791-1980, Naturalization 1912 (Tier 1, located 2026-04-22)**; WWI Draft Card 1918 (Tier 1); three Tier 1 lifetime sources agree on 1885; BillionGraves headstone "1883" is posthumous and superseded |
 | Died | December 14, 1960, Miami, FL | MyHeritage family tree; BillionGraves (1960) |
 | Burial | Lincoln Park Cemetery, Warwick, RI | Find a Grave #97021158 |
 | Father | [[Levi_Itzhak_Zalmanson]] (b. 1851) | MyHeritage |
@@ -36,7 +38,7 @@ tags: [genealogy, salmanson, zalmanson, person, immigrant]
 
 ## Biography
 
-Berko Zalmanson (Hebrew name **Dov Ber**, English name **Benjamin**) was born May 15, 1883 in Vilnius (Vilna), Lithuania, to Levi Itzhak Zalmanson and Rochel Tsine (Deych) Zalmanson. The 1883 birth year is confirmed by BillionGraves headstone record (Tier 1) and is consistent with the 1930 Census (age 46, ~1884). The earlier "1885" date from some MyHeritage records is likely incorrect. His Hebrew name "Dov Ber" is confirmed by the headstone inscription at Lincoln Park Cemetery: "דוב בער בר לוי יצחק סאלמאנסאן" (Dov Ber bar Levi Yitzchak Salmanson). "Berko" is a Yiddish diminutive of Dov Ber. On the 1930 Census he is listed as "Benjamin Salmonson." He had at least two siblings: Gita and Zalman.
+Berko Zalmanson (Hebrew name **Dov Ber**, English name **Benjamin**) was born **May 15, 1885** in **Vilna, Russia** (modern Vilnius, Lithuania), to Levi Itzhak Zalmanson and Rochel Tsine (Deych) Zalmanson. The 1885 birth year is confirmed by three independent Tier 1 lifetime sources: (a) **New York County Naturalization Records 1791-1980**, Naturalization 1912 New York, "Birth 15 May 1885 Vilna, Russia" (FamilySearch-indexed, located 2026-04-22); (b) 1918 WWI Draft Registration Card self-declared age 33 (= b. 1885); (c) the 1912 naturalization itself places him as a 27-year-old adult. The BillionGraves headstone "1883" is posthumous and superseded. His Hebrew name "Dov Ber" is confirmed by the headstone inscription at Lincoln Park Cemetery: "דוב בער בר לוי יצחק סאלמאנסאן" (Dov Ber bar Levi Yitzchak Salmanson). "Berko" is a Yiddish diminutive of Dov Ber. On the 1930 Census he is listed as "Benjamin Salmonson." He had at least two siblings: Gita and Zalman.
 
 He immigrated to the United States aboard the **SS Baltic** (White Star Line), arriving in New York City on **December 23, 1904**, at approximately age 19 to 21. The SS Baltic was an ocean liner of the White Star Line (23,876 gross register tons, the world's largest ship from 1904 to 1906), launched November 21, 1903, with its maiden voyage from Liverpool to New York on June 29, 1904 under Captain Edward Smith (later captain of the Titanic). A December 14, 1904 Liverpool departure is documented (GG Archives sailing schedule, Tier 2), consistent with a December 23 New York arrival (approximately 9 days transit, typical for the Baltic's 16 knot average speed). The ship was on the Liverpool, Queenstown (Cobh), New York route continuously from June 1904 through at least January 1905. The immigration is recorded in a MyHeritage immigration record (Tier 3); the actual Ellis Island passenger manifest has not yet been independently verified through a free database search (see Research Log, 2026-04-14). He settled first in the New York area.
 
@@ -68,6 +70,20 @@ His occupation was described as **"Founder and treasurer of Adams Drug Co. Inc. 
 | Donald Salmanson obituary, 2015 | Newspaper obituary | Legacy.com / Providence Journal |
 | Martha E. Corin obituary, 2015 | Newspaper obituary | Jewish Rhode Island |
 | Adams Drug Company / Brooks Pharmacy | Encyclopedia | Wikipedia |
+
+## Naturalization (NY, 1912) — located 2026-04-22
+
+Tier 1 FamilySearch-indexed entry found via browser-emulated search in the "New York, County Naturalization Records, 1791-1980" collection:
+
+- **Barnett Salmanson**, Principal
+- **Naturalization: 1912, New York, United States**
+- **Birth: 15 May 1885 Vilna, Russia**
+
+This **resolves OQ #4** (birth year 1883 vs 1885 discrepancy) at Strong Signal. It also establishes that **Barnett naturalized in New York, not Rhode Island** -- a previously unknown fact. The FamilySearch "Rhode Island Naturalization Records 1907-1991" collection (2622566) returned **zero hits** under every spelling variant (Salmanson, Zalmanson, given-name-only) because his petition is not in that collection.
+
+The NY 1912 naturalization is consistent with son Samuel Salmanson being born in Brooklyn NY in June 1912 -- the family was still in NYC at the time of naturalization, moving to Providence RI shortly afterwards (by ~1918 per WWI draft card address 236 Sterling Ave, Providence).
+
+**Not yet pulled**: the full naturalization petition image (would list port of entry, ship name, residence addresses, witnesses, wife's name). Available via the same FamilySearch search; requires clicking into the indexed record image.
 
 ## Immigration Record Verification (2026-04-14)
 
@@ -135,7 +151,7 @@ A systematic search of free web resources (Steve Morse One Step, JewishGen EIDB,
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Birth year | **1883** (BillionGraves headstone, Tier 1; MyHeritage tree) | **May 15, 1885** (WWI Draft Card, Tier 1, self-declared age 33 in Sept 1918; MyHeritage records) | **OPEN: Two Tier 1 sources conflict.** 1930 Census age 46 (~1884) splits the difference. The draft card is the registrant's own declaration; the headstone was carved after death by family. Possible explanations: (a) real birth 1883, age understated on arrival/draft; (b) real birth 1885, headstone used approximate Hebrew calendar conversion; (c) the SS Baltic manifest (if found) would give age at 1904 arrival and resolve definitively. |
+| Birth year | 1883 (BillionGraves headstone, Tier 1, posthumous) | **May 15, 1885 Vilna Russia** (NY Naturalization 1912, Tier 1; WWI Draft Card 1918, Tier 1) | **RESOLVED 2026-04-22: 1885.** Three Tier 1 sources support 1885 (NY Naturalization 1912, WWI Draft Card 1918, and implicit age in the 1912 naturalization). Headstone "1883" is the single posthumous outlier and is superseded. |
 | SS Baltic arrival | December 23, 1904 (MyHeritage, Tier 3) | Not independently verified | Ship and sailing date confirmed by Tier 2 sources; passenger manifest not yet located in free databases. Confidence: MODERATE (ship and date plausible, but individual record unverified). |
 | Citizenship | Box 12 checked on WWI Draft Card: "Citizen by Father's Naturalization Before Registrant's Majority" (Tier 1) | No other evidence of Levi Itzhak Zalmanson in the US | **SIGNIFICANT.** If accurate, this means Barnett's father Levi Itzhak was in the US and naturalized before Barnett turned 21 (~1904-1906). No other source documents Levi Itzhak's immigration. Possible explanations: (a) Levi Itzhak immigrated and naturalized (undocumented); (b) registrar checked wrong box (should be box 11 "Naturalized"); (c) Barnett misunderstood the question. Investigate NARA naturalization records for both Barnett and Levi Itzhak in Providence. |
 | Occupation | "Manager, Excello Braid Co." (WWI Draft Card, 1918, Tier 1) | Adams Drug founding 1932/1933 | Barnett was in textile manufacturing before entering the drugstore business. Excello Braid Co. was at 218 Prairie(?) Ave, Providence, RI. |

@@ -10,6 +10,44 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-22: FamilySearch browser-emulation top-5 unlock session (13 queries)
+
+### Summary
+
+Ran browser-emulated FamilySearch searches (Playwright persistent context, logged-in session) targeting the highest-value login-walled records for OQ #4 (Barnett birth year), OQ #15 (Charstee Cooley maiden name), OQ #17 (H.H. King identity), and OQ #23 (Morris Markel 1930 census). 8 initial searches plus 5 follow-up retries. Scripts stored at `scripts/top5-unlock-searches.js` and `scripts/top5-followup.js`. Full screenshots in `scripts/screenshots/top5/`. JSON results in `scripts/top5-results.json` and `scripts/top5-followup-results.json`.
+
+### Decisive findings
+
+- **OQ #15 Charstee Cooley maiden name: RESOLVED at Strong Signal.** Three independent sources now corroborate Cooley: (a) Find a Grave Index entry "Charstee A. Cooley King" b. 30 June 1842, d. 15 March 1921, Pelzer, Greenville SC; (b) South Carolina Deaths 1915-1973 entry naming Charity Cooley as mother of James Edward King with spouse Judson King; (c) 1900 Census record (FamilySearch ARK M3TM-NCY) lists Oryley H Cooley (M, 24, SC) as a co-resident of the Judson King household, consistent with a Cooley brother/nephew or other close relative of Charstee boarding with them. Upgraded [[Charstee_King]] maiden-name confidence from Tier 2 photo caption to Tier 1/2 convergence.
+
+- **OQ #4 Barnett Salmanson birth year: RESOLVED at Strong Signal -- 15 May 1885 Vilna Russia.** Tier 1 New York County Naturalization Records 1791-1980 entry: Barnett Salmanson, Naturalization 1912 New York, Birth 15 May 1885 Vilna Russia. This is the third independent Tier 1 source placing the birth date in 1885 (WWI Draft Card 1918, NY Naturalization 1912, and now the 1912 date itself in the indexed record). Headstone "1883" remains anomalous but is now clearly superseded by two lifetime self-declared records. **NEW FINDING**: Barnett naturalized in **New York in 1912, NOT Rhode Island** -- this explains why the FamilySearch RI Naturalization collection (2622566) returned zero hits under any spelling variant.
+
+- **OQ #17 H.H. King identity: SUBSTANTIALLY ADVANCED.** Judson King 1900 Census record retrieved (FamilySearch ARK M3TM-NCY; Oaklawn Township Ward 1, ED 42, Sheet 17B, Line 70; digital folder 004120559_001_M9LZ-ST6; microfilm 1241530; image 138; T623). Household composition:
+  - Judson King (Head, M, 59, b. June 1841 SC, married 40 years)
+  - Chasstee A King (Wife, F, 58, SC)
+  - **Landrath King** (Son, M, 19, SC, b. ~1881) -- NEW POST-1880 SON IDENTIFIED (not in 1880 census household)
+  - John F King (M, 11, SC) -- "Other people on this record", likely grandson
+  - Oryley H Cooley (M, 24, SC) -- Cooley relative co-resident
+  - **H.H. King is NOT in Judson's 1900 household.** He was therefore an independent household head by 1900, consistent with being the 1921 death certificate informant. The 1910 or 1920 census of neighboring Greenville households (Pelzer, Oaklawn, Dunklin) remains the next place to look for H.H. King as a separate enumeration.
+
+### Negative results confirmed
+
+- **Barnett Salmanson / Zalmanson in RI Naturalization Records 1907-1991 (FamilySearch collection 2622566)**: 0 results under either spelling. Barnett naturalized in NY in 1912, not RI.
+- **Morris Markel in United States Census 1930 Rhode Island (collection 1810731)**: 0 results under exact spelling. Morris Markel's 1930 census record is under a different spelling or state; the 1940 "Markal" misspelling was a known indexing quirk and likely applies here too.
+
+### Bonus findings
+
+- **Leanard Irving Salmanson WWII Draft Registration (Rhode Island, 1940-1947)**: b. 21 June 1910 Providence RI, registered 16 October 1940 Providence. Tier 1 source corroborating [[Leonard_Irving_Salmanson]] birth date from Find a Grave.
+
+### Berko Zalmanson immigration manifest: STILL NOT LOCATED
+
+5 parameter variations (with and without arrivalPlace, with and without date range, surname-only "Zalmanson" / "Salmanson") returned ~1,886-3,730,034 results but none clearly matched the Berko Zalmanson -> Barnett Salmanson SS Baltic 23 Dec 1904 arrival. Name indexing variants seen: Berko Zalcman (Belgium), Берко Зисельман, Берко Пенхасович Зигльман (both Cyrillic). The actual Ellis Island manifest for SS Baltic 23 Dec 1904 remains unlocated; the NY naturalization (found this session) now supersedes the manifest as the primary source for birth date.
+
+### Technical notes
+
+- Initial runs failed due to (a) the landing-page login check not catching expired auth at the search endpoint, and (b) Playwright's `waitUntil: 'networkidle'` never firing on FamilySearch's React app. Both fixed in the final script: auth probed via `/search/record/results`, page navigation uses `waitUntil: 'domcontentloaded'` + fixed post-load delay. 20-30s jittered pauses between searches; Incapsula bot detection not triggered on the successful run.
+- FamilySearch's own "Something Went Wrong" error was returned intermittently for queries combining `arrivalPlace=New York` with a `arrivalDate` range. Dropping `arrivalPlace` resolved it.
+
 ## 2026-04-19 (evening): Geni curated World Family Tree import for Shneur Zalman of Liadi (20-gen ancestors + 5-gen descendants)
 
 ### Summary

@@ -7,7 +7,10 @@ family: "King"
 confidence: high
 sources:
   - "Find a Grave Memorial #8422324, Fork Shoals Baptist Church Cemetery (Tier 2)"
+  - "Find a Grave Index via FamilySearch (Tier 2, located 2026-04-22): 'Charstee A. Cooley King' b. 30 June 1842, d. 15 March 1921, Pelzer Greenville SC"
+  - "South Carolina Deaths, 1915-1973, via FamilySearch (Tier 1, located 2026-04-22): Charity Cooley, mother of James Edward King, spouse Judson King"
   - "1880 U.S. Federal Census, Oaklawn Twp, Greenville Co, SC (Tier 1)"
+  - "1900 U.S. Federal Census, Oaklawn Twp Ward 1, Greenville Co, SC, ED 42, Sheet 17-B (Tier 1, FamilySearch ARK M3TM-NCY, located 2026-04-22)"
   - "1910 U.S. Federal Census, Oaklawn Twp, Greenville Co, SC (Tier 1)"
   - "1920 U.S. Federal Census, Oaklawn Twp, Greenville Co, SC (Tier 1)"
 created: 2026-04-13
@@ -21,7 +24,7 @@ tags: [genealogy, king, cooley, person, south-carolina, greenville, oaklawn]
 | Field | Value | Source |
 |---|---|---|
 | Full Name | Charstee A. Cooley King | Find a Grave photo inscription + headstone (Tier 2) |
-| Maiden Name | **Cooley** | Find a Grave #8422324: photo inscription "Judson and Charstee Cooley King 1908" |
+| Maiden Name | **Cooley** (Strong Signal) | 3 independent FamilySearch-indexed sources located 2026-04-22: Find a Grave Index "Charstee A. Cooley King" (Tier 2); SC Deaths 1915-1973 naming Charity Cooley as mother of James Edward King with spouse Judson King (Tier 1); 1900 Census household lists Oryley H Cooley (M, 24) as co-resident of Judson King home (Tier 1). Photo inscription on Find a Grave #8422324 (Tier 2) is the original attestation. |
 | Born | June 30, 1842 | Headstone at Fork Shoals Baptist Church Cemetery |
 | Birthplace | South Carolina | 1880 Census (Tier 1) |
 | Died | March 15, 1921 | Headstone at Fork Shoals Baptist Church Cemetery |
@@ -33,7 +36,7 @@ tags: [genealogy, king, cooley, person, south-carolina, greenville, oaklawn]
 
 ## Biography
 
-Charstee A. Cooley (b. June 30, 1842, South Carolina; d. March 15, 1921) was the wife of [[Judson_King]], a farmer and Confederate veteran in Oaklawn Township, Greenville County, South Carolina. Her maiden name **Cooley** is confirmed from a photo inscription on her husband's Find a Grave memorial: "Judson and Charstee Cooley King 1908 taken in Pelzer, SC by RL Snipes, dealer in fancy pictures." "Charstee" is an unusual given name, possibly a variant of "Charity."
+Charstee A. Cooley (b. June 30, 1842, South Carolina; d. March 15, 1921) was the wife of [[Judson_King]], a farmer and Confederate veteran in Oaklawn Township, Greenville County, South Carolina. Her maiden name **Cooley** is confirmed at **Strong Signal** by three independent FamilySearch-indexed sources (located 2026-04-22): (a) Find a Grave Index "Charstee A. Cooley King" b. 30 June 1842, d. 15 March 1921, Pelzer Greenville SC (Tier 2); (b) South Carolina Deaths 1915-1973 naming **Charity Cooley** as the mother of James Edward King with spouse Judson King (Tier 1); (c) the 1900 Census record (ARK M3TM-NCY) for the Judson King household lists **Oryley H Cooley (M, 24, SC)** as co-resident, the first confirmed Cooley relative under Judson's roof. The photo inscription on Find a Grave memorial #8422324 ("Judson and Charstee Cooley King 1908 taken in Pelzer, SC by RL Snipes, dealer in fancy pictures") is the original attestation. "Charstee" is a given-name variant of "Charity"; the two spellings appear interchangeably across the three indexed records.
 
 She married Judson King before 1866 (their daughter Tabitha was born April 5, 1866). By 1880, at least seven children were living in the household. Several additional children are documented from cemetery records, including Bunie Adair King (1868-1957), Bessie C. King (1871-1964), and Charlie W. King (1885-1885, who died in infancy).
 

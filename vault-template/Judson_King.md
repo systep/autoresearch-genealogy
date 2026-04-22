@@ -8,6 +8,7 @@ confidence: high
 sources:
   - "SC Death Certificate File No. 7013 (Tier 1)"
   - "1880 U.S. Federal Census, Oaklawn Twp, Greenville Co, SC (Tier 1)"
+  - "1900 U.S. Federal Census, Oaklawn Twp Ward 1, Greenville Co, SC, ED 42, Sheet 17-B, Line 70, T623 (Tier 1, FamilySearch ARK M3TM-NCY, located 2026-04-22)"
   - "1910 U.S. Federal Census, Oaklawn Twp, Greenville Co, SC, Series T624, Sheet 2-B, Family 32 (Tier 1)"
   - "1920 U.S. Federal Census, Oaklawn Twp, Greenville Co, SC, Series T625, Sheet 3-B, Family 51 (Tier 1)"
   - "Confederate Service Record: 16th SC Infantry (Greenville Regiment), enlisted 1862 (Tier 2, Ancestry/Fold3 index)"
@@ -37,7 +38,7 @@ tags: [genealogy, king, person, south-carolina, greenville, oaklawn, dunklin, fa
 | Grandmother | Mary King (b. ~1795, SC) | 1850 Census (Tier 1) |
 | Siblings (1850 Census) | Mary E (b. ~1842), Tabbitha (b. ~1844), Elizabeth (b. ~1847), James M (b. ~1848) | 1850 Census (Tier 1) |
 | Spouse | [[Charstee_King]] (b. ~1843, SC) | 1880 Census (Tier 1); 1920 Census (Tier 1) |
-| Children | Dora S., Andrew L., Mary E., James E., William C., Tabitha J., John W. King (per 1880 Census); probable additional child: Georgia King (b. Mar 26, 1885, d. Apr 8, 1974, married Sims) | 1880 Census, Oaklawn Twp, Greenville Co, SC (Tier 1); Find a Grave #13396670 (Tier 2, unverified) |
+| Children | Dora S., Andrew L., Mary E., James E. (full: James Edward King, per SC Deaths 1915-1973), William C., Tabitha J., John W. King (per 1880 Census); **Landrath King** (b. ~1881, confirmed in 1900 Census household as son, age 19); probable additional child: Georgia King (b. Mar 26, 1885, d. Apr 8, 1974, married Sims) | 1880 Census (Tier 1); 1900 Census FamilySearch ARK M3TM-NCY (Tier 1, located 2026-04-22); SC Deaths 1915-1973 FamilySearch (Tier 1); Find a Grave #13396670 (Tier 2) |
 
 ## Biography
 
@@ -59,7 +60,31 @@ Judson died on May 12, 1921 at approximately 9 A.M. from chronic nephritis, at t
 
 A user-provided photograph shows Judson and Charstee King in formal late 19th or early 20th century attire.
 
-The death certificate informant was H.H. King of Pelzer, SC. None of the seven children listed in the 1880 census have initials "H.H." This person may be a child born after 1880 (Judson and Charstee were only 39 and 37 in 1880), or a grandchild. The discovery of Georgia King Sims (b. 1885) at Fork Shoals Baptist Church Cemetery confirms that additional children were born after 1880, supporting the hypothesis that H.H. King was another post-1880 child. A 2026-04-18 search of 10 free databases (Find a Grave, WikiTree, BillionGraves, Genealogy Trails, census transcription projects) found no individual matching "H.H. King" in Pelzer, SC. Expanded name searches (Henry, Hugh, Hiram, Homer King) also returned no results. The Find a Grave memorial #8422324 references 1870, 1880, 1900, and 1910 census records for Judson, confirming that a 1900 census record exists and is indexed in Ancestry/FamilySearch. The 1900 census (accessible only via login) is the decisive record for identifying H.H. King and all post-1880 children.
+The death certificate informant was H.H. King of Pelzer, SC. None of the seven children listed in the 1880 census have initials "H.H." This person may be a child born after 1880 (Judson and Charstee were only 39 and 37 in 1880), or a grandchild. The discovery of Georgia King Sims (b. 1885) at Fork Shoals Baptist Church Cemetery confirms that additional children were born after 1880, supporting the hypothesis that H.H. King was another post-1880 child. A 2026-04-18 search of 10 free databases (Find a Grave, WikiTree, BillionGraves, Genealogy Trails, census transcription projects) found no individual matching "H.H. King" in Pelzer, SC. Expanded name searches (Henry, Hugh, Hiram, Homer King) also returned no results.
+
+**2026-04-22 update**: The 1900 Census record has now been located via FamilySearch browser search (ARK M3TM-NCY). Household composition: Judson King (head, 59), Chasstee A King (wife, 58), **Landrath King (son, 19)** -- a previously undocumented post-1880 son -- plus John F King (11) and Oryley H Cooley (24, a Cooley relative) as "Other People on This Record." **H.H. King is NOT in Judson's 1900 household.** Therefore H.H. was an independent household head by 1900, which is consistent with him being the 1921 death certificate informant from a separate Pelzer residence. The 1900/1910/1920 enumeration of H.H. King as a separate Greenville County household is the remaining decisive record.
+
+## 1900 Census Record (retrieved 2026-04-22)
+
+**FamilySearch ARK**: https://www.familysearch.org/ark:/61903/1:1:M3TM-NCY
+**Collection**: United States, Census, 1900
+**Digital Folder Number**: 004120559_001_M9LZ-ST6
+**Microfilm Number**: 1241530
+**Image Number**: 138
+**Indexing Batch**: N00847-9
+**Affiliate Publication**: T623 (NARA)
+**Event Place (Original)**: ED 42 Oaklawn Township Ward 1, Greenville, South Carolina
+**Sheet**: 17-B, Line 70
+
+| Name | Relationship | Sex | Age | Birthplace |
+|---|---|---|---|---|
+| Judson King | Head | M | 59 | South Carolina (Father: SC, Mother: SC; married 40 years; race: White; marital status: Married) |
+| Chasstee A King | Wife | F | 58 | South Carolina |
+| Landrath King | Son | M | 19 | South Carolina |
+| John F King | (Other) | M | 11 | South Carolina |
+| Oryley H Cooley | (Other) | M | 24 | South Carolina |
+
+Landrath King (b. ~1881) is a previously undocumented post-1880 son. John F King (b. ~1889) is listed as "Other People on This Record" rather than as a child and may be a grandson or ward. Oryley H Cooley (b. ~1876) is the first confirmed Cooley relative co-resident with Judson and Charstee, providing Tier 1 corroboration of the Cooley maternal line.
 
 **Note on township**: The 1880 and 1920 censuses place Judson in Oaklawn Township, while the 1921 death certificate records Dunklin Township. These are adjacent areas in southern Greenville County. Judson likely lived near the boundary, or the township lines may have shifted.
 

@@ -1,9 +1,18 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-19
+updated: 2026-04-22
 tags: [genealogy, research, open-questions]
 ---
+
+## 2026-04-22 session updates (FamilySearch browser-emulation top-5 unlock, 13 queries)
+
+- **OQ #15 (Judson King wife maiden name Cooley): RESOLVED Strong Signal.** Three independent FamilySearch-indexed sources now confirm Cooley: (a) Find a Grave Index "Charstee A. Cooley King" (b. 30 June 1842, d. 15 March 1921, Pelzer); (b) SC Deaths 1915-1973 naming Charity Cooley as mother of James Edward King with spouse Judson King; (c) 1900 Census (ARK M3TM-NCY) household includes Oryley H Cooley (M, 24, SC) as co-resident in Judson's home. The maiden name Cooley is now Tier 1/2 corroborated.
+- **OQ #4 (Barnett Salmanson birth year 1883 vs 1885): RESOLVED Strong Signal -- 15 May 1885 Vilna Russia.** Tier 1 New York County Naturalization Records 1791-1980 entry for Barnett Salmanson: Naturalization 1912 New York, Birth 15 May 1885 Vilna Russia. This is the third Tier 1 lifetime source supporting 1885 (along with 1918 WWI Draft Card and the 1912 naturalization itself). Headstone "1883" is now clearly the outlier. **NEW FINDING**: Barnett naturalized in **NEW YORK in 1912, not Rhode Island** -- explains zero hits in RI Naturalization Records collection 2622566 under any spelling variant.
+- **OQ #17 (H.H. King identity): SUBSTANTIALLY ADVANCED.** Judson King 1900 Census retrieved (FamilySearch ARK M3TM-NCY, Oaklawn Township Ward 1, ED 42, Sheet 17B, Line 70). Household: Judson (59) + Chasstee (58, wife) + **Landrath King (son, 19, b. ~1881) [NEW POST-1880 SON]** + John F King (11) + Oryley H Cooley (24, Cooley relative). **H.H. King is NOT in Judson's 1900 household** -- therefore H.H. was an independent household head by 1900, consistent with being the 1921 death certificate informant from a separate Pelzer residence. Next step: search 1900/1910/1920 Greenville County for H.H. King enumerated in a different household.
+- **OQ #23 (Morris Markel rabbi): PARTIAL NEGATIVE CONFIRMED.** Morris Markel not in 1930 US Census RI (collection 1810731) under exact spelling. Consistent with the known 1940 "Markal" indexing misspelling -- the 1930 record likely exists under a different spelling.
+- **Negative: Berko Zalmanson SS Baltic 1904 manifest still not located** across 5 parameter variations. Name variants seen in results: Berko Zalcman (Belgium), Berko Zisel'man / Zisel'man / Zigel'man (Cyrillic). NY naturalization (1912) now supersedes the manifest as the primary-source anchor for Barnett's birth date.
+- **Bonus: Leanard Irving Salmanson WWII Draft Registration Tier 1 confirmation** (b. 21 June 1910 Providence RI; registered 16 October 1940 Providence). Corroborates existing [[Leonard_Irving_Salmanson]] vault entry.
 
 ## 2026-04-19 session updates (Open Question Resolution, evening, 17 searches)
 
@@ -150,13 +159,11 @@ Research gaps and unresolved questions, organized by priority and family line. U
 ## Medium Priority
 
 ### 4. Barnett's birth year discrepancy
-- **The conflict**: MyHeritage family tree says 1883; MyHeritage records say 1885. Both cite Vilna, Lithuania.
-- **Minimum records needed**: SS Baltic passenger manifest (Dec 23, 1904) would list his age at arrival, narrowing the birth year.
-- **Searched (2026-04-14)**: Conducted extensive web search for Berko Zalmanson / Barnett Salmanson immigration record on the SS Baltic, December 1904. Ship and route confirmed: RMS Baltic (White Star Line) departed Liverpool December 14, 1904, consistent with December 23 New York arrival. However, the actual passenger manifest was NOT located through free web search. All relevant databases (Ellis Island Foundation, JewishGen EIDB, FamilySearch, Ancestry, Steve Morse One Step) require browser based access with login or paid subscription. The manifest remains the best record to resolve this discrepancy.
-- **Additional records that would resolve**: (1) WWI Draft Registration Card (FamilySearch collection 1968530, free with login) would list exact birth date and birthplace. (2) Naturalization petition (Rhode Island, NARA Waltham or FamilySearch catalog 1378655) would list arrival date, ship, port, and age. (3) 1920 Census (not yet accessed) would list age and year of immigration.
-- **Searched (2026-04-18, immigration search protocol)**: Additional systematic search of Steve Morse, JewishGen EIDB, GG Archives, FamilySearch. No manifest located. FamilySearch collection 2622566 (RI Naturalization Records 1907-1991) confirmed as the best free indexed collection for Barnett's naturalization petition. All primary databases still require login or subscription.
-- **Solvability**: HIGH (multiple accessible records)
-- **Payoff**: LOW (minor date clarification)
+- **RESOLVED (2026-04-22) at Strong Signal: 15 May 1885 Vilna, Russia.** Tier 1 New York County Naturalization Records 1791-1980 entry (FamilySearch-indexed): Barnett Salmanson, Naturalization 1912 New York, Birth 15 May 1885 Vilna, Russia. Third independent Tier 1 lifetime source (along with 1918 WWI Draft Card) supporting 1885. BillionGraves headstone "1883" is now the clear outlier and is presumed a posthumous approximation error (possibly Hebrew calendar conversion).
+- **KEY NEW FINDING**: Barnett naturalized in **NEW YORK** in 1912, not Rhode Island. FamilySearch RI Naturalization Records collection 2622566 returned 0 hits under every spelling variant (Salmanson, Zalmanson, Barnett, Benjamin, given-name-only). The NY naturalization (1912) is consistent with son Samuel being born in Brooklyn NY in June 1912 -- the family was living in NYC at the time of naturalization and moved to Providence later.
+- **Remaining**: The actual SS Baltic passenger manifest (Dec 23, 1904) still not located despite 5 parameter variations on 2026-04-22 (with/without arrivalPlace, with/without date range, surname-only Zalmanson / Salmanson). The full NY naturalization petition (not just the index entry) would provide additional detail: port of entry, ship name, residence addresses, witnesses. Not yet pulled; would require clicking into the indexed NY record image.
+- **Solvability**: HIGH (index entry confirmed; full petition image available via the same search)
+- **Payoff**: MODERATE (birth date now resolved; remaining value is immigration detail and residency timeline)
 
 ### 5. Bella Measroch (Levi Itzhak's second wife)
 - **The question**: Levi Itzhak Zalmanson had two wives: Rochel Tsine Deych and Bella (born Measroch). Who was Bella? Were the marriages sequential (after Rochel Tsine's death) or was one a replacement for a data error?

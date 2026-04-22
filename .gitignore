@@ -7,6 +7,11 @@
 .env
 node_modules/
 
+# Playwright persistent browser profile (contains auth cookies — never commit)
+scripts/browser-data/
+# Browser-emulated search screenshots (large, regenerable)
+scripts/screenshots/
+
 # Playwright MCP scratch files
 .playwright-mcp/
 /*-page*.md
