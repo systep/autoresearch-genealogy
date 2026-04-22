@@ -17,7 +17,31 @@ updated: 2026-04-22
 tags: [genealogy, zalmanson, person, belarus, barysaw, chabad-hypothesis]
 ---
 
-# Srol' Zalmanzon (son of Zalman)
+# Srol Zalmanzon (son of Zalman) — possibly "Srul Mendel Zalmanson" of Chabad lineage
+
+## 2026-04-22 (peak) 1858 BORISOV REVISION LIST fully indexed on MH
+
+MyHeritage's "Belarus, Revision Lists from JewishGen" collection contains the FULL 1858 Borisov Revision List for Srol Zalmanzon's household (26 May 1858):
+
+| Name | Relation | Born | Father (of) |
+|---|---|---|---|
+| **Srol Zalmanzon** | Head | ~1815 | **Zalman Zalmanzon** |
+| **Gita Zalmanzon** | Wife | 1830 | — |
+| **Berka Zalmanzon** | Son | 1838 | Srol |
+| **Liba Zalmanzon** | Daughter | 1840 | Srol |
+| **Minya Zalmanzon** | Daughter | 1842 | Srol |
+| **Rayna Zalmanzon** | Daughter | 1843 | Srol |
+| **🔥 Leyvik Zalmanzon** | Son | ~1851 | Srol → this is our Louis |
+| **Zelda Zalmanzon** | Daughter (infant) | 1857 | (household) |
+| **Khana Zalmanzon** | (Berka's wife, likely) | 1838 | — |
+
+This is Tier 1 PRIMARY via Russian Empire Jewish revision list. The 1850 revision (NHABMinsk/333/9/420) and 1858 revision both confirm the same core household, with growth matching natural family expansion (Leyvik b. 1851 + Zelda 1857 + Khana incoming as Berka's wife).
+
+## 1906 Borisov Duma voter records for sons of Berka
+
+"Zalman Zalmanzon", Belarus Duma Voter Lists (JewishGen), Residence 1906 Borisov, **Father: Berk Zalmanzon** — confirms 1906 voters are Berka's sons (Louis's nephews, Barnett's first cousins).
+
+
 
 ## 2026-04-22 TIER 1 UNLOCK — Borisov 1850 Revision List
 

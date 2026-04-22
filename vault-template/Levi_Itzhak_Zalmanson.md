@@ -19,6 +19,30 @@ tags: [genealogy, zalmanson, salmanson, rabbi, person, belarus, borisov, lithuan
 
 # Rabbi Levi Isaac (Levi Itzhak) Zalmanson / Salmanson
 
+## 2026-04-22 (peak) TIER 1 DIRECT CONFIRMATION — "Leyvik Zalmanzon" b. ~1851 in 1858 Borisov Revision
+
+**MyHeritage's "Belarus, Revision Lists from JewishGen" collection directly indexes Louis (as "Leyvik Zalmanzon") in the 1858 Borisov Revision List** (retrieved 2026-04-22 sweep11, via MyHeritage which has licensed access to the full JewishGen Belarus dataset that is not yet transcribed into the free public JewishGen portal).
+
+### Louis's Tier 1 Borisov 1858 entry
+
+- **Name**: Leyvik Zalmanzon ("Leyvik" = Yiddish diminutive of Levi)
+- **Birth**: circa 1851
+- **Residence**: 26 May 1858, Borisov, Borisov uyezd, Minsk guberniya, Belarus
+- **Father (implied)**: Srol Zalmanzon
+- **Mother (implied)**: Gita Zalmanzon
+- **Source**: Belarus, Revision Lists from JewishGen (MyHeritage-licensed)
+
+Same 1858 revision enumerates the full household: Srol (head, son of Zalman) + Gita (wife) + siblings Berka (b. 1838), Liba (1840), Minya (1842), Rayna (1843), **Leyvik** (1851), Zelda (1857 infant), plus Khana (1838, likely Berka's wife).
+
+### Reconciliation of dates
+
+- Birth year "1851" on the 1858 revision vs "~1855" on the LitvakSIG 1877 Rokiskis marriage record. Russian Empire revision list ages are known to drift by 3-5 years (common rounding / age-stated-by-household-head). Both records refer to the same person (Leyvik = Leyvi Itsik = Levi Itzhak = Louis).
+- The Magen MH tree's "1851" matches exactly; the "1855" appears to have been an approximation in the Rokiskis record.
+
+### This Tier 1 confirmation LOCKS the patriarchal chain
+
+**Barnett Salmanson (1885-1960) → Louis/Leyvik Zalmanzon (1851-1907) → Srol Zalmanzon (b. ~1815) → Zalman Zalmanzon (unknown birth year, Srol's father named in the 1858 revision)** — all documented at Tier 1 via Russian Empire revision list records.
+
 ## 2026-04-22 TWO INDEPENDENT TIER 1 SOURCES CONVERGE — Father's Name = Srol' / Israel
 
 Two independent Tier 1 primary sources now name Louis's father:

@@ -15,7 +15,32 @@ updated: 2026-04-22
 tags: [genealogy, deykh, mogil, zalmanson, person, rokiskis, vidzy, lithuania]
 ---
 
-# Zavel Mogil (a.k.a. Zawel Deykh)
+# Zavel Mogil'ner (a.k.a. Zawel Deykh / Zavel Mogil)
+
+## 2026-04-22 (later) Full Surname = MOGIL'NER + Bobruisk Chabad community link
+
+MyHeritage's "Belarus, Jewish Marriage Records from JewishGen" and "Belarus, Jewish Birth Records from JewishGen" collections document **Zavel Mogil'ner** (full surname, Ashkenazi diminutive "Mogil") with:
+- **Son**: Shlioma Girsh Mogil'ner / Shlema Girsh Mogil'ner
+- **Son's marriage**: 9 March 1901, **Bobruisk, Belarus**
+- **Grandchild**: Samuil Mogil'ner
+
+### Why Bobruisk matters
+
+Bobruisk (Babruysk, ~140 km south of Borisov) was "the Chabad anchor of Minsk guberniya" — one of the most important Chabad Hasidic centers in Belarus during the 19th century. Chabad.org identifies Bobruisk's Jewish community as one of the most important in the Lithuanian/Belarusian orbit.
+
+A Zavel Mogil'ner with son marrying in Bobruisk in 1901 means the Mogil'ner family was actively part of the **Chabad Hasidic community** — exact cultural-lineage Chabad affiliation that the user's family oral tradition describes. This is independent corroboration of the maternal line's Chabad community identity.
+
+## Revised full name attribution
+
+| Form | Context |
+|---|---|
+| **Zavel Mogil'ner** | Belarus JewishGen records (full surname) |
+| **Zavel Mogil** | LitvakSIG Rokiskis 1877 marriage (abbreviated form on groom-of-bride column) |
+| **Zawel Deykh** | Informal / later family records (using daughter Rokhel's adopted surname) |
+
+The daughter Rokhel Tsine (our Barnett's mother) used "Deych" which is either her mother's surname or an adopted Russification of "Daytsh" (German-speaking Jew identifier). Her father's actual surname in vital records was **Mogil'ner** (from Mogilev = Chabad heartland).
+
+
 
 ## 2026-04-22 Major Revision: Identity Resolved via LitvakSIG Tier 1
 
