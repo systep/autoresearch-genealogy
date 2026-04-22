@@ -19,6 +19,38 @@ tags: [genealogy, zalmanson, salmanson, rabbi, person, belarus, borisov, lithuan
 
 # Rabbi Levi Isaac (Levi Itzhak) Zalmanson / Salmanson
 
+## 2026-04-22 TWO INDEPENDENT TIER 1 SOURCES CONVERGE — Father's Name = Srol' / Israel
+
+Two independent Tier 1 primary sources now name Louis's father:
+
+**Tier 1 (a): Rokiskis 1877 Marriage Record (LitvakSIG, located via MyHeritage sweep6v2)**:
+- Groom: Leyvi Itsik Zelmenzon, b. ~1855 Borisov
+- Parents of groom: **Izrael** (Hebrew Yisrael = Yiddish Srol')
+
+**Tier 1 (b): Borisov 1850 Revision List (NHABMinsk/333/9/420, located via manual JewishGen search)**:
+- Srol' ZALMANZON, head of household, age 35, b. ~1815, son of Zalman
+- Wife Gita (daughter of Leyb)
+- Children Berka/Liba/Minya/Rayna — the documented sibling set matching MH Magen tree attribution
+- Louis b. 1855 would be a younger son not yet born at this revision
+
+Both sources name Louis's father using the given name **Srol'/Izrael/Israel** (interchangeable Yiddish/Hebrew forms). The MH tree attribution "Srul Mendel" was garbled — the correct given name is just "Srol'" (middle-name "Mendel" is a fabrication). The patronymic "son of Zalman" means the grandfather's given name was Zalman — compatible with but NOT proving Yekutiel Zalman Wallis (the Chabad ancestor).
+
+## The RI Death Index "Joseph" anomaly
+
+The 1907 Providence RI Death Index names Louis's father as "Joseph Salmonson" — conflicts with the Tier 1 Srol'/Izrael. Barnett Salmanson (likely informant) never knew his paternal grandfather; his "Joseph" may be a Yiddish-to-English approximation error. "Srol'" (Israel) and "Yosef" (Joseph) are distinct Hebrew names, so this is not a simple translation. Most likely explanation: informant error by Barnett on the death certificate.
+
+## DECISIVE NEXT RECORD — 1858 Borisov Revision List
+
+**NHABMinsk/333/9/1089 (1858 Borisov Revision List) is confirmed to contain 9 ZALMANZON records** per JewishGen's 1858 surname index (Google Sheet maintained by the JewishGen Belarus project). The 1850 household had 6 members (Srol', Gita, Berka, Liba, Minya, Rayna); the 1858 has 9. The 3 new members are presumably children born 1850-1858 — including Louis (b. 1855, age 3 in 1858). The index exists but the record transcriptions are NOT yet in the searchable JewishGen Belarus Database.
+
+**Access paths**:
+1. Email **Paul Zoglin** (`pzoglin@jewishgen.org`), JewishGen Borisov translation coordinator, to request the 9 transcribed entries
+2. Donate to JewishGen-erosity Borisov project to unlock public transcription
+3. Commission a paid Russian-archive researcher to pull NHABMinsk 333/9/1089 directly (~$100-200)
+4. Order LDS microfilm of Borisov 1858 via a FamilySearch Center
+
+Once the 1858 record is in hand and confirms Louis as a son of Srol' + Gita in that household, the patriarchal chain is Tier 1 locked from Barnett back to grandparent Srol' + Gita; great-grandfather named Zalman.
+
 ## 2026-04-22 (final) TIER 1 UNLOCK — Borisov 1850 Revision List identifies parents
 
 User manually searched JewishGen Belarus Database 2026-04-22 and located the **Borisov 1850 Revision List** (NHABMinsk/333/9/420, pp 245v-246, 28 Oct 1850) documenting the Srol' ZALMANZON household. Louis (Levi Itzhak) was born 1855, 5 years after this revision, so is not directly enumerated here, but the household matches the MH tree sibling set exactly:

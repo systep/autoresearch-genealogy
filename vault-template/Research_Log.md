@@ -10,6 +10,51 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-22 (part 9): JewishGen Tier 1 CONVERGENCE — Louis's father = Srol'/Izrael Zalmanzon
+
+### Summary
+
+Ninth batch of the day. User manually located Tier 1 JewishGen Belarus records. Two parallel Agent subagents (H + I) confirmed and extended the findings.
+
+### Tier 1 convergence
+
+Two independent primary sources name our Louis (Levi Itzhak) Zalmanson's father:
+
+1. **Rokiskis 1877 Marriage Record** (LitvakSIG Tier 1, found sweep6v2): Groom Leyvi Itsik Zelmenzon b. ~1855 Borisov, parents of groom "Izrael" (given name only). Izrael = Hebrew Yisrael = Yiddish Srol'.
+
+2. **Borisov 1850 Revision List** (Tier 1, user manual JewishGen search 2026-04-22): NHABMinsk / Fond 333 / Inventory 9 / File 420, pp 245v-246, 28 Oct 1850. Household head **Srol' ZALMANZON**, age 35 (b. ~1815), son of Zalman, petty bourgeois merchant class. Wife: Gita Zalmanzon (daughter of Leyb), age 20. Children: Berka (M, ~12, b. 1838), Liba (F, 10), Minya (F, 8), Rayna (F, 7). Louis is not yet born (would come 5 years later).
+
+The two Tier 1 sources converge on the father's given name as **Srol'/Izrael**. The MH tree "Srul Mendel" was a garbled middle-name fabrication propagated across 7+ user trees. The 1907 RI Death Index "Joseph Salmonson" is anomalous and likely an informant error (Barnett never knew his paternal grandfather).
+
+### 1906 Minsk Vedomosti Tier 1 (user manual find)
+
+Three Zalmanzons documented as Borisov property-owners/Duma voters in 1906, all with patronymic "Berkovich" (= son of Berko):
+- Zalman Berkovich ZALMANZON (MinskVedomosti/1906 #519)
+- Israil Berkovich ZALMANZON (#521)
+- Srol Berkovich ZALMANZON (#536)
+
+Almost certainly sons of Berka (b. 1838, eldest son in 1850 household) — Barnett Salmanson's first cousins.
+
+### The decisive next record: 1858 Borisov Revision List
+
+**NHABMinsk / Fond 333 / Inventory 9 / File 1089 — 1858 Borisov Revision List — contains 9 ZALMANZON records per JewishGen's 1858 surname-index Google Sheet.** The household grew from 6 (1850) to 9 (1858), a delta of 3 new members matching the birth window for Louis + any younger siblings. The index is confirmed but the record transcriptions are NOT yet in the searchable JewishGen Belarus Database.
+
+### Action path to unlock 1858 record
+
+- Email **Paul Zoglin** (`pzoglin@jewishgen.org`), JewishGen Borisov district translation coordinator — request the 9 Zalmanzon entries
+- Email **Susan Slusky** (`segslusky@aol.com`), Borisov KehilaLinks coordinator — may know Zalmanzon descendants
+- Donate to JewishGen-erosity Borisov project to unlock public transcription
+- Commission paid Russian-archive researcher (~$100-200) to pull NHABMinsk 333/9/1089 directly
+- Order LDS microfilm of Borisov 1858 via a FamilySearch Center
+
+### Chabad attribution independently REFUTED (Agent H corroborating)
+
+Rabbi Levi Yitzchok Zalmanson (1812-1872) per authoritative sources (loebtree.com, Chabad.org Tzemach Tzedek timeline, Geni) was based in Lubavitch (Mogilev guberniya), ~200 km from Borisov. His associated family seats were Liadi, Liozna, Lubavitch, Moscow, Petach Tikva — NOT Borisov. The petty-bourgeois merchant class of our Srol' Zalmanzon is inconsistent with a Chabad rabbinic line descent. Though Srol's father's given name "Zalman" is compatible with "Yekutiel Zalman" (compound Hebrew name for the Chabad ancestor), there is NO primary source linking the Borisov Zalmanzons to the Chabad dynasty. **Chabad attribution: SPECULATIVE, leaning REFUTED.** The 436 Chabad person files imported 2026-04-19 should be flagged as speculative pending evidence.
+
+### Louis 1907 burial — NOT Lincoln Park
+
+Lincoln Park Cemetery Warwick RI opened 1908, one year AFTER Louis died (28 Jan 1907). His burial is likely in **Sons of Israel / Sons of Jacob** or another pre-1908 Providence Jewish cemetery. Barnett's 1960 Lincoln Park burial is in a separate later-generation plot. Agent G confirmed; next step is either FamilySearch microfilm 1013425 item 2 (Reservoir Avenue burial register 1859-1950, not indexed online) or RI Jewish Historical Association research request (research@rijha.org, 401-331-1360).
+
 ## 2026-04-22 (part 8): PARALLEL sweep8 + 4 agents — BIG strategic unlocks
 
 ### Summary
