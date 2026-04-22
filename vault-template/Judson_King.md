@@ -64,6 +64,24 @@ The death certificate informant was H.H. King of Pelzer, SC. None of the seven c
 
 **2026-04-22 update**: The 1900 Census record has now been located via FamilySearch browser search (ARK M3TM-NCY). Household composition: Judson King (head, 59), Chasstee A King (wife, 58), **Landrath King (son, 19)** -- a previously undocumented post-1880 son -- plus John F King (11) and Oryley H Cooley (24, a Cooley relative) as "Other People on This Record." **H.H. King is NOT in Judson's 1900 household.** Therefore H.H. was an independent household head by 1900, which is consistent with him being the 1921 death certificate informant from a separate Pelzer residence. The 1900/1910/1920 enumeration of H.H. King as a separate Greenville County household is the remaining decisive record.
 
+## 1920 Census Record (retrieved 2026-04-22)
+
+**FamilySearch ARK**: https://www.familysearch.org/ark:/61903/1:1:M6ZN-NHM
+**Collection**: United States, Census, 1920
+**Digital Folder Number**: 004968745
+**Microfilm Number**: 1821698
+**Image Number**: 470
+**Event Place (Original)**: Oaklawn, **ED 41**, Greenville, South Carolina
+**Sheet**: 3-B, Line 66, Household #51
+**Affiliate Publication**: T625 (NARA)
+
+| Name | Relationship | Sex | Age | Birthplace |
+|---|---|---|---|---|
+| Judson King | Head | M | 78 | South Carolina (Father SC, Mother SC; Married) |
+| Charstee King | Wife | F | 77 | South Carolina |
+
+Household contains only Judson and Charstee -- no children or other relatives enumerated. H.H. King (the 1921 death certificate informant) is therefore NOT co-resident; confirms he lived independently. **Image 470 of microfilm 1821698 is the next browsing target for neighbor analysis** -- H.H. King, if he lived in the Oaklawn/Pelzer area, should appear on a nearby page of the same ED (ED 41 Oaklawn).
+
 ## 1900 Census Record (retrieved 2026-04-22)
 
 **FamilySearch ARK**: https://www.familysearch.org/ark:/61903/1:1:M3TM-NCY

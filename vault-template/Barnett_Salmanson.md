@@ -71,19 +71,35 @@ His occupation was described as **"Founder and treasurer of Adams Drug Co. Inc. 
 | Martha E. Corin obituary, 2015 | Newspaper obituary | Jewish Rhode Island |
 | Adams Drug Company / Brooks Pharmacy | Encyclopedia | Wikipedia |
 
-## Naturalization (NY, 1912) — located 2026-04-22
+## Naturalization (NY Declaration 1912 + RI Petition) -- located 2026-04-22
 
-Tier 1 FamilySearch-indexed entry found via browser-emulated search in the "New York, County Naturalization Records, 1791-1980" collection:
+### NY 1912 Declaration of Intention (first papers)
 
-- **Barnett Salmanson**, Principal
-- **Naturalization: 1912, New York, United States**
-- **Birth: 15 May 1885 Vilna, Russia**
+Tier 1 FamilySearch-indexed entry (drilldown 2026-04-22):
+- **Barnett Salmanson**, Age 26
+- **Birth: 15 May 1885, Vilna, Russia**
+- **Event**: Naturalization (Declaration of Intention), 1912, New York, United States
+- **Document Number 24246**
+- **Volume**: Declarations of Intention 1912, vol 49 (nos 24001-24500)
+- **FamilySearch ARK**: `QR6Y-9XN2`
+- **Collection**: New York, County Naturalization Records, 1791-1980
+- **Digital Folder 005412285, Image 1166**
 
-This **resolves OQ #4** (birth year 1883 vs 1885 discrepancy) at Strong Signal. It also establishes that **Barnett naturalized in New York, not Rhode Island** -- a previously unknown fact. The FamilySearch "Rhode Island Naturalization Records 1907-1991" collection (2622566) returned **zero hits** under every spelling variant (Salmanson, Zalmanson, given-name-only) because his petition is not in that collection.
+This is the **Declaration of Intention** (first papers), filed in NY at age 26 in 1912. A Declaration was typically filed 2+ years before the final Petition for Naturalization, meaning Barnett would have filed his Petition ~1914 or later.
 
-The NY 1912 naturalization is consistent with son Samuel Salmanson being born in Brooklyn NY in June 1912 -- the family was still in NYC at the time of naturalization, moving to Providence RI shortly afterwards (by ~1918 per WWI draft card address 236 Sterling Ave, Providence).
+### RI Petition for Naturalization (second papers) -- IDENTIFIED BUT NOT YET PULLED
 
-**Not yet pulled**: the full naturalization petition image (would list port of entry, ship name, residence addresses, witnesses, wife's name). Available via the same FamilySearch search; requires clicking into the indexed record image.
+The FamilySearch "Similar Records" panel attached to ARK QR6Y-9XN2 surfaces multiple **"Rhode Island, U.S. District and Circuit Court Naturalization Records, 1802-1945"** entries for Barnett Salmanson. This is a DIFFERENT collection from the previously-searched "Rhode Island Naturalization Records 1907-1991" (collection 2622566), which is why the earlier RI search returned zero hits. His RI naturalization **Petition** is in the U.S. District/Circuit Court collection, not the state-level one.
+
+**Next step**: Drill down into the RI District/Circuit Court records for the final Petition, which would list: port of entry, ship name, arrival date, residence addresses, wife's name, witnesses (typically friends/business contacts -- valuable for identifying Barnett's known associates in 1914-1918 Providence).
+
+### Why the original zero-hit result was misleading
+
+The 2026-04-22 first sweep searched FamilySearch collection 2622566 ("Rhode Island, Naturalization Records, 1907-1991") and got 0 results for every spelling. That collection indexes STATE-level naturalization records. Barnett naturalized in federal court (U.S. District and Circuit Court for Rhode Island), which is a separate collection. Lesson: when a search for a known-to-exist record returns zero, check whether the collection scope matches the jurisdiction.
+
+### Timeline implication
+
+The NY 1912 declaration is consistent with son Samuel Salmanson being born in Brooklyn NY in June 1912 -- the family was still in NYC at the time of declaration. By 1918 (WWI draft card), Barnett was in Providence RI at 236 Sterling Ave -- the RI federal court petition was likely filed ~1915-1918, making him a citizen before or during his WWI service.
 
 ## Immigration Record Verification (2026-04-14)
 

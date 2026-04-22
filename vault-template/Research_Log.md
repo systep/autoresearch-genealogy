@@ -10,6 +10,29 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-04-22 (part 5): FamilySearch sweep5 -- strategic unlock top-5 attempt (11 queries)
+
+### Summary
+
+Fifth FamilySearch browser batch. Script `scripts/sweep5.js`; results `scripts/sweep5-results.json`. Three drilldowns + 8 targeted searches aimed at the biggest-unlock OQs identified earlier in the session: Levi Itzhak Zalmanson US presence, Charstee Cooley parents, H.H. King, Elizabeth Brasher parentage, and Barnett's NY/RI naturalization full records.
+
+### Decisive finds
+
+- **Barnett Salmanson NY 1912 Declaration of Intention FULL RECORD**: ARK `QR6Y-9XN2`, Document #24246, Vol 49 (nos 24001-24500), Digital Folder 005412285, Image 1166. Tier 1 confirms b. 15 May 1885 Vilna Russia at age 26. The attached "Similar Records" panel surfaces **multiple RI naturalization records in the "Rhode Island, U.S. District and Circuit Court Naturalization Records 1802-1945" collection** -- a different collection than the previously-searched 2622566. His RI federal-court Petition (final papers) is in this collection and has not yet been drilled into. Updated [[Barnett_Salmanson]] with full naturalization section and the NY/RI distinction.
+- **Judson King 1920 Census FULL RECORD**: ARK `M6ZN-NHM`, ED 41 Oaklawn Twp Greenville SC, Sheet 3-B Line 66 Household 51, T625 Image 470. Only Judson (78) and Charstee (77) in household -- no H.H. King. **Image 470 is the image to browse for neighbor analysis** to locate H.H. King enumerated in nearby households of ED 41. Added 1920 Census section to [[Judson_King]].
+
+### Partial finds
+
+- **John Cooley family 1850 Greenville SC** (ARK M8QN-6L4): John Cooley (33) + Anna Cooley (27) + Mary Ann (7, b. 1840), Emily (6), Nancy (4), James (1), plus Susan Cockran (45, probable mother-in-law). But Mary Ann Cooley is NOT Charstee Cooley (Mary Ann 1840-1926, tree 2S77-QMG; Charstee b. 1842, d. 1921). Charstee's parent family is a different Cooley household in Greenville County 1850 that has not yet surfaced via this search approach.
+
+### Confirmed negatives
+
+- **Levi Itzhak Zalmanson US records**: zero direct hits. RI coll 2622566 returned 0; broad searches returned mostly unrelated "Levi T Zolman" muster rolls (1916-1939). The WWI draft card clue that Levi Itzhak naturalized is still unproven in FamilySearch; MyHeritage may have richer Russian Empire records for this.
+- **Ezekiel Henderson Chatham NC 1782 marriage bond**: search returned Civil War Soldiers Index results only (wrong generation). The marriage bonds in FamilySearch catalog 191194 likely require image-browsing, not record search.
+- **Kings in Oaklawn 1920**: 332 results, top matches are John W. King's family (already known). H.H. King did not surface in top 5.
+- **Hirsch Markel 1891 Baltimore immigration**: date (1891) predates the Sambor 1894 marriage -- either different person or Hirsch returned to Europe after first immigration. Worth noting but not decisive.
+- **Nissen Markell Buffalo NY d. 1947**: probably a descendant, not the Nissen Mendel grandfather hypothesized in OQ #10.
+
 ## 2026-04-22 (part 4): FamilySearch sweep4 -- OQ #1 Resolved + H.H. King campaign (10 queries)
 
 ### Summary
