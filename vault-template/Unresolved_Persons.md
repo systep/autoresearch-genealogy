@@ -24,6 +24,7 @@ People who appear in multiple documents, share family surnames, or hold family r
 | "Morris Markel (Billy)" | Listed on Yichus typed family tree listing: "Morris Markel (Billy) + Wife + Children" | Yichus typed listing (Tier 2) | Most likely refers to [[Morris_Markel]]'s son **Joseph Harold Markel** (b. ~1932) known by the nickname "Billy." The 1940 census lists "Harold" (age 8); the 1950 census lists "Joseph" (age 18). Yichus confirms "First son Joseph Harold was born." The "Morris Markel (Billy)" notation may be a shorthand for "the Morris Markel known as Billy" referring to the son's branch, OR a grandson. A Joseph Markel obituary exists at legacy.com (pid=172362045; 403 on fetch). HUMAN ACTION REQUIRED to access. | UNRESOLVED |
 | Regina Kascher | Born 3 August 1861, Waldhütten (Valchid), Transylvania. Died 4 March 1933. Daughter of Michael Kascher I + Stephania Benning. Older sister of [[Michael_Kascher_Sr_1864]]. | Waldhutten church certificate "VATER" (Tier 1, 10 Feb 1938, Pastor A. Bogeschdorfer) | RESOLVED: Person file exists at [[Regina_Kascher]]. She remained in Waldhütten her entire life. Died age 71. Unlike brother Michael who emigrated to Ohio. | RESOLVED |
 | Sara Hinde Markel (Lutowiska) | Markel woman who married Shamay Bartel in 1877 in Lutowiska, near Sambor | kehilalinks.jewishgen.org/Drohobycz/families/markel.html (Tier 2) | Different Markel family from Lutowiska (not Waniowice). The children were registered as "Markel" because the marriage was religious only (not civil). The shared surname in the Sambor region may indicate a distant kinship with the Waniowice Markels, but this is unestablished. | UNRESOLVED |
+| Bella Measroch | Second wife of [[Levi_Itzhak_Zalmanson]] (Louis Salmanson, d. 1907 Providence). Birth/death dates unknown. Surname is rare (~12 global occurrences per Namespedia) and concentrated in South Africa — see OQ #18. | Geni + MyHeritage user trees (Tier 3); Levi Itzhak marriage consensus (Tier 2-3) | Lithuania-to-SA family pipeline now better documented (2026-04-22 OQ-18 sweep): Measroch Street in Piet Retief (eMkhondo, Mpumalanga); Simeon Julian Measroch m. Durban 1917; Geni snippet linking Dvora Deborah Miriam Maria Measroch to a Chaima Werner mother from Telšiai, Lithuania. Bella's putative parents (Joseph Measroch + Deborah Werner) from Levi_Itzhak_Zalmanson notes remain Tier 3. No primary source for Bella herself. Person file NOT warranted until a record names her specifically with dates/place. | UNRESOLVED |
 
 ## Priority 2: Community Connections
 
@@ -64,9 +65,9 @@ Insufficient context to determine relationship or identity.
 
 ## Statistics
 
-- **Total unresolved persons tracked**: 15
+- **Total unresolved persons tracked**: 16
 - **Resolved**: 1 (Regina Kascher)
-- **UNRESOLVED, Likely Family**: 8 (H.H. King, Lena Fain, Mattis Markel, Yosef Markel, Arthur Goodman, Max Tachner, "Morris Markel Billy", Sara Hinde Markel Lutowiska)
+- **UNRESOLVED, Likely Family**: 9 (H.H. King, Lena Fain, Mattis Markel, Yosef Markel, Arthur Goodman, Max Tachner, "Morris Markel Billy", Sara Hinde Markel Lutowiska, Bella Measroch)
 - **Community Connections**: 7 (6 Ahavath Sholom founders + Abraham David Sternbach)
 - **Awaiting Browser Access**: 2 (Jack Schlusselberg, Peppi Schlusselberg)
 - **Cannot Identify**: 0

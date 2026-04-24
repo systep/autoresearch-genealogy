@@ -67,6 +67,25 @@ The file contains official correspondence proving the Rokiskis Meshchan Admin at
 
 **OQ #18 (new): Did Louis Zalmanson travel via South Africa before Providence RI?** The April 1909 Novoalexandrovsk police report states he left for "Africa" more than 10 years ago. Combined with wife **Bella Measroch** (rare surname concentrated in South Africa), there is now circumstantial support for a South African transit. Research: South African Jewish immigration records 1890-1905, Durban/Cape Town Jewish burial societies, Tombstone Museum South Africa for any Zalmanson/Salmanson in SA 1895-1907.
 
+### 2026-04-22 OQ-18 scoped South Africa transit sweep — updated Moderate Signal leaning SUPPORTED
+
+An 18-query scoped web sweep (logged in Research_Log.md under "2026-04-22 OQ-18 South Africa Transit Investigation") moves OQ #18 to **PARTIALLY_RESOLVED / MODERATE SIGNAL leaning SUPPORTED**. Three independent circumstantial lines now converge:
+
+1. **Tier 1 LVIA 8 Apr 1909 Novoalexandrovsk Police statement** (above): destination Africa, departure before 1899.
+2. **Measroch family in South Africa, new evidence.** **Measroch Street in Piet Retief (eMkhondo, Mpumalanga)** is documented on multiple SA property/lodging listings (Pendora Lodge 13a Measroch Str; N H R Investments 2 Measroch Str; Market on 5 on corner of Market + Measroch). Street names in small SA towns typically commemorate pioneer settler families. Taken with the earlier finding (Simeon Julian Measroch m. Durban 25 May 1917) and the Geni snippet linking "Dvora Deborah Miriam Maria Measroch" to a Chaima Werner mother from Telšiai, Lithuania, the Measroch family's Lithuania → South Africa pipeline is now much more strongly documented.
+3. **Base-rate confirmation (Tier 2).** 2/3 of the ~40,000 Cape Colony Jewish arrivals 1880-1914 came from Kovno gubernia, including Rakishok (Rokiskis). Louis's putative Rokiskis → SA → USA path is the modal Litvak route of his cohort. Internal cross-reference: [[Chaim_Tzvi_Schneerson]] (b.1834 d.1881 South Africa), a Schneerson collateral via the Shneur Zalman of Liadi tree, establishes Chabad-adjacent kin already present in SA by 1881.
+
+**Timing check.** Police hearsay ("departed >10 years ago" reported April 1909) → pre-1899 departure. Tier 1 RI death index: d. 28 Jan 1907 Providence. ~8-year interval is long enough for SA arrival c.1898, Boer War displacement (1899-1902), onward to US by 1905-1906. Compatible.
+
+**Still insufficient for RESOLVED (Strong Signal).** No primary SA record for Louis, Srol/Israel, or Bella Measroch pre-1907 was surfaced by free web search. All three authoritative SA indices (SA Jewish Rootsbank Arrivals, SA-SIG Cape Colony Naturalisation Register 1903-1907, Geni Measroch surname page) returned 403 on automated fetch. Human browser access required to advance.
+
+**Highest-value next steps (HUMAN ACTION REQUIRED):**
+- https://jewishroots.uct.ac.za/Arrivals.aspx — search Zalmanson / Salmanson / Zalmanzon / Measroch / Salk / Zalk arrivals 1895-1910.
+- https://www.jewishgen.org/safrica/natrec.htm — Cape Colony Jewish Naturalisation Registers 1903-1907 (ed. Saul Issroff).
+- https://www.geni.com/surnames/measroch — map all 32 Measroch profiles, identify Bella's parents and siblings.
+- Durban Chevra Kadisha / Park Lands Cemetery pre-1907 burials.
+- Piet Retief municipal historical records — origin of Measroch Street name.
+
 ### Archive citation for vault use
 
 > **LVIA F. I-210, Op. 2, D. 439**, "Pomsemeynyy spisok meshchan g. Rokishki: semeystvo Zalmanzon, Leyvik Sroelev" (1908, with correspondence 1909). 8 leaves. Includes: index cover, 1908 Family List entries, Rokiskis Meshchan Admin letters №486 (to Minsk) and №950 (to Novoalexandrovsk), Minsk Address Office card, Minsk 2nd District protocol of canvas, Novoalexandrovsk Police Supervisor response, Minsk Pristav return letter №5292. Access: LVIA English research request service via email.

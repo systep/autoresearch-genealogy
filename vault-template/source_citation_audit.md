@@ -564,7 +564,7 @@ note: "2026-04-19 scoped audit: Salk and Baldwin batches reviewed, Kuniansky upg
 | [[Hannah_Thompson_Rossell]] |  |  | User-provided data | Low priority |
 | [[Hans_Jost_Hoffman]] | 1628 | 1697-02-26 | GEDCOM f266i6 (MyHeritage/FamilySearch/Geni) | Low priority |
 | [[Harriet_Cordelia_Hassletine_Drake]] | 1855-07-07 | 1881-07-25 | MyHeritage GEDCOM export (Tier 3) | Low priority |
-| [[Harry_Kuniansky]] | 1888-06-15 | 1933-10-26 | MyHeritage GEDCOM export (Tier 3) | Low priority |
+| [[Harry_Kuniansky]] | 1889-03-21 | 1933-10-26 | Find a Grave #99745398 (Tier 2, headstone-derived; supersedes GEDCOM 1888-06-15 per cross_reference_audit.md row 61) | Low priority |
 | [[Harry_S._Kuniansky]] | unknown | 2022-02-17 | MyHeritage GEDCOM export (Tier 3) | Low priority |
 | [[Hattie_Clyde_Drake]] | 1883 | 1899 | MyHeritage GEDCOM export (Tier 3) | Low priority |
 | [[Hattie_Kuniansky]] | 1925-03-25 | 2017-05-21 | MyHeritage GEDCOM export (Tier 3) | Low priority |
