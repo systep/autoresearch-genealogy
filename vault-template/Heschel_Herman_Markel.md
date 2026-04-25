@@ -11,8 +11,9 @@ sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500052)"
   - "MyHeritage Smart Match (Geni)"
   - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
+  - "Family-archive photographic portrait, undated (Tier 2; back caption: 'grandfather Heshel Markel 1862-1916'; photo lab date stamp suggests print made 1968; reserved Assets filename: Heshel_Markel_Portrait.jpg). Chat-shared 2026-04-25, not yet pushed to Assets."
 created: 2026-04-10
-updated: 2026-04-18
+updated: 2026-04-25
 tags: [genealogy, markel, person, galicia, jewish, tier-1, waniowice, sambor]
 ---
 
@@ -87,6 +88,13 @@ Confidence: Moderate. The Yichus narrative (Tier 2, primary family document) cor
 | GEDCOM (MyHeritage, entry I500052) | family tree database | |
 | MyHeritage Smart Match (Geni) | user-contributed tree | |
 | Yichus narrative by Ruth Gold, Oct 9, 2011 | Primary family document (Tier 2) | Assets/Yicchis and Narrative.PDF |
+| Family-archive portrait of Heshel Markel | Family photograph (Tier 2) | Chat-shared 2026-04-25; reserved filename `Assets/Heshel_Markel_Portrait.jpg`. Print bears photo-lab date stamp (~1968) on back, plus handwritten caption "grandfather Heshel Markel 1862-1916" (English; consistent with caption added by an American descendant). Subject: bearded man in wide-brim black hat, traditional Eastern European Jewish dress. The 1968 print is presumably a copy of an earlier original photograph (likely taken in Galicia c. 1900-1916). |
+
+## Photographic Evidence (added 2026-04-25)
+
+A descendant-captioned portrait of Heshel Markel was added to the family archive (chat-shared 2026-04-25; reserved filename `Assets/Heshel_Markel_Portrait.jpg`). The photo print itself bears a Fujicolor Crystal Archive watermark and a date stamp consistent with a **1968 photo-lab reproduction**, indicating the print is a copy of a much earlier original. The caption ("grandfather Heshel Markel 1862-1916") is written by an American descendant — consistent with the caption-handwriting style of [[Florence_Markel_Mermelstein]] or [[Ruth Gold]] / her sisters, the only descendants who would refer to Heshel as "grandfather." Confidence: the dates on the back caption (1862-1916) match the AGAD Tier 1 records exactly, providing **independent visual corroboration** of Heshel's existence and identification.
+
+The chat-shared identification key ([[Markel_Family_Portrait_Identification_Key]]) does not place Heshel in the large family-portrait photo (he died in 1916), so the standalone portrait is the only known image of Heshel in the family archive. The chat-shared **oval-frame portrait** ([[Markel_Oval_Portrait_Unknown_Subject]]) of a different bearded man may or may not be a second image of Heshel — open question pending family identification.
 
 ## Data Discrepancies
 

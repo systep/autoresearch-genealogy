@@ -1,8 +1,48 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-22 (part 8)
+updated: 2026-04-25
 tags: [genealogy, research, open-questions]
+---
+
+## 2026-04-25 session updates — Markel-line photo & Lockspeiser PDF ingest
+
+### NEW OQ #20 (OPEN): Who is Tante Chawa Frei Lockspeiser, and was the Yichus narrative incomplete?
+
+**Status**: Tante Chawa is identified only via the back-of-photo captions in `Assets/Lockspeisers-Mom's Maternal Aunt's Family.pdf` and the PDF's title ("Mom's Maternal Aunt's Family"). The Yichus narrative by Ruth Gold (Oct 9, 2011) names only **three** sisters of Leah Frei (Bashe, Feiga, Frieda Frei Sternback). The PDF establishes a **fourth** sister, Chawa, who married Hersch Lockspeiser and had at least 6 children photographed in 1936. **The Yichus's omission of Chawa is itself notable.** Possibilities: (a) Ruth Gold did not know about Chawa or her family; (b) the family connection was attenuated; (c) Chawa was identified by another name in the Yichus that has not yet been recognized. **Action**: re-read the Yichus narrative for any unmatched sister name; search Sambor Yizkor Book and Yad Vashem under "Lockspeiser"; ask the family. See [[Chawa_Frei_Lockspeiser]].
+
+### NEW OQ #21 (OPEN): Who are the 6 Lockspeiser children pictured in 1936?
+
+**Status**: The 1936 photo back caption ("Tante Chava's Children") names no individual children. Estimated ages 4-10 → b. c. 1926-1932. **Action**: search Lwów / Sambor / Drohobych Jewish vital records 1925-1935 for "Lockspeiser" births; Yad Vashem Pages of Testimony; ask the family. See [[Lockspeiser_Children_1936_Photo]].
+
+### NEW OQ #22 (OPEN): Who is the subject of the chat-shared oval-frame portrait?
+
+**Status**: Bearded man in dark coat, Belle Époque oval frame (c. 1885-1915), hand-tinted. Subject not identified by any caption. Hypothesis candidates: [[Heschel_Herman_Markel]] (a separate sitting from his labeled portrait), [[Hersch_Lockspeiser]] (a separate sitting from his labeled portrait), [[Yoseph_Frei]], [[Dov_Markel]]. **Action**: ask the family; do facial-feature comparison against Heshel Markel labeled portrait + Hersch Lockspeiser labeled portrait at higher resolution. See [[Markel_Oval_Portrait_Unknown_Subject]].
+
+### NEW OQ #23 (OPEN): Yiddish postcard — sender, recipient, date, contents?
+
+**Status**: Postcard back, ~9 lines of Yiddish cursive on a "Carte Postale" stock. Not transcribable from chat-resolution image. Likely an interwar Galicia → Rhode Island family communication. **Action**: submit to Yivo Institute transcription service or JewishGen ViewMate. Photograph the postcard's front (presumably picture side, may identify origin location) and stamp/postmark side at high resolution. See [[Yiddish_Postcard_Carte_Postale_Transcription]].
+
+### NEW OQ #24 (OPEN): Three-women + four-children spa photo — who and where?
+
+**Status**: Outdoor photo at a Central European spa-style building, mid-1930s. 3 women + 4 children unidentified. **Action**: ask the family; compare adult faces against known Markel-sibling photos; identify the spa from the architecture (candidates: Truskawiec, Krynica, Carpathian foothills resorts). See [[Three_Women_Children_Spa_Photo]].
+
+### NEW OQ #25 (OPEN): What are the names of Avraham Chaim Markel's wife and children?
+
+**Status**: The identification key reveals that [[Avraham_Chaim_Markel]] had a wife (top-row #2: "His Wife — Deceased in Ukrainian pogrom") and at least one child (top-row #3) who were photographed alongside him. **Names not recorded.** The Yichus narrative also does not name them. Top-row #3's wording "Avraham Chaim's Child with Hannah Markel" is ambiguous (see [[Markel_Family_Portrait_Identification_Key]] §Discrepancies). **Action**: search Sambor / Lwów Jewish marriage records 1900-1925 for an Avraham Chaim Markel marrying a woman in Galicia; search Yad Vashem Pages of Testimony for victims of the Sambor district destruction with father/spouse name "Avraham Chaim Markel."
+
+### NEW OQ #26 (OPEN): Who is "Child Regina" in the family group portrait?
+
+**Status**: Identification key middle-row #7 labels a child as "Regina — in pogrom" (i.e., a child who was murdered in the pogrom). Regina is not currently in the vault. Most plausibly a daughter of Avraham Chaim, Hannah, Masha, or Pessel — but unspecified. **Action**: ask the family; search Yad Vashem POT for Regina + Markel surname + Sambor district.
+
+### NEW OQ #27 (OPEN): Frieda Karp on the identification key — sister or niece of Moishe Myer Karp?
+
+**Status**: The Yichus narrative documents [[Frieda_Karp_Weidenfeld]] as the **daughter** of Joseph and Feiga Karp, making her Moishe Myer Karp's **niece**. The identification key calls her "Sister of Moishe Myer Karp." Possible reconciliations: (a) the key author wrote "sister" loosely for "niece"; (b) the photo's "Freida Karp" is a different individual — Joseph Karp's sister, not daughter. **Do NOT silently merge** per CLAUDE.md Guard Rail #6. **Action**: ask the family; if (b) is correct, create a new person file for Joseph Karp's sister Freida.
+
+### NEW OQ #28 (OPEN): Is the family group portrait taken in Galicia or in the United States?
+
+**Status**: The identification key includes individuals who never emigrated (Pessel Markel, who was murdered in Galicia c. 1939-1943) AND individuals who did emigrate (Morris Markel and family, in Rhode Island after c. 1928). Photograph dating constraint: c. 1926-1928 (Pessel alive + Joseph Harold Markel not yet born + Kate Markel age ≥0). Most likely setting: **Galicia, c. 1926-1928, during a visit by emigrated relatives back to the home country.** Alternative: a Rhode Island sitting during a Pessel visit. **Action**: locate higher-resolution scan; look for studio mark; ask the family. See [[Markel_Family_Portrait_Identification_Key]].
+
 ---
 
 ## 2026-04-22 (part 8) session updates — LVIA Rokiskis Meshchan 1908 FAMILY LIST (TIER 1 FILE, 29 images)

@@ -1,7 +1,7 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-14
+updated: 2026-04-25
 tags: [genealogy, timeline, chronology]
 ---
 
@@ -226,6 +226,10 @@ Chronological index of all dated events across the family tree.
 | Aug 15, 1933 | Birth | Renya Tzoar (nee Weidenfeld) | Sambor, Poland | USHMM oral history irn619016 (Tier 2) |
 | 1933-1834 | Pension awarded ($57.50/yr) | Ezekiel Henderson (Rev. War) | | Pension S6994 |
 | 1936 | Marriage | [[Florence_Markel_Mermelstein]] + David Mermelstein | West Warwick, Rhode Island | Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2) |
+| c. 1926-1928 | Family group portrait (estimated date; ~15 people, Markel + Karp + Frei combined sitting; bottom-row identifies Frieda/Anne/Kaye/Thelma Markel as young children, Joseph Harold Markel not yet born; Pessel Markel still in Galicia → photo most likely **Galicia**) | Combined Markel/Karp/Frei extended family | Galicia (most likely Sambor / Lwów / Drohobych); studio mark not yet legible | Chat-shared 2026-04-25 photo + handwritten identification key (descendant, likely Ruth Gold). See [[Markel_Family_Portrait_Identification_Key]]. |
+| 1936 | Studio photograph of 6 Lockspeiser children in matching sailor suits, captioned "Zum Andenken / Jahre 1936" + later "Tante Chava's Children" | 6 children of [[Chawa_Frei_Lockspeiser]] + [[Hersch_Lockspeiser]] (names not yet recorded) | Galicia (presumed Lwów / Lemberg region) | Assets/Lockspeisers-Mom's Maternal Aunt's Family.pdf (Tier 2). See [[Lockspeiser_Children_1936_Photo]]. |
+| c. 1934-1938 (estimated) | Group photo at Central European spa-style building (3 women + 4 children; subjects unidentified) | Markel-line / Frei-line extended family | Central European spa (candidates: Truskawiec, Krynica, Carpathian foothills) | Chat-shared 2026-04-25 photo. See [[Three_Women_Children_Spa_Photo]]. |
+| c. 1968 | Photo-lab reproduction print of an earlier portrait of [[Heschel_Herman_Markel]]; back captioned "grandfather Heshel Markel 1862-1916" by an American descendant | [[Heschel_Herman_Markel]] (subject); descendant (caption author) | Photo-lab unknown; descendant in United States | Chat-shared 2026-04-25 portrait + back caption (Tier 2). See [[Heschel_Herman_Markel]] §Photographic Evidence. The original photo of Heshel was taken c. 1900-1916 in Galicia; the 1968 print is a reproduction. |
 | 6 Aug 1922 | Death | [[Mary_Elizabeth_Huff]] | Simpsonville, Greenville, SC | Headstone, MyHeritage |
 | 24 Mar 1937 | Death | [[William_Goldsmith_Long]] | Fort Pierce, St. Lucie, FL | Pedigree chart page 6 |
 | 1937 | Birth | Ruth Mermelstein (later Gold; author of Yichus narrative) | | Yichus narrative (Tier 2) |

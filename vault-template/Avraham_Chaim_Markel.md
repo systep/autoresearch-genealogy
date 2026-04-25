@@ -105,3 +105,14 @@ Direct database searches at Yad Vashem (collections.yadvashem.org) and USHMM (us
 | Death location | "Rodzinka Forest" (Yichus narrative, Tier 2) | Documented execution site near Sambor was **Radlowicze** (Radlovitze, now Ralivka) | **POSSIBLE MATCH.** "Rodzinka" may be a garbled oral tradition version of "Radlowicze." Both are forests near Sambor. Alternatively, the name may have been misremembered. |
 | Perpetrators | "Polish Cossacks" (Yichus narrative, Tier 2) | Historical record: Wehrmacht (Sept 1939), Ukrainian nationalists (July 1941), German SS/police + Ukrainian auxiliary police (1942-1943) | **LIKELY INCORRECT.** "Polish Cossacks" is historically anachronistic. Perpetrators were most likely German SS/police and Ukrainian auxiliary police, consistent with the documented pattern in the Sambor district. |
 | Renya Tzoar's survival | "Hidden in a convent" (Yichus narrative, Tier 2) | Evacuated to children's sanatorium then collective farm near Kuybyshev; housed in convent AFTER returning to Poland post-war (USHMM irn619016, Tier 2) | **PARTIALLY RESOLVED.** Both sources contain elements of truth. The Yichus conflated wartime evacuation with post-war convent placement. |
+
+
+## Photographic Evidence (added 2026-04-25)
+
+A new family-archive group portrait (chat-shared 2026-04-25; reserved Assets filename `Markel_Karp_Family_Portrait_c1925.jpg`) and its handwritten identification key (reserved `Markel_Family_Portrait_Identification_Key.jpg`) have been ingested into the vault. See [[Markel_Family_Portrait_Identification_Key]] for the full transcription and cross-references. This individual is identified at:
+
+> **Top-row #1 ("Killed in pogrom — Avraham Chaim Markel — Brother to Moishe Myer + my Mom")**
+
+The key also includes top-row #2 ("His Wife — Deceased in Ukrainian pogrom"), establishing for the first time that Avraham Chaim had a wife who is photographically attested even though her **name is not recorded** in either the key or the Yichus narrative. This is a new actionable open question: identify the wife. The key further includes top-row #3, a child of Avraham Chaim with a relationship clause "with Hannah Markel" of ambiguous reading (could mean named-after-the-aunt; photographed-with-the-aunt; or wife-was-named-Hannah). See [[Markel_Family_Portrait_Identification_Key]] §Discrepancies.
+
+Confidence impact: this is **one additional Tier 2 source** (family-archive photo + handwritten descendant caption). It does not by itself unlock primary-source documentation, but it independently corroborates the Yichus narrative on the relevant biographical points.

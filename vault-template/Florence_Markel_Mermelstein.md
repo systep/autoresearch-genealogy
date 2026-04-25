@@ -84,3 +84,14 @@ Confidence: Moderate. The Yichus narrative and typed family tree listing (Tier 2
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | David Mermelstein dates | 1909-1990 (typed family tree listing, Tier 2) | Not in GEDCOM | Single source only. The typed listing gives David as "Aaron Dovid" with birth 1909 and death 1990. Note: David and Florence share the same birth and death years (both 1909-1990), which is notable but not impossible. |
+
+
+## Photographic Evidence (added 2026-04-25)
+
+A new family-archive group portrait (chat-shared 2026-04-25; reserved Assets filename `Markel_Karp_Family_Portrait_c1925.jpg`) and its handwritten identification key (reserved `Markel_Family_Portrait_Identification_Key.jpg`) have been ingested into the vault. See [[Markel_Family_Portrait_Identification_Key]] for the full transcription and cross-references. This individual is identified at:
+
+> ****Author of the identification key.** The key uses the phrase "my mom Florence" twice (top-row #1 and middle-row #11), establishing that one of Florence's children — Ruth Gold (b. 1937), Hashy (b. 1940), or Lea (b. 1945) — drew the key. Penmanship and phrasing patterns match the Yichus narrative authored by **Ruth Gold**, making Ruth the most likely key author.**
+
+The Yichus narrative (2011) and the identification key (undated, post-1990) are therefore **two distinct documents in the same hand**, providing internal consistency in the family's American-side documentation chain. The key likely identifies the photograph that Ruth was working from when she wrote portions of the Yichus.
+
+Confidence impact: this is **one additional Tier 2 source** (family-archive photo + handwritten descendant caption). It does not by itself unlock primary-source documentation, but it independently corroborates the Yichus narrative on the relevant biographical points.

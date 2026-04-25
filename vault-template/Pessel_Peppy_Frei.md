@@ -71,3 +71,14 @@ No results found for "Pessel Frei" in Yad Vashem or USHMM databases via web sear
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | Death year | "Murdered 1940" (Yichus narrative, summary/list section) | "Rosh Hashanah 1939, marched to Rodzinka Forest" (Yichus narrative, detailed narrative section) | **UPDATED 2026-04-17**: Neither date is correct per the historical record. The Wehrmacht briefly occupied Sambor Sept 8-20, 1939 (only 2 Jews murdered), then Soviets took over. No mass killing of Jews occurred during 1939-1941 Soviet occupation. "1940" is closer to the actual timeline (1941-1943) but remains inaccurate. Death most likely occurred 1942-1943 during Sambor ghetto liquidation. See [[Avraham_Chaim_Markel]] Holocaust Record Search for full analysis. |
+
+
+## Photographic Evidence (added 2026-04-25)
+
+A new family-archive group portrait (chat-shared 2026-04-25; reserved Assets filename `Markel_Karp_Family_Portrait_c1925.jpg`) and its handwritten identification key (reserved `Markel_Family_Portrait_Identification_Key.jpg`) have been ingested into the vault. See [[Markel_Family_Portrait_Identification_Key]] for the full transcription and cross-references. This individual is identified at:
+
+> **Middle-row #11 ("Pessel Markel — sister to Moishe Myer Markel + my mom Florence")**
+
+Pessel's presence in the photograph constrains the photograph's date and place: she did not emigrate (per Yichus, she was murdered in Galicia c. 1939-1943). Either the photograph was taken **in Galicia** (during a visit by emigrated relatives) or Pessel was visiting the United States. The first reading is more consistent with the documentary record. See [[Markel_Family_Portrait_Identification_Key]] §Photograph Setting and Dating.
+
+Confidence impact: this is **one additional Tier 2 source** (family-archive photo + handwritten descendant caption). It does not by itself unlock primary-source documentation, but it independently corroborates the Yichus narrative on the relevant biographical points.
