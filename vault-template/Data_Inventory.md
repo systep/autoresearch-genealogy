@@ -45,7 +45,13 @@ Complete inventory of all ancestry-related data assets. Each tagged with source,
 
 | Document | Family | Location |
 |---|---|---|
-| Yichus narrative by Ruth Gold, Oct 9, 2011 (10 pages: typed family tree listing pp. 1-5, narrative pp. 6-8, Karp family p. 10) | Markel, Frei, Karp, Mermelstein, Sternbach | Assets/Yicchis and Narrative.PDF |
+| Yichus narrative by Ruth Gold, Oct 9, 2011 (10 pages: typed family tree listing pp. 1-5, narrative pp. 6-8, Karp family p. 10) | Markel, Frei, Karp, Mermelstein, Sternbach | Assets/Yicchis and Narrative.PDF (also duplicate Assets/History-Yicchis-Narrative.pdf, md5-identical) |
+| Lockspeiser family photo PDF (1936 children's photo + Hersch Lockspeiser portrait + handwritten back captions; 2 pages) | Frei (Chawa branch), Lockspeiser | Assets/Lockspeisers-Mom's Maternal Aunt's Family.pdf — added to main 2026-04-25 (commit 7a76f51). See [[Chawa_Frei_Lockspeiser]], [[Hersch_Lockspeiser]], [[Lockspeiser_Children_1936_Photo]]. |
+| Heshel Markel portrait + descendant-captioned 1968 photo-lab print | Markel | Chat-shared 2026-04-25; reserved Assets filename `Herschl Markel 1862-1916.jpeg` (front) + back caption "grandfather Heshel Markel 1862-1916." See [[Heschel_Herman_Markel]] §Photographic Evidence. |
+| Markel/Karp family group portrait + handwritten 15-circle identification key (descendant, likely Ruth Gold) | Markel, Karp, Frei | Chat-shared 2026-04-25; reserved Assets filenames `Group Pic-must be in1929.jpeg` + `Group Pic-IDs of Everyone.jpeg`. See [[Markel_Family_Portrait_Identification_Key]]. |
+| Yiddish postcard ("Carte Postale" stock, ~9 lines Yiddish cursive, undated, sender/recipient unknown) | Markel-line, exact identification pending specialist transcription | Chat-shared 2026-04-25; reserved Assets filename `RuthGolds Aunt with sisters+kids-back.jpeg`. See [[Yiddish_Postcard_Spa_Photo_Back_Transcription]]. |
+| Three-women + four-children outdoor spa photograph (Central European spa, mid-1930s estimated, subjects unidentified) | Markel-line, exact identification pending family review | Chat-shared 2026-04-25; reserved Assets filename `Ruth Golds aunt with sisters+kids.jpeg`. See [[Ruth_Gold_Aunts_Spa_Photo_Postcard]]. |
+| Oval-frame hand-tinted bearded-man portrait (subject unidentified) | Markel-line candidate | Chat-shared 2026-04-25; reserved Assets filename `Herschl Portrait from Vic Hoffman-detail.jpeg`. See [[Heshel_Markel_Vic_Hoffman_Oval_Portrait]]. |
 | Kate Markel Kaplan obituary, Providence Journal, Jan 13, 2006 | Markel, Kaplan | Legacy.com pid=16302813 |
 | "The Founding of a Jewish Community" by Rebecca Twersky, RIJH Notes Vol. 7, 1977 | Sternbach, Ahavath Sholom | rijha.org |
 | David Futtersak obituary, Jewish Rhode Island, 2024 | Sternbach, Futtersak | jewishrhody.com |

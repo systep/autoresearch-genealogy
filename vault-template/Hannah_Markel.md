@@ -69,3 +69,14 @@ The Sambor Yizkor Book necrology does not list Hannah by name. No results found 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | Death date | "Rosh Hashanah 1939" (Yichus narrative, Tier 2) | Historical record shows no forest massacre near Sambor in Sept 1939 | **UNRESOLVED.** See [[Avraham_Chaim_Markel]] Holocaust Record Search for full analysis. |
+
+
+## Photographic Evidence (added 2026-04-25)
+
+A new family-archive group portrait (chat-shared 2026-04-25; reserved Assets filename `Group Pic-must be in1929.jpeg`) and its handwritten identification key (reserved `Group Pic-IDs of Everyone.jpeg`) have been ingested into the vault. See [[Markel_Family_Portrait_Identification_Key]] for the full transcription and cross-references. This individual is identified at:
+
+> **Top-row #3 (ambiguous: "Avraham Chaim's Child with Hannah Markel" — see [[Markel_Family_Portrait_Identification_Key]] §Discrepancies; the reading where Hannah Markel is *the aunt photographed alongside her brother's child* places Hannah in the photograph)**
+
+No standalone label for Hannah is on the key, only the ambiguous reference in #3. **Whether Hannah Markel is herself a subject of the family group portrait depends on the resolution of the #3 wording.**
+
+Confidence impact: this is **one additional Tier 2 source** (family-archive photo + handwritten descendant caption). It does not by itself unlock primary-source documentation, but it independently corroborates the Yichus narrative on the relevant biographical points.

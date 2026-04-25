@@ -29,7 +29,7 @@ tags: [genealogy, frei, frye, markel, person, galicia, jewish, tier-1, waniowice
 | Burial | Unknown | |
 | Father | **[[Yoseph_Frei\|Jozef Frei]]** of Waniowice | 1894 marriage (Tier 1); Yichus |
 | Mother | **[[Toba_Rivka_Frei\|Taube Frei]]** of Waniowice (= "Toba Rivka of Dubosari" per Yichus; "Taube" is Yiddish variant of Toba) | 1894 marriage (Tier 1); Yichus |
-| Sisters | Bashe Frei, Feiga Frei, Frieda Frei Sternback | Yichus narrative (Tier 2) |
+| Sisters | Bashe Frei, [[Feiga_Frei_Karp\|Feiga Frei]], Frieda Frei Sternback (Yichus, Tier 2); **[[Chawa_Frei_Lockspeiser\|Chawa Frei]]** (NEW 2026-04-25, Tier 2 — from Lockspeiser family-archive PDF, see Photographic Evidence section) | Yichus narrative (Tier 2) + Lockspeiser PDF (Tier 2) |
 | Lineage | Descended from the Pnei Yehoshua (great sage and author); "great yichus" | Yichus narrative (Tier 2) |
 | Spouse | **[[Heschel_Herman_Markel\|Hersch Markel]]** (Heshel; b. 1862 Waniowice; d. 1916; **innkeeper** in Waniowice) | 1894 marriage (Tier 1) |
 | Marriage (civil registration) | **21 August 1894**, Sambor Jewish Marriages; Lea's age = 29 | AGAD Fond 424 File 103 Record 34 (Tier 1) |
@@ -43,7 +43,7 @@ Lea Frei (Yichus spelling: Leah; nickname Leije) was born c. 1864-65 in Waniowic
 
 Leah came from "great yichus" and was descended from the **Pnei Yehoshua** (Rabbi Jacob Joshua ben Tzvi Hirsch Falk, a renowned sage and author of the Talmudic commentary by the same name) (Yichus narrative, Tier 2). This distinguished rabbinical lineage was a source of family pride.
 
-Leah had three sisters: **Bashe**, **Feiga**, and **Frieda** (Yichus narrative, Tier 2). Frieda Frei Sternback was the first of the family to emigrate to the United States; she settled in Brooklyn, New York (Yichus narrative, Tier 2).
+Leah had three sisters named in the Yichus narrative: **Bashe**, **Feiga** ([[Feiga_Frei_Karp]]), and **Frieda** Frei Sternback (Yichus narrative, Tier 2). Frieda Frei Sternback was the first of the family to emigrate to the United States; she settled in Brooklyn, New York (Yichus narrative, Tier 2). **A fourth sister, [[Chawa_Frei_Lockspeiser]], was added to the vault on 2026-04-25** based on a previously-unfiled family-archive PDF (`Assets/Lockspeisers-Mom's Maternal Aunt's Family.pdf`) titled "Lockspeisers — Mom's Maternal Aunt's Family." "Mom" in this context is Florence Markel Mermelstein (Leah's daughter), so "Mom's Maternal Aunt" = Leah's sister. Chawa married Hersch Lockspeiser and had at least 6 children photographed in 1936 (back inscription: "Zum Andenken / Jahre 1936" + "Tante Chava's Children"). The Yichus narrative's omission of Chawa is itself a notable open question: it may indicate the Yichus author had limited knowledge of her, or the family connection was attenuated.
 
 Leah married **[[Heschel_Herman_Markel]]** (Heshel Markel; b. 1862; d. 1916) in **1878**, when she was 14 and he was 16 (Yichus narrative, Tier 2). They lived in Vanyavitch, Galicia (near Lemberg/Lviv). Together they had **14 children**, of whom **6 died in childhood** and **8 survived to adulthood** (Yichus narrative, Tier 2).
 

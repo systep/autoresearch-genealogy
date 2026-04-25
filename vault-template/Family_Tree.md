@@ -1,10 +1,10 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-19
+updated: 2026-04-25
 tags: [genealogy, family-tree]
 confidence: mixed
-sources: [Assets/Screenshots, Assets/IMG_0782-0792, Assets/IMG_0791-church-note, web-research-2026-04-09]
+sources: [Assets/Screenshots, Assets/IMG_0782-0792, Assets/IMG_0791-church-note, Assets/Lockspeisers-Mom's Maternal Aunt's Family.pdf, web-research-2026-04-09]
 audit_note: "Full duplicate-file pass 2026-04-19; 10 redirects added on top of 26 pre-existing. See cross_reference_audit.md 'Duplicate Person File Audit' section."
 ---
 
@@ -283,8 +283,12 @@ Helen Brandt's parents were **Józef BRAND of Lisko** and **Brancia (Brina) GOLD
 │   ├── Nissan Karp (dec.)
 │   └── [[Frieda_Karp_Weidenfeld]] (Friedelle; murdered) + Fishel (Philip) Weidenfeld (murdered)
 │       └── Renya Tzoar (b. 1933; survived, hidden in convent; key witness)
+├── [[Chawa_Frei_Lockspeiser]] (Tante Chawa; NEW 2026-04-25, Tier 2 from Lockspeiser PDF) + [[Hersch_Lockspeiser]]
+│   └── 6 children, photographed 1936 in matching sailor suits (names not yet recorded; see [[Lockspeiser_Children_1936_Photo]])
 └── Frieda Frei Sternback (first to emigrate; settled Brooklyn, NY)
 ```
+
+**Chawa Frei Lockspeiser (NEW 2026-04-25)**: previously-undocumented fourth sister of Leah Frei. Identified via `Assets/Lockspeisers-Mom's Maternal Aunt's Family.pdf` (added to `main` 2026-04-25): 1936 photo of 6 children captioned "Zum Andenken / Jahre 1936" + "Tante Chava's Children"; portrait of bearded man captioned "Tante Chawa's husband / Hersch Lockspeiser." PDF title clinches the relationship: "Mom's Maternal Aunt's Family" → Mom (Florence Markel Mermelstein) → maternal aunt of Florence = sister of Leah Frei. **Confidence: low** (single Tier 2 source). The Yichus narrative's omission of Chawa is itself an open question. See [[Open_Questions]] #20.
 
 **Note on Taube's origin**: The Yichus describes her as "of Dubosari" (likely her family-of-origin association, Dubăsari/Dubossary in Bessarabia). The 1894 Tier 1 record places her in Waniowice at the time of her daughter's marriage. "Taube" and "Toba" are variant romanizations of the same Yiddish name.
 

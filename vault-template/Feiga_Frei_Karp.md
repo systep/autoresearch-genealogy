@@ -92,3 +92,14 @@ Feiga and Joseph were most likely murdered between 1941 and 1943 during the dest
 - Yad Vashem Central Database: search "Karp" from Sambor
 - USHMM Holocaust Survivors and Victims Database
 - JewishGen Yizkor Book Necrology Database
+
+
+## Photographic Evidence (added 2026-04-25)
+
+A new family-archive group portrait (chat-shared 2026-04-25; reserved Assets filename `Group Pic-must be in1929.jpeg`) and its handwritten identification key (reserved `Group Pic-IDs of Everyone.jpeg`) have been ingested into the vault. See [[Markel_Family_Portrait_Identification_Key]] for the full transcription and cross-references. This individual is identified at:
+
+> **Middle-row #8 ("Feiga Karp — Leah's sister")**
+
+The key confirms what the Yichus already records (Feiga is Leah Frei's sister) and provides photographic attestation. Given Feiga did not emigrate to the United States (she and her husband Joseph Karp were murdered in the Holocaust per Yichus + Sambor Yizkor Book), her presence in the photograph **supports the Galicia setting** for the family group portrait — see [[Markel_Family_Portrait_Identification_Key]].
+
+Confidence impact: this is **one additional Tier 2 source** (family-archive photo + handwritten descendant caption). It does not by itself unlock primary-source documentation, but it independently corroborates the Yichus narrative on the relevant biographical points.

@@ -143,3 +143,14 @@ Analysis of the 1919 marriage record data against the known identity of Helen Br
 |---|---|---|---|
 | Mother's surname | FREI (parents' 1894 marriage record) | FREY (Mojzesz Majer's 1919 banns) | Orthographic variant only. Not a discrepancy. Both refer to Lea Frei. |
 | Surname of self | MARKIEL | — | Same person as the family's senior generation (Mordko Ber MARKIEL). The younger Hersch is recorded as MARKEL in 1894 but his son Mojzesz Majer is MARKIEL in 1919. The MARKEL / MARKIEL variant alternation is characteristic of Galician Jewish family naming. |
+
+
+## Photographic Evidence (added 2026-04-25)
+
+A new family-archive group portrait (chat-shared 2026-04-25; reserved Assets filename `Group Pic-must be in1929.jpeg`) and its handwritten identification key (reserved `Group Pic-IDs of Everyone.jpeg`) have been ingested into the vault. See [[Markel_Family_Portrait_Identification_Key]] for the full transcription and cross-references. This individual is identified at:
+
+> **(Same person as Morris Markel — see [[Morris_Markel]].) Referenced in the identification key under his Yiddish name "Moishe Myer" (top-row #1, middle-row #9, middle-row #11), and as "Moishe Myer Markel" (middle-row #11).**
+
+See [[Morris_Markel]] §Photographic Evidence for the photograph dating analysis.
+
+Confidence impact: this is **one additional Tier 2 source** (family-archive photo + handwritten descendant caption). It does not by itself unlock primary-source documentation, but it independently corroborates the Yichus narrative on the relevant biographical points.
