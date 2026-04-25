@@ -9,7 +9,7 @@ sources:
   - "1940 US Census, West Warwick RI (Tier 1; Anne Markel age 18, household of Morris Markel)"
   - "1950 US Census, West Warwick RI (Tier 1; Anne 'Workel' [misindexed Markel], age 28, household of Morris Markel)"
   - "Helen Brandt Markel obituary (1976) lists daughter Anne (Tier 2)"
-  - "Family-archive group portrait + handwritten identification key (Tier 2; chat-shared 2026-04-25; reserved Assets filename: Markel_Karp_Family_Portrait_c1925.jpg + Markel_Family_Portrait_Identification_Key.jpg). See [[Markel_Family_Portrait_Identification_Key]]."
+  - "Family-archive group portrait + handwritten identification key (Tier 2; chat-shared 2026-04-25; reserved Assets filename: Group Pic-must be in1929.jpeg + Group Pic-IDs of Everyone.jpeg). See [[Markel_Family_Portrait_Identification_Key]]."
 created: 2026-04-25
 tags: [genealogy, markel, person, rhode-island, immigrant, new-2026-04-25]
 ---
@@ -37,7 +37,7 @@ Anne Markel was the second of five children of [[Morris_Markel]] and Helen Brand
 
 She is identified in the family-archive group portrait (chat-shared 2026-04-25) by [[Markel_Family_Portrait_Identification_Key]] bottom-row #13 ("Anne Markel").
 
-**Photograph dating implication**: If the family group portrait was taken c. 1926-1928 in Galicia (during the family's last years before emigration), Anne would have been approximately 4-6 years old at the time. This is consistent with the apparent age of the children pictured in the bottom row of the portrait.
+**Photograph dating implication**: If the family group portrait was taken 1929 (per family annotation) in Galicia (during the family's last years before emigration), Anne would have been approximately 4-6 years old at the time. This is consistent with the apparent age of the children pictured in the bottom row of the portrait.
 
 **Confidence: Moderate.** Multiple primary sources (1940 + 1950 Census) plus secondary corroboration (mother's obituary, family-archive photo). Anne's post-1950 life history is not yet documented; locating her marriage record, death record, and children would advance the file to high confidence.
 
@@ -48,7 +48,7 @@ She is identified in the family-archive group portrait (chat-shared 2026-04-25) 
 | 1940 US Census, West Warwick RI | Federal census (Tier 1) | Cited in [[Morris_Markel]] |
 | 1950 US Census, West Warwick RI | Federal census (Tier 1) | Cited in [[Morris_Markel]] |
 | Helen Brandt Markel obituary, 1976 | Newspaper obituary (Tier 2) | RIJHA M Obituaries PDF |
-| Family-archive group portrait (c. 1926-1928) | Family photograph (Tier 2) | Chat-shared 2026-04-25; reserved `Assets/Markel_Karp_Family_Portrait_c1925.jpg`; identified via [[Markel_Family_Portrait_Identification_Key]] bottom-row #13 |
+| Family-archive group portrait (1929 (per family annotation)) | Family photograph (Tier 2) | Chat-shared 2026-04-25; reserved `Assets/Group Pic-must be in1929.jpeg`; identified via [[Markel_Family_Portrait_Identification_Key]] bottom-row #13 |
 
 ## Open Questions
 

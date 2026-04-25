@@ -2,7 +2,7 @@
 type: reference
 created: 2026-04-09
 updated: 2026-04-25
-last_session: "2026-04-25 Markel-line source ingest: processed Lockspeisers-Mom's Maternal Aunt's Family.pdf (added today on main) + 7 chat-shared images (oval-frame portrait, Yiddish postcard, three-women photo, Markel/Karp identification key, Markel/Karp family group portrait, Heshel Markel portrait + back caption). New person files: Chawa_Frei_Lockspeiser (4th Frei sister, previously undocumented), Hersch_Lockspeiser, Lockspeiser_Children_1936_Photo, Anne_Markel, Frieda_Rita_Markel, Kate_Markel_Kaplan. New transcription/key files: Markel_Family_Portrait_Identification_Key, Yiddish_Postcard_Carte_Postale_Transcription, Markel_Oval_Portrait_Unknown_Subject, Three_Women_Children_Spa_Photo. Updates to: Heschel_Herman_Markel (portrait evidence), Leah_Frei (Chawa added as 4th sister), 9 existing person files with Photographic Evidence sections. See entry below."
+last_session: "2026-04-25 Markel-line source ingest: processed Lockspeisers-Mom's Maternal Aunt's Family.pdf (added today on main) + 7 chat-shared images (oval-frame portrait, Yiddish postcard, three-women photo, Markel/Karp identification key, Markel/Karp family group portrait, Heshel Markel portrait + back caption). New person files: Chawa_Frei_Lockspeiser (4th Frei sister, previously undocumented), Hersch_Lockspeiser, Lockspeiser_Children_1936_Photo, Anne_Markel, Frieda_Rita_Markel, Kate_Markel_Kaplan. New transcription/key files: Markel_Family_Portrait_Identification_Key, Yiddish_Postcard_Spa_Photo_Back_Transcription, Heshel_Markel_Vic_Hoffman_Oval_Portrait, Ruth_Gold_Aunts_Spa_Photo_Postcard. Updates to: Heschel_Herman_Markel (portrait evidence), Leah_Frei (Chawa added as 4th sister), 9 existing person files with Photographic Evidence sections. See entry below."
 tags: [genealogy, research, log]
 ---
 
@@ -10,7 +10,40 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
-## 2026-04-25 Markel-line source ingest (Session: branch claude/new-session-YdWiO; PR #7)
+## 2026-04-25 Markel image-upload follow-up (PART 2)
+
+User pushed the 7 chat-shared Markel-line images to `Assets/` on `main` (commit `92b27e8`, "Markel family (uploaded 25APR2026)"):
+
+- `Group Pic-IDs of Everyone.jpeg` — identification key (was chat image 4)
+- `Group Pic-must be in1929.jpeg` — family group portrait (was chat image 5); **family annotation = 1929**, refining the c. 1926-1928 estimate
+- `Herschl Markel 1862-1916.jpeg` + `Hreschl Markel-back of pic.jpeg` — Heshel main-archive print + back caption
+- `Herschl Portrait from Vic Hoffman-detail.jpeg` — **second photograph of Heshel Markel from a different descendant branch (Vic Hoffman)**. Resolves former OQ #22.
+- `Ruth Golds aunt with sisters+kids.jpeg` + `RuthGolds Aunt with sisters+kids-back.jpeg` — front and back of a **single photo-postcard**. The Yiddish postcard (was chat image 2) is the back of the spa photo (was chat image 3). Resolves former OQ #23.
+
+### Resolved by filename evidence
+
+- **Oval-frame portrait subject (former OQ #22) = Heshel Markel** (filename "Herschl Portrait from Vic Hoffman-detail"). Created [[Heshel_Markel_Vic_Hoffman_Oval_Portrait]] (renamed from prior `Markel_Oval_Portrait_Unknown_Subject.md`); updated [[Heschel_Herman_Markel]] §Photographic Evidence to record both portraits; updated [[Hersch_Lockspeiser]] visual-comparison note as resolved.
+- **Spa photo subjects (former OQ #24) = Hannah, Pessel, Masha Markel** (Florence's 3 Galicia-resident sisters, deduced from filename "Ruth Gold's aunt with sisters + kids" combined with Yichus documenting Sarah Markel as the emigrated sister). Created [[Ruth_Gold_Aunts_Spa_Photo_Postcard]] (renamed from prior `Three_Women_Children_Spa_Photo.md`).
+- **Yiddish postcard = back of spa photo** (former OQ #23 partially resolved). Created [[Yiddish_Postcard_Spa_Photo_Back_Transcription]] (renamed) as the companion analysis file. Specialist transcription still needed via Yivo / JewishGen ViewMate.
+- **Family group portrait date = 1929** per family annotation (was c. 1926-1928). Updated downstream files.
+
+### New finding
+
+- **NEW OQ #29**: Who is Vic Hoffman? A previously-unknown Hoffman descendant branch holds an early portrait of Heshel Markel. Hoffman → Markel chain of custody is undocumented in the vault. Most plausibly a granddaughter of Heshel who married a Hoffman; needs family review.
+
+### Vault file renames + content updates (PART 2)
+
+- Renamed: `Markel_Oval_Portrait_Unknown_Subject.md` → `Heshel_Markel_Vic_Hoffman_Oval_Portrait.md` (new content reflects Heshel as subject).
+- Renamed: `Three_Women_Children_Spa_Photo.md` → `Ruth_Gold_Aunts_Spa_Photo_Postcard.md` (new content reflects Hannah/Pessel/Masha as subjects + photo-postcard format).
+- Renamed: `Yiddish_Postcard_Carte_Postale_Transcription.md` → `Yiddish_Postcard_Spa_Photo_Back_Transcription.md` (new content reflects companion-file relationship to the spa photo).
+- Mass filename swap across vault: 22 files updated to use actual `Assets/` filenames (replacing my earlier reserved placeholder filenames).
+- Updates: `Heschel_Herman_Markel.md` Photographic Evidence section now describes both portraits + Vic Hoffman provenance question.
+- Updates: `Hersch_Lockspeiser.md` Visual Comparison Note marked RESOLVED.
+- Updates: `Open_Questions.md` PART 2 section added with #22, #23, #24 marked resolved/partially resolved + new OQ #29.
+
+---
+
+## 2026-04-25 Markel-line source ingest (PART 1; Session: branch claude/new-session-YdWiO; PR #7)
 
 User uploaded two new PDFs to `Assets/` on `main` (commit `7a76f51`, "4/25/2026") and shared 7 photographs in chat session, all related to the **Markel / Frei / Karp / Lockspeiser family branches**.
 
@@ -21,12 +54,12 @@ User uploaded two new PDFs to `Assets/` on `main` (commit `7a76f51`, "4/25/2026"
    - Page 1: 1936 studio photograph of 6 children in matching dark sailor suits. Back inscriptions: "Zum Andenken / Jahre 1936" (German cursive, period inscription) + "Tante Chava's / Children" (English, later descendant caption).
    - Page 2: portrait of bearded man. Back inscriptions: "Tante Chawa's / husband" (English) + "Hersch Lockspeiser" (sideways down left edge) + partial number "192_" or similar.
 3. **Chat-shared images (7, currently NOT pushed to Assets — vault references reserve filenames):**
-   - `Markel_Oval_Portrait_Unknown_Subject.jpg` — oval brass-frame portrait, hand-tinted, bearded man in dark coat seated. Subject unidentified. Hypothesis candidates: Heshel Markel, Hersch Lockspeiser, Yoseph Frei, Dov Markel.
-   - `Yiddish_Postcard_Carte_Postale.jpg` — postcard back, Yiddish cursive handwriting. Approximately 9 lines. **Specialist transcription needed.**
-   - `Three_Women_Four_Children_Spa_Photo.jpg` — outdoor group photo at a Central European spa-style building. 3 women + 4 children. Estimated mid-1930s. Subjects unidentified.
-   - `Markel_Family_Portrait_Identification_Key.jpg` — hand-drawn key, 15 circles, 5/6/4 layout, descendant captions. Author very likely Ruth Gold (uses "my mom Florence" twice).
-   - `Markel_Karp_Family_Portrait_c1925.jpg` — large sepia studio family group, ~15 people, 7/6/4 rows. Photo dating estimate **1926-1928, Galicia** (constrained by Pessel Markel's presence + Joseph Harold Markel's absence + Kate Markel born Dec 1925).
-   - `Heshel_Markel_Portrait.jpg` — head-and-shoulders portrait of bearded man in wide-brim black hat.
+   - `Herschl Portrait from Vic Hoffman-detail.jpeg` — oval brass-frame portrait, hand-tinted, bearded man in dark coat seated. Subject unidentified. Hypothesis candidates: Heshel Markel, Hersch Lockspeiser, Yoseph Frei, Dov Markel.
+   - `RuthGolds Aunt with sisters+kids-back.jpeg` — postcard back, Yiddish cursive handwriting. Approximately 9 lines. **Specialist transcription needed.**
+   - `Ruth Golds aunt with sisters+kids.jpeg` — outdoor group photo at a Central European spa-style building. 3 women + 4 children. Estimated mid-1930s. Subjects unidentified.
+   - `Group Pic-IDs of Everyone.jpeg` — hand-drawn key, 15 circles, 5/6/4 layout, descendant captions. Author very likely Ruth Gold (uses "my mom Florence" twice).
+   - `Group Pic-must be in1929.jpeg` — large sepia studio family group, ~15 people, 7/6/4 rows. Photo dating estimate **1926-1928, Galicia** (constrained by Pessel Markel's presence + Joseph Harold Markel's absence + Kate Markel born Dec 1925).
+   - `Herschl Markel 1862-1916.jpeg` — head-and-shoulders portrait of bearded man in wide-brim black hat.
    - Back of Heshel portrait: "grandfather Heshel Markel 1862-1916" (English caption) + Fujicolor photo-lab date stamp consistent with **1968 photo-lab reproduction print**.
 
 ### New person files created (6)
@@ -41,9 +74,9 @@ User uploaded two new PDFs to `Assets/` on `main` (commit `7a76f51`, "4/25/2026"
 ### New transcription / interpretive files (4)
 
 - [[Markel_Family_Portrait_Identification_Key]] — full transcription of the 15-circle key, position-by-position cross-references, dating analysis, three internal discrepancies flagged for human review (Frieda Karp sister-vs-niece; "Avraham Chaim's Child with Hannah Markel" reading; photograph location Galicia-vs-US).
-- [[Yiddish_Postcard_Carte_Postale_Transcription]] — partial decoding only; specialist transcription needed (Yivo / JewishGen ViewMate).
-- [[Markel_Oval_Portrait_Unknown_Subject]] — descriptive note + identification hypotheses.
-- [[Three_Women_Children_Spa_Photo]] — descriptive note + dating analysis (mid-1930s Central European spa).
+- [[Yiddish_Postcard_Spa_Photo_Back_Transcription]] — partial decoding only; specialist transcription needed (Yivo / JewishGen ViewMate).
+- [[Heshel_Markel_Vic_Hoffman_Oval_Portrait]] — descriptive note + identification hypotheses.
+- [[Ruth_Gold_Aunts_Spa_Photo_Postcard]] — descriptive note + dating analysis (mid-1930s Central European spa).
 
 ### Updates to existing person files (12)
 

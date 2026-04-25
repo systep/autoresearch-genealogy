@@ -73,7 +73,7 @@ The Sambor Yizkor Book necrology does not list Hannah by name. No results found 
 
 ## Photographic Evidence (added 2026-04-25)
 
-A new family-archive group portrait (chat-shared 2026-04-25; reserved Assets filename `Markel_Karp_Family_Portrait_c1925.jpg`) and its handwritten identification key (reserved `Markel_Family_Portrait_Identification_Key.jpg`) have been ingested into the vault. See [[Markel_Family_Portrait_Identification_Key]] for the full transcription and cross-references. This individual is identified at:
+A new family-archive group portrait (chat-shared 2026-04-25; reserved Assets filename `Group Pic-must be in1929.jpeg`) and its handwritten identification key (reserved `Group Pic-IDs of Everyone.jpeg`) have been ingested into the vault. See [[Markel_Family_Portrait_Identification_Key]] for the full transcription and cross-references. This individual is identified at:
 
 > **Top-row #3 (ambiguous: "Avraham Chaim's Child with Hannah Markel" — see [[Markel_Family_Portrait_Identification_Key]] §Discrepancies; the reading where Hannah Markel is *the aunt photographed alongside her brother's child* places Hannah in the photograph)**
 

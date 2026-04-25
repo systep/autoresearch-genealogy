@@ -11,7 +11,8 @@ sources:
   - "GEDCOM f266i6_859862b56ye2qz66897fd8_A.ged (MyHeritage, entry I500052)"
   - "MyHeritage Smart Match (Geni)"
   - "Yichus narrative by Ruth Gold, Oct 9, 2011 (Tier 2, primary family document)"
-  - "Family-archive photographic portrait, undated (Tier 2; back caption: 'grandfather Heshel Markel 1862-1916'; photo lab date stamp suggests print made 1968; reserved Assets filename: Heshel_Markel_Portrait.jpg). Chat-shared 2026-04-25, not yet pushed to Assets."
+  - "Family-archive photographic portrait, undated (Tier 2; back caption: 'grandfather Heshel Markel 1862-1916'; photo lab date stamp suggests print made 1968; Assets/Herschl Markel 1862-1916.jpeg + Assets/Hreschl Markel-back of pic.jpeg)."
+  - "Vic Hoffman family-archive oval portrait, undated (Tier 2; hand-tinted, brass oval frame with sculpted bow ornament, Belle Époque c. 1885-1915; Assets/Herschl Portrait from Vic Hoffman-detail.jpeg). Second known photograph of Heshel from a different descendant branch (Hoffman line)."
 created: 2026-04-10
 updated: 2026-04-25
 tags: [genealogy, markel, person, galicia, jewish, tier-1, waniowice, sambor]
@@ -88,13 +89,27 @@ Confidence: Moderate. The Yichus narrative (Tier 2, primary family document) cor
 | GEDCOM (MyHeritage, entry I500052) | family tree database | |
 | MyHeritage Smart Match (Geni) | user-contributed tree | |
 | Yichus narrative by Ruth Gold, Oct 9, 2011 | Primary family document (Tier 2) | Assets/Yicchis and Narrative.PDF |
-| Family-archive portrait of Heshel Markel | Family photograph (Tier 2) | Chat-shared 2026-04-25; reserved filename `Assets/Heshel_Markel_Portrait.jpg`. Print bears photo-lab date stamp (~1968) on back, plus handwritten caption "grandfather Heshel Markel 1862-1916" (English; consistent with caption added by an American descendant). Subject: bearded man in wide-brim black hat, traditional Eastern European Jewish dress. The 1968 print is presumably a copy of an earlier original photograph (likely taken in Galicia c. 1900-1916). |
+| Family-archive portrait of Heshel Markel | Family photograph (Tier 2) | Chat-shared 2026-04-25; reserved filename `Assets/Herschl Markel 1862-1916.jpeg`. Print bears photo-lab date stamp (~1968) on back, plus handwritten caption "grandfather Heshel Markel 1862-1916" (English; consistent with caption added by an American descendant). Subject: bearded man in wide-brim black hat, traditional Eastern European Jewish dress. The 1968 print is presumably a copy of an earlier original photograph (likely taken in Galicia c. 1900-1916). |
 
 ## Photographic Evidence (added 2026-04-25)
 
-A descendant-captioned portrait of Heshel Markel was added to the family archive (chat-shared 2026-04-25; reserved filename `Assets/Heshel_Markel_Portrait.jpg`). The photo print itself bears a Fujicolor Crystal Archive watermark and a date stamp consistent with a **1968 photo-lab reproduction**, indicating the print is a copy of a much earlier original. The caption ("grandfather Heshel Markel 1862-1916") is written by an American descendant — consistent with the caption-handwriting style of [[Florence_Markel_Mermelstein]] or [[Ruth Gold]] / her sisters, the only descendants who would refer to Heshel as "grandfather." Confidence: the dates on the back caption (1862-1916) match the AGAD Tier 1 records exactly, providing **independent visual corroboration** of Heshel's existence and identification.
+**Two distinct portrait photographs of Heshel Markel** are now in the vault, ingested 2026-04-25 (commit `92b27e8` on `main`):
 
-The chat-shared identification key ([[Markel_Family_Portrait_Identification_Key]]) does not place Heshel in the large family-portrait photo (he died in 1916), so the standalone portrait is the only known image of Heshel in the family archive. The chat-shared **oval-frame portrait** ([[Markel_Oval_Portrait_Unknown_Subject]]) of a different bearded man may or may not be a second image of Heshel — open question pending family identification.
+### Portrait 1: Main archive print (`Assets/Herschl Markel 1862-1916.jpeg`)
+
+Head-and-shoulders portrait of Heshel in a wide-brim black hat (traditional Eastern European Jewish dress). Sepia. The print itself bears a Fujicolor Crystal Archive watermark and a date stamp consistent with a **1968 photo-lab reproduction**, indicating it is a reprint of a much earlier original (likely a Galicia c. 1900-1916 sitting). The back (`Assets/Hreschl Markel-back of pic.jpeg`) bears the descendant caption **"grandfather Heshel Markel 1862-1916"** — written by an American descendant; the use of "grandfather" identifies the caption-writer as one of Heshel's grandchildren (most plausibly [[Florence_Markel_Mermelstein]] or her siblings, since the caption presumably postdates the 1968 reprint and they were the closest grandchildren in the US-resident archive line).
+
+### Portrait 2: Vic Hoffman oval-frame print (`Assets/Herschl Portrait from Vic Hoffman-detail.jpeg`)
+
+Hand-tinted oval-framed portrait, brass frame with sculpted bow ornament. Heshel is shown **seated, full-body or three-quarter length**, against a hand-tinted greenish-teal backdrop, in a long dark coat, no head-covering, hands visible. Frame style and hand-tinting technique point to a sitting c. **1890-1915** (most plausibly a Galicia studio). This print is held by descendant **Vic Hoffman**, a previously-undocumented branch of the family — see [[Heshel_Markel_Vic_Hoffman_Oval_Portrait]] for full image analysis and the open question on the Hoffman → Markel chain of custody.
+
+### Significance
+
+Two photographic sittings of Heshel preserved in two different descendant branches (the Markel-Mermelstein-Gold line and the Hoffman line) provides **independent corroboration** of his existence and the dates 1862-1916. The dates on the back caption of Portrait 1 match the AGAD Tier 1 marriage records exactly. The chat-shared identification key ([[Markel_Family_Portrait_Identification_Key]]) does NOT place Heshel in the c. 1929 family-portrait photo (he had died in 1916, 13 years prior), confirming that all visual records of Heshel are from his lifetime sittings.
+
+### NEW open question (added 2026-04-25)
+
+Vic Hoffman is presumably a great-grandchild or great-great-grandchild of Heshel Markel via a daughter who married into the Hoffman family. None of Heshel's documented descendants are currently linked to a Hoffman branch. **Action**: identify the Hoffman branch — likely a granddaughter of Heshel (i.e., a daughter of one of his 8 surviving children) who married a Hoffman.
 
 ## Data Discrepancies
 

@@ -147,7 +147,7 @@ Analysis of the 1919 marriage record data against the known identity of Helen Br
 
 ## Photographic Evidence (added 2026-04-25)
 
-A new family-archive group portrait (chat-shared 2026-04-25; reserved Assets filename `Markel_Karp_Family_Portrait_c1925.jpg`) and its handwritten identification key (reserved `Markel_Family_Portrait_Identification_Key.jpg`) have been ingested into the vault. See [[Markel_Family_Portrait_Identification_Key]] for the full transcription and cross-references. This individual is identified at:
+A new family-archive group portrait (chat-shared 2026-04-25; reserved Assets filename `Group Pic-must be in1929.jpeg`) and its handwritten identification key (reserved `Group Pic-IDs of Everyone.jpeg`) have been ingested into the vault. See [[Markel_Family_Portrait_Identification_Key]] for the full transcription and cross-references. This individual is identified at:
 
 > **(Same person as Morris Markel — see [[Morris_Markel]].) Referenced in the identification key under his Yiddish name "Moishe Myer" (top-row #1, middle-row #9, middle-row #11), and as "Moishe Myer Markel" (middle-row #11).**
 

@@ -7,7 +7,7 @@ date: "Photograph: undated; estimated c. 1920s-early 1930s based on dress, ages 
 ocr_method: "visual inspection of chat-shared images (subject's pencil/pen handwriting on lined paper)"
 ocr_quality: "Partial (handwriting legible but several family-relationship clauses are abbreviated and ambiguous)"
 created: 2026-04-25
-tags: [genealogy, markel, karp, frei, photograph, identification-key, transcription, new-2026-04-25, pending-image-upload]
+tags: [genealogy, markel, karp, frei, photograph, identification-key, transcription, new-2026-04-25, image-now-on-disk]
 ---
 
 # Markel Family Portrait Identification Key
@@ -16,13 +16,17 @@ tags: [genealogy, markel, karp, frei, photograph, identification-key, transcript
 
 This vault note maps two chat-shared images to vault person files:
 
-1. **Image A — Identification key (hand-drawn).** A descendant — almost certainly **Ruth Gold** (nee Mermelstein, b. 1937), daughter of [[Florence_Markel_Mermelstein]] and author of the 2011 Yichus narrative — drew 15 circles arranged in three rows on plain paper and labeled each with a name and short relationship description. The phrasing "my mom Florence" identifies the author as one of Florence's children (Ruth, Hashy, or Lea). Penmanship and the same phrasing pattern as the Yichus narrative strongly suggest **Ruth Gold**. Reserved filename when uploaded to `Assets/`: `Markel_Family_Portrait_Identification_Key.jpg` (or `.png` / `.heic`).
+1. **Image A — Identification key (hand-drawn).** A descendant — almost certainly **Ruth Gold** (nee Mermelstein, b. 1937), daughter of [[Florence_Markel_Mermelstein]] and author of the 2011 Yichus narrative — drew 15 circles arranged in three rows on plain paper and labeled each with a name and short relationship description. The phrasing "my mom Florence" identifies the author as one of Florence's children (Ruth, Hashy, or Lea). Penmanship and the same phrasing pattern as the Yichus narrative strongly suggest **Ruth Gold**. Reserved filename when uploaded to `Assets/`: `Group Pic-IDs of Everyone.jpeg` (or `.png` / `.heic`).
 
-2. **Image B — Large sepia family group portrait.** A studio portrait of approximately 15 people arranged in three rows: 7 in back row standing, 6 in middle row (some seated on chairs, some standing), 4 children in front row (small, standing or seated on the floor). Sepia tone, formal dress (men in dark suits with hats, women in 1920s-style flapper dresses with long necklaces and short bobbed hair, children in light dresses or short pants). Studio backdrop with a column visible at upper left. **Studio location and date: not visible on the photo** — to be inferred from the dress and from the matching of pictured persons to known biographical dates. Reserved filename: `Markel_Karp_Family_Portrait_c1925.jpg`.
+2. **Image B — Large sepia family group portrait.** A studio portrait of approximately 15 people arranged in three rows: 7 in back row standing, 6 in middle row (some seated on chairs, some standing), 4 children in front row (small, standing or seated on the floor). Sepia tone, formal dress (men in dark suits with hats, women in 1920s-style flapper dresses with long necklaces and short bobbed hair, children in light dresses or short pants). Studio backdrop with a column visible at upper left. **Studio location and date: not visible on the photo** — to be inferred from the dress and from the matching of pictured persons to known biographical dates. Reserved filename: `Group Pic-must be in1929.jpeg`.
 
-## Caveat: Both Images Are Currently Chat-Only
+## Image Files (RESOLVED 2026-04-25)
 
-As of 2026-04-25 these two images are visible in the chat session but have not been pushed to `Assets/` on `main`. The vault references below use the reserved filenames; once the images are pushed, references will resolve.
+Both images are now on disk in `Assets/`:
+- Identification key: `Assets/Group Pic-IDs of Everyone.jpeg`
+- Family group portrait: `Assets/Group Pic-must be in1929.jpeg`
+
+The portrait filename embeds the user's annotation **"must be in 1929"**, refining the photograph dating from my earlier c. 1926-1928 estimate to **1929**. This is consistent with my analytical convergence (Pessel still in Galicia + Joseph Harold Markel not yet born + Kate Markel age ≥ Dec 1925) and tightens it to a single year.
 
 ## Transcription of the Identification Key (Image A)
 
@@ -76,7 +80,7 @@ Inferences from Image B alone:
 - **Composition**: Large extended-family combined portrait. The presence of **both** Markel siblings (Pessel, etc.) and Karp relatives (Feiga, Moishe Myer) suggests this was a **gathering of Galician immigrants in the United States**, likely **Rhode Island** (where Morris Markel, Minnie Markel Sternbach, and Moishe Myer Karp settled — see [[Morris_Markel]], [[Minnie_Markel_Sternbach]], [[Feiga_Frei_Karp]]).
 - **Hard constraint from the key labels**: The photo includes **Pessel Markel** (murdered c. 1939/1940 in Galicia) and **Helen Brandt Markel** (Morris's wife, married 1919 in Sambor). Pessel was in Galicia; Helen was in Galicia at marriage and emigrated with Morris later. If the photo was taken in the US, Pessel was visiting; if taken in Galicia, Morris was visiting from the US.
 
-**Most likely date and place: c. 1925-1928, Galicia (Sambor or Lwów region), during a visit by emigrated relatives back to the home country.** Alternative: c. 1925-1928, Rhode Island, during a visit by Galicia relatives (less likely given Pessel's documented absence from US records). **Both remain plausible until corroborated.**
+**Most likely date and place: 1929 (per family annotation on photo file), Galicia (Sambor or Lwów region), during a visit by emigrated relatives back to the home country.** Alternative: 1929 (per family annotation on photo file), Rhode Island, during a visit by Galicia relatives (less likely given Pessel's documented absence from US records). **Both remain plausible until corroborated.**
 
 ## Data Discrepancies
 

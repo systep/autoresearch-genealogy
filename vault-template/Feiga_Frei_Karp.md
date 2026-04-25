@@ -96,7 +96,7 @@ Feiga and Joseph were most likely murdered between 1941 and 1943 during the dest
 
 ## Photographic Evidence (added 2026-04-25)
 
-A new family-archive group portrait (chat-shared 2026-04-25; reserved Assets filename `Markel_Karp_Family_Portrait_c1925.jpg`) and its handwritten identification key (reserved `Markel_Family_Portrait_Identification_Key.jpg`) have been ingested into the vault. See [[Markel_Family_Portrait_Identification_Key]] for the full transcription and cross-references. This individual is identified at:
+A new family-archive group portrait (chat-shared 2026-04-25; reserved Assets filename `Group Pic-must be in1929.jpeg`) and its handwritten identification key (reserved `Group Pic-IDs of Everyone.jpeg`) have been ingested into the vault. See [[Markel_Family_Portrait_Identification_Key]] for the full transcription and cross-references. This individual is identified at:
 
 > **Middle-row #8 ("Feiga Karp — Leah's sister")**
 

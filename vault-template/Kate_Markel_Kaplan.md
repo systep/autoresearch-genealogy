@@ -41,7 +41,7 @@ She died **January 11, 2006**, age 80, and is documented at Find a Grave #232002
 
 She is identified in the family-archive group portrait (chat-shared 2026-04-25) by [[Markel_Family_Portrait_Identification_Key]] bottom-row #14 ("Kaye Markel"). "Kaye" is a familial diminutive of "Kate," well-attested in early- and mid-20th-century American Jewish family usage.
 
-**Photograph dating implication**: If the family group portrait was taken c. 1926-1928 in Galicia (during the family's last years before emigration), Kate would have been an infant (~0-2 years old). If she appears in the bottom row of the portrait, she would be the youngest of the four pictured Markel girls — visual age in the photograph may help finalize the photo's date.
+**Photograph dating implication**: If the family group portrait was taken 1929 (per family annotation) in Galicia (during the family's last years before emigration), Kate would have been an infant (~0-2 years old). If she appears in the bottom row of the portrait, she would be the youngest of the four pictured Markel girls — visual age in the photograph may help finalize the photo's date.
 
 **Confidence: High.** Multiple Tier 1 sources (Find a Grave with verified parent dates, 1940 + 1950 Census, 2006 obituary); independent corroboration across federal records and family obituary.
 
@@ -54,7 +54,7 @@ She is identified in the family-archive group portrait (chat-shared 2026-04-25) 
 | 1950 US Census, West Warwick RI | Federal census (Tier 1) | Cited in [[Morris_Markel]] |
 | Providence Journal obituary, Jan 13, 2006 | Newspaper obituary (Tier 2) | "moved to W. Warwick, RI at the age of 3" |
 | Helen Brandt Markel obituary, 1976 | Newspaper obituary (Tier 2) | RIJHA M Obituaries PDF |
-| Family-archive group portrait (c. 1926-1928) | Family photograph (Tier 2) | [[Markel_Family_Portrait_Identification_Key]] bottom-row #14 |
+| Family-archive group portrait (1929 (per family annotation)) | Family photograph (Tier 2) | [[Markel_Family_Portrait_Identification_Key]] bottom-row #14 |
 
 ## Open Questions
 

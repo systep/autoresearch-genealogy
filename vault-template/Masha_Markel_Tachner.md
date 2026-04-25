@@ -82,10 +82,10 @@ The name "Vigdor Markel" mentioned in the Yichus as among those murdered may be 
 
 ## Photographic Evidence (added 2026-04-25)
 
-A new family-archive group portrait (chat-shared 2026-04-25; reserved Assets filename `Markel_Karp_Family_Portrait_c1925.jpg`) and its handwritten identification key (reserved `Markel_Family_Portrait_Identification_Key.jpg`) have been ingested into the vault. See [[Markel_Family_Portrait_Identification_Key]] for the full transcription and cross-references. This individual is identified at:
+A new family-archive group portrait (chat-shared 2026-04-25; reserved Assets filename `Group Pic-must be in1929.jpeg`) and its handwritten identification key (reserved `Group Pic-IDs of Everyone.jpeg`) have been ingested into the vault. See [[Markel_Family_Portrait_Identification_Key]] for the full transcription and cross-references. This individual is identified at:
 
 > **Middle-row #6 ("Masha Markel — died in Ukrainian pogrom")**
 
-Masha's presence in the photograph is consistent with either (a) Galicia c. 1926-1928 if she remained in Sambor district, or (b) a US visit. The key does not record a husband for Masha despite her Yichus-recorded surname "Tachner" — possibly because at the time of the photograph she had not yet married, or her husband simply was not pictured / not labeled.
+Masha's presence in the photograph is consistent with either (a) Galicia 1929 (per family annotation) if she remained in Sambor district, or (b) a US visit. The key does not record a husband for Masha despite her Yichus-recorded surname "Tachner" — possibly because at the time of the photograph she had not yet married, or her husband simply was not pictured / not labeled.
 
 Confidence impact: this is **one additional Tier 2 source** (family-archive photo + handwritten descendant caption). It does not by itself unlock primary-source documentation, but it independently corroborates the Yichus narrative on the relevant biographical points.

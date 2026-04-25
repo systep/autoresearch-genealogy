@@ -5,7 +5,22 @@ updated: 2026-04-25
 tags: [genealogy, research, open-questions]
 ---
 
-## 2026-04-25 session updates — Markel-line photo & Lockspeiser PDF ingest
+## 2026-04-25 session updates (PART 2) — Image upload + identifications resolved
+
+After the user pushed the 7 chat-shared images to `Assets/` on `main` (commit `92b27e8`, "Markel family (uploaded 25APR2026)"), several open questions added in part 1 (below) were **resolved or refined** by the user-supplied filenames:
+
+- **OQ #22 RESOLVED**: oval-frame portrait subject is **[[Heschel_Herman_Markel]]** (filename: `Herschl Portrait from Vic Hoffman-detail.jpeg`). It is a **second known photograph of Heshel** held in a different descendant branch (Hoffman line). See [[Heshel_Markel_Vic_Hoffman_Oval_Portrait]].
+- **OQ #23 PARTIALLY RESOLVED**: the Yiddish postcard (`RuthGolds Aunt with sisters+kids-back.jpeg`) is the **back side of the spa photo** (front: `Ruth Golds aunt with sisters+kids.jpeg`). The two are front and back of a single photo-postcard. Sender is one of the three Galicia-resident Markel sisters; recipient is most plausibly [[Florence_Markel_Mermelstein]] in Rhode Island. **Specialist Yiddish transcription still needed.** See [[Yiddish_Postcard_Spa_Photo_Back_Transcription]].
+- **OQ #24 RESOLVED (subjects)**: spa-photo subjects are the three Galicia-resident Markel sisters of Florence Markel Mermelstein (= Ruth Gold's three aunts): **[[Hannah_Markel]], [[Pessel_Peppy_Frei]], [[Masha_Markel_Tachner]]** (per family-supplied filename "Ruth Gold's aunt with sisters + kids"). The 4 children are children of these three sisters. **Left-to-right pose-to-name mapping not yet anchored.** See [[Ruth_Gold_Aunts_Spa_Photo_Postcard]].
+- **Family group portrait date refined**: per family annotation in filename `Group Pic-must be in1929.jpeg`, the photo is dated **1929**, supplanting my c. 1926-1928 estimate. Photo location (Galicia vs. US) remains open.
+
+### NEW OQ #29 (OPEN): Who is Vic Hoffman?
+
+**Status**: The oval-frame portrait of Heshel Markel (`Assets/Herschl Portrait from Vic Hoffman-detail.jpeg`) was sourced from descendant **Vic Hoffman**. None of Heshel's documented descendants are currently linked to a Hoffman branch. Vic is presumably a great-grandchild or great-great-grandchild of Heshel via a daughter of one of Heshel's 8 surviving children who married a Hoffman. **Action**: ask the family; search Hoffman + Markel marriage records (Rhode Island, New York, Galicia).
+
+---
+
+## 2026-04-25 session updates (PART 1) — Markel-line photo & Lockspeiser PDF ingest
 
 ### NEW OQ #20 (OPEN): Who is Tante Chawa Frei Lockspeiser, and was the Yichus narrative incomplete?
 
@@ -17,15 +32,15 @@ tags: [genealogy, research, open-questions]
 
 ### NEW OQ #22 (OPEN): Who is the subject of the chat-shared oval-frame portrait?
 
-**Status**: Bearded man in dark coat, Belle Époque oval frame (c. 1885-1915), hand-tinted. Subject not identified by any caption. Hypothesis candidates: [[Heschel_Herman_Markel]] (a separate sitting from his labeled portrait), [[Hersch_Lockspeiser]] (a separate sitting from his labeled portrait), [[Yoseph_Frei]], [[Dov_Markel]]. **Action**: ask the family; do facial-feature comparison against Heshel Markel labeled portrait + Hersch Lockspeiser labeled portrait at higher resolution. See [[Markel_Oval_Portrait_Unknown_Subject]].
+**Status**: Bearded man in dark coat, Belle Époque oval frame (c. 1885-1915), hand-tinted. Subject not identified by any caption. Hypothesis candidates: [[Heschel_Herman_Markel]] (a separate sitting from his labeled portrait), [[Hersch_Lockspeiser]] (a separate sitting from his labeled portrait), [[Yoseph_Frei]], [[Dov_Markel]]. **Action**: ask the family; do facial-feature comparison against Heshel Markel labeled portrait + Hersch Lockspeiser labeled portrait at higher resolution. See [[Heshel_Markel_Vic_Hoffman_Oval_Portrait]].
 
 ### NEW OQ #23 (OPEN): Yiddish postcard — sender, recipient, date, contents?
 
-**Status**: Postcard back, ~9 lines of Yiddish cursive on a "Carte Postale" stock. Not transcribable from chat-resolution image. Likely an interwar Galicia → Rhode Island family communication. **Action**: submit to Yivo Institute transcription service or JewishGen ViewMate. Photograph the postcard's front (presumably picture side, may identify origin location) and stamp/postmark side at high resolution. See [[Yiddish_Postcard_Carte_Postale_Transcription]].
+**Status**: Postcard back, ~9 lines of Yiddish cursive on a "Carte Postale" stock. Not transcribable from chat-resolution image. Likely an interwar Galicia → Rhode Island family communication. **Action**: submit to Yivo Institute transcription service or JewishGen ViewMate. Photograph the postcard's front (presumably picture side, may identify origin location) and stamp/postmark side at high resolution. See [[Yiddish_Postcard_Spa_Photo_Back_Transcription]].
 
 ### NEW OQ #24 (OPEN): Three-women + four-children spa photo — who and where?
 
-**Status**: Outdoor photo at a Central European spa-style building, mid-1930s. 3 women + 4 children unidentified. **Action**: ask the family; compare adult faces against known Markel-sibling photos; identify the spa from the architecture (candidates: Truskawiec, Krynica, Carpathian foothills resorts). See [[Three_Women_Children_Spa_Photo]].
+**Status**: Outdoor photo at a Central European spa-style building, mid-1930s. 3 women + 4 children unidentified. **Action**: ask the family; compare adult faces against known Markel-sibling photos; identify the spa from the architecture (candidates: Truskawiec, Krynica, Carpathian foothills resorts). See [[Ruth_Gold_Aunts_Spa_Photo_Postcard]].
 
 ### NEW OQ #25 (OPEN): What are the names of Avraham Chaim Markel's wife and children?
 
@@ -41,7 +56,7 @@ tags: [genealogy, research, open-questions]
 
 ### NEW OQ #28 (OPEN): Is the family group portrait taken in Galicia or in the United States?
 
-**Status**: The identification key includes individuals who never emigrated (Pessel Markel, who was murdered in Galicia c. 1939-1943) AND individuals who did emigrate (Morris Markel and family, in Rhode Island after c. 1928). Photograph dating constraint: c. 1926-1928 (Pessel alive + Joseph Harold Markel not yet born + Kate Markel age ≥0). Most likely setting: **Galicia, c. 1926-1928, during a visit by emigrated relatives back to the home country.** Alternative: a Rhode Island sitting during a Pessel visit. **Action**: locate higher-resolution scan; look for studio mark; ask the family. See [[Markel_Family_Portrait_Identification_Key]].
+**Status**: The identification key includes individuals who never emigrated (Pessel Markel, who was murdered in Galicia c. 1939-1943) AND individuals who did emigrate (Morris Markel and family, in Rhode Island after c. 1928). Photograph dating constraint: 1929 (per family annotation) (Pessel alive + Joseph Harold Markel not yet born + Kate Markel age ≥0). Most likely setting: **Galicia, 1929 (per family annotation), during a visit by emigrated relatives back to the home country.** Alternative: a Rhode Island sitting during a Pessel visit. **Action**: locate higher-resolution scan; look for studio mark; ask the family. See [[Markel_Family_Portrait_Identification_Key]].
 
 ---
 

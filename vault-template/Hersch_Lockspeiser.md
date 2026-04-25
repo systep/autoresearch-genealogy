@@ -36,9 +36,9 @@ Hersch and Chawa had 6 children pictured together in matching dark sailor suits 
 
 **Confidence: Low.** Single Tier 2 source (photo with caption). Surname "Lockspeiser" is not common; targeted searches in Sambor / Lwów region Jewish records, Sambor Yizkor Book, Yad Vashem, and JewishGen are likely to produce primary-source corroboration. Not yet attempted.
 
-## Visual Comparison Note
+## Visual Comparison Note (RESOLVED 2026-04-25)
 
-The chat-shared oval-framed portrait (filename to be assigned, e.g. `Markel_Oval_Portrait_Unknown_Subject.jpg`) shows a bearded man in a dark coat, full body, seated. **It is currently unknown whether this is the same person as the Hersch Lockspeiser portrait.** Both are bearded Eastern European Jewish men of roughly similar age range, but pose, framing, and visible coat differ. See [[Markel_Oval_Portrait_Unknown_Subject]] for the open identification question.
+The chat-shared oval-framed portrait (`Assets/Herschl Portrait from Vic Hoffman-detail.jpeg`) initially raised a question of whether it might be Hersch Lockspeiser. **Resolved: it is [[Heschel_Herman_Markel]]** — the family-supplied filename identifies the subject as "Herschl" (Heshel) Markel, sourced from descendant Vic Hoffman. See [[Heshel_Markel_Vic_Hoffman_Oval_Portrait]]. The Hersch Lockspeiser portrait remains the head-and-shoulders portrait on page 2 of `Assets/Lockspeisers-Mom's Maternal Aunt's Family.pdf` only; no other photograph of Hersch Lockspeiser is currently in the archive.
 
 ## Document Sources
 
@@ -51,7 +51,6 @@ The chat-shared oval-framed portrait (filename to be assigned, e.g. `Markel_Oval
 
 - Date and place of Hersch Lockspeiser's birth and death?
 - Did Hersch survive WWII? The Sambor / Lwów Jewish community was destroyed 1941-1943. Search Sambor Yizkor Book and Yad Vashem for "Lockspeiser."
-- Is the chat-shared oval-framed portrait the same individual as this Hersch Lockspeiser? (See [[Markel_Oval_Portrait_Unknown_Subject]].)
 - The partial number on the back of the portrait: is it "192_" (a date) or a catalog/inventory number?
 
 ## Research Lineage

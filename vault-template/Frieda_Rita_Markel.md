@@ -51,7 +51,7 @@ The identification key entry "Frieda Markel" (bottom row #12) refers to **this i
 | 1940 US Census, West Warwick RI | Federal census (Tier 1) | Cited in [[Morris_Markel]] |
 | 1950 US Census, West Warwick RI | Federal census (Tier 1) | Cited in [[Morris_Markel]] |
 | Helen Brandt Markel obituary, 1976 | Newspaper obituary (Tier 2) | RIJHA M Obituaries PDF |
-| Family-archive group portrait (c. 1926-1928) | Family photograph (Tier 2) | [[Markel_Family_Portrait_Identification_Key]] bottom-row #12 |
+| Family-archive group portrait (1929 (per family annotation)) | Family photograph (Tier 2) | [[Markel_Family_Portrait_Identification_Key]] bottom-row #12 |
 
 ## Open Questions
 
