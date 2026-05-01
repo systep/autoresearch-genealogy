@@ -91,11 +91,25 @@ Direct database searches at Yad Vashem (collections.yadvashem.org) and USHMM (us
 
 ### Research Leads for Further Investigation
 
-1. **Yad Vashem Names Database** (collections.yadvashem.org): Search for Avraham Chaim Markel, all spelling variants. HUMAN ACTION REQUIRED.
+1. **Yad Vashem Names Database** (collections.yadvashem.org): Search for Avraham Chaim Markel, all spelling variants. HUMAN ACTION REQUIRED. (Retried 2026-05-01 from agentic environment: 403, confirmed persistent.)
 2. **USHMM Holocaust Survivors and Victims Database**: Search Markel from Sambor. HUMAN ACTION REQUIRED.
 3. **Gesher Galicia Holocaust Project**: Holocaust-period records for Sambor district indexed in All Galicia Database. HUMAN ACTION REQUIRED.
-4. **Sambor Yizkor Book (full text)**: Available on Internet Archive (archive.org/details/nybc313978). Check for mentions of Markel, Waniowice, or surrounding villages. HUMAN ACTION REQUIRED.
-5. **JewishGen Yizkor Book Necrology Database** (jewishgen.org/databases/yizkor/): Search "Markel" filtered to Sambor. HUMAN ACTION REQUIRED.
+4. **Sambor Yizkor Book (full text)**: Available on Internet Archive (archive.org/details/nybc313978). Check for mentions of Markel, Waniowice, or surrounding villages. HUMAN ACTION REQUIRED. (Wayback / archive.org also blocked from agentic environment 2026-05-01.)
+5. **JewishGen Yizkor Book Necrology Database** (jewishgen.org/databases/yizkor/): Search "Markel" filtered to Sambor. HUMAN ACTION REQUIRED. (KehilaLinks pages return 403 to agentic fetch 2026-05-01; titles and snippets are visible to web search but record-detail content is not.)
+6. **JewishGen Drohobycz KehilaLinks Markel page** (kehilalinks.jewishgen.org/Drohobycz/families/markel.html): documents a SEPARATE Bartel-Markel branch (see §Same-Surname Eliminations below). HUMAN ACTION may still surface adjacent leads (e.g., neighboring village vital records, surviving descendant contacts).
+7. **drohobycz-boryslaw.org Markel page** (drohobycz-boryslaw.org/en/families/boryslaw/markel): documents a SEPARATE Zalman + Leah Markel branch from Boryslaw (see §Same-Surname Eliminations below).
+
+## Same-Surname Eliminations (2026-05-01)
+
+Per Guard Rail #6 ("Do not merge records on 'same name, same dates' alone without corroboration"), the following Markel families documented in adjacent Galician shtetlach are **distinct from this individual's parental Heshel + Leah Frei branch** and must NOT be merged:
+
+| Branch | Source | Distinguishing facts | Conclusion |
+|---|---|---|---|
+| **Bartel-Markel of Lutowiska / Drohobycz** | JewishGen KehilaLinks Drohobycz Markel family page (web search snippet 2026-05-01; full page blocked by 403) | Sara Hinde Markel m. Shamay Bartel 1877; settled Lutowiska. Children include Solomon (b. 1899), Aaron, Yehezkel + four daughters. Aaron Bartel's family deported Kobla → Sambor ghetto early 1942 → Belzec Nov 1942. | Different generation, different parents. Lutowiska is c. 80 km southwest of Waniowice. **NOT this branch.** |
+| **Zalman + Leah Markel of Boryslaw** | drohobycz-boryslaw.org Markel page (web search snippet 2026-05-01; full page blocked by 403) | Mordechai Markel b. 24 Oct 1924 Boryslaw, son of Zalman (Salomon) + Leah Markel; deported with parents to Auschwitz; escaped; survived; d. 4 Mar 2020 Haifa. | "Leah" first-name overlap with vault's [[Leah_Frei]] is coincidence: Boryslaw Leah is wife-of-Zalman, not mother-of-Heshel-and-Avraham-Chaim. Different town, different generation, different family. **NOT this branch.** |
+| **Markel family of Troškūnai (Trashkun), Lithuania** | JewishGen KehilaLinks Troskunai Markel family page (web search snippet 2026-05-01) | Lithuanian, not Galician. | Geographically and culturally separate. **NOT this branch.** |
+
+Recording these eliminations is itself a research result, not a non-result: it pre-empts a merge error in any future cross-reference audit, surname sweep, or AI-assisted GEDCOM merge.
 
 ## Data Discrepancies
 
