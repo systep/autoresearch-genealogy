@@ -1,8 +1,26 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-25
+updated: 2026-05-01
 tags: [genealogy, research, open-questions]
+---
+
+## 2026-05-01 session updates — Free-web Holocaust DB sweep (NO ADVANCE on OQ #25, #26 from agentic environment)
+
+A targeted free-web sweep at OQ #25 and OQ #26 (see [[Research_Log]] 2026-05-01 entry for the 9 searches run) **did not advance either question**. The agentic environment is **persistently blocked (HTTP 403)** from direct fetch of:
+
+- Yad Vashem Central Database of Shoah Victims' Names (`collections.yadvashem.org`)
+- JewishGen KehilaLinks (`kehilalinks.jewishgen.org`, including the Sambor and Drohobycz Markel-related pages)
+- USHMM Holocaust Survivors and Victims Database (`ushmm.org/online/hsv/`)
+- drohobycz-boryslaw.org
+- web.archive.org / Wayback (refused by environment)
+
+External web search returns page titles and short snippets only; record-detail PoT and necrology entries are not surfaced.
+
+**Implication**: OQ #25 and #26 require **human-driven browser** searches at the above databases; agentic retries from this environment will not advance them. Updated [[Avraham_Chaim_Markel]] §Research Leads to mark this constraint as confirmed-persistent.
+
+**Adjacent finding (Guard Rail #6 elimination)**: The JewishGen Drohobycz Bartel-Markel page and the drohobycz-boryslaw.org Boryslaw Zalman+Leah Markel page document **separate Markel branches** that are NOT the vault's Heshel + Leah Frei branch. Recorded in [[Avraham_Chaim_Markel]] §Same-Surname Eliminations to pre-empt future merge errors.
+
 ---
 
 ## 2026-04-25 session updates (PART 2) — Image upload + identifications resolved

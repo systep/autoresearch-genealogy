@@ -10,6 +10,54 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-05-01 Markel-line free-web Holocaust DB sweep (Session: branch claude/search-agents-list-ZWtS8)
+
+**Goal**: Targeted strike at OQ #25 (Avraham Chaim Markel's wife) and OQ #26 ("child Regina") using login-free Holocaust databases. Specifically: Yad Vashem Pages of Testimony, JewishGen Holocaust Database / KehilaLinks, and the Sambor Yizkor Book on archive.org. All three named in [[Avraham_Chaim_Markel]] §Research Leads as HUMAN ACTION REQUIRED following prior 403 blocks from agentic access.
+
+**Searches run (9; all free web, no login):**
+
+| # | Search | Result | Resolution |
+|---|---|---|---|
+| 1 | Yad Vashem direct fetch `collections.yadvashem.org/en/names/results?q=markel&place=sambor` | NEGATIVE (HTTP 403) | Confirms prior 403 finding (2026-04-17, [[Avraham_Chaim_Markel]] §Yad Vashem and USHMM Database Searches) is **environmental and persistent**, not transient. Yad Vashem POT must be searched in a human-driven browser session. |
+| 2 | WebSearch: Yad Vashem POT "Markel" Sambor Waniowice Galicia pogrom | NEGATIVE for individual PoT entries (snippets do not surface PoT records; Yad Vashem search results are not indexed at the record-detail level by external search engines) | OQ #25, #26 no advance via Yad Vashem from this environment. |
+| 3 | WebSearch: JewishGen Holocaust DB "Markel" Sambor 1942 | POSITIVE pointer: dedicated `kehilalinks.jewishgen.org/Drohobycz/families/markel.html` Markel family page exists. | Lead identified for human-browser follow-up. Snippet describes the **Bartel-Markel** branch (Aaron Bartel's family, Kobla → Sambor ghetto early 1942 → Belzec Nov 1942) — **a different Markel branch**, see Search #7 below. |
+| 4 | WebSearch: "Regina Markel" Sambor Galicia child Holocaust victim | NEGATIVE (no PoT or necrology entry surfaced for any "Regina Markel" in Sambor district) | OQ #26 no advance. |
+| 5 | WebFetch direct: `kehilalinks.jewishgen.org/Drohobycz/families/markel.html` | NEGATIVE (HTTP 403) | JewishGen KehilaLinks blocks direct fetch from this environment. |
+| 6 | WebFetch via Wayback Machine `web.archive.org/web/2024/...` | NEGATIVE (environment refuses fetch to web.archive.org) | Wayback cache is not a usable workaround from this environment. |
+| 7 | WebSearch: site:kehilalinks.jewishgen.org Drohobycz Markel Heshel Sambor Waniowice | POSITIVE: confirms Drohobycz JewishGen Markel page documents the **Bartel-Markel branch**: Sara Hinde Markel m. Shamay Bartel 1877, settled Lutowiska. Also surfaces a separate Sternbach family page on the same Drohobycz site, and a Troskunai (Lithuania) Markel page (a third unrelated family). | **Drohobycz JewishGen Markel ≠ vault's Heshel + Leah Frei branch.** Per Guard Rail #6, do NOT merge on surname alone. |
+| 8 | WebSearch: "drohobycz-boryslaw.org" Markel Boryslaw Heshel Leah | POSITIVE: confirms separate Boryslaw Markel record at `drohobycz-boryslaw.org/en/families/boryslaw/markel`. **Mordechai Markel b. 24 Oct 1924 Boryslaw**, son of **Zalman (Salomon) and Leah**, deported to Auschwitz with parents, escaped, survived, d. 4 Mar 2020 Haifa. | **Boryslaw Markel ≠ vault's Heshel + Leah Frei branch** despite "Leah" overlap (Zalman + Leah Markel are different parents). Documented as elimination per Guard Rail #6. |
+| 9 | WebFetch direct: `drohobycz-boryslaw.org/en/families/boryslaw/markel` | NEGATIVE (HTTP 403) | drohobycz-boryslaw.org also blocks direct fetch. |
+
+**Tractable findings**:
+
+1. **Two separate Markel branches in adjacent Galician shtetlach are NOT the vault's branch** (Bartel-Markel of Lutowiska/Drohobycz; Zalman+Leah Markel of Boryslaw). Both have published genealogical web pages. Recording the elimination prevents future merge errors per Guard Rail #6 and answers a question the vault had not explicitly asked.
+2. **A third Markel family in Troškūnai, Lithuania** is also surfaced and is also unrelated.
+3. The **Sambor ghetto deportation timeline** (early-1942 in-gathering from Kobla and surrounding villages → August 4, 1942 mass action → November 1942 Belzec deportation) is reconfirmed for the Bartel-Markel family of Aaron Bartel and is consistent with the vault's revised assessment that Avraham Chaim Markel's "1939 Rosh Hashanah" death date is incorrect and the actual death was likely 1942-1943 ([[Avraham_Chaim_Markel]] §Date Discrepancy).
+
+**Not tractable from this environment**:
+
+- Yad Vashem Central Database of Shoah Victims' Names — direct fetch 403; record-detail search results not surfaced via external search engines. Search must be run in human browser.
+- JewishGen KehilaLinks (any subdomain) — direct fetch 403.
+- USHMM Holocaust Survivors and Victims Database — direct fetch 403 (per [[Avraham_Chaim_Markel]] 2026-04-17 entry; not retried today as the constraint is the same).
+- drohobycz-boryslaw.org — direct fetch 403.
+- web.archive.org — environment refuses.
+
+**Implication for the "top-10 search agents" list (top-of-session discussion)**: agents #2 (FamilySearch wiki + free record collections), #4 (Norwegian Digitalarkivet), and #7 (Castle Garden / Ellis Island free) remain agentic-friendly. **Yad Vashem POT, JewishGen Holocaust DB, USHMM HSVDB, and Sambor Yizkor Book on archive.org are agentic-blocked from this environment** and must be browser-driven. Update the Markel person file's §Research Leads accordingly.
+
+**Open questions touched**:
+- OQ #25 (Avraham Chaim Markel's wife): no advance; access constraint reconfirmed.
+- OQ #26 ("child Regina"): no advance; access constraint reconfirmed.
+- New finding (no OQ): Drohobycz Bartel-Markel and Boryslaw Zalman-Leah Markel branches are SEPARATE from the vault's Heshel + Leah Frei branch. Documented in [[Avraham_Chaim_Markel]] §Same-Surname Eliminations.
+
+**Negative results logged** for OQ #25, #26 across the 9 searches above.
+
+### Files updated (2026-05-01)
+- [[Avraham_Chaim_Markel]] (new §Same-Surname Eliminations section recording the Bartel-Markel and Zalman-Leah Markel branches as distinct families per Guard Rail #6)
+- [[Open_Questions]] (OQ #25 and #26 stamped with 2026-05-01 attempted-but-blocked note)
+- [[Research_Log]] (this entry)
+
+---
+
 ## 2026-04-25 Markel image-upload follow-up (PART 2)
 
 User pushed the 7 chat-shared Markel-line images to `Assets/` on `main` (commit `92b27e8`, "Markel family (uploaded 25APR2026)"):
