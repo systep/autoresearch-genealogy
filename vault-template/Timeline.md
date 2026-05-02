@@ -1,7 +1,7 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-25
+updated: 2026-05-02
 tags: [genealogy, timeline, chronology]
 ---
 
@@ -96,6 +96,8 @@ Chronological index of all dated events across the family tree.
 | ~1783 | Immigration | John Stangle | England to America | IMG_0789 (corrected from 1683) |
 | 16 Oct 1784 | Will written | William Holloway (father of Martha Patty Holloway); proved 22 Nov 1784 | Brunswick County, VA | Will Book 2 pp. 422-23 (Tier 1) |
 | 1784 | Birth | Dianah/Diana Black | North Carolina | WikiTree |
+| 27 Sep 1789 | Will witnessed (proved 6 Apr 1790) | [[Thomas_Levi_Brasher_Jr]] | Greenville County, SC | Greenville Co SC Will Book Apt 8 File 577/589 (Tier 1, located via WebSearch 2026-05-02) |
+| 6 Apr 1790 | Will probated | [[Thomas_Levi_Brasher_Jr]] | Greenville County, SC | Greenville Co SC Will Book Apt 8 File 577/589 (Tier 1, located via WebSearch 2026-05-02) |
 | Oct 13, 1787 | Land sale (110 acres for 250 pounds) | William Cox Sr. | Orange Co., NC to John Millison | Cox Family History Project |
 | ~1787 | Migration | Cox, Henderson, Long families | Orange Co., NC to Greenville Co., SC | WikiTree, Cox Family History Project |
 | 9 Nov 1793 | Marriage | [[James_Huff]] + [[Rebecca_Moseley_Huff]] | Brunswick, VA | WikiTree Huff-1775 |
@@ -141,6 +143,11 @@ Chronological index of all dated events across the family tree.
 | 21 Jan 1836 | Birth | [[Mary_Elizabeth_Huff]] | Brunswick, VA (or SC per handwritten notes) | Handwritten notes, MyHeritage |
 | 7 Jan 1837 | Death | [[Rebecca_Moseley_Huff]] | Golden Grove, Greenville Co, SC | WikiTree Huff-1775 (or 1838 per GEDCOM) |
 | ~1836 | Land donation for church | [[James Cox]] | Standing Springs, Simpsonville, SC | hmdb.org #168369 |
+| 2 Feb 1826 | Will signed | [[Jacob_Cooley_Jr]] | Greenville District, SC | Greenville District Court Will Book B p. 88 (Tier 1, located via WebSearch 2026-05-02) |
+| 19 Jun 1826 | Will probated | [[Jacob_Cooley_Jr]] | Greenville District Court, SC | Greenville District Court Will Book B p. 88 (Tier 1, located via WebSearch 2026-05-02) |
+| 13 Dec 1826 | Death | [[Robert_King_II]] | Belton, Anderson County, SC | WikiTree King-12061, FaG #48870135 (corroborated 2026-05-02) (Tier 2/3) |
+| 1842 | Death | [[Nancy_Gover_Cooley]] | Greenville County, SC | Find a Grave #204500423 (Tier 2, cited 2026-05-02) |
+| 17 Nov 1850 | Death | Mary Ann (Woodson) Cooley (wife of [[Hiram_Cooley]]) | Greenville County, SC | WikiTree Woodson-784, FaG #25824984 (Tier 2, located 2026-05-02) |
 | 18 Jan 1840 | Death | [[Eli_Baldwin]] | Greenville, SC | WikiTree Baldwin-2330, Geni |
 | June 20, 1841 | Birth | [[Judson_King]] | Greenville, South Carolina | SC Death Certificate #7013 (Tier 1) |
 | 31 May 1842 | Death | [[James_Huff]] | Golden Grove, Greenville, SC | WikiTree Huff-1775 |

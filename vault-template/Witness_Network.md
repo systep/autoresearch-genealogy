@@ -1,7 +1,7 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-18
+updated: 2026-05-02
 tags: [genealogy, witnesses, network, relationships]
 ---
 
@@ -22,6 +22,9 @@ In small communities, witnesses and informants were almost always family members
 | Lou A. King | George W. King Jr. death certificate, Pelzer SC | April 29, 1936 | Informant (wife) | Wife of George W. King Jr. (brother of [[Judson_King]]). |
 | Pastor A. Bogeschdorfer | Waldhutten church certificate "VATER" | Feb 10, 1938 | Officiant/Signatory | Lutheran pastor at Waldhütten (Valchid), Transylvania. Signed the VATER certificate documenting the Kascher family. |
 | Julius G. Kelley, M.D. | [[Abraham_Zolly_Salk]] death certificate | Feb 22, 1925 | Attending physician | Providence City Hospital physician. Community connection only. |
+| William Moseley Jr. | [[William_Holloway_Brunswick_VA]] will | 16 Oct 1784 | Witness | Likely father of [[Samuel_Moseley]] (William Holloway's son-in-law via [[Martha_Patty_Holloway]]). Tier 1 will. |
+| Harmon Read | [[William_Holloway_Brunswick_VA]] will | 16 Oct 1784 | Witness | Brunswick Co VA community connection. No vault-family link established. |
+| Littleberry Pearson | [[William_Holloway_Brunswick_VA]] will | 16 Oct 1784 | Witness | Brunswick Co VA community connection. Distinctive name worth tracking. No vault-family link established. |
 
 ### Wedding Witnesses
 
@@ -64,6 +67,13 @@ Two Tachner brothers married two Markel sisters, creating a double family connec
 | Person | Deceased | Date | Role |
 |---|---|---|---|
 | (none yet documented) | | | |
+
+### Estate Sale Purchasers
+
+| Person | Estate | Date | Probable Relationship |
+|---|---|---|---|
+| James Huff | [[William_Holloway_Brunswick_VA]] (sale 1 Apr 1789, Brunswick Co VA) | 1 Apr 1789 | Probably the same [[James_Huff]] (b. 14 Feb 1768), grandson or great-nephew of William Holloway via [[Mary_Holloway_Huff]] + [[Daniel_Huff_Brunswick]]. Strengthens Holloway-Huff kinship hypothesis. |
+| William Huff | [[William_Holloway_Brunswick_VA]] estate sale | 1 Apr 1789 | UNRESOLVED -- not a known [[Daniel_Huff_Brunswick]] son. May be a separate Huff cousin/grandson. See [[Unresolved_Persons]]. |
 
 ### Neighbors (Census)
 

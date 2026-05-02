@@ -62,6 +62,9 @@ His son **Ezekiel Henderson** (1763-1846) served in the Revolutionary War (priva
 | Will dated September 6, 1804, Chatham County, NC | Legal document | Estate disposition |
 | Deed to John Henderson, November 9, 1804, Chatham County, NC | Property deed | 150 acres, Meadow Branch/Brookses Creek; proved by John Hackney Sr. |
 | Estate inventory, 1806, Chatham County, NC | Probate record | 7 images available |
+| 1804 Chatham County Will of Argaleus Henderson, image | Probate record (Tier 2 image; Tier 1 source is the will itself) | https://www.flickr.com/photos/hendersonfamilyhistory/16581182153 (retrieved 2026-05-02 colonial-records sweep) |
+| Codicil to Will of Argaleus Henderson | Probate record transcription (Tier 2) | http://o.pcahs.org/research/argulusa.htm |
+| Argalus Henderson will transcription, Chatham Co NC | Probate record transcription (Tier 2) | http://homepages.rootsweb.com/~mwellis/Argalus_Henderson_Will.html |
 
 ## Data Discrepancies
 

@@ -57,6 +57,20 @@ Immigrant progenitor of the Southern US Youngblood cluster (SC/GA Edgefield line
 4. Did Peter arrive directly from Germany or via an intermediate stop (Rotterdam, London)?
 5. What is the primary-source link between Peter's son Peter Jr. (bef.1732-1788) and the Edgefield SC Youngbloods of the vault cluster?
 
+## Immigration
+
+| Field | Value | Source |
+|---|---|---|
+| Naturalization | 6 March 1738/9, Prince George's County, Maryland | Commission Book #82, Council of Maryland (Tier 1, primary source via secondary citation) |
+| Co-naturalized | Sons William and Peter, daughters Sarah and Mary | Same |
+| Country of origin (declared) | Germany | Same naturalization record |
+| Arrival in North America | Prior to 1728 ("disputed territory") | thegagenweb.com Youngblood migrations (Tier 2) |
+| Occupation | Surveyor | thegagenweb.com Youngblood migrations (Tier 2) |
+| Port of arrival | Unknown (Annapolis MD or Philadelphia PA candidates) | Open |
+| Ship | Unknown (no Strassburger/Hinke match) | Open |
+
+**2026-05-02 Prompt 11 sweep**: Targeted search on Peter Jungblut / Peter Youngblood + 1739 + Maryland naturalization corroborated the 6 Mar 1738/9 Prince George's County jurisdiction across thegagenweb.com (Migrations page), WikiTree Youngblood-199, and firstfamiliesofmaryland.com Qualifying Ancestors page. New detail: occupation **surveyor**. New detail: settled in "the disputed territory" by 1728 (this refers to the Maryland-Pennsylvania boundary dispute area, which complicates port-of-entry determination). Personal records reportedly kept in German. No primary passenger list match.
+
 ## Confidence
 
 Moderate. The Maryland naturalization is well-attested by multiple independent secondary sources citing a specific primary source (Commission Book #82). The Palatinate village origin and first wife remain speculative. Will be upgraded to Strong once the original Maryland State Archives image is retrieved and a documentary bridge to the vault Youngblood cluster is established.

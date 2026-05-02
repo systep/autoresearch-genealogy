@@ -131,6 +131,8 @@ A systematic search of free web resources (Steve Morse One Step, JewishGen EIDB,
 
 **Immigration search update (2026-04-18, Prompt 11 session):** Conducted systematic search across all free web sources. GG Archives confirmed no SS Baltic passenger list for December 1904 is digitized there (earliest available: Dec 1917). The December 14, 1904 Liverpool departure and December 23 New York arrival remain confirmed by secondary sources. The actual manifest exists on NARA microfilm T715 and in the Ancestry/FamilySearch digitized collections but is not accessible without login. Name variants to search: Berko Zalmanson, Berl Zalmanson, Berko Zalmanzon, B. Salmanson, Berko Salmanson, Benjamin Zalmanson. FamilySearch collection 2622566 (RI Naturalization Records, free with login) is the highest-priority path.
 
+**Immigration search update (2026-05-02, Prompt 11 session, 2-iteration scoped retry):** Re-confirmed via WebSearch that the SS Baltic served the Liverpool–New York route continuously from July 1904 through January 1905 (norwayheritage.com p_ship.asp?sh=balt2; ggarchives.com OceanTravel/ImmigrantShips/Baltic.html; titanicandco.com Big Four 1901-1906; whitestarhistory.com baltic2). The 14 Dec 1904 Liverpool departure with 23 Dec 1904 NY arrival fits the documented schedule. No new individual manifest entry located through free search; the manifest itself remains paywalled. The earlier 2026-04-22 finding that Barnett's RI Petition is in the **U.S. District/Circuit Court** collection (not state-level collection 2622566) remains the highest-yield path, with NARA Boston/Waltham as the physical archive. Logged in [[immigration_search_audit]].
+
 ## Census Search (2026-04-18)
 
 ### 1910 Census (candidate: possibly mis-indexed as "Barnett Solomon")

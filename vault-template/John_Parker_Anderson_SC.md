@@ -11,6 +11,7 @@ sources:
   - "WikiTree Parker genealogy index (Tier 3, search snippet)"
   - "WikiTree Parker-1606 (John Parker 1759-1845; DAR records cited; Revolutionary War Pvt 96th District SC Militia; buried Ebenezer United Methodist Church Cemetery, Anderson SC) (Tier 2/3 hybrid, retrieved via WebSearch 2026-05-02)"
   - "lamartin.com 'Descendants of John Parker' (Tier 3 standalone genealogy site, retrieved 2026-05-02)"
+  - "DAR Patriot Ancestor #A087608 (honoringourpatriots.dar.org/patriots/john-parker/) (Tier 2, retrieved via WebSearch 2026-05-02 colonial-records sweep)"
 created: 2026-05-02
 tags: [genealogy, parker, person, ireland, south-carolina, anderson, belton]
 ---
@@ -47,6 +48,13 @@ The Anderson County SC settlement context strongly suggests John Parker was part
 | WikiTree Parker genealogy index | user-contributed tree (Tier 3) | https://www.wikitree.com/genealogy/PARKER |
 | WikiTree Parker-1606 (John Parker 1759-1845; DAR records, Revolutionary War service, Ebenezer UMC burial) | user-contributed tree citing DAR (Tier 2/3 hybrid) | https://www.wikitree.com/wiki/Parker-1606 |
 | lamartin.com "Descendants of John Parker" | online published genealogy (Tier 3) | https://www.lamartin.com/genealogy/parker.htm |
+| **DAR Patriot Ancestor #A087608** ("Honoring Our Patriots" public DAR page) | DAR lineage-society record (Tier 2) | https://honoringourpatriots.dar.org/patriots/john-parker/ |
+
+## Revolutionary War Service (DAR Patriot #A087608)
+
+Per the DAR Patriot Ancestor record (RIN **A087608**) corroborated by WikiTree Parker-1606 narrative (retrieved 2026-05-02 via colonial-records sweep), John Parker served as **Private** in the **Ninety-Six District Regiment, South Carolina Militia**, in the companies of Captains Irwin, Norwood, Moore, Anderson, Maxwell, and Jenkins. DAR records corroborate his death June 1845, Anderson District, SC. The DAR record cites birth year 1759 (one of the open data discrepancies in this profile, vault retains 1753 pending Tier 1 resolution).
+
+Per WikiTree Parker-1606 (which cites DAR), John Parker's parents were **William Parker** and **Isabell Barras** (both names Tier 3, not yet independently corroborated); these were not previously named in the vault. Logged to [[Unresolved_Persons]] for next tree-expansion cycle.
 
 ## Open Items
 

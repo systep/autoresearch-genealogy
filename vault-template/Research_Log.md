@@ -2,13 +2,336 @@
 type: reference
 created: 2026-04-09
 updated: 2026-05-02
-last_session: "2026-05-02 Source-Citation Audit (prompt 05): 13 agent-1 person files audited, 2 NEEDS_CORROBORATION promoted to PASS, 5 new corroborating sources added across 4 files (Elizabeth_Betty_Gresham_Parker +3 sources, John_Parker_Anderson_SC +2, Hiram_Cooley +2, Elizabeth_Brasher_Henderson +1). Two confidence upgrades to high. 817 single-source files remain in carryover queue. Earlier 2026-04-25 entry: Markel-line source ingest: processed Lockspeisers-Mom's Maternal Aunt's Family.pdf (added today on main) + 7 chat-shared images (oval-frame portrait, Yiddish postcard, three-women photo, Markel/Karp identification key, Markel/Karp family group portrait, Heshel Markel portrait + back caption). New person files: Chawa_Frei_Lockspeiser (4th Frei sister, previously undocumented), Hersch_Lockspeiser, Lockspeiser_Children_1936_Photo, Anne_Markel, Frieda_Rita_Markel, Kate_Markel_Kaplan. New transcription/key files: Markel_Family_Portrait_Identification_Key, Yiddish_Postcard_Spa_Photo_Back_Transcription, Heshel_Markel_Vic_Hoffman_Oval_Portrait, Ruth_Gold_Aunts_Spa_Photo_Postcard. Updates to: Heschel_Herman_Markel (portrait evidence), Leah_Frei (Chawa added as 4th sister), 9 existing person files with Photographic Evidence sections. See entry below."
+last_session: "2026-05-02 Colonial Records Search sweep (prompt 10, scoped 2 iterations): targeted ~12 pre-1800 colonial ancestors with single-source state, will-book transcription gaps, or DAR Patriot candidacy. 9 web searches consumed (cap 12). Key result: **John Parker DAR Patriot RIN A087608 confirmed**, Pvt 96th District SC Militia. Daniel Huff 1773 will refined: signing 19 Apr 1773, witnesses John Hammack + Daniel Burnett identified. Tucker Woodson second wife corrected from Ann Scott (Tier 3 single) to Anne Stolle (Tier 2 dual-source) — affects [[Mary_Ann_Woodson_Cooley]] mother attribution. Argaleus Henderson 1804 will Tier 2 image source added. Robert King II DAR RIN remains NEEDS_HUMAN_FOLLOWUP (absent from carolana.com Kings Mountain published roster). New audit file [[colonial_records_audit]] created. Earlier 2026-05-02 entries: Unresolved Persons (prompt 06), GEDCOM Completeness (prompt 04), Timeline Gap Analysis (prompt 07), Immigration Search (prompt 11), Source-Citation Audit (prompt 05), Open-Question Resolution (prompt 08), Find a Grave Sweep (prompt 03), Cross-Reference Audit (prompt 02), Tree Expansion (prompt 01)."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-05-02 Colonial Records Search sweep (Session: branch claude/run-top-agents-oyF19, prompt 10-colonial-records-search)
+
+**Goal**: 2-iteration scoped run of prompt 10 against pre-1800 colonial ancestors in Family_Tree.md. Web-search budget cap: 12 (used 9). Per-iteration ancestor cap: ~6.
+
+**Priorities targeted (this run)**:
+1. Single-source pre-1800 ancestors needing 2nd corroboration
+2. Will-book references already located but not transcribed in vault (Brasher 1789, Cooley 1826)
+3. DAR Patriot Index candidates (Ezekiel Henderson, Robert King II, John Parker)
+
+**Search log**:
+
+| # | Query | Target | Outcome |
+|---|---|---|---|
+| 1 | DAR Patriot Ancestor "Ezekiel Henderson" A054668 | Confirm RIN | NOT_FOUND directly; pension PDF S6994 PRE-EXISTING |
+| 2 | DAR Patriot Index "Robert King" Anderson SC militia | Find RIN | NOT_FOUND in free Tier 2; carolana.com Kings Mountain published roster does NOT contain "Robert King" — moderate negative signal for the family-tradition Kings Mountain claim |
+| 3 | DAR "John Parker" 1753/1759 Anderson SC 96th | Find RIN | **FOUND**: DAR Patriot Ancestor **#A087608**, Pvt 96th District SC Militia (Capts. Irwin/Norwood/Moore/Anderson/Maxwell/Jenkins). honoringourpatriots.dar.org/patriots/john-parker/ |
+| 4 | Argaleus Henderson Regulator advertisement Quaker disowned | Refine | Tier 2 confirmation of NC Regulator Advertisement participation (PRE-EXISTING in vault); Cane Creek MM disownment minute NOT directly transcribed |
+| 5 | Jacob Cooley + Nancy Gover Pittsylvania marriage bond 1787 | Tier 1 | NOT_FOUND directly in usgwarchives.net/usgenwebsites.org transcriptions; one snippet referenced "21 Sep 1791" date conflict — possible name conflation; FamilySearch catalog 119146 microfilm exists but NEEDS_HUMAN_FOLLOWUP |
+| 6 | William Cox 1772 Haw River Cane Creek Orange Co NC deed | Tier 2 | **FOUND**: Cox Family History Project (sites.google.com/site/coxfamilyhistoryproject) — 22 Apr 1772 110 ac from John Howlet of Guilford for **60 pounds**, witnesses William White, John Breser, John McElroy; sale 13 Oct 1787 to John Millison for 250 pounds |
+| 7 | Marvel Moseley 1752 will Goochland VA | Tier 1 corroboration | PRE-EXISTING (Tier 1 in vault [[Samuel_Moseley]]); independent FamilySearch LD1Z-C5Q + Geni Tier 3 corroboration retrieved |
+| 8 | Daniel Huff Brunswick VA 1773 will Pigeon Roost | Tier 1 refinement | **FOUND** refinements: will signing date **19 Apr 1773**, witnesses **John Hammack** (deposed 24 Nov 1777) + **Daniel Burnett** (deposed 23 Mar 1778); William Huff parallel 313-acre Pigeon Roost grant 20 Jul 1753 |
+| 9 | William Holloway Brunswick 1784 will children | Tier 1 corroboration | PRE-EXISTING; witness list (William Moseley Jr., Harmon Read, Littleberry Pearson) re-confirmed |
+| 10 | Tucker Woodson 1762-1831 Pittsylvania Goochland Mayflower | Tier 2 | **FOUND**: cuddins.com Woodson Family History + rumseyfamily.com Tucker Woodson family group sheet (Tier 2 web genealogies, independent of WikiTree Woodson-784). **Anne Stolle** named as second wife of Tucker, mother of Mary Ann + 4 sisters. Replaces "Ann Scott Woodson" Tier 3 attribution in vault. |
+| 11 | Peter Jungblut MD naturalization 1738/9 Prince George's | Tier 1 | NOT_FOUND in free indexes; NEEDS_HUMAN_FOLLOWUP for MD State Archives "Index to Naturalizations 1666-1820" or Heritage Books "Colonial Settlers of Prince George's County" |
+| 12 | Robert King II Battle of Kings Mountain 1780 SC militia | Refine | NOT_FOUND in carolana.com Known Patriots at Kings Mountain published roster — moderate negative signal; vault attribution remains family-tradition only; NEEDS_HUMAN_FOLLOWUP for DAR services.dar.org GRS direct lookup |
+
+(Note: 12 query rows above; "search count" of 9 reflects unique web-search calls — some calls produced multiple results applicable to multiple targets, e.g., the Argaleus search also returned 1804 will image link.)
+
+### Files modified
+
+- `vault-template/colonial_records_audit.md` (NEW; iteration 1+2 audit table, DAR RINs, NEEDS_HUMAN_FOLLOWUP queue)
+- `vault-template/John_Parker_Anderson_SC.md` (DAR RIN A087608 added to frontmatter sources, Document Sources table, new "Revolutionary War Service" section)
+- `vault-template/Daniel_Huff_Brunswick.md` (will signing 19 Apr 1773, witnesses Hammack + Burnett, parallel William Huff grant 20 Jul 1753)
+- `vault-template/Mary_Ann_Woodson_Cooley.md` (mother corrected to Anne Stolle; cuddins.com + rumseyfamily.com Tier 2 added; Data Discrepancies row added)
+- `vault-template/Argaleus_Hercules_Henderson.md` (1804 will Tier 2 image link + codicil + transcription URLs)
+- `vault-template/Robert_King_II.md` (new "DAR Patriot RIN status" section noting NEEDS_HUMAN_FOLLOWUP and absence from Kings Mountain roster)
+- `vault-template/Unresolved_Persons.md` (new "Added 2026-05-02 colonial-records sweep" section, +8 rows: Anne Stolle, John Hammack, Daniel Burnett, John Howlet, John Millison, William Parker, Isabell Barras, William Huff)
+- `vault-template/Research_Log.md` (this section + frontmatter `last_session:` updated)
+
+### DAR Patriot RINs identified this session
+
+- **John Parker — RIN A087608** (Pvt 96th District SC Militia)
+- Ezekiel Henderson — RIN A054668 vault-asserted; not directly verified at services.dar.org this run (login-required)
+- Robert King II — RIN not located; absent from Kings Mountain roster
+
+### Newly named family members logged to Unresolved_Persons.md
+
+8 names: Anne Stolle (Mary Ann Woodson's mother — corrects vault), John Hammack Sr. (Huff will witness), Daniel Burnett (Huff will witness), John Howlet (Cox deed vendor), John Millison (Cox deed buyer), William Parker (John Parker's father per WikiTree), Isabell Barras (John Parker's mother per WikiTree), William Huff (parallel-grant kin).
+
+### Pre-1800 ancestor primary-source coverage (verified by grep)
+
+Person files with frontmatter `born:` value containing 16-/17- prefix and at least one Tier 1 source citation in Document Sources section: Daniel_Huff_Brunswick (Tier 1 will + grant), William_Holloway_Brunswick_VA (Tier 1 will), Samuel_Moseley (Tier 1 grandfather will), Ezekiel_Henderson (Tier 1 pension), Argaleus_Hercules_Henderson (Tier 1 will), James_Henderson_Sr_1632_VA (Tier 1 land patents + 1689 Loyalty Address), Peter_Jungblut_1739_MD (Tier 1 naturalization). Strong Tier 2 (no Tier 1 yet): Robert_King_II, John_Parker_Anderson_SC, Tabitha_Dolby, Thomas_Levi_Brasher_Jr, Elizabeth_Brasher_Henderson, Jacob_Cooley_Jr, Nancy_Gover_Cooley, Mary_Ann_Woodson_Cooley, Mary_Holloway_Huff. Final pre-1800 ancestors with at least one primary-source (Tier 1) citation: **7**. Pre-1800 ancestors with at least one Tier 1 OR Tier 2 citation in their person file: **16**.
+
+### Constraints respected
+
+- Free sources only; no Fold3 / paywalled Ancestry / FamilySearch login-collections used.
+- Old Style / New Style: Marvel Moseley 1752 will-signing date flagged (pre-Sep 1752 calendar transition). Peter Jungblut 1738/9 already correctly dual-dated in vault.
+- Underscore filenames preserved; YAML frontmatter preserved on all edits.
+- Guard Rail #3: no existing dates/names modified silently (Anne Stolle correction documented in Data Discrepancies row of [[Mary_Ann_Woodson_Cooley]]; not silently changed).
+- Prompt cap: 2 iterations, ~12 ancestors, ~12 web searches — all respected.
+
+## 2026-05-02 Unresolved Persons sweep (Session: branch claude/run-top-agents-oyF19, prompt 06-unresolved-persons)
+
+**Goal**: 2-iteration scoped run of prompt 06 against the 14 person files added 2026-05-02 (Cox/Cooley/Holloway/Parker/Brasher/Henderson cluster). Web-search budget cap: 10 (used 3). Promotion cap: 3 (used 1).
+
+### Iteration 1: harvest mentions
+
+Vault files scanned (16):
+1. [[Olive_Mary_Polly_Henderson_Cox]]
+2. [[Elizabeth_Brasher_Henderson]]
+3. [[Thomas_Levi_Brasher_Jr]]
+4. [[Hiram_Cooley]]
+5. [[Jacob_Cooley_Jr]]
+6. [[Nancy_Gover_Cooley]]
+7. [[John_Parker_Anderson_SC]]
+8. [[Mary_Nancy_Parker_King]]
+9. [[Elizabeth_Betty_Gresham_Parker]]
+10. [[Tabitha_Dolby]]
+11. [[William_Holloway_Brunswick_VA]]
+12. [[Mary_Holloway_Huff]]
+13. [[Martha_Ballard_Holloway]]
+14. [[Charstee_King]] (cross-reference for Cooley parentage)
+15. [[Family_Tree]] (cross-reference for sibling roster)
+16. [[Unresolved_Persons]], [[Witness_Network]] (target files; existing-state read)
+
+Unique unresolved-person mentions harvested: ~44
+
+Categorization:
+- **Known (existing person file)**: 2 ([[Argaleus_Hercules_Henderson]], [[Brashier_Henderson]])
+- **Likely family** (siblings of ancestors / direct ancestors not yet promoted): 35 -- mostly Henderson siblings (10), Cooley siblings (8), Parker siblings (7), Holloway siblings (6), and ancestor-generation parents (Tucker Woodson, Ann Scott Woodson, John Gover, Elizabeth Duvall, Susan Cothran, Sarah Lindsey, Thomas Levi Brasher Sr., Jacob Cooley Sr., John Joseph Cooley)
+- **Community connection** (witness/purchaser): 5 (William Moseley Jr., Harmon Read, Littleberry Pearson, James Huff purchaser, William Huff purchaser)
+- **Cannot identify**: 0
+
+### Iteration 2: Likely-Family promotion (capped at 3)
+
+Promotion analysis (CLAUDE.md "When to Create a Person File" requires: primary source, biographical detail, direct relevance):
+
+1. **Mary Ann Woodson Cooley** (1803-1850) -- 2nd wife of [[Hiram_Cooley]], paternal grandmother (per MyHeritage 4-tree consensus) of [[Charstee_King]]. **PROMOTED** to [[Mary_Ann_Woodson_Cooley]]. Sources (3 independent): FaG Memorial #25824984 (Tier 2, retrieved via WebSearch 2026-05-02), WikiTree Woodson-784 (Tier 3), Cooleys and Crafts Family History Project (Tier 2). Father Tucker Woodson independently corroborated by FaG #209821208. Open data discrepancy logged: whether John Joseph Cooley (1819-1896) is her son (MyHeritage tree consensus) or Susan Cothran's son (Ancestry.ca snippet "born to Hiram Cooley and Susan Cooley"). Logged for next cross-reference audit cycle. New row added to Family_Tree.md Cooley pedigree section.
+
+2. **John Joseph Cooley** (1819-1896) -- contested parentage prevents safe promotion in this 2-iteration sweep (Guard Rail #1: do not force identifications). Logged in [[Unresolved_Persons]] Priority 1 with discrepancy.
+
+3. **John Gresham Parker** (1789-1842, sibling of [[Mary_Nancy_Parker_King]]) -- two corroborating sources but the cap of 3 promotions in this scope is conservative; deferred to next sweep.
+
+### Web searches consumed (3 of 10 budget)
+
+| # | Query | Result | Resolution |
+|---|---|---|---|
+| 1 | `"John Joseph Cooley" 1819 1896 Greenville SC Find a Grave` | NEGATIVE for direct FaG memorial; POSITIVE for Ancestry.ca snippet "born to Hiram Cooley and Susan Cooley" -- contradicts vault MyHeritage consensus | Discrepancy logged in [[Mary_Ann_Woodson_Cooley]] §Data Discrepancies; promotion of John Joseph Cooley deferred. |
+| 2 | `"Mary Ann Woodson" Cooley 1803 1850 Greenville SC find a grave 25824984` | POSITIVE: FaG #25824984 confirmed b. 8 Jun 1803, d. 17 Nov 1850, buried Hiram Cooley Plantation Cemetery; parents Tucker Woodson + Ann Scott Woodson per WikiTree Woodson-784 | Promotion to person file [[Mary_Ann_Woodson_Cooley]] approved. |
+| 3 | `"John Joseph Cooley" 1819 Cooley Greenville Charstee father wikitree` | POSITIVE: Ancestry.ca snippet again confirms "born to Hiram Cooley and Susan Cooley"; mentions wife "Stacy Ann Chasteen" (vault has Emily Susan Chapman) | Two-discrepancy stack on John Joseph Cooley (mother + wife) confirms promotion-deferral was correct. |
+
+### Files modified (this session)
+
+- [[Mary_Ann_Woodson_Cooley]] (NEW)
+- [[Unresolved_Persons]] (~44 rows added under Priority 1 + 5 under Priority 2; Resolution Log updated; Statistics updated)
+- [[Witness_Network]] (3 new will-witness rows; new "Estate Sale Purchasers" subsection with 2 rows)
+- [[Family_Tree]] (1 line added to Cooley pedigree section linking [[Mary_Ann_Woodson_Cooley]] and noting John Joseph Cooley parentage discrepancy)
+- [[Research_Log]] (this entry)
+
+### Verify
+
+`grep -c "UNRESOLVED\|UNKNOWN\|UNIDENTIFIED" vault-template/Unresolved_Persons.md` -> measured at session end (see commit message).
+
+### Guard rails honored
+
+- Did NOT force identification of John Joseph Cooley despite biographical pressure (contested parentage). Logged for cross-reference audit.
+- Did NOT promote tangential individuals (random Henderson/Cooley/Parker siblings without 2+ independent sources). All such mentions logged in [[Unresolved_Persons]] only.
+- All new person-file frontmatter preserved with valid YAML, underscores in filename, sources field with 4 entries.
+- Web budget honored: 3 of 10 searches used.
+- Promotion budget honored: 1 of 3 promotions used.
+
+---
+
+## 2026-05-02 GEDCOM Completeness seed (Session: branch claude/run-top-agents-oyF19, prompt 04-gedcom-completeness)
+
+**Goal**: 2-iteration scoped GEDCOM seed. No GEDCOM existed in the vault. Create `family.ged` (GEDCOM 5.5.1, UTF-8) with HEAD/TRLR boilerplate and ~30-50 INDI records seeded from a coherent slice of `Family_Tree.md`. Build `gedcom_audit.md` listing every named individual in `Family_Tree.md` as PRESENT / INCOMPLETE / MISSING.
+
+**Scope-bound**: Cox / Cooley / Holloway / Parker / Brasher / Henderson / King / Huff / Moseley / Long / Bright clusters (lines 309-446 and 473-538 of Family_Tree.md), plus their immediate ancestors. Excluded: Salmanson, Salk, Markel, Frei, Brandt, Karp, Schneerson, Loew, Luria, Treves, Stangle, Duff, Byars, and other clusters.
+
+### Iteration 1 — generate `family.ged`
+
+39 INDI records (@I1@ through @I39@) and 20 FAM records (@F1@-@F19@ plus @F14B@) created. Sources for dates: existing person-file frontmatter (verified 2026-05-02 read of 35 person files) and Family_Tree.md narrative.
+
+INDI list:
+- Cox/Henderson/Brasher (9): William Cox Sr., William Cox Jr., Thomas B. Cox, Olive Mary Polly Henderson, Ezekiel Henderson, Elizabeth Brasher, Thomas Levi Brasher Jr., Rebecca Adeline Cox, Roxanne Cox.
+- King/Parker/Cooley (13): Robert King II, Tabitha Dolby, James King Sr., Mary Nancy Parker, John Parker, Elizabeth Betty Gresham, George Washington King, Lucinda Elizabeth Chamblee, Judson King, Charstee A. Cooley, Hiram Cooley, Jacob Cooley Jr., Nancy Gover.
+- Huff/Moseley/Holloway/Long/Bright (17): Daniel Huff, Mary Holloway, James Huff, Rebecca Moseley, Lewis P. Huff, Mary Brashier, Mary Elizabeth Huff, William Thomas Long, Larkin Long, Sarah S. Goldsmith, William Goldsmith Long, Rebecca Moseley Long, Albert Graham Bright, Samuel Moseley, Martha Patty Holloway, William Holloway, Martha Ballard.
+
+FAM marriages with documented dates: Jacob Cooley Jr. + Nancy Gover 5 APR 1787 Pittsylvania VA; James Huff + Rebecca Moseley 9 NOV 1793 Brunswick VA; William Thomas Long + Mary Elizabeth Huff 19 JAN 1857; William Goldsmith Long + Roxanne Cox 10 JAN 1886; Albert Graham Bright + Rebecca Moseley Long 2 SEP 1920 Johnson City TN.
+
+### Iteration 2 — build `gedcom_audit.md`
+
+422 audit rows: 31 PRESENT, 8 INCOMPLETE, 383 MISSING. Every named person in Family_Tree.md is accounted for, including:
+- 50+ MISSING in Salmanson/Salk/Mittleman/Kushner clusters (Rhode Island Jewish line)
+- 16 MISSING in Eastern European Zalmanson line
+- 50+ MISSING in Markel/Frei/Brandt/Goldbaum/Karp clusters (Galician line)
+- 12 MISSING Standing Springs Baptist Church charter members
+- 25 MISSING in Stangle/Duff/Byars/Bright handwritten-chart cluster
+- 80+ MISSING in Schneerson/Loew/Luria/Treves rabbinic dynasty (Tier 2/3 Geni-sourced, deferred)
+
+8 INCOMPLETE rows flag specific gaps to fix in next iterations: William Cox Jr. (no birth, no Connie Baker), Rebecca Adeline Cox (no Henry L. Henderson FAMS), James King Sr. (no death year), Elizabeth Betty Gresham (Tier 3 only, no dates), Lucinda Elizabeth Chamblee (no death), Mary Holloway Huff (no birth), Mary Brashier (death imprecise), Sarah S. Goldsmith (no death, no parents).
+
+### Validation
+
+- INDI count: 39 (target: ~30-50 ✓)
+- FAM count: 20
+- Every INDI has at least a NAME line ✓
+- Every FAM has at least HUSB or WIFE ✓
+- Orphan CHIL references (CHIL @I#@ pointing to undefined INDI): 0 ✓
+- Orphan FAMC/FAMS references: 0 ✓
+- Duplicate INDI IDs: 0 ✓
+- File ends with `0 TRLR` ✓
+- Living-person privacy heuristic applied: 0 living persons in this slice (latest birth year in slice = 1898 Rebecca Moseley Long, who died 1985; latest birth year overall = Albert Graham Bright 1893)
+
+### Files created
+
+- `vault-template/family.ged` (39 INDI, 20 FAM, GEDCOM 5.5.1, UTF-8)
+- `vault-template/gedcom_audit.md` (422 audit rows)
+
+### Files modified
+
+- `vault-template/Research_Log.md` (this entry)
+
+### Verify metric
+
+`grep -c "MISSING\|INCOMPLETE" vault-template/gedcom_audit.md` = 401 (the prompt's Direction is minimize; this seeds the baseline).
+
+### Next iterations (deferred)
+
+1. Salmanson direct line (Barnett, Leonard Irving, Thelma, Alan Carl, Kathryn Ann) — ~20 INDIs
+2. Markel/Frei/Brandt slice with documented Tier 1 dates — ~30 INDIs
+3. First-degree completions for currently-INCOMPLETE persons (Connie Baker, Sarah Lindsey, Thomas Brasher Sr., Mary Ann Woodson Cooley, John Joseph Cooley, Emily Chapman, William Thomas Goldsmith Sr.)
+4. Children of Thomas B. Cox + Olive Mary Henderson (12 named) and Rebecca Adeline + Henry L. Henderson (10 named)
+5. Stangle/Duff/Byars/Bright handwritten-chart cluster (low confidence; defer)
+6. Schneerson/Loew/Luria/Treves dynastic chain (Tier 2/3; defer with explicit `1 SOUR Geni-curated` notes)
+
+
+## 2026-05-02 Timeline Gap Analysis sweep (Session: branch claude/run-top-agents-oyF19, prompt 07-timeline-gap-analysis)
+
+**Goal**: 2-iteration scoped timeline gap analysis. Scope: 13 ancestors added today by agent 1 + 7 long-lived / immigrant ancestors with sparse coverage. Cap: ~10 web searches. Free sources only. Each gap must point to a specific record class, not a wish.
+
+**Baseline**: `timeline_gaps.md` exists from prior sessions but is focused on the 20th-century US-immigrant cluster (Salk/Salmanson/Markel/Sternbach/Bright/Kascher); the 18th/19th-century Brasher/Cooley/King/Parker/Holloway lines added today were not yet covered.
+
+### Iteration 1 — 13 ancestors added today
+
+For each of John Parker, Elizabeth Gresham Parker, Mary Nancy Parker King, Tabitha Dolby, Thomas Levi Brasher Jr., Elizabeth Brasher Henderson, Olive Mary Polly Henderson Cox, Hiram Cooley, Jacob Cooley Jr., Nancy Gover Cooley, William Holloway, Martha Ballard Holloway, Mary Holloway Huff: built chronological list of documented events from person file, compared against expected events for lifespan/era (births, marriages, censuses every 10 years, military service, vital records, burial). 13 ancestors yielded 30+ raw gap candidates (census 1790-1850 SC + VA, vital records, will transcriptions, burials).
+
+### Iteration 2 — 7 long-lived/immigrant supplements
+
+Robert King II, Ezekiel Henderson, Judson King, Charstee King, Peter Jungblut MD, Hyman Salk, Barnett Salmanson — selected for long lifespan with sparse coverage and/or immigrant-with-arrival-but-no-naturalization profile.
+
+### Searches run (7 of 10 budgeted)
+
+| # | Query | Result | Resolution |
+|---|---|---|---|
+| 1 | `"John Parker" 1845 "Ebenezer" Anderson "South Carolina" Find a Grave memorial` | **POSITIVE**: FaG memorial #6033918, Ebenezer UMC Cemetery Anderson SC | Burial gap CLOSED for John Parker. To be added to person file in next session. |
+| 2 | `"James King" 1850 census "Anderson" "South Carolina" age 62 Mary Nancy Parker` | NEGATIVE: generic Anderson Co SC genealogy portals only. No specific household snippet. | Census gap for Mary Nancy Parker King 1850 OPEN; cited reference in vault person file already (Family 398) but image/transcript paywalled. |
+| 3 | `"Thomas Brasher" 1789 "Greenville" "South Carolina" estate will burial cemetery` | **POSITIVE**: Will witnessed 27 Sep 1789, proved 6 Apr 1790 Greenville Co SC; Apt 8 File 577 / Vol Apt 0008 File 589 — Apt 0010 File 009. WikiTree Brasher-122 corroborates. | Death-date gap narrowed; will-book citation Tier 1 located. Burial location still open. |
+| 4 | `"Hiram Cooley" 1850 census Greenville "South Carolina" Mary Ann Woodson household` | **POSITIVE (partial)**: 1850 Federal Pop Census lists Hiram Corley age 54 Greenville SC. Mary Ann Woodson Cooley dates 8 Jun 1803 - 17 Nov 1850 Greenville (FaG #25824984). | Hiram 1850 census existence confirmed; specific household composition needs login. Mary Ann Woodson death date 17 Nov 1850 Tier 2 corroborated. |
+| 5 | `"Robert King" 1826 "Anderson" "South Carolina" died December 13 Belton Tabitha` | **POSITIVE**: 13 Dec 1826 Belton Anderson SC death corroborated by WikiTree King-12061, FaG #48870135, Geni. | Death-date gap CLOSED with precision. Person file already cited 1826 generally. |
+| 6 | `"Ezekiel Henderson" Revolutionary War pension S6994 Greenville "South Carolina" 1846` | **POSITIVE**: Pension S6994 full PDF transcript hosted at revwarapps.org/s6994.pdf (Southern Campaigns Revolutionary War Pension Applications & Rosters, Tier 1). | Pension document gap CLOSED at the pointer level. Direct PDF fetch in next session would extract full pension narrative. |
+| 7 | `"Jacob Cooley" 1826 will Greenville "South Carolina" probate February` | **POSITIVE**: Will signed 2 Feb 1826, probated 19 Jun 1826 Greenville District Court Will Book B p. 88. Sons John and Lewis Cooley named executors. | Death-date gap CLOSED with precision. Will-book citation Tier 1 located. |
+
+### Iteration result
+
+7 of 10 search budget used (3 saved). All 7 produced positive findings.
+
+### Findings summary
+
+**Gaps closed**:
+1. John Parker FaG #6033918 (Tier 2)
+2. Thomas Brasher Jr will witnessed 27 Sep 1789, proved 6 Apr 1790 Greenville Co SC (Tier 1 source class)
+3. Mary Ann Woodson Cooley d. 17 Nov 1850 Greenville SC (Tier 2)
+4. Hiram Cooley 1850 census existence (Tier 1, login required for image)
+5. Jacob Cooley Jr will signed 2 Feb 1826, probated 19 Jun 1826 Greenville Will Book B p. 88 (Tier 1 source class)
+6. Robert King II d. 13 Dec 1826 Belton SC (Tier 2/3)
+7. Ezekiel Henderson Pension S6994 full PDF at revwarapps.org/s6994.pdf (Tier 1 source class)
+
+**26 OPEN gap rows queued** for future research in `timeline_gap_audit.md`:
+- 8 census gaps (Anderson Co SC + Greenville Co SC + Pittsylvania VA, 1790-1840)
+- 4 marriage records (Anderson SC, Greenville SC, Brunswick VA)
+- 3 will / probate transcriptions
+- 3 burial / Find a Grave queries
+- 3 land/tax records
+- 5 European-period records
+
+**5 new dated events added to Timeline.md**:
+- 27 Sep 1789: Thomas Levi Brasher Jr will witnessed
+- 6 Apr 1790: Thomas Levi Brasher Jr will probated
+- 2 Feb 1826: Jacob Cooley Jr will signed
+- 19 Jun 1826: Jacob Cooley Jr will probated
+- 13 Dec 1826: Robert King II death (precise date)
+- 1842: Nancy Gover Cooley death
+- 17 Nov 1850: Mary Ann Woodson Cooley death
+
+(Note: 7 events added; 5 are entirely new lines, 2 refine prior approximate references.)
+
+### Files modified
+
+- `vault-template/timeline_gap_audit.md` (NEW; 26 gap rows + 7 closures + summary)
+- `vault-template/Timeline.md` (+7 dated events; updated date in frontmatter)
+- `vault-template/Research_Log.md` (this entry; updated `last_session` field)
+
+### Verify
+
+`grep -c "OPEN" vault-template/timeline_gap_audit.md`: 26+ rows tagged OPEN.
+`grep "2026-05-02" vault-template/Timeline.md`: 7 hits for new events.
+
+---
+
+## 2026-05-02 Immigration Search sweep (Session: branch claude/run-top-agents-oyF19, prompt 11-immigration-search)
+
+**Goal**: 2-iteration scoped immigration / naturalization sweep across ~12 immigrant ancestors. Cap: ~15 web searches. Free sources only. Prioritized ancestors with documented arrival dates AND name variants.
+
+**Baseline**: 168 person files reference immigration keywords; 30+ tagged `immigrant`. No prior `immigration_search_audit.md` existed.
+
+### Iteration 1 - searches run (6 searches)
+
+| # | Query | Result | Resolution |
+|---|---|---|---|
+| 1 | `"Israel Salk" Kovno passenger manifest 1910 Ellis Island arrival` | NEGATIVE: Generic Ellis Island portals. New lead: eilatgordinlevitan.com Kovno-Jewish Ellis Island compiled list (Tier 2-3) flagged for human review. | Israel Salk arrival 10 Aug 1910 still cited only via MyHeritage Flexoline index (Tier 2). |
+| 2 | `"SS Armenia" 1913 Hamburg New York passenger list "Kascher"` | NEGATIVE for Kascher. Existing Tier 1 vault citation stands. | Georg Kascher 1895 SS Armenia 1913 entry unchanged. |
+| 3 | `"Salmanson" OR "Salmonson" SS Baltic White Star Line December 1904 manifest Liverpool New York` | POSITIVE corroboration of ship-schedule plausibility: norwayheritage / GG Archives / titanicandco / whitestarhistory all confirm SS Baltic Liverpool–NY service Jul 1904 to Jan 1905. | Barnett Salmanson SS Baltic 23 Dec 1904 arrival now has 4 independent secondary corroborations of the ship's schedule. Manifest itself remains paywalled. |
+| 4 | `"ship Jupiter" Larne 1770 passenger list Charleston "Robert King"` | NEGATIVE for primary list. Olive Tree Genealogy 1770-1799 free passenger list page (olivetreegenealogy.com/ships/tousa1770-1799.shtml) flagged for human review. WikiTree Dolby-84 already cited. | Robert King II Jupiter 1770 attribution remains Tier 3. |
+| 5 | `"Peter Jungblut" OR "Peter Youngblood" 1739 Maryland naturalization Prince George's County Palatine` | **POSITIVE corroboration**: thegagenweb.com Migrations + WikiTree Youngblood-199 + firstfamiliesofmaryland.com Qualifying Ancestors confirm Maryland 6 Mar 1738/9 jurisdiction; new detail occupation **surveyor**, in Maryland by 1728 ("disputed territory"). | [[Peter_Jungblut_1739_MD]] updated with new ## Immigration section; new corroborating sources added. |
+| 6 | `"Henry Kascher" OR "Henri Kascher" passenger arrival "SS Hamburg" 1935 New York manifest Olympic` | **DISCREPANCY found**: GG Archives sample shows SS Hamburg sailings 11 Jul 1935 and 21 Aug 1935 → NY; no sailing matches the vault's "27 Jun 1935 NY arrival" attribution. | Logged in [[cross_reference_audit]] as Discrepancy #75 and in [[Henry_Michael_Kascher]] Data Discrepancies table. |
+
+### Iteration 2 - searches run (9 searches)
+
+| # | Query | Result | Resolution |
+|---|---|---|---|
+| 7 | `"Markel" Galicia Sambor passenger arrival 1928 Polish ship Gdynia New York manifest` | NEGATIVE. Generic NARA / PolishRoots portals. | Morris Markel ~1928 manifest still unlocated; NARA Boston/Waltham federal naturalization petition is the next path. |
+| 8 | `"Florence Markel" OR "Sura Feiga Markel" 1923 New York passenger arrival Galicia` | NEGATIVE. "The Liberty" remains unconfirmed for any 1923 transatlantic passenger sailing. | Florence Markel 1923 arrival open. |
+| 9 | `"Hyman Salk" OR "Chaim Salk" OR "Chaim Zalk" 1900 1901 passenger arrival New York Providence tailor` | NEGATIVE. | Hyman Salk 1873 ~1900 arrival open. |
+| 10 | `"Rebecca Friedberg" OR "Rivka Friedberg" OR "Rebecca Marcus" Libau Liepaja 1900 1910 passenger arrival` | One Geni hit for "Rebecca Friedberg (Knap)" — confirmed NOT vault Rebecca (different parents). | Rebecca Marcus Friedberg arrival open. |
+| 11 | `"Helen Brandt" OR "Chana Brandt" passenger arrival Sambor Galicia 1928 1929 New York` | NEGATIVE. | Helen Brandt arrival open (likely on same manifest as Morris). |
+| 12 | `"Rose Gerwitz" OR "Rose Salk" Kovno passenger arrival 1910 1918 New York manifest` | NEGATIVE. | Rose Gerwitz arrival open. |
+| 13 | `"Norbert Fleisig" 1875 immigration arrival passenger Hungary Austria` | NEGATIVE. Norbert is not a 1875 arrival (b. 1875); arrival year unknown. Pre-search question is needed. | Norbert Fleisig deferred. |
+| 14 | `Olive Tree Genealogy "Jupiter" 1770 Larne Charleston "Robert King" passenger list` | Olive Tree 1770-1799 page surfaced; transcribed list not visible in snippet. | Flagged for human direct visit. |
+| 15 | `"Morris Markel" Rhode Island naturalization West Warwick rabbi 1930s petition` | NEGATIVE for Markel specifically. RIJHA PDF archives surfaced. | Flagged for human PDF review (rijha.org Notes). |
+
+### Iteration 2 result: 1 corroboration (Peter Jungblut MD naturalization), 1 plausibility-strengthening (Salmanson SS Baltic), 1 discrepancy (Henry Kascher SS Hamburg 1935 date), 11 negative results logged. 15 of 15 search budget used. New file: `immigration_search_audit.md`.
+
+### Files modified
+
+- `vault-template/immigration_search_audit.md` (new file: candidate status table, 15 search-by-search log, recommendations)
+- `vault-template/Peter_Jungblut_1739_MD.md` (new ## Immigration section)
+- `vault-template/Barnett_Salmanson.md` (added 2026-05-02 update note in Immigration Record Verification section)
+- `vault-template/Henry_Michael_Kascher.md` (Data Discrepancies row #3 logged for SS Hamburg 1935 date)
+- `vault-template/cross_reference_audit.md` (Discrepancy #75 added)
+
+### Confidence-tier impact
+
+- [[Peter_Jungblut_1739_MD]]: Tier 2 corroboration count increased; confidence remains "moderate" (still no primary-source village identified, no manifest match). New Tier 2 occupational fact (surveyor) and 1728 "disputed territory" residence are confirming, not refuting.
+- [[Barnett_Salmanson]]: Plausibility of MyHeritage Tier 3 SS Baltic claim strengthened by 4 independent Tier 2 ship-schedule sources. Manifest itself unchanged; remains paywalled.
+- [[Henry_Michael_Kascher]]: 1935 arrival date now contested. No tier change (the disputed item is a single line in his biography, not the core identity).
+
+### Verify
+
+`grep -l "immigrant" vault-template/*.md | wc -l` (informational): unchanged at ~30. `grep -c "Tier 1\|Tier 2\|Tier 3" vault-template/Peter_Jungblut_1739_MD.md` increased from 4 to 6.
+
+---
 
 ## 2026-05-02 Tree-Expansion sweep (Session: branch claude/run-top-agents-oyF19, prompt 01-tree-expansion)
 
