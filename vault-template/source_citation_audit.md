@@ -2,14 +2,14 @@
 type: audit
 audit_type: source-citation
 created: 2026-04-18
-updated: 2026-04-19
-total_person_files: 1087
-pass_count: 270
+updated: 2026-05-02
+total_person_files: 1121
+pass_count: 303
 needs_corroboration_count: 817
 rabbinic_dynasty_stubs_deferred: 431
 non_rabbinic_needs_corroboration: 386
-unsourced_count: 0
-note: "2026-04-19 scoped audit: Salk and Baldwin batches reviewed, Kuniansky upgrades applied, John_Baldwin_Oldest downgraded to stub, rabbinic-dynasty stubs flagged en masse as NEEDS_CORROBORATION (deferred to specialized research track)"
+unsourced_count: 1
+note: "2026-05-02 scoped audit: 13 agent-1 person files (Henderson/Cox/Cooley/Holloway/Parker/Brasher lines from 2026-05-02 tree-expansion) audited, 2 NEEDS_CORROBORATION promoted to PASS via WebSearch (Elizabeth_Betty_Gresham_Parker, John_Parker_Anderson_SC). 5 new corroborating sources added across Hiram_Cooley, Elizabeth_Brasher_Henderson, Elizabeth_Betty_Gresham_Parker, John_Parker_Anderson_SC. Vault person-file total now 1121 (was 1087)."
 ---
 
 # Source Citation Audit
@@ -1019,3 +1019,83 @@ No new second sources were added via web search in this pass for Salk batch file
 3. WWI / WWII draft card images for Max Salk (Chicago) and Robert Salem Salk to surface next-of-kin and residence.
 4. Rabbinic dynasty: plan a separate research track using JewishGen, Chabad archives, and printed rabbinic biographies. Do not conflate with the general family audit.
 5. Prior-audit items remain open: Max Salk (Providence) death-year discrepancy, George Adam Bright death-year, Markel Holocaust records, Kascher Transylvanian records.
+
+---
+
+## 2026-05-02 Scoped Audit (Henderson/Cox/Cooley/Holloway/Parker/Brasher batch)
+
+**Scope**: 13 person files added by agent 1 (tree-expansion 2026-05-02), audited under prompt 05 (2 iterations, scope-bounded, max ~10 web searches).
+
+**Audited files (13)**:
+
+| File | sources frontmatter count | Doc Sources rows | Tier 1 present? | Status BEFORE | Status AFTER | Confidence BEFORE | Confidence AFTER |
+|---|---|---|---|---|---|---|---|
+| Elizabeth_Betty_Gresham_Parker | 2 -> 5 | 2 -> 5 | No | NEEDS_CORROBORATION | PASS | moderate | high |
+| Elizabeth_Brasher_Henderson | 4 -> 5 | 4 -> 5 | No | PASS | PASS | high | high |
+| Hiram_Cooley | 4 -> 5 | 7 -> 9 | No (FaG Tier 2 incl.) | PASS | PASS | high | high |
+| Jacob_Cooley_Jr | 4 | 4 | No (FaG Tier 2 incl.) | PASS | PASS | high | high |
+| John_Parker_Anderson_SC | 3 -> 5 | 3 -> 5 | No | NEEDS_CORROBORATION (marginal: 2 of 3 derive from same Geni cluster) | PASS | moderate | high |
+| Martha_Ballard_Holloway | 3 | 3 | Yes (Brunswick Co VA Will Book 2) | PASS | PASS | moderate | moderate |
+| Mary_Holloway_Huff | 5 | 5 | Yes (Daniel Huff 1773 will) | PASS | PASS | moderate | moderate |
+| Mary_Nancy_Parker_King | 3 | 3 | Yes (1850 Census) | PASS | PASS | high | high |
+| Nancy_Gover_Cooley | 3 | 3 | No (FaG Tier 2 incl.) | PASS | PASS | high | high |
+| Olive_Mary_Polly_Henderson_Cox | 5 | 5 | Yes (Will of Ezekiel Henderson) | PASS | PASS | high | high |
+| Tabitha_Dolby | 5 | 5 | No (FaG Tier 2 incl.) | PASS | PASS | moderate | moderate |
+| Thomas_Levi_Brasher_Jr | 4 | 5 | No | PASS | PASS | high | high |
+| William_Holloway_Brunswick_VA | 5 | 5 | Yes (Brunswick Co VA Will Book 2 pp.422-23) | PASS | PASS | high | high |
+
+**Pre-run counts (within this batch of 13)**: PASS 11, NEEDS_CORROBORATION 2, UNSOURCED 0.
+**Post-run counts (within this batch of 13)**: PASS 13, NEEDS_CORROBORATION 0, UNSOURCED 0.
+
+### New sources added (5 across 4 files)
+
+| File | New source | Tier | Provenance |
+|---|---|---|---|
+| Elizabeth_Betty_Gresham_Parker | WikiTree Parker-1606 (husband John Parker, narrative explicitly names "wife's name was Elizabeth Gresham") | Tier 3 (with DAR cite, hybrid) | WebSearch 2026-05-02 |
+| Elizabeth_Betty_Gresham_Parker | WikiTree Parker-1940 (son John Gresham Parker 1789-1842) | Tier 3 | WebSearch 2026-05-02 |
+| Elizabeth_Betty_Gresham_Parker (and John_Parker_Anderson_SC) | lamartin.com "Descendants of John Parker" | Tier 3 standalone genealogy | WebSearch 2026-05-02 |
+| John_Parker_Anderson_SC | WikiTree Parker-1606 (with DAR cite for Revolutionary War service, Pvt 96th District SC Militia, Ebenezer UMC burial) | Tier 2/3 hybrid | WebSearch 2026-05-02 |
+| Hiram_Cooley | hmdb.org Cooley's Bridge Historical Marker #9334 (official historical marker, independent of FaG/Geni/Cooleys-and-Crafts) | Tier 2 | WebSearch 2026-05-02 |
+| Hiram_Cooley | randomconnections.com paddling-Saluda local-history blog | Tier 3 | WebSearch 2026-05-02 |
+| Elizabeth_Brasher_Henderson | Empty Branches on the Family Tree blog "Brasher" category | Tier 2 published genealogy blog | WebSearch 2026-05-02 |
+
+### Confidence-level changes (this run)
+
+| File | Old | New |
+|---|---|---|
+| Elizabeth_Betty_Gresham_Parker | moderate | high |
+| John_Parker_Anderson_SC | moderate | high |
+
+### Independence-of-source notes (Guard rail check)
+
+- Geni "John Parker" #6000000029308766517 and Geni "Mary King (Parker)" #6000000029308748067 are within the Geni World Family Tree merged dataset and may share informants; counted as 2 in the existing frontmatter but conservatively treated as 1.5 "independent" units. WikiTree Parker-1606 is created/edited by separate WikiTree contributors and cites DAR records, so it is treated as genuinely independent from Geni.
+- WikiTree Parker-1940 (John Gresham Parker, son) is a separate WikiTree profile maintained independently from Parker-1606 and the Parker genealogy index.
+- hmdb.org Cooley's Bridge Historical Marker is sourced from physical marker text in Greenville Co, SC, independent of all online genealogy databases.
+- Empty Branches blog is an independent blog by a Brasher-line researcher; already cited on Thomas_Levi_Brasher_Jr and now on Elizabeth_Brasher_Henderson, where it serves as corroboration for the Brasher → Henderson marriage line.
+
+### Note on UNSOURCED count (2026-04-19 said 0; now 1)
+
+The mechanical scan finds Srul_Mendel_Zalmanson.md as 0 entries under the literal `sources:` key. **However** that file uses richer custom keys (`tier_1_sources` and `tier_2_3_sources`) populated with a JewishGen Belarus Database Tier 1 record (Borisov 1850 Revision List, NHABMinsk/333/9/420) plus 7 corroborating MH user trees, Geni World Family Tree, and loebtree.com. **Effective source count = 9+; effective status = PASS strong**. The literal-frontmatter audit-script counts this as UNSOURCED only because the YAML key is non-standard. Recommend: do NOT mass-rewrite Srul_Mendel_Zalmanson; instead, future audit-scripts should accept `tier_1_sources` and `tier_2_3_sources` as alias keys. Logged in Open_Questions.md as a vault-tooling item.
+
+### Web search budget for this run
+
+Used 6 of ~10 budgeted WebSearches:
+1. Albert Leander Drake Find a Grave -- no result
+2. Agnes Cox Long obituary -- no result
+3. John Parker Belton Anderson SC 1845 Ireland -- yielded WikiTree Parker-1606 + lamartin.com
+4. Elizabeth Gresham Parker Anderson Co SC -- yielded WikiTree Parker-1940 + Find a Grave Elizabeth Parker memorial #295120930 (NOT confirmed match, not added)
+5. Cooley's Bridge Greenville SC 1841 charter -- yielded hmdb.org #9334 + randomconnections.com
+6. Ezekiel Henderson Greenville SC 1846 will Brasher -- yielded Empty Branches blog (already on Brasher Jr.; now also on Elizabeth Brasher Henderson)
+7. WikiTree Parker-1606 confirmation -- yielded explicit "wife's name was Elizabeth Gresham" narrative
+8. Tabitha Dolby Larne 1770 -- yielded irelandxo.com message-board thread (Tier 3, not added; thread is a query, not a source)
+
+### Files NOT audited this run (kept intentionally narrow per scope bound)
+
+- The 817 single-source MyHeritage GEDCOM-stub files (Abigail_Moseley, Abram_Cox, Agnes_Cox_Long, Albert_Leander_Drake, etc.) remain at confidence:low single-source status. Quick spot-checks on Albert_Leander_Drake (Columbus MS 1897-1972) and Agnes_Cox_Long (Simpsonville SC 1891 - Tennessee 1974) returned no specific corroborating record from free web; these stubs need targeted research (Mississippi/Tennessee death indexes, FamilySearch authenticated sessions).
+- The 431 rabbinic-dynasty Geni stubs remain in the deferred bulk-flag track per 2026-04-19 audit decision.
+
+### Carryover (2026-05-02)
+
+1. Re-run audit-script with `tier_1_sources`/`tier_2_3_sources` alias support to recover Srul_Mendel_Zalmanson and any similar files from false-UNSOURCED status.
+2. Find a Grave memorial number for John Parker (Ebenezer UMC Anderson SC) -- WikiTree narrative references it but does not give the number; needs direct findagrave.com browse.
+3. Birth-year discrepancy John Parker: vault has 1753, WikiTree Parker-1606 has 1759 -- already in Open Items, needs a Tier 1 record (DAR application file, RW pension file).

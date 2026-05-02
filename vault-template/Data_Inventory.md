@@ -28,6 +28,9 @@ Complete inventory of all ancestry-related data assets. Each tagged with source,
 | Elizabeth (Salk) Salmanson headstone, BillionGraves, Lincoln Park Cemetery, Warwick RI | Salk, Salmanson | [[Elizabeth_Salk]]; Hebrew inscription with genealogical lineage chains |
 | 1930 US Census: Elizabeth (Salk) Salmanson household, Providence RI | Salk, Salmanson | [[Elizabeth_Salk]]; age 43, immigration 1897, parents born Poland |
 | Daniel Huff will, 1773 (probated 24 Nov 1777), Brunswick County VA Will Book | Huff | [[Daniel_Huff_Brunswick]]; names wife Mary, sons Daniel, Philemon, Reuben, Lewis, James; granddaughter Tabitha |
+| William Holloway will, 16 Oct 1784 (proved 22 Nov 1784), Brunswick County VA Will Book 2 pp. 422-23 (added 2026-05-02) | Holloway | [[William_Holloway_Brunswick_VA]]; names wife [[Martha_Ballard_Holloway|Martha]], sons Daniel, Caleb, Obediah (predec.), Jesse, Asa, daughters [[Martha_Patty_Holloway|Martha "Patty"]] (Moseley) and Muhulda Anne (Pool); witnessed by William Moseley Jr. |
+| William Holloway estate sale account, 1 Apr 1789, Brunswick County VA (added 2026-05-02) | Holloway, Huff | [[William_Holloway_Brunswick_VA]]; James Huff and William Huff among purchasers |
+| Will of Ezekiel Henderson, Greenville County SC ("T. B. Cox and Mary his Wife" legatees) (added 2026-05-02) | Henderson, Cox | [[Ezekiel_Henderson]], [[Olive_Mary_Polly_Henderson_Cox]] |
 | Daniel Huff land grant, 12 Nov 1753, 360 acres on Pigeon Roost Creek, Brunswick Co VA | Huff | [[Daniel_Huff_Brunswick]] |
 | William Holloway will, 16 Oct 1784, Brunswick County VA Will Book 2 pp. 422-23 | Holloway, Moseley | [[Martha_Patty_Holloway]]; William Moseley Jr. as witness |
 | Marvel Moseley Jr. will, 2 Mar 1752 (proved 20 Mar 1753), Goochland County VA | Moseley | [[Samuel_Moseley]]; names sons William, Samuel, James, Joseph |

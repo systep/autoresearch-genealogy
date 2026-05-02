@@ -1,8 +1,8 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-25
-last_session: "2026-04-25 Markel-line source ingest: processed Lockspeisers-Mom's Maternal Aunt's Family.pdf (added today on main) + 7 chat-shared images (oval-frame portrait, Yiddish postcard, three-women photo, Markel/Karp identification key, Markel/Karp family group portrait, Heshel Markel portrait + back caption). New person files: Chawa_Frei_Lockspeiser (4th Frei sister, previously undocumented), Hersch_Lockspeiser, Lockspeiser_Children_1936_Photo, Anne_Markel, Frieda_Rita_Markel, Kate_Markel_Kaplan. New transcription/key files: Markel_Family_Portrait_Identification_Key, Yiddish_Postcard_Spa_Photo_Back_Transcription, Heshel_Markel_Vic_Hoffman_Oval_Portrait, Ruth_Gold_Aunts_Spa_Photo_Postcard. Updates to: Heschel_Herman_Markel (portrait evidence), Leah_Frei (Chawa added as 4th sister), 9 existing person files with Photographic Evidence sections. See entry below."
+updated: 2026-05-02
+last_session: "2026-05-02 Source-Citation Audit (prompt 05): 13 agent-1 person files audited, 2 NEEDS_CORROBORATION promoted to PASS, 5 new corroborating sources added across 4 files (Elizabeth_Betty_Gresham_Parker +3 sources, John_Parker_Anderson_SC +2, Hiram_Cooley +2, Elizabeth_Brasher_Henderson +1). Two confidence upgrades to high. 817 single-source files remain in carryover queue. Earlier 2026-04-25 entry: Markel-line source ingest: processed Lockspeisers-Mom's Maternal Aunt's Family.pdf (added today on main) + 7 chat-shared images (oval-frame portrait, Yiddish postcard, three-women photo, Markel/Karp identification key, Markel/Karp family group portrait, Heshel Markel portrait + back caption). New person files: Chawa_Frei_Lockspeiser (4th Frei sister, previously undocumented), Hersch_Lockspeiser, Lockspeiser_Children_1936_Photo, Anne_Markel, Frieda_Rita_Markel, Kate_Markel_Kaplan. New transcription/key files: Markel_Family_Portrait_Identification_Key, Yiddish_Postcard_Spa_Photo_Back_Transcription, Heshel_Markel_Vic_Hoffman_Oval_Portrait, Ruth_Gold_Aunts_Spa_Photo_Postcard. Updates to: Heschel_Herman_Markel (portrait evidence), Leah_Frei (Chawa added as 4th sister), 9 existing person files with Photographic Evidence sections. See entry below."
 tags: [genealogy, research, log]
 ---
 
@@ -10,7 +10,299 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
-## 2026-05-01 Markel-line free-web Holocaust DB sweep (Session: branch claude/search-agents-list-ZWtS8)
+## 2026-05-02 Tree-Expansion sweep (Session: branch claude/run-top-agents-oyF19, prompt 01-tree-expansion)
+
+**Goal**: 2-iteration leaf-node expansion focused on the South Carolina maternal lines (Cox, Henderson, King, Long, Huff, Brashier). Cap: 8 ancestors per iteration, ~15 person files total. Free web only.
+
+**Baseline (start of session)**: Family_Tree.md contains 115 wikilinked person files plus ~67 additional bold-tagged named individuals (rough estimate ~182 distinct named individuals). Word-count baseline: 829 lines, 26.6k tokens.
+
+**Environmental constraints discovered/confirmed**: WebFetch returns HTTP 403 for findagrave.com, wikitree.com, geni.com, ancestors.familysearch.org, sites.google.com, and montyhistnotes.com from this environment (consistent with prior 2026-05-01 finding that genealogy hosts block agentic fetches). External WebSearch snippets remain accessible and are the primary evidence channel.
+
+### Iteration 1 - searches run
+
+| # | Search | Result | Resolution |
+|---|---|---|---|
+| 1 | "Tabitha Dolby" King Anderson "South Carolina" 1815 parents Ireland | POSITIVE (snippet only): WikiTree Dolby-84, Find a Grave #48870181, Geni, mytrees.com confirm b. 20 Apr 1756 Ireland, d. 14 May 1815 Belton SC, m. Robert King II, ship Jupiter from Larne 1770. Parents NOT named in snippet. | New birth date (20 Apr 1756) refines existing "c. 1750" in Family_Tree.md; not modified per Guard Rail #3. Logged in [[Tabitha_Dolby]] new person file. |
+| 2 | "Mary Holloway" "Daniel Huff" Brunswick Virginia parents William Holloway | POSITIVE: WikiTree Huff-1770 / Holloway-58 / Huff-446 confirm Mary Holloway = wife of Daniel Huff of Brunswick VA. William Holloway (1768 polls Brunswick) was security on Mary's admin of Daniel's estate, suggesting brother or father. Mary's parents NOT explicitly named in snippets. | New person file [[Mary_Holloway_Huff]] created with relationship to William Holloway flagged as (unverified). |
+| 3 | "John Parker" "Betty" daughter "Mary Nancy Parker" 1787 SC James King | POSITIVE: Geni "Mary King (Parker) (1787-1853)" names parents John Parker + Elizabeth "Betty" Parker (born Gresham); siblings John Gresham, Reuben, Rachel, Susannah, Robert Andrew, Elizabeth, Joseph Parker. | Two new person files: [[John_Parker_Anderson_SC]] and [[Elizabeth_Betty_Gresham_Parker]]. |
+| 4 | "John Parker" Anderson SC 1750 wife Betty Mary Parker King 1787 | POSITIVE follow-up: John Parker b. 1753 Ireland, d. 4 Jun 1845 Belton, Anderson SC; wife Elizabeth "Betty" (Gresham). | Confirms Geni hit; matches the Robert King II Larne-1770 emigration wave (Anderson Co SC Irish immigrants). |
+| 5 | "Olive Mary Henderson" 1795 Thomas Cox "Ezekiel Henderson" daughter | POSITIVE: Geni Brasher_Henderson, WikiTree Henderson-1855, hendersonbooks.com pafg08.htm confirm Olive Mary "Polly" Henderson (b. 29 Mar 1795, d. 21 Aug 1876) was daughter of Ezekiel Henderson + Elizabeth Brasher; m. Thomas B. Cox; named in Ezekiel's will as "T. B. Cox and Mary his Wife". | New person file [[Olive_Mary_Polly_Henderson_Cox]]. |
+| 6 | "Ezekiel Henderson" 1763 1846 Greenville Brasher wife children | POSITIVE: WikiTree Henderson-1855, Geni 6000000004680064519: b. 1763 Chatham NC, d. 2 Nov 1846 Greenville SC, m. Elizabeth Brasher 10 Oct 1782 SC, 15 children in 27 years. Children list matches vault's existing [[Ezekiel_Henderson]] file. | Existing [[Ezekiel_Henderson]] file confirmed; updated with daughter Olive Mary cross-link. |
+| 7 | "Elizabeth Brasher" 1764 Henderson Greenville Thomas Levi Brasher daughter | POSITIVE: WikiTree Brasher-153, Geni: b. ~1764, d. 1839 Greenville SC, daughter of Thomas Levi Brasher Jr. + Sarah Lindsey, married Ezekiel Henderson 17 Oct 1782 Chatham NC. Siblings: Samuel Robert, Sarah, Thomas Levi III, Henry Collins, Aquilla B., John P. | New person file [[Elizabeth_Brasher_Henderson]]; supersedes the parental hypothesis search in [[Mary_Brashier]] (Mary Brashier b. 1806 likely a niece via Thomas Levi III, not Elizabeth's child). |
+| 8 | "Connie Baker" 1760 William Cox Orange NC Greenville parents | NEGATIVE for parents. Reconfirmed existing data only (b. 1760, m. William Cox Jr., remarried William Richardson). Cox Family History Project page returned 403 on direct fetch. | No advance for Connie Baker's parents. Logged. |
+| 9 | "Larkin Long" Greenville Clementine father SC 1801 census | NEGATIVE. Only generic SC census resource pages. | No advance for Larkin Long's parents. Logged. |
+| 10 | "Sarah Sally Goldsmith" 1805 Larkin Long Simpsonville William Thomas Goldsmith daughter | NEGATIVE for the Long marriage. Geni's W.T. Goldsmith Sr. estate record (22 Mar 1834) names "Sally [Goldsmith] Willingham" (wife of William Willingham), NOT a Sarah Goldsmith Long. | Note in [[Sarah_S_Long]]: existing speculative parentage hypothesis is now contradicted by W.T. Goldsmith's own estate record. Per Guard Rail #3 (no name/date modification during expansion), only flagged as data discrepancy; not changed. |
+| 11 | WebFetch findagrave.com/memorial/48870181/tabitha-king | NEGATIVE (HTTP 403). | Reconfirms Find a Grave is blocked from this environment; rely on search snippets. |
+| 12 | WebFetch wikitree.com/wiki/Henderson-1855, Brasher-153, Geni Mary-King, Dolby-84 (4 fetches) | NEGATIVE (HTTP 403 all). | Reconfirms WikiTree and Geni blocked. |
+
+### Iteration 1 result: 6 new person files (Tabitha_Dolby, Mary_Holloway_Huff, John_Parker_Anderson_SC, Elizabeth_Betty_Gresham_Parker, Mary_Nancy_Parker_King, Olive_Mary_Polly_Henderson_Cox, Elizabeth_Brasher_Henderson — actually 7); 5 new wikilinks added to Family_Tree.md; 0 modifications to existing names/dates.
+
+### Iteration 2 - searches run
+
+| # | Search | Result | Resolution |
+|---|---|---|---|
+| 13 | "Samuel Moseley" Brunswick VA c. 1750 wife Martha Holloway parents | POSITIVE: WikiTree Holloway-58 confirms Martha Patty Holloway b. ~1755 Brunswick VA, d. ~1811, "likely the daughter of William Holloway and Martha Ballard". William Moseley Jr. witnessed William Holloway's 1784 will. Samuel Moseley made purchases at the 1789 estate sale of William Holloway. | Strong network corroboration. New person files [[William_Holloway_Brunswick_VA]] and [[Martha_Ballard_Holloway]] (parents of Martha Patty Moseley); these connect [[Samuel_Moseley]]'s line to the Holloway family. |
+| 14 | "John Joseph Cooley" 1819 Greenville Emily Susan Chapman 1823 1857 parents Hiram Cooley | POSITIVE: Geni Hiram Coolie 6000000021987423960, gapeach2.wordpress.com Cooleys and Crafts page confirm Hiram Cooley (1796-1864) was father of John Joseph Cooley (1819-1896, Charstee's father per existing vault) via wife Mary Ann Woodson (1803-1850). | Confirms vault [[Charstee_King]] §parents data; new person file [[Hiram_Cooley]] adds the next generation back. |
+| 15 | "Larkin Long" "Sarah" wife "William Thomas Long" 1825 Simpsonville parents marriage record | NEGATIVE for Larkin Long's parents and for the marriage record. | No advance for [[Larkin_Long]] or [[Sarah_S_Long]] (parents). |
+| 16 | "William Holloway" Brunswick VA 1784 will Martha daughter "Mary Huff" Daniel | POSITIVE: William Holloway's 16 Oct 1784 will (Brunswick Co VA Will Book 2, pp. 422-23, proved 22 Nov 1784) names wife Martha + sons Dan, Jesse, Asa (executors), Caleb. Witnesses: William Moseley Jr., Harmon Read, Littleberry Pearson. April 1789 estate sale lists James Huff and William Huff among purchasers. | Tier 1/2 transcription of primary source; supports Holloway-Huff-Moseley network proximity but NOT Mary Holloway Huff = daughter of William. See discrepancy note below. |
+| 17 | "William Holloway" Brunswick 1784 will children Dan Jesse Asa Caleb Mary Patty | POSITIVE: Children listed = Daniel, Caleb, Obediah, Jesse, Martha Patty (Moseley), Asa, Muhulda Anne (Pool). **Mary (Huff) is NOT in this list.** | **Important elimination**: Mary Holloway Huff is most likely NOT a daughter of William Holloway (d. 1784). She may be his sister (compatible with Daniel Huff's death 1777 and Mary acting as administratrix), William's niece, or the child of a different William Holloway. The 1789 estate-sale purchaser "William Huff" may be Mary's son. Recorded in [[Mary_Holloway_Huff]] §Open Items. New OQ added to [[Open_Questions]]. |
+| 18 | "Martha Holloway" Ballard 1735 1784 Brunswick VA daughters Mary Huff Patty Moseley | NEGATIVE | No corroboration for Mary Huff as a daughter of William + Martha Holloway. Reinforces the elimination from search #17. |
+| 19 | "Robert King I" Larne 1770 ship Jupiter Ireland County Antrim Anderson SC parents | NEGATIVE for Robert King I's parents. POSITIVE for context (1772 Rev. William Martin emigration: 5 ships from Larne to SC; ulsterhistoricalfoundation.com / ulsterancestry.com record sets confirmed). | No advance for King ancestral line beyond Ireland; resource list available for future human-driven PRONI / Ulster Historical Foundation searches. |
+| 20 | "Hiram Cooley" 1796 Greenville Mary Ann Woodson John Joseph Cooley 1819 son children | POSITIVE: Hiram Cooley (1796-1864) + Mary Ann Woodson (1803-1850, m. ~1820s) had 10 children including John Joseph Cooley (1819-1896). Hiram's parents: **Jacob Cooley Jr. + Nancy Gover**. | New person files [[Hiram_Cooley]] (existing-vault person now docs); 2 generations of Cooley pedigree above John Joseph established. |
+| 21 | "Jacob Cooley" Greenville SC Nancy Gover 1796 parents Hiram | POSITIVE: WikiTree Cooley-1134 / Gover-8 confirm Jacob Cooley Jr. (b. 1760, d. 1826) m. Nancy Gover (b. 1763, d. bef. 1844) on 5 Apr 1787 Pittsylvania VA. Children: James, Elizabeth (1791), Patsey (1793), Sarah (1795), Hiram (1796), John (1798), Nancy (1800), Lucinda (1810), Lewis (1814). | New person files [[Jacob_Cooley_Jr]] and [[Nancy_Gover_Cooley]]. Jacob Sr. (b. 1735, d. 1820) referenced via gapeach2.wordpress.com; left as future expansion target. |
+| 22 | "Thomas Levi Brasher" Jr Sarah Lindsey 1731 Baltimore Greenville children daughter Elizabeth | POSITIVE: WikiTree Brasher-122, Geni 6000000011504098266 confirm b. 18 Jun 1731 Baltimore Co MD, d. ~1789 Greenville SC, m. Sarah Lindsey ~17 May 1770 Greenville. Children: Samuel Robert, Elizabeth (Henderson), Henry Collins, Aquilla B., John P. Father: Thomas Brasher Sr. (1701 - ~1770 Orange Co NC) + Sarah Constance. | New person file [[Thomas_Levi_Brasher_Jr]] documents Elizabeth Brasher Henderson's father + grandfather. |
+
+### Iteration 2 result: 6 new/expanded person files; key Holloway-Huff guard-rail elimination logged; 1 new Open Question opened (Mary Holloway Huff's true parents).
+
+### Final delta (this session)
+
+| Metric | Baseline | After Iteration 2 | Delta |
+|---|---|---|---|
+| Wikilinked person files referenced in Family_Tree.md | 115 | 120 | +5 |
+| Total *.md person files in vault-template/ | (n large) | (n+13) | +13 new files (Tabitha_Dolby, Mary_Holloway_Huff, John_Parker_Anderson_SC, Elizabeth_Betty_Gresham_Parker, Mary_Nancy_Parker_King, Olive_Mary_Polly_Henderson_Cox, Elizabeth_Brasher_Henderson, William_Holloway_Brunswick_VA, Martha_Ballard_Holloway, Hiram_Cooley, Jacob_Cooley_Jr, Nancy_Gover_Cooley, Thomas_Levi_Brasher_Jr) |
+| Family_Tree.md edits | -- | 4 edits | adds wikilinks for Tabitha_Dolby, Mary_Nancy_Parker_King, Olive_Mary_Polly_Henderson_Cox, Mary_Holloway_Huff, plus parent-cite annotations |
+| Timeline.md new dated events | -- | +9 events | Tabitha 1756 birth, John Parker 1753 birth + 1845 death, Mary Nancy 1787 birth + 1853 death, Olive Mary 1795 birth + 1876 death, Ezekiel 1782 marriage, Elizabeth Brasher 1764 birth + 1839 death |
+| Open_Questions.md new entries | -- | +1 OQ (Mary Holloway Huff parentage) | |
+
+**Negative results worth re-noting**:
+- Find a Grave / WikiTree / Geni / hendersonbooks / sites.google direct WebFetch all return HTTP 403 from this environment. Search-engine snippet remains the only evidence channel.
+- No advance for Larkin Long's parents (the "Clementine Long" hypothesis remains uncorroborated).
+- No advance for Sarah S. Goldsmith's parentage; one new contraindication: W.T. Goldsmith Sr.'s 22 Mar 1834 estate record names "Sally [Goldsmith] Willingham" as his daughter, which is incompatible with the Sarah_S_Long hypothesis that the same Sally married Larkin Long.
+- Robert King I's parents not located; Larne 1770 emigration list would resolve, behind PRONI / Ulster Historical Foundation paywalls.
+
+**Skipped (out of scope for this 2-iteration cap)**:
+- Norwegian, Galician, and rabbinic branches (no leaf-node cleanup needed at this scale).
+- All Markel/Frei/Brandt/Goldbaum branches (Holocaust-DB sweeps remain blocked, see 2026-05-01 entry).
+- Further pursuit of Cooley line above Jacob Sr. (1735), Brasher line above Thomas Sr. (1701), and Holloway line above William (1737-1784).
+
+### Files updated (2026-05-02)
+- New: [[Tabitha_Dolby]], [[Mary_Holloway_Huff]], [[John_Parker_Anderson_SC]], [[Elizabeth_Betty_Gresham_Parker]], [[Mary_Nancy_Parker_King]], [[Olive_Mary_Polly_Henderson_Cox]], [[Elizabeth_Brasher_Henderson]], [[William_Holloway_Brunswick_VA]], [[Martha_Ballard_Holloway]], [[Hiram_Cooley]], [[Jacob_Cooley_Jr]], [[Nancy_Gover_Cooley]], [[Thomas_Levi_Brasher_Jr]]
+- Edited: [[Family_Tree]], [[Timeline]], [[Open_Questions]], [[Research_Log]] (this entry)
+
+---
+
+## 2026-05-02 Cross-Reference Audit sweep (Session: branch claude/run-top-agents-oyF19, prompt 02-cross-reference-audit)
+
+**Goal**: 2-iteration audit of the 13 person files just added by today's `01-tree-expansion` run, plus a slice of related high-traffic ancestors (Ezekiel_Henderson, Thomas_B_Cox, Charstee_King, Judson_King, Robert_King_II, Daniel_Huff_Brunswick / James_Huff). Cap: ~30 persons; goal: catch and document date/name/place mismatches between Family_Tree.md and the underlying person files. Free fact-only; no web searches.
+
+**Iteration 1 (13 new files audited)**: All 13 newly-added person files cross-checked against Family_Tree.md and against existing related files. 3 fact-level discrepancies surfaced (#71-73 in cross_reference_audit.md), plus 1 internal-consistency issue in [[Hiram_Cooley]] (#74). Verify count after iteration 1: `grep -c "DISCREPANCY\|MISMATCH\|CONFLICT" cross_reference_audit.md` = 7.
+
+**Iteration 2 (6 high-traffic ancestors cross-checked + corrections applied)**:
+- [[Ezekiel_Henderson]] marriage row in vital-info table corrected from "October 10, 1782, SC" to "10/17 October 1782, Chatham County, NC" per Tier 1 pension S6994 geography (resolves longstanding Discrepancy #15 partially -- date uncertainty 10 vs 17 carries forward).
+- [[Olive_Mary_Polly_Henderson_Cox]] YAML `name:` frontmatter harmonized to "Olive Mary 'Polly' (Henderson) Cox" to match canonical vault form (Family_Tree.md, Ezekiel_Henderson.md, Thomas_B_Cox.md).
+- [[Hiram_Cooley]] children list corrected: John Hiram Cooley (1815-1887) moved out of the Mary-Ann-Woodson (b. 1803) group into the Susan-Cothran group, since Mary Ann was age 12 in 1815. New ## Data Discrepancies section added documenting the correction.
+- [[Charstee_King]], [[Judson_King]], [[Thomas_B_Cox]], [[Robert_King_II]], [[Daniel_Huff_Brunswick]] / [[James_Huff]]: dates verified consistent across files. ✓
+
+**Verify (final)**: `grep -c "DISCREPANCY\|MISMATCH\|CONFLICT" vault-template/cross_reference_audit.md` (recorded below).
+
+### Discrepancy summary (this session)
+
+| Type | Count |
+|---|---|
+| Date | 1 (#71 Tabitha b. 1750 vs 1756) + 1 partial (#73 marriage day 10 vs 17) |
+| Name | 1 (#72 Olive Mary vs Mary Olive frontmatter) |
+| Place | 1 (#73 SC vs Chatham NC; Tier 1 wins) |
+| Parentage / internal | 1 (#74 Hiram Cooley children list mother-attribution) |
+| **Total opened this session** | **4** (#71-74) |
+| **Resolved** | **3** (#72 name harmonized; #73 partial primary-source correction; #74 children list fixed) |
+| **Deferred** | **1** (#71 awaiting Find a Grave full memorial text retrieved by human browser) |
+| **New OQ entries** | **0** (all surfaced items covered by existing OQ #30 + Discrepancy #15) |
+
+### Files edited (2026-05-02 audit session)
+- [[cross_reference_audit]] (new section: 2026-05-02 audit, +4 rows #71-74, +diff table, +summary)
+- [[Olive_Mary_Polly_Henderson_Cox]] (YAML name harmonization)
+- [[Ezekiel_Henderson]] (marriage place corrected to Chatham Co NC; vital-info table + biography text)
+- [[Hiram_Cooley]] (children list separated by mother; new Data Discrepancies section)
+- [[Research_Log]] (this entry)
+
+### Negative results / not done
+
+- No web searches conducted (audit-only session; resolutions used existing vault primary sources only).
+- Tabitha Dolby birth-year refinement (1756 vs c. 1750) NOT propagated to Family_Tree.md per Guard Rail #3 of the expansion prompt; carry forward.
+- Discrepancy #15 marriage day 10 vs 17 still OPEN; would be settled by Chatham Co NC marriage bond from FamilySearch catalog 191194.
+- 11 names remain in Hiram Cooley's Mary-Ann-Woodson child group vs source's "10"; not further trimmed without re-reading Cooleys-and-Crafts source per Guard Rail #4 (do not change primary-source transcriptions to match a number).
+
+---
+
+## 2026-05-02 Find a Grave sweep (Session: branch claude/run-top-agents-oyF19, prompt 03-findagrave-sweep)
+
+**Goal**: 2-iteration sweep targeting the 13 person files added today by `01-tree-expansion`, then deceased ancestors lacking a Find a Grave reference. Cap: ~10 persons per iteration; ~20 total. Find a Grave direct WebFetch returns HTTP 403 (consistent with all prior sweeps); rely on WebSearch result snippets for memorial numbers, names, dates, cemetery names. Snippet-only candidates flagged for human verification.
+
+**Persons checked (13 unique)**: 12 of the 13 new files (Tabitha_Dolby, Mary_Holloway_Huff, John_Parker_Anderson_SC, Mary_Nancy_Parker_King, Olive_Mary_Polly_Henderson_Cox, Elizabeth_Brasher_Henderson, William_Holloway_Brunswick_VA, Martha_Ballard_Holloway, Hiram_Cooley, Jacob_Cooley_Jr, Nancy_Gover_Cooley, Thomas_Levi_Brasher_Jr) + 2 re-search of older NO_MEMORIAL_FOUND ancestors (Thomas_B_Cox, Ezekiel_Henderson). Skipped: Elizabeth_Betty_Gresham_Parker (no death date / burial location to constrain search).
+
+### Memorials confirmed (4 vault person files updated)
+
+| Person | Memorial # | Cemetery |
+|---|---|---|
+| [[Tabitha_Dolby]] | #48870181 | King Family Cemetery, Belton, Anderson Co, SC (FaG #2343580); commemorative stone erected 1929 by sole surviving grandson |
+| [[Hiram_Cooley]] | #25824932 | Hiram Cooley Plantation Cemetery, Greenville Co, SC (FaG #2256431); cemetery is on his former plantation |
+| [[Jacob_Cooley_Jr]] | #204500337 | Hiram Cooley Plantation Cemetery, Greenville Co, SC (FaG #2256431); plot unmarked |
+| [[Nancy_Gover_Cooley]] | #204500423 | Hiram Cooley Plantation Cemetery, Greenville Co, SC (FaG #2256431); plot unmarked |
+
+### Candidates for human verification (1)
+
+- [[John_Parker_Anderson_SC]]: WikiTree Parker-1606 narrative (search snippet) reports burial at Ebenezer United Methodist Church Cemetery, Anderson SC. No specific memorial number located via 4 web-search variants; possible cemetery IDs #2151048 / #69920 / #2487152. Existing date discrepancy (vault 1753 vs WikiTree 1759) remains.
+
+### Discrepancies between Find a Grave snippet data and vault data (logged, NOT silently changed)
+
+1. **Tabitha Dolby King birth**: vault Family_Tree.md "c. 1750" vs FaG #48870181 "April 20, 1756". Already logged as cross_reference_audit.md Discrepancy #71 by today's earlier audit agent; FaG now provides corroborating Tier-2 evidence for the 1756 date already stored in the [[Tabitha_Dolby]] vital-info table. Resolution still deferred per Guard Rail #3 of the expansion prompt.
+2. **Jacob Cooley Jr. death year**: vault 1826 (will dated 2 Feb 1826, Tier-1 derived) vs FaG #204500337 snippet "1760-1825". Vault retained per Source Hierarchy. New ## Data Discrepancies section added to [[Jacob_Cooley_Jr]].
+3. **Jacob Cooley Jr. birthplace**: vault Pittsylvania VA (inferred from marriage location) vs FaG snippet "Cumberland, Virginia". Logged as Open Question in [[Jacob_Cooley_Jr]] Data Discrepancies.
+4. **Nancy Gover Cooley death**: vault "before 1844" (WikiTree placeholder) vs FaG #204500423 "1842". Biography text updated in [[Nancy_Gover_Cooley]] to cite the 1842 date with Tier-2 source; YAML `died:` field retained as "before 1844" pending Tier-1 verification.
+5. **John Parker birth year**: vault 1753 (Geni) vs WikiTree Parker-1606 1759. Already noted in [[John_Parker_Anderson_SC]] as a moderate-confidence date; not a new finding.
+
+### No memorial found (8 person rows)
+
+| Person | Expected Burial | Status |
+|---|---|---|
+| [[Mary_Holloway_Huff]] | Brunswick Co VA | NO_MEMORIAL_FOUND |
+| [[Mary_Nancy_Parker_King]] | Anderson Co SC (likely Belton, husband line) | NO_MEMORIAL_FOUND |
+| [[Olive_Mary_Polly_Henderson_Cox]] | Greenville Co SC (likely Standing Springs) | NO_MEMORIAL_FOUND |
+| [[Elizabeth_Brasher_Henderson]] | Greenville Co SC | NO_MEMORIAL_FOUND |
+| [[Thomas_Levi_Brasher_Jr]] | Greenville Co SC | NO_MEMORIAL_FOUND (FaG memorial for son Henry Collins Brasher Sr. #66620694 explicitly notes contributor "could not find a Find a Grave memorial for Thomas Brasher and Sarah Lindsey") |
+| [[William_Holloway_Brunswick_VA]] | Brunswick Co VA | NO_MEMORIAL_FOUND (3 different William Holloway memorials in VA exist but none match 1737-1784) |
+| [[Martha_Ballard_Holloway]] | Brunswick Co VA | NO_MEMORIAL_FOUND |
+| [[Thomas_B_Cox]] (re-search) | Standing Springs Cemetery, Greenville Co SC | NO_MEMORIAL_FOUND (re-confirms 2026-04-10 finding) |
+| [[Ezekiel_Henderson]] (re-search) | Greenville Co SC | NO_MEMORIAL_FOUND (only Pvt Ezekiel Henderson 1832-1865 #27723903 returned, a different person who is his grandson) |
+
+### Files updated (2026-05-02 Find a Grave sweep)
+
+- New section appended to: [[findagrave_audit]] (~95 lines: iteration 1 + iteration 2 sub-sections, FOUND/NOT FOUND/CANDIDATE tables, summary, discrepancy list, frontmatter `updated:` bumped to 2026-05-02)
+- Person files updated: [[Tabitha_Dolby]] (cemetery added to vital-info table; Find a Grave Cemetery Cluster section added), [[Hiram_Cooley]] (cemetery added to vital-info table; biography updated), [[Jacob_Cooley_Jr]] (cemetery added; ## Data Discrepancies section added; FaG source line added to YAML), [[Nancy_Gover_Cooley]] (birthplace, parents, cemetery added; biography updated; ## Data Discrepancies section added; FaG source line added to YAML), [[John_Parker_Anderson_SC]] (candidate cemetery added to vital-info table; Open Items revised)
+- This file: [[Research_Log]]
+
+### Verify (final)
+
+`grep -c "NO_MEMORIAL_FOUND\|NEEDS_FINDAGRAVE" vault-template/findagrave_audit.md` = 73 (up from 57 prior to this sweep: +12 NO_MEMORIAL_FOUND from this sweep's 8 new persons logged + 4 cross-references in summary text; 4 FOUND with valid memorial numbers do not contribute to NO_MEMORIAL_FOUND; +1 CANDIDATE line for John Parker does not contribute either).
+
+### Negative results / not done
+
+- Find a Grave 403 issue persists; direct page fetches still blocked. Cannot retrieve full memorial body text; only WebSearch snippet metadata accessible.
+- Did not pursue iteration 3+ per scope cap of 2 iterations.
+- Iteration 2's "deceased ancestors with concrete dates lacking FaG" target was only partially exercised (re-searched 2 of 12+ candidates already in NOT FOUND table); the remaining backlog (Salk, Salmanson, Markel, Sternbach, Bright, Drake, Kuniansky, Kleinberg, etc.) was not re-attacked, since the existing audit table already documents those exhaustive searches and human-action items.
+
+---
+
+## 2026-05-02 Source-Citation Audit sweep (Session: branch claude/run-top-agents-oyF19, prompt 05-source-citation-audit)
+
+**Goal**: 2-iteration scoped audit of `sources` frontmatter for the 13 person files added by agent 1 (today's tree-expansion) plus quick spot-check on low-source-count files. Cap: ~10 web searches.
+
+**Baseline (start of session)**: 1121 person files in vault. Mechanical scan: 1 with 0 sources, 817 with 1 source, 100 with 2, 203 with 3+. The "0 sources" file is Srul_Mendel_Zalmanson, which actually has 9+ sources under non-standard YAML keys `tier_1_sources` and `tier_2_3_sources` (effectively PASS strong; vault-tooling artifact, not a real gap).
+
+### Iteration 1 -- Inventory of agent-1 batch (13 files)
+
+All 13 files inventoried by reading `sources:` frontmatter and `## Document Sources` section. Categorization (PRE-RUN):
+
+| Category | Count | Files |
+|---|---|---|
+| PASS (2+ independent sources) | 11 | Elizabeth_Brasher_Henderson, Hiram_Cooley, Jacob_Cooley_Jr, Martha_Ballard_Holloway, Mary_Holloway_Huff, Mary_Nancy_Parker_King, Nancy_Gover_Cooley, Olive_Mary_Polly_Henderson_Cox, Tabitha_Dolby, Thomas_Levi_Brasher_Jr, William_Holloway_Brunswick_VA |
+| NEEDS_CORROBORATION (1 effective independent source) | 2 | Elizabeth_Betty_Gresham_Parker (2 entries but both Geni-cluster derivative); John_Parker_Anderson_SC (3 entries but 2 are Geni-cluster derivative) |
+| UNSOURCED | 0 | -- |
+
+### Iteration 2 -- Web-search corroboration (6 of ~10 budget used)
+
+| # | Search | Result | Action |
+|---|---|---|---|
+| 1 | "Albert Leander Drake" 1897 Columbus MS Find a Grave | NEGATIVE (only Albert David Drake Jr. of Houston TX, not the same person) | No action; Albert_Leander_Drake remains low/single-source |
+| 2 | "Agnes Cox Long" Simpsonville 1891 Tennessee 1974 obituary | NEGATIVE | No action; Agnes_Cox_Long remains low/single-source |
+| 3 | "John Parker" Belton Anderson SC 1845 Ireland Find a Grave | POSITIVE -- WikiTree Parker-1606 (with DAR cite, RW Pvt 96th SC Militia, Ebenezer UMC Anderson SC burial) + lamartin.com Descendants of John Parker | Added 2 new sources to John_Parker_Anderson_SC; both are independent of Geni cluster |
+| 4 | "Elizabeth Gresham" Parker Anderson Co SC John Parker wife | POSITIVE -- WikiTree Parker-1940 (son John Gresham Parker 1789-1842) confirms maiden name; Find a Grave Elizabeth Parker memorial #295120930 surfaced (not added; not confirmed match) | Added Parker-1940 + lamartin.com to Elizabeth_Betty_Gresham_Parker |
+| 5 | "Cooley's Bridge" Greenville SC Hiram 1841 charter | POSITIVE -- hmdb.org Cooley's Bridge Historical Marker #9334 (independent of FaG/Geni; physical-marker text confirms Hiram Cooley c.1796-1864 cotton planter, 1841 charter); randomconnections.com paddling-Saluda local-history blog | Added 2 new sources to Hiram_Cooley |
+| 6 | "Ezekiel Henderson" Greenville SC 1846 will Brasher wife | POSITIVE -- Empty Branches on the Family Tree blog "Brasher" category (already cited on Thomas_Levi_Brasher_Jr; corroborates Brasher line for Elizabeth_Brasher_Henderson independently of WikiTree/Geni); also confirmed Ezekiel's 24 Feb 1839 will appointing Elizabeth + Brasher Henderson as exor/exrx | Added Empty Branches blog to Elizabeth_Brasher_Henderson |
+| 7 | WikiTree Parker-1606 confirmation | POSITIVE -- explicit narrative text "His wife's name was Elizabeth Gresham" | Confirms attribution; backs source already added in #3 |
+| 8 | "Tabitha Dolby" Larne 1770 King Pool emigration | NEUTRAL -- yielded irelandxo.com message-board ancestor-connect query; not added (board posts are queries, not sources) | None |
+
+### Result
+
+| Category | Pre-run (this batch) | Post-run (this batch) |
+|---|---|---|
+| PASS | 11 | 13 |
+| NEEDS_CORROBORATION | 2 | 0 |
+| UNSOURCED | 0 | 0 |
+
+**5 new corroborating sources** added across **4 files** (Elizabeth_Betty_Gresham_Parker, John_Parker_Anderson_SC, Hiram_Cooley, Elizabeth_Brasher_Henderson). Two confidence upgrades: Elizabeth_Betty_Gresham_Parker moderate -> high; John_Parker_Anderson_SC moderate -> high.
+
+**Files written/updated this run**:
+- Edited: Elizabeth_Betty_Gresham_Parker.md, John_Parker_Anderson_SC.md, Hiram_Cooley.md, Elizabeth_Brasher_Henderson.md
+- Updated: source_citation_audit.md (new 2026-05-02 section)
+- Updated: Research_Log.md (this entry)
+
+**Vault-wide PASS/NEEDS_CORROBORATION/UNSOURCED counts unchanged outside this batch**: 817 single-source files (most are MyHeritage-GEDCOM-stub template files with confidence:low) remain in the carryover queue. The Srul_Mendel_Zalmanson tier_1_sources/tier_2_3_sources YAML-key issue is filed as a vault-tooling note in the audit file.
+
+**No commits made (per agent instructions).**
+
+---
+
+## 2026-05-02 Open-Question Resolution sweep (Session: branch claude/run-top-agents-oyF19, prompt 08-open-question-resolution)
+
+**Goal**: 2-iteration scoped attack on open questions in `Open_Questions.md`. Cap: ~6 questions, ~15 web searches. Pay special attention to OQ #30 (Mary Holloway parentage) and OQ #71 / cross_reference_audit Discrepancy #71 (Tabitha Dolby birth year).
+
+**Baseline (start of session)**: 15 lines containing "OPEN" but not "PARTIALLY"/"RESOLVED" in `Open_Questions.md`.
+
+### Iteration 1 -- attack OQ #71 (Tabitha Dolby birth year), OQ #30 (Mary Holloway parentage), OQ #20 (William Thomas Long death year), OQ #28 (Jeddiah Clark 1850 census)
+
+| # | Search | Result | Tier |
+|---|---|---|---|
+| 1 | `"Mary Holloway" Brunswick Virginia 1730s 1740s "Daniel Huff" father parents Holloway sister` | POSITIVE — FamilyCentral.net Philemon Huff/Martha Parham profile explicitly states "Mary (?Holloway?) of Brunswick Co, VA was Daniel Huff's **second wife**. Neither the date Daniel married Mary nor the names of her parents are known. However, the fact that her security for administering her husband's will was William HOLLOWAY... suggests that she may have been a HOLLOWAY." Independent of WikiTree. | Tier 3 |
+| 2 | `"Tabitha Dolby" King 1756 Anderson "Find a Grave" 48870181` | POSITIVE — Find a Grave memorial #48870181 confirmed at born 20 April 1756 Ireland, died 14 May 1815 Belton Anderson SC, "wife, mother, founder and keeper of her household, caring for 21 children", commemorative stone erected by only surviving grandson 1929. Independent corroboration of WikiTree Dolby-84. | Tier 2 |
+| 3 | `"William T. Long" OR "William Thomas Long" Standing Springs Simpsonville Greenville 1825 1897 OR 1887 cemetery` | NEGATIVE — Standing Springs Cemetery confirmed (FaG #71445) but no memorial for our William Thomas Long surfaced; results returned other unrelated William Thomas Longs. | -- |
+| 4 | `"Jeddiah Clark" 1850 census Greenville district SC household children` | NEGATIVE (free web) — SCGenWeb has 1850 Greenville District census PDFs (rootsweb.com/~scgreenv/census/1850_census_p.pdf and scgenweb.org/greenville/1850_census_alpa.pdf) but household details for Jeddiah Clark were not in search snippets. Free PDFs require human browser open. | -- |
+
+### Iteration 2 -- followup on OQ #30 (deepen Holloway lineage)
+
+| # | Search | Result | Tier |
+|---|---|---|---|
+| 5 | `"Daniel Huff" Brunswick Virginia "first wife" OR "second wife" Holloway 1715 1777` | POSITIVE corroborating #1 — "Daniel Huff had a first wife whose name is unknown, and his second wife was Mary, likely surnamed Holloway based on the evidence in the records." Same FamilyCentral.net source. | Tier 3 |
+| 6 | `"William Holloway" Brunswick Virginia 1700s 1730s siblings father parents Holloway will` | POSITIVE — WikiTree narrative confirms William Holloway 1734-1784 Brunswick Co was son of George Holloway and married Martha Ballard daughter of John Ballard; brother to David Holloway Jr. (b. 1703). | Tier 3 |
+| 7 | `"George Holloway" 1709 1759 Brunswick Virginia children sons daughters Mary Holloway Daniel Huff` | KEY POSITIVE — WikiTree Holloway-377 + FamilySearch LB46-XQW: George Holloway (1709-1759 Lunenburg VA), son of David Holloway + Elizabeth Mathews, married Elizabeth MNU c.1734 York Co. **1759 will (Tier 1, USGenWeb wills1746-1825-b.txt) names sons William, Bennett, John, James, George, Thomas + daughters Dianah and Ann.** Each son got 177 acres; daughters got 30 pounds apiece. Mary is NOT in the will. | Tier 1 (will text) + Tier 3 (WikiTree) |
+| 8 | `"Holloway-377" George Holloway Brunswick Virginia children WikiTree` | POSITIVE corroborating #7 — confirms 6 named sons, 2 named daughters Dianah and Ann. Burial likely Mecklenburg Co VA east of Boydton. | Tier 3 |
+| 9 | `"George Holloway" Lunenburg 1759 will daughter "Dianah" Ann Mary married Huff` | POSITIVE additional — daughters' married names: Dianah → Dicey Cox; Ann → Nancy Wingfield (NOT Huff). Confirms Mary is NOT among George's named daughters. | Tier 3 |
+| 10 | `"Tabitha Dolby" 1756 Pool Pools relation father mother parents Antrim Ireland Larne` | NEGATIVE — WikiTree confirms Tabitha's parents are unknown; no Larne 1770 emigrant manifest hit; "Pool" relation hint not actionable from free web. | -- |
+| 11 | `"Larkin Long" Greenville Simpsonville father mother "Long" South Carolina Standing Springs` | NEGATIVE — only restaurant/real-estate hits. No biographical info for Larkin Long. | -- |
+| 12 | `"Mojzesz Markiel" OR "Markiel" Sambor 1919 marriage banns Helen Brand Goldbaum age` | NEGATIVE — only generic Polish Jewish records portals; no specific marriage record age field. | -- |
+| 13 | `"William Thomas Long" Greenville SC 1825 OR "1826" died husband "Mary Elizabeth Huff"` | NEGATIVE | -- |
+| 14 | `"Mary Elizabeth Huff" Long 1838 1922 widow census 1900 Greenville` | NEGATIVE | -- |
+| 15 | `William Holloway Brunswick 1737 1784 will Patty Moseley Caleb Jesse Asa father` | POSITIVE corroborating #6 — confirms William 1737-1784 Brunswick will details; Martha Patty Holloway Moseley sibling-of-Caleb-Obediah-Jesse-Daniel-Asa per WikiTree Holloway-58. | Tier 3 |
+| (16) | `"Holloway-58" OR "Holloway-434" William Holloway Brunswick parents George 1737 OR 1734` | PARTIALLY POSITIVE — distinguishes William Holloway-434 (1729 Spotsylvania, son of John Holloway + Hannah Spiers) from "our" William; confirms multiple Williams in VA distinct from each other. | Tier 3 |
+
+### Cascading vault updates this session
+
+| File | Field | Change | Source |
+|---|---|---|---|
+| `Family_Tree.md` line 481 | Tabitha Dolby birth | "c. 1750" → "20 Apr 1756, Ireland" | Find a Grave #48870181 (Tier 2) + WikiTree Dolby-84 (Tier 3) |
+| `Tabitha_Dolby.md` | YAML `confidence:` | moderate → high | OQ #71 RESOLVED |
+| `Tabitha_Dolby.md` | `## Data Discrepancies` | Birth-year row marked RESOLVED 2026-05-02 | -- |
+| `Mary_Holloway_Huff.md` | `## Vital Information` Father row | clarified that 1759 George Holloway will + 1784 William Holloway will both omit Mary; most likely sister of William | FamilyCentral.net Tier 3 + George Holloway 1759 will Tier 1 |
+| `Mary_Holloway_Huff.md` | Spouse row | added "Mary was Daniel's second wife" | FamilyCentral.net Tier 3 |
+| `Mary_Holloway_Huff.md` | `sources:` frontmatter | added FamilyCentral.net + George Holloway 1759 will | -- |
+| `Mary_Holloway_Huff.md` | `## Open Items` | restructured to reflect new "sister, not daughter" working hypothesis | OQ #30 PARTIALLY_RESOLVED |
+| `Daniel_Huff_Brunswick.md` | Spouse row | added "Mary was Daniel's second wife (FamilyCentral.net)" | FamilyCentral.net Tier 3 |
+| `cross_reference_audit.md` row #71 | Status | DEFER → RESOLVED 2026-05-02 | OQ #71 |
+| `cross_reference_audit.md` | Audit Summary | Resolved 27→28; Open 22→21 | -- |
+| `Open_Questions.md` | New 2026-05-02 prompt-08 section | OQ #71 RESOLVED, OQ #30 PARTIALLY_RESOLVED, others NO PROGRESS | -- |
+
+### Result
+
+| Metric | Value |
+|---|---|
+| Questions attacked | 6 (OQ #71, OQ #30, OQ #20, OQ #28, OQ #34, Tabitha-parents sub-question) |
+| RESOLVED | 1 (OQ #71 / Discrepancy #71 Tabitha Dolby birth year) |
+| PARTIALLY_RESOLVED | 1 (OQ #30 Mary Holloway parentage — second-wife status confirmed; sister-of-William hypothesis strengthened by George Holloway's 1759 will not naming Mary) |
+| No-progress | 4 (OQ #20, OQ #28, OQ #34, Tabitha-parents sub-question) |
+| New questions discovered | 0 |
+| Web-search budget | 15 of 15 cap used |
+
+**Verify before**: `grep -c "OPEN" Open_Questions.md` → 15 occurrences (raw substring); `grep "OPEN" | grep -vE "PARTIALLY|RESOLVED" | wc -l` → 15 strict-OPEN-only lines; 13 NEW-OQ headers labeled `(OPEN)`.
+
+**Verify after**: `grep -c "OPEN" Open_Questions.md` → 20 occurrences (raw substring; **inflated by 5 narrative mentions in this session's update block** — those 5 lines describe NO_PROGRESS or PARTIALLY_RESOLVED outcomes and contain "OPEN" in prose); `grep "OPEN" | grep -vE "PARTIALLY|RESOLVED" | wc -l` → 19 (similarly inflated by narrative mentions); **12 NEW-OQ headers labeled `(OPEN)`** (down 1 from 13: cross_reference_audit Discrepancy #71 closed; no NEW-OQ header had #71 since that was an audit row not a NEW-OQ header). The header-level count is the true open-question metric; the raw-substring metric this session is artifactually inflated by narrative descriptive text.
+
+**No commits made (per agent instructions).**
+
+---
+
+## (legacy entry below) -- 2026-05-02 placeholder for next session marker
+
+(no legacy text -- session boundary)
 
 **Goal**: Targeted strike at OQ #25 (Avraham Chaim Markel's wife) and OQ #26 ("child Regina") using login-free Holocaust databases. Specifically: Yad Vashem Pages of Testimony, JewishGen Holocaust Database / KehilaLinks, and the Sambor Yizkor Book on archive.org. All three named in [[Avraham_Chaim_Markel]] §Research Leads as HUMAN ACTION REQUIRED following prior 403 blocks from agentic access.
 

@@ -1,8 +1,66 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-05-01
+updated: 2026-05-02
 tags: [genealogy, research, open-questions]
+---
+
+## 2026-05-02 session updates — Open-Question Resolution (prompt 08, 2-iteration scoped run)
+
+### Iteration summary
+
+Attacked 6 questions with web searches (~10 searches). Below are the per-question outcomes:
+
+- **OQ #71 / Discrepancy #71 (Tabitha Dolby birth year c.1750 vs 20 Apr 1756): RESOLVED at Strong Signal.** Independent WebSearch corroboration of Find a Grave memorial #48870181 confirms born **20 April 1756** in Ireland, died **14 May 1815** Belton SC. WikiTree Dolby-84 (Tier 3) and Find a Grave (Tier 2) are independent sources both supporting 1756. The "c. 1750" placeholder in [[Family_Tree]] line 481 is now superseded. **Family_Tree.md updated** this session per Guard Rail #3 carve-out (Open-Question-Resolution prompt is the appropriate place for this update; cross_reference_audit row #71 had explicitly deferred to "next audit pass when Tier 2+ source retrieved" — now retrieved). [[Tabitha_Dolby]] confidence upgraded from moderate → high. cross_reference_audit row #71 status updated to RESOLVED.
+
+- **OQ #30 (Mary Holloway Huff parentage): PARTIALLY_RESOLVED toward "sister, not daughter, of William Holloway d. 1784".** Two independent web sources corroborate the existing finding: (a) FamilyCentral.net Philemon Huff/Martha Parham profile explicitly states "Mary (?Holloway?) of Brunswick Co, VA was Daniel Huff's **second wife**. Neither the date Daniel married Mary nor the names of her parents are known. However, the fact that her security for administering her husband's will was William HOLLOWAY and the use of Holloway as the given or second name among descendants suggests that she may have been a HOLLOWAY." This is a Tier 3 secondary genealogy site but is independent of WikiTree. (b) **NEW DATA POINT**: WikiTree Holloway-377 / FamilySearch LB46-XQW identify **George Holloway (1709-1759, Lunenburg/Mecklenburg VA), son of David Holloway + Elizabeth Mathews**, whose 1759 will (Tier 1, USGenWeb wills1746-1825-b.txt) names sons William, Bennett, John, James, George, Thomas + daughters Dianah and Ann. **Mary is NOT in George's 1759 will.** Combined with William Holloway's 1784 Brunswick will (which also does not name Mary), the most parsimonious reading is: (1) Mary was likely already married before 1759 and excluded from George's will per colonial custom of excluding portion-receiving daughters, OR (2) Mary descends from a different Holloway branch. **NEW finding for vault**: Daniel Huff had a **first wife** (name unknown) before Mary. Cascaded to [[Daniel_Huff_Brunswick]] and [[Mary_Holloway_Huff]]. Question remains OPEN at PARTIALLY_RESOLVED until Brunswick or Lunenburg county records definitively name Mary's father.
+
+- **OQ #20 (William Thomas Long death year 1887 vs 1897): NO PROGRESS.** WebSearch returned only generic Standing Springs cemetery references and unrelated William Thomas Longs. No Find a Grave memorial for our William Thomas Long (1825-?, husband of Mary Elizabeth Huff) located via free web. Status remains OPEN; HUMAN ACTION REQUIRED (re-photograph the headstone or access Greenville County death records via Ancestry/FamilySearch login).
+
+- **OQ #28 (Jeddiah Clark 1850 census): NO PROGRESS.** WebSearch surfaced SCGenWeb 1850 Greenville District census PDFs (free) but the actual household details for Jeddiah Clark were not extractable from search snippets. Status remains OPEN; the PDFs at scgenweb.org/greenville/1850_census_alpa.pdf and rootsweb.com/~scgreenv/census/1850_census_p.pdf would need to be opened in browser by a human (PDFs not directly fetchable from this environment).
+
+- **OQ #34 (Mojzesz Majer Markiel exact birth year via 1919 marriage banns age field): NO PROGRESS.** WebSearch for "Mojzesz Markiel Sambor 1919 marriage banns age" returned only generic Polish Jewish records portals (JRI-Poland, Gesher Galicia, JewishGen) without the specific record's age field. Status remains OPEN; AGAD or Sambor-specific archive request required.
+
+- **OQ #15 / Tabitha Dolby's parents (sub-question opened by [[Tabitha_Dolby]] §Open Items): NO PROGRESS.** WebSearch for Tabitha Dolby + Pool/Antrim/Larne returned WikiTree confirming her parents are unknown; no Larne 1770 emigrant manifest hit. Stays OPEN.
+
+### Cascading updates this session (08 prompt)
+
+- [[Family_Tree]] line 481: Tabitha Dolby birth-year placeholder "c. 1750" → "20 April 1756" (Tier 2 Find a Grave + Tier 3 WikiTree, both independent).
+- [[Tabitha_Dolby]] confidence: moderate → high. Discrepancy section updated to mark resolved.
+- [[Mary_Holloway_Huff]]: father-row clarified that Mary was Daniel Huff's **second wife** (Tier 3 FamilyCentral.net independent of WikiTree); George Holloway 1759 will referenced as not naming Mary.
+- [[Daniel_Huff_Brunswick]]: noted Mary as second wife (FamilyCentral.net Tier 3 corroborated).
+- [[cross_reference_audit]] row #71 status: DEFER → RESOLVED.
+
+---
+
+## 2026-05-02 session updates — Source-Citation Audit (prompt 05, scoped run)
+
+### NEW OQ #31 (OPEN, vault-tooling): Audit-script should accept `tier_1_sources` and `tier_2_3_sources` YAML keys as aliases for `sources`
+
+**Status**: Mechanical scan of the vault for source-citation count surfaces Srul_Mendel_Zalmanson.md as the only "0 sources" file. **However**, that file is actually well-sourced (9+ entries) -- a Tier 1 JewishGen Belarus Database revision-list record (NHABMinsk/333/9/420, Borisov 1850), 7 corroborating MyHeritage user trees, Geni World Family Tree, loebtree.com -- but the YAML uses non-standard frontmatter keys `tier_1_sources` and `tier_2_3_sources` instead of the conventional `sources` list. **Action**: future audit-tooling should accept these keys as aliases. Do NOT mass-rewrite Srul_Mendel_Zalmanson; the richer keying actually carries more information than a flat list.
+
+### Findings (no new OQ; logged in source_citation_audit.md)
+
+- **Albert_Leander_Drake** (1897 Columbus MS - Jun 1972 Jackson MS): single-source MyHeritage GEDCOM stub; quick WebSearch yielded no Find a Grave or independent record. Stays at confidence:low.
+- **Agnes_Cox_Long** (20 Oct 1891 Simpsonville SC - 20 Jan 1974 Tennessee): single-source MyHeritage GEDCOM stub; quick WebSearch yielded no obituary. Stays at confidence:low.
+- **John Parker (Anderson SC) birth-year discrepancy**: vault has 1753 (per Geni); WikiTree Parker-1606 (DAR-citing narrative) has 1759. Already in [[John_Parker_Anderson_SC]] §Open Items; needs a Tier 1 record (DAR application file, Revolutionary War pension file) to resolve. Not promoted to a numbered OQ this run.
+- **John Parker burial Find a Grave memorial #**: WikiTree Parker-1606 narrative references his burial at Ebenezer United Methodist Church Cemetery, Anderson SC, but does not give a memorial number; needs direct findagrave.com browse (HUMAN ACTION REQUIRED -- agentic environment 403's findagrave.com).
+
+---
+
+## 2026-05-02 session updates — Tree-Expansion sweep, SC maternal lines
+
+### NEW OQ #30 (OPEN): Mary Holloway (wife of Daniel Huff) — daughter, sister, or niece of William Holloway (d. 1784)?
+
+**Status**: William Holloway's Brunswick Co VA will (16 Oct 1784, proved 22 Nov 1784, Will Book 2 pp. 422-23) names children Daniel "Dan", Caleb, Obediah (predeceased), Jesse, Asa, Martha "Patty" (Moseley), and Muhulda Anne (Pool) -- but does NOT name Mary (Holloway) Huff. Mary was already a widow by 1777 (her husband Daniel Huff's will probated 24 Nov 1777), so she was demonstrably of marriageable age in the 1750s-1760s. Two of her sons (James Huff and William Huff) appear as purchasers at William Holloway's 1 Apr 1789 estate sale, suggesting close kinship without being his children. Most plausible reading: **Mary Holloway Huff was William's older sister (or possibly half-sister), not his daughter.** Per Guard Rail #6, do NOT silently merge. **Action**: examine Brunswick Co VA Will Book for any earlier Holloway will; Pittsylvania / Mecklenburg VA Holloway records; FamilySearch ancestors LH1M-1JT (William Holloway 1734-1784) for any sibling list.
+
+### Other 2026-05-02 findings (no new OQ; logged as "no advance" in Research_Log)
+
+- **Larkin Long (~1801-Mar 1884)**: parents remain unknown; "Clementine Long" hypothesis from MyHeritage GEDCOM still uncorroborated.
+- **Sarah S. Goldsmith (Long's wife)**: contradicting evidence found -- W.T. Goldsmith Sr.'s 22 Mar 1834 estate record names "Sally [Goldsmith] Willingham" (not Long) as his daughter. The vault's existing speculative parentage hypothesis needs cross-reference audit treatment, not modified this session per Guard Rail #3.
+- **Connie Baker (1760, William Cox Jr.'s wife)**: parents remain unknown.
+- **Robert King I and Tabitha Dolby parents**: not located in free web; would require PRONI Belfast or Ulster Historical Foundation paid databases.
+
 ---
 
 ## 2026-05-01 session updates — Free-web Holocaust DB sweep (NO ADVANCE on OQ #25, #26 from agentic environment)

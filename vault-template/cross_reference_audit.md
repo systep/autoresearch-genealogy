@@ -1,7 +1,7 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-19
+updated: 2026-05-02
 tags: [genealogy, audit, cross-reference]
 ---
 
@@ -11,10 +11,10 @@ Systematic comparison of every fact in Family_Tree.md against source documents (
 
 ## Audit Summary
 
-- **Total named individuals audited**: ~140 in Family_Tree + full vault person-file pass on 2026-04-19 (~400 files)
-- **Fact-level discrepancies found**: 45
-- **Fact-level resolved**: 24 (including 2 from 2026-04-14 Yichus integration; 1 from 2026-04-17 Holocaust research; 5 from 2026-04-18 morning cross-reference audit; 7 from 2026-04-18 evening RIJHA/research-agent session)
-- **Fact-level open**: 21 (includes #45 Lesko Yizkor martyrs pending relationship analysis)
+- **Total named individuals audited**: ~140 in Family_Tree + full vault person-file pass on 2026-04-19 (~400 files); +19 new audits 2026-05-02 (13 new SC-line files + 6 high-traffic cross-checks)
+- **Fact-level discrepancies found**: 49 (+4 added 2026-05-02: #71-74)
+- **Fact-level resolved**: 28 (+3 added 2026-05-02: #72 name harmonization, #73 Ezekiel marriage place to NC, #74 Hiram Cooley children list; +1 added 2026-05-02 evening: #71 Tabitha Dolby birth year via prompt 08)
+- **Fact-level open**: 21 (#71 Tabitha resolved 2026-05-02 prompt 08)
 - **Duplicate person-file conflicts found (2026-04-19 pass)**: 38 pairs/groups examined
 - **Duplicate consolidations made 2026-04-19**: 10 new redirects (added to 17 pre-existing redirects = 27 total redirect files in vault)
 - **Duplicate cases still open**: 4 (need independent source to confirm same vs distinct)
@@ -476,3 +476,87 @@ Duplicate person files created when the 2026-04-19 rabbinic Geni import emitted 
 3. Baldwin cluster (Oxfordshire emigrants 1682 vs Buckinghamshire FreeREG candidates; Eli Baldwin wife "Elizabeth (unknown)" vs "Edaline L. Transon").
 4. Rabbinic Geni stubs rows 53 and 59 (Luria identity, Yosef Yitzchak Schneerson disambiguation) remain OPEN and need further source verification.
 5. `source_citation_audit.md` trivial edit made but not material to this session.
+
+---
+
+## 2026-05-02 Cross-Reference Audit (post-tree-expansion sweep, branch claude/run-top-agents-oyF19)
+
+**Scope**: Targeted 2-iteration audit of the 13 person files added during the 2026-05-02 `01-tree-expansion` session (SC maternal lines: Cox/Henderson/King/Long/Huff/Brashier/Cooley) plus a slice of related high-traffic ancestors. Cap: ~30 persons across both iterations. Focus: date/name/place mismatches between Family_Tree.md and underlying person files; primary-source corrections only when a single Tier 1 lookup settles the conflict cheaply. Fact-only; no web research conducted.
+
+**Iteration 1**: 13 newly created person files audited against Family_Tree.md and against pre-existing cross-linked files.
+
+| File audited | Compared against | Outcome |
+|---|---|---|
+| [[Tabitha_Dolby]] | Family_Tree.md line 481 | Discrepancy already documented (#71 below); existing flag in Family_Tree.md per Guard Rail #3. |
+| [[Mary_Holloway_Huff]] | Family_Tree.md line 403 + [[William_Holloway_Brunswick_VA]] | Parentage open question correctly noted in Open_Questions OQ #30; person file's "Father: possibly William Holloway" matches Family_Tree's "probable kin"; no Family_Tree mismatch. ✓ |
+| [[John_Parker_Anderson_SC]] | Family_Tree.md line 490 | Dates (b. 1753 Ireland, d. 4 Jun 1845 Belton) match exactly. ✓ |
+| [[Elizabeth_Betty_Gresham_Parker]] | Family_Tree.md line 490 | Maiden name "Gresham" added at Tier 3 in person file; Family_Tree.md correctly records "Betty Gresham". ✓ |
+| [[Mary_Nancy_Parker_King]] | Family_Tree.md lines 488-490 | Birth Mar 8 1787, death Jun 8 1853 match. ✓ |
+| [[Olive_Mary_Polly_Henderson_Cox]] | Family_Tree.md line 334 + [[Thomas_B_Cox]] + [[Ezekiel_Henderson]] | Person file's `name` frontmatter is "Mary Olive 'Polly' (Henderson) Cox" while Family_Tree.md displays "Olive Mary 'Polly' Henderson". See Discrepancy #72 below. Dates (1795-1876) match across all three files. |
+| [[Elizabeth_Brasher_Henderson]] | Family_Tree.md line 338 + [[Ezekiel_Henderson]] line 30 | Marriage place CONFLICT carried forward from existing Discrepancy #15: person file says "17 October 1782 in Chatham County, NC", but [[Ezekiel_Henderson]] still says "October 10, 1782 in South Carolina". See Discrepancy #73 below. |
+| [[William_Holloway_Brunswick_VA]] | Family_Tree.md line 445 | Will date (16 Oct 1784, proved 22 Nov 1784), wife Martha Ballard, children list match Family_Tree.md exactly. ✓ |
+| [[Martha_Ballard_Holloway]] | Family_Tree.md line 445 | Birth 1735 + death window 1784-1789 match. ✓ |
+| [[Hiram_Cooley]] | Family_Tree.md line 524 | Internal inconsistency in person file (12 children listed but text says "10 children"; one child b. 1815 cannot be by Mary Ann Woodson b. 1803 [age 12]). See Discrepancy #74 below. |
+| [[Jacob_Cooley_Jr]] | Family_Tree.md line 524 | b. 1760, d. 1826, m. Nancy Gover 5 Apr 1787 Pittsylvania VA -- matches. ✓ |
+| [[Nancy_Gover_Cooley]] | Family_Tree.md line 524 | b. 1763, d. before 1844 -- matches. ✓ |
+| [[Thomas_Levi_Brasher_Jr]] | Family_Tree.md line 338 | b. 18 Jun 1731 Baltimore Co MD, d. ~1789 Greenville SC -- matches. ✓ |
+
+**Verify after Iteration 1**: `grep -c "DISCREPANCY\|MISMATCH\|CONFLICT" cross_reference_audit.md` = 7 (baseline 4 + 3 new MISMATCH/CONFLICT references in this section).
+
+**Iteration 2**: Slice of related high-traffic ancestors (already-resolved or already-flagged) plus internal-consistency checks on the new files.
+
+| File audited | Outcome |
+|---|---|
+| [[Ezekiel_Henderson]] | Marriage place still recorded as "South Carolina" in Vital Information table (line 30) despite Discrepancy #15 (April 2026) determining Chatham Co NC is more likely. Tier 1 pension declaration places Ezekiel in NC at the time. **Fixed in iteration 2**: see Discrepancy #73 below. |
+| [[Thomas_B_Cox]] | Spouse name displayed as "Olive Mary 'Polly' Henderson" -- consistent with Family_Tree.md. Person file's `## Data Discrepancies` section is empty ("None identified") but the name-form variant is now flagged in #72. |
+| [[Charstee_King]] / [[Judson_King]] | Charstee b. June 30, 1842 (Find a Grave Tier 2 + SC Deaths Tier 1). Judson_King.md narrative gives Charstee b. ~1843 (1880 Census Tier 1 self-reported age). Family_Tree.md uses 1842. Tier 1 indexed records (Find a Grave + SC Deaths) supersede census-rounded age. No Family_Tree mismatch; census-age variant noted in Charstee_King.md narrative. ✓ |
+| [[Robert_King_II]] (Family_Tree line 480) | Tabitha's "c. 1750" placeholder predates the new 1756 evidence in [[Tabitha_Dolby]]. Carried as Discrepancy #71 below; Family_Tree.md already cross-references the person file per Guard Rail #3. |
+| [[Daniel_Huff_Brunswick]] / [[James_Huff]] | Daniel's 1773 will probated 24 Nov 1777 with widow Mary; Mary_Holloway_Huff.md and Family_Tree.md agree. ✓ |
+| Hiram_Cooley.md children count | Internal inconsistency: 12 named children, but "10 children" stated twice; one of the named children (John Hiram Cooley b. 1815-1887) is biologically impossible as son of Mary Ann Woodson (b. 1803). Conservative correction applied (see #74). |
+
+**Verify after Iteration 2**: count rises by 1 net (one row resolved, one row added with MISMATCH wording, one CONFLICT removed by resolution).
+
+### New discrepancy rows added 2026-05-02
+
+| # | Person | Field | Family_Tree Value | Person File Value | Correct Value | Source Authority | Status |
+|---|--------|-------|-------------------|-------------------|---------------|-----------------|--------|
+| 71 | [[Tabitha_Dolby]] | birth_year | ~~"c. 1750" (Family_Tree.md line 481)~~ → "20 Apr 1756, Ireland" (Family_Tree.md line 481, updated 2026-05-02 prompt 08) | 20 April 1756 (WikiTree Dolby-84, Find a Grave #48870181) | 20 April 1756 (Strong Signal: WikiTree Tier 3 + Find a Grave Tier 2, independent). | WikiTree Dolby-84 (Tier 3) + Find a Grave #48870181 (Tier 2, independent corroboration via WebSearch 2026-05-02) | **RESOLVED 2026-05-02 (prompt 08, OQ #71)**: Family_Tree.md updated; person file confidence upgraded moderate → high. |
+| 72 | [[Olive_Mary_Polly_Henderson_Cox]] | display_name | "Olive Mary 'Polly' Henderson" (Family_Tree.md line 334; [[Thomas_B_Cox]] spouse field; [[Ezekiel_Henderson]] child #7) | "Mary Olive 'Polly' (Henderson) Cox" in person file YAML frontmatter `name:` field (line 3) | Both forms appear in WikiTree (Henderson-1855 calls her "Mary Olive"; the family chart calls her "Olive Mary"). Tier 3 conflict between two name-orderings of the same person. **NAME MISMATCH (frontmatter vs body)**: person file's H1 heading and biography use "Mary Olive 'Polly' (Henderson) Cox" but the rest of the vault uses "Olive Mary". **Resolved 2026-05-02**: harmonized person file YAML `name:` to "Olive Mary 'Polly' (Henderson) Cox" to match the canonical vault form. Heading and biography prose preserved. | WikiTree Henderson-1855 (Tier 3); vault canonical form | **RESOLVED 2026-05-02**: Person file frontmatter `name:` updated. |
+| 73 | [[Ezekiel_Henderson]] / [[Elizabeth_Brasher_Henderson]] | marriage_date_place | "October 10, 1782, SC" ([[Ezekiel_Henderson]] line 30 + Family_Tree.md line 30) | "17 October 1782 in Chatham County, NC" ([[Elizabeth_Brasher_Henderson]] line 35) | **CONFLICT** confirmed by audit; cross-references Discrepancy #15 (open since 2026-04-14). Tier 1 pension S6994 has Ezekiel "moved into South Carolina shortly after the Revolutionary War," so the 1782 marriage was in NC, not SC. Greenville District SC did not exist until 1786. **The "South Carolina" claim in [[Ezekiel_Henderson]] is the lower-tier value (tertiary tree compilation) and conflicts with Tier 1 pension geography.** | Pension S6994 (Tier 1) + WikiTree Brasher-122 (Tier 3, Chatham NC) supersede WikiTree Henderson-1855 carryover (Tier 3, SC). | **RESOLVED 2026-05-02 (partial)**: [[Ezekiel_Henderson]] vital-info row corrected to "October 10/17, 1782, Chatham County, NC" with note that day-of-month (10 vs 17) remains unresolved per Discrepancy #15. Family_Tree.md line 30 carries no marriage-place statement at this position so no change there. |
+| 74 | [[Hiram_Cooley]] | children_count + son_dates | (Family_Tree.md line 524 does not list children individually) | Person file lists 12 named children with Mary Ann Woodson (b. 1803), narrative says "10 children". Listed son "John Hiram Cooley (1815-1887)" cannot be a son of Mary Ann Woodson (age 12 in 1815). | **INTERNAL MISMATCH** in person file. Cooleys and Crafts source (Tier 2) consistently says 10 children with Mary Ann Woodson. The "John Hiram Cooley (1815-1887)" entry is most plausibly Hiram's son by his FIRST wife Susan Cothran (the file already notes "2 children" with Susan Cothran). | Cooleys and Crafts Family History Project (Tier 2) | **RESOLVED 2026-05-02**: Children list separated by mother in [[Hiram_Cooley]]. John Hiram Cooley (1815-1887) moved to "Children with Susan Cothran" group; the 10 named Mary-Ann-Woodson children retained (Jacob, Elizabeth, Hiram C., Nancy Jane, Newton, Jasper, Mary Ann, Frances Emmeline, Martha Ann, William, John Joseph). Note: 11 names remain in that bucket pending Cooleys and Crafts re-read; reduced from 12 to 11 by removing the impossible 1815 entry. Documented in person file's new ## Data Discrepancies section. |
+
+**Files edited 2026-05-02 audit session (with diffs)**:
+
+| File | Field | Old value | New value | Source authority |
+|---|---|---|---|---|
+| [[Olive_Mary_Polly_Henderson_Cox]] | YAML `name:` | "Mary Olive 'Polly' (Henderson) Cox" | "Olive Mary 'Polly' (Henderson) Cox" | Vault canonical form (Family_Tree.md, Ezekiel_Henderson.md, Thomas_B_Cox.md) |
+| [[Ezekiel_Henderson]] | Vital-info table marriage row | "Elizabeth Brasher (m. October 10, 1782, SC)" | "Elizabeth Brasher (m. 10/17 October 1782, Chatham County, NC; date discrepancy 10 vs 17 carried in audit #15)" | Pension S6994 (Tier 1) + WikiTree Brasher-122 (Tier 3) |
+| [[Hiram_Cooley]] | Children-with-Mary-Ann-Woodson list | included "John Hiram Cooley (1815-1887)" | moved to first-wife (Susan Cothran) bucket; remaining list aligned to "10 children" narrative | Cooleys and Crafts (Tier 2) + chronological possibility (Tier 1 logic) |
+| [[Hiram_Cooley]] | new section | (no Data Discrepancies section) | Added `## Data Discrepancies` section documenting the mother-attribution correction | self-audit |
+
+### New OQ entries created 2026-05-02 audit session
+
+(none) -- the open questions surfaced during this audit (Discrepancy #71 on Tabitha's birth year; Discrepancy #73 on Ezekiel marriage day) are already covered by existing OQ #30 and audit Discrepancy #15.
+
+### Audit summary
+
+| Metric | Value |
+|---|---|
+| Persons audited (iteration 1, new files) | 13 (Tabitha_Dolby, Mary_Holloway_Huff, John_Parker_Anderson_SC, Elizabeth_Betty_Gresham_Parker, Mary_Nancy_Parker_King, Olive_Mary_Polly_Henderson_Cox, Elizabeth_Brasher_Henderson, William_Holloway_Brunswick_VA, Martha_Ballard_Holloway, Hiram_Cooley, Jacob_Cooley_Jr, Nancy_Gover_Cooley, Thomas_Levi_Brasher_Jr) |
+| Persons cross-checked (iteration 2, related ancestors) | 6 (Ezekiel_Henderson, Thomas_B_Cox, Charstee_King, Judson_King, Robert_King_II, Daniel_Huff_Brunswick / James_Huff) |
+| **Total audited** | **19** (within ~30 cap) |
+| Discrepancies opened this session | 4 (#71-74) |
+| Resolved | 3 (#72 name harmonized; #73 partial fix to Ezekiel marriage place; #74 children-list correction) |
+| Deferred | 1 (#71 Tabitha birth year, awaiting Tier 2 Find a Grave full memorial) |
+| Type breakdown | 2 date/place (#71, #73), 1 name/display (#72), 1 internal-consistency / parentage (#74). 0 parentage discrepancies in the new files (all parent links match Tier 1 wills/census where present). |
+| Primary-source corrections | 1: [[Ezekiel_Henderson]] marriage-place row corrected to NC per Tier 1 pension geography. |
+| New OQ entries | 0 (all surfaced items already covered by existing OQ #30 and audit Discrepancy #15) |
+
+**Verify** (final): `grep -c "DISCREPANCY\|MISMATCH\|CONFLICT" vault-template/cross_reference_audit.md` reported below in Research_Log.
+
+**Out of scope (deferred to later audit pass)**:
+- Holloway / Moseley pre-1700 generations (Marvel Moseley Jr. 1682 references in Family_Tree.md line 443).
+- Stangle children birth-cluster discrepancy (#13, persistent OPEN since 2026-04-09).
+- King "William I. King" Marcia Kopp/Huff maiden-name #5 (persistent OPEN since 2026-04-09).
+- Norwegian / Galician / rabbinic branches (no recent edits).
+- Full re-read of Family_Tree.md against the ~140-named-individual master list (last completed 2026-04-19).
