@@ -2,13 +2,77 @@
 type: reference
 created: 2026-04-09
 updated: 2026-05-02
-last_session: "2026-05-02 Timeline Gap Analysis (prompt 07, scoped 2 iterations): 20 ancestors analyzed (13 from agent 1 + 7 long-lived/immigrant supplements). 7 of 10 web searches run, all positive. 7 gap-fill closures: John Parker FaG memorial #6033918 (Ebenezer UMC Anderson SC); Thomas Brasher Jr will witnessed 27 Sep 1789, proved 6 Apr 1790 Greenville Co SC; Mary Ann Woodson Cooley d. 17 Nov 1850; Hiram Cooley 1850 census existence confirmed; Jacob Cooley Jr will signed 2 Feb 1826, probated 19 Jun 1826 Greenville Will Book B p.88; Robert King II d. 13 Dec 1826 Belton SC corroborated; Ezekiel Henderson Pension S6994 PDF transcript located at revwarapps.org/s6994.pdf. New file: timeline_gap_audit.md (26 OPEN gap rows queued for future research). 5 new dated events added to Timeline.md. Earlier 2026-05-02 entries: Immigration Search (prompt 11), Source-Citation Audit (prompt 05) — 13 agent-1 person files audited, 2 NEEDS_CORROBORATION promoted to PASS, 5 new corroborating sources added."
+last_session: "2026-05-02 GEDCOM Completeness (prompt 04, scoped 2 iterations): seeded vault GEDCOM file family.ged (none existed). Iteration 1: 39 INDI + 20 FAM records covering Cox/Henderson/Brasher/Cooley/King/Parker/Huff/Moseley/Holloway/Long/Bright slice (1730-1985, SC and VA). Iteration 2: built gedcom_audit.md (422 rows; 31 PRESENT + 8 INCOMPLETE + 383 MISSING). Validation clean: every INDI has NAME, every FAM has HUSB or WIFE, no orphan CHIL or FAMC/FAMS refs, no duplicate INDI IDs, ends with `0 TRLR`. No web searches. Earlier 2026-05-02 entries: Timeline Gap Analysis (prompt 07), Immigration Search (prompt 11), Source-Citation Audit (prompt 05)."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-05-02 GEDCOM Completeness seed (Session: branch claude/run-top-agents-oyF19, prompt 04-gedcom-completeness)
+
+**Goal**: 2-iteration scoped GEDCOM seed. No GEDCOM existed in the vault. Create `family.ged` (GEDCOM 5.5.1, UTF-8) with HEAD/TRLR boilerplate and ~30-50 INDI records seeded from a coherent slice of `Family_Tree.md`. Build `gedcom_audit.md` listing every named individual in `Family_Tree.md` as PRESENT / INCOMPLETE / MISSING.
+
+**Scope-bound**: Cox / Cooley / Holloway / Parker / Brasher / Henderson / King / Huff / Moseley / Long / Bright clusters (lines 309-446 and 473-538 of Family_Tree.md), plus their immediate ancestors. Excluded: Salmanson, Salk, Markel, Frei, Brandt, Karp, Schneerson, Loew, Luria, Treves, Stangle, Duff, Byars, and other clusters.
+
+### Iteration 1 — generate `family.ged`
+
+39 INDI records (@I1@ through @I39@) and 20 FAM records (@F1@-@F19@ plus @F14B@) created. Sources for dates: existing person-file frontmatter (verified 2026-05-02 read of 35 person files) and Family_Tree.md narrative.
+
+INDI list:
+- Cox/Henderson/Brasher (9): William Cox Sr., William Cox Jr., Thomas B. Cox, Olive Mary Polly Henderson, Ezekiel Henderson, Elizabeth Brasher, Thomas Levi Brasher Jr., Rebecca Adeline Cox, Roxanne Cox.
+- King/Parker/Cooley (13): Robert King II, Tabitha Dolby, James King Sr., Mary Nancy Parker, John Parker, Elizabeth Betty Gresham, George Washington King, Lucinda Elizabeth Chamblee, Judson King, Charstee A. Cooley, Hiram Cooley, Jacob Cooley Jr., Nancy Gover.
+- Huff/Moseley/Holloway/Long/Bright (17): Daniel Huff, Mary Holloway, James Huff, Rebecca Moseley, Lewis P. Huff, Mary Brashier, Mary Elizabeth Huff, William Thomas Long, Larkin Long, Sarah S. Goldsmith, William Goldsmith Long, Rebecca Moseley Long, Albert Graham Bright, Samuel Moseley, Martha Patty Holloway, William Holloway, Martha Ballard.
+
+FAM marriages with documented dates: Jacob Cooley Jr. + Nancy Gover 5 APR 1787 Pittsylvania VA; James Huff + Rebecca Moseley 9 NOV 1793 Brunswick VA; William Thomas Long + Mary Elizabeth Huff 19 JAN 1857; William Goldsmith Long + Roxanne Cox 10 JAN 1886; Albert Graham Bright + Rebecca Moseley Long 2 SEP 1920 Johnson City TN.
+
+### Iteration 2 — build `gedcom_audit.md`
+
+422 audit rows: 31 PRESENT, 8 INCOMPLETE, 383 MISSING. Every named person in Family_Tree.md is accounted for, including:
+- 50+ MISSING in Salmanson/Salk/Mittleman/Kushner clusters (Rhode Island Jewish line)
+- 16 MISSING in Eastern European Zalmanson line
+- 50+ MISSING in Markel/Frei/Brandt/Goldbaum/Karp clusters (Galician line)
+- 12 MISSING Standing Springs Baptist Church charter members
+- 25 MISSING in Stangle/Duff/Byars/Bright handwritten-chart cluster
+- 80+ MISSING in Schneerson/Loew/Luria/Treves rabbinic dynasty (Tier 2/3 Geni-sourced, deferred)
+
+8 INCOMPLETE rows flag specific gaps to fix in next iterations: William Cox Jr. (no birth, no Connie Baker), Rebecca Adeline Cox (no Henry L. Henderson FAMS), James King Sr. (no death year), Elizabeth Betty Gresham (Tier 3 only, no dates), Lucinda Elizabeth Chamblee (no death), Mary Holloway Huff (no birth), Mary Brashier (death imprecise), Sarah S. Goldsmith (no death, no parents).
+
+### Validation
+
+- INDI count: 39 (target: ~30-50 ✓)
+- FAM count: 20
+- Every INDI has at least a NAME line ✓
+- Every FAM has at least HUSB or WIFE ✓
+- Orphan CHIL references (CHIL @I#@ pointing to undefined INDI): 0 ✓
+- Orphan FAMC/FAMS references: 0 ✓
+- Duplicate INDI IDs: 0 ✓
+- File ends with `0 TRLR` ✓
+- Living-person privacy heuristic applied: 0 living persons in this slice (latest birth year in slice = 1898 Rebecca Moseley Long, who died 1985; latest birth year overall = Albert Graham Bright 1893)
+
+### Files created
+
+- `vault-template/family.ged` (39 INDI, 20 FAM, GEDCOM 5.5.1, UTF-8)
+- `vault-template/gedcom_audit.md` (422 audit rows)
+
+### Files modified
+
+- `vault-template/Research_Log.md` (this entry)
+
+### Verify metric
+
+`grep -c "MISSING\|INCOMPLETE" vault-template/gedcom_audit.md` = 401 (the prompt's Direction is minimize; this seeds the baseline).
+
+### Next iterations (deferred)
+
+1. Salmanson direct line (Barnett, Leonard Irving, Thelma, Alan Carl, Kathryn Ann) — ~20 INDIs
+2. Markel/Frei/Brandt slice with documented Tier 1 dates — ~30 INDIs
+3. First-degree completions for currently-INCOMPLETE persons (Connie Baker, Sarah Lindsey, Thomas Brasher Sr., Mary Ann Woodson Cooley, John Joseph Cooley, Emily Chapman, William Thomas Goldsmith Sr.)
+4. Children of Thomas B. Cox + Olive Mary Henderson (12 named) and Rebecca Adeline + Henry L. Henderson (10 named)
+5. Stangle/Duff/Byars/Bright handwritten-chart cluster (low confidence; defer)
+6. Schneerson/Loew/Luria/Treves dynastic chain (Tier 2/3; defer with explicit `1 SOUR Geni-curated` notes)
+
 
 ## 2026-05-02 Timeline Gap Analysis sweep (Session: branch claude/run-top-agents-oyF19, prompt 07-timeline-gap-analysis)
 
