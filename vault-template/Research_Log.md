@@ -2,13 +2,66 @@
 type: reference
 created: 2026-04-09
 updated: 2026-05-02
-last_session: "2026-05-02 Source-Citation Audit (prompt 05): 13 agent-1 person files audited, 2 NEEDS_CORROBORATION promoted to PASS, 5 new corroborating sources added across 4 files (Elizabeth_Betty_Gresham_Parker +3 sources, John_Parker_Anderson_SC +2, Hiram_Cooley +2, Elizabeth_Brasher_Henderson +1). Two confidence upgrades to high. 817 single-source files remain in carryover queue. Earlier 2026-04-25 entry: Markel-line source ingest: processed Lockspeisers-Mom's Maternal Aunt's Family.pdf (added today on main) + 7 chat-shared images (oval-frame portrait, Yiddish postcard, three-women photo, Markel/Karp identification key, Markel/Karp family group portrait, Heshel Markel portrait + back caption). New person files: Chawa_Frei_Lockspeiser (4th Frei sister, previously undocumented), Hersch_Lockspeiser, Lockspeiser_Children_1936_Photo, Anne_Markel, Frieda_Rita_Markel, Kate_Markel_Kaplan. New transcription/key files: Markel_Family_Portrait_Identification_Key, Yiddish_Postcard_Spa_Photo_Back_Transcription, Heshel_Markel_Vic_Hoffman_Oval_Portrait, Ruth_Gold_Aunts_Spa_Photo_Postcard. Updates to: Heschel_Herman_Markel (portrait evidence), Leah_Frei (Chawa added as 4th sister), 9 existing person files with Photographic Evidence sections. See entry below."
+last_session: "2026-05-02 Immigration Search (prompt 11, scoped 2 iterations): 12 immigrant ancestors audited, 15 web searches run. Outcomes: 1 corroboration (Peter Jungblut MD 1738/9 naturalization, occupation surveyor, in-MD by 1728); 1 plausibility-strengthening (Barnett Salmanson SS Baltic Dec 23 1904 schedule confirmed by 4 secondary sources); 1 new discrepancy (Henry Kascher SS Hamburg 27 Jun 1935 NY arrival not in GG Archives schedule sample, logged as Discrepancy #75). 11 negative results logged. New file: immigration_search_audit.md. Earlier 2026-05-02 entry: Source-Citation Audit (prompt 05): 13 agent-1 person files audited, 2 NEEDS_CORROBORATION promoted to PASS, 5 new corroborating sources added across 4 files (Elizabeth_Betty_Gresham_Parker +3 sources, John_Parker_Anderson_SC +2, Hiram_Cooley +2, Elizabeth_Brasher_Henderson +1). Two confidence upgrades to high. 817 single-source files remain in carryover queue."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-05-02 Immigration Search sweep (Session: branch claude/run-top-agents-oyF19, prompt 11-immigration-search)
+
+**Goal**: 2-iteration scoped immigration / naturalization sweep across ~12 immigrant ancestors. Cap: ~15 web searches. Free sources only. Prioritized ancestors with documented arrival dates AND name variants.
+
+**Baseline**: 168 person files reference immigration keywords; 30+ tagged `immigrant`. No prior `immigration_search_audit.md` existed.
+
+### Iteration 1 - searches run (6 searches)
+
+| # | Query | Result | Resolution |
+|---|---|---|---|
+| 1 | `"Israel Salk" Kovno passenger manifest 1910 Ellis Island arrival` | NEGATIVE: Generic Ellis Island portals. New lead: eilatgordinlevitan.com Kovno-Jewish Ellis Island compiled list (Tier 2-3) flagged for human review. | Israel Salk arrival 10 Aug 1910 still cited only via MyHeritage Flexoline index (Tier 2). |
+| 2 | `"SS Armenia" 1913 Hamburg New York passenger list "Kascher"` | NEGATIVE for Kascher. Existing Tier 1 vault citation stands. | Georg Kascher 1895 SS Armenia 1913 entry unchanged. |
+| 3 | `"Salmanson" OR "Salmonson" SS Baltic White Star Line December 1904 manifest Liverpool New York` | POSITIVE corroboration of ship-schedule plausibility: norwayheritage / GG Archives / titanicandco / whitestarhistory all confirm SS Baltic Liverpool–NY service Jul 1904 to Jan 1905. | Barnett Salmanson SS Baltic 23 Dec 1904 arrival now has 4 independent secondary corroborations of the ship's schedule. Manifest itself remains paywalled. |
+| 4 | `"ship Jupiter" Larne 1770 passenger list Charleston "Robert King"` | NEGATIVE for primary list. Olive Tree Genealogy 1770-1799 free passenger list page (olivetreegenealogy.com/ships/tousa1770-1799.shtml) flagged for human review. WikiTree Dolby-84 already cited. | Robert King II Jupiter 1770 attribution remains Tier 3. |
+| 5 | `"Peter Jungblut" OR "Peter Youngblood" 1739 Maryland naturalization Prince George's County Palatine` | **POSITIVE corroboration**: thegagenweb.com Migrations + WikiTree Youngblood-199 + firstfamiliesofmaryland.com Qualifying Ancestors confirm Maryland 6 Mar 1738/9 jurisdiction; new detail occupation **surveyor**, in Maryland by 1728 ("disputed territory"). | [[Peter_Jungblut_1739_MD]] updated with new ## Immigration section; new corroborating sources added. |
+| 6 | `"Henry Kascher" OR "Henri Kascher" passenger arrival "SS Hamburg" 1935 New York manifest Olympic` | **DISCREPANCY found**: GG Archives sample shows SS Hamburg sailings 11 Jul 1935 and 21 Aug 1935 → NY; no sailing matches the vault's "27 Jun 1935 NY arrival" attribution. | Logged in [[cross_reference_audit]] as Discrepancy #75 and in [[Henry_Michael_Kascher]] Data Discrepancies table. |
+
+### Iteration 2 - searches run (9 searches)
+
+| # | Query | Result | Resolution |
+|---|---|---|---|
+| 7 | `"Markel" Galicia Sambor passenger arrival 1928 Polish ship Gdynia New York manifest` | NEGATIVE. Generic NARA / PolishRoots portals. | Morris Markel ~1928 manifest still unlocated; NARA Boston/Waltham federal naturalization petition is the next path. |
+| 8 | `"Florence Markel" OR "Sura Feiga Markel" 1923 New York passenger arrival Galicia` | NEGATIVE. "The Liberty" remains unconfirmed for any 1923 transatlantic passenger sailing. | Florence Markel 1923 arrival open. |
+| 9 | `"Hyman Salk" OR "Chaim Salk" OR "Chaim Zalk" 1900 1901 passenger arrival New York Providence tailor` | NEGATIVE. | Hyman Salk 1873 ~1900 arrival open. |
+| 10 | `"Rebecca Friedberg" OR "Rivka Friedberg" OR "Rebecca Marcus" Libau Liepaja 1900 1910 passenger arrival` | One Geni hit for "Rebecca Friedberg (Knap)" — confirmed NOT vault Rebecca (different parents). | Rebecca Marcus Friedberg arrival open. |
+| 11 | `"Helen Brandt" OR "Chana Brandt" passenger arrival Sambor Galicia 1928 1929 New York` | NEGATIVE. | Helen Brandt arrival open (likely on same manifest as Morris). |
+| 12 | `"Rose Gerwitz" OR "Rose Salk" Kovno passenger arrival 1910 1918 New York manifest` | NEGATIVE. | Rose Gerwitz arrival open. |
+| 13 | `"Norbert Fleisig" 1875 immigration arrival passenger Hungary Austria` | NEGATIVE. Norbert is not a 1875 arrival (b. 1875); arrival year unknown. Pre-search question is needed. | Norbert Fleisig deferred. |
+| 14 | `Olive Tree Genealogy "Jupiter" 1770 Larne Charleston "Robert King" passenger list` | Olive Tree 1770-1799 page surfaced; transcribed list not visible in snippet. | Flagged for human direct visit. |
+| 15 | `"Morris Markel" Rhode Island naturalization West Warwick rabbi 1930s petition` | NEGATIVE for Markel specifically. RIJHA PDF archives surfaced. | Flagged for human PDF review (rijha.org Notes). |
+
+### Iteration 2 result: 1 corroboration (Peter Jungblut MD naturalization), 1 plausibility-strengthening (Salmanson SS Baltic), 1 discrepancy (Henry Kascher SS Hamburg 1935 date), 11 negative results logged. 15 of 15 search budget used. New file: `immigration_search_audit.md`.
+
+### Files modified
+
+- `vault-template/immigration_search_audit.md` (new file: candidate status table, 15 search-by-search log, recommendations)
+- `vault-template/Peter_Jungblut_1739_MD.md` (new ## Immigration section)
+- `vault-template/Barnett_Salmanson.md` (added 2026-05-02 update note in Immigration Record Verification section)
+- `vault-template/Henry_Michael_Kascher.md` (Data Discrepancies row #3 logged for SS Hamburg 1935 date)
+- `vault-template/cross_reference_audit.md` (Discrepancy #75 added)
+
+### Confidence-tier impact
+
+- [[Peter_Jungblut_1739_MD]]: Tier 2 corroboration count increased; confidence remains "moderate" (still no primary-source village identified, no manifest match). New Tier 2 occupational fact (surveyor) and 1728 "disputed territory" residence are confirming, not refuting.
+- [[Barnett_Salmanson]]: Plausibility of MyHeritage Tier 3 SS Baltic claim strengthened by 4 independent Tier 2 ship-schedule sources. Manifest itself unchanged; remains paywalled.
+- [[Henry_Michael_Kascher]]: 1935 arrival date now contested. No tier change (the disputed item is a single line in his biography, not the core identity).
+
+### Verify
+
+`grep -l "immigrant" vault-template/*.md | wc -l` (informational): unchanged at ~30. `grep -c "Tier 1\|Tier 2\|Tier 3" vault-template/Peter_Jungblut_1739_MD.md` increased from 4 to 6.
+
+---
 
 ## 2026-05-02 Tree-Expansion sweep (Session: branch claude/run-top-agents-oyF19, prompt 01-tree-expansion)
 

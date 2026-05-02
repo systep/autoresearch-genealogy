@@ -560,3 +560,11 @@ Duplicate person files created when the 2026-04-19 rabbinic Geni import emitted 
 - King "William I. King" Marcia Kopp/Huff maiden-name #5 (persistent OPEN since 2026-04-09).
 - Norwegian / Galician / rabbinic branches (no recent edits).
 - Full re-read of Family_Tree.md against the ~140-named-individual master list (last completed 2026-04-19).
+
+---
+
+## 2026-05-02 Immigration Search (prompt 11) Discrepancy
+
+| # | File | Field | Source A | Source B | Status |
+|---|---|---|---|---|---|
+| 75 | [[Henry_Michael_Kascher]] | 1935 SS Hamburg arrival date | Vault biography (line 46): SS Hamburg arrived New York 27 Jun 1935 (sourced from FamilySearch passenger list index 1906-1942, Tier 2) | GG Archives Hamburg-American Line sample shows SS Hamburg sailings 11 Jul 1935 and 21 Aug 1935 to NY; no SS Hamburg sailing matching a 27 Jun 1935 NY arrival in the free GG Archives sample (Tier 2) | **OPEN, logged 2026-05-02 prompt 11**. Possibilities: (a) different vessel (SS Bremen / SS Europa / Norddeutscher Lloyd) with index match collision; (b) earlier 1935 SS Hamburg sailing absent from free GG Archives sample; (c) imprecise FamilySearch index transcription. Resolution requires direct image review of the FamilySearch passenger list index entry. Logged in [[immigration_search_audit]]. |
