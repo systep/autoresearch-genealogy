@@ -37,6 +37,25 @@ Chronological index of all dated events across the family tree.
 
 | Date | Event | Person(s) | Location | Source |
 |---|---|---|---|---|
+| 1731-06-18 | Birth | [[Thomas_Levi_Brasher_Jr]] | Baltimore County, Maryland | WikiTree Brasher-122 (Tier 3) |
+| 1735 | Birth | [[Martha_Ballard_Holloway]] | (probably Brunswick Co VA) | Geni #6000000009554460432 (Tier 3) |
+| c. 1737 | Birth | [[William_Holloway_Brunswick_VA]] | (probably Brunswick Co VA) | Geni #6000000082780564263 (Tier 3) |
+| 1753 | Birth | [[John_Parker_Anderson_SC]] | Ireland | Geni #6000000029308766517 (Tier 3) |
+| 1760 | Birth | [[Jacob_Cooley_Jr]] | (probably Pittsylvania Co VA) | WikiTree Cooley-1134 (Tier 3) |
+| 1763 | Birth | [[Nancy_Gover_Cooley]] | (probably Pittsylvania Co VA) | WikiTree Gover-8 (Tier 3) |
+| 1770-05-17 | Marriage (approx) | [[Thomas_Levi_Brasher_Jr]] + Sarah Lindsey | Greenville, South Carolina | WikiTree Brasher-122 (Tier 3) |
+| 1784-10-16 | Will signed (proved 22 Nov 1784) | [[William_Holloway_Brunswick_VA]] | Brunswick County, Virginia | Brunswick Co VA Will Book 2, pp. 422-23 (Tier 1) |
+| 1787-04-05 | Marriage | [[Jacob_Cooley_Jr]] + [[Nancy_Gover_Cooley]] | Pittsylvania County, Virginia | WikiTree Cooley-1134 (Tier 3) |
+| 1789-04-01 | Estate sale of William Holloway (after Martha's death) | [[William_Holloway_Brunswick_VA]] / [[Martha_Ballard_Holloway]] | Brunswick County, Virginia | Brunswick Co VA estate sale account (Tier 1) |
+| 1796 | Birth | [[Hiram_Cooley]] | Greenville, South Carolina | Find a Grave #25824932 (Tier 2); Cooleys and Crafts |
+| 1841 | Charter granted for Cooley's Bridge | [[Hiram_Cooley]] | Greenville County, SC | Cooleys and Crafts (Tier 2) |
+| 1864-04-02 | Death | [[Hiram_Cooley]] | Greenville County, SC | Find a Grave #25824932 (Tier 2) |
+| 1756-04-20 | Birth | [[Tabitha_Dolby]] | Ireland | WikiTree Dolby-84, Find a Grave #48870181 |
+| 1763 | Birth | [[Ezekiel_Henderson]] | Chatham County, North Carolina | WikiTree Henderson-1855 (Tier 3) |
+| c. 1764 | Birth | [[Elizabeth_Brasher_Henderson]] | Greenville, South Carolina Colony | WikiTree Brasher-153 (Tier 3) |
+| 1782-10-17 | Marriage | [[Ezekiel_Henderson]] + [[Elizabeth_Brasher_Henderson]] | Chatham County, North Carolina | WikiTree Brasher-153 (Tier 3) |
+| 1787-03-08 | Birth | [[Mary_Nancy_Parker_King]] | Anderson, South Carolina | Geni #6000000029308748067 (Tier 3) |
+| 1795-03-29 | Birth | [[Olive_Mary_Polly_Henderson_Cox]] | Greenville, South Carolina | WikiTree Henderson-1855 (Tier 3) |
 | c. 1710/1720 | Birth | [[Daniel_Huff_Brunswick]] | Unknown (possibly VA or PA) | WikiTree Huff-1770 (estimated) |
 | ~1720 | Birth | Argaleus Hercules Henderson I | Onslow, NC | WikiTree Henderson-7309 |
 | 1722 | Birth | Molly Mary Clark | North Carolina | WikiTree, Geni |
@@ -130,7 +149,12 @@ Chronological index of all dated events across the family tree.
 | ~1813 | Birth | Robert King (Baptist clergyman) | South Carolina | 1850 Census: age 37 (Tier 1) |
 | Dec 22, 1815 | Birth | [[George_Washington_King]] | Belton, Anderson County, SC | 1850 Census (Tier 1); Geni, Find a Grave #8737547 (Tier 2/3) |
 | ~1843 | Birth | [[Charstee_King]] | South Carolina | 1880 Census (Tier 1) |
-| Nov 2, 1846 | Death | Ezekiel Henderson | Greenville County, SC | WikiTree |
+| 1815-05-14 | Death | [[Tabitha_Dolby]] | Belton, Anderson District, SC | WikiTree Dolby-84, Find a Grave #48870181 |
+| 1839 | Death | [[Elizabeth_Brasher_Henderson]] | Greenville, SC | WikiTree Brasher-153 (Tier 3) |
+| Nov 2, 1846 | Death | [[Ezekiel_Henderson]] | Greenville County, SC | WikiTree |
+| 1845-06-04 | Death | [[John_Parker_Anderson_SC]] | Belton, Anderson Co, SC | Geni #6000000029308766517 (Tier 3) |
+| 1853-06-08 | Death | [[Mary_Nancy_Parker_King]] | Anderson County, SC | Geni #6000000029308748067 (Tier 3) |
+| 1876-08-21 | Death | [[Olive_Mary_Polly_Henderson_Cox]] | Greenville County, SC | WikiTree Henderson-1855 (Tier 3) |
 | Before July 19, 1847 | Death | Brashier Henderson | Greenville County, SC | WikiTree Henderson-6197 |
 | 17 Oct 1855 | Death (tuberculosis) | [[Sara_Benning]] | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |
 | 10 Mar 1858 | Death (liver disease) | [[Johann_Schuller]] | Waldhütten, Transylvania | Church cert "VATER" (Tier 1) |

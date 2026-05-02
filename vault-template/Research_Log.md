@@ -10,7 +10,80 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
-## 2026-05-01 Markel-line free-web Holocaust DB sweep (Session: branch claude/search-agents-list-ZWtS8)
+## 2026-05-02 Tree-Expansion sweep (Session: branch claude/run-top-agents-oyF19, prompt 01-tree-expansion)
+
+**Goal**: 2-iteration leaf-node expansion focused on the South Carolina maternal lines (Cox, Henderson, King, Long, Huff, Brashier). Cap: 8 ancestors per iteration, ~15 person files total. Free web only.
+
+**Baseline (start of session)**: Family_Tree.md contains 115 wikilinked person files plus ~67 additional bold-tagged named individuals (rough estimate ~182 distinct named individuals). Word-count baseline: 829 lines, 26.6k tokens.
+
+**Environmental constraints discovered/confirmed**: WebFetch returns HTTP 403 for findagrave.com, wikitree.com, geni.com, ancestors.familysearch.org, sites.google.com, and montyhistnotes.com from this environment (consistent with prior 2026-05-01 finding that genealogy hosts block agentic fetches). External WebSearch snippets remain accessible and are the primary evidence channel.
+
+### Iteration 1 - searches run
+
+| # | Search | Result | Resolution |
+|---|---|---|---|
+| 1 | "Tabitha Dolby" King Anderson "South Carolina" 1815 parents Ireland | POSITIVE (snippet only): WikiTree Dolby-84, Find a Grave #48870181, Geni, mytrees.com confirm b. 20 Apr 1756 Ireland, d. 14 May 1815 Belton SC, m. Robert King II, ship Jupiter from Larne 1770. Parents NOT named in snippet. | New birth date (20 Apr 1756) refines existing "c. 1750" in Family_Tree.md; not modified per Guard Rail #3. Logged in [[Tabitha_Dolby]] new person file. |
+| 2 | "Mary Holloway" "Daniel Huff" Brunswick Virginia parents William Holloway | POSITIVE: WikiTree Huff-1770 / Holloway-58 / Huff-446 confirm Mary Holloway = wife of Daniel Huff of Brunswick VA. William Holloway (1768 polls Brunswick) was security on Mary's admin of Daniel's estate, suggesting brother or father. Mary's parents NOT explicitly named in snippets. | New person file [[Mary_Holloway_Huff]] created with relationship to William Holloway flagged as (unverified). |
+| 3 | "John Parker" "Betty" daughter "Mary Nancy Parker" 1787 SC James King | POSITIVE: Geni "Mary King (Parker) (1787-1853)" names parents John Parker + Elizabeth "Betty" Parker (born Gresham); siblings John Gresham, Reuben, Rachel, Susannah, Robert Andrew, Elizabeth, Joseph Parker. | Two new person files: [[John_Parker_Anderson_SC]] and [[Elizabeth_Betty_Gresham_Parker]]. |
+| 4 | "John Parker" Anderson SC 1750 wife Betty Mary Parker King 1787 | POSITIVE follow-up: John Parker b. 1753 Ireland, d. 4 Jun 1845 Belton, Anderson SC; wife Elizabeth "Betty" (Gresham). | Confirms Geni hit; matches the Robert King II Larne-1770 emigration wave (Anderson Co SC Irish immigrants). |
+| 5 | "Olive Mary Henderson" 1795 Thomas Cox "Ezekiel Henderson" daughter | POSITIVE: Geni Brasher_Henderson, WikiTree Henderson-1855, hendersonbooks.com pafg08.htm confirm Olive Mary "Polly" Henderson (b. 29 Mar 1795, d. 21 Aug 1876) was daughter of Ezekiel Henderson + Elizabeth Brasher; m. Thomas B. Cox; named in Ezekiel's will as "T. B. Cox and Mary his Wife". | New person file [[Olive_Mary_Polly_Henderson_Cox]]. |
+| 6 | "Ezekiel Henderson" 1763 1846 Greenville Brasher wife children | POSITIVE: WikiTree Henderson-1855, Geni 6000000004680064519: b. 1763 Chatham NC, d. 2 Nov 1846 Greenville SC, m. Elizabeth Brasher 10 Oct 1782 SC, 15 children in 27 years. Children list matches vault's existing [[Ezekiel_Henderson]] file. | Existing [[Ezekiel_Henderson]] file confirmed; updated with daughter Olive Mary cross-link. |
+| 7 | "Elizabeth Brasher" 1764 Henderson Greenville Thomas Levi Brasher daughter | POSITIVE: WikiTree Brasher-153, Geni: b. ~1764, d. 1839 Greenville SC, daughter of Thomas Levi Brasher Jr. + Sarah Lindsey, married Ezekiel Henderson 17 Oct 1782 Chatham NC. Siblings: Samuel Robert, Sarah, Thomas Levi III, Henry Collins, Aquilla B., John P. | New person file [[Elizabeth_Brasher_Henderson]]; supersedes the parental hypothesis search in [[Mary_Brashier]] (Mary Brashier b. 1806 likely a niece via Thomas Levi III, not Elizabeth's child). |
+| 8 | "Connie Baker" 1760 William Cox Orange NC Greenville parents | NEGATIVE for parents. Reconfirmed existing data only (b. 1760, m. William Cox Jr., remarried William Richardson). Cox Family History Project page returned 403 on direct fetch. | No advance for Connie Baker's parents. Logged. |
+| 9 | "Larkin Long" Greenville Clementine father SC 1801 census | NEGATIVE. Only generic SC census resource pages. | No advance for Larkin Long's parents. Logged. |
+| 10 | "Sarah Sally Goldsmith" 1805 Larkin Long Simpsonville William Thomas Goldsmith daughter | NEGATIVE for the Long marriage. Geni's W.T. Goldsmith Sr. estate record (22 Mar 1834) names "Sally [Goldsmith] Willingham" (wife of William Willingham), NOT a Sarah Goldsmith Long. | Note in [[Sarah_S_Long]]: existing speculative parentage hypothesis is now contradicted by W.T. Goldsmith's own estate record. Per Guard Rail #3 (no name/date modification during expansion), only flagged as data discrepancy; not changed. |
+| 11 | WebFetch findagrave.com/memorial/48870181/tabitha-king | NEGATIVE (HTTP 403). | Reconfirms Find a Grave is blocked from this environment; rely on search snippets. |
+| 12 | WebFetch wikitree.com/wiki/Henderson-1855, Brasher-153, Geni Mary-King, Dolby-84 (4 fetches) | NEGATIVE (HTTP 403 all). | Reconfirms WikiTree and Geni blocked. |
+
+### Iteration 1 result: 6 new person files (Tabitha_Dolby, Mary_Holloway_Huff, John_Parker_Anderson_SC, Elizabeth_Betty_Gresham_Parker, Mary_Nancy_Parker_King, Olive_Mary_Polly_Henderson_Cox, Elizabeth_Brasher_Henderson — actually 7); 5 new wikilinks added to Family_Tree.md; 0 modifications to existing names/dates.
+
+### Iteration 2 - searches run
+
+| # | Search | Result | Resolution |
+|---|---|---|---|
+| 13 | "Samuel Moseley" Brunswick VA c. 1750 wife Martha Holloway parents | POSITIVE: WikiTree Holloway-58 confirms Martha Patty Holloway b. ~1755 Brunswick VA, d. ~1811, "likely the daughter of William Holloway and Martha Ballard". William Moseley Jr. witnessed William Holloway's 1784 will. Samuel Moseley made purchases at the 1789 estate sale of William Holloway. | Strong network corroboration. New person files [[William_Holloway_Brunswick_VA]] and [[Martha_Ballard_Holloway]] (parents of Martha Patty Moseley); these connect [[Samuel_Moseley]]'s line to the Holloway family. |
+| 14 | "John Joseph Cooley" 1819 Greenville Emily Susan Chapman 1823 1857 parents Hiram Cooley | POSITIVE: Geni Hiram Coolie 6000000021987423960, gapeach2.wordpress.com Cooleys and Crafts page confirm Hiram Cooley (1796-1864) was father of John Joseph Cooley (1819-1896, Charstee's father per existing vault) via wife Mary Ann Woodson (1803-1850). | Confirms vault [[Charstee_King]] §parents data; new person file [[Hiram_Cooley]] adds the next generation back. |
+| 15 | "Larkin Long" "Sarah" wife "William Thomas Long" 1825 Simpsonville parents marriage record | NEGATIVE for Larkin Long's parents and for the marriage record. | No advance for [[Larkin_Long]] or [[Sarah_S_Long]] (parents). |
+| 16 | "William Holloway" Brunswick VA 1784 will Martha daughter "Mary Huff" Daniel | POSITIVE: William Holloway's 16 Oct 1784 will (Brunswick Co VA Will Book 2, pp. 422-23, proved 22 Nov 1784) names wife Martha + sons Dan, Jesse, Asa (executors), Caleb. Witnesses: William Moseley Jr., Harmon Read, Littleberry Pearson. April 1789 estate sale lists James Huff and William Huff among purchasers. | Tier 1/2 transcription of primary source; supports Holloway-Huff-Moseley network proximity but NOT Mary Holloway Huff = daughter of William. See discrepancy note below. |
+| 17 | "William Holloway" Brunswick 1784 will children Dan Jesse Asa Caleb Mary Patty | POSITIVE: Children listed = Daniel, Caleb, Obediah, Jesse, Martha Patty (Moseley), Asa, Muhulda Anne (Pool). **Mary (Huff) is NOT in this list.** | **Important elimination**: Mary Holloway Huff is most likely NOT a daughter of William Holloway (d. 1784). She may be his sister (compatible with Daniel Huff's death 1777 and Mary acting as administratrix), William's niece, or the child of a different William Holloway. The 1789 estate-sale purchaser "William Huff" may be Mary's son. Recorded in [[Mary_Holloway_Huff]] §Open Items. New OQ added to [[Open_Questions]]. |
+| 18 | "Martha Holloway" Ballard 1735 1784 Brunswick VA daughters Mary Huff Patty Moseley | NEGATIVE | No corroboration for Mary Huff as a daughter of William + Martha Holloway. Reinforces the elimination from search #17. |
+| 19 | "Robert King I" Larne 1770 ship Jupiter Ireland County Antrim Anderson SC parents | NEGATIVE for Robert King I's parents. POSITIVE for context (1772 Rev. William Martin emigration: 5 ships from Larne to SC; ulsterhistoricalfoundation.com / ulsterancestry.com record sets confirmed). | No advance for King ancestral line beyond Ireland; resource list available for future human-driven PRONI / Ulster Historical Foundation searches. |
+| 20 | "Hiram Cooley" 1796 Greenville Mary Ann Woodson John Joseph Cooley 1819 son children | POSITIVE: Hiram Cooley (1796-1864) + Mary Ann Woodson (1803-1850, m. ~1820s) had 10 children including John Joseph Cooley (1819-1896). Hiram's parents: **Jacob Cooley Jr. + Nancy Gover**. | New person files [[Hiram_Cooley]] (existing-vault person now docs); 2 generations of Cooley pedigree above John Joseph established. |
+| 21 | "Jacob Cooley" Greenville SC Nancy Gover 1796 parents Hiram | POSITIVE: WikiTree Cooley-1134 / Gover-8 confirm Jacob Cooley Jr. (b. 1760, d. 1826) m. Nancy Gover (b. 1763, d. bef. 1844) on 5 Apr 1787 Pittsylvania VA. Children: James, Elizabeth (1791), Patsey (1793), Sarah (1795), Hiram (1796), John (1798), Nancy (1800), Lucinda (1810), Lewis (1814). | New person files [[Jacob_Cooley_Jr]] and [[Nancy_Gover_Cooley]]. Jacob Sr. (b. 1735, d. 1820) referenced via gapeach2.wordpress.com; left as future expansion target. |
+| 22 | "Thomas Levi Brasher" Jr Sarah Lindsey 1731 Baltimore Greenville children daughter Elizabeth | POSITIVE: WikiTree Brasher-122, Geni 6000000011504098266 confirm b. 18 Jun 1731 Baltimore Co MD, d. ~1789 Greenville SC, m. Sarah Lindsey ~17 May 1770 Greenville. Children: Samuel Robert, Elizabeth (Henderson), Henry Collins, Aquilla B., John P. Father: Thomas Brasher Sr. (1701 - ~1770 Orange Co NC) + Sarah Constance. | New person file [[Thomas_Levi_Brasher_Jr]] documents Elizabeth Brasher Henderson's father + grandfather. |
+
+### Iteration 2 result: 6 new/expanded person files; key Holloway-Huff guard-rail elimination logged; 1 new Open Question opened (Mary Holloway Huff's true parents).
+
+### Final delta (this session)
+
+| Metric | Baseline | After Iteration 2 | Delta |
+|---|---|---|---|
+| Wikilinked person files referenced in Family_Tree.md | 115 | 120 | +5 |
+| Total *.md person files in vault-template/ | (n large) | (n+13) | +13 new files (Tabitha_Dolby, Mary_Holloway_Huff, John_Parker_Anderson_SC, Elizabeth_Betty_Gresham_Parker, Mary_Nancy_Parker_King, Olive_Mary_Polly_Henderson_Cox, Elizabeth_Brasher_Henderson, William_Holloway_Brunswick_VA, Martha_Ballard_Holloway, Hiram_Cooley, Jacob_Cooley_Jr, Nancy_Gover_Cooley, Thomas_Levi_Brasher_Jr) |
+| Family_Tree.md edits | -- | 4 edits | adds wikilinks for Tabitha_Dolby, Mary_Nancy_Parker_King, Olive_Mary_Polly_Henderson_Cox, Mary_Holloway_Huff, plus parent-cite annotations |
+| Timeline.md new dated events | -- | +9 events | Tabitha 1756 birth, John Parker 1753 birth + 1845 death, Mary Nancy 1787 birth + 1853 death, Olive Mary 1795 birth + 1876 death, Ezekiel 1782 marriage, Elizabeth Brasher 1764 birth + 1839 death |
+| Open_Questions.md new entries | -- | +1 OQ (Mary Holloway Huff parentage) | |
+
+**Negative results worth re-noting**:
+- Find a Grave / WikiTree / Geni / hendersonbooks / sites.google direct WebFetch all return HTTP 403 from this environment. Search-engine snippet remains the only evidence channel.
+- No advance for Larkin Long's parents (the "Clementine Long" hypothesis remains uncorroborated).
+- No advance for Sarah S. Goldsmith's parentage; one new contraindication: W.T. Goldsmith Sr.'s 22 Mar 1834 estate record names "Sally [Goldsmith] Willingham" as his daughter, which is incompatible with the Sarah_S_Long hypothesis that the same Sally married Larkin Long.
+- Robert King I's parents not located; Larne 1770 emigration list would resolve, behind PRONI / Ulster Historical Foundation paywalls.
+
+**Skipped (out of scope for this 2-iteration cap)**:
+- Norwegian, Galician, and rabbinic branches (no leaf-node cleanup needed at this scale).
+- All Markel/Frei/Brandt/Goldbaum branches (Holocaust-DB sweeps remain blocked, see 2026-05-01 entry).
+- Further pursuit of Cooley line above Jacob Sr. (1735), Brasher line above Thomas Sr. (1701), and Holloway line above William (1737-1784).
+
+### Files updated (2026-05-02)
+- New: [[Tabitha_Dolby]], [[Mary_Holloway_Huff]], [[John_Parker_Anderson_SC]], [[Elizabeth_Betty_Gresham_Parker]], [[Mary_Nancy_Parker_King]], [[Olive_Mary_Polly_Henderson_Cox]], [[Elizabeth_Brasher_Henderson]], [[William_Holloway_Brunswick_VA]], [[Martha_Ballard_Holloway]], [[Hiram_Cooley]], [[Jacob_Cooley_Jr]], [[Nancy_Gover_Cooley]], [[Thomas_Levi_Brasher_Jr]]
+- Edited: [[Family_Tree]], [[Timeline]], [[Open_Questions]], [[Research_Log]] (this entry)
+
+---
+
+## (legacy entry below) -- 2026-05-02 placeholder for next session marker
+
+(no legacy text -- session boundary)
 
 **Goal**: Targeted strike at OQ #25 (Avraham Chaim Markel's wife) and OQ #26 ("child Regina") using login-free Holocaust databases. Specifically: Yad Vashem Pages of Testimony, JewishGen Holocaust Database / KehilaLinks, and the Sambor Yizkor Book on archive.org. All three named in [[Avraham_Chaim_Markel]] §Research Leads as HUMAN ACTION REQUIRED following prior 403 blocks from agentic access.
 

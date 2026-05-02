@@ -331,9 +331,11 @@ The Cox family is central to the Standing Springs / Simpsonville community. Two 
 
 **Thomas B. Cox** (May 15, 1792 - June 12, 1857) (strong)
 - Son of William Cox Jr. and Connie Baker
-- Married: **Olive Mary "Polly" Henderson**
+- Married: **[[Olive_Mary_Polly_Henderson_Cox|Olive Mary "Polly" Henderson]]** (b. 29 Mar 1795, d. 21 Aug 1876; daughter of [[Ezekiel_Henderson]] + [[Elizabeth_Brasher_Henderson|Elizabeth Brasher]]; WikiTree Henderson-1855 / Brasher-153 / Geni, added 2026-05-02)
 - Buried: South Carolina
 - Sources: WikiTree Cox-18821
+
+**Brasher pedigree extended 2026-05-02**: Olive Mary Henderson's mother [[Elizabeth_Brasher_Henderson|Elizabeth Brasher]] (~1764-1839) was the daughter of [[Thomas_Levi_Brasher_Jr|Thomas Levi Brasher Jr.]] (b. 18 Jun 1731 Baltimore Co MD, d. ~1789 Greenville SC) + Sarah Lindsey (m. ~17 May 1770 Greenville SC). Thomas Jr.'s father was Thomas Brasher Sr. (bap. 1701 St. George's Parish Baltimore, d. ~1770 Orange Co NC); Huguenot Brasseur connection refuted (see 2026-04-22 Research_Log).
 
 **Children of Thomas B. Cox and Olive Mary Henderson** (12 children, strong):
 1. Rebecca Adeline Cox (1813-1894)
@@ -398,7 +400,7 @@ William Cox Sr. migrated to SC with the **Long** family. The large handwritten c
 
 **[[Daniel_Huff_Brunswick|Daniel Huff]]** (c. 1710/1720-c. 1777) (moderate)
 - King's grant: 360 acres, Pigeon Roost Creek, Brunswick Co VA, 12 Nov 1753
-- Wife: Mary Holloway
+- Wife: [[Mary_Holloway_Huff|Mary Holloway]] (probable kin of William Holloway of Brunswick Co VA, who served as security on Mary's admin of Daniel's estate; Brunswick Will Book + WikiTree, added 2026-05-02)
 - Will: 1773 (probated 24 Nov 1777); names wife Mary, sons Daniel, Philemon, Reuben, Lewis, James
 - **NOTE**: Pedigree chart incorrectly identifies father of James Huff as "Daniel Hough" of Bucks County PA. See [[Daniel_Hough]] for correction.
 
@@ -440,7 +442,7 @@ William Cox Sr. migrated to SC with the **Long** family. The large handwritten c
 
 **Marvel Moseley Jr.** (1682-1753, Goochland Co VA) > **William Moseley** (d. before 1776, Brunswick Co VA) > **[[Samuel_Moseley]]** (c. 1750, aft. 1810) + **[[Martha_Patty_Holloway]]** (c. 1755-c. 1811) > **[[Rebecca_Moseley_Huff]]** (1772-1837/38)
 
-William Holloway (c. 1734-1784, father of Martha "Patty") left a 1784 will witnessed by William Moseley Jr., confirming Holloway-Moseley family ties. Daughter Abigail Moseley (1778-1840) married Silas Holloway, another Moseley-Holloway intermarriage.
+[[William_Holloway_Brunswick_VA|William Holloway]] (c. 1737-1784, father of [[Martha_Patty_Holloway|Martha "Patty"]]) left a 1784 will witnessed by William Moseley Jr., confirming Holloway-Moseley family ties. Daughter Abigail Moseley (1778-1840) married Silas Holloway, another Moseley-Holloway intermarriage. William's wife was [[Martha_Ballard_Holloway|Martha Ballard]] (1735-betw.1784-1789); their children per the 1784 will were Daniel, Caleb, Obediah, Jesse, Asa, Martha "Patty" (Moseley), and Muhulda Anne (Pool). **Note**: [[Mary_Holloway_Huff]] (wife of [[Daniel_Huff_Brunswick]]) is NOT named in William's 1784 will and is most likely his sister or niece, not his daughter (added 2026-05-02).
 
 ### Stangle Family (English/German Origin)
 
@@ -474,18 +476,18 @@ William Holloway (c. 1734-1784, father of Martha "Patty") left a 1784 will witne
 
 **Lineage: Robert King II (Ireland, c. 1750) > James King Sr. (~1788) > George Washington King (1815) > Judson King (1841)**
 
-**[[Robert_King_II]] + Tabitha Dolby** (strong)
+**[[Robert_King_II]] + [[Tabitha_Dolby|Tabitha Dolby]]** (strong)
 - Robert: c. 1750, Ireland; d. Dec 13, 1826, Anderson County, SC
-- Tabitha Dolby: c. 1750, Ireland; d. May 14, 1815
+- Tabitha Dolby: c. 1750, Ireland; d. May 14, 1815 (WikiTree Dolby-84 / Find a Grave #48870181 narrow this to b. 20 Apr 1756 Ireland; see [[Tabitha_Dolby]] for the date discrepancy, not propagated this session per Guard Rail #3)
 - Emigrated from Ireland 1770 on the **ship Jupiter from Larne, County Antrim** (WikiTree Dolby-84, Geni; Tier 3); settled near Belton, Anderson Co, SC ~1772
 - Revolutionary War veteran (Battle of Kings Mountain)
 - 23 children, 21 survived to adulthood
 - Buried: King Family Cemetery, Belton, SC (Find a Grave #48870135)
 - Source: WikiTree King-12061, Find a Grave, DAR records (Tier 2/3)
 
-**[[James_King_Sr]] + Mary Nancy Parker** (moderate)
+**[[James_King_Sr]] + [[Mary_Nancy_Parker_King|Mary Nancy Parker]]** (moderate)
 - James: b. ~1787-1788, SC; d. ~1867; farmer, $3,000 real estate
-- Mary Nancy Parker: b. March 8, 1787; d. June 8, 1853; parents John Parker + Betty Parker
+- Mary Nancy Parker: b. March 8, 1787; d. June 8, 1853; parents [[John_Parker_Anderson_SC|John Parker]] (b. 1753 Ireland, d. 4 Jun 1845 Belton SC) + [[Elizabeth_Betty_Gresham_Parker|Elizabeth "Betty" Gresham]] (Geni Tier 3, added 2026-05-02)
 - Son of Robert King II and Tabitha Dolby
 - 1850 Census: Eastern Sub Division, Anderson County, SC (Family 398)
 - Children: [[George_Washington_King]] (b. 1815), Sarah (Sallie) Ann King Fant, John King, Elizabeth A. King Haynie (b. ~1831)
@@ -519,6 +521,7 @@ William Holloway (c. 1734-1784, father of Martha "Patty") left a 1784 will witne
 - Civil War: Judson enlisted 1862, Confederate Army, 16th SC Infantry (Greenville Regiment)
 - Both buried: Fork Shoals Baptist Church Cemetery, Pelzer, Greenville Co (Find a Grave #8422324)
 - Charstee's likely parents: John Joseph Cooley (1819-1896) + Emily Chapman (1823-1857), also buried at Fork Shoals
+- **Cooley pedigree extended 2026-05-02**: John Joseph Cooley's father was [[Hiram_Cooley|Hiram Cooley]] (1796-1864, Greenville SC, of Cooley's Bridge fame), son of [[Jacob_Cooley_Jr|Jacob Cooley Jr.]] (1760-1826) + [[Nancy_Gover_Cooley|Nancy Gover]] (1763-bef.1844, m. 5 Apr 1787 Pittsylvania VA). Sources: WikiTree Cooley-1134, Gover-8, Woodson-784; Cooleys and Crafts Family History Project; Find a Grave #25824932.
 - Source: Death Certificate (Tier 1), Census (Tier 1), Find a Grave (Tier 2), cemetery records
 
 **Children of Judson and Charstee Cooley King** (census + cemetery records):

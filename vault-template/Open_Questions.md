@@ -5,6 +5,21 @@ updated: 2026-05-01
 tags: [genealogy, research, open-questions]
 ---
 
+## 2026-05-02 session updates — Tree-Expansion sweep, SC maternal lines
+
+### NEW OQ #30 (OPEN): Mary Holloway (wife of Daniel Huff) — daughter, sister, or niece of William Holloway (d. 1784)?
+
+**Status**: William Holloway's Brunswick Co VA will (16 Oct 1784, proved 22 Nov 1784, Will Book 2 pp. 422-23) names children Daniel "Dan", Caleb, Obediah (predeceased), Jesse, Asa, Martha "Patty" (Moseley), and Muhulda Anne (Pool) -- but does NOT name Mary (Holloway) Huff. Mary was already a widow by 1777 (her husband Daniel Huff's will probated 24 Nov 1777), so she was demonstrably of marriageable age in the 1750s-1760s. Two of her sons (James Huff and William Huff) appear as purchasers at William Holloway's 1 Apr 1789 estate sale, suggesting close kinship without being his children. Most plausible reading: **Mary Holloway Huff was William's older sister (or possibly half-sister), not his daughter.** Per Guard Rail #6, do NOT silently merge. **Action**: examine Brunswick Co VA Will Book for any earlier Holloway will; Pittsylvania / Mecklenburg VA Holloway records; FamilySearch ancestors LH1M-1JT (William Holloway 1734-1784) for any sibling list.
+
+### Other 2026-05-02 findings (no new OQ; logged as "no advance" in Research_Log)
+
+- **Larkin Long (~1801-Mar 1884)**: parents remain unknown; "Clementine Long" hypothesis from MyHeritage GEDCOM still uncorroborated.
+- **Sarah S. Goldsmith (Long's wife)**: contradicting evidence found -- W.T. Goldsmith Sr.'s 22 Mar 1834 estate record names "Sally [Goldsmith] Willingham" (not Long) as his daughter. The vault's existing speculative parentage hypothesis needs cross-reference audit treatment, not modified this session per Guard Rail #3.
+- **Connie Baker (1760, William Cox Jr.'s wife)**: parents remain unknown.
+- **Robert King I and Tabitha Dolby parents**: not located in free web; would require PRONI Belfast or Ulster Historical Foundation paid databases.
+
+---
+
 ## 2026-05-01 session updates — Free-web Holocaust DB sweep (NO ADVANCE on OQ #25, #26 from agentic environment)
 
 A targeted free-web sweep at OQ #25 and OQ #26 (see [[Research_Log]] 2026-05-01 entry for the 9 searches run) **did not advance either question**. The agentic environment is **persistently blocked (HTTP 403)** from direct fetch of:
