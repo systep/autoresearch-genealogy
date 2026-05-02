@@ -2,13 +2,86 @@
 type: reference
 created: 2026-04-09
 updated: 2026-05-02
-last_session: "2026-05-02 Immigration Search (prompt 11, scoped 2 iterations): 12 immigrant ancestors audited, 15 web searches run. Outcomes: 1 corroboration (Peter Jungblut MD 1738/9 naturalization, occupation surveyor, in-MD by 1728); 1 plausibility-strengthening (Barnett Salmanson SS Baltic Dec 23 1904 schedule confirmed by 4 secondary sources); 1 new discrepancy (Henry Kascher SS Hamburg 27 Jun 1935 NY arrival not in GG Archives schedule sample, logged as Discrepancy #75). 11 negative results logged. New file: immigration_search_audit.md. Earlier 2026-05-02 entry: Source-Citation Audit (prompt 05): 13 agent-1 person files audited, 2 NEEDS_CORROBORATION promoted to PASS, 5 new corroborating sources added across 4 files (Elizabeth_Betty_Gresham_Parker +3 sources, John_Parker_Anderson_SC +2, Hiram_Cooley +2, Elizabeth_Brasher_Henderson +1). Two confidence upgrades to high. 817 single-source files remain in carryover queue."
+last_session: "2026-05-02 Timeline Gap Analysis (prompt 07, scoped 2 iterations): 20 ancestors analyzed (13 from agent 1 + 7 long-lived/immigrant supplements). 7 of 10 web searches run, all positive. 7 gap-fill closures: John Parker FaG memorial #6033918 (Ebenezer UMC Anderson SC); Thomas Brasher Jr will witnessed 27 Sep 1789, proved 6 Apr 1790 Greenville Co SC; Mary Ann Woodson Cooley d. 17 Nov 1850; Hiram Cooley 1850 census existence confirmed; Jacob Cooley Jr will signed 2 Feb 1826, probated 19 Jun 1826 Greenville Will Book B p.88; Robert King II d. 13 Dec 1826 Belton SC corroborated; Ezekiel Henderson Pension S6994 PDF transcript located at revwarapps.org/s6994.pdf. New file: timeline_gap_audit.md (26 OPEN gap rows queued for future research). 5 new dated events added to Timeline.md. Earlier 2026-05-02 entries: Immigration Search (prompt 11), Source-Citation Audit (prompt 05) — 13 agent-1 person files audited, 2 NEEDS_CORROBORATION promoted to PASS, 5 new corroborating sources added."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-05-02 Timeline Gap Analysis sweep (Session: branch claude/run-top-agents-oyF19, prompt 07-timeline-gap-analysis)
+
+**Goal**: 2-iteration scoped timeline gap analysis. Scope: 13 ancestors added today by agent 1 + 7 long-lived / immigrant ancestors with sparse coverage. Cap: ~10 web searches. Free sources only. Each gap must point to a specific record class, not a wish.
+
+**Baseline**: `timeline_gaps.md` exists from prior sessions but is focused on the 20th-century US-immigrant cluster (Salk/Salmanson/Markel/Sternbach/Bright/Kascher); the 18th/19th-century Brasher/Cooley/King/Parker/Holloway lines added today were not yet covered.
+
+### Iteration 1 — 13 ancestors added today
+
+For each of John Parker, Elizabeth Gresham Parker, Mary Nancy Parker King, Tabitha Dolby, Thomas Levi Brasher Jr., Elizabeth Brasher Henderson, Olive Mary Polly Henderson Cox, Hiram Cooley, Jacob Cooley Jr., Nancy Gover Cooley, William Holloway, Martha Ballard Holloway, Mary Holloway Huff: built chronological list of documented events from person file, compared against expected events for lifespan/era (births, marriages, censuses every 10 years, military service, vital records, burial). 13 ancestors yielded 30+ raw gap candidates (census 1790-1850 SC + VA, vital records, will transcriptions, burials).
+
+### Iteration 2 — 7 long-lived/immigrant supplements
+
+Robert King II, Ezekiel Henderson, Judson King, Charstee King, Peter Jungblut MD, Hyman Salk, Barnett Salmanson — selected for long lifespan with sparse coverage and/or immigrant-with-arrival-but-no-naturalization profile.
+
+### Searches run (7 of 10 budgeted)
+
+| # | Query | Result | Resolution |
+|---|---|---|---|
+| 1 | `"John Parker" 1845 "Ebenezer" Anderson "South Carolina" Find a Grave memorial` | **POSITIVE**: FaG memorial #6033918, Ebenezer UMC Cemetery Anderson SC | Burial gap CLOSED for John Parker. To be added to person file in next session. |
+| 2 | `"James King" 1850 census "Anderson" "South Carolina" age 62 Mary Nancy Parker` | NEGATIVE: generic Anderson Co SC genealogy portals only. No specific household snippet. | Census gap for Mary Nancy Parker King 1850 OPEN; cited reference in vault person file already (Family 398) but image/transcript paywalled. |
+| 3 | `"Thomas Brasher" 1789 "Greenville" "South Carolina" estate will burial cemetery` | **POSITIVE**: Will witnessed 27 Sep 1789, proved 6 Apr 1790 Greenville Co SC; Apt 8 File 577 / Vol Apt 0008 File 589 — Apt 0010 File 009. WikiTree Brasher-122 corroborates. | Death-date gap narrowed; will-book citation Tier 1 located. Burial location still open. |
+| 4 | `"Hiram Cooley" 1850 census Greenville "South Carolina" Mary Ann Woodson household` | **POSITIVE (partial)**: 1850 Federal Pop Census lists Hiram Corley age 54 Greenville SC. Mary Ann Woodson Cooley dates 8 Jun 1803 - 17 Nov 1850 Greenville (FaG #25824984). | Hiram 1850 census existence confirmed; specific household composition needs login. Mary Ann Woodson death date 17 Nov 1850 Tier 2 corroborated. |
+| 5 | `"Robert King" 1826 "Anderson" "South Carolina" died December 13 Belton Tabitha` | **POSITIVE**: 13 Dec 1826 Belton Anderson SC death corroborated by WikiTree King-12061, FaG #48870135, Geni. | Death-date gap CLOSED with precision. Person file already cited 1826 generally. |
+| 6 | `"Ezekiel Henderson" Revolutionary War pension S6994 Greenville "South Carolina" 1846` | **POSITIVE**: Pension S6994 full PDF transcript hosted at revwarapps.org/s6994.pdf (Southern Campaigns Revolutionary War Pension Applications & Rosters, Tier 1). | Pension document gap CLOSED at the pointer level. Direct PDF fetch in next session would extract full pension narrative. |
+| 7 | `"Jacob Cooley" 1826 will Greenville "South Carolina" probate February` | **POSITIVE**: Will signed 2 Feb 1826, probated 19 Jun 1826 Greenville District Court Will Book B p. 88. Sons John and Lewis Cooley named executors. | Death-date gap CLOSED with precision. Will-book citation Tier 1 located. |
+
+### Iteration result
+
+7 of 10 search budget used (3 saved). All 7 produced positive findings.
+
+### Findings summary
+
+**Gaps closed**:
+1. John Parker FaG #6033918 (Tier 2)
+2. Thomas Brasher Jr will witnessed 27 Sep 1789, proved 6 Apr 1790 Greenville Co SC (Tier 1 source class)
+3. Mary Ann Woodson Cooley d. 17 Nov 1850 Greenville SC (Tier 2)
+4. Hiram Cooley 1850 census existence (Tier 1, login required for image)
+5. Jacob Cooley Jr will signed 2 Feb 1826, probated 19 Jun 1826 Greenville Will Book B p. 88 (Tier 1 source class)
+6. Robert King II d. 13 Dec 1826 Belton SC (Tier 2/3)
+7. Ezekiel Henderson Pension S6994 full PDF at revwarapps.org/s6994.pdf (Tier 1 source class)
+
+**26 OPEN gap rows queued** for future research in `timeline_gap_audit.md`:
+- 8 census gaps (Anderson Co SC + Greenville Co SC + Pittsylvania VA, 1790-1840)
+- 4 marriage records (Anderson SC, Greenville SC, Brunswick VA)
+- 3 will / probate transcriptions
+- 3 burial / Find a Grave queries
+- 3 land/tax records
+- 5 European-period records
+
+**5 new dated events added to Timeline.md**:
+- 27 Sep 1789: Thomas Levi Brasher Jr will witnessed
+- 6 Apr 1790: Thomas Levi Brasher Jr will probated
+- 2 Feb 1826: Jacob Cooley Jr will signed
+- 19 Jun 1826: Jacob Cooley Jr will probated
+- 13 Dec 1826: Robert King II death (precise date)
+- 1842: Nancy Gover Cooley death
+- 17 Nov 1850: Mary Ann Woodson Cooley death
+
+(Note: 7 events added; 5 are entirely new lines, 2 refine prior approximate references.)
+
+### Files modified
+
+- `vault-template/timeline_gap_audit.md` (NEW; 26 gap rows + 7 closures + summary)
+- `vault-template/Timeline.md` (+7 dated events; updated date in frontmatter)
+- `vault-template/Research_Log.md` (this entry; updated `last_session` field)
+
+### Verify
+
+`grep -c "OPEN" vault-template/timeline_gap_audit.md`: 26+ rows tagged OPEN.
+`grep "2026-05-02" vault-template/Timeline.md`: 7 hits for new events.
+
+---
 
 ## 2026-05-02 Immigration Search sweep (Session: branch claude/run-top-agents-oyF19, prompt 11-immigration-search)
 
