@@ -1,8 +1,8 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-04-25
-last_session: "2026-04-25 Markel-line source ingest: processed Lockspeisers-Mom's Maternal Aunt's Family.pdf (added today on main) + 7 chat-shared images (oval-frame portrait, Yiddish postcard, three-women photo, Markel/Karp identification key, Markel/Karp family group portrait, Heshel Markel portrait + back caption). New person files: Chawa_Frei_Lockspeiser (4th Frei sister, previously undocumented), Hersch_Lockspeiser, Lockspeiser_Children_1936_Photo, Anne_Markel, Frieda_Rita_Markel, Kate_Markel_Kaplan. New transcription/key files: Markel_Family_Portrait_Identification_Key, Yiddish_Postcard_Spa_Photo_Back_Transcription, Heshel_Markel_Vic_Hoffman_Oval_Portrait, Ruth_Gold_Aunts_Spa_Photo_Postcard. Updates to: Heschel_Herman_Markel (portrait evidence), Leah_Frei (Chawa added as 4th sister), 9 existing person files with Photographic Evidence sections. See entry below."
+updated: 2026-05-02
+last_session: "2026-05-02 Source-Citation Audit (prompt 05): 13 agent-1 person files audited, 2 NEEDS_CORROBORATION promoted to PASS, 5 new corroborating sources added across 4 files (Elizabeth_Betty_Gresham_Parker +3 sources, John_Parker_Anderson_SC +2, Hiram_Cooley +2, Elizabeth_Brasher_Henderson +1). Two confidence upgrades to high. 817 single-source files remain in carryover queue. Earlier 2026-04-25 entry: Markel-line source ingest: processed Lockspeisers-Mom's Maternal Aunt's Family.pdf (added today on main) + 7 chat-shared images (oval-frame portrait, Yiddish postcard, three-women photo, Markel/Karp identification key, Markel/Karp family group portrait, Heshel Markel portrait + back caption). New person files: Chawa_Frei_Lockspeiser (4th Frei sister, previously undocumented), Hersch_Lockspeiser, Lockspeiser_Children_1936_Photo, Anne_Markel, Frieda_Rita_Markel, Kate_Markel_Kaplan. New transcription/key files: Markel_Family_Portrait_Identification_Key, Yiddish_Postcard_Spa_Photo_Back_Transcription, Heshel_Markel_Vic_Hoffman_Oval_Portrait, Ruth_Gold_Aunts_Spa_Photo_Postcard. Updates to: Heschel_Herman_Markel (portrait evidence), Leah_Frei (Chawa added as 4th sister), 9 existing person files with Photographic Evidence sections. See entry below."
 tags: [genealogy, research, log]
 ---
 
@@ -180,6 +180,56 @@ Chronological record of every archive searched, every query run, and every resul
 - Find a Grave 403 issue persists; direct page fetches still blocked. Cannot retrieve full memorial body text; only WebSearch snippet metadata accessible.
 - Did not pursue iteration 3+ per scope cap of 2 iterations.
 - Iteration 2's "deceased ancestors with concrete dates lacking FaG" target was only partially exercised (re-searched 2 of 12+ candidates already in NOT FOUND table); the remaining backlog (Salk, Salmanson, Markel, Sternbach, Bright, Drake, Kuniansky, Kleinberg, etc.) was not re-attacked, since the existing audit table already documents those exhaustive searches and human-action items.
+
+---
+
+## 2026-05-02 Source-Citation Audit sweep (Session: branch claude/run-top-agents-oyF19, prompt 05-source-citation-audit)
+
+**Goal**: 2-iteration scoped audit of `sources` frontmatter for the 13 person files added by agent 1 (today's tree-expansion) plus quick spot-check on low-source-count files. Cap: ~10 web searches.
+
+**Baseline (start of session)**: 1121 person files in vault. Mechanical scan: 1 with 0 sources, 817 with 1 source, 100 with 2, 203 with 3+. The "0 sources" file is Srul_Mendel_Zalmanson, which actually has 9+ sources under non-standard YAML keys `tier_1_sources` and `tier_2_3_sources` (effectively PASS strong; vault-tooling artifact, not a real gap).
+
+### Iteration 1 -- Inventory of agent-1 batch (13 files)
+
+All 13 files inventoried by reading `sources:` frontmatter and `## Document Sources` section. Categorization (PRE-RUN):
+
+| Category | Count | Files |
+|---|---|---|
+| PASS (2+ independent sources) | 11 | Elizabeth_Brasher_Henderson, Hiram_Cooley, Jacob_Cooley_Jr, Martha_Ballard_Holloway, Mary_Holloway_Huff, Mary_Nancy_Parker_King, Nancy_Gover_Cooley, Olive_Mary_Polly_Henderson_Cox, Tabitha_Dolby, Thomas_Levi_Brasher_Jr, William_Holloway_Brunswick_VA |
+| NEEDS_CORROBORATION (1 effective independent source) | 2 | Elizabeth_Betty_Gresham_Parker (2 entries but both Geni-cluster derivative); John_Parker_Anderson_SC (3 entries but 2 are Geni-cluster derivative) |
+| UNSOURCED | 0 | -- |
+
+### Iteration 2 -- Web-search corroboration (6 of ~10 budget used)
+
+| # | Search | Result | Action |
+|---|---|---|---|
+| 1 | "Albert Leander Drake" 1897 Columbus MS Find a Grave | NEGATIVE (only Albert David Drake Jr. of Houston TX, not the same person) | No action; Albert_Leander_Drake remains low/single-source |
+| 2 | "Agnes Cox Long" Simpsonville 1891 Tennessee 1974 obituary | NEGATIVE | No action; Agnes_Cox_Long remains low/single-source |
+| 3 | "John Parker" Belton Anderson SC 1845 Ireland Find a Grave | POSITIVE -- WikiTree Parker-1606 (with DAR cite, RW Pvt 96th SC Militia, Ebenezer UMC Anderson SC burial) + lamartin.com Descendants of John Parker | Added 2 new sources to John_Parker_Anderson_SC; both are independent of Geni cluster |
+| 4 | "Elizabeth Gresham" Parker Anderson Co SC John Parker wife | POSITIVE -- WikiTree Parker-1940 (son John Gresham Parker 1789-1842) confirms maiden name; Find a Grave Elizabeth Parker memorial #295120930 surfaced (not added; not confirmed match) | Added Parker-1940 + lamartin.com to Elizabeth_Betty_Gresham_Parker |
+| 5 | "Cooley's Bridge" Greenville SC Hiram 1841 charter | POSITIVE -- hmdb.org Cooley's Bridge Historical Marker #9334 (independent of FaG/Geni; physical-marker text confirms Hiram Cooley c.1796-1864 cotton planter, 1841 charter); randomconnections.com paddling-Saluda local-history blog | Added 2 new sources to Hiram_Cooley |
+| 6 | "Ezekiel Henderson" Greenville SC 1846 will Brasher wife | POSITIVE -- Empty Branches on the Family Tree blog "Brasher" category (already cited on Thomas_Levi_Brasher_Jr; corroborates Brasher line for Elizabeth_Brasher_Henderson independently of WikiTree/Geni); also confirmed Ezekiel's 24 Feb 1839 will appointing Elizabeth + Brasher Henderson as exor/exrx | Added Empty Branches blog to Elizabeth_Brasher_Henderson |
+| 7 | WikiTree Parker-1606 confirmation | POSITIVE -- explicit narrative text "His wife's name was Elizabeth Gresham" | Confirms attribution; backs source already added in #3 |
+| 8 | "Tabitha Dolby" Larne 1770 King Pool emigration | NEUTRAL -- yielded irelandxo.com message-board ancestor-connect query; not added (board posts are queries, not sources) | None |
+
+### Result
+
+| Category | Pre-run (this batch) | Post-run (this batch) |
+|---|---|---|
+| PASS | 11 | 13 |
+| NEEDS_CORROBORATION | 2 | 0 |
+| UNSOURCED | 0 | 0 |
+
+**5 new corroborating sources** added across **4 files** (Elizabeth_Betty_Gresham_Parker, John_Parker_Anderson_SC, Hiram_Cooley, Elizabeth_Brasher_Henderson). Two confidence upgrades: Elizabeth_Betty_Gresham_Parker moderate -> high; John_Parker_Anderson_SC moderate -> high.
+
+**Files written/updated this run**:
+- Edited: Elizabeth_Betty_Gresham_Parker.md, John_Parker_Anderson_SC.md, Hiram_Cooley.md, Elizabeth_Brasher_Henderson.md
+- Updated: source_citation_audit.md (new 2026-05-02 section)
+- Updated: Research_Log.md (this entry)
+
+**Vault-wide PASS/NEEDS_CORROBORATION/UNSOURCED counts unchanged outside this batch**: 817 single-source files (most are MyHeritage-GEDCOM-stub template files with confidence:low) remain in the carryover queue. The Srul_Mendel_Zalmanson tier_1_sources/tier_2_3_sources YAML-key issue is filed as a vault-tooling note in the audit file.
+
+**No commits made (per agent instructions).**
 
 ---
 

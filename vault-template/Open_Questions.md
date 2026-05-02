@@ -1,8 +1,23 @@
 ---
 type: reference
 created: 2026-04-09
-updated: 2026-05-01
+updated: 2026-05-02
 tags: [genealogy, research, open-questions]
+---
+
+## 2026-05-02 session updates — Source-Citation Audit (prompt 05, scoped run)
+
+### NEW OQ #31 (OPEN, vault-tooling): Audit-script should accept `tier_1_sources` and `tier_2_3_sources` YAML keys as aliases for `sources`
+
+**Status**: Mechanical scan of the vault for source-citation count surfaces Srul_Mendel_Zalmanson.md as the only "0 sources" file. **However**, that file is actually well-sourced (9+ entries) -- a Tier 1 JewishGen Belarus Database revision-list record (NHABMinsk/333/9/420, Borisov 1850), 7 corroborating MyHeritage user trees, Geni World Family Tree, loebtree.com -- but the YAML uses non-standard frontmatter keys `tier_1_sources` and `tier_2_3_sources` instead of the conventional `sources` list. **Action**: future audit-tooling should accept these keys as aliases. Do NOT mass-rewrite Srul_Mendel_Zalmanson; the richer keying actually carries more information than a flat list.
+
+### Findings (no new OQ; logged in source_citation_audit.md)
+
+- **Albert_Leander_Drake** (1897 Columbus MS - Jun 1972 Jackson MS): single-source MyHeritage GEDCOM stub; quick WebSearch yielded no Find a Grave or independent record. Stays at confidence:low.
+- **Agnes_Cox_Long** (20 Oct 1891 Simpsonville SC - 20 Jan 1974 Tennessee): single-source MyHeritage GEDCOM stub; quick WebSearch yielded no obituary. Stays at confidence:low.
+- **John Parker (Anderson SC) birth-year discrepancy**: vault has 1753 (per Geni); WikiTree Parker-1606 (DAR-citing narrative) has 1759. Already in [[John_Parker_Anderson_SC]] §Open Items; needs a Tier 1 record (DAR application file, Revolutionary War pension file) to resolve. Not promoted to a numbered OQ this run.
+- **John Parker burial Find a Grave memorial #**: WikiTree Parker-1606 narrative references his burial at Ebenezer United Methodist Church Cemetery, Anderson SC, but does not give a memorial number; needs direct findagrave.com browse (HUMAN ACTION REQUIRED -- agentic environment 403's findagrave.com).
+
 ---
 
 ## 2026-05-02 session updates — Tree-Expansion sweep, SC maternal lines

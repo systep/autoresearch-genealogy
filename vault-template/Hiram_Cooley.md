@@ -10,6 +10,7 @@ sources:
   - "Geni Hiram Coolie (Cooley) 6000000021987423960 (Tier 3, search snippet)"
   - "Cooleys and Crafts Family History Project (gapeach2.wordpress.com 2014/02/25 Hiram Cooley 1796-1864) (Tier 2)"
   - "WikiTree Cooley genealogy index, Cooley-1134 (Jacob Jr., father), Gover-8 (Nancy Gover, mother), Woodson-784 (Mary Ann Woodson, wife) (Tier 3)"
+  - "Cooley's Bridge Historical Marker, hmdb.org #9334 (Tier 2, official historical marker citing Hiram Cooley c.1796-1864 cotton planter, 1841 charter, 1600+ acres, retrieved via WebSearch 2026-05-02)"
 created: 2026-05-02
 tags: [genealogy, cooley, person, south-carolina, greenville]
 ---
@@ -55,6 +56,8 @@ This file extends the Cooley pedigree two generations beyond the prior vault kno
 | WikiTree Gover-8 (Nancy Gover Cooley, mother) | user-contributed tree (Tier 3) | https://www.wikitree.com/wiki/Gover-8 |
 | WikiTree Woodson-784 (Mary Ann Woodson Cooley, wife) | user-contributed tree (Tier 3) | https://www.wikitree.com/wiki/Woodson-784 |
 | Find a Grave Memorial #25824984 (Mary Ann Woodson Cooley) | cemetery memorial (Tier 2) | https://www.findagrave.com/memorial/25824984/mary-ann-cooley |
+| Cooley's Bridge Historical Marker (HMdb.org #9334) | official historical marker (Tier 2) | https://www.hmdb.org/m.asp?m=9334 |
+| randomconnections.com "Paddling the Saluda River from Cooley's Bridge" | local-history blog (Tier 3) | https://www.randomconnections.com/paddling-the-saluda-river-from-cooleys-bridge/ |
 
 ## Data Discrepancies
 

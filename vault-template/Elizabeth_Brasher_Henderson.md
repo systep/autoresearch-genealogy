@@ -10,6 +10,7 @@ sources:
   - "Geni World Family Tree (Tier 3, via Brasher Henderson son's record)"
   - "WikiTree Henderson-1855 (Tier 3, husband Ezekiel Henderson)"
   - "WikiTree Brasher-122 (Tier 3, father Thomas Levi Brasher Jr.)"
+  - "Empty Branches on the Family Tree blog 'Brasher' category (Tier 2 published genealogy, retrieved via WebSearch 2026-05-02; corroborates Thomas Brasher Sr Orange Co NC 1784 line)"
 created: 2026-05-02
 tags: [genealogy, brasher, henderson, person, south-carolina, greenville, north-carolina, chatham]
 ---
@@ -46,3 +47,4 @@ The "Brasher" surname is traced to Baltimore MD via Thomas Levi Brasher Sr. (bap
 | WikiTree Brasher-122 (Thomas Levi Brasher Jr.) | user-contributed tree (Tier 3) | https://www.wikitree.com/wiki/Brasher-122 |
 | WikiTree Henderson-1855 (Ezekiel Henderson, husband) | user-contributed tree (Tier 3) | https://www.wikitree.com/wiki/Henderson-1855 |
 | Geni Brasher Henderson #6000000004680069328 (son's record) | user-contributed tree (Tier 3) | https://www.geni.com/people/Brasher-Henderson/6000000004680069328 |
+| Empty Branches on the Family Tree, "Brasher" category | published genealogy blog (Tier 2) | https://emptybranchesonthefamilytree.com/category/brasher/ |

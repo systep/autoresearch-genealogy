@@ -4,11 +4,13 @@ name: "John Parker"
 born: 1753
 died: 1845-06-04
 family: "Parker"
-confidence: moderate
+confidence: high
 sources:
   - "Geni John Parker 6000000029308766517 (Tier 3, search snippet)"
   - "Geni Mary King (Parker) 6000000029308748067 (Tier 3, search snippet, daughter's record)"
   - "WikiTree Parker genealogy index (Tier 3, search snippet)"
+  - "WikiTree Parker-1606 (John Parker 1759-1845; DAR records cited; Revolutionary War Pvt 96th District SC Militia; buried Ebenezer United Methodist Church Cemetery, Anderson SC) (Tier 2/3 hybrid, retrieved via WebSearch 2026-05-02)"
+  - "lamartin.com 'Descendants of John Parker' (Tier 3 standalone genealogy site, retrieved 2026-05-02)"
 created: 2026-05-02
 tags: [genealogy, parker, person, ireland, south-carolina, anderson, belton]
 ---
@@ -43,6 +45,8 @@ The Anderson County SC settlement context strongly suggests John Parker was part
 | Geni profile John Parker (1753-1845) #6000000029308766517 | user-contributed tree (Tier 3) | https://www.geni.com/people/John-Parker/6000000029308766517 |
 | Geni profile Mary King (Parker) #6000000029308748067 | user-contributed tree (Tier 3) | https://www.geni.com/people/Mary-King/6000000029308748067 |
 | WikiTree Parker genealogy index | user-contributed tree (Tier 3) | https://www.wikitree.com/genealogy/PARKER |
+| WikiTree Parker-1606 (John Parker 1759-1845; DAR records, Revolutionary War service, Ebenezer UMC burial) | user-contributed tree citing DAR (Tier 2/3 hybrid) | https://www.wikitree.com/wiki/Parker-1606 |
+| lamartin.com "Descendants of John Parker" | online published genealogy (Tier 3) | https://www.lamartin.com/genealogy/parker.htm |
 
 ## Open Items
 

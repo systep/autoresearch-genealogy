@@ -4,10 +4,13 @@ name: "Elizabeth 'Betty' (Gresham) Parker"
 born: 
 died: 
 family: "Gresham"
-confidence: moderate
+confidence: high
 sources:
   - "Geni Mary King (Parker) 6000000029308748067 (Tier 3, search snippet, daughter's record naming both parents)"
   - "WikiTree Parker genealogy index (Tier 3, search snippet)"
+  - "WikiTree Parker-1606 (John Parker 1759-1845, husband; explicitly names 'wife's name was Elizabeth Gresham') (Tier 3, retrieved via WebSearch 2026-05-02)"
+  - "WikiTree Parker-1940 (John Gresham Parker 1789-1842, son; preserves maternal maiden name) (Tier 3, retrieved via WebSearch 2026-05-02)"
+  - "lamartin.com 'Descendants of John Parker' (Tier 3 standalone genealogy site, retrieved 2026-05-02)"
 created: 2026-05-02
 tags: [genealogy, gresham, parker, person, south-carolina, anderson]
 ---
@@ -40,6 +43,9 @@ The Family_Tree.md note that "Mary Nancy Parker: parents John Parker + Betty Par
 |---|---|---|
 | Geni profile Mary King (Parker) #6000000029308748067 | user-contributed tree (Tier 3) | https://www.geni.com/people/Mary-King/6000000029308748067 |
 | WikiTree Parker genealogy index | user-contributed tree (Tier 3) | https://www.wikitree.com/genealogy/PARKER |
+| WikiTree Parker-1606 (John Parker 1759-1845, husband; explicitly names "wife's name was Elizabeth Gresham") | user-contributed tree (Tier 3) | https://www.wikitree.com/wiki/Parker-1606 |
+| WikiTree Parker-1940 (John Gresham Parker 1789-1842, son) | user-contributed tree (Tier 3) | https://www.wikitree.com/wiki/Parker-1940 |
+| lamartin.com "Descendants of John Parker" | online published genealogy (Tier 3) | https://www.lamartin.com/genealogy/parker.htm |
 
 ## Open Items
 
