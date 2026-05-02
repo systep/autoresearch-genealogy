@@ -26,7 +26,7 @@ tags: [genealogy, dolby, king, person, ireland, south-carolina, anderson]
 | Birthplace | Ireland | WikiTree, Find a Grave |
 | Died | 14 May 1815 | Find a Grave Memorial #48870181 |
 | Death place | Belton, Anderson District, South Carolina | WikiTree |
-| Burial | (not yet retrieved; Find a Grave memorial exists) | Find a Grave #48870181 |
+| Burial | King Family Cemetery, Belton, Anderson Co, SC (#2343580); GPS 34.498985, -82.5028869 | Find a Grave #48870181 (verified via WebSearch snippet 2026-05-02) |
 | Father | Unknown (search snippet notes she "was related to the Pools") | NOT NAMED in indexed sources |
 | Mother | Unknown | NOT NAMED in indexed sources |
 | Spouse | [[Robert_King_II]] (c. 1750 Ireland - 13 Dec 1826 Anderson Co SC) | WikiTree King-12061 |
@@ -58,3 +58,7 @@ The search snippet for WikiTree Dolby-84 notes Tabitha "was related to the Pools
 
 - Tabitha's parents are not named in any free-web source. Probably resolvable via Larne/Antrim parish registers (PRONI Belfast, ulster-ancestry.com), or the Robert King II Larne 1770 Research vault file already exists at [[Robert_King_II_Larne_1770_Research_2026_04_19]].
 - "Related to the Pools" hint is a useful Y- or autosomal-DNA correlation candidate but not actionable on free web.
+
+## Find a Grave Cemetery Cluster
+
+Buried at the King Family Cemetery, Belton SC (FaG cemetery #2343580), the same cemetery as her husband [[Robert_King_II]] (FaG #48870135). Memorial states "wife, mother, founder and keeper of her household, caring for 21 children" and notes a commemorative stone was erected by her only surviving grandson in 1929.

@@ -1,7 +1,7 @@
 ---
 type: reference
 created: 2026-04-10
-updated: 2026-04-19
+updated: 2026-05-02
 tags: [genealogy, audit, findagrave]
 ---
 
@@ -231,3 +231,86 @@ Focus branches this run: Brecht/Bright PA, Kuniansky Atlanta cluster, Drake Miss
 7. **Floyd County VA cemeteries**: Browse Find a Grave cemetery listings for Floyd County VA for George Bright Sr. burial.
 8. **Greenville County SC cemeteries**: Search Standing Springs Cemetery and other Simpsonville-area cemeteries for Jeddiah W. Clark.
 9. **Atlanta GA / Palm Beach FL cemeteries**: Search for Rebecca Moseley Bright (d. 1985, Atlanta) and Albert Graham Bright (d. 1961, Delray Beach FL).
+
+## 2026-05-02 Sweep: 13 New Person Files from 01-tree-expansion (Session: branch claude/run-top-agents-oyF19, prompt 03-findagrave-sweep)
+
+**Scope**: 2-iteration sweep, ~10 deceased persons per iteration. Priority: 13 new person files added by today's `01-tree-expansion` run, then deceased ancestors lacking Find a Grave links. Find a Grave direct WebFetch still returns HTTP 403; rely on WebSearch result snippets for memorial numbers + cemetery names. Candidates with snippet-only evidence flagged for human verification.
+
+### Iteration 1 (10 of 13 new person files)
+
+#### FOUND (new this sweep, 2026-05-02 iteration 1)
+
+| Person | Dates | Cemetery | Memorial # | New Data Extracted | Status |
+|---|---|---|---|---|---|
+| Tabitha (Dolby) King | 1756-04-20 to 1815-05-14 | King Family Cemetery, Belton, Anderson Co, SC (#2343580) | #48870181 | Commemorative stone erected by only surviving grandson 1929. Emigrated from Ireland with husband Robert King 1770. "Wife, mother, founder and keeper of her household, caring for 21 children." GPS 34.498985, -82.5028869. Vault Family_Tree.md birth "c. 1750" remains unchanged per Guard Rail #3; refined date 1756-04-20 already cited in vault file as Tier 2. | FOUND (verified: name+death date+location all match; birth-year discrepancy already documented in cross_reference_audit.md #71) |
+| Hiram Cooley | 1796 to 1864-04-02 | Hiram Cooley Plantation Cemetery, Greenville Co, SC (#2256431) | #25824932 | Cemetery name confirms vault burial location. Cemetery is named after this person and contains family burials including Jacob Cooley Jr. and Nancy Gover Cooley. Located ~100 yards off Smith Circle, Greenville Co. | FOUND (verified: name+dates+location all match) |
+| Jacob Cooley Jr. | 1760 to 1826 (vault) / 1760 to 1825 (FaG snippet) | Hiram Cooley Plantation Cemetery, Greenville Co, SC (#2256431) | #204500337 | Plot marked unmarked. Created by Keith Henderson 2019. Birth listed as Cumberland, Virginia (vault has Pittsylvania VA per WikiTree). Death year discrepancy: vault 1826 (will dated Feb 2, 1826) vs FaG snippet 1825. | FOUND (verified: name+location+death-year-approx match; date discrepancy logged below) |
+| Nancy (Gover) Cooley | 1763 to before 1844 (vault) / 1763 to 1842 (FaG) | Hiram Cooley Plantation Cemetery, Greenville Co, SC (#2256431) | #204500423 | Birthplace Prince George's County, Maryland. Parents John Gover (1732-1790) + Elizabeth Duvall (1738-1820). Plot unmarked. Created by Keith Henderson 2019-11-06. Death refined to 1842 (vault had "before 1844"). | FOUND (verified: name+approx-dates+location all match; death year refined) |
+
+#### CANDIDATE (snippet-level match, requires human verification)
+
+| Person | Dates | Cemetery | Memorial # | Search Evidence | Status |
+|---|---|---|---|---|---|
+| John Parker (Anderson SC) | 1753 to 1845-06-04 (vault) / 1759 to 1845 (WikiTree) | Ebenezer United Methodist Church Cemetery, Anderson, SC (#2151048 or #69920 or #2487152, all in Anderson Co SC) | (no specific memorial ID located via web search) | WikiTree Parker-1606 (b. 1759 Ireland, emigrated via Charleston 1766, RevWar 1775-1781, d. June 1845 Anderson District SC, "buried in the churchyard of the Ebenezer United Methodist Church, in Anderson, South Carolina"). FaG memorial referenced ("there is a photograph of his headstone as well as another source document") but no memorial ID returned in any of 3 web-search variants. | CANDIDATE, requires human verification (search findagrave.com browser within Ebenezer UMC Anderson SC cemetery) |
+
+#### NOT FOUND (no Find a Grave memorial located via web search)
+
+| Person | Dates | Expected Burial | Searches Tried | Status |
+|---|---|---|---|---|
+| Mary Nancy (Parker) King | 1787-03-08 to 1853-06-08 | Anderson Co, SC (likely Belton; husband James King line buried at King Family Cemetery #2343580) | "Find a Grave" "Mary Nancy King" 1787 1853 Anderson SC; "Find a Grave" "Mary Parker King" 1853 Belton; "Mary King" Parker James cemetery South Carolina | NO_MEMORIAL_FOUND |
+| Olive Mary "Polly" (Henderson) Cox | 1795-03-29 to 1876-08-21 | Greenville Co, SC (likely Standing Springs Cemetery where Cox/Henderson family clusters) | "Find a Grave" "Olive Mary Cox" Greenville; "Find a Grave" "Polly Cox" 1795 1876 Greenville SC Henderson; "Polly Cox" Henderson Thomas Greenville | NO_MEMORIAL_FOUND (a different "Mary Polly Cox 1836-1894" #95065810 is NOT this person; she lived in NC) |
+| Elizabeth (Brasher) Henderson | 1764 to 1839 | Greenville Co, SC (husband Ezekiel d. Greenville 1846) | "Find a Grave" "Elizabeth Brasher" 1764 1839 Greenville SC; "Elizabeth Henderson" Brasher 1839 Greenville | NO_MEMORIAL_FOUND |
+| Thomas Levi Brasher Jr. | 1731-06-18 to c. 1789 | Greenville Co, SC (will and 1790 Census widow location) | "Find a Grave" "Thomas Brasher" 1731 1789 Greenville SC Sarah Lindsey; site:findagrave.com "Thomas Brasher" 1789 Greenville | NO_MEMORIAL_FOUND (FaG memorial for son Henry Collins Brasher Sr. #66620694 explicitly notes contributor "could not find a Find a Grave memorial for Thomas Brasher and Sarah Lindsey") |
+| William Holloway (Brunswick VA) | c. 1737 to 1784-10 | Brunswick Co, VA (will proved 22 Nov 1784) | "Find a Grave" "William Holloway" 1737 1784 Brunswick Virginia; multiple William Holloway memorials in VA exist (1765-1838, 1757-1850, 1842-1923) but none match 1737-1784 | NO_MEMORIAL_FOUND |
+| Mary (Holloway) Huff | unknown to after 1777 | Brunswick Co, VA | "Find a Grave" "Mary Holloway Huff" Brunswick VA 1777 OR 1780; "Mary Huff" widow Daniel Huff Brunswick | NO_MEMORIAL_FOUND |
+
+**Iteration 1 verify count**: NO_MEMORIAL_FOUND + NEEDS_FINDAGRAVE rows in registry: see below.
+
+### Iteration 2 (3 remaining new files + ~7 deceased ancestors lacking FaG link)
+
+#### Persons checked in Iteration 2
+
+| Person | Vault Status | Iteration 2 Result |
+|---|---|---|
+| Martha (Ballard) Holloway | new file, d. 1784-1789 Brunswick VA | NO_MEMORIAL_FOUND |
+| Elizabeth "Betty" (Gresham) Parker | new file, dates unknown | SKIP (no death date / burial location to constrain search) |
+| (3rd of 13 already covered as candidate: John Parker — see iter 1) | | |
+
+
+#### NOT FOUND (Iteration 2)
+
+| Person | Dates | Expected Burial | Searches Tried | Status |
+|---|---|---|---|---|
+| Martha (Ballard) Holloway | b. 1735 (vault) / abt. 1750 (WikiTree Ballard-1268) to 1784-1789 | Brunswick Co, VA (probable; estate sale 1 Apr 1789) | "Find a Grave" "Martha Holloway" Brunswick VA 1789; "Martha Ballard" Holloway will. A different Martha Moore Ballard (1735-1812) #173133854 is the Maine midwife/diarist, not this person. | NO_MEMORIAL_FOUND |
+| Thomas B. Cox (re-search) | 1792-05-15 to 1857-06-12 | Standing Springs Cemetery, Greenville Co, SC | "Find a Grave" "Thomas B. Cox" 1792 1857 Greenville SC; Standing Springs Henderson | NO_MEMORIAL_FOUND (re-confirms 2026-04-10 finding; FamilySearch ancestors page exists but no FaG memorial) |
+| Ezekiel Henderson (re-search) | 1763 to 1846-11-02 | Greenville Co, SC | "Find a Grave" "Ezekiel Henderson" 1763 1846 Greenville SC Brasher; only Pvt Ezekiel Henderson (1832-1865) #27723903 returned (different person, his grandson) | NO_MEMORIAL_FOUND (re-confirms prior finding) |
+
+#### CANDIDATE (Iteration 2)
+
+(none beyond iteration 1 John Parker)
+
+### Iteration 2 verify count: see Summary update below.
+
+### Iteration 2 Summary (2026-05-02 sweep)
+
+**Persons checked this sweep**: 13 unique persons (10 in iter 1 + 3 in iter 2). Of the 13 new files from agent 1's 01-tree-expansion run, 12 have death dates allowing search; 1 (Elizabeth "Betty" Gresham Parker) has no death date and was skipped. The ~7 deceased ancestors with concrete dates already lacking FaG were partially covered via re-search of Thomas B. Cox + Ezekiel Henderson (both still NO_MEMORIAL_FOUND).
+
+**Memorials confirmed (verified name+dates+location all align)**: 4
+- Tabitha (Dolby) King #48870181 (King Family Cemetery, Belton SC)
+- Hiram Cooley #25824932 (Hiram Cooley Plantation Cemetery, Greenville SC)
+- Jacob Cooley Jr. #204500337 (Hiram Cooley Plantation Cemetery, Greenville SC) — minor death-year discrepancy 1825 vs 1826 noted
+- Nancy (Gover) Cooley #204500423 (Hiram Cooley Plantation Cemetery, Greenville SC) — death year refined to 1842
+
+**Candidates flagged for human verification**: 1
+- John Parker (Anderson SC) — Ebenezer UMC Anderson SC referenced by WikiTree but no specific memorial number located via 4 web-search variants. Plus existing date discrepancy (vault 1753 vs WikiTree 1759 — already logged in cross_reference_audit.md as Discrepancy #71-related; deferred per Guard Rail #3).
+
+**No memorial found**: 8 (Mary Nancy Parker King, Olive Mary Polly Henderson Cox, Elizabeth Brasher Henderson, Thomas Levi Brasher Jr., William Holloway Brunswick VA, Mary Holloway Huff, Martha Ballard Holloway, plus re-confirmation of Thomas B. Cox and Ezekiel Henderson)
+
+**Discrepancies between Find a Grave and vault data (NOT silently changed; logged here for human review)**:
+1. **Tabitha Dolby King birth**: vault Family_Tree.md "c. 1750" vs FaG #48870181 "April 20, 1756". Already logged as cross_reference_audit.md Discrepancy #71 by agent 2 today; FaG memorial now provides corroborating Tier 2 evidence for the 1756 date already recorded in [[Tabitha_Dolby]] file. Resolution still deferred per Guard Rail #3 of expansion prompt.
+2. **Jacob Cooley Jr. death year**: vault 1826 (will dated Feb 2, 1826, executed and witnessed) vs FaG #204500337 snippet "1760-1825". Vault primary source (will) takes precedence per Source Hierarchy. Logged here; not changed.
+3. **Jacob Cooley Jr. birthplace**: vault Pittsylvania VA (per WikiTree Cooley-1134) vs FaG snippet "Cumberland, Virginia". Need primary source (Cooley family bible or 1820 census) to resolve.
+4. **Nancy Gover Cooley death**: vault "before 1844" (WikiTree placeholder) vs FaG #204500423 "1842". FaG more specific; if a Tier-1 source backs the 1842 date, vault should be updated. Logged for human review.
+
+**Find a Grave 403 issue persists** (consistent with all 2026-04-10/04-18/04-19 sweeps): direct page fetches return HTTP 403; only WebSearch snippet metadata accessible.
+

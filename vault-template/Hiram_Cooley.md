@@ -24,7 +24,7 @@ tags: [genealogy, cooley, person, south-carolina, greenville]
 | Born | 1796 | Cooleys and Crafts; Find a Grave #25824932 |
 | Birthplace | Greenville, South Carolina | Cooleys and Crafts; Geni |
 | Died | 2 April 1864 | Cooleys and Crafts; Find a Grave #25824932 |
-| Burial | (Find a Grave #25824932 -- specific cemetery not yet retrieved) | Find a Grave |
+| Burial | Hiram Cooley Plantation Cemetery, Greenville Co, SC (FaG cemetery #2256431); located ~100 yards off Smith Circle | Find a Grave #25824932 (verified via WebSearch snippet 2026-05-02) |
 | Father | [[Jacob_Cooley_Jr]] (1760-1826) | WikiTree Cooley-1134 (Tier 3); Geni |
 | Mother | [[Nancy_Gover_Cooley]] (1763-bef. 1844) | WikiTree Gover-8 (Tier 3) |
 | Spouse (1) | Susan Cothran (had 2 children with her per existing vault note in [[Charstee_King]]) | Cooleys and Crafts |
@@ -40,7 +40,7 @@ Hiram married first **Susan Cothran** (2 children) and second **Mary Ann Woodson
 
 In 1841, Hiram was granted a charter to operate a bridge in Greenville County, SC, which became known as **Cooley's Bridge** -- a local landmark.
 
-He died 2 April 1864 and is buried per Find a Grave Memorial #25824932 (specific cemetery to be retrieved when Find a Grave fetch is unblocked).
+He died 2 April 1864 and is buried in **Hiram Cooley Plantation Cemetery** (FaG cemetery #2256431), Greenville County, SC, the cemetery on his own former plantation, located ~100 yards off Smith Circle. The same cemetery contains his parents Jacob Cooley Jr. (FaG #204500337) and Nancy Gover Cooley (FaG #204500423). Memorial #25824932 verified via WebSearch snippet 2026-05-02.
 
 This file extends the Cooley pedigree two generations beyond the prior vault knowledge in [[Charstee_King]] (which already named John Joseph Cooley + Mary Ann Woodson as Charstee's grandparents).
 

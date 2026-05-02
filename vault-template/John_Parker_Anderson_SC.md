@@ -24,7 +24,7 @@ tags: [genealogy, parker, person, ireland, south-carolina, anderson, belton]
 | Birthplace | Ireland | Geni (search snippet) |
 | Died | 4 June 1845 | Geni (search snippet) |
 | Death place | Belton, Anderson County, South Carolina | Geni (search snippet) |
-| Burial | (not yet retrieved) | -- |
+| Burial | Likely Ebenezer United Methodist Church Cemetery, Anderson, SC (Anderson Co SC, FaG cemetery #2151048 / #69920 / #2487152, possible variants); CANDIDATE pending direct findagrave.com browser search | WikiTree Parker-1606 narrative (search snippet 2026-05-02) reports "buried in the churchyard of the Ebenezer United Methodist Church, in Anderson, South Carolina" with FaG memorial referenced but specific memorial number not located via web search |
 | Father | Unknown | -- |
 | Mother | Unknown | -- |
 | Spouse | [[Elizabeth_Betty_Gresham_Parker]] | Geni daughter's record (Tier 3) |
@@ -48,4 +48,4 @@ The Anderson County SC settlement context strongly suggests John Parker was part
 
 - John Parker's own parents (the immigrant generation) are not named in indexed sources.
 - A WikiTree profile for this John Parker does not appear in the snippet (only Parker-1289 / Parker-1783 which are different individuals); creating one is a future contribution opportunity.
-- Belton SC burial location not yet retrieved; Find a Grave is blocked from this environment.
+- Burial location candidate: Ebenezer United Methodist Church Cemetery, Anderson, SC, per WikiTree Parker-1606 narrative (search snippet 2026-05-02). Specific Find a Grave memorial number not retrieved via web search; needs direct findagrave.com browser search within Ebenezer UMC Anderson SC cemetery (FaG cemetery #2151048 or variants). Birth-year discrepancy (vault 1753 vs WikiTree 1759) remains an open data discrepancy.

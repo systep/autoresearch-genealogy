@@ -124,6 +124,65 @@ Chronological record of every archive searched, every query run, and every resul
 
 ---
 
+## 2026-05-02 Find a Grave sweep (Session: branch claude/run-top-agents-oyF19, prompt 03-findagrave-sweep)
+
+**Goal**: 2-iteration sweep targeting the 13 person files added today by `01-tree-expansion`, then deceased ancestors lacking a Find a Grave reference. Cap: ~10 persons per iteration; ~20 total. Find a Grave direct WebFetch returns HTTP 403 (consistent with all prior sweeps); rely on WebSearch result snippets for memorial numbers, names, dates, cemetery names. Snippet-only candidates flagged for human verification.
+
+**Persons checked (13 unique)**: 12 of the 13 new files (Tabitha_Dolby, Mary_Holloway_Huff, John_Parker_Anderson_SC, Mary_Nancy_Parker_King, Olive_Mary_Polly_Henderson_Cox, Elizabeth_Brasher_Henderson, William_Holloway_Brunswick_VA, Martha_Ballard_Holloway, Hiram_Cooley, Jacob_Cooley_Jr, Nancy_Gover_Cooley, Thomas_Levi_Brasher_Jr) + 2 re-search of older NO_MEMORIAL_FOUND ancestors (Thomas_B_Cox, Ezekiel_Henderson). Skipped: Elizabeth_Betty_Gresham_Parker (no death date / burial location to constrain search).
+
+### Memorials confirmed (4 vault person files updated)
+
+| Person | Memorial # | Cemetery |
+|---|---|---|
+| [[Tabitha_Dolby]] | #48870181 | King Family Cemetery, Belton, Anderson Co, SC (FaG #2343580); commemorative stone erected 1929 by sole surviving grandson |
+| [[Hiram_Cooley]] | #25824932 | Hiram Cooley Plantation Cemetery, Greenville Co, SC (FaG #2256431); cemetery is on his former plantation |
+| [[Jacob_Cooley_Jr]] | #204500337 | Hiram Cooley Plantation Cemetery, Greenville Co, SC (FaG #2256431); plot unmarked |
+| [[Nancy_Gover_Cooley]] | #204500423 | Hiram Cooley Plantation Cemetery, Greenville Co, SC (FaG #2256431); plot unmarked |
+
+### Candidates for human verification (1)
+
+- [[John_Parker_Anderson_SC]]: WikiTree Parker-1606 narrative (search snippet) reports burial at Ebenezer United Methodist Church Cemetery, Anderson SC. No specific memorial number located via 4 web-search variants; possible cemetery IDs #2151048 / #69920 / #2487152. Existing date discrepancy (vault 1753 vs WikiTree 1759) remains.
+
+### Discrepancies between Find a Grave snippet data and vault data (logged, NOT silently changed)
+
+1. **Tabitha Dolby King birth**: vault Family_Tree.md "c. 1750" vs FaG #48870181 "April 20, 1756". Already logged as cross_reference_audit.md Discrepancy #71 by today's earlier audit agent; FaG now provides corroborating Tier-2 evidence for the 1756 date already stored in the [[Tabitha_Dolby]] vital-info table. Resolution still deferred per Guard Rail #3 of the expansion prompt.
+2. **Jacob Cooley Jr. death year**: vault 1826 (will dated 2 Feb 1826, Tier-1 derived) vs FaG #204500337 snippet "1760-1825". Vault retained per Source Hierarchy. New ## Data Discrepancies section added to [[Jacob_Cooley_Jr]].
+3. **Jacob Cooley Jr. birthplace**: vault Pittsylvania VA (inferred from marriage location) vs FaG snippet "Cumberland, Virginia". Logged as Open Question in [[Jacob_Cooley_Jr]] Data Discrepancies.
+4. **Nancy Gover Cooley death**: vault "before 1844" (WikiTree placeholder) vs FaG #204500423 "1842". Biography text updated in [[Nancy_Gover_Cooley]] to cite the 1842 date with Tier-2 source; YAML `died:` field retained as "before 1844" pending Tier-1 verification.
+5. **John Parker birth year**: vault 1753 (Geni) vs WikiTree Parker-1606 1759. Already noted in [[John_Parker_Anderson_SC]] as a moderate-confidence date; not a new finding.
+
+### No memorial found (8 person rows)
+
+| Person | Expected Burial | Status |
+|---|---|---|
+| [[Mary_Holloway_Huff]] | Brunswick Co VA | NO_MEMORIAL_FOUND |
+| [[Mary_Nancy_Parker_King]] | Anderson Co SC (likely Belton, husband line) | NO_MEMORIAL_FOUND |
+| [[Olive_Mary_Polly_Henderson_Cox]] | Greenville Co SC (likely Standing Springs) | NO_MEMORIAL_FOUND |
+| [[Elizabeth_Brasher_Henderson]] | Greenville Co SC | NO_MEMORIAL_FOUND |
+| [[Thomas_Levi_Brasher_Jr]] | Greenville Co SC | NO_MEMORIAL_FOUND (FaG memorial for son Henry Collins Brasher Sr. #66620694 explicitly notes contributor "could not find a Find a Grave memorial for Thomas Brasher and Sarah Lindsey") |
+| [[William_Holloway_Brunswick_VA]] | Brunswick Co VA | NO_MEMORIAL_FOUND (3 different William Holloway memorials in VA exist but none match 1737-1784) |
+| [[Martha_Ballard_Holloway]] | Brunswick Co VA | NO_MEMORIAL_FOUND |
+| [[Thomas_B_Cox]] (re-search) | Standing Springs Cemetery, Greenville Co SC | NO_MEMORIAL_FOUND (re-confirms 2026-04-10 finding) |
+| [[Ezekiel_Henderson]] (re-search) | Greenville Co SC | NO_MEMORIAL_FOUND (only Pvt Ezekiel Henderson 1832-1865 #27723903 returned, a different person who is his grandson) |
+
+### Files updated (2026-05-02 Find a Grave sweep)
+
+- New section appended to: [[findagrave_audit]] (~95 lines: iteration 1 + iteration 2 sub-sections, FOUND/NOT FOUND/CANDIDATE tables, summary, discrepancy list, frontmatter `updated:` bumped to 2026-05-02)
+- Person files updated: [[Tabitha_Dolby]] (cemetery added to vital-info table; Find a Grave Cemetery Cluster section added), [[Hiram_Cooley]] (cemetery added to vital-info table; biography updated), [[Jacob_Cooley_Jr]] (cemetery added; ## Data Discrepancies section added; FaG source line added to YAML), [[Nancy_Gover_Cooley]] (birthplace, parents, cemetery added; biography updated; ## Data Discrepancies section added; FaG source line added to YAML), [[John_Parker_Anderson_SC]] (candidate cemetery added to vital-info table; Open Items revised)
+- This file: [[Research_Log]]
+
+### Verify (final)
+
+`grep -c "NO_MEMORIAL_FOUND\|NEEDS_FINDAGRAVE" vault-template/findagrave_audit.md` = 73 (up from 57 prior to this sweep: +12 NO_MEMORIAL_FOUND from this sweep's 8 new persons logged + 4 cross-references in summary text; 4 FOUND with valid memorial numbers do not contribute to NO_MEMORIAL_FOUND; +1 CANDIDATE line for John Parker does not contribute either).
+
+### Negative results / not done
+
+- Find a Grave 403 issue persists; direct page fetches still blocked. Cannot retrieve full memorial body text; only WebSearch snippet metadata accessible.
+- Did not pursue iteration 3+ per scope cap of 2 iterations.
+- Iteration 2's "deceased ancestors with concrete dates lacking FaG" target was only partially exercised (re-searched 2 of 12+ candidates already in NOT FOUND table); the remaining backlog (Salk, Salmanson, Markel, Sternbach, Bright, Drake, Kuniansky, Kleinberg, etc.) was not re-attacked, since the existing audit table already documents those exhaustive searches and human-action items.
+
+---
+
 ## (legacy entry below) -- 2026-05-02 placeholder for next session marker
 
 (no legacy text -- session boundary)
