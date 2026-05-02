@@ -11,6 +11,8 @@ sources:
   - "WikiTree Huff-446 (Philemon Huff, Tier 3, search snippet)"
   - "Brunswick County Index to Wills and Administrations 1733-1800 (USGenWeb, Tier 2)"
   - "Bmgen.com Will VA Brunswick Vol 2 Books 4-5 (Tier 2 transcription)"
+  - "FamilyCentral.net Philemon Huff/Martha Parham profile (Tier 3, independent of WikiTree, identifies Mary as Daniel's second wife)"
+  - "George Holloway 1709-1759 Lunenburg VA will (Tier 1, USGenWeb wills1746-1825-b.txt, names sons + Dianah/Ann but no Mary)"
 created: 2026-05-02
 tags: [genealogy, holloway, huff, person, virginia, brunswick]
 ---
@@ -26,9 +28,9 @@ tags: [genealogy, holloway, huff, person, virginia, brunswick]
 | Birthplace | (Probably) Brunswick County, Virginia | inferred (residence at marriage) |
 | Died | After 1777 | inferred (administered husband's estate after probate Nov 1777) |
 | Burial | Unknown | |
-| Father | Unknown -- possibly **William Holloway** of Brunswick Co VA (named on 1768 polls; served as security on Mary's administration of Daniel Huff's estate). Father vs. brother is not explicitly stated in sources. (unverified) | Brunswick County records (Tier 2 transcription); WikiTree (Tier 3) |
+| Father | Unknown -- but per FamilyCentral.net (Tier 3, independent of WikiTree) and George Holloway (1709-1759) Lunenburg VA 1759 will (Tier 1, USGenWeb wills1746-1825-b.txt), **Mary is not named in any extant Holloway will** — neither William Holloway's 1784 Brunswick will nor George Holloway's 1759 Lunenburg will. The 1759 will lists daughters Dianah and Ann (no Mary), and lists sons William, Bennett, John, James, George, Thomas. Most likely she was already married before 1759 and excluded from George's will per colonial custom of excluding portion-receiving married daughters, OR she descends from a different Brunswick-area Holloway branch. William Holloway (d. 1784) is most plausibly her **brother** (not father) per the 1784 will exclusion + administration-bond pattern. (unverified) | Brunswick County records (Tier 2 transcription); FamilyCentral.net (Tier 3); WikiTree (Tier 3); George Holloway 1759 will (Tier 1 transcription) |
 | Mother | Unknown | |
-| Spouse | [[Daniel_Huff_Brunswick]] (c. 1715 - 1777 Brunswick Co VA) | WikiTree Huff-1770 |
+| Spouse | [[Daniel_Huff_Brunswick]] (c. 1715 - 1777 Brunswick Co VA) — **Mary was Daniel's second wife** (FamilyCentral.net, Tier 3, independent of WikiTree). Daniel's first wife's name is unknown. | WikiTree Huff-1770; FamilyCentral.net Philemon Huff/Martha Parham profile |
 | Children | Daniel Jr., Philemon (b. 1763 -> [[James_Huff]]'s brother), Reuben, Lewis, [[James_Huff]] (b. 14 Feb 1768) | Daniel Huff's 1773 will, probated 24 Nov 1777 (Brunswick Co VA Will Book) |
 
 ## Biography
@@ -49,5 +51,7 @@ The use of "Holloway" as a given name pattern in descendant lines (Martha "Patty
 
 ## Open Items
 
-- Mary's parents not yet identified. William Holloway of Brunswick Co VA (1768 polls; security on her admin) is the strongest candidate for father or brother but not confirmed by primary record naming the relationship.
-- Brunswick Co VA Will Book pages for William Holloway's own will (if extant) would resolve the relationship. See [[timeline_gaps]].
+- Mary's parents not yet identified. William Holloway of Brunswick Co VA (d. 1784; 1768 polls; security on her admin) is now most likely her **brother**, not father, per his 1784 will not naming her as a daughter. See [[Open_Questions]] OQ #30 (PARTIALLY_RESOLVED 2026-05-02).
+- George Holloway (1709-1759, Lunenburg/Mecklenburg VA), son of David Holloway + Elizabeth Mathews, is a candidate "grandfather generation": his 1759 will names sons William, Bennett, John, James, George, Thomas + daughters Dianah, Ann (no Mary). If "our" William is the William named in this will, then Mary as William's sister would also be a child of George — but the absence of "Mary" from George's daughters list weakens this hypothesis. Resolution requires Brunswick Co deed/probate records or a Holloway brother's will naming Mary.
+- Daniel Huff's first wife's name and any children of that marriage are unknown.
+- Brunswick Co VA Will Book pages for William Holloway's own will (now read at vault [[William_Holloway_Brunswick_VA]]). See [[timeline_gaps]].

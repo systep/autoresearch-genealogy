@@ -4,7 +4,7 @@ name: "Tabitha Dolby King"
 born: 1756-04-20
 died: 1815-05-14
 family: "Dolby"
-confidence: moderate
+confidence: high
 sources:
   - "WikiTree Dolby-84 (Tier 3, search snippet)"
   - "Find a Grave Memorial #48870181 (Tier 2, search snippet)"
@@ -52,7 +52,7 @@ The search snippet for WikiTree Dolby-84 notes Tabitha "was related to the Pools
 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
-| Birth year | 1756 (WikiTree, Find a Grave) | c. 1750 (vault Family_Tree.md) | 1756 is more specific; cited but not propagated this session per Guard Rail #3. Cross-reference audit task. |
+| Birth year | 1756 (WikiTree, Find a Grave) | c. 1750 (vault Family_Tree.md) | **RESOLVED 2026-05-02 (prompt 08)**: 1756 is the established date. WebSearch independently corroborated Find a Grave Memorial #48870181 (Tier 2) and WikiTree Dolby-84 (Tier 3) both giving 20 April 1756. Family_Tree.md updated this session. cross_reference_audit row #71 closed. |
 
 ## Open Items
 

@@ -478,7 +478,7 @@ William Cox Sr. migrated to SC with the **Long** family. The large handwritten c
 
 **[[Robert_King_II]] + [[Tabitha_Dolby|Tabitha Dolby]]** (strong)
 - Robert: c. 1750, Ireland; d. Dec 13, 1826, Anderson County, SC
-- Tabitha Dolby: c. 1750, Ireland; d. May 14, 1815 (WikiTree Dolby-84 / Find a Grave #48870181 narrow this to b. 20 Apr 1756 Ireland; see [[Tabitha_Dolby]] for the date discrepancy, not propagated this session per Guard Rail #3)
+- Tabitha Dolby: **20 Apr 1756, Ireland**; d. May 14, 1815 Belton, Anderson SC (WikiTree Dolby-84 Tier 3 + Find a Grave #48870181 Tier 2 — both independent and consistent at 1756; updated 2026-05-02 per OQ #71 RESOLVED via prompt 08 after Tier 2 corroboration retrieved via WebSearch)
 - Emigrated from Ireland 1770 on the **ship Jupiter from Larne, County Antrim** (WikiTree Dolby-84, Geni; Tier 3); settled near Belton, Anderson Co, SC ~1772
 - Revolutionary War veteran (Battle of Kings Mountain)
 - 23 children, 21 survived to adulthood

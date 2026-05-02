@@ -28,7 +28,7 @@ tags: [genealogy, huff, holloway, person, virginia, brunswick-county, colonial]
 | Burial | Unknown | |
 | Father | Unknown. Possibly related to William Huff (c. 1710-bef. 1781) of Brunswick County, VA, who also had a son named Daniel. See Data Discrepancies. | WikiTree Huff-1766 (Tier 3) |
 | Mother | Unknown | |
-| Spouse | Mary Holloway | WikiTree Huff-1770 (Tier 3), 1773 will (Tier 1, names wife "Mary") |
+| Spouse | Mary Holloway (Daniel's **second wife** per FamilyCentral.net Tier 3, independent of WikiTree). First wife's name is unknown. | WikiTree Huff-1770 (Tier 3), 1773 will (Tier 1, names wife "Mary"), FamilyCentral.net Philemon Huff/Martha Parham profile |
 | Children | Daniel Huff Jr. (before 1750 VA, d. 1795 Brunswick Co VA), Philemon Huff (c. 1763-1843), Reuben Huff, Lewis Huff, [[James_Huff]] (b. 14 Feb 1768, d. 31 May 1842); granddaughter Tabitha | 1773 will (Tier 1), WikiTree (Tier 3) |
 
 ## Biography
