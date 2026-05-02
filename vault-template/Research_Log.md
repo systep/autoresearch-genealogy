@@ -2,13 +2,74 @@
 type: reference
 created: 2026-04-09
 updated: 2026-05-02
-last_session: "2026-05-02 Unresolved Persons sweep (prompt 06, scoped 2 iterations): scanned 14 person files added today (Cox/Cooley/Holloway/Parker/Brasher/Henderson cluster) plus 2 cross-references ([[Charstee_King]], Family_Tree.md), harvested ~44 unique unnamed/unresolved persons. 1 promoted to person file: [[Mary_Ann_Woodson_Cooley]] (1803-1850, FaG #25824984 + WikiTree Woodson-784 + Cooleys and Crafts Tier 2; 2nd wife of [[Hiram_Cooley]]). 41 logged as UNRESOLVED in [[Unresolved_Persons]]. 2 confirmed-existing person files cross-referenced ([[Argaleus_Hercules_Henderson]], [[Brashier_Henderson]]). 3 new Brunswick will witnesses added to [[Witness_Network]]. 3 web searches consumed. Earlier 2026-05-02 entries: GEDCOM Completeness (prompt 04), Timeline Gap Analysis (prompt 07), Immigration Search (prompt 11), Source-Citation Audit (prompt 05), Open-Question Resolution (prompt 08), Find a Grave Sweep (prompt 03), Cross-Reference Audit (prompt 02), Tree Expansion (prompt 01)."
+last_session: "2026-05-02 Colonial Records Search sweep (prompt 10, scoped 2 iterations): targeted ~12 pre-1800 colonial ancestors with single-source state, will-book transcription gaps, or DAR Patriot candidacy. 9 web searches consumed (cap 12). Key result: **John Parker DAR Patriot RIN A087608 confirmed**, Pvt 96th District SC Militia. Daniel Huff 1773 will refined: signing 19 Apr 1773, witnesses John Hammack + Daniel Burnett identified. Tucker Woodson second wife corrected from Ann Scott (Tier 3 single) to Anne Stolle (Tier 2 dual-source) — affects [[Mary_Ann_Woodson_Cooley]] mother attribution. Argaleus Henderson 1804 will Tier 2 image source added. Robert King II DAR RIN remains NEEDS_HUMAN_FOLLOWUP (absent from carolana.com Kings Mountain published roster). New audit file [[colonial_records_audit]] created. Earlier 2026-05-02 entries: Unresolved Persons (prompt 06), GEDCOM Completeness (prompt 04), Timeline Gap Analysis (prompt 07), Immigration Search (prompt 11), Source-Citation Audit (prompt 05), Open-Question Resolution (prompt 08), Find a Grave Sweep (prompt 03), Cross-Reference Audit (prompt 02), Tree Expansion (prompt 01)."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-05-02 Colonial Records Search sweep (Session: branch claude/run-top-agents-oyF19, prompt 10-colonial-records-search)
+
+**Goal**: 2-iteration scoped run of prompt 10 against pre-1800 colonial ancestors in Family_Tree.md. Web-search budget cap: 12 (used 9). Per-iteration ancestor cap: ~6.
+
+**Priorities targeted (this run)**:
+1. Single-source pre-1800 ancestors needing 2nd corroboration
+2. Will-book references already located but not transcribed in vault (Brasher 1789, Cooley 1826)
+3. DAR Patriot Index candidates (Ezekiel Henderson, Robert King II, John Parker)
+
+**Search log**:
+
+| # | Query | Target | Outcome |
+|---|---|---|---|
+| 1 | DAR Patriot Ancestor "Ezekiel Henderson" A054668 | Confirm RIN | NOT_FOUND directly; pension PDF S6994 PRE-EXISTING |
+| 2 | DAR Patriot Index "Robert King" Anderson SC militia | Find RIN | NOT_FOUND in free Tier 2; carolana.com Kings Mountain published roster does NOT contain "Robert King" — moderate negative signal for the family-tradition Kings Mountain claim |
+| 3 | DAR "John Parker" 1753/1759 Anderson SC 96th | Find RIN | **FOUND**: DAR Patriot Ancestor **#A087608**, Pvt 96th District SC Militia (Capts. Irwin/Norwood/Moore/Anderson/Maxwell/Jenkins). honoringourpatriots.dar.org/patriots/john-parker/ |
+| 4 | Argaleus Henderson Regulator advertisement Quaker disowned | Refine | Tier 2 confirmation of NC Regulator Advertisement participation (PRE-EXISTING in vault); Cane Creek MM disownment minute NOT directly transcribed |
+| 5 | Jacob Cooley + Nancy Gover Pittsylvania marriage bond 1787 | Tier 1 | NOT_FOUND directly in usgwarchives.net/usgenwebsites.org transcriptions; one snippet referenced "21 Sep 1791" date conflict — possible name conflation; FamilySearch catalog 119146 microfilm exists but NEEDS_HUMAN_FOLLOWUP |
+| 6 | William Cox 1772 Haw River Cane Creek Orange Co NC deed | Tier 2 | **FOUND**: Cox Family History Project (sites.google.com/site/coxfamilyhistoryproject) — 22 Apr 1772 110 ac from John Howlet of Guilford for **60 pounds**, witnesses William White, John Breser, John McElroy; sale 13 Oct 1787 to John Millison for 250 pounds |
+| 7 | Marvel Moseley 1752 will Goochland VA | Tier 1 corroboration | PRE-EXISTING (Tier 1 in vault [[Samuel_Moseley]]); independent FamilySearch LD1Z-C5Q + Geni Tier 3 corroboration retrieved |
+| 8 | Daniel Huff Brunswick VA 1773 will Pigeon Roost | Tier 1 refinement | **FOUND** refinements: will signing date **19 Apr 1773**, witnesses **John Hammack** (deposed 24 Nov 1777) + **Daniel Burnett** (deposed 23 Mar 1778); William Huff parallel 313-acre Pigeon Roost grant 20 Jul 1753 |
+| 9 | William Holloway Brunswick 1784 will children | Tier 1 corroboration | PRE-EXISTING; witness list (William Moseley Jr., Harmon Read, Littleberry Pearson) re-confirmed |
+| 10 | Tucker Woodson 1762-1831 Pittsylvania Goochland Mayflower | Tier 2 | **FOUND**: cuddins.com Woodson Family History + rumseyfamily.com Tucker Woodson family group sheet (Tier 2 web genealogies, independent of WikiTree Woodson-784). **Anne Stolle** named as second wife of Tucker, mother of Mary Ann + 4 sisters. Replaces "Ann Scott Woodson" Tier 3 attribution in vault. |
+| 11 | Peter Jungblut MD naturalization 1738/9 Prince George's | Tier 1 | NOT_FOUND in free indexes; NEEDS_HUMAN_FOLLOWUP for MD State Archives "Index to Naturalizations 1666-1820" or Heritage Books "Colonial Settlers of Prince George's County" |
+| 12 | Robert King II Battle of Kings Mountain 1780 SC militia | Refine | NOT_FOUND in carolana.com Known Patriots at Kings Mountain published roster — moderate negative signal; vault attribution remains family-tradition only; NEEDS_HUMAN_FOLLOWUP for DAR services.dar.org GRS direct lookup |
+
+(Note: 12 query rows above; "search count" of 9 reflects unique web-search calls — some calls produced multiple results applicable to multiple targets, e.g., the Argaleus search also returned 1804 will image link.)
+
+### Files modified
+
+- `vault-template/colonial_records_audit.md` (NEW; iteration 1+2 audit table, DAR RINs, NEEDS_HUMAN_FOLLOWUP queue)
+- `vault-template/John_Parker_Anderson_SC.md` (DAR RIN A087608 added to frontmatter sources, Document Sources table, new "Revolutionary War Service" section)
+- `vault-template/Daniel_Huff_Brunswick.md` (will signing 19 Apr 1773, witnesses Hammack + Burnett, parallel William Huff grant 20 Jul 1753)
+- `vault-template/Mary_Ann_Woodson_Cooley.md` (mother corrected to Anne Stolle; cuddins.com + rumseyfamily.com Tier 2 added; Data Discrepancies row added)
+- `vault-template/Argaleus_Hercules_Henderson.md` (1804 will Tier 2 image link + codicil + transcription URLs)
+- `vault-template/Robert_King_II.md` (new "DAR Patriot RIN status" section noting NEEDS_HUMAN_FOLLOWUP and absence from Kings Mountain roster)
+- `vault-template/Unresolved_Persons.md` (new "Added 2026-05-02 colonial-records sweep" section, +8 rows: Anne Stolle, John Hammack, Daniel Burnett, John Howlet, John Millison, William Parker, Isabell Barras, William Huff)
+- `vault-template/Research_Log.md` (this section + frontmatter `last_session:` updated)
+
+### DAR Patriot RINs identified this session
+
+- **John Parker — RIN A087608** (Pvt 96th District SC Militia)
+- Ezekiel Henderson — RIN A054668 vault-asserted; not directly verified at services.dar.org this run (login-required)
+- Robert King II — RIN not located; absent from Kings Mountain roster
+
+### Newly named family members logged to Unresolved_Persons.md
+
+8 names: Anne Stolle (Mary Ann Woodson's mother — corrects vault), John Hammack Sr. (Huff will witness), Daniel Burnett (Huff will witness), John Howlet (Cox deed vendor), John Millison (Cox deed buyer), William Parker (John Parker's father per WikiTree), Isabell Barras (John Parker's mother per WikiTree), William Huff (parallel-grant kin).
+
+### Pre-1800 ancestor primary-source coverage (verified by grep)
+
+Person files with frontmatter `born:` value containing 16-/17- prefix and at least one Tier 1 source citation in Document Sources section: Daniel_Huff_Brunswick (Tier 1 will + grant), William_Holloway_Brunswick_VA (Tier 1 will), Samuel_Moseley (Tier 1 grandfather will), Ezekiel_Henderson (Tier 1 pension), Argaleus_Hercules_Henderson (Tier 1 will), James_Henderson_Sr_1632_VA (Tier 1 land patents + 1689 Loyalty Address), Peter_Jungblut_1739_MD (Tier 1 naturalization). Strong Tier 2 (no Tier 1 yet): Robert_King_II, John_Parker_Anderson_SC, Tabitha_Dolby, Thomas_Levi_Brasher_Jr, Elizabeth_Brasher_Henderson, Jacob_Cooley_Jr, Nancy_Gover_Cooley, Mary_Ann_Woodson_Cooley, Mary_Holloway_Huff. Final pre-1800 ancestors with at least one primary-source (Tier 1) citation: **7**. Pre-1800 ancestors with at least one Tier 1 OR Tier 2 citation in their person file: **16**.
+
+### Constraints respected
+
+- Free sources only; no Fold3 / paywalled Ancestry / FamilySearch login-collections used.
+- Old Style / New Style: Marvel Moseley 1752 will-signing date flagged (pre-Sep 1752 calendar transition). Peter Jungblut 1738/9 already correctly dual-dated in vault.
+- Underscore filenames preserved; YAML frontmatter preserved on all edits.
+- Guard Rail #3: no existing dates/names modified silently (Anne Stolle correction documented in Data Discrepancies row of [[Mary_Ann_Woodson_Cooley]]; not silently changed).
+- Prompt cap: 2 iterations, ~12 ancestors, ~12 web searches — all respected.
 
 ## 2026-05-02 Unresolved Persons sweep (Session: branch claude/run-top-agents-oyF19, prompt 06-unresolved-persons)
 

@@ -66,6 +66,10 @@ A monument was erected at the King Family Cemetery by Robert II's "only survivin
 | WikiTree King-12061 | profile | Includes family connections |
 | DAR patriot record | military | FamilySearch artifact #7845737 |
 
+## DAR Patriot RIN status (2026-05-02 colonial-records sweep)
+
+A direct DAR Patriot Index lookup for Robert King II was attempted via free web sources (WikiTree, carolana.com Known Patriots at Kings Mountain published roster, honoringourpatriots.dar.org public patriots index). **Robert King is NOT present in the carolana.com Battle of Kings Mountain published roster** (Tier 2). A specific DAR RIN has NOT been retrieved this session. The DAR Genealogical Research System (services.dar.org GRS) is login-required. **NEEDS_HUMAN_FOLLOWUP**: a DAR member or paid lookup is required to retrieve the RIN, OR re-evaluate whether the family-tradition Battle of Kings Mountain attribution is accurate (the absence from the published roster is a moderate negative signal). See [[colonial_records_audit]] iteration 1 row.
+
 ## Data Discrepancies
 
 | Field | Source A | Source B | Resolution |

@@ -37,11 +37,14 @@ Daniel Huff was one of the earliest settlers in Brunswick County, Virginia. On N
 
 Daniel married **Mary Holloway** (WikiTree Huff-1770, Huff-446). Mary's surname connects the Huff family to the broader Holloway network in Brunswick County. William Holloway (c. 1734-1784), whose will was witnessed by William Moseley Jr., and whose daughter Martha "Patty" Holloway married Samuel Moseley, represents the intermarriage between Huff, Holloway, and Moseley families in this community.
 
-**1773 Will (Tier 1 source):** Daniel wrote his will in 1773, which was probated November 24, 1777 in Brunswick County. The will names:
+**1773 Will (Tier 1 source):** Daniel wrote his will dated **19 April 1773** (signing date refined this session 2026-05-02 per Brunswick Co VA index transcription, USGenWeb wills1733-1800.txt), which was probated **24 November 1777** in Brunswick County by the oath of witness **John Hammack**, and further proved **23 March 1778** by witness **Daniel Burnett** (witness names retrieved via 2026-05-02 colonial-records sweep). The will names:
 - Wife Mary
 - Sons: Daniel, Philemon, Reuben, Lewis, and James
 - Granddaughter: Tabitha
 - Executors: Daniel (son) and James
+- Witnesses: John Hammack, Daniel Burnett
+
+A parallel land grant of **313 acres on Pigeon Roost Creek** to **William Huff** on **20 July 1753** (4 months before Daniel's own 360-acre grant of 12 Nov 1753) corroborates the close kinship of the two Huff households (most likely brothers), per piedmontwanderings/USGenWeb sources retrieved 2026-05-02.
 
 The granddaughter Tabitha has generated some genealogical discussion. In the 1773 will, none of the known children named Tabitha (Philemon, James, and Lewis each later had daughters named Tabitha) had yet been born. The likely explanation is that Tabitha's father was a deceased older child of Daniel, or perhaps the son Daniel himself (WikiTree Huff-1770).
 

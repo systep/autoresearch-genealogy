@@ -120,6 +120,19 @@ Insufficient context to determine relationship or identity.
 | Argaleus Hercules Henderson II | (newly harvested in 2026-05-02 sweep as a sibling-of-ancestor mention from [[Olive_Mary_Polly_Henderson_Cox]]) | Confirmed already to have an existing vault person file [[Argaleus_Hercules_Henderson]]. No action needed. | 2026-05-02 | vault file existence check |
 | Brasher Henderson (1790-1847) | (newly harvested in 2026-05-02 sweep) | Confirmed already to have an existing vault person file [[Brashier_Henderson]]. No action needed. | 2026-05-02 | vault file existence check |
 
+## Added 2026-05-02 (colonial-records sweep, prompt 10)
+
+| Name | Context | Documents | Possible ID | Status |
+|---|---|---|---|---|
+| Anne Stolle | Second wife of Tucker Woodson (1762-1831); per cuddins.com Woodson page + rumseyfamily.com Tucker Woodson family group sheet (both Tier 2), mother of Nancy, Elizabeth, Charlotte "Lottie", Sarah Ann, and **Mary Ann Woodson** (= [[Mary_Ann_Woodson_Cooley]]). | cuddins.com (Tier 2); rumseyfamily.com (Tier 3); cynthiaswope.com Within The Vines Woodson (Tier 2) | UNRESOLVED. Two independent Tier 2 sources name "Anne Stolle" as Tucker's 2nd wife and Mary Ann's mother, displacing the prior single-Tier-3-source "Ann Scott" attribution from WikiTree Woodson-784. Person file NOT warranted yet (no birth/death dates, no FaG memorial, common-enough name). Logged for next cross-reference audit cycle to update [[Mary_Ann_Woodson_Cooley]]. |
+| John Hammack Sr. | Witness who deposed (24 Nov 1777) at probate of [[Daniel_Huff_Brunswick]]'s 1773 will | Brunswick Co VA probate, 24 Nov 1777 (Tier 1) | UNRESOLVED. Common Brunswick Co VA name. Already a Witness Network candidate. |
+| Daniel Burnett | Second witness who deposed (23 Mar 1778) at probate of [[Daniel_Huff_Brunswick]]'s 1773 will | Brunswick Co VA probate (Tier 1) | UNRESOLVED. Already a Witness Network candidate. |
+| John Howlet of Guilford Co NC | Vendor of 110-acre Haw River + Cane Creek tract to William Cox Sr., 22 Apr 1772, for 60 pounds (Tier 2) | Cox Family History Project; Forebears and Kinfolks "Locating Cox's Settlement" | UNRESOLVED. Tangential community connection. Not a family member. Witness/community Network candidate only. |
+| John Millison of Chatham Co NC | Purchaser of same Haw River tract from William Cox Sr., 13 Oct 1787, for 250 pounds (Tier 2) | Cox Family History Project | UNRESOLVED. Tangential. Witness Network only. |
+| William Parker | Father of [[John_Parker_Anderson_SC]] per WikiTree Parker-1606 (Tier 3) which cites DAR records | WikiTree Parker-1606 (Tier 3) | UNRESOLVED. Single source despite citation chain to DAR. Person file NOT warranted without 2nd independent corroboration. The Parker line is Irish immigrant; if confirmed, William would be the immigrant grandfather generation. |
+| Isabell Barras | Mother of [[John_Parker_Anderson_SC]] per WikiTree Parker-1606 (Tier 3) | WikiTree Parker-1606 (Tier 3) | UNRESOLVED. Same single-source issue. Surname "Barras" is unusual and could be a research lead. |
+| William Huff | Recipient of 313 acres on Pigeon Roost Creek, Brunswick Co VA, 20 Jul 1753 (4 months before [[Daniel_Huff_Brunswick]]'s parallel grant). Most plausibly Daniel's brother. Distinct from William Huff (c.1710-bef.1781) of WikiTree Huff-1766 (likely the same person). | piedmontwanderings/USGenWeb (Tier 2); WikiTree Huff-1766 (Tier 3) | UNRESOLVED for kinship. Multiple sources name him; person file warranted at next cycle if confirmed as direct kin (currently a sideline). |
+
 ## Statistics
 
 - **Total unresolved persons tracked**: 60+ (~16 pre-2026-05-02 + 44 added 2026-05-02 prompt-06 sweep across the 14 person files added today)
