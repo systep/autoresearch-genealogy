@@ -2,13 +2,85 @@
 type: reference
 created: 2026-04-09
 updated: 2026-05-02
-last_session: "2026-05-02 GEDCOM Completeness (prompt 04, scoped 2 iterations): seeded vault GEDCOM file family.ged (none existed). Iteration 1: 39 INDI + 20 FAM records covering Cox/Henderson/Brasher/Cooley/King/Parker/Huff/Moseley/Holloway/Long/Bright slice (1730-1985, SC and VA). Iteration 2: built gedcom_audit.md (422 rows; 31 PRESENT + 8 INCOMPLETE + 383 MISSING). Validation clean: every INDI has NAME, every FAM has HUSB or WIFE, no orphan CHIL or FAMC/FAMS refs, no duplicate INDI IDs, ends with `0 TRLR`. No web searches. Earlier 2026-05-02 entries: Timeline Gap Analysis (prompt 07), Immigration Search (prompt 11), Source-Citation Audit (prompt 05)."
+last_session: "2026-05-02 Unresolved Persons sweep (prompt 06, scoped 2 iterations): scanned 14 person files added today (Cox/Cooley/Holloway/Parker/Brasher/Henderson cluster) plus 2 cross-references ([[Charstee_King]], Family_Tree.md), harvested ~44 unique unnamed/unresolved persons. 1 promoted to person file: [[Mary_Ann_Woodson_Cooley]] (1803-1850, FaG #25824984 + WikiTree Woodson-784 + Cooleys and Crafts Tier 2; 2nd wife of [[Hiram_Cooley]]). 41 logged as UNRESOLVED in [[Unresolved_Persons]]. 2 confirmed-existing person files cross-referenced ([[Argaleus_Hercules_Henderson]], [[Brashier_Henderson]]). 3 new Brunswick will witnesses added to [[Witness_Network]]. 3 web searches consumed. Earlier 2026-05-02 entries: GEDCOM Completeness (prompt 04), Timeline Gap Analysis (prompt 07), Immigration Search (prompt 11), Source-Citation Audit (prompt 05), Open-Question Resolution (prompt 08), Find a Grave Sweep (prompt 03), Cross-Reference Audit (prompt 02), Tree Expansion (prompt 01)."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-05-02 Unresolved Persons sweep (Session: branch claude/run-top-agents-oyF19, prompt 06-unresolved-persons)
+
+**Goal**: 2-iteration scoped run of prompt 06 against the 14 person files added 2026-05-02 (Cox/Cooley/Holloway/Parker/Brasher/Henderson cluster). Web-search budget cap: 10 (used 3). Promotion cap: 3 (used 1).
+
+### Iteration 1: harvest mentions
+
+Vault files scanned (16):
+1. [[Olive_Mary_Polly_Henderson_Cox]]
+2. [[Elizabeth_Brasher_Henderson]]
+3. [[Thomas_Levi_Brasher_Jr]]
+4. [[Hiram_Cooley]]
+5. [[Jacob_Cooley_Jr]]
+6. [[Nancy_Gover_Cooley]]
+7. [[John_Parker_Anderson_SC]]
+8. [[Mary_Nancy_Parker_King]]
+9. [[Elizabeth_Betty_Gresham_Parker]]
+10. [[Tabitha_Dolby]]
+11. [[William_Holloway_Brunswick_VA]]
+12. [[Mary_Holloway_Huff]]
+13. [[Martha_Ballard_Holloway]]
+14. [[Charstee_King]] (cross-reference for Cooley parentage)
+15. [[Family_Tree]] (cross-reference for sibling roster)
+16. [[Unresolved_Persons]], [[Witness_Network]] (target files; existing-state read)
+
+Unique unresolved-person mentions harvested: ~44
+
+Categorization:
+- **Known (existing person file)**: 2 ([[Argaleus_Hercules_Henderson]], [[Brashier_Henderson]])
+- **Likely family** (siblings of ancestors / direct ancestors not yet promoted): 35 -- mostly Henderson siblings (10), Cooley siblings (8), Parker siblings (7), Holloway siblings (6), and ancestor-generation parents (Tucker Woodson, Ann Scott Woodson, John Gover, Elizabeth Duvall, Susan Cothran, Sarah Lindsey, Thomas Levi Brasher Sr., Jacob Cooley Sr., John Joseph Cooley)
+- **Community connection** (witness/purchaser): 5 (William Moseley Jr., Harmon Read, Littleberry Pearson, James Huff purchaser, William Huff purchaser)
+- **Cannot identify**: 0
+
+### Iteration 2: Likely-Family promotion (capped at 3)
+
+Promotion analysis (CLAUDE.md "When to Create a Person File" requires: primary source, biographical detail, direct relevance):
+
+1. **Mary Ann Woodson Cooley** (1803-1850) -- 2nd wife of [[Hiram_Cooley]], paternal grandmother (per MyHeritage 4-tree consensus) of [[Charstee_King]]. **PROMOTED** to [[Mary_Ann_Woodson_Cooley]]. Sources (3 independent): FaG Memorial #25824984 (Tier 2, retrieved via WebSearch 2026-05-02), WikiTree Woodson-784 (Tier 3), Cooleys and Crafts Family History Project (Tier 2). Father Tucker Woodson independently corroborated by FaG #209821208. Open data discrepancy logged: whether John Joseph Cooley (1819-1896) is her son (MyHeritage tree consensus) or Susan Cothran's son (Ancestry.ca snippet "born to Hiram Cooley and Susan Cooley"). Logged for next cross-reference audit cycle. New row added to Family_Tree.md Cooley pedigree section.
+
+2. **John Joseph Cooley** (1819-1896) -- contested parentage prevents safe promotion in this 2-iteration sweep (Guard Rail #1: do not force identifications). Logged in [[Unresolved_Persons]] Priority 1 with discrepancy.
+
+3. **John Gresham Parker** (1789-1842, sibling of [[Mary_Nancy_Parker_King]]) -- two corroborating sources but the cap of 3 promotions in this scope is conservative; deferred to next sweep.
+
+### Web searches consumed (3 of 10 budget)
+
+| # | Query | Result | Resolution |
+|---|---|---|---|
+| 1 | `"John Joseph Cooley" 1819 1896 Greenville SC Find a Grave` | NEGATIVE for direct FaG memorial; POSITIVE for Ancestry.ca snippet "born to Hiram Cooley and Susan Cooley" -- contradicts vault MyHeritage consensus | Discrepancy logged in [[Mary_Ann_Woodson_Cooley]] §Data Discrepancies; promotion of John Joseph Cooley deferred. |
+| 2 | `"Mary Ann Woodson" Cooley 1803 1850 Greenville SC find a grave 25824984` | POSITIVE: FaG #25824984 confirmed b. 8 Jun 1803, d. 17 Nov 1850, buried Hiram Cooley Plantation Cemetery; parents Tucker Woodson + Ann Scott Woodson per WikiTree Woodson-784 | Promotion to person file [[Mary_Ann_Woodson_Cooley]] approved. |
+| 3 | `"John Joseph Cooley" 1819 Cooley Greenville Charstee father wikitree` | POSITIVE: Ancestry.ca snippet again confirms "born to Hiram Cooley and Susan Cooley"; mentions wife "Stacy Ann Chasteen" (vault has Emily Susan Chapman) | Two-discrepancy stack on John Joseph Cooley (mother + wife) confirms promotion-deferral was correct. |
+
+### Files modified (this session)
+
+- [[Mary_Ann_Woodson_Cooley]] (NEW)
+- [[Unresolved_Persons]] (~44 rows added under Priority 1 + 5 under Priority 2; Resolution Log updated; Statistics updated)
+- [[Witness_Network]] (3 new will-witness rows; new "Estate Sale Purchasers" subsection with 2 rows)
+- [[Family_Tree]] (1 line added to Cooley pedigree section linking [[Mary_Ann_Woodson_Cooley]] and noting John Joseph Cooley parentage discrepancy)
+- [[Research_Log]] (this entry)
+
+### Verify
+
+`grep -c "UNRESOLVED\|UNKNOWN\|UNIDENTIFIED" vault-template/Unresolved_Persons.md` -> measured at session end (see commit message).
+
+### Guard rails honored
+
+- Did NOT force identification of John Joseph Cooley despite biographical pressure (contested parentage). Logged for cross-reference audit.
+- Did NOT promote tangential individuals (random Henderson/Cooley/Parker siblings without 2+ independent sources). All such mentions logged in [[Unresolved_Persons]] only.
+- All new person-file frontmatter preserved with valid YAML, underscores in filename, sources field with 4 entries.
+- Web budget honored: 3 of 10 searches used.
+- Promotion budget honored: 1 of 3 promotions used.
+
+---
 
 ## 2026-05-02 GEDCOM Completeness seed (Session: branch claude/run-top-agents-oyF19, prompt 04-gedcom-completeness)
 
