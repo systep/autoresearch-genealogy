@@ -27,14 +27,14 @@ tags: [genealogy, henderson, person, revolutionary-war, south-carolina, north-ca
 | Paternal Grandfather | James Isaac Henderson Jr. (b. after 1705, Somerset Co. MD) + Mary Rhodes (~1700) | WikiTree Henderson-7310 |
 | Paternal Great-grandfather | James "the Mariner" Henderson (c.1689-1752, Somerset Co. MD) | Geni.com |
 | Paternal 2x Great-grandfather | William "the Sawyer" Henderson (b. before 1668, VA/MD Eastern Shore) + Sarah Bishop (m. 1685) | WikiTree, Geni.com |
-| Spouse | Elizabeth Brasher (m. October 10, 1782, SC) | WikiTree Brasher-153 |
+| Spouse | Elizabeth Brasher (m. 10/17 October 1782, Chatham County, NC; day-of-month 10 vs 17 unresolved per cross_reference_audit Discrepancy #15) | WikiTree Brasher-153, Brasher-122; Tier 1 pension S6994 places Ezekiel in NC at the time |
 | Children | 15 children (see list below) | WikiTree |
 
 ## Biography
 
 Ezekiel Henderson was a **Revolutionary War veteran** who served as a private from 1781 to 1783 in both cavalry and infantry. He was discharged at Hillsboro, North Carolina. He applied for and received a **pension (S6994)** of $57.50 per year, granted in 1833-1834. He is recognized as a **DAR Patriot Ancestor**.
 
-He married **Elizabeth Brasher** on October 10, 1782 in South Carolina. They moved to Greenville County after the war and lived there for 47 years. They had 15 children over 27 years, including:
+He married **Elizabeth Brasher** on 10 (or 17) October 1782 in Chatham County, North Carolina (corrected 2026-05-02 per cross_reference_audit Discrepancy #73; Greenville District SC did not exist until 1786, and Tier 1 pension S6994 records Ezekiel as moving into SC only "shortly after the Revolutionary War"). They moved to Greenville County after the war and lived there for 47 years. They had 15 children over 27 years, including:
 
 1. Argaleus Hercules Henderson II (b. June 22, 1784)
 2. Sarah "Sary" Henderson (b. March 12, 1786)

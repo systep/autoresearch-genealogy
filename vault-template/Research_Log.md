@@ -81,6 +81,49 @@ Chronological record of every archive searched, every query run, and every resul
 
 ---
 
+## 2026-05-02 Cross-Reference Audit sweep (Session: branch claude/run-top-agents-oyF19, prompt 02-cross-reference-audit)
+
+**Goal**: 2-iteration audit of the 13 person files just added by today's `01-tree-expansion` run, plus a slice of related high-traffic ancestors (Ezekiel_Henderson, Thomas_B_Cox, Charstee_King, Judson_King, Robert_King_II, Daniel_Huff_Brunswick / James_Huff). Cap: ~30 persons; goal: catch and document date/name/place mismatches between Family_Tree.md and the underlying person files. Free fact-only; no web searches.
+
+**Iteration 1 (13 new files audited)**: All 13 newly-added person files cross-checked against Family_Tree.md and against existing related files. 3 fact-level discrepancies surfaced (#71-73 in cross_reference_audit.md), plus 1 internal-consistency issue in [[Hiram_Cooley]] (#74). Verify count after iteration 1: `grep -c "DISCREPANCY\|MISMATCH\|CONFLICT" cross_reference_audit.md` = 7.
+
+**Iteration 2 (6 high-traffic ancestors cross-checked + corrections applied)**:
+- [[Ezekiel_Henderson]] marriage row in vital-info table corrected from "October 10, 1782, SC" to "10/17 October 1782, Chatham County, NC" per Tier 1 pension S6994 geography (resolves longstanding Discrepancy #15 partially -- date uncertainty 10 vs 17 carries forward).
+- [[Olive_Mary_Polly_Henderson_Cox]] YAML `name:` frontmatter harmonized to "Olive Mary 'Polly' (Henderson) Cox" to match canonical vault form (Family_Tree.md, Ezekiel_Henderson.md, Thomas_B_Cox.md).
+- [[Hiram_Cooley]] children list corrected: John Hiram Cooley (1815-1887) moved out of the Mary-Ann-Woodson (b. 1803) group into the Susan-Cothran group, since Mary Ann was age 12 in 1815. New ## Data Discrepancies section added documenting the correction.
+- [[Charstee_King]], [[Judson_King]], [[Thomas_B_Cox]], [[Robert_King_II]], [[Daniel_Huff_Brunswick]] / [[James_Huff]]: dates verified consistent across files. ✓
+
+**Verify (final)**: `grep -c "DISCREPANCY\|MISMATCH\|CONFLICT" vault-template/cross_reference_audit.md` (recorded below).
+
+### Discrepancy summary (this session)
+
+| Type | Count |
+|---|---|
+| Date | 1 (#71 Tabitha b. 1750 vs 1756) + 1 partial (#73 marriage day 10 vs 17) |
+| Name | 1 (#72 Olive Mary vs Mary Olive frontmatter) |
+| Place | 1 (#73 SC vs Chatham NC; Tier 1 wins) |
+| Parentage / internal | 1 (#74 Hiram Cooley children list mother-attribution) |
+| **Total opened this session** | **4** (#71-74) |
+| **Resolved** | **3** (#72 name harmonized; #73 partial primary-source correction; #74 children list fixed) |
+| **Deferred** | **1** (#71 awaiting Find a Grave full memorial text retrieved by human browser) |
+| **New OQ entries** | **0** (all surfaced items covered by existing OQ #30 + Discrepancy #15) |
+
+### Files edited (2026-05-02 audit session)
+- [[cross_reference_audit]] (new section: 2026-05-02 audit, +4 rows #71-74, +diff table, +summary)
+- [[Olive_Mary_Polly_Henderson_Cox]] (YAML name harmonization)
+- [[Ezekiel_Henderson]] (marriage place corrected to Chatham Co NC; vital-info table + biography text)
+- [[Hiram_Cooley]] (children list separated by mother; new Data Discrepancies section)
+- [[Research_Log]] (this entry)
+
+### Negative results / not done
+
+- No web searches conducted (audit-only session; resolutions used existing vault primary sources only).
+- Tabitha Dolby birth-year refinement (1756 vs c. 1750) NOT propagated to Family_Tree.md per Guard Rail #3 of the expansion prompt; carry forward.
+- Discrepancy #15 marriage day 10 vs 17 still OPEN; would be settled by Chatham Co NC marriage bond from FamilySearch catalog 191194.
+- 11 names remain in Hiram Cooley's Mary-Ann-Woodson child group vs source's "10"; not further trimmed without re-reading Cooleys-and-Crafts source per Guard Rail #4 (do not change primary-source transcriptions to match a number).
+
+---
+
 ## (legacy entry below) -- 2026-05-02 placeholder for next session marker
 
 (no legacy text -- session boundary)

@@ -29,7 +29,8 @@ tags: [genealogy, cooley, person, south-carolina, greenville]
 | Mother | [[Nancy_Gover_Cooley]] (1763-bef. 1844) | WikiTree Gover-8 (Tier 3) |
 | Spouse (1) | Susan Cothran (had 2 children with her per existing vault note in [[Charstee_King]]) | Cooleys and Crafts |
 | Spouse (2) | Mary Ann Woodson (1803-1850) (had 10 children with her per Cooleys and Crafts) | WikiTree Woodson-784 (Tier 3); Find a Grave #25824984 |
-| Children (with Mary Ann Woodson) | Jacob, Elizabeth, Hiram C., Nancy Jane, Newton, Jasper, Mary Ann, Frances Emmeline, Martha Ann, William, **John Joseph Cooley** (1819-1896) (Charstee King's father), John Hiram Cooley (1815-1887) | Cooleys and Crafts; vault [[Charstee_King]] |
+| Children (with Susan Cothran, 1st wife) | John Hiram Cooley (1815-1887) (moved here 2026-05-02 per cross_reference_audit Discrepancy #74: cannot be a son of Mary Ann Woodson, b. 1803, who would have been age 12 in 1815); 1 additional unnamed | Cooleys and Crafts (Tier 2); chronological possibility |
+| Children (with Mary Ann Woodson, 2nd wife) | Jacob, Elizabeth, Hiram C., Nancy Jane, Newton, Jasper, Mary Ann, Frances Emmeline, Martha Ann, William, **John Joseph Cooley** (1819-1896) (Charstee King's father) -- 11 names retained pending Cooleys-and-Crafts re-read against the source's stated "10 children" count | Cooleys and Crafts; vault [[Charstee_King]] |
 
 ## Biography
 
@@ -54,3 +55,9 @@ This file extends the Cooley pedigree two generations beyond the prior vault kno
 | WikiTree Gover-8 (Nancy Gover Cooley, mother) | user-contributed tree (Tier 3) | https://www.wikitree.com/wiki/Gover-8 |
 | WikiTree Woodson-784 (Mary Ann Woodson Cooley, wife) | user-contributed tree (Tier 3) | https://www.wikitree.com/wiki/Woodson-784 |
 | Find a Grave Memorial #25824984 (Mary Ann Woodson Cooley) | cemetery memorial (Tier 2) | https://www.findagrave.com/memorial/25824984/mary-ann-cooley |
+
+## Data Discrepancies
+
+| Field | Source A | Source B | Resolution |
+|---|---|---|---|
+| Children-with-Mary-Ann-Woodson list (initial transcription, 2026-05-02) | "Jacob, Elizabeth, Hiram C., Nancy Jane, Newton, Jasper, Mary Ann, Frances Emmeline, Martha Ann, William, John Joseph, John Hiram (1815-1887)" -- 12 names but narrative said "10 children" | Cooleys and Crafts (Tier 2): 10 children with Mary Ann Woodson | **Resolved 2026-05-02 per cross_reference_audit Discrepancy #74**: John Hiram Cooley (1815-1887) is biologically impossible as Mary Ann Woodson's son (she was born 1803, age 12 in 1815). Moved John Hiram to Susan-Cothran-1st-wife group. The 11 names retained in the Mary-Ann-Woodson group still exceed the source's "10" by one and need a Cooleys-and-Crafts re-read; flagged but not further trimmed without source verification (Guard Rail #4). |

@@ -1,6 +1,6 @@
 ---
 type: person
-name: "Mary Olive 'Polly' (Henderson) Cox"
+name: "Olive Mary 'Polly' (Henderson) Cox"
 born: 1795-03-29
 died: 1876-08-21
 family: "Henderson"
