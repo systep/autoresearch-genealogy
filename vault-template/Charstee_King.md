@@ -104,6 +104,7 @@ The James + Margaret Cooley cluster in Dunklin is still a real Cooley family in 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | Birth year | June 30, 1842 (headstone) | ~1843 (1880 Census: age 37) | Headstone preferred (more precise). Census ages approximate. |
+| Mother's name (John Joseph Cooley's wife) | "Emily Susan Chapman" (b. 11 May 1823, d. 23 May 1857) per MyHeritage Turner/Moody/Marsengill/Lloyd 4-tree consensus 2026-04-22 (Tier 3); corroborated 2026-05-02 by Geni profile 6000000012378636692 ("Emily Cooley born Chapman" 1823-1857, Tier 3) and Cooleys-and-Crafts (Tier 2 indirect: confirms John Joseph married a Chapman) | "Stacy Ann Chasteen" attribution from Ancestry.ca snippet (Tier 3) for John Joseph Cooley's wife | **RESOLVED 2026-05-02 round-2 audit**: The "Stacy Ann Chasteen" attribution appears to be a generation-confusion. Per 2026-05-02 web search, **Stacy Ann (Littleton) Chapman** was Emily Chapman's MOTHER (i.e., Charstee's maternal grandmother), not John Joseph's wife. Separately, Cooleys-and-Crafts (Tier 2) names a "Stacy Chapman Boyce" as the wife of Jacob "Jake" Cooley (Mary Ann Woodson's son, John Joseph's half-brother). The "Stacy" name appears in both the Cooley and Chapman families in the same Greenville generation, which explains the snippet conflation. **Vault retains "Emily Susan Chapman" as John Joseph's wife (Tier 3 consensus, 5+ trees + Geni profile).** |
 
 ## Research Priorities
 

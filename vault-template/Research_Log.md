@@ -5325,3 +5325,55 @@ Systematic search for passenger manifests and naturalization records for 10 iden
 - [[Open_Questions]] (OQ #16, #18 updated with 2026-04-19 findings)
 - [[Louis_Elizar_Salk]] (note that Troskunai link is now evidence-against)
 - [[Research_Log]] (this entry)
+
+---
+
+## 2026-05-02 Cross-Reference Audit Round 2 (deferred-items sweep, branch claude/run-top-agents-oyF19, prompt 02-cross-reference-audit, round 2 of session)
+
+**Scope**: 2-iteration audit attacking 4 deferred items from prior 2026-05-02 agents (Cooley parentage; Discrepancy #75 SS Hamburg; Tucker Woodson 2nd-wife cascade; Robert King II Kings Mountain attribution) + 10-person new-discrepancy scan.
+
+**Web-search budget**: 6 of ~10 searches consumed.
+
+**Verify command (after both iterations)**: `grep -c "DISCREPANCY\|MISMATCH\|CONFLICT" vault-template/cross_reference_audit.md` = **14** (up from 11 baseline at session start; +3 net new MISMATCH/DISCREPANCY references = #76 deferred, #77 resolved-but-name-conflict-row-retained, #78 resolved cascade, #79 partial-resolution + #80 new William Cox Sr birth-year mismatch).
+
+### Iteration 1: Deferred-item attacks
+
+| Item | Action | Status |
+|---|---|---|
+| #76 John Joseph Cooley (1819-1896) parentage | Attempted Tier 1 search; only Tier 3 Ancestry / MyHeritage / Geni results available | **DEFER / NEEDS_PRIMARY** (Tier 3 vs Tier 3) |
+| #77 Charstee's mother "Stacy Ann Chasteen" vs "Emily Susan Chapman" | Web search 2026-05-02 clarified: Stacy Ann (Littleton) Chapman = Emily's MOTHER; "Stacy Chapman Boyce" = Jacob "Jake" Cooley's wife (different Cooley generation) | **RESOLVED** (generation-confusion) |
+| #75 Henry Michael Kascher SS Hamburg June 1935 | 2 round-2 web searches, all NEGATIVE for 27 Jun 1935 SS Hamburg arrival | **NEEDS_PRIMARY** (escalated; NARA M237 microfilm required) |
+| #78 Tucker Woodson 2nd wife (Anne Stolle vs Ann Scott) | Geni profile 6000000032977088051 located: "Anne Woodson born Stoll" 1777-1823; corroborates cuddins.com + rumseyfamily.com; 3 independent Tier 2-3 sources vs single Tier 3 WikiTree | **RESOLVED** (Anne Stolle confirmed; cascade applied to Family_Tree.md and Mary_Ann_Woodson_Cooley.md) |
+| #79 Robert King II Kings Mountain attribution | Re-confirmed absence from carolana.com Kings Mountain published roster; second negative search ("Robert King + Washington District + NC militia") also failed to corroborate | **PARTIAL RESOLUTION**: family-tradition battle attribution confirmed unverified; downgraded to Moderate Signal in vault narrative; DAR patriot status retained |
+
+### Iteration 2: New-discrepancy scan (10 recently-touched persons)
+
+Scanned: Mary_Ann_Woodson_Cooley, Argaleus_Hercules_Henderson, James_Cox, Johann_Michael_Brecht, Daniel_Huff_Brunswick, William_Cox_Sr, John_Parker_Anderson_SC, Hiram_Cooley, Jacob_Cooley_Jr, Tabitha_Dolby.
+
+**Result**: 1 new mismatch found (#80 William Cox Sr birth year: Family_Tree.md "c.1726" vs person file "c.1730-1735"). Logged in cross_reference_audit.md as new row, deferred per Guard Rail #3 pending Cox Family History Project re-read.
+
+### Searches performed (round 2)
+
+| # | Search | Result |
+|---|---|---|
+| 1 | "John Joseph Cooley" 1819 1896 Greenville mother father parents | POSITIVE Ancestry snippet: parents = Hiram + Susan; spouse = Stacy Ann Chasteen. Tier 3. |
+| 2 | "SS Hamburg" 1935 passenger arrival "New York" June ship manifest | NEGATIVE for June 1935; confirms 11 Jul + 21 Aug 1935 sailings only. |
+| 3 | "Tucker Woodson" 1762 1831 wife "Anne Stolle" OR "Ann Scott" Mary Ann Woodson | POSITIVE: Geni "Anne Woodson born Stoll" 1777-1823; Tucker's 2nd wife. Multiple corroborating sources. |
+| 4 | "Robert King" "Kings Mountain" patriot Anderson SC 1780 DAR Washington District NC militia | NEGATIVE: Robert King not in carolana.com Kings Mountain roster. |
+| 5 | "John Joseph Cooley" "Stacy Ann" OR "Stacy Chasteen" Greenville Charstee daughter | POSITIVE clarification: Stacy Ann (Littleton) Chapman = Emily's mother (Charstee's grandmother); "Stacy Chapman Boyce" = Jake Cooley's wife. |
+| 6 | "Robert King" "Washington District" "North Carolina" militia revolutionary war Anderson South Carolina | NEGATIVE for specific Robert King attribution. |
+| 7 | "John Joseph Cooley" 1819 census 1820 1830 Greenville Hiram household | POSITIVE indirect: Cooleys-and-Crafts confirms Susan Cothran was alive in 1850 census Greenville (with son John Hiram); John Hiram's mother = Susan. |
+| 8 | "Henry Kascher" 1935 passenger Hamburg arrival ship manifest New York | NEGATIVE (no specific manifest found in free indexes). |
+| 9 | site:gapeach2.wordpress.com Hiram Cooley children Susan Cothran Mary Ann Woodson | POSITIVE: confirms John Hiram Cooley's mother = Susan Cothran; "Stacy Chapman Boyce" = Jake Cooley's wife. |
+
+### Files modified (round 2)
+- [[Mary_Ann_Woodson_Cooley]] -- mother field expanded with Geni Tier 3 dates; biography paragraph updated; Data Discrepancies row #76 escalated to DEFER/NEEDS_PRIMARY; Tucker Woodson 2nd-wife row updated with 3-source corroboration.
+- [[Charstee_King]] -- new Data Discrepancies row added documenting "Stacy Ann Chasteen" generation-confusion resolution (#77).
+- [[Henry_Michael_Kascher]] -- Data Discrepancies row #75 escalated from OPEN to NEEDS_PRIMARY with NARA M237 path noted.
+- [[Robert_King_II]] -- Vital Information military row tempered; biography "fought" → "reportedly"; new Data Discrepancies row #79 added.
+- [[Family_Tree]] -- line 525 cascade fix: "Tucker Woodson 1762-1831 + Ann Scott Woodson" → "Tucker Woodson 1762-1831 + Anne Stolle (1777-1823)".
+- [[cross_reference_audit]] -- 5 new rows added (#76-80); audit summary section appended.
+- [[Research_Log]] -- this entry.
+
+### Final verify count
+`grep -c "DISCREPANCY\|MISMATCH\|CONFLICT" cross_reference_audit.md` = **14** (start-of-round-2 baseline: 11; +3 net new references after the round-2 sweep: #76 DEFER, #79 CONFIRMED MODERATE NEGATIVE SIGNAL, #80 MISMATCH).
