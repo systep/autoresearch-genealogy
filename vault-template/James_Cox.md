@@ -56,3 +56,13 @@ He died May 22, 1853 and is buried at Standing Springs Cemetery, Simpsonville, S
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | "German" identity | Family note: "a faithful German" | Y-DNA: R1b (British Isles) | RESOLVED: "German" refers to Stangle line, not Cox. Note conflates two ancestors. |
+
+## Local History Sources
+
+### Standing Springs Baptist Church charter (1818)
+
+Per the Standing Springs Baptist Church historical marker (hmdb.org marker #168369) and the Simpsonville Sentinel 200-year-anniversary article (Sept. 21, 2018), Standing Springs Baptist Church was organized in 1818 as an arm of Fork Shoals Baptist Church. Rev. Nathan Berry was the first pastor. The 10 charter members were: **"Arguless, Elizabeth and Rachel Henderson, William Mayhall, Rhonda Moore, Thomas, Delila and James Richardson and Christopher and Hannah Robbins"**. "James Richardson" appears in the charter list, not James Cox, but the marker explicitly states **"Early meetings were held in the home of James Cox and the first meeting house was constructed c. 1836 on land donated by Mr. Cox"**. The church derives its name from a nearby spring that originates underground and appears as standing water. The Henderson charter family (Argaleus II, Elizabeth, Rachel) corroborates the Cox/Henderson cluster migration documented elsewhere in the vault: Olive Mary "Polly" Henderson (Ezekiel's daughter; sister of Argaleus II) married Thomas B. Cox, James Cox's brother or close kin (see [[Olive_Mary_Polly_Henderson_Cox]]). Tier 2 (historical marker + secondary newspaper article); Tier 1 source would be the original Standing Springs Baptist church minute book on Furman University SC Baptist microfilm collection (libguides.furman.edu/special-collections/sc-baptist-collection/microfilm). Sources: hmdb.org/m.asp?m=168369; sentinelinternet.com/2018/09/21/standing-springs-baptist-church-celebrating-200-year-anniversary/ (agentic fetch 403; web-search snippets 2026-05-02).
+
+### R. W. Simpson, History of Old Pendleton District (1913)
+
+The adjacent Pendleton District (now Anderson/Pickens/Oconee counties) genealogical compilation **R. W. Simpson, *History of Old Pendleton District (South Carolina), with a Genealogy of the Leading Families of the District* (Anderson, SC: Oulla Printing & Binding Co., 1913)** may surface inter-district biographical references to Greenville-County Cox families. Direct fulltext retrieval (archive.org/details/historyofoldpend00simp_0) returned 403 to agentic fetch 2026-05-02; surname-index browser inspection is a NEEDS_HUMAN_FOLLOWUP. Library of Congress item 31020858; FamilySearch catalog #412143.

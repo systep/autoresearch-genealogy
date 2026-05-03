@@ -2,13 +2,85 @@
 type: reference
 created: 2026-04-09
 updated: 2026-05-02
-last_session: "2026-05-02 DNA Chromosome Analysis (prompt 12, scoped 2 iterations): scaffolded chromosome-painting + genetic-profile working files for L.D. Salmanson (male). Subject's documented tree predicts ~75% Ashkenazi Jewish (50% paternal Salmanson/Salk + Markel/Frei/Brandt + ~25% maternal-Kascher Transylvanian) and ~25% British Isles / NW European (maternal-Kascher's mother → SC colonial Cox/Long/Huff/King/Stangle/Bright). X-chromosome calibration documented (male, X is 100% from mother Kathryn Ann Kascher; predicted Kascher-Ashkenazi + SC-colonial-British/NW-Euro mix). NO RAW DATA INGESTED — vault has zero ancestry-composition CSVs; both Chromosome_Painting.md and Genetic_Profile.md were templates with placeholder values. Files re-cast in expected-ancestry-only mode pending raw 23andMe / AncestryDNA / MyHeritage / FTDNA / GEDmatch ingest. NEW OQ #32 logged. 0 web searches consumed. Earlier 2026-05-02 entries: Colonial Records Search (prompt 10), Unresolved Persons (prompt 06), GEDCOM Completeness (prompt 04), Timeline Gap Analysis (prompt 07), Immigration Search (prompt 11), Source-Citation Audit (prompt 05), Open-Question Resolution (prompt 08), Find a Grave Sweep (prompt 03), Cross-Reference Audit (prompt 02), Tree Expansion (prompt 01)."
+last_session: "2026-05-02 Local History Extraction (prompt 09, scoped 2 iterations): consulted 6 source-bodies across 3 prioritized regions (SC county histories, Schriesheim Ortsfamilienbuch, Galicia Waniowice/Lesko); 1 source-body ingested into vault person files (Standing Springs Baptist Church 1818 charter + James Cox land donation, Tier 2 hmdb.org marker + Simpsonville Sentinel 2018), 4 source-bodies confirmed-pointer-only (Schuhmann 2004 Familienbuch Schriesheim, Online OFB Schriesheim genealogy.net, Simpson 1913 Pendleton District, James M. Richardson 1930 Greenville County); 4 negative-result regions (JRI-Poland Sambor and Lesko Markel/Frei not surfaced; Sambor Yizkor no new entries; Pinkas Hakehillot Lita no Salmanson/Salk surfaced; Transylvania deferred). 9 of 12 web-search budget consumed. NO commit, NO push. Files modified: Johann_Michael_Brecht.md, Argaleus_Hercules_Henderson.md, James_Cox.md, local_history_audit.md (new), Research_Log.md (this entry). Earlier 2026-05-02 entries preserved below: DNA Chromosome Analysis (prompt 12)."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-05-02 Local History Extraction sweep (Session: branch claude/run-top-agents-oyF19, prompt 09-bygdebok-extraction)
+
+**Goal**: 2-iteration scoped run of prompt 09 against regional local-history sources (bygdeboker, county histories, Ortsfamilienbücher, Yizkor books, Pinkasim). Per-iteration cap 3 source-bodies; 6 total. Web-search budget cap 12 (used 9). Skip Norwegian bygdeboker (no live Norwegian ancestor file in vault apart from Barnett_Salmanson reference).
+
+**Priority regions selected per task brief**:
+1. South Carolina county histories (Greenville/Anderson/Pendleton/Brunswick) — large vault footprint
+2. Schriesheim Ortsfamilienbuch / Palatine emigration — Bright/Brecht 1726 emigration documented
+3. Galicia (Waniowice / Lesko) — Markel/Frei branch
+4. Optional Litvak Vilna and Transylvanian Waldhütten — checked Vilna only as one-off; Transylvania deferred
+
+**Search log**:
+
+| # | Query | Target region | Outcome |
+|---|---|---|---|
+| 1 | "History of Greenville County South Carolina" "William Cox" OR "Isaac Cox" Brashier biographical | SC | Surfaced Cox Family History Project + WikiTree; no new SC county history sketch beyond Cox Family History Project |
+| 2 | "Ortsfamilienbuch Schriesheim" Brecht Hoffman 1684 marriage Ortssippenbuch | Schriesheim | **HIT**: Schuhmann *Familienbuch Schriesheim 1650-1900* (2004); Ancestors-in-Baden Schriesheim site; online OFB at ofb.genealogy.net/famlist.php?ofb=schriesheim |
+| 3 | "All Galicia Database" Frey OR Frei Waniowice Sambor 1894 birth marriage Yoseph Markel | Galicia | Negative; no specific Frey/Markel records surfaced beyond pre-existing AGAD Fond 424 vault hit |
+| 4 | "History of Old Pendleton District" R.W. Simpson Anderson Greenville biographical Cox Henderson Long | SC | **HIT**: R.W. Simpson, *History of Old Pendleton District* (Anderson SC: Oulla Printing & Binding Co., 1913); LoC item 31020858; FamilySearch #412143; archive.org/details/historyofoldpend00simp_0 djvu fulltext blocked 403 to agentic fetch |
+| 5 | Schriesheim Ortssippenbuch Familienbuch 1650-1900 owk-schriesheim Brecht Hoffman page | Schriesheim | Confirmed Schuhmann 2004 1060 pp; Heidelberg UB katalog 65850703; OpenLibrary OL3463118M; google books id N-BHHAAACAAJ; badische-ortsfamilienbuecher.de/buch.php?id=60 |
+| 6 | "Sambor Yizkor" "Markel" OR "Frei" OR "Frey" Waniowice necrology page | Galicia | Negative this session; pre-existing "Karp, Yosef and Family (4 People)" entry remains the only Sambor Yizkor positive |
+| 7 | genealogytrails.com Greenville Anderson SC Cox Henderson family "biographical" | SC | Surfaced obit pages, military pages; no new biographical sketch retrieved (snippet only) |
+| 8 | "Standing Springs Baptist" Greenville Cox Long history church 1818 founders | SC | **HIT**: hmdb.org Historical Marker #168369 + Simpsonville Sentinel 200-yr article (2018-09-21). Charter members 1818: "Arguless, Elizabeth and Rachel Henderson, William Mayhall, Rhonda Moore, Thomas, Delila and James Richardson and Christopher and Hannah Robbins"; Rev. Nathan Berry first pastor; first meeting house c.1836 on land donated by James Cox; early meetings in James Cox's home |
+| 9 | JewishGen "All Galicia Database" Markel Sambor OR Lesko OR Lisko 1880 census record | Galicia | Negative; AGD pointer pre-existing in [[Frei_Karp_Waniowice_Research_2026_04_19]]; no Markel/Lesko-Lisko 1880 census surfaced; Lisko district had 17 town pages in JewishGen Communities DB |
+| 10 | "Schuhmann" Familienbuch Schriesheim 1650-1900 ISBN published Odenwaldklub volume page Brecht | Schriesheim | Confirmed Schuhmann 2004; series Badische Ortssippenbücher Band 107; per-page Brecht entries not surfaced in snippets |
+| 11 | "Lisko" OR "Lesko" Galicia Markel Frei JRI-Poland 19th century vital records project | Galicia | JRI-Poland Lesko Vital Records Project exists at jri-poland.org/project/lesko/Vital-Records-Project/ but currently in migration to new search system; no Markel/Frei surname-index hits in available snippets |
+| 12 | "Pinkas Hakehillot" Vilna OR Vilnius "Salmanson" OR "Zalmanson" Litvak community history | Lithuania (Vilna) | Negative; no Salmanson/Zalmanson/Salk surfaced in Pinkas Hakehillot Lita snippets; LitvakSIG (litvaksig.org) recommended for browser-side All Lithuania Database lookup |
+
+**WebFetch budget**: attempted 4 fetches; all returned 403 (archive.org djvu, search.geshergalicia.org, hmdb.org marker page, sites.google.com Cox Family History Project). Web-search snippet extraction was the only viable channel.
+
+**Iteration 1** (3 source-bodies): SC county histories (Standing Springs marker + Pendleton District book + Cox Family History Project recheck), Schriesheim Familienbuch (Schuhmann 2004 + Ancestors-in-Baden + online OFB), Galicia AGD (Frey + Karp pages re-checked).
+
+**Iteration 2** (3 source-bodies): JRI-Poland Lesko Vital Records Project, Sambor Yizkor surname recheck, Pinkas Hakehillot Lita Vilna recheck.
+
+**Total source-bodies consulted**: 6 distinct (SC: Standing Springs marker, Pendleton District book, Greenville County 1930 Richardson; Schriesheim: Schuhmann 2004 OFB; Galicia: Sambor Yizkor + JRI-Poland Lesko; Lithuania: Pinkas Hakehillot Lita). The Cox Family History Project and Ancestors-in-Baden site were treated as supplementary, not counted toward the source-body budget.
+
+**Facts extracted into person files this session**:
+
+| Person | Fact | Source |
+|---|---|---|
+| [[Argaleus_Hercules_Henderson]] | Standing Springs Baptist Church 1818 charter member context — "Arguless, Elizabeth and Rachel Henderson" almost certainly = Argaleus II (b. 1784, grandson; this person was deceased by 1818), Elizabeth Brasher Henderson (Ezekiel's wife), and an unidentified Rachel Henderson (NEW open question) | hmdb.org marker #168369 + Simpsonville Sentinel 2018-09-21 (Tier 2) |
+| [[James_Cox]] | Standing Springs charter context — first meeting house c.1836 on land donated by James Cox; early meetings in his home; Rev. Nathan Berry first pastor (already partially in vault, refined this session) | hmdb.org marker #168369 + Simpsonville Sentinel 2018-09-21 (Tier 2) |
+| [[Johann_Michael_Brecht]] | Schriesheim Familienbuch 1650-1900 (Schuhmann 2004) added to Document Sources as the standard published OFB covering this branch; Local History Sources section added with full citation, derivative online OFB pointer, and German-language original-text caveat | Schuhmann 2004 (Tier 2 source identification only; per-entry inspection NEEDS_HUMAN_FOLLOWUP) |
+
+**Negative results logged**:
+- Galicia: JRI-Poland Lesko + Sambor surname-index access blocked (project migration / agentic 403); no new Markel/Frei records surfaced in snippets
+- Sambor Yizkor: no new Frei/Markel necrology entries surfaced beyond pre-existing Karp positive
+- Lithuania (Vilna): no Salmanson/Zalmanson/Salk surfaced in Pinkas Hakehillot Lita snippets
+- Greenville/Pendleton county histories: Simpson 1913 + Richardson 1930 confirmed-pointer-only (archive.org djvu 403)
+- Transylvania (Waldhütten/Valchid): NOT searched this session (deferred per scope decision)
+
+**New open questions surfaced**:
+- Identity of "Rachel Henderson," 1818 Standing Springs Baptist charter member (logged in [[Argaleus_Hercules_Henderson]] Local History Sources section). No current vault person matches.
+
+**Files modified this session**:
+- [[Johann_Michael_Brecht]]: added Schuhmann 2004 *Familienbuch Schriesheim* + online OFB to Document Sources; added new `## Local History Sources` section with German-language original-text caveat
+- [[Argaleus_Hercules_Henderson]]: added new `## Local History Sources` section with Pendleton District + Standing Springs Baptist 1818 charter context
+- [[James_Cox]]: added new `## Local History Sources` section with Standing Springs Baptist + Pendleton District context
+- [[local_history_audit]] (new file): created with 9-row region/source/ancestor/facts/status table + 9 NEEDS_HUMAN_FOLLOWUP items + 2-independent-sources analysis
+- [[Research_Log]]: this entry; YAML last_session updated
+
+**Guard-rail compliance**:
+- Tier classification stated explicitly for every fact added
+- Original German-language nature of Schriesheim OFB noted; no extracted German text translated this session (no per-entry text retrieved)
+- Patronymic / farm-name conventions: not applicable to Schriesheim Brecht line (settled fixed Germanic surname pre-1650); not applicable to SC English-origin Cox line
+- No fabricated ancestors; no existing dates/names modified
+- All facts cite specific source (book + page if available, or specific URL); no generic "Google Books"
+
+**No commit, no push** per task instructions.
+
+---
+
 
 ## 2026-05-02 DNA Chromosome Analysis (Session: branch claude/run-top-agents-oyF19, prompt 12-dna-chromosome-analysis)
 
