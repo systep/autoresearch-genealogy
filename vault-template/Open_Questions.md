@@ -5,6 +5,29 @@ updated: 2026-05-02
 tags: [genealogy, research, open-questions]
 ---
 
+## 2026-05-02 session updates — DNA Chromosome Analysis (prompt 12, scoped 2 iterations)
+
+### NEW OQ #32 (OPEN, DATA GAP, vault-tooling): Ingest raw ancestry-composition CSV for L.D. Salmanson
+
+**Status**: As of 2026-05-02 there is NO raw consumer-DNA export anywhere in `vault-template/` or `Assets/`. Both [[Chromosome_Painting]] and [[Genetic_Profile]] were template stubs at session start; they have now been re-cast in expected-ancestry-only mode (subject = L.D. Salmanson, male; X-calibration framework documented) but cannot complete the actual per-chromosome Copy 1 / Copy 2 assignment table without raw segment data.
+
+**Predicted composition from documented tree** (NOT yet confirmed by DNA): ~75% Ashkenazi Jewish (50% paternal Salmanson/Salk + Markel/Frei/Brandt + ~25% maternal-Kascher Transylvanian) + ~25% British Isles + Northwest European (maternal-Kascher's mother → SC colonial Cox/Long/Huff/Moseley/Holloway/King/Dolby/Cooley/Henderson/Goldsmith/Brasher/Stangle/Brecht-Bright).
+
+**HUMAN ACTION REQUIRED**:
+1. Download from `https://you.23andme.com/tools/data/download/` (raw genome v5 + Ancestry Composition chromosome painting CSV) OR equivalent from AncestryDNA / MyHeritage / FTDNA / GEDmatch.
+2. Save to suggested path: `Assets/DNA/<provider>_<YYYYMMDD>_chromosome_painting.csv` and `Assets/DNA/<provider>_<YYYYMMDD>_raw.txt`.
+3. Re-run prompt 12 with full 6-iteration protocol once data is loaded; compare actual Copy 1 / Copy 2 ancestry to predictions in [[Chromosome_Painting]] §Per-Chromosome Analysis.
+4. If at least one parent (Alan Carl Salmanson or Kathryn Ann Kascher) also tests, parental phasing converts all Low-Moderate confidence calls to High.
+
+**Cascading work this would unblock**:
+- OQ #4 (How do SC families connect to Kascher?) — mtDNA haplogroup will reveal whether the unbroken female line traces to Kascher Transylvanian or to SC colonial.
+- OQ #9 (Zalmanson-Schneerson Chabad-Lubavitch claim, Tier 3 from loebtree.com) — Y-DNA Big-Y test could place Salmanson Y-haplogroup in the Chabad cluster (or rule it out). Per Guard Rail #2, would still need independent corroboration.
+- Sub-population separation (Litvak / Galician / Transylvanian Ashkenazi) requires GEDmatch admixture tools (Eurogenes K36, MDLP K23b) AFTER raw genome is uploaded to GEDmatch.
+
+**Confidence**: This OQ is well-defined and human-actionable; not solvable from the agentic environment.
+
+---
+
 ## 2026-05-02 session updates — Open-Question Resolution (prompt 08, 2-iteration scoped run)
 
 ### Iteration summary

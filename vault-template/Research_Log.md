@@ -2,13 +2,60 @@
 type: reference
 created: 2026-04-09
 updated: 2026-05-02
-last_session: "2026-05-02 Colonial Records Search sweep (prompt 10, scoped 2 iterations): targeted ~12 pre-1800 colonial ancestors with single-source state, will-book transcription gaps, or DAR Patriot candidacy. 9 web searches consumed (cap 12). Key result: **John Parker DAR Patriot RIN A087608 confirmed**, Pvt 96th District SC Militia. Daniel Huff 1773 will refined: signing 19 Apr 1773, witnesses John Hammack + Daniel Burnett identified. Tucker Woodson second wife corrected from Ann Scott (Tier 3 single) to Anne Stolle (Tier 2 dual-source) — affects [[Mary_Ann_Woodson_Cooley]] mother attribution. Argaleus Henderson 1804 will Tier 2 image source added. Robert King II DAR RIN remains NEEDS_HUMAN_FOLLOWUP (absent from carolana.com Kings Mountain published roster). New audit file [[colonial_records_audit]] created. Earlier 2026-05-02 entries: Unresolved Persons (prompt 06), GEDCOM Completeness (prompt 04), Timeline Gap Analysis (prompt 07), Immigration Search (prompt 11), Source-Citation Audit (prompt 05), Open-Question Resolution (prompt 08), Find a Grave Sweep (prompt 03), Cross-Reference Audit (prompt 02), Tree Expansion (prompt 01)."
+last_session: "2026-05-02 DNA Chromosome Analysis (prompt 12, scoped 2 iterations): scaffolded chromosome-painting + genetic-profile working files for L.D. Salmanson (male). Subject's documented tree predicts ~75% Ashkenazi Jewish (50% paternal Salmanson/Salk + Markel/Frei/Brandt + ~25% maternal-Kascher Transylvanian) and ~25% British Isles / NW European (maternal-Kascher's mother → SC colonial Cox/Long/Huff/King/Stangle/Bright). X-chromosome calibration documented (male, X is 100% from mother Kathryn Ann Kascher; predicted Kascher-Ashkenazi + SC-colonial-British/NW-Euro mix). NO RAW DATA INGESTED — vault has zero ancestry-composition CSVs; both Chromosome_Painting.md and Genetic_Profile.md were templates with placeholder values. Files re-cast in expected-ancestry-only mode pending raw 23andMe / AncestryDNA / MyHeritage / FTDNA / GEDmatch ingest. NEW OQ #32 logged. 0 web searches consumed. Earlier 2026-05-02 entries: Colonial Records Search (prompt 10), Unresolved Persons (prompt 06), GEDCOM Completeness (prompt 04), Timeline Gap Analysis (prompt 07), Immigration Search (prompt 11), Source-Citation Audit (prompt 05), Open-Question Resolution (prompt 08), Find a Grave Sweep (prompt 03), Cross-Reference Audit (prompt 02), Tree Expansion (prompt 01)."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-05-02 DNA Chromosome Analysis (Session: branch claude/run-top-agents-oyF19, prompt 12-dna-chromosome-analysis)
+
+**Goal**: 2-iteration scoped run of prompt 12. Iteration 1: read existing DNA files, build per-chromosome assignment table. Iteration 2: cross-reference vs. documented maternal/paternal lines in Family_Tree.md.
+
+**Subject**: L.D. Salmanson (Leonard Daniel Salmanson), male.
+
+**Iteration 1 — read existing DNA files, build framework table**:
+
+- Read [[Chromosome_Painting]] and [[Genetic_Profile]] end-to-end. Both files were unchanged from `vault-template/templates/` boilerplate at session start (placeholder values: `[Provider]`, `[Date]`, `[Region]`, `XX.X%`, `created: YYYY-MM-DD`).
+- Confirmed: **NO raw ancestry-composition CSV** present anywhere in `vault-template/` or `Assets/`. Searched for `23andme`, `ancestrydna`, `chromosome`, `haplogroup`, `GEDmatch`, `cM`, `centiMorgan`, `mtDNA`, `Y-DNA` across the entire vault — only the two template Markdown files surfaced.
+- Subject sex: male (per [[Family_Tree]] direct-line diagram and explicit subject identification). X-calibration is therefore applicable: L.D.'s single X chromosome was inherited entirely from his mother Kathryn Ann Kascher.
+- Built per-chromosome **expected-ancestry table** (22 autosomes + X) in [[Chromosome_Painting]]. Without raw segment data, table records predicted Copy 1 / Copy 2 dominance based on the documented tree, with all confidences at Low-Moderate (Copy 2 / maternal copy is itself mixed Ashkenazi+British, so clean separation is only possible on the ~50% of maternal chromosomes where the British/NW-European inheritance dominates by random segregation).
+
+**Iteration 2 — cross-reference vs. Family_Tree.md documented maternal/paternal lines**:
+
+| Side | Lines | Geographic origin | Predicted genetic-ancestry component |
+|---|---|---|---|
+| Paternal grandfather (Leonard Irving Salmanson) | Salmanson/Zalmanson; Salk | Vilnius (Lithuania); Russia | Ashkenazi (Litvak/Belarus) |
+| Paternal grandmother (Thelma Markel) | Markel; Frei; Brandt/Goldbaum | Waniowice + Lisko/Lesko, Galicia | Ashkenazi (Galician) |
+| Maternal grandfather (Kathryn's father, Kascher line) | Kascher; Falk | Waldhütten/Valchid, Transylvania → Ohio ~1910-1912 | Ashkenazi (Transylvanian) |
+| Maternal grandmother (Kathryn's mother, SC line) | Cox; Long; Huff; Moseley; Holloway; King; Dolby; Cooley; Henderson; Goldsmith; Brasher; Stangle; Brecht/Bright | NC/VA/SC colonial + Ireland 1770 (King, Dolby) + England (Stangle) + Schriesheim Palatinate Germany 1726 (Brecht/Bright) | British Isles + Northwest European/Palatinate German |
+
+**Key cross-reference findings**:
+
+1. The paternal side is 100% Ashkenazi (Litvak + Galician), so all paternal autosomal contributions should fall into a single "Ashkenazi Jewish" bin in any consumer-test report.
+2. The maternal side is mixed: ~half Ashkenazi (Kascher Transylvanian) + ~half British/NW-European (SC colonial). This makes Copy 2 of every autosome unpredictable in advance.
+3. **Standard ancestry-composition algorithms cannot distinguish Litvak from Galician from Transylvanian Ashkenazi** — they all collapse into one bin. Sub-population separation requires GEDmatch admixture tools (Eurogenes K36, MDLP K23b) or IBD reference-panel matching (FTDNA Big-Y, MyHeritage genetic groups).
+4. **The X chromosome is the only definitively-maternal chromosome for a male subject**. When raw data arrives, X-ancestry will partially separate maternal-Kascher Ashkenazi from paternal Ashkenazi (any Ashkenazi-labeled segment on the X must come from the Kascher Transylvanian line).
+5. Predicted overall composition: ~75% Ashkenazi Jewish + ~25% British Isles/NW European. Per Guard Rail #8 these are rough genealogical predictions, not exact targets, with random-segregation variance expected at ±5-10pp at the great-grandparent level.
+
+**Searches consumed**: 0 (cap was 0 unless critical for methodology citation; not needed).
+
+**Discrepancies vs. documented tree**: NONE detectable without raw data. If/when raw data is ingested and shows substantial deviation (e.g., <50% Ashkenazi when ~75% is predicted, or ≥1% from any unexpected component such as Sephardi/Mizrahi/East Asian/Native American), discrepancies will be logged in [[Open_Questions]] and [[cross_reference_audit]] per Guard Rail #4 (do NOT silently rewrite the tree).
+
+**New OQs**: NEW OQ #32 (DATA GAP — ingest raw ancestry-composition CSV).
+
+**Files modified this session**:
+- [[Chromosome_Painting]]: replaced template-placeholder content with subject-specific framework, X-calibration prediction, full 22+X expected-ancestry table, summary, segment-distribution template, and 5 contingency open questions.
+- [[Genetic_Profile]]: replaced template-placeholder content with subject-specific working profile, mtDNA/Y-DNA haplogroup predictions (without test data), tiered-confidence synthesis, provider-bias notes, predicted genetic-to-genealogical mapping.
+- [[Open_Questions]]: appended OQ #32 (raw DNA data ingestion gap).
+- [[Research_Log]]: this entry.
+
+**No commit, no push** per task instructions.
+
+---
+
 
 ## 2026-05-02 Colonial Records Search sweep (Session: branch claude/run-top-agents-oyF19, prompt 10-colonial-records-search)
 
