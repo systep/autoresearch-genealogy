@@ -2,13 +2,53 @@
 type: reference
 created: 2026-04-09
 updated: 2026-05-02
-last_session: "2026-05-02 Open-Question Resolution ROUND 2 (prompt 08, scoped 2 iterations, ~6 questions, 10 web searches): RESOLVED NEW OQ #33 (Rachel Henderson 1818 Standing Springs charter member = Rachel Jane Hughes Henderson, wife of Argaleus II); UPGRADED OQ #30 (Mary Holloway Huff is herself DAR-listed Patriot, A057xxx range, public service 550 lbs beef Brunswick Co VA 1776-1783; Holloway-434 candidate elder ruled out as different William Holloway); PARTIALLY_CLOSED Elizabeth Brasher Henderson death date 24 Dec 1839 (Tier 3 WikiTree corroboration); NO PROGRESS on Polly Henderson Cox 1850 census household details (login required), Polly Cox FaG (no memorial), William Thomas Long death year. Files modified: Open_Questions.md, Mary_Holloway_Huff.md, Argaleus_Hercules_Henderson.md, Witness_Network.md, timeline_gap_audit.md, Research_Log.md (this entry). NO commit, NO push. Earlier 2026-05-02 entries preserved below: Local History Extraction (prompt 09), DNA Chromosome Analysis (prompt 12)."
+last_session: "2026-05-02 Tree Expansion ROUND 2 (prompt 01, scoped 1 iteration, 4 ancestors, 8 web searches): Eastern European Ashkenazi + Palatine slice. NEW collateral file [[Sebastian_Brecht]] (b. 1600 Neudorf, d. 1670 Schriesheim; brother of Christoph Stoffel Brecht; co-migrated to Schriesheim by 1637 with his ancestor brother). Confirmed existing Brecht line already extends to Hans Braecht + Margretha (great-grandparents of Christoph) via Filae. Confirmed Friedberg/Goldberg parent files already exist from round 1. NEGATIVE for Israel Salk Kovno parents, Avraham Chaim Markel wife, Levi Itzhak Zalmanson 1851 corroboration, Heschel Markel parents beyond Mordko Ber. Files: Sebastian_Brecht.md (NEW), Research_Log.md (this entry). NO commit, NO push."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-05-02 Tree Expansion ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 01-tree-expansion, retry with tight scope)
+
+**Goal**: 1-iteration scoped retry of prompt 01 against Eastern European Ashkenazi + Palatine lines. Round 1 had added 13 SC/VA colonial files. Round 2 targets per task brief: Berko/Barnett Salmanson (Vilnius), Israel Salk (Kovno/Lithuania), Avraham Chaim Markel (Waniowice/Sambor), Rebecca Marcus Friedberg (Libau), Kascher/Falk (Waldhütten/Valchid), Johann Michael Brecht / Anna Catherina Brecht (Schriesheim Palatinate). Strict caps: 1 iteration, max 4 ancestors, max 8 web searches, max 5 file edits/creates.
+
+**Baseline**: Family_Tree.md is 532 KB (~28k tokens of content). Existing direct-line Brecht/Bright reaches Conrad Kuntz Brecht (b. ~1563) + Hans Braecht (Conrad's father per Filae); Salmanson reaches Yosef + Luba (gen 1 of digital tree screenshot) + Levi Yitzchok Zalmanson (vault-recorded as b. 1851 -- distinct from Geni's 1812-1872 Levi Yitzchok); Markel reaches Nissen Mendel (Yichus only, Tier 2); Friedberg/Goldberg parents exist as round-1 stubs (Willy_Friedberg.md + Henriette_Goldberg.md, both single Tier 1 source from NY 1910 marriage cert); Israel_Salk.md exists as a single-Tier-2 stub.
+
+**Web-search log (8 searches; 8 budgeted)**:
+
+| # | Query | Outcome |
+|---|---|---|
+| 1 | "Willy Friedberg" OR "Wilhelm Friedberg" Libau Liepaja Henriette Goldberg 1850 1880 Latvia Jewish | NEGATIVE for the specific couple. Confirmed Friedberg/Freidberg/Fridberg + Goldberg surnames are widely attested in Libau Jewish records (JewishGen Libau Holocaust DB; Mina Hermer née Goldberg of Libau 1844-1911 cited as separate person of similar generation). No corroborating record for our Willy + Henriette. |
+| 2 | JewishGen Latvia Libau "Friedberg" OR "Goldberg" Liepaja 19th century vital records | NEGATIVE for our individuals. Confirmed JewishGen Latvia Database (jewishgen.org/databases/latvia/) covers Liepāja vital records 1854-1921; Latvian State Historical Archives Raduraksti has full scanned originals. **Browser-side query NEEDS_HUMAN_FOLLOWUP.** |
+| 3 | "Israel Salk" Kovno 1882 Lithuania immigrant naturalization parents | NEGATIVE. No new records beyond the existing Tier 2 Flexoline mention. Pointer: JewishGen Lithuania Internal Passports DB 1919-1940 (jewishgen.org/databases/lithuania/internalpassports.htm) is the next free-search avenue. **Skipped this candidate per scope rule (no hit within 2 searches).** |
+| 4 | "Levi Itzhak Zalmanson" OR "Levi Yitzchok Zalmanson" Vilna Vilnius 1851 Rochel Deych genealogy | **PARTIAL**. Geni hit: Rabbi Levi Yitzchok Zalmanson 1812-1872 (different generation from the vault's b. 1851 Levi Itzhak who is Barnett's father per MyHeritage) -- distinct individual, possibly the GRANDFATHER or great-uncle. Joseph Zalmanson 1839-1921 also surfaced on Geni discussion thread (loebtree.com root individual). NO direct Tier 1 corroboration for our 1851 Levi Itzhak. NO new ancestor added. |
+| 5 | "Balthasar Brecht" Schriesheim 1636 parents father "Anna Margaretha Christman" 17th century Palatinate | **HIT**. WikiTree Brecht-11 confirms parents = Christoph Brecht + Anna (Wolpack) Brecht; FamilySearch ancestors page MR6K-JFX corroborates. Wife Anna Margaretha Christman cited as 1603-1683 with parents Paul Christman + Anna Maria Herring. Marriage date discrepancy (1668 vs. 1658). Cross-confirms vault data; no new ancestor required. |
+| 6 | Schriesheim Brecht family genealogy 1600s "Conrad Brecht" OR "Hans Brecht" Palatinate ancestors | **HIT**. Geni project 45913 confirms Sebastian Brecht (1600 Neudorf - 29 Apr 1670 Schriesheim), brother of Christoph Stoffel, married Elisabeth Maiden, settled Schriesheim by 1637. **NEW collateral ancestor** added as person file. Hans ALbrecht Brecht (c. 1538 - c. 1598) on Geni cited as a generation above Conrad Kuntz. |
+| 7 | "Heschel Markel" OR "Hersch Markel" Waniowice Sambor Galicia parents Mordko Ber 1862 birth | NEGATIVE. No new parents/siblings beyond vault's existing Mordko Ber + Henie + Mattis (uncle). Drohobycz Markel page (kehilalinks.jewishgen.org/drohobycz/families/markel.html) reconfirmed as DIFFERENT branch (Bartel-Markel of Lutowiska). |
+| 8 | "Avraham Chaim Markel" OR "Abraham Markel" Sambor Waniowice Galicia wife children Yad Vashem | NEGATIVE for wife/children. Sobibor survivor pages, Yad Vashem search-results-names UI, Drohobycz Markel branch all retrieved but no person-specific detail surfaced for our Avraham Chaim. **Skipped this candidate per scope rule (no triple-match hit within 2 searches).** |
+
+**Outcome (Eastern European + Palatine slice)**:
+- 4 candidates processed: (1) Rebecca Marcus Friedberg's parents (Friedberg/Goldberg), (2) Israel Salk, (3) Brecht (via Hans Balthasar/Christoph Stoffel/Conrad Kuntz), (4) Markel (via Heschel + Avraham Chaim).
+- 1 NEW collateral ancestor file created: [[Sebastian_Brecht]] (1600-1670, brother of [[Christoph_Stoffel_Brecht]]).
+- 0 NEW direct ancestor files (existing Brecht line already reaches Conrad Kuntz Brecht + Hans Braecht + Margretha; existing Friedberg/Goldberg files already exist from round 1).
+- 0 ancestor files modified (no changes to existing data; cross-reference audit is the right tool for that per Guard Rail #3).
+
+**Files created/modified**:
+- [[Sebastian_Brecht]] (NEW): collateral-line stub, Tier 3 single source, low confidence; documents the parallel migration of Christoph + Sebastian to Schriesheim by 1637.
+- [[Research_Log]] (this entry; YAML last_session updated).
+
+**Negative results / skipped (logged per Guard Rail #10)**:
+- Israel Salk: skipped after 1 search yielded zero. JewishGen Lithuania Internal Passports + naturalization records remain the next browser-side avenues.
+- Avraham Chaim Markel wife and children: skipped after 1 targeted Yad Vashem search yielded zero. Yad Vashem Names DB + USHMM browser search NEEDS_HUMAN_FOLLOWUP; the family-portrait identification key (top-row #2 "His Wife") remains the best lead.
+- Heschel Markel parents beyond Mordko Ber: NEGATIVE; Yichus Tier 2 attribution of Nissen Mendel as Mordko Ber's father remains uncorroborated.
+- Levi Itzhak Zalmanson b. 1851 (Barnett's father): no Tier 1 corroboration; the loebtree.com Tier 3 chain remains the only documentation.
+- Friedberg/Goldberg Libau corroboration: free-search snippets blocked at the database tier; JewishGen Latvia DB + Raduraksti are NEEDS_HUMAN_FOLLOWUP.
+
+**No commit, no push** per task instructions.
+
+---
 
 ## 2026-05-02 Open-Question Resolution ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 08-open-question-resolution, second pass)
 
