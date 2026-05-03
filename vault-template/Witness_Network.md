@@ -88,7 +88,7 @@ Connected to the Cox/Henderson family network. The church was organized in the h
 | Person | Role | Family Connection |
 |---|---|---|
 | Elizabeth Henderson | Charter member | Henderson family; connected to Cox through marriage of Rebecca Adeline Cox to Rev. Henry L. Henderson |
-| Rachel Henderson | Charter member | Henderson family |
+| Rachel (Hughes) Henderson, b. 1786 | Charter member | Wife of Argaleus Hercules Henderson II (m. 1811 Greenville SC); identified 2026-05-02 round 2 prompt-08 (Tier 3 familytreesite.org Henderson page, Moderate Signal) |
 | Thomas Richardson | Charter member | Richardson family; Connie Baker (mother of Thomas B. Cox) remarried William Richardson |
 | Delila Richardson | Charter member | Richardson family |
 | James Richardson | Charter member | Richardson family |

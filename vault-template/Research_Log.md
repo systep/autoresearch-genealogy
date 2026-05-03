@@ -2,13 +2,57 @@
 type: reference
 created: 2026-04-09
 updated: 2026-05-02
-last_session: "2026-05-02 Local History Extraction (prompt 09, scoped 2 iterations): consulted 6 source-bodies across 3 prioritized regions (SC county histories, Schriesheim Ortsfamilienbuch, Galicia Waniowice/Lesko); 1 source-body ingested into vault person files (Standing Springs Baptist Church 1818 charter + James Cox land donation, Tier 2 hmdb.org marker + Simpsonville Sentinel 2018), 4 source-bodies confirmed-pointer-only (Schuhmann 2004 Familienbuch Schriesheim, Online OFB Schriesheim genealogy.net, Simpson 1913 Pendleton District, James M. Richardson 1930 Greenville County); 4 negative-result regions (JRI-Poland Sambor and Lesko Markel/Frei not surfaced; Sambor Yizkor no new entries; Pinkas Hakehillot Lita no Salmanson/Salk surfaced; Transylvania deferred). 9 of 12 web-search budget consumed. NO commit, NO push. Files modified: Johann_Michael_Brecht.md, Argaleus_Hercules_Henderson.md, James_Cox.md, local_history_audit.md (new), Research_Log.md (this entry). Earlier 2026-05-02 entries preserved below: DNA Chromosome Analysis (prompt 12)."
+last_session: "2026-05-02 Open-Question Resolution ROUND 2 (prompt 08, scoped 2 iterations, ~6 questions, 10 web searches): RESOLVED NEW OQ #33 (Rachel Henderson 1818 Standing Springs charter member = Rachel Jane Hughes Henderson, wife of Argaleus II); UPGRADED OQ #30 (Mary Holloway Huff is herself DAR-listed Patriot, A057xxx range, public service 550 lbs beef Brunswick Co VA 1776-1783; Holloway-434 candidate elder ruled out as different William Holloway); PARTIALLY_CLOSED Elizabeth Brasher Henderson death date 24 Dec 1839 (Tier 3 WikiTree corroboration); NO PROGRESS on Polly Henderson Cox 1850 census household details (login required), Polly Cox FaG (no memorial), William Thomas Long death year. Files modified: Open_Questions.md, Mary_Holloway_Huff.md, Argaleus_Hercules_Henderson.md, Witness_Network.md, timeline_gap_audit.md, Research_Log.md (this entry). NO commit, NO push. Earlier 2026-05-02 entries preserved below: Local History Extraction (prompt 09), DNA Chromosome Analysis (prompt 12)."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-05-02 Open-Question Resolution ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 08-open-question-resolution, second pass)
+
+**Goal**: 2-iteration scoped re-run of prompt 08, ~6 questions, web-search budget ~12. Round 1 (earlier 2026-05-02) had resolved OQ #71 and partially resolved OQ #30. Round 2 targets: timeline_gap_audit OPEN rows for Polly Henderson Cox + Elizabeth Brasher Henderson; OQ #30 elder-William-Holloway angle; new "Standing Springs Rachel Henderson" research gap from agent 12.
+
+**Web-search log (10 searches; 12 budgeted)**:
+
+| # | Query | Outcome |
+|---|---|---|
+| 1 | "Polly Henderson" "Thomas Cox" 1850 census Greenville SC | Confirmed marriage + 12 children (WikiTree-derived); no specific 1850 page/family details (login required) |
+| 2 | "Olive Mary Cox" OR "Polly Cox" 1795 1876 Greenville Find a Grave Henderson | NEGATIVE for our person; "Mary Polly Points Wilson" (#27255070) and "Polly Anderson Cox" (#71011806) confirmed NOT-our-person |
+| 3 | "William Holloway" Lunenburg/Brunswick Virginia 1740s 1750s father "Mary Holloway" | **HIT**: Holloway-434 (William Holloway Sr. abt.1729-aft.1801) profile surfaced — but is **Spotsylvania/Caroline → Bedford → Cumberland VA** line, parents John Holloway + Hannah Spiers, wife Frances Meador; daughters Joanna White, Mary Dunklan, Nancy Brown, Sarah Holland, Jenny Anderson — RULED OUT as our Brunswick line |
+| 4 | "Rachel Henderson" Standing Springs Baptist 1818 Greenville charter member | Generic charter list confirmed; specific person identification not surfaced in this query |
+| 5 | WikiTree Holloway-434 William Holloway Sr 1729 children daughters Mary | Confirmed Holloway-434 family detail (Cumberland VA 1782 will); his daughters do NOT include Mary Holloway Huff of Brunswick |
+| 6 | "Elizabeth Brasher" Henderson 1839 Greenville Find a Grave OR cemetery burial Ezekiel | **HIT**: Death date **24 Dec 1839 Greenville District SC** corroborated (WikiTree Brasher-153, Tier 3); 12 children's birth dates listed; FaG memorial NOT located |
+| 7 | "William Thomas Long" Standing Springs cemetery 1825 Greenville Huff death | Negative (no FaG, no death cert) — confirms prior Round 1 negative |
+| 8 | "Daniel Huff" Brunswick Virginia "Mary" wife 1750s deeds tithables father-in-law Holloway | **MAJOR HIT**: Mary Huff is herself listed for Revolutionary War **public service Brunswick Co VA 1776-1783**, contributed 550 lbs beef (paid 5/14/7) — DAR-eligible Patriot |
+| 9 | "Mary Huff" Brunswick Virginia DAR patriot public service 1776 1777 Revolutionary War widow | **MAJOR HIT**: confirms DAR List of Ancestors 3rd Supplemental entry for Mary Huff with the 550 lbs beef public service citation, A057307 referenced |
+| 10 | "Argaleus Henderson II" wife name children Greenville SC 1818 Standing Springs Rachel | **MAJOR HIT**: **Rachel Jane Hughes (b. 1786) is the wife of Argaleus II**, married 1811 Greenville Co SC (Tier 3 familytreesite.org Henderson page) — solves Standing Springs charter-member "Rachel Henderson" research gap |
+
+**Resolved this session (round 2)**:
+
+1. **NEW OQ #33**: Rachel Henderson, charter member of Standing Springs Baptist 1818, identified as Rachel Jane Hughes Henderson (b. 1786), wife of Argaleus Hercules Henderson II. Cascade: [[Argaleus_Hercules_Henderson]] research gap closed; [[Witness_Network]] row updated. Confidence: Moderate Signal.
+2. **OQ #30 Mary Holloway Huff**: UPGRADED to DAR-listed Patriot status (3rd Supplemental, A057xxx range). Holloway-434 candidate elder generation ruled out as different William Holloway. Cascade: [[Mary_Holloway_Huff]] frontmatter sources + new DAR section + Open Items updated. Status remains PARTIALLY_RESOLVED (parents still unknown).
+3. **timeline_gap_audit Elizabeth Brasher Henderson row**: PARTIALLY_CLOSED — death date 24 Dec 1839 Greenville District SC corroborated.
+
+**No progress this session**:
+
+- Polly Henderson Cox 1850/1860/1870 census household details (Ancestry/FamilySearch login required)
+- Polly Henderson Cox Find a Grave (no memorial in any free-search result)
+- William Thomas Long 1887 vs 1897 death (already-known negative re-confirmed)
+
+**Files modified**:
+
+- `vault-template/Open_Questions.md` (round-2 iteration summary + NEW OQ #33 RESOLVED + OQ #30 update)
+- `vault-template/Mary_Holloway_Huff.md` (DAR Patriot status, Holloway-434 ruled-out note)
+- `vault-template/Argaleus_Hercules_Henderson.md` (Rachel Henderson research gap resolved)
+- `vault-template/Witness_Network.md` (Rachel Henderson row maiden name + spouse)
+- `vault-template/timeline_gap_audit.md` (3 row updates: Polly Henderson Cox, Elizabeth Brasher Henderson, Mary Holloway Huff)
+- `vault-template/Research_Log.md` (this entry; updated last_session)
+
+**No commit, no push.**
+
+---
 
 ## 2026-05-02 Local History Extraction sweep (Session: branch claude/run-top-agents-oyF19, prompt 09-bygdebok-extraction)
 

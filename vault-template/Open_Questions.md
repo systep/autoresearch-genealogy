@@ -5,6 +5,44 @@ updated: 2026-05-02
 tags: [genealogy, research, open-questions]
 ---
 
+## 2026-05-02 session updates — Open-Question Resolution ROUND 2 (prompt 08, 2-iteration scoped run)
+
+### Iteration summary (round 2)
+
+Attacked 6 questions/gaps with 10 web searches (under 12 budget). Round 2 follows round 1 (earlier on 2026-05-02) which had resolved OQ #71 and partially resolved OQ #30.
+
+- **OQ #30 (Mary Holloway Huff parentage): UPGRADED — independently DAR-listed Patriot.** WebSearch surfaced that **Mary Huff is herself on the DAR List of Ancestors (3rd Supplemental, DAR Ancestor # in the A057xxx range, evidence A057307 referenced)** for **public service: contributed 550 pounds of beef during the Revolution, paid 5 pounds 14 shillings 7 pence**, Brunswick Co VA 1776-1783. This is a **Tier 1 / Tier 2 corroboration** of her existence as a documented Brunswick Co VA resident. Independent sources continue to converge on William Holloway (d. 1784) as her most likely brother (administrator-bond security pattern + no naming in his 1784 will + estate-sale purchasers being her sons James and William Huff in 1789). **Holloway-434 elder candidate ruled out**: WikiTree Holloway-434 (William Holloway Sr. abt.1729-aft.1801) is **a different William Holloway** — Spotsylvania/Caroline VA → Bedford → Cumberland VA, parents John Holloway + Hannah Spiers, wife Frances Meador, daughters Joanna White, Mary Dunklan, Nancy Brown, Sarah Holland, Jenny Anderson — NOT our Brunswick Co line. Status remains **PARTIALLY_RESOLVED**: William Holloway (d. 1784) Brunswick is most likely Mary's brother; the elder generation (Mary's father) remains unidentified. New search-target for round 3: DAR records lookup at A057307 will name Mary's husband and may name her father.
+
+- **NEW OQ #33 (RESOLVED, NEW): Rachel Henderson, charter member of Standing Springs Baptist Church 1818, identified as Rachel Jane Hughes Henderson, wife of Argaleus Hercules Henderson II.** Tier 3 web source (familytreesite.org Henderson page + corroborating Tier 3 user trees) names **Rachel Jane Hughes (b. 1786)** as the wife of **Argaleus Hercules Henderson II (b. 22 Jun 1784, d. Jun 1860)**, married 1811 in Greenville Co SC. This identifies the third charter-member "Henderson" in the 1818 Standing Springs charter list ("Arguless, Elizabeth and Rachel Henderson") as the husband-wife-mother triplet: Argaleus II (son of Ezekiel and Elizabeth Brasher Henderson), Elizabeth Brasher Henderson (Argaleus II's mother, his father Ezekiel still living but apparently not a charter member), and Rachel Jane Hughes Henderson (Argaleus II's wife). **RESOLVED at Moderate Signal** — single Tier 3 source family-tree web page; the marriage date 1811 plus residency in Greenville is consistent with her being a charter member at the 1818 founding. Cascade: [[Argaleus_Hercules_Henderson]] research-gap resolved; [[Witness_Network]] Rachel Henderson row updated; new sub-stub note added for Rachel.
+
+- **Olive Mary Polly Henderson Cox 1850 census timeline gap: NO PROGRESS at level of household details.** Confirmed via WikiTree-derivative web search that Polly + Thomas B. Cox + their 12 children are well-documented online but NO specific 1850-census-page reference surfaced from free web (specific page/family-number requires login database). Henry Langford Henderson (Polly's nephew, b. 1812) is documented in 1850 Greenville with his widowed mother Elizabeth Brasher Henderson — that's Polly's mother. **NEW finding by-product**: **Elizabeth Brasher Henderson death date narrowed to 24 Dec 1839 Greenville District SC** (per WikiTree Brasher-153, Tier 3, web-search snippet). Cascaded to [[Elizabeth_Brasher]].
+
+- **Find a Grave for Olive Mary Polly Henderson Cox: NO PROGRESS.** WebSearch confirms NO Find a Grave memorial under "Polly Cox" 1795-1876 OR "Olive Mary Cox" exists at free-search level. The two "Polly Cox" memorials in the search results (#27255070 = Mary Polly Points Wilson, NOT our person; #71011806 = Polly Anderson Cox 1832-1907, NOT our person) are confirmed-negative. Status remains **NO_FAG_MEMORIAL** in [[findagrave_audit]] row 261 (already documented). Standing Springs Cemetery is the most likely burial site (where her sister Rebecca Adeline Cox Henderson is buried per FaG #8302588) but not confirmed.
+
+- **Find a Grave for Elizabeth Brasher Henderson: NO PROGRESS at FaG level.** No memorial surfaced in WebSearch results 2026-05-02 round 2. **By-product**: precise death date **24 Dec 1839** Greenville District SC is now Tier 3 corroborated (WikiTree Brasher-153). Cascaded to [[Elizabeth_Brasher]] §Vital Information.
+
+- **OQ #20 (William Thomas Long death year 1887 vs 1897): NO PROGRESS.** Re-searched with "William Thomas Long Standing Springs cemetery 1825 Greenville Huff death". No Find a Grave memorial, no Greenville death certificate index hit. Status remains OPEN; HUMAN ACTION REQUIRED (re-photograph headstone, OR Greenville County death records via Ancestry/FamilySearch login).
+
+### NEW OQ #33 (RESOLVED 2026-05-02 round 2): Rachel Henderson, Standing Springs Baptist 1818 charter member
+
+**Identified as**: Rachel Jane Hughes Henderson (b. 1786), wife of Argaleus Hercules Henderson II (b. 22 Jun 1784 - d. Jun 1860), married 1811 Greenville Co SC. Source: familytreesite.org Henderson page + cross-referenced Tier 3 user trees, retrieved 2026-05-02.
+
+**Resolution confidence**: Moderate Signal (single Tier 3 source-family but the family / marriage / residency / date logic is internally consistent and uncontradicted). Tier 1 corroboration would be the original Standing Springs Baptist church book on Furman University microfilm.
+
+### Cascading updates this session (08 prompt round 2)
+
+- [[Mary_Holloway_Huff]]: DAR-listed Patriot status (3rd Supplemental, A057xxx range, public service 550 lbs beef contribution) added to Vital Information + sources.
+- [[Argaleus_Hercules_Henderson]]: Standing Springs 1818 charter "Rachel Henderson" research-gap resolved; identified as Rachel Jane Hughes (b. 1786), wife of Argaleus II.
+- [[Elizabeth_Brasher]]: precise death date 24 Dec 1839 Greenville District SC added (Tier 3 WikiTree Brasher-153).
+- [[Witness_Network]]: Rachel Henderson row updated with maiden name and spouse.
+- [[timeline_gap_audit]] Elizabeth Brasher Henderson row updated with refined death date.
+
+### Web searches used
+
+10 of 12 budgeted (2 saved). Mix of positive findings (DAR Patriot for Mary Huff, Rachel Henderson identity, Elizabeth Brasher death date) and confirmed negatives (Polly Cox FaG, William Thomas Long).
+
+---
+
 ## 2026-05-02 session updates — DNA Chromosome Analysis (prompt 12, scoped 2 iterations)
 
 ### NEW OQ #32 (OPEN, DATA GAP, vault-tooling): Ingest raw ancestry-composition CSV for L.D. Salmanson
