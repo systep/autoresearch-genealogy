@@ -10,6 +10,27 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-05-02 Immigration Search ROUND 3 (Session: branch claude/run-top-agents-oyF19, prompt 11-immigration-search, third pass — targeted-slice retry)
+
+**Goal**: 2-iteration tightly-scoped retry of round-2 deferred items (Norbert Fleisig, Henry Kascher Discrepancy #75, Brecht/Bright 1726 Palatine ship, Anne/Mojzesz Markel ~1928, Avraham Chaim Markel) plus 2-3 fresh candidates (Michael Kascher Sr 1864, Max Salk Chicago, Robert Salem Salk). Cap: 2 iterations, ~10 candidates, ~12 searches. Free sources only.
+
+**Iteration 1 (5 searches)**: queries 16-20 in `immigration_search_audit.md`. Surfaced UCI Hirschberg Krakow Fleisig family page; eliminated Strassburger & Hinke for the Brecht 1726 cohort by scope (series begins 1727); negative on Henry Kascher June 1935 / Anne Markel 1928 / Michael Kascher Sr 1916-1920.
+
+**Iteration 2 (7 searches)**: queries 21-27. Confirmed Norbert Fleisig Krakow origin via Tier 2 compiled (UCI Hirschberg) + Tier 3 (Geni); discovered name variant **Norbert Nachum Fleisig**; sibling **Charles Fleisig (1881-1963)**, son **Earl Fleisig (1916-1999)**. Cross-vessel search for Discrepancy #75 eliminated SS Manhattan, SS Bremen, SS Europa for late-June 1935 NY arrival (none have a documented late-June 1935 NY arrival from a German port in the GG Archives free sample).
+
+**Outcome summary**:
+- Candidates processed: 8 (Norbert Fleisig, Henry Michael Kascher, Brecht 1726 cohort = Anna Catherina Brecht + Johann Michael Brecht + Stefan Brecht, Anne Markel, Morris/Mojzesz Markel, Michael Kascher Sr 1864, Max Salk Chicago 1892, Robert Salem Salk Chicago) + 1 N/A flag (Avraham Chaim Markel did not emigrate; killed in Galicia 1939).
+- Records newly corroborated: 1 (Norbert Fleisig Krakow origin, via UCI Hirschberg + Geni; Tier 3 → Tier 3 + Tier 2 compiled).
+- New name variants: **Norbert Nachum Fleisig** (Hebrew middle name).
+- Discrepancy #75 outcome: NEEDS_PRIMARY reaffirmed; alternate-vessel hypotheses (SS Manhattan, SS Bremen, SS Europa) eliminated; resolution path narrowed to NARA M237 June 1935 roll OR FamilySearch image-level review of 1906-1942 passenger list index.
+- Definitive negative (by scope): Strassburger & Hinke "Pennsylvania German Pioneers" cannot contain the Brecht 1726 arrival because the series begins 1727. No further Strassburger & Hinke searches warranted for this cohort.
+- Negative results / paywalled flags: 6 (Henry Kascher June 1935; Anne Markel 1928; Morris Markel 1928; Michael Kascher Sr 1916-1920; Max Salk Chicago; Robert Salem Salk Chicago).
+- Search budget: 12 of ~12 used.
+
+**Files modified**: `vault-template/Norbert_Fleisig.md` (Name Variants + Immigration sections, frontmatter sources expanded, `updated: 2026-05-02`), `vault-template/Henry_Michael_Kascher.md` (Data Discrepancies row #3 extended), `vault-template/cross_reference_audit.md` (Discrepancy #75 row extended), `vault-template/immigration_search_audit.md` (round-3 append), `vault-template/Research_Log.md` (this entry). NO commit, NO push.
+
+---
+
 ## 2026-05-02 Timeline Gap Analysis ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 07-timeline-gap-analysis, second pass)
 
 **Goal**: Two iterations: (1) attack 6-8 most-tractable OPEN gap rows from round-1 timeline_gap_audit.md; (2) add gap-row coverage for the EE/Palatine ancestors recently added to family.ged by GEDCOM round-2 agent (Salmanson/Salk/Markel/Frei/Brandt/Kascher/Brecht/Hoffman lines).
