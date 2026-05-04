@@ -2,13 +2,55 @@
 type: reference
 created: 2026-04-09
 updated: 2026-05-02
-last_session: "2026-05-02 GEDCOM Completeness ROUND 2 (prompt 04, scoped 2 iterations, 0 web searches, 40-INDI cap): Added Eastern European Ashkenazi + Palatine slice to family.ged. +39 INDI (@I40@-@I78@), +18 FAM (@F20@-@F38@). Slice: Salmanson direct line (Barnett, Elizabeth Salk, Abraham Zolly Salk, Tobey, Leonard Irving, Thelma Markel, Alan Carl, Kathryn Ann), Markel/Frei/Brandt (Heschel + Leah, Morris + Helen, Avraham Chaim, Florence + David Mermelstein, Anne, Joseph Brandt + Brina Goldbaum), Kascher Transylvanian-Saxon (Henry Michael, Mary Elizabeth Bright, Michael Jr. + Rosina Falk, Michael Sr. + Anna Binder, Martin Binder + Anna Weber), Brecht/Hoffman Palatinate (Johann Michael II + Margareta Simone, Johannes Michael I + Anna Katarina Hoffman, Hans Jost Hoffman + Christina Frank, Balthasar + Anna Margaretha Christmann, Christoph + Anna Barbara Wolpack, Conrad Kuntz + Catharina Camerer, Sebastian Brecht). Linked Mary Elizabeth Bright (@I59@) as CHIL of @F18@ (Albert Graham Bright + Rebecca Long), establishing Bright-Kascher-Salmanson three-cluster bridge. Tabitha Dolby (@I11@) reclassified PRESENT in audit (her r1 INCOMPLETE birth-date issue was already resolved when r1 GEDCOM was written). gedcom_audit.md updated: PRESENT 31→71, INCOMPLETE 8→7, MISSING 383→372, total rows 422→450. Validation: 78 INDI / 38 FAM, no orphan refs, no duplicate IDs, ends with 0 TRLR. Files: family.ged (modified), gedcom_audit.md (modified), Research_Log.md (this entry). NO commit, NO push."
+last_session: "2026-05-02 Timeline Gap Analysis ROUND 2 (prompt 07, scoped 2 iterations, 8 of 10 web searches): Iteration 1 attacked 7 OPEN gap rows from round-1 audit (Olive Henderson Cox FaG NEGATIVE, Mary Nancy Parker King FaG NEGATIVE, Nancy Gover Cooley death-date upper bound 'before 28 Jun 1844' WikiTree Tier 3, Hiram Cooley Susan Cothran marriage NEGATIVE, William Holloway 1782 Brunswick VA tax pointer-level PARTIALLY_CLOSED via Ancestry collection 62774 + LVA, Charstee King 1850 census pointer-level PARTIALLY_CLOSED via SCGenWeb 1850 Greenville alpha index PDF, Peter Jungblut Prince George's Co MD land patent NEGATIVE). Iteration 2 added 11 new gap rows for EE/Palatine ancestors recently added to family.ged: Barnett Salmanson, Israel Salk, Avraham Chaim Markel, Helen Brandt, Joseph Brandt, Henry Michael Kascher, Anna Kascher 1903, Johann Michael Brecht, Sebastian Brecht (collateral), Anna Catherina Bright Brecht, Anna Katherine Hoffman. 0 new events added to Timeline.md (no round-2 finding met Tier 1 or 2 sourcing). Verify: timeline_gap_audit.md OPEN count 19→32, PARTIALLY_CLOSED 6→12, RESOLVED 10→11. Files: timeline_gap_audit.md (modified, round-2 append), Research_Log.md (this entry). NO commit, NO push. PRIOR SESSION: 2026-05-02 GEDCOM Completeness ROUND 2 (prompt 04, scoped 2 iterations, 0 web searches, 40-INDI cap): Added Eastern European Ashkenazi + Palatine slice to family.ged. +39 INDI (@I40@-@I78@), +18 FAM (@F20@-@F38@). Slice: Salmanson direct line (Barnett, Elizabeth Salk, Abraham Zolly Salk, Tobey, Leonard Irving, Thelma Markel, Alan Carl, Kathryn Ann), Markel/Frei/Brandt (Heschel + Leah, Morris + Helen, Avraham Chaim, Florence + David Mermelstein, Anne, Joseph Brandt + Brina Goldbaum), Kascher Transylvanian-Saxon (Henry Michael, Mary Elizabeth Bright, Michael Jr. + Rosina Falk, Michael Sr. + Anna Binder, Martin Binder + Anna Weber), Brecht/Hoffman Palatinate (Johann Michael II + Margareta Simone, Johannes Michael I + Anna Katarina Hoffman, Hans Jost Hoffman + Christina Frank, Balthasar + Anna Margaretha Christmann, Christoph + Anna Barbara Wolpack, Conrad Kuntz + Catharina Camerer, Sebastian Brecht). Linked Mary Elizabeth Bright (@I59@) as CHIL of @F18@ (Albert Graham Bright + Rebecca Long), establishing Bright-Kascher-Salmanson three-cluster bridge. Tabitha Dolby (@I11@) reclassified PRESENT in audit (her r1 INCOMPLETE birth-date issue was already resolved when r1 GEDCOM was written). gedcom_audit.md updated: PRESENT 31→71, INCOMPLETE 8→7, MISSING 383→372, total rows 422→450. Validation: 78 INDI / 38 FAM, no orphan refs, no duplicate IDs, ends with 0 TRLR. Files: family.ged (modified), gedcom_audit.md (modified), Research_Log.md (this entry). NO commit, NO push."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-05-02 Timeline Gap Analysis ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 07-timeline-gap-analysis, second pass)
+
+**Goal**: Two iterations: (1) attack 6-8 most-tractable OPEN gap rows from round-1 timeline_gap_audit.md; (2) add gap-row coverage for the EE/Palatine ancestors recently added to family.ged by GEDCOM round-2 agent (Salmanson/Salk/Markel/Frei/Brandt/Kascher/Brecht/Hoffman lines).
+
+**Scope caps**: 2 iterations, web-search budget 10. Free sources only. NO Timeline.md propagation unless event meets Tier 1 or 2 sourcing.
+
+**Iteration 1 — searches run (8 of 10 budget)**:
+1. "Polly Cox" "Thomas Cox" Greenville 1876 Find a Grave -> NEGATIVE; Mary Rebecca "Polly" Cox King #48041647 different person.
+2. "Mary Nancy King" Anderson Co SC 1853 Find a Grave -> NEGATIVE.
+3. "Nancy Cooley" OR "Nancy Gover" 1830 OR 1840 census Greenville SC widow -> WikiTree Gover-8 confirms "died before 28 Jun 1844 Greenville Co SC"; refines round-1 1842 FaG upper bound (Tier 3).
+4. "Hiram Cooley" "Susan Cothran" marriage Greenville SC 1814 -> NEGATIVE; Cooleys-and-Crafts notes contradictory researcher claims about Susan Cothran's birth year (~1805) and survival (possibly to 1850 census).
+5. "William Holloway" Brunswick Co VA 1782 personal property tax tithables -> Library of Virginia + Ancestry collection 62774 identified as the correct database; no individual entry retrieved.
+6. "Charstee Cooley" OR "Charstee King" 1850 1860 census Greenville SC -> SCGenWeb 1850 Greenville District alphabetical census index PDF (scgenweb.org/greenville/1850_census_alpa.pdf) located as a free, browsable surrogate.
+7. "Olive Henderson Cox" 1795 1876 Find a Grave Greenville -> NEGATIVE for second time; recommend deprioritizing.
+8. "Peter Jungblut" Prince George's Co MD land patent 1730s German Palatine -> NEGATIVE for individual record; Maryland State Archives Patent Tract Index identified as correct database.
+
+**Iteration 2 — EE/Palatine gap-row additions (0 searches)**:
+Added 11 new gap rows to timeline_gap_audit.md covering: Barnett Salmanson (re-cataloged with full event set), Israel Salk, Avraham Chaim Markel, Helen Brandt, Joseph Brandt, Henry Michael Kascher, Anna Kascher 1903, Johann Michael Brecht, Sebastian Brecht (collateral), Anna Catherina Bright Brecht, Anna Katherine Hoffman.
+
+**Cross-cutting search targets identified for future research**:
+- AGAD Fond 424 Sambor + Lesko Jewish vital records 1855-1920 (touches Helen Brandt, Joseph Brandt, Avraham Chaim Markel)
+- Schriesheim Familienbuch (Schuhmann 2004) (touches Johann Michael Brecht, Sebastian Brecht, Anna Katherine Hoffman)
+- Berks Co PA Will Book 1794-1795 (touches Johann Michael Brecht 1794 will)
+- NARA Boston/Waltham U.S. District/Circuit Court RI Naturalization Records (touches Barnett Salmanson Petition)
+
+**Verify before -> after** (timeline_gap_audit.md):
+- "OPEN" string count: 19 -> 32 (+13: 11 new EE/Palatine rows OPEN, 2 round-2 status notes referencing the OPEN word in prose)
+- "PARTIALLY CLOSED" / "PARTIALLY_CLOSED" string count: 6 -> 12 (+6: 3 new round-2 PARTIALLY_CLOSED rows in the iteration-1 results table, plus 3 prose mentions)
+- "RESOLVED" / "CLOSED" string count: 10 -> 11 (+1 prose mention; no new RESOLVED rows)
+
+**Outcome summary**:
+- Rows attacked from round-1 OPEN set: 7 (Olive Henderson Cox FaG, Mary Nancy Parker King FaG, Nancy Gover Cooley census/death, Hiram Cooley marriage, William Holloway 1782 tax, Charstee King census, Peter Jungblut MD land)
+- Rows newly RESOLVED with Tier 1 or Tier 2 source: 0
+- Rows PARTIALLY_CLOSED at the pointer level (correct database identified): 3 (Nancy Gover Cooley death-date upper bound; William Holloway 1782 tax — Ancestry collection 62774 / Library of Virginia; Charstee King — SCGenWeb 1850 Greenville District PDF)
+- Rows confirmed NEGATIVE on free web (no FaG / no marriage record): 3 (Olive Henderson Cox FaG, Mary Nancy Parker King FaG, Hiram Cooley marriage records)
+- New EE/Palatine gap rows added: 11
+- New events added to Timeline.md: 0 (no round-2 finding meets Tier 1 or 2 sourcing standards; round-1 events to be propagated to Timeline.md were already enumerated in round-1 closing)
+
+**Files modified this session**: `vault-template/timeline_gap_audit.md` (round-2 append section), `vault-template/Research_Log.md` (this entry).
+
+NO commit, NO push (per task instruction).
 
 ## 2026-05-02 Find a Grave Sweep ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 03-findagrave-sweep, second pass)
 
