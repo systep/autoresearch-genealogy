@@ -42,3 +42,8 @@ Andreas Reinherd was a Transylvanian Saxon. He died in Petresti, Alba, Romania. 
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | Surname | Reinherd (GEDCOM) | Reinert (FamilySearch) | Variant spellings of the same Transylvanian Saxon surname |
+
+
+## Source Citation Audit Note (2026-05-02)
+
+Single source only; corroboration not yet found. Confidence held at `low` per prompt 05 mapping. Audited round 2 (2026-05-02), no free-web corroborating record located within search budget.

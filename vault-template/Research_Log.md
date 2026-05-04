@@ -5461,3 +5461,22 @@ Scanned: Mary_Ann_Woodson_Cooley, Argaleus_Hercules_Henderson, James_Cox, Johann
 
 ### Final verify count
 `grep -c "DISCREPANCY\|MISMATCH\|CONFLICT" cross_reference_audit.md` = **14** (start-of-round-2 baseline: 11; +3 net new references after the round-2 sweep: #76 DEFER, #79 CONFIRMED MODERATE NEGATIVE SIGNAL, #80 MISMATCH).
+
+
+## 2026-05-02 Source Citation Audit Round 2 (branch claude/run-top-agents-oyF19, prompt 05-source-citation-audit, round 2 of session)
+
+**Scope (bounded)**: 14 person files modified by today's prior agents but not yet source-audited, plus 10 single-source person files chosen via low-source grep. 24 files total, max ~10 web searches (8 used).
+
+**Audited files (24)**: Mary_Ann_Woodson_Cooley, Argaleus_Hercules_Henderson, James_Cox, Johann_Michael_Brecht, William_Cox_Sr, Robert_King_II, Charstee_King, Henry_Michael_Kascher, Sebastian_Brecht, Daniel_Huff_Brunswick, Peter_Jungblut_1739_MD, Barnett_Salmanson, Ezekiel_Henderson, Hiram_Cooley; Albert_Leander_Drake, Agnes_Cox_Long, Abigail_Moseley, Anna_Catherina_Bright_Brecht, Anna_Kascher_1903, Amy_Elizabeth_Moseley, Ann_A._Wert, Anna_Katherine_Hoffman, Andreas_Reinherd, Alvina.
+
+**Counts**: BEFORE PASS 13 / NEEDS_CORROBORATION 11 / UNSOURCED 0; AFTER PASS 16 / NEEDS_CORROBORATION 8 / UNSOURCED 0.
+
+**Web searches** (8 of 10 budget): Albert Leander Drake MS Find a Grave (no result); Agnes Cox Long Simpsonville SC obit (no result); Sebastian Brecht Schriesheim Neudorf 1670 (4 hits: WikiTree Brecht-14, Familypedia, Geni 6000000009677445618, cmbower one-name study); Anna Catherina Bright PA WikiTree (no direct hit); Anna Katherine Hoffman 1663 Brecht WikiTree (WikiTree + Familypedia hit, parents Hans Jost Hoffman + Christina Frank, marriage 29 Jul 1684); Albert Drake Lowndes MS 1972 Columbus (no result); Andreas Reinerth Transylvania (no result); Anna Kascher 1903 Waldhütten (Siebenbürger.de + Genealogy.com forum #11540 corroborate family cluster).
+
+**Sources added**: 9 across 3 files (Sebastian_Brecht +4, Anna_Katherine_Hoffman +5 incl. frontmatter sync, Anna_Kascher_1903 +2).
+
+**Confidence upgrades**: Sebastian_Brecht low -> moderate; Anna_Katherine_Hoffman low -> moderate; Anna_Kascher_1903 low -> moderate.
+
+**Files modified**: Sebastian_Brecht.md, Anna_Katherine_Hoffman.md, Anna_Kascher_1903.md, Albert_Leander_Drake.md, Agnes_Cox_Long.md, Abigail_Moseley.md, Anna_Catherina_Bright_Brecht.md, Amy_Elizabeth_Moseley.md, Ann_A._Wert.md, Andreas_Reinherd.md, Alvina.md, source_citation_audit.md, Research_Log.md.
+
+**Negative result**: Of the 10 single-source MyHeritage GEDCOM / Geni-stub files attempted, only 2 (Anna_Katherine_Hoffman, Anna_Kascher_1903) reached PASS via free web; 8 remain at confidence:low with the standard "Single source only; corroboration not yet found" note. Albert_Leander_Drake (1897-1972 Mississippi) and Agnes_Cox_Long (1891 SC -> 1974 TN) both confirm: free-web alone is insufficient for these 20th-century Southern US descendants; targeted MS/TN newspaper archives or paid Ancestry.com vital records (Phase 3) needed.

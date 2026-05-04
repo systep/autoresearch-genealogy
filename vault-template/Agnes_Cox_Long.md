@@ -45,3 +45,8 @@ All data sourced from MyHeritage GEDCOM export (Tier 3). No independent verifica
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | | | | |
+
+
+## Source Citation Audit Note (2026-05-02)
+
+Single source only; corroboration not yet found. Confidence held at `low` per prompt 05 mapping. Audited round 2 (2026-05-02), no free-web corroborating record located within search budget.
