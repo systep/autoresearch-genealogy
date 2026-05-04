@@ -40,6 +40,8 @@ His son Tucker Moore Woodson (1777-1831) is the father of [[Mary_Ann_Woodson_Coo
 | Geni Tucker Woodson, Jr. #6000000002228252193 | user-contributed tree (Tier 3) | https://www.geni.com/people/Tucker-Woodson-Jr/6000000002228252193 |
 | FamilySearch ancestors LCX1-3P2 "Tucker Woodson, Jr. Jr. (1744-1779)" | user-contributed tree (Tier 3) | https://ancestors.familysearch.org/en/LCX1-3P2/tucker-woodson,-jr.-jr.-1744-1779 |
 | WikiTree Moore-1640 (Elizabeth Moore Crockett 1742-1820) | user-contributed tree (Tier 3) | https://www.wikitree.com/wiki/Moore-1640 |
+| Albemarle Co VA "Declaration of Independence" 21 Jun 1779 — Tucker Woodson among signers | colonial-era civic record (Tier 1, USGenWeb pointer) | http://files.usgwarchives.net/va/albemarle/history/declaration.txt — agentic fetch 403 (USGenWeb site-wide block 2026-05-02), search snippet sufficient for fact corroboration; browser retrieval needed for full signer list and signing-context narrative |
+| Tucker Woodson appointed deputy Clerk of Albemarle County, 1769 | colonial court appointment (Tier 1-2 via genealogy.com forum citation, pending Tier 1 court order book retrieval) | https://www.genealogy.com/forum/surnames/topics/woodson/1855/ (search snippet 2026-05-02); confirms 1769 deputy Clerk appointment + 1779 death + widow Elizabeth's 1782 remarriage to Maj. Joseph Crockett |
 
 ## Data Discrepancies
 

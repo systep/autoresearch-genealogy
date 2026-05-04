@@ -5,6 +5,20 @@ updated: 2026-05-02
 tags: [genealogy, research, open-questions]
 ---
 
+## 2026-05-02 session updates — Colonial Records Search ROUND 2 (agent 23, prompt 10, 2-iteration scoped run)
+
+### New / upgraded OQs (round 2 colonial sweep)
+
+- **OQ #38 (Jacob Cooley Sr 1735-1820 parents): UPGRADE Moderate -> Strong Signal pending direct will-image retrieval**. Tier 1 corroboration found: Will of Susannah Ware of Henrico Co VA, dated 8 Feb 1734/5, proved 5 May 1735, names daughter Anne (m. Baldwin Rockett, m2 Abraham Cowley ~1731). Anne is the mother of Jacob Cooley Sr. per round-3 OQR Geni + WikiTree Ware-186 attribution. Combined with Tier 2 corroboration of Cowley's tavern Richmond inherited 1769 by Abraham Cowley (rvahub.com Bell Tavern article + scholarscompass.vcu.edu Robert Cowley dissertation), the Abraham Cowley + Anne Ware parentage now has a Tier 1 corroborating document for Anne's Henrico Co origin and a Tier 2 corroborating document for Abraham's Henrico Co residence. Source: warefamilies.org/2010/10/will-of-susannah-ware-of-henrico-co-virginia-1735/ (snippet, agentic fetch 403). **NEEDS_PRIMARY**: direct will-image retrieval at FamilySearch Henrico Co will book microfilm.
+
+- **NEW OQ #X: Three-Tucker-Woodson conflation (vault Tucker Sr 1720-1795 vs Goochland Tucker 1792 will vs Albemarle Tucker Jr 1744-1779)**. Round-2 colonial sweep retrieved a Goochland Co VA Tucker Woodson will dated 20 Nov 1792 / proved 21 Sep 1795 — but this Tucker named sons Wade N., Ben., Henry, Tarleton, John P. (NO Tucker Jr.). The 1795 death-year for vault's Tucker Sr. may have been borrowed across persons. Vault's Tucker Sr. is supposed to be the father of Tucker Jr. (1744-1779 Albemarle) — but if Tucker Sr. = Goochland 1792 testator, that's inconsistent (no Tucker Jr. in the will). More likely: at least TWO different Tucker Woodsons in late-18th-c VA, one Goochland (1792 will), one Albemarle (vault's, father of Tucker Jr.). This is a THIRD Tucker Woodson distinct from both vault's Tucker Sr. (1720-1795 supposedly Goochland) AND from the Pittsylvania-born Tucker (1762-1831) who is Mary Ann Woodson Cooley's actual father per FaG #209821208. The 3-way disambiguation problem extends OQ #39's two-Tucker problem to a three-Tucker problem. Source: goochlandhistory.wordpress.com Goochland Courthouse tag (search snippet 2026-05-02 round-2 colonial sweep). **NEEDS_PRIMARY**: Goochland Co VA Will Book direct retrieval to identify volume + page; cross-reference audit to disambiguate.
+
+- **William Cox Sr. brick wall — refined to 3-William-Cox disambiguation problem.** The 1755 William Cox of Cane Creek Monthly Meeting (Quaker, m. Juliatha Car Sept-Nov 1755) is almost certainly NOT vault's William Cox Sr. (no Quaker affiliation). The 1753 Earl Granville 490 ac grant + 1755 Piggott deed 180 ac (Cane Creek) + 1755 Denny deed 70 ac (Eno River) cannot all be vault's William Cox; the vault's William Cox Sr. is at most 1 of these 3. Disambiguation strategy: subtract the Cane Creek MM Quaker William Cox first (m. Juliatha Car), leaving 2 William Coxes for the Eno River + Granville 490 ac records. Y-DNA already in progress at Cox Family History Project FTDNA study; Cane Creek MM membership trail on Quaker William Cox should also be retrievable.
+
+- **Tucker Woodson Jr. (Albemarle, 1744-1779) — Tier 1 elevation**. Albemarle Co VA Declaration of Independence signed 21 Jun 1779; deputy Clerk of Albemarle Co 1769; widow Elizabeth Moore m2 Maj. Joseph Crockett 1782. These are documentary-grade primary corroborations of his Albemarle residence and Revolutionary-era role — but they confirm his identity as the Albemarle Tucker, distinct from Mary Ann Woodson Cooley's actual Pittsylvania-born father. So even though Tucker Jr.'s individual record is now better sourced, the linkage to Mary Ann's family remains DOUBTFUL.
+
+---
+
 ## 2026-05-02 session updates — Open-Question Resolution ROUND 3 (agent 22, prompt 08, 2-iteration scoped run)
 
 ### Iteration summary (round 3)

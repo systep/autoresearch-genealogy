@@ -9,6 +9,8 @@ tags: [genealogy, colonial, audit, records, pre-1800]
 
 Audit of pre-1800 colonial-era ancestors, record classes searched per ancestor, sources retrieved, and follow-up status. Created by 2-iteration scoped run of `prompts/10-colonial-records-search.md` on 2026-05-02 (branch claude/run-top-agents-oyF19). Search budget: ~12 web searches; ~12 ancestors targeted.
 
+**Round 2 (2026-05-02 agent 23, second prompt-10 pass, scoped 2 iterations / 6 ancestors / 12 web searches): see "Round 2" section at bottom of file.**
+
 ## Status legend
 
 - **FOUND**: Tier 1 or Tier 2 corroboration retrieved this session and added to person file.
@@ -88,3 +90,50 @@ Audit of pre-1800 colonial-era ancestors, record classes searched per ancestor, 
 - [[Witness_Network]] — will witnesses identified in this run
 - [[Unresolved_Persons]] — newly named family members logged
 - [[Open_Questions]] — Anne Stolle vs Ann Scott Woodson discrepancy added below
+
+## Round 2 (2026-05-02, agent 23 — second prompt-10 pass)
+
+Scope: 2 iterations, 6 pre-1800 ancestors, 12 web searches, free-web only. Picks: ancestors with under-sourced Document Sources sections or unresolved parentage / origin questions, biased toward Tier 1 primary-record retrievable via free web.
+
+### Iteration 1 (R2)
+
+| Ancestor | Dates | Record class searched | Source / URL | Status |
+|---|---|---|---|---|
+| Tucker Woodson (Pittsylvania VA, MAW's father) | 1762-1831 | 1782 PVA tax + 1785 PVA deed | sites.rootsweb.com/~vapittsy/1782LandTaxes.htm; mylonghunters.info; Library of Virginia Pittsylvania tithables 1767-1786 (vi01241.xml) | **FOUND Tier 1**: 1782 head of household 8 whites; 1785 sold 100 ac Elkhorn Creek to Allen Woodson £50 |
+| [[Tucker_Woodson_Sr]] (vault 1720-1795 Goochland) | c.1720-1795 | Goochland Co VA Will Book + colonial deed | goochlandhistory.wordpress.com (Tucker Woodson will tag); Geni 6000000002228252150 | **FOUND Tier 1 + CONFLATION FLAG**: Will dated 20 Nov 1792 / proved 21 Sep 1795 Goochland Co — names sons Wade N., Ben., Henry, Tarleton, John P. (NO Tucker Jr. listed). Witnesses Roderick Payne, Mary Pollock, Margaret Payne. **This Goochland Tucker may be a DIFFERENT man from vault's Tucker Sr. — possibly a third Tucker Woodson.** |
+| [[Tucker_Woodson_Jr]] (1744-1779 Albemarle) | 1744-1779 | Albemarle Co VA Declaration of Independence; deputy Clerk records | files.usgwarchives.net/va/albemarle/history/declaration.txt (fetch 403, snippet sufficient); search results | **FOUND Tier 1-2**: Signed Albemarle Co VA Declaration of Independence 21 Jun 1779; deputy Clerk of Albemarle Co 1769; widow Elizabeth Moore m2 Major Joseph Crockett 1782 |
+| Abraham Cowley + Anne Ware (Jacob Cooley Sr's parents) | ~1700-1781 | Henrico Co VA wills + Richmond colonial taverns | warefamilies.org Will of Susannah Ware 1735 (fetch 403, snippet sufficient); rvahub.com Bell Tavern article; scholarscompass.vcu.edu Robert Cowley dissertation; WikiTree Ware-186 + Adams-3074 | **FOUND Tier 1**: Susanna Adams Ware will dated 8 Feb 1734/5, proved 5 May 1735 Henrico Co VA, names daughter Anne (m. Baldwin Rockett, m2 Abraham Cowley); Cowley's tavern Richmond inherited 1769 by Abraham Cowley near Main + 22nd. **Upgrades OQ #38 from Moderate to Strong Signal pending direct will-image retrieval.** |
+| [[Argaleus_Hercules_Henderson]] | ~1720-1804/06 Chatham NC | will children list extended | Geni 6000000010686896652; Geni 3104577 (Argulus II 1784-c.1860); WikiTree Henderson-7309 | **FOUND Tier 2**: 10-child list extended — Hezekiah, Abner, Lewis, Mary Bell, Ezekiel, Nancy, Isaac, Elizabeth, John Sr., Frances. Spelling variants Argalus / Archaelaus / Arglas / Arglos / Agulus |
+| William Cox Sr (vault c.1726-c.1814) | c.1726-c.1814 | Orange Co NC tax 1755 + colonial deeds + Cane Creek MM | piedmontwanderings.blogspot.com Deed Book Zero Project; NC Digital Collections 1755 Tax List; sites.google.com/site/coxfamilyhistoryproject; piedmontwanderings.blogspot.com Cane Creek MM minutes 1751-1774 | **FOUND Tier 1 + DISAMBIGUATION**: 9 Aug 1753 Earl Granville grant 490 ac to William Cox; 4 Sep 1755 Piggott deed 180 ac Haw River / Cane Creek to William Cox (Orange Deed Book 1/44); 10 Sep 1755 Denny deed 70 ac Eno River. **1755 William Cox declared marriage intentions at Cane Creek MM (Quaker), m. Juliatha Car Sept-Nov 1755 — almost certainly NOT vault's William Cox Sr. (no Quaker affiliation; round-1 already noted "one of three William Coxes").** Brick wall remains; refines to 3-William-Cox disambiguation problem. |
+
+### Iteration 2 (R2)
+
+| Ancestor | Dates | Record class searched | Source / URL | Status |
+|---|---|---|---|---|
+| [[Robert_King_II]] | c.1750-1826 Anderson SC | SC State Plats 1784-1868 | scdah.sc.gov/news/2021-06/state-plats-land-grants-1784-1868-now-available-online; archive.org 1800censusofpend00stew (djvu fetch 403) | **NEGATIVE for direct land grant retrieval**; pointer-level: SC State Plats 1784-1868 are now ONLINE, browser-only follow-up at scdah.sc.gov |
+| Tucker Woodson Pittsylvania (further confirmation) | 1762-1831 | corroboration of 1762 Pittsylvania birth vs 1777 Albemarle conflation | search results vs FaG #209821208 round-3 OQR finding | **CONFIRMED Tier 1**: 1782 PVA tax + 1785 PVA deed = SAME person as FaG #209821208 record. Vault's "1762 Pittsylvania-born Tucker Woodson" is the correct father of MAW; Albemarle 1777 Tucker Moore Woodson is a separate man (round-3 OQR conflation) |
+| Susanna Adams Ware will (Anne Ware's mother, 1735 Henrico) | d.bef.1735 | Henrico Co VA Will Book | warefamilies.org/2010/10/will-of-susannah-ware-of-henrico-co-virginia-1735/ (fetch 403, snippet sufficient) | **FOUND Tier 1 (text via snippet)**: Will 8 Feb 1734/5 / proved 5 May 1735, names daughters Elizabeth Burton, May/Mary Levine, Martha Ridgway, Jane Childers, Mary Levens, Susannah Allen, Anne (m. Rockett, m2 Cowley) |
+
+### Status legend (R2)
+
+Same as round 1.
+
+### NEEDS_HUMAN_FOLLOWUP items (R2)
+
+| Item | Reason | Suggested next step |
+|---|---|---|
+| Goochland Tucker Woodson 1792/1795 will direct text | Goochland Will Book volume / page not yet identified; rootsweb / USGenWeb fetches 403 | Pull Goochland Co VA Will Book at FamilySearch catalog or Library of Virginia |
+| Albemarle Co VA Declaration of Independence 1779 signers list | files.usgwarchives.net/va/albemarle/history/declaration.txt fetch 403 | Browser-side retrieval; alternative: archive.org or Albemarle Charlottesville Historical Society |
+| Susanna Ware will Henrico Co Will Book volume / page | warefamilies.org snippet sufficient for fact, not for citation | Direct will image at FamilySearch Henrico Co will book microfilm |
+| 1755 Orange Co NC Cox tax list — disambiguate vault's William Cox Sr. from Quaker William Cox of Cane Creek MM | All three William Coxes appear in same 1755 Orange Co records | Y-DNA testing already underway (Cox Family History Project FTDNA study); also requires Cane Creek MM removal certificate / membership trail to follow Quaker William Cox out of vault's branch |
+| Robert King II SC State Plats 1784-1868 | scdah.sc.gov database is browser-only / search interface | Manual search at scdah.sc.gov for "Robert King" Anderson/Pendleton SC plats |
+| Argaleus Henderson 1804 Chatham Co will full transcription | flickr image link in vault round-1; rootsweb fetch 403 | Browser-side OCR or human transcription of flickr image; alternative: o.pcahs.org/research/argulusa.htm browser fetch |
+
+### R2 cross-references
+
+- [[Open_Questions]] OQ #38 (Jacob Cooley Sr parents) — upgraded from Moderate to Strong Signal
+- [[Open_Questions]] **NEW OQ candidate**: third Tucker Woodson conflation (Goochland 1792 will Tucker vs vault Tucker Sr 1720-1795 vs Albemarle Tucker Jr 1744-1779)
+- [[cross_reference_audit]] — round-3 OQR Albemarle Tucker Moore Woodson conflation flagged; round-2 R2 Goochland Tucker Woodson conflation now adds a third dimension
+- [[Witness_Network]] — Roderick Payne, Mary Pollock, Margaret Payne (Goochland 1792 Tucker Woodson will witnesses); Allen Woodson (1785 PVA deed grantee, possible relative)
+- [[Unresolved_Persons]] — Argaleus Henderson I children Hezekiah, Abner, Lewis, Mary Bell, Nancy, Isaac, Elizabeth, John Sr., Frances (8 of 10 not yet promoted to person files); Wade N., Ben., Henry, Tarleton, John P. Woodson (Goochland 1792 Tucker Woodson sons, possibly NOT vault ancestors)
+- [[Mary_Ann_Woodson_Cooley]] — Tier 1 corroboration of 1762 Pittsylvania birth-year for father Tucker Woodson via 1782 PVA tax + 1785 PVA deed

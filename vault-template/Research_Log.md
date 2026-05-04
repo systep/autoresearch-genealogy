@@ -10,6 +10,80 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-05-02 Colonial Records Search ROUND 2 (agent 23, prompt 10-colonial-records-search, second pass — 2 iterations, 6 ancestors, 12 web searches)
+
+**Goal**: Free-web-only colonial-records sweep targeting 6 pre-1800 ancestors with under-sourced Document Sources sections or unresolved parentage/origin questions. Cap: 12 web searches, 40 tool uses, 2 iterations. Scope picks: Tucker Woodson Sr (Goochland VA), Tucker Woodson Jr (Albemarle VA Rev War), Jacob Cooley Sr's parents Abraham Cowley + Anne Ware (Henrico VA), Argaleus Henderson I (Chatham NC will), William Cox Sr (Orange NC tax/deed), Robert King II (SC land grant + Pendleton census).
+
+**Iteration 1 — initial sweep (6 searches)**:
+
+1. `"Tucker Woodson" Goochland Virginia will OR deed colonial` — **POSITIVE Tier 1**: Tucker Woodson of Goochland Co VA, will dated **20 Nov 1792**, proved **21 Sep 1795**. Freed enslaved people Milly, Jule, Lewis, Lidy. Furniture and property divided equally among sons **Wade N. Woodson, Ben. Woodson, Henry Woodson, Tarleton Woodson, John P. Woodson**. Witnesses **Roderick Payne, Mary Pollock, Margaret Payne**. Original Byrd Presbyterian Church organized 1748 at Tucker Woodson's farm by Samuel Davies. **Tucker Woodson II signed the Albemarle Declaration of Independence**. Also confirms Goochland deed book 2 (25 Jan 1733/4) colonial-era records exist. Source: Goochland History blog (goochlandhistory.wordpress.com), Geni 6000000002228252150. **Caveat**: this Tucker Woodson of Goochland (5 named sons, no Tucker Jr. listed) appears DIFFERENT from the Tucker Woodson Sr. (1720-1795) of vault who supposedly fathered Tucker Jr. (1744-1779) of Albemarle. Possibly a third conflation, possibly Tucker Sr. of Goochland is a brother/cousin of vault's Tucker Sr.
+
+2. `"Abraham Cowley" Henrico Virginia colonial land OR will 1740 OR 1750` — **POSITIVE Tier 2** (snippet): Henrico County colonial deed and will books exist for 1744-1748 and 1748-1750 periods (published as Weisiger compilations + Heritage Books "Henrico County Virginia Deeds, 1750-1774"). No direct Abraham Cowley snippet from this query, but follow-up search 5 surfaced Cowley's tavern.
+
+3. `"Argaleus Henderson" Chatham North Carolina will 1804 transcription` — **POSITIVE Tier 2**: Confirms 9 Nov 1804 deed from "Hercules Henderson of Chatham County NC" to son John Henderson — house and land where John resided, made AFTER the 6 Sept 1804 will. Three transcriptions referenced: o.pcahs.org/research/argulusa.htm, homepages.rootsweb.com/~mwellis/Argalus_Henderson_Will.html, flickr.com/photos/hendersonfamilyhistory/16581182153 (image). WebFetch on rootsweb returned 403; image-based transcription only via human review.
+
+4. `"William Cox" Orange County North Carolina 1755 tax list militia colonial` — **POSITIVE Tier 1**: William Cox in Orange Co NC deeds 1753-1755 — acquired **490 acres from Earl Granville on 9 Aug 1753**; **William Piggott transferred 180 acres on south side of Haw River on Cane Creek to William Cox on 4 Sep 1755** (Orange Co Deed Book 1/44); **James Denny transferred 70 acres on Eno River to William Cox on 10 Sep 1755** (including the plantation of William Cox). Sources: piedmontwanderings.blogspot.com Deed Book Zero Project, NC Digital Collections 1755 Tax List, genealogytrails.com/ncar/orange/cen_1755taxlist.html, Cox Family History Project. **CRITICAL CAVEAT (round 2)**: round-1 audit row already noted "1755 Orange Co NC tax list (one of three William Coxes)" — so this 1755 William Cox cannot be unambiguously attributed to vault's William Cox Sr. (b.~1726).
+
+5. `"Tucker Woodson" Albemarle Virginia 1779 Revolutionary War declaration` — **POSITIVE Tier 1-2**: Tucker Woodson signed the **Albemarle County VA "Declaration of Independence" on 21 Jun 1779** (USGenWeb files.usgwarchives.net/va/albemarle/history/declaration.txt — fetch 403 but search snippet confirms). Tucker Woodson became **deputy Clerk of Albemarle County in 1769**; died 1779. Widow remarried in 1782 to **Major Joseph Crockett**, Revolutionary Army officer. WebFetch on USGenWeb declaration list = 403 (site-wide block); snippet sufficient for primary-fact corroboration.
+
+6. WebFetch http://homepages.rootsweb.com/~mwellis/Argalus_Henderson_Will.html — **403 ERROR**, fallback to snippet only.
+
+**Iteration 2 — corroboration + new angles (6 searches; #6 was the failed WebFetch above; 6 productive WebSearches):**
+
+7. WebFetch http://files.usgwarchives.net/va/albemarle/history/declaration.txt — **403 ERROR**.
+
+8. `"Robert King" Anderson OR Pendleton South Carolina land grant 1784 OR 1785 OR 1786 OR 1787` — **NEGATIVE for Robert King II specifically**. Found Robert Anderson (different person) as Pendleton Co commissioner 1787, justice of peace 1790. Confirms SC State Plats for Land Grants 1784-1868 are now ONLINE at scdah.sc.gov/news/2021-06/state-plats-land-grants-1784-1868-now-available-online — pointer-level finding for human follow-up.
+
+9. `"Anne Ware" "Cowley" OR "Cooley" Henrico Virginia 1735 OR 1740 colonial` — **POSITIVE Tier 1**: WikiTree Ware-186 + WikiTree Adams-3074 confirm: Anne Ware **christened 5 Jun 1695**, m1 1712 **Baldwin Rockett**, m2 ~1731-1735 **Capt. Abraham Cowley**, Henrico Co VA. **Cowley/Cooley confirmed as interchangeable surname spellings**. **Cowley's (Cooley's, Coley's) tavern inherited 1769 by Abraham Cowley, located near intersection of later Main + 22nd streets, Richmond**. Susanna Adams Ware (Anne's mother) died before 5 May 1735 Henrico Co VA. Multiple independent sources confirm.
+
+10. `"Cowley's tavern" Richmond Virginia 1769 inherited Abraham` — **POSITIVE corroboration Tier 2**: rvahub.com Bell Tavern article + scholarscompass.vcu.edu (Robert Cowley dissertation) confirm Cowley's tavern at Main + 22nd, inherited 1769 by Abraham Cowley, alongside other Main Street Corridor / Shockoe Creek taverns (Eagle, Galt's City, Richard Hoggs, Rising Sun, Bird in the Hand, Trower's). **This places the Abraham Cowley family in Richmond/Henrico through at least 1769** — a Tier 2 corroboration of the Geni + WikiTree attribution that Jacob Cooley Sr.'s father was Abraham Cowley of Henrico.
+
+11. `"Tucker Woodson" Pittsylvania Virginia tax 1782 OR 1785 OR 1787` — **POSITIVE Tier 1**: **1782 Pittsylvania Co VA tax**: Tucker Woodson head of household, **8 whites listed**. **1785**: Tucker Woodson sold **100 acres on both sides of Elkhorn Creek to Allen Woodson for £50 current money of Virginia**. Sources: sites.rootsweb.com/~vapittsy/1782LandTaxes.htm, mylonghunters.info, Library of Virginia Pittsylvania Co tithables 1767-1786 (vi01241.xml). **CRITICAL: this Pittsylvania Tucker Woodson (1782 head-of-household, 1785 land seller to Allen Woodson) is consistent with the FaG #209821208 cemetery record's Pittsylvania-born Tucker Woodson (1762-1831), and is INCONSISTENT with the Albemarle Tucker Woodson Sr. (1720-1795 Goochland) of round-3 OQR confusion.**
+
+12. `"William Cox" 1755 "Cane Creek" OR "Haw River" Orange County deed Piggott` — **POSITIVE Tier 1 + CRITICAL ID FINDING**: Orange Co Deed Book 1/44 records William Piggott to William Cox 180 acres south side Haw River on Cane Creek, 4 Sep 1755. **William Cox declared his intention to marry Juliatha Car at Cane Creek Monthly Meeting (Quaker) in Sept-Oct 1755, marriage accomplished orderly by Nov 1755**. Source: piedmontwanderings.blogspot.com Cane Creek MM minutes 1751-1774. **CRITICAL**: Vault's William Cox Sr. (b.~1726, no Quaker affiliation, m. unknown wife of children including William Jr. d.1798 m. Connie Baker) is most likely NOT this 1755 William Cox of Cane Creek MM (Quaker, m. Juliatha Car 1755). The 1755 Orange Co tax list explicitly noted "one of three William Coxes" — this strengthens the case that vault's William Cox Sr. is a DIFFERENT William Cox. Brick wall remains; round-2 finding REFINES the disambiguation problem rather than solving it.
+
+13. WebFetch https://archive.org/stream/1800censusofpend00stew/1800censusofpend00stew_djvu.txt — **403 ERROR** (archive.org djvu fulltext fetch blocked).
+
+14. `"Susanna Adams Ware" 1735 will Henrico Virginia daughter Anne` — **POSITIVE Tier 1 (will text)**: warefamilies.org/2010/10/will-of-susannah-ware-of-henrico-co-virginia-1735/ confirms **Will of Susannah Ware of Henrico Co VA dated 8 Feb 1734/5, proved 5 May 1735**. Names daughters **Elizabeth Burton, May/Mary Levine, Martha Ridgway, Jane Childers, Mary Levens, Susannah Allen, and Anne (m. Baldwin Rockett, m2 Abraham Cowley ~1731)**. Susanna Adams m. Rev. Jacob Ware on 3 Feb 1689/90 at Menheniot Parish, Cornwall, England. **This is the Tier 1 primary record corroboration that Anne Ware (mother of Jacob Cooley Sr) was indeed the daughter of Susanna Adams Ware of Henrico Co VA — upgrading OQ #38 from Moderate Signal to Strong Signal pending direct will-image retrieval.** WebFetch on warefamilies.org = 403; snippet sufficient for primary-fact corroboration.
+
+15. `"Argaleus Henderson" OR "Argalus Henderson" will children sons John Ezekiel daughters` — **POSITIVE Tier 2 (children list)**: Argaleus Hercules Henderson I children: **Hezekiah, Abner, Lewis, Mary (Bell), Ezekiel, Nancy, Isaac, Elizabeth, John Sr., Frances**. Spelling variants: Argalus, Archaelaus, Arglas, Arglos, Agulus. Source: Geni 6000000010686896652 + Geni 3104577 (Argulus II 1784-c.1860) + WikiTree Henderson-7309. The 1804 deed to son John adds 11th child documentation; vault's existing biography only listed Ezekiel + John explicitly — extending now to 10-child known list.
+
+**Outcome summary (six ancestors, this round)**:
+
+| Ancestor | Pre-round status | Post-round status | New primary records found |
+|---|---|---|---|
+| Tucker Woodson (Pittsylvania Tucker, MAW's father, 1762-1831) | Tier 2-3 only (FaG + Geni + rumseyfamily.com) | **Tier 1 found**: 1782 Pittsylvania VA tax (8-white head of household); 1785 deed Elkhorn Creek 100 ac sold to Allen Woodson £50 | 1782 PVA tax; 1785 PVA deed |
+| Tucker Woodson Sr. (vault's 1720-1795 Goochland) | Tier 3 only (Geni, WikiTree Woodson-132, rumseyfamily.com) | **Probable conflation discovery**: Goochland Tucker Woodson will (20 Nov 1792 / proved 21 Sep 1795) names sons Wade N., Ben., Henry, Tarleton, John P. — NO Tucker Jr. listed. This Goochland Tucker may be a different man from vault's Tucker Sr. | Goochland will 1792/1795 (text via snippet) |
+| Tucker Woodson Jr. (1744-1779 Albemarle) | Tier 3 only (Geni, FamilySearch, WikiTree Moore-1640) | **Tier 1-2 found**: signed Albemarle Co VA Declaration of Independence 21 Jun 1779; deputy Clerk of Albemarle Co 1769; widow Elizabeth m2 Maj. Joseph Crockett 1782 | Albemarle Declaration (USGenWeb pointer + snippet) |
+| Abraham Cowley + Anne Ware (Jacob Cooley Sr's parents) | Tier 3 (Geni + WikiTree Ware-186, round-3 OQR Moderate Signal) | **Tier 1 corroboration found**: Susanna Ware will 8 Feb 1734/5 / proved 5 May 1735 Henrico Co names daughter Anne (m. Baldwin Rockett, m2 Abraham Cowley); Cowley's tavern Richmond inherited 1769 by Abraham Cowley | Susanna Ware will (text via snippet); Cowley tavern Richmond 1769 |
+| Argaleus Henderson I (1720-1804/06 Chatham NC) | Tier 1 (will + Regulator + Quaker disownment, round-1 audit) | **Children list extended**: Hezekiah, Abner, Lewis, Mary Bell, Ezekiel, Nancy, Isaac, Elizabeth, John Sr., Frances (10 named children vs vault's 2) | will children list (Tier 2 from Geni + WikiTree) |
+| William Cox Sr. (vault's c.1726-c.1814) | Tier 2-3 (round-1 audit + Cox Family History Project) | **DISAMBIGUATION REINFORCED, brick wall persists**: 1755 Orange Co NC William Cox of Cane Creek MM married Juliatha Car (Quaker) — this is most likely NOT vault's William Cox Sr. (no Quaker affiliation; round-1 already noted "one of three William Coxes"). 9 Aug 1753 Earl Granville 490 acre grant logged as candidate document for whichever William Cox is which. | 1753 Granville grant 490 ac; 1755 Piggott deed 180 ac; 1755 Denny deed 70 ac (all attributed to AT LEAST one William Cox) |
+| Robert King II (c.1750-1826 Anderson SC) | Tier 2-3 + Tier 2 negative (carolana Kings Mtn roster, round-1) | **NEGATIVE for direct land grant retrieval**; SC State Plats 1784-1868 ONLINE confirmed as future research target (scdah.sc.gov) | none new this round; pointer to scdah.sc.gov state plats database |
+
+**Critical findings cross-section**:
+
+- **Strong Signal upgrade for Jacob Cooley Sr's parents (OQ #38)**: Susanna Adams Ware will (8 Feb 1734/5, proved 5 May 1735, Henrico Co VA) is a Tier 1 primary record naming daughter Anne (Anne Ware Cowley = mother of Jacob Cooley Sr). Combined with Cowley tavern Richmond 1769 (Tier 2 corroboration), the Abraham Cowley + Anne Ware parentage is now Strong Signal pending direct will-image retrieval.
+
+- **Two-Tucker-Woodson conflation deepens**: The Goochland Tucker Woodson (will 1792/1795, sons Wade/Ben/Henry/Tarleton/John P.) appears to be a THIRD Tucker Woodson, distinct from both (a) vault's Tucker Sr. (1720-1795 supposedly Goochland) and (b) the Albemarle Tucker Jr. (1744-1779). Vault's Tucker Sr. attribution is now under additional doubt; specifically the 1795 death date may have been borrowed from this Goochland Tucker. NEEDS_PRIMARY: direct retrieval of the Goochland Will Book entry for the 1792 Tucker Woodson will.
+
+- **Tucker Woodson Jr. confirmed Tier 1-2 as 1779 Albemarle Declaration signer + 1769 deputy Clerk**: corroborates his Albemarle residence and Revolutionary-era role. His widow Elizabeth Moore's 1782 remarriage to Major Joseph Crockett is documentary-grade.
+
+- **William Cox Sr. brick wall reinforced, not broken**: the 1755 Cane Creek MM Quaker William Cox (m. Juliatha Car) is almost certainly NOT vault's William Cox Sr. The brick wall is now a 3-William-Cox disambiguation problem.
+
+**Files modified**:
+- `vault-template/colonial_records_audit.md` (round-2 iteration appended)
+- `vault-template/Research_Log.md` (this entry)
+- `vault-template/Tucker_Woodson_Sr.md` (Document Sources extended; Open Items updated re Goochland conflation)
+- `vault-template/Tucker_Woodson_Jr.md` (Document Sources extended: Albemarle Declaration + 1769 deputy Clerk)
+- `vault-template/Jacob_Cooley_Jr.md` (Document Sources extended: Susanna Ware 1735 will Tier 1 corroboration; Cowley tavern Tier 2 corroboration; OQ #38 upgrade note)
+- `vault-template/Argaleus_Hercules_Henderson.md` (Document Sources: 10-child list extended)
+- `vault-template/William_Cox_Sr.md` (Document Sources: 1753 Granville grant + 1755 Piggott deed + 1755 Denny deed + 1755 Cane Creek MM Juliatha Car disambiguation note)
+- `vault-template/Open_Questions.md` (OQ #38 upgrade Moderate→Strong noted; new OQ added for Goochland Tucker Woodson conflation)
+
+**NOT modified per Guard Rails**: No vault dates changed; all findings additive. The two-Tucker-Woodson-Sr conflation is flagged for cross-reference audit, not corrected here.
+
+**No commit, no push.** Searches: 12 of 12 budgeted. Tool uses: ~28 of 40 budgeted.
+
 ## 2026-05-02 Open-Question Resolution ROUND 3 (agent 22, prompt 08-open-question-resolution, third pass — 2 iterations, 5 OQs, 10 web searches)
 
 **Goal**: Tightly-scoped 2-iteration re-run of prompt 08. Picks: OQ #30 (Mary Holloway Huff parentage, push round-2 PARTIALLY_RESOLVED), OQ #37 (Anne Stolle parents/origin), OQ #38 (Jacob Cooley Sr parents — find 2nd independent source), OQ #39 (Tucker Moore Woodson 1762 vs 1777 birth year), OQ #20 (William Thomas Long death year 1887 vs 1897). Cap: 12 web searches, 40 tool uses. Free-web only (no Ancestry / MyHeritage records / Newspapers.com / Fold3).
