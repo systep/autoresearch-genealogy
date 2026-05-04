@@ -65,6 +65,7 @@ His son **Ezekiel Henderson** (1763-1846) served in the Revolutionary War (priva
 | 1804 Chatham County Will of Argaleus Henderson, image | Probate record (Tier 2 image; Tier 1 source is the will itself) | https://www.flickr.com/photos/hendersonfamilyhistory/16581182153 (retrieved 2026-05-02 colonial-records sweep) |
 | Codicil to Will of Argaleus Henderson | Probate record transcription (Tier 2) | http://o.pcahs.org/research/argulusa.htm |
 | Argalus Henderson will transcription, Chatham Co NC | Probate record transcription (Tier 2) | http://homepages.rootsweb.com/~mwellis/Argalus_Henderson_Will.html |
+| Geni 6000000010686896652 + Geni 3104577 (Argulus II 1784-c.1860) + WikiTree Henderson-7309 — children list extended | user-contributed trees (Tier 2-3, multiple independent compilations) | Children of Argaleus Henderson I per these sources (added 2026-05-02 round-2 colonial sweep): **Hezekiah, Abner, Lewis, Mary (Bell), Ezekiel, Nancy, Isaac, Elizabeth, John Sr., Frances** (10 named children). Vault biography prior to round 2 listed only Ezekiel and John explicitly. Spelling variants: Argalus, Archaelaus, Arglas, Arglos, Agulus. The 1804 deed to son John (already cited) corroborates John as a son. |
 
 ## Data Discrepancies
 

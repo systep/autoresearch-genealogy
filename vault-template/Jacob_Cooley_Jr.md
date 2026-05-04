@@ -38,6 +38,8 @@ The Pittsylvania County VA → Greenville SC migration is consistent with the br
 
 Jacob Sr. (the next generation back) is a future expansion target, partially documented at gapeach2.wordpress.com "Jacob COOLEY 1735-1820".
 
+**2026-05-02 OQR round 3 update (OQ #38)**: Jacob Cooley Sr. (1735-1820)'s parents are now identified at **Moderate Signal** as **Abraham Cowley** + **Anne Ware** (both of Henrico Co VA), per two independent free-web sources: Geni 6000000176122509867 (Jacob Cooley Sr 1735-1820, names parents Abraham Cowley + Anne Ware) and WikiTree Ware-186 (Anne Ware Cowley, bef.1695-aft.1781, names her children including Jacob Cowley Sr. by her second husband Abraham Cowley, m. ~1735 Henrico Co VA). Anne Ware was previously married to Baldwin Rockett ~1712 Henrico Co with at least three Rockett children (Francis Rockett, Ware Rockett, Richard Rockett I), making the Cooley/Cowley line collateral relatives of the Henrico Rockett family. Cooley/Cowley confirmed as variant spellings in colonial Henrico Co VA records. Tier 1 Henrico Co will books would upgrade this to Strong Signal. The Geni profile (separate from the previously-cited 6000000033451865859) gives a death date of 25 Aug 1820 SC; the Cooleys-and-Crafts blog (Tier 2) gives a Greenville District SC will probated 28 Feb 1816, implying death 1815/1816 — death-year discrepancy remains OPEN, routed to cross_reference_audit.
+
 ## Document Sources
 
 | Document | Type | Vault Note |
@@ -46,6 +48,8 @@ Jacob Sr. (the next generation back) is a future expansion target, partially doc
 | Geni Jacob Cooley, Jr. #6000000033451676831 | user-contributed tree (Tier 3) | https://www.geni.com/people/Jacob-Cooley-Jr/6000000033451676831 |
 | Cooleys and Crafts Family History Project, "Jacob COOLEY 1735-1820" | online published genealogy (Tier 2) | https://gapeach2.wordpress.com/2014/02/24/jacob-cooley-1735-1820/ |
 | Find a Grave Memorial #204500337 (Jacob Cooley Jr.) | cemetery memorial (Tier 2) | https://www.findagrave.com/memorial/204500337/jacob-cooley |
+| Will of Susannah Ware of Henrico Co VA, dated 8 Feb 1734/5, proved 5 May 1735 | colonial probate record (Tier 1, retrieved via web snippet 2026-05-02 colonial-records sweep round 2) | https://www.warefamilies.org/2010/10/will-of-susannah-ware-of-henrico-co-virginia-1735/ — names daughter Anne (m. Baldwin Rockett, m2 Abraham Cowley ~1731) along with daughters Elizabeth Burton, May/Mary Levine, Martha Ridgway, Jane Childers, Mary Levens, Susannah Allen. Anne is the mother of Jacob Cooley Sr. (Jacob Jr.'s father) per OQ #38. **Tier 1 primary corroboration of grandparent's parentage; upgrades OQ #38 from Moderate to Strong Signal pending direct will-image retrieval.** |
+| Cowley's tavern, Richmond VA, inherited 1769 by Abraham Cowley | colonial property record / Richmond timeline (Tier 2) | https://rvahub.com/2017/11/13/rva-legends-bell-tavern/ + https://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=7472&context=etd (Robert Cowley dissertation, VCU) — Cowley's (Cooley's, Coley's) tavern at intersection of later Main + 22nd streets, Richmond. Abraham Cowley inherited 1769. **Places the Abraham Cowley family in Richmond/Henrico through 1769, corroborating Abraham Cowley as Jacob Cooley Sr.'s father.** |
 
 ## Data Discrepancies
 

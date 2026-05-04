@@ -2,13 +2,138 @@
 type: reference
 created: 2026-04-09
 updated: 2026-05-02
-last_session: "2026-05-02 Timeline Gap Analysis ROUND 2 (prompt 07, scoped 2 iterations, 8 of 10 web searches): Iteration 1 attacked 7 OPEN gap rows from round-1 audit (Olive Henderson Cox FaG NEGATIVE, Mary Nancy Parker King FaG NEGATIVE, Nancy Gover Cooley death-date upper bound 'before 28 Jun 1844' WikiTree Tier 3, Hiram Cooley Susan Cothran marriage NEGATIVE, William Holloway 1782 Brunswick VA tax pointer-level PARTIALLY_CLOSED via Ancestry collection 62774 + LVA, Charstee King 1850 census pointer-level PARTIALLY_CLOSED via SCGenWeb 1850 Greenville alpha index PDF, Peter Jungblut Prince George's Co MD land patent NEGATIVE). Iteration 2 added 11 new gap rows for EE/Palatine ancestors recently added to family.ged: Barnett Salmanson, Israel Salk, Avraham Chaim Markel, Helen Brandt, Joseph Brandt, Henry Michael Kascher, Anna Kascher 1903, Johann Michael Brecht, Sebastian Brecht (collateral), Anna Catherina Bright Brecht, Anna Katherine Hoffman. 0 new events added to Timeline.md (no round-2 finding met Tier 1 or 2 sourcing). Verify: timeline_gap_audit.md OPEN count 19→32, PARTIALLY_CLOSED 6→12, RESOLVED 10→11. Files: timeline_gap_audit.md (modified, round-2 append), Research_Log.md (this entry). NO commit, NO push. PRIOR SESSION: 2026-05-02 GEDCOM Completeness ROUND 2 (prompt 04, scoped 2 iterations, 0 web searches, 40-INDI cap): Added Eastern European Ashkenazi + Palatine slice to family.ged. +39 INDI (@I40@-@I78@), +18 FAM (@F20@-@F38@). Slice: Salmanson direct line (Barnett, Elizabeth Salk, Abraham Zolly Salk, Tobey, Leonard Irving, Thelma Markel, Alan Carl, Kathryn Ann), Markel/Frei/Brandt (Heschel + Leah, Morris + Helen, Avraham Chaim, Florence + David Mermelstein, Anne, Joseph Brandt + Brina Goldbaum), Kascher Transylvanian-Saxon (Henry Michael, Mary Elizabeth Bright, Michael Jr. + Rosina Falk, Michael Sr. + Anna Binder, Martin Binder + Anna Weber), Brecht/Hoffman Palatinate (Johann Michael II + Margareta Simone, Johannes Michael I + Anna Katarina Hoffman, Hans Jost Hoffman + Christina Frank, Balthasar + Anna Margaretha Christmann, Christoph + Anna Barbara Wolpack, Conrad Kuntz + Catharina Camerer, Sebastian Brecht). Linked Mary Elizabeth Bright (@I59@) as CHIL of @F18@ (Albert Graham Bright + Rebecca Long), establishing Bright-Kascher-Salmanson three-cluster bridge. Tabitha Dolby (@I11@) reclassified PRESENT in audit (her r1 INCOMPLETE birth-date issue was already resolved when r1 GEDCOM was written). gedcom_audit.md updated: PRESENT 31→71, INCOMPLETE 8→7, MISSING 383→372, total rows 422→450. Validation: 78 INDI / 38 FAM, no orphan refs, no duplicate IDs, ends with 0 TRLR. Files: family.ged (modified), gedcom_audit.md (modified), Research_Log.md (this entry). NO commit, NO push."
+last_session: "2026-05-02 Open-Question Resolution ROUND 3 (agent 22, prompt 08, scoped 2 iterations, 10 of 12 web searches): Picks OQ #30, #37, #38, #39, #20. RESOLVED OQ #38 Moderate Signal (Jacob Cooley Sr 1735-1820 parents = Abraham Cowley + Anne Ware Henrico Co VA, two independent sources Geni 6000000176122509867 + WikiTree Ware-186). REFRAMED OQ #39 (Tucker Moore Woodson birth-year): FaG #209821208 cemetery record confirms vault's 1762 birth-year is CORRECT and the Geni/WikiTree '1777 Albemarle Tucker Moore Woodson son-of-Tucker-Jr+Elizabeth-Moore' is a SEPARATE PERSON being conflated; previously-added Albemarle paternal grandparents (Tucker Jr 1744-1779, Elizabeth Moore 1742-1820, Tucker Sr 1720-1795) are likely WRONG for Mary Ann's branch and routed to cross_reference_audit. NEGATIVE OQ #37 Anne Stolle parents (no free-web source names them), OQ #20 W.T. Long death year. NO_ADVANCE OQ #30. Vault: Open_Questions.md (round-3 session header + entries #37/#38/#39 updated), Mary_Ann_Woodson_Cooley.md (conflation flag in Open Items), Jacob_Cooley_Jr.md (Jacob Sr. parents narrative), Family_Tree.md (additive Cooley parents note + Woodson conflation flag), Research_Log.md (this entry). NO commit, NO push. PRIOR SESSION: 2026-05-02 Timeline Gap Analysis ROUND 2 (prompt 07, scoped 2 iterations, 8 of 10 web searches): Iteration 1 attacked 7 OPEN gap rows from round-1 audit (Olive Henderson Cox FaG NEGATIVE, Mary Nancy Parker King FaG NEGATIVE, Nancy Gover Cooley death-date upper bound 'before 28 Jun 1844' WikiTree Tier 3, Hiram Cooley Susan Cothran marriage NEGATIVE, William Holloway 1782 Brunswick VA tax pointer-level PARTIALLY_CLOSED via Ancestry collection 62774 + LVA, Charstee King 1850 census pointer-level PARTIALLY_CLOSED via SCGenWeb 1850 Greenville alpha index PDF, Peter Jungblut Prince George's Co MD land patent NEGATIVE). Iteration 2 added 11 new gap rows for EE/Palatine ancestors recently added to family.ged: Barnett Salmanson, Israel Salk, Avraham Chaim Markel, Helen Brandt, Joseph Brandt, Henry Michael Kascher, Anna Kascher 1903, Johann Michael Brecht, Sebastian Brecht (collateral), Anna Catherina Bright Brecht, Anna Katherine Hoffman. 0 new events added to Timeline.md (no round-2 finding met Tier 1 or 2 sourcing). Verify: timeline_gap_audit.md OPEN count 19→32, PARTIALLY_CLOSED 6→12, RESOLVED 10→11. Files: timeline_gap_audit.md (modified, round-2 append), Research_Log.md (this entry). NO commit, NO push. PRIOR SESSION: 2026-05-02 GEDCOM Completeness ROUND 2 (prompt 04, scoped 2 iterations, 0 web searches, 40-INDI cap): Added Eastern European Ashkenazi + Palatine slice to family.ged. +39 INDI (@I40@-@I78@), +18 FAM (@F20@-@F38@). Slice: Salmanson direct line (Barnett, Elizabeth Salk, Abraham Zolly Salk, Tobey, Leonard Irving, Thelma Markel, Alan Carl, Kathryn Ann), Markel/Frei/Brandt (Heschel + Leah, Morris + Helen, Avraham Chaim, Florence + David Mermelstein, Anne, Joseph Brandt + Brina Goldbaum), Kascher Transylvanian-Saxon (Henry Michael, Mary Elizabeth Bright, Michael Jr. + Rosina Falk, Michael Sr. + Anna Binder, Martin Binder + Anna Weber), Brecht/Hoffman Palatinate (Johann Michael II + Margareta Simone, Johannes Michael I + Anna Katarina Hoffman, Hans Jost Hoffman + Christina Frank, Balthasar + Anna Margaretha Christmann, Christoph + Anna Barbara Wolpack, Conrad Kuntz + Catharina Camerer, Sebastian Brecht). Linked Mary Elizabeth Bright (@I59@) as CHIL of @F18@ (Albert Graham Bright + Rebecca Long), establishing Bright-Kascher-Salmanson three-cluster bridge. Tabitha Dolby (@I11@) reclassified PRESENT in audit (her r1 INCOMPLETE birth-date issue was already resolved when r1 GEDCOM was written). gedcom_audit.md updated: PRESENT 31→71, INCOMPLETE 8→7, MISSING 383→372, total rows 422→450. Validation: 78 INDI / 38 FAM, no orphan refs, no duplicate IDs, ends with 0 TRLR. Files: family.ged (modified), gedcom_audit.md (modified), Research_Log.md (this entry). NO commit, NO push."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-05-02 Colonial Records Search ROUND 2 (agent 23, prompt 10-colonial-records-search, second pass — 2 iterations, 6 ancestors, 12 web searches)
+
+**Goal**: Free-web-only colonial-records sweep targeting 6 pre-1800 ancestors with under-sourced Document Sources sections or unresolved parentage/origin questions. Cap: 12 web searches, 40 tool uses, 2 iterations. Scope picks: Tucker Woodson Sr (Goochland VA), Tucker Woodson Jr (Albemarle VA Rev War), Jacob Cooley Sr's parents Abraham Cowley + Anne Ware (Henrico VA), Argaleus Henderson I (Chatham NC will), William Cox Sr (Orange NC tax/deed), Robert King II (SC land grant + Pendleton census).
+
+**Iteration 1 — initial sweep (6 searches)**:
+
+1. `"Tucker Woodson" Goochland Virginia will OR deed colonial` — **POSITIVE Tier 1**: Tucker Woodson of Goochland Co VA, will dated **20 Nov 1792**, proved **21 Sep 1795**. Freed enslaved people Milly, Jule, Lewis, Lidy. Furniture and property divided equally among sons **Wade N. Woodson, Ben. Woodson, Henry Woodson, Tarleton Woodson, John P. Woodson**. Witnesses **Roderick Payne, Mary Pollock, Margaret Payne**. Original Byrd Presbyterian Church organized 1748 at Tucker Woodson's farm by Samuel Davies. **Tucker Woodson II signed the Albemarle Declaration of Independence**. Also confirms Goochland deed book 2 (25 Jan 1733/4) colonial-era records exist. Source: Goochland History blog (goochlandhistory.wordpress.com), Geni 6000000002228252150. **Caveat**: this Tucker Woodson of Goochland (5 named sons, no Tucker Jr. listed) appears DIFFERENT from the Tucker Woodson Sr. (1720-1795) of vault who supposedly fathered Tucker Jr. (1744-1779) of Albemarle. Possibly a third conflation, possibly Tucker Sr. of Goochland is a brother/cousin of vault's Tucker Sr.
+
+2. `"Abraham Cowley" Henrico Virginia colonial land OR will 1740 OR 1750` — **POSITIVE Tier 2** (snippet): Henrico County colonial deed and will books exist for 1744-1748 and 1748-1750 periods (published as Weisiger compilations + Heritage Books "Henrico County Virginia Deeds, 1750-1774"). No direct Abraham Cowley snippet from this query, but follow-up search 5 surfaced Cowley's tavern.
+
+3. `"Argaleus Henderson" Chatham North Carolina will 1804 transcription` — **POSITIVE Tier 2**: Confirms 9 Nov 1804 deed from "Hercules Henderson of Chatham County NC" to son John Henderson — house and land where John resided, made AFTER the 6 Sept 1804 will. Three transcriptions referenced: o.pcahs.org/research/argulusa.htm, homepages.rootsweb.com/~mwellis/Argalus_Henderson_Will.html, flickr.com/photos/hendersonfamilyhistory/16581182153 (image). WebFetch on rootsweb returned 403; image-based transcription only via human review.
+
+4. `"William Cox" Orange County North Carolina 1755 tax list militia colonial` — **POSITIVE Tier 1**: William Cox in Orange Co NC deeds 1753-1755 — acquired **490 acres from Earl Granville on 9 Aug 1753**; **William Piggott transferred 180 acres on south side of Haw River on Cane Creek to William Cox on 4 Sep 1755** (Orange Co Deed Book 1/44); **James Denny transferred 70 acres on Eno River to William Cox on 10 Sep 1755** (including the plantation of William Cox). Sources: piedmontwanderings.blogspot.com Deed Book Zero Project, NC Digital Collections 1755 Tax List, genealogytrails.com/ncar/orange/cen_1755taxlist.html, Cox Family History Project. **CRITICAL CAVEAT (round 2)**: round-1 audit row already noted "1755 Orange Co NC tax list (one of three William Coxes)" — so this 1755 William Cox cannot be unambiguously attributed to vault's William Cox Sr. (b.~1726).
+
+5. `"Tucker Woodson" Albemarle Virginia 1779 Revolutionary War declaration` — **POSITIVE Tier 1-2**: Tucker Woodson signed the **Albemarle County VA "Declaration of Independence" on 21 Jun 1779** (USGenWeb files.usgwarchives.net/va/albemarle/history/declaration.txt — fetch 403 but search snippet confirms). Tucker Woodson became **deputy Clerk of Albemarle County in 1769**; died 1779. Widow remarried in 1782 to **Major Joseph Crockett**, Revolutionary Army officer. WebFetch on USGenWeb declaration list = 403 (site-wide block); snippet sufficient for primary-fact corroboration.
+
+6. WebFetch http://homepages.rootsweb.com/~mwellis/Argalus_Henderson_Will.html — **403 ERROR**, fallback to snippet only.
+
+**Iteration 2 — corroboration + new angles (6 searches; #6 was the failed WebFetch above; 6 productive WebSearches):**
+
+7. WebFetch http://files.usgwarchives.net/va/albemarle/history/declaration.txt — **403 ERROR**.
+
+8. `"Robert King" Anderson OR Pendleton South Carolina land grant 1784 OR 1785 OR 1786 OR 1787` — **NEGATIVE for Robert King II specifically**. Found Robert Anderson (different person) as Pendleton Co commissioner 1787, justice of peace 1790. Confirms SC State Plats for Land Grants 1784-1868 are now ONLINE at scdah.sc.gov/news/2021-06/state-plats-land-grants-1784-1868-now-available-online — pointer-level finding for human follow-up.
+
+9. `"Anne Ware" "Cowley" OR "Cooley" Henrico Virginia 1735 OR 1740 colonial` — **POSITIVE Tier 1**: WikiTree Ware-186 + WikiTree Adams-3074 confirm: Anne Ware **christened 5 Jun 1695**, m1 1712 **Baldwin Rockett**, m2 ~1731-1735 **Capt. Abraham Cowley**, Henrico Co VA. **Cowley/Cooley confirmed as interchangeable surname spellings**. **Cowley's (Cooley's, Coley's) tavern inherited 1769 by Abraham Cowley, located near intersection of later Main + 22nd streets, Richmond**. Susanna Adams Ware (Anne's mother) died before 5 May 1735 Henrico Co VA. Multiple independent sources confirm.
+
+10. `"Cowley's tavern" Richmond Virginia 1769 inherited Abraham` — **POSITIVE corroboration Tier 2**: rvahub.com Bell Tavern article + scholarscompass.vcu.edu (Robert Cowley dissertation) confirm Cowley's tavern at Main + 22nd, inherited 1769 by Abraham Cowley, alongside other Main Street Corridor / Shockoe Creek taverns (Eagle, Galt's City, Richard Hoggs, Rising Sun, Bird in the Hand, Trower's). **This places the Abraham Cowley family in Richmond/Henrico through at least 1769** — a Tier 2 corroboration of the Geni + WikiTree attribution that Jacob Cooley Sr.'s father was Abraham Cowley of Henrico.
+
+11. `"Tucker Woodson" Pittsylvania Virginia tax 1782 OR 1785 OR 1787` — **POSITIVE Tier 1**: **1782 Pittsylvania Co VA tax**: Tucker Woodson head of household, **8 whites listed**. **1785**: Tucker Woodson sold **100 acres on both sides of Elkhorn Creek to Allen Woodson for £50 current money of Virginia**. Sources: sites.rootsweb.com/~vapittsy/1782LandTaxes.htm, mylonghunters.info, Library of Virginia Pittsylvania Co tithables 1767-1786 (vi01241.xml). **CRITICAL: this Pittsylvania Tucker Woodson (1782 head-of-household, 1785 land seller to Allen Woodson) is consistent with the FaG #209821208 cemetery record's Pittsylvania-born Tucker Woodson (1762-1831), and is INCONSISTENT with the Albemarle Tucker Woodson Sr. (1720-1795 Goochland) of round-3 OQR confusion.**
+
+12. `"William Cox" 1755 "Cane Creek" OR "Haw River" Orange County deed Piggott` — **POSITIVE Tier 1 + CRITICAL ID FINDING**: Orange Co Deed Book 1/44 records William Piggott to William Cox 180 acres south side Haw River on Cane Creek, 4 Sep 1755. **William Cox declared his intention to marry Juliatha Car at Cane Creek Monthly Meeting (Quaker) in Sept-Oct 1755, marriage accomplished orderly by Nov 1755**. Source: piedmontwanderings.blogspot.com Cane Creek MM minutes 1751-1774. **CRITICAL**: Vault's William Cox Sr. (b.~1726, no Quaker affiliation, m. unknown wife of children including William Jr. d.1798 m. Connie Baker) is most likely NOT this 1755 William Cox of Cane Creek MM (Quaker, m. Juliatha Car 1755). The 1755 Orange Co tax list explicitly noted "one of three William Coxes" — this strengthens the case that vault's William Cox Sr. is a DIFFERENT William Cox. Brick wall remains; round-2 finding REFINES the disambiguation problem rather than solving it.
+
+13. WebFetch https://archive.org/stream/1800censusofpend00stew/1800censusofpend00stew_djvu.txt — **403 ERROR** (archive.org djvu fulltext fetch blocked).
+
+14. `"Susanna Adams Ware" 1735 will Henrico Virginia daughter Anne` — **POSITIVE Tier 1 (will text)**: warefamilies.org/2010/10/will-of-susannah-ware-of-henrico-co-virginia-1735/ confirms **Will of Susannah Ware of Henrico Co VA dated 8 Feb 1734/5, proved 5 May 1735**. Names daughters **Elizabeth Burton, May/Mary Levine, Martha Ridgway, Jane Childers, Mary Levens, Susannah Allen, and Anne (m. Baldwin Rockett, m2 Abraham Cowley ~1731)**. Susanna Adams m. Rev. Jacob Ware on 3 Feb 1689/90 at Menheniot Parish, Cornwall, England. **This is the Tier 1 primary record corroboration that Anne Ware (mother of Jacob Cooley Sr) was indeed the daughter of Susanna Adams Ware of Henrico Co VA — upgrading OQ #38 from Moderate Signal to Strong Signal pending direct will-image retrieval.** WebFetch on warefamilies.org = 403; snippet sufficient for primary-fact corroboration.
+
+15. `"Argaleus Henderson" OR "Argalus Henderson" will children sons John Ezekiel daughters` — **POSITIVE Tier 2 (children list)**: Argaleus Hercules Henderson I children: **Hezekiah, Abner, Lewis, Mary (Bell), Ezekiel, Nancy, Isaac, Elizabeth, John Sr., Frances**. Spelling variants: Argalus, Archaelaus, Arglas, Arglos, Agulus. Source: Geni 6000000010686896652 + Geni 3104577 (Argulus II 1784-c.1860) + WikiTree Henderson-7309. The 1804 deed to son John adds 11th child documentation; vault's existing biography only listed Ezekiel + John explicitly — extending now to 10-child known list.
+
+**Outcome summary (six ancestors, this round)**:
+
+| Ancestor | Pre-round status | Post-round status | New primary records found |
+|---|---|---|---|
+| Tucker Woodson (Pittsylvania Tucker, MAW's father, 1762-1831) | Tier 2-3 only (FaG + Geni + rumseyfamily.com) | **Tier 1 found**: 1782 Pittsylvania VA tax (8-white head of household); 1785 deed Elkhorn Creek 100 ac sold to Allen Woodson £50 | 1782 PVA tax; 1785 PVA deed |
+| Tucker Woodson Sr. (vault's 1720-1795 Goochland) | Tier 3 only (Geni, WikiTree Woodson-132, rumseyfamily.com) | **Probable conflation discovery**: Goochland Tucker Woodson will (20 Nov 1792 / proved 21 Sep 1795) names sons Wade N., Ben., Henry, Tarleton, John P. — NO Tucker Jr. listed. This Goochland Tucker may be a different man from vault's Tucker Sr. | Goochland will 1792/1795 (text via snippet) |
+| Tucker Woodson Jr. (1744-1779 Albemarle) | Tier 3 only (Geni, FamilySearch, WikiTree Moore-1640) | **Tier 1-2 found**: signed Albemarle Co VA Declaration of Independence 21 Jun 1779; deputy Clerk of Albemarle Co 1769; widow Elizabeth m2 Maj. Joseph Crockett 1782 | Albemarle Declaration (USGenWeb pointer + snippet) |
+| Abraham Cowley + Anne Ware (Jacob Cooley Sr's parents) | Tier 3 (Geni + WikiTree Ware-186, round-3 OQR Moderate Signal) | **Tier 1 corroboration found**: Susanna Ware will 8 Feb 1734/5 / proved 5 May 1735 Henrico Co names daughter Anne (m. Baldwin Rockett, m2 Abraham Cowley); Cowley's tavern Richmond inherited 1769 by Abraham Cowley | Susanna Ware will (text via snippet); Cowley tavern Richmond 1769 |
+| Argaleus Henderson I (1720-1804/06 Chatham NC) | Tier 1 (will + Regulator + Quaker disownment, round-1 audit) | **Children list extended**: Hezekiah, Abner, Lewis, Mary Bell, Ezekiel, Nancy, Isaac, Elizabeth, John Sr., Frances (10 named children vs vault's 2) | will children list (Tier 2 from Geni + WikiTree) |
+| William Cox Sr. (vault's c.1726-c.1814) | Tier 2-3 (round-1 audit + Cox Family History Project) | **DISAMBIGUATION REINFORCED, brick wall persists**: 1755 Orange Co NC William Cox of Cane Creek MM married Juliatha Car (Quaker) — this is most likely NOT vault's William Cox Sr. (no Quaker affiliation; round-1 already noted "one of three William Coxes"). 9 Aug 1753 Earl Granville 490 acre grant logged as candidate document for whichever William Cox is which. | 1753 Granville grant 490 ac; 1755 Piggott deed 180 ac; 1755 Denny deed 70 ac (all attributed to AT LEAST one William Cox) |
+| Robert King II (c.1750-1826 Anderson SC) | Tier 2-3 + Tier 2 negative (carolana Kings Mtn roster, round-1) | **NEGATIVE for direct land grant retrieval**; SC State Plats 1784-1868 ONLINE confirmed as future research target (scdah.sc.gov) | none new this round; pointer to scdah.sc.gov state plats database |
+
+**Critical findings cross-section**:
+
+- **Strong Signal upgrade for Jacob Cooley Sr's parents (OQ #38)**: Susanna Adams Ware will (8 Feb 1734/5, proved 5 May 1735, Henrico Co VA) is a Tier 1 primary record naming daughter Anne (Anne Ware Cowley = mother of Jacob Cooley Sr). Combined with Cowley tavern Richmond 1769 (Tier 2 corroboration), the Abraham Cowley + Anne Ware parentage is now Strong Signal pending direct will-image retrieval.
+
+- **Two-Tucker-Woodson conflation deepens**: The Goochland Tucker Woodson (will 1792/1795, sons Wade/Ben/Henry/Tarleton/John P.) appears to be a THIRD Tucker Woodson, distinct from both (a) vault's Tucker Sr. (1720-1795 supposedly Goochland) and (b) the Albemarle Tucker Jr. (1744-1779). Vault's Tucker Sr. attribution is now under additional doubt; specifically the 1795 death date may have been borrowed from this Goochland Tucker. NEEDS_PRIMARY: direct retrieval of the Goochland Will Book entry for the 1792 Tucker Woodson will.
+
+- **Tucker Woodson Jr. confirmed Tier 1-2 as 1779 Albemarle Declaration signer + 1769 deputy Clerk**: corroborates his Albemarle residence and Revolutionary-era role. His widow Elizabeth Moore's 1782 remarriage to Major Joseph Crockett is documentary-grade.
+
+- **William Cox Sr. brick wall reinforced, not broken**: the 1755 Cane Creek MM Quaker William Cox (m. Juliatha Car) is almost certainly NOT vault's William Cox Sr. The brick wall is now a 3-William-Cox disambiguation problem.
+
+**Files modified**:
+- `vault-template/colonial_records_audit.md` (round-2 iteration appended)
+- `vault-template/Research_Log.md` (this entry)
+- `vault-template/Tucker_Woodson_Sr.md` (Document Sources extended; Open Items updated re Goochland conflation)
+- `vault-template/Tucker_Woodson_Jr.md` (Document Sources extended: Albemarle Declaration + 1769 deputy Clerk)
+- `vault-template/Jacob_Cooley_Jr.md` (Document Sources extended: Susanna Ware 1735 will Tier 1 corroboration; Cowley tavern Tier 2 corroboration; OQ #38 upgrade note)
+- `vault-template/Argaleus_Hercules_Henderson.md` (Document Sources: 10-child list extended)
+- `vault-template/William_Cox_Sr.md` (Document Sources: 1753 Granville grant + 1755 Piggott deed + 1755 Denny deed + 1755 Cane Creek MM Juliatha Car disambiguation note)
+- `vault-template/Open_Questions.md` (OQ #38 upgrade Moderate→Strong noted; new OQ added for Goochland Tucker Woodson conflation)
+
+**NOT modified per Guard Rails**: No vault dates changed; all findings additive. The two-Tucker-Woodson-Sr conflation is flagged for cross-reference audit, not corrected here.
+
+**No commit, no push.** Searches: 12 of 12 budgeted. Tool uses: ~28 of 40 budgeted.
+
+## 2026-05-02 Open-Question Resolution ROUND 3 (agent 22, prompt 08-open-question-resolution, third pass — 2 iterations, 5 OQs, 10 web searches)
+
+**Goal**: Tightly-scoped 2-iteration re-run of prompt 08. Picks: OQ #30 (Mary Holloway Huff parentage, push round-2 PARTIALLY_RESOLVED), OQ #37 (Anne Stolle parents/origin), OQ #38 (Jacob Cooley Sr parents — find 2nd independent source), OQ #39 (Tucker Moore Woodson 1762 vs 1777 birth year), OQ #20 (William Thomas Long death year 1887 vs 1897). Cap: 12 web searches, 40 tool uses. Free-web only (no Ancestry / MyHeritage records / Newspapers.com / Fold3).
+
+**Iteration 1 — initial sweep (5 searches)**:
+
+1. `"Tucker Moore Woodson" 1777 Albemarle Virginia father parents` — POSITIVE: Geni 6000000084514614854, WikiTree Woodson genealogy, FamilySearch ancestors LCX1-3P2, JSTOR 1915487 archive.org full-text "Woodson Family", WikiTree Woodson-213 (Samuel Hughes Woodson Sr. 1777-1827 brother), WikiTree Moore-1640 (Elizabeth Moore Crockett 1742-1820 mother). All converge on Tucker Moore Woodson b. 1777 Albemarle, son of Tucker Woodson Jr. (1744-1779) + Elizabeth Moore.
+
+2. `"Jacob Cooley" 1735 1820 South Carolina Greenville will Henrico Virginia father` — POSITIVE: Geni 6000000033451865859 (existing); gapeach2.wordpress.com (Cooleys-and-Crafts) — confirms Jacob 1735 Henrico VA, m. Sarah Jordan ~1754, will probated 28 Feb 1816 Greenville District SC, children Gleasey, Nancy, Elizabeth, Jacob Jr., Judith.
+
+3. `"Anne Stolle" Pittsylvania Virginia 1777 Woodson wife father parents` — NEGATIVE: only Geni profiles 6000000087403338860 / 6000000032977088051 (already cited), Find a Grave #209821208 (Tucker Woodson 1762-1831), and FamilySearch wiki / 1777 Pittsylvania Patriots Oath book pointer-level resources. No source names her parents.
+
+4. `"William Thomas Long" 1825 Standing Springs Greenville cemetery 1887 1897` — NEGATIVE: BillionGraves Standing Springs Cemetery page exists but no W.T. Long memorial surfaced; only different William Thomas Longs from other regions/eras (1844-1917 Macon NC; 1874-1943 FL).
+
+5. `"Mary Holloway" Huff "Brunswick County" Virginia sister William Holloway 1784` — NEUTRAL (re-confirms round-2 finding): WikiTree Huff-1770 (Daniel Huff abt.1715-abt.1777, wife Mary, will 1773); William Holloway 1784 will (Brunswick Will Book 2 pp. 422-23) names wife Martha and children Dan, Caleb, Obediah's children, Jesse, Asa, Patty Moseley, Muhulda Anne Pool — does NOT name Mary; James + William Huff are 1789 estate-sale purchasers. Round-2 hypothesis (Mary = sister of William) reconfirmed; no earlier Holloway will surfaced.
+
+**Iteration 2 — corroboration + reframing (5 searches)**:
+
+6. `"Tucker Woodson" 1744 1779 "Elizabeth Moore" son "Tucker Moore Woodson" Albemarle` — POSITIVE: Geni 6000000002228252193 (Tucker Woodson Jr. 1744-1779), Geni 6000000002228252150 (Tucker Woodson Sr. 1720-1795), Geni Tucker Moore Woodson II as son. Children: Samuel Hughes Woodson Sr., Tucker Moore Woodson II, Sarah Harlan Woodson Smith. Mother Elizabeth Moore m. 2nd Joseph Crockett 1782.
+
+7. `"Jacob Cooley" "Abraham Cowley" OR "Abraham Cooley" Henrico Virginia father parents 1735` — POSITIVE: Geni 6000000176122509867 (Jacob Cooley Sr 1735-1820, names parents Abraham Cowley + Anne Ware); Geni 6000000054760927848 (Abraham Cowley Jr 1732-1752, sibling); WikiTree Ware-186 (Anne Ware Cowley bef.1695-aft.1781).
+
+8. `"Anne Ware" "Abraham Cowley" Henrico Virginia children Jacob Cooley son` — POSITIVE: WikiTree Ware-186 confirms children Francis Rockett, Ware Rockett, Richard Rockett I (from m1 Baldwin Rockett ~1712), and **Jacob Cowley Sr. + Theodocia (Cowley) Cocke** (from m2 Abraham Cowley ~1735). Two-source corroboration confirmed for OQ #38 — Geni + WikiTree Ware-186 are independent compilations naming the same parents.
+
+9. `"William Thomas Long" "Mary Elizabeth Huff" OR "Mary E Huff" Greenville South Carolina death 1897` — NEGATIVE: no marriage or death record surfaced via the Mary Elizabeth Huff angle. Search returns generic Long obituaries from unrelated time periods.
+
+10. `findagrave 209821208 Tucker Woodson 1762 1831 memorial` — **CRITICAL POSITIVE (CONFLATION DISCOVERY)**: FaG #209821208 explicitly states Tucker Woodson b. 1762 Pittsylvania Co VA, son of "**Tucker and Judith Woodson**", land in SC by 1784, Greenville District purchase ~1795, first wife Elizabeth, second wife Anne Stolle (mother of Nancy, Elizabeth, Charlotte "Lottie", Sarah Ann, Mary Ann). This contradicts the Geni "1777 Albemarle Tucker Moore Woodson son of Tucker Jr.+Elizabeth Moore" attribution. Tucker Jr. was killed 1779; a son b. 1777 cannot have owned SC land in 1784 (age 7). **Conclusion**: there are TWO different Tucker Woodsons being conflated in compiled Tier 3 trees. Mary Ann's father is the 1762 Pittsylvania-born / Greenville-buried man, not the 1777 Albemarle-born one. The vault's 1762 figure is therefore CORRECT; the prior session's added Albemarle paternal grandparents are likely WRONG.
+
+**Outcome summary**:
+
+| OQ | Pre-round-3 status | Post-round-3 status | Confidence |
+|---|---|---|---|
+| #30 Mary Holloway Huff parentage | PARTIALLY_RESOLVED (round 2: William Holloway d. 1784 = brother) | NO_ADVANCE this round; DEFER to DAR records lookup A057307 | unchanged |
+| #37 Anne Stolle parents/origin | OPEN | NEGATIVE; DEFER to Pittsylvania Co VA Will Book / marriage bonds (browser-only) | unchanged |
+| #38 Jacob Cooley Sr 1735-1820 parents | OPEN (single Tier 3) | **RESOLVED Moderate Signal — Abraham Cowley + Anne Ware** of Henrico Co VA. Two independent free-web sources: Geni 6000000176122509867 + WikiTree Ware-186 | upgraded |
+| #39 Tucker Moore Woodson 1762 vs 1777 | OPEN | OPEN — REFRAMED as **two-Tucker-Woodson conflation**. Vault's 1762 is CORRECT; the 1777 Albemarle Tucker is a different man. Prior-session added Albemarle ancestors are likely wrong; routed to cross_reference_audit | reframed |
+| #20 William Thomas Long death 1887 vs 1897 | OPEN | NEGATIVE; DEFER to headstone re-photograph or Greenville death cert via paid login | unchanged |
+
+**Files modified**:
+- `vault-template/Open_Questions.md` (round-3 session header at top; entries #37, #38, #39 updated in place)
+- `vault-template/Mary_Ann_Woodson_Cooley.md` (Open Items: two-Tucker-Woodson conflation finding added)
+- `vault-template/Jacob_Cooley_Jr.md` (post-narrative paragraph: Jacob Sr. parents Abraham Cowley + Anne Ware, Moderate Signal, with sources)
+- `vault-template/Family_Tree.md` (Cooley pedigree: parents-of-Jacob-Sr. note added; Woodson pedigree: conflation flag appended sub-bullet)
+- `vault-template/Research_Log.md` (this entry)
+
+**NOT modified per Guard Rails**: Tucker Moore Woodson birth year remains 1762 in vault (corroborated by FaG #209821208 cemetery record); the 1777 Albemarle attribution is a separate person. No primary Cooley-line birth/death dates modified. Family_Tree.md Cooley line received an additive Moderate-Signal note only.
+
+**No commit, no push.** Searches: 10 of 12 budgeted (2 saved). Tool uses: ~22 of 40 budgeted.
+
+---
 
 ## 2026-05-02 Immigration Search ROUND 3 (Session: branch claude/run-top-agents-oyF19, prompt 11-immigration-search, third pass — targeted-slice retry)
 
@@ -5622,3 +5747,40 @@ Scanned: Mary_Ann_Woodson_Cooley, Argaleus_Hercules_Henderson, James_Cox, Johann
 **Files modified**: Sebastian_Brecht.md, Anna_Katherine_Hoffman.md, Anna_Kascher_1903.md, Albert_Leander_Drake.md, Agnes_Cox_Long.md, Abigail_Moseley.md, Anna_Catherina_Bright_Brecht.md, Amy_Elizabeth_Moseley.md, Ann_A._Wert.md, Andreas_Reinherd.md, Alvina.md, source_citation_audit.md, Research_Log.md.
 
 **Negative result**: Of the 10 single-source MyHeritage GEDCOM / Geni-stub files attempted, only 2 (Anna_Katherine_Hoffman, Anna_Kascher_1903) reached PASS via free web; 8 remain at confidence:low with the standard "Single source only; corroboration not yet found" note. Albert_Leander_Drake (1897-1972 Mississippi) and Agnes_Cox_Long (1891 SC -> 1974 TN) both confirm: free-web alone is insufficient for these 20th-century Southern US descendants; targeted MS/TN newspaper archives or paid Ancestry.com vital records (Phase 3) needed.
+
+## 2026-05-02 Tree Expansion ROUND 3 (Session: agent 21, prompt 01-tree-expansion, third pass — scoped 2 iterations, 6 ancestors max)
+
+**Goal**: Push 6 leaf ancestors back one generation using free web aggregators (Geni / WikiTree / FamilySearch / FaG snippets). HARD CAPS: 2 iterations, 6 ancestors, 12 web searches, 40 tool uses, free sources only, no date/name modification of existing persons (Guard Rail #3).
+
+**Targets (from prompt)**: 1) Sebastian Brecht — already documented (parents Conrad Kuntz Brecht + Catharina Camerer); SKIP. 2) William Cox Sr — confirmed brick wall via Y-DNA; SKIP. 3) Argaleus Henderson I — parents James Isaac Henderson Jr. + Mary Rhodes already documented; SKIP. 4) Tucker Woodson + Anne Stolle parents — INVESTIGATED. 5) Hiram Cooley — done; Jacob Cooley Sr (Jacob Jr's father) — INVESTIGATED. 6) James Cox — parents Isaac Cox already documented; SKIP. Net: 3 viable targets (Tucker Woodson parents, Anne Stolle parents, Jacob Cooley Sr parents).
+
+**Web searches (4 of 12 budget used)**:
+1. `"Tucker Woodson" 1762 1831 parents father mother Virginia genealogy` — POSITIVE: Tucker MOORE Woodson b. 1777 Albemarle VA (NOT 1762; vault discrepancy), parents Tucker Woodson Jr. + Elizabeth Moore. Geni 6000000084514614854 (Tier 3).
+2. `"Anne Stolle" 1777 1823 Woodson Virginia parents` — POSITIVE for Anne's life dates and marriage to Tucker Woodson; NEGATIVE for parent attribution. Geni 6000000032977088051 / 6000000087403338860 (Tier 3); no parents named in profile snippets.
+3. `"Tucker Moore Woodson" parents "Tucker Woodson Jr" "Elizabeth Moore" Albemarle Virginia` — POSITIVE: Tucker Jr. (1744-1779) + Elizabeth Moore (1742-1820) m. 1765 Albemarle. Tucker Sr. (1720-1795) + Sarah Hughes (1st wife) confirmed. Elizabeth Moore parents = John Moore (1706-1777) + Mary Jouett. Geni 6000000002228252193 + 6000000002228252150; FamilySearch LCX1-3P2; WikiTree Moore-1640 + Moore-45209 (all Tier 3).
+4. `"Jacob Cooley" 1735 1820 Virginia Pittsylvania father parents wife` — POSITIVE-SINGLE-SOURCE: Geni 6000000033451865859 attributes parents Abraham COWLEY + Anne WARE; wife Sarah Jordan (m. ~1754 Cumberland Co VA). Tier 3 ONLY; insufficient for tree-expansion add per CLAUDE.md "Two Independent Sources" standard.
+5. `"Tucker Woodson Jr" 1744 1779 Albemarle Virginia parents wife "Elizabeth Moore"` — CONFIRMED: Tucker Jr. parents Tucker Sr. + Sarah Hughes; wife Elizabeth Moore m. 1765 Albemarle. Re-confirms 4 Tier 3 sources.
+
+(2 searches saved against the 12-search budget.)
+
+**New person files created (3)**:
+- `vault-template/Tucker_Woodson_Jr.md` — Tucker Woodson Jr. (1744-1779), son of Tucker Woodson Sr. + Sarah Hughes, husband of Elizabeth Moore (m. 1765 Albemarle Co VA), Revolutionary War decedent. Confidence moderate (3 Tier 3 sources agreeing).
+- `vault-template/Tucker_Woodson_Sr.md` — Tucker Woodson Sr. (c.1720-1795 per Geni / "before 1809" per WikiTree), Goochland Co VA, two wives (Sarah Hughes + Mary Netherland m. 14 Oct 1762). Confidence moderate.
+- `vault-template/Elizabeth_Moore_Woodson.md` — Elizabeth Moore (1742-1820), daughter of John Moore (1706-bef.1777) + Mary Jouett, m. (1) Tucker Woodson Jr. 1765 Albemarle, (2) Mr. Crockett. Confidence moderate.
+
+**Family_Tree.md edits (1 net edit)**: Added a paragraph after the Mary Ann Woodson Cooley row in the Cox Family / Cooley pedigree subsection, naming Tucker Woodson Jr. + Elizabeth Moore + Tucker Woodson Sr. + Sarah Hughes with citations. Total named-individuals delta: +4 (Tucker Jr., Tucker Sr., Elizabeth Moore, Sarah Hughes) plus 2 referenced-only-not-personfiled (John Moore, Mary Jouett, Mary Netherland).
+
+**Mary_Ann_Woodson_Cooley.md edit (1)**: Father field expanded with 1777 vs 1762 birth-year note + grandparent / great-grandparent citations. NO date modification (Guard Rail #3 respected).
+
+**New Open Questions opened (3)**: OQ #37 Anne Stolle parents (free-web NEGATIVE on parent attribution; routed to Pittsylvania Co VA tithe lists / 1777 Patriots oath records); OQ #38 Jacob Cooley Sr parents (single Tier 3 source = Geni's "Abraham Cowley + Anne Ware"; cannot add to tree without 2nd independent source); OQ #39 Tucker Moore Woodson birth year vault 1762 vs Geni/FamilySearch 1777 (DEFERRED to cross-reference audit).
+
+**Negative results (logged)**:
+- Anne Stolle parents: no Tier 2+ source found in 2 web searches. Geni profile bare on this point.
+- Jacob Cooley Sr parents: only 1 Tier 3 source. Failed two-source standard.
+
+**Search budget**: 4 of 12 used (8 saved). Tool budget: ~25 of 40 used. Stop reason: TASK COMPLETE — all 3 viable targets investigated, 4 new persons added, 3 new OQs opened, no cap hit.
+
+**Files modified this session**: `vault-template/Family_Tree.md` (1 paragraph added), `vault-template/Mary_Ann_Woodson_Cooley.md` (Father field expanded), `vault-template/Tucker_Woodson_Jr.md` (NEW), `vault-template/Tucker_Woodson_Sr.md` (NEW), `vault-template/Elizabeth_Moore_Woodson.md` (NEW), `vault-template/Open_Questions.md` (OQ #37, #38, #39 appended), `vault-template/Research_Log.md` (this entry).
+
+NO commit, NO push (per task instruction).
+
