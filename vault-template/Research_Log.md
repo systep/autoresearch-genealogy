@@ -10,6 +10,48 @@ tags: [genealogy, research, log]
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
 
+## 2026-05-02 Find a Grave Sweep ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 03-findagrave-sweep, second pass)
+
+**Goal**: Sweep a different slice from round 1: 13 persons modified by other agents today (Mary Ann Woodson Cooley, Argaleus Hercules Henderson, James Cox, William Cox Sr, Robert King II, Charstee King, Daniel Huff Brunswick, Peter Jungblut 1739 MD, Sebastian Brecht, Johann Michael Brecht II, Anna Catherina Bright Brecht, Albert Bright [redirect], Albert Graham Bright) plus 5-7 older NO_MEMORIAL_FOUND retries.
+
+**Scope caps**: 2 iterations, ~10 persons per iteration (~20 total), web-search budget capped at ~12. Find a Grave 403 issue persists; web-search snippets only.
+
+**Searches run (11 of 12 budget)**:
+1. "Find a Grave" "Daniel Huff" Brunswick Virginia 1777 will -> only Col Daniel Huff 1815-1882 #99417342, different person. NO_MEMORIAL_FOUND.
+2. "Find a Grave" "Johann Michael Brecht" 1706 1794 Berks Pennsylvania Charles Evans -> #40075449 returned but is grandson generation (1732-1814), not the 1706-1794 patriarch. Burial at Charles Evans Cemetery confirmed for 1706-1794. NEEDS_FINDAGRAVE.
+3. "Find a Grave" "Peter Jungblut" OR "Peter Youngblood" 1700 1770 Maryland -> multiple genealogy hits but no FaG memorial for the immigrant patriarch. NO_MEMORIAL_FOUND.
+4. "Find a Grave" "Sebastian Brecht" 1600 1670 Schriesheim -> Friedhof Schriesheim #2638704 listed but no Sebastian Brecht memorial. NO_MEMORIAL_FOUND.
+5. "Find a Grave" "Anna Catherina" Brecht 1734 PA Heidelberg -> FamilySearch LZD7-MQK exists but no FaG memorial. NO_MEMORIAL_FOUND.
+6. "Find a Grave" "William Cox" 1730 1814 Greenville SC -> Cox Family History page confirms burial unknown; no FaG memorial. NO_MEMORIAL_FOUND (re-confirms 2026-04-10).
+7. "Find a Grave" "Albert Graham Bright" Rochester Irondequoit NY -> no links. NO_MEMORIAL_FOUND (re-confirms 2026-04-18 NEEDS_FINDAGRAVE).
+8. findagrave 25824984 "Mary Ann" Cooley -> **FOUND**: Mary Ann Woodson Cooley #25824984, Hiram Cooley Plantation Cemetery, Greenville Co SC. Already in vault person-file Sources but newly added to audit registry.
+9. "Find a Grave" "Charstee" King Pelzer Greenville Cooley -> Charstee referenced on Judson King's memorial #8422324 (1908 photo caption); no separate memorial. KNOWN-via-spouse.
+10. "Find a Grave" "Isaac Cox" 1755 1830 Greenville SC -> only James Isaac Cox 1915-1998 and a different Isaac b.1828. NO_MEMORIAL_FOUND (re-confirms 2026-04-10).
+11. "Find a Grave" "Thomas Cox" 1792 1857 Standing Springs Simpsonville -> only different-person Thomas Coxes. NO_MEMORIAL_FOUND (re-confirms 2026-04-10).
+12. "Find a Grave" "Samuel Graham Bright" Rocky Mount Franklin VA -> no memorial found despite Franklin Memorial Park + Franklin County Poor Farm Burials existing on FaG. NO_MEMORIAL_FOUND (re-confirms 2026-04-18 NEEDS_FINDAGRAVE).
+13. site:findagrave.com "Helen Markel" OR "Helen Brandt Markel" Lincoln Park -> only Helen Markel Magee 1979-2011 #73854515 (different person, Aiken SC). NO_MEMORIAL_FOUND.
+14. "Find a Grave" "Hilda Salmanson" 1916 2016 Warwick RI -> no links. NO_MEMORIAL_FOUND.
+15. "Find a Grave" "Donald Salmanson" 1924 2015 Lincoln Park RI -> only Leonard Irving Salmanson #231959694 (already KNOWN). NO_MEMORIAL_FOUND.
+16. "Find a Grave" "Michael Brecht" 1706 1794 "Charles Evans" OR "Trinity Lutheran" Reading -> no links.
+
+**Verify count**: NO_MEMORIAL_FOUND + NEEDS_FINDAGRAVE rows in `findagrave_audit.md`: 73 before, 95 after (+22 lines; round 2 added 1 FOUND row + new audit table rows where re-confirmation rows reference both prior and current status).
+
+**Key findings**:
+- Mary Ann (Woodson) Cooley #25824984 confirmed and now registered in audit (was in vault Sources, missing from audit registry).
+- Charstee King: covered by spouse Judson King's memorial #8422324; no separate memorial expected.
+- 4 already-linked persons reconfirmed (Argaleus Henderson, James Cox, Robert King II, Charstee King via spouse).
+- Johann Michael Brecht (II) (1706-1794): web search confirms burial at Charles Evans Cemetery, Reading PA; memorial #40075449 is the grandson (1732-1814), not the patriarch. Stays NEEDS_FINDAGRAVE.
+- 4 brand-new NO_MEMORIAL_FOUND for fresh persons (Sebastian Brecht, Anna Catherina Bright Brecht, Daniel Huff Brunswick, Peter Jungblut 1739 MD).
+- 8 re-confirmations of prior misses (William Cox Sr, Albert Graham Bright, Isaac Cox, Thomas B. Cox, Samuel Graham Bright, Helen Brandt Markel, Hilda Salmanson, Donald Salmanson).
+
+**Discrepancies logged (not silently changed)**:
+1. FaG memorial #40075449 ("Johann Michael Brecht 1732-1814") is the grandson generation, NOT the same as vault [[Johann_Michael_Brecht]] (1706-1794). Logged in findagrave_audit.md round 2 section.
+2. FaG #25824984 lists Mary Ann (Woodson) Cooley's parents as "Tucker Woodson + Ann Scott Woodson"; vault uses "Tucker Woodson + Anne Stolle" with three Tier-3 sources superseding the WikiTree attribution. Already tracked in [[Mary_Ann_Woodson_Cooley]] Data Discrepancies; no vault change.
+
+**Files modified this session**: `vault-template/findagrave_audit.md` (round 2 sweep section appended; summary header note added), `vault-template/Research_Log.md` (this entry).
+
+NO commit, NO push (per task instruction).
+
 ## 2026-05-02 GEDCOM Completeness ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 04-gedcom-completeness, second pass)
 
 **Goal**: Add the Eastern European Ashkenazi + Palatine cluster to family.ged to complement the SC-VA cluster from round 1. Scope caps: 2 iterations, max 40 new INDIs, ~20 FAMs, max 10 INCOMPLETE-fix targets, 0 web searches.
