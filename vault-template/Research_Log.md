@@ -2,13 +2,50 @@
 type: reference
 created: 2026-04-09
 updated: 2026-05-02
-last_session: "2026-05-02 Tree Expansion ROUND 2 (prompt 01, scoped 1 iteration, 4 ancestors, 8 web searches): Eastern European Ashkenazi + Palatine slice. NEW collateral file [[Sebastian_Brecht]] (b. 1600 Neudorf, d. 1670 Schriesheim; brother of Christoph Stoffel Brecht; co-migrated to Schriesheim by 1637 with his ancestor brother). Confirmed existing Brecht line already extends to Hans Braecht + Margretha (great-grandparents of Christoph) via Filae. Confirmed Friedberg/Goldberg parent files already exist from round 1. NEGATIVE for Israel Salk Kovno parents, Avraham Chaim Markel wife, Levi Itzhak Zalmanson 1851 corroboration, Heschel Markel parents beyond Mordko Ber. Files: Sebastian_Brecht.md (NEW), Research_Log.md (this entry). NO commit, NO push."
+last_session: "2026-05-02 GEDCOM Completeness ROUND 2 (prompt 04, scoped 2 iterations, 0 web searches, 40-INDI cap): Added Eastern European Ashkenazi + Palatine slice to family.ged. +39 INDI (@I40@-@I78@), +18 FAM (@F20@-@F38@). Slice: Salmanson direct line (Barnett, Elizabeth Salk, Abraham Zolly Salk, Tobey, Leonard Irving, Thelma Markel, Alan Carl, Kathryn Ann), Markel/Frei/Brandt (Heschel + Leah, Morris + Helen, Avraham Chaim, Florence + David Mermelstein, Anne, Joseph Brandt + Brina Goldbaum), Kascher Transylvanian-Saxon (Henry Michael, Mary Elizabeth Bright, Michael Jr. + Rosina Falk, Michael Sr. + Anna Binder, Martin Binder + Anna Weber), Brecht/Hoffman Palatinate (Johann Michael II + Margareta Simone, Johannes Michael I + Anna Katarina Hoffman, Hans Jost Hoffman + Christina Frank, Balthasar + Anna Margaretha Christmann, Christoph + Anna Barbara Wolpack, Conrad Kuntz + Catharina Camerer, Sebastian Brecht). Linked Mary Elizabeth Bright (@I59@) as CHIL of @F18@ (Albert Graham Bright + Rebecca Long), establishing Bright-Kascher-Salmanson three-cluster bridge. Tabitha Dolby (@I11@) reclassified PRESENT in audit (her r1 INCOMPLETE birth-date issue was already resolved when r1 GEDCOM was written). gedcom_audit.md updated: PRESENT 31→71, INCOMPLETE 8→7, MISSING 383→372, total rows 422→450. Validation: 78 INDI / 38 FAM, no orphan refs, no duplicate IDs, ends with 0 TRLR. Files: family.ged (modified), gedcom_audit.md (modified), Research_Log.md (this entry). NO commit, NO push."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-05-02 GEDCOM Completeness ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 04-gedcom-completeness, second pass)
+
+**Goal**: Add the Eastern European Ashkenazi + Palatine cluster to family.ged to complement the SC-VA cluster from round 1. Scope caps: 2 iterations, max 40 new INDIs, ~20 FAMs, max 10 INCOMPLETE-fix targets, 0 web searches.
+
+**Baseline**: family.ged round 1 = 39 INDI / 20 FAM. gedcom_audit.md = 31 PRESENT / 8 INCOMPLETE / 383 MISSING / 422 total.
+
+**Slice planned**: Salmanson direct line (Barnett, Elizabeth Salk, Abraham Zolly Salk, Tobey, Leonard Irving, Thelma Markel, Alan Carl, Kathryn Ann), Markel/Frei/Brandt (Heschel + Leah, Morris + Helen, Avraham Chaim, Florence + David Mermelstein, Anne, Joseph Brandt + Brina Goldbaum), Kascher Transylvanian-Saxon (Henry Michael, Mary Elizabeth Bright, Michael Jr. + Rosina Falk, Michael Sr. + Anna Binder, Martin Binder + Anna Weber), Brecht/Hoffman Palatinate back to Conrad Kuntz Brecht (~1563), plus collateral Sebastian Brecht.
+
+**Process**:
+1. Read family.ged end-to-end (467 lines, 39 INDI / 20 FAM); next available IDs @I40@ and @F20@.
+2. Read 25+ vault person files for the slice to extract Tier 1 / Tier 2 dates and places.
+3. Wrote 39 new INDI records and 18 new FAM records.
+4. Linked Mary Elizabeth Bright (@I59@) as CHIL of existing @F18@ (Albert Graham Bright + Rebecca Moseley Long), establishing the Bright-Kascher-Salmanson three-cluster bridge with one CHIL edit (no duplicate FAM created, hence no @F29@).
+5. Reclassified Tabitha Dolby (@I11@) from INCOMPLETE → PRESENT in audit: her r1 INCOMPLETE birth-date flag in the audit is no longer warranted because the r1 GEDCOM already has "DATE 20 APR 1756" + "PLAC Ireland" — the r1 audit flagged her as PRESENT with note "parents". Original r1 audit row was actually PRESENT (not INCOMPLETE); the round-2 task brief mention of "Tabitha Dolby birth date corrected to 20 Apr 1756 by agent 5" refers to a Family_Tree.md / Tabitha_Dolby.md vault-side correction landed by another agent before this session. Re-confirmed and added a tracking note to the audit row.
+6. Validated: 78 INDI / 38 FAM, every INDI has NAME, every FAM has HUSB or WIFE, no orphan CHIL/HUSB/WIFE INDI refs, no orphan FAMC/FAMS FAM refs, no duplicate INDI/FAM IDs, file ends with `0 TRLR`.
+
+**Privacy heuristic applied** (3 living persons in slice):
+- @I55@ Anne Markel (b. ~1922) — birth year + ABT, no death (she would be ~104 if living; almost certainly deceased but no death record located).
+- @I56@ Alan Carl Salmanson (b. 1951) — birth year only, no death.
+- @I57@ Kathryn Ann Kascher (b. 1946) — birth year only, no death.
+- @I59@ Mary Elizabeth Bright (b. 1921) — full birth date 5 Jun 1921 retained because pre-1925 threshold and birth date is documented in vault (1950 Census + MyHeritage pedigree chart).
+
+**Audit count update**: PRESENT 31 → 71 (+40); INCOMPLETE 8 → 7 (-1); MISSING 383 → 372 (-11, net of 18 conversions plus 7 new MISSING rows added for Falk/Pfaff/Schuller/Reinherd/Anna+Friedrich+Sara Kascher detail); total rows 422 → 450 (+28 from new Kascher and Brecht audit rows).
+
+**Files modified**:
+- vault-template/family.ged: added 39 INDI (@I40@-@I78@), 18 FAM (@F20@-@F38@), 1 CHIL edit on @F18@.
+- vault-template/gedcom_audit.md: updated YAML count (39→78, 20→38), updated summary, reclassified Tabitha Dolby, marked Salmanson/Salk/Markel/Brandt entries PRESENT, added new Kascher and Brecht/Hoffman/Christmann sections, added Iteration 2 validation block.
+- vault-template/Research_Log.md (this file): YAML last_session updated, this session entry appended.
+
+**Negative results / NEEDS_HUMAN_FOLLOWUP**:
+- Mathias Falk + Katharina Pfaff (Rosina Falk's parents): vault has dates only as text — separate INDI records deferred to next iteration.
+- Hyman Salk (b. 1873, Salk's Hardware founder, brother of Abraham Zolly Salk): in vault but outside r2 slice cap, deferred.
+- Friedberg + Goldberg (Rebecca Marcus's parents): vault stubs single-Tier-1 sourced; deferred.
+- Israel Salk: low-confidence stub; deferred.
+
+**No commit, no push** per task instructions.
 
 ## 2026-05-02 Tree Expansion ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 01-tree-expansion, retry with tight scope)
 

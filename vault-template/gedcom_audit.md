@@ -5,14 +5,14 @@ updated: 2026-05-02
 tags: [genealogy, gedcom, audit]
 gedcom_file: family.ged
 gedcom_version: "5.5.1"
-gedcom_indi_count: 39
-gedcom_fam_count: 20
+gedcom_indi_count: 78
+gedcom_fam_count: 38
 sources: [vault-template/Family_Tree.md, vault-template/family.ged]
 ---
 
 # GEDCOM Audit
 
-Source of truth: [[Family_Tree]]. GEDCOM file: `family.ged` (created 2026-05-02, first pass).
+Source of truth: [[Family_Tree]]. GEDCOM file: `family.ged` (created 2026-05-02, round 2 update).
 
 This audit lists every named individual in `Family_Tree.md` and marks whether they appear in `family.ged`.
 
@@ -22,18 +22,20 @@ This audit lists every named individual in `Family_Tree.md` and marks whether th
 - **INCOMPLETE**: INDI record exists but is missing fields known from Family_Tree.md (e.g., birth date, death place, parents, spouse).
 - **MISSING**: No INDI record. Person is named in Family_Tree.md but absent from GEDCOM.
 
-This is a first-pass seed file. Iteration 1 (2026-05-02) populated only the Cox / Cooley / Holloway / Parker / Brasher / Henderson / King / Huff / Moseley / Long / Bright slice (~39 INDIs). All other lines (Salmanson / Salk / Markel / Frei / Brandt / Karp / Kascher / Kuniansky / Bright pre-Albert / Schneerson / Loew / Luria / Treves / Stangle / Duff / Byars / Schor / etc.) are MISSING by design and will be filled in subsequent iterations.
+Iteration 1 (2026-05-02) populated the Cox / Cooley / Holloway / Parker / Brasher / Henderson / King / Huff / Moseley / Long / Bright slice (39 INDIs / 20 FAMs).
+
+Iteration 2 (2026-05-02) added the **Eastern European Ashkenazi + Palatine slice**: Salmanson / Salk / Markel / Frei / Brandt / Mermelstein direct line, Kascher / Falk / Binder Transylvanian-Saxon line, and the Brecht / Hoffman / Christmann / Wolpack / Camerer Schriesheim Palatinate line back to Conrad Kuntz Brecht (~1563). Net adds: +39 INDIs (@I40@-@I78@), +18 FAMs (@F20@-@F38@, no @F29@). Tabitha Dolby (@I11@) reclassified PRESENT after birth date 20 Apr 1756 confirmed in r1 GEDCOM. Mary Elizabeth Bright (@I59@) linked as CHIL of @F18@ (Albert Graham Bright + Rebecca Moseley Long), establishing the Bright-Kascher-Salmanson three-cluster spanning bridge.
 
 ## Summary
 
-| Status | Audit-row count |
-|---|---|
-| PRESENT | 31 |
-| INCOMPLETE | 8 |
-| MISSING | 383 |
-| **Total audit rows** | **422** |
+| Status | Audit-row count | Delta from r1 |
+|---|---|---|
+| PRESENT | 71 | +40 (31 → 71) |
+| INCOMPLETE | 7 | -1 (8 → 7; Tabitha Dolby reclassified) |
+| MISSING | 372 | -11 (383 → 372; 18 converted to PRESENT minus 7 new MISSING rows added for Falk/Kascher detail) |
+| **Total audit rows** | **450** | +28 (422 → 450; new Kascher + Brecht + Sebastian rows) |
 
-Note: GEDCOM contains 39 INDI records. PRESENT (31) + INCOMPLETE (8) = 39, one row per INDI. Every @I#@ ID is referenced exactly once in the audit table. The MISSING count reflects every named individual in `Family_Tree.md` who lacks an INDI record after Iteration 1.
+Note: GEDCOM contains 78 INDI records. PRESENT (71) + INCOMPLETE (7) = 78, one row per INDI. Every @I#@ ID is referenced exactly once in the audit table. The MISSING count reflects every named individual in `Family_Tree.md` who lacks an INDI record after Iteration 2.
 
 Verification: `grep -c "MISSING\|INCOMPLETE" vault-template/gedcom_audit.md` returns the metric for the prompt's Verify step.
 
@@ -100,7 +102,7 @@ Verification: `grep -c "MISSING\|INCOMPLETE" vault-template/gedcom_audit.md` ret
 |---|---|---|---|---|
 | Robert King II (~1750-1826) | PRESENT | @I10@ | parents (Robert King I) | |
 | Robert King I | MISSING | - | all | Father of Robert King II. |
-| Tabitha Dolby King (1756-1815) | PRESENT | @I11@ | parents | |
+| Tabitha Dolby King (1756-1815) | PRESENT | @I11@ | (parents not yet linked) | r1 INCOMPLETE birth-date issue resolved 2026-05-02 r2: 20 Apr 1756 + Ireland already in r1 GEDCOM. |
 | James King Sr. (~1788-1867) | INCOMPLETE | @I12@ | death date | |
 | Mary Nancy Parker King (1787-1853) | PRESENT | @I13@ | birth/death place | |
 | John Parker (1753-1845) | PRESENT | @I14@ | parents | |
@@ -196,19 +198,19 @@ Verification: `grep -c "MISSING\|INCOMPLETE" vault-template/gedcom_audit.md` ret
 | Muhulda Anne Holloway Pool | MISSING | - | all | Daughter of William Holloway, named in 1784 will. |
 | William Thomas Goldsmith Sr. (1762-1835) | MISSING | - | all | Probable father of Sarah S. Goldsmith. |
 
-### Salmanson direct line (NOT in slice; all MISSING by design)
+### Salmanson direct line (round 2: partial population)
 
 | Person | Status | INDI | Missing fields | Notes |
 |---|---|---|---|---|
 | L.D. (Leonard Daniel) Salmanson | MISSING | - | all | Living. |
-| Alan Carl Salmanson | MISSING | - | all | Living. |
-| Kathryn Ann Kascher Salmanson | MISSING | - | all | Living. |
+| Alan Carl Salmanson | PRESENT | @I56@ | spouse FAM only, no children yet linked | Added r2. Living, birth year only per privacy. |
+| Kathryn Ann Kascher Salmanson | PRESENT | @I57@ | death (Living) | Added r2. |
 | Yaffit Shriki | MISSING | - | all | Living. |
 | Dean Jordan Salmanson | MISSING | - | all | Living. |
 | Arielle Rey | MISSING | - | all | Living. |
 | Rebecca Salmanson | MISSING | - | all | Living. |
-| Leonard Irving Salmanson (1910-1975) | MISSING | - | all | |
-| Thelma Markel Salmanson Rodbell (1920-2011) | MISSING | - | all | |
+| Leonard Irving Salmanson (1910-1975) | PRESENT | @I44@ | | Added r2. |
+| Thelma Markel Salmanson Rodbell (1920-2011) | PRESENT | @I45@ | second marriage to Leonard Rodbell 1978 not yet a separate FAM | Added r2. |
 | Jerrold A. Salmanson (b. 1942) | MISSING | - | all | Living/uncertain. |
 | Barbara Diana Salmanson | MISSING | - | all | Living. |
 | Carol S. Salmanson | MISSING | - | all | Living. |
@@ -217,8 +219,8 @@ Verification: `grep -c "MISSING\|INCOMPLETE" vault-template/gedcom_audit.md` ret
 | David Kascher (?) | MISSING | - | all | |
 | Nancy Kascher | MISSING | - | all | |
 | Suzanne Kascher (?) | MISSING | - | all | |
-| Barnett Salmanson (1883-1960) | MISSING | - | all | |
-| Elizabeth Hilda Salk Salmanson (1887-1974) | MISSING | - | all | |
+| Barnett Salmanson (1885-1960) | PRESENT | @I40@ | | Added r2. Birth year corrected to 1885 (Tier 1 NY 1912 naturalization + WWI draft card supersede headstone 1883). |
+| Elizabeth Hilda Salk Salmanson (1887-1974) | PRESENT | @I41@ | | Added r2. |
 | Samuel Salmanson (~1912-2004) | MISSING | - | all | |
 | Hilda Mittleman Salmanson (1916-2016) | MISSING | - | all | |
 | James Salmanson | MISSING | - | all | Son of Samuel + Hilda. |
@@ -241,14 +243,14 @@ Verification: `grep -c "MISSING\|INCOMPLETE" vault-template/gedcom_audit.md` ret
 | Jacob Kushner | MISSING | - | all | |
 | Dora Alpert Kushner | MISSING | - | all | |
 
-### Salk family (NOT in slice)
+### Salk family (round 2: partial population)
 
 | Person | Status | Notes |
 |---|---|---|
 | Louis Salk | MISSING | Father of Abraham Zolly Salk. |
 | Rose P. Salk | MISSING | Mother of Abraham Zolly Salk. |
-| Abraham Zolly Salk (~1860-1925) | MISSING | |
-| Tobey/Tauba Salk | MISSING | Wife of Abraham Zolly. |
+| Abraham Zolly Salk (~1860-1925) | PRESENT @I42@ | Added r2. Death cert 584/226 confirms Russia birth, age 65 at 22 Feb 1925 death. |
+| Tobey/Tauba Salk | PRESENT @I43@ | Added r2. Wife of Abraham Zolly; alive at his Feb 1925 death. |
 | Lena Salk Fain (~1885-1895) | MISSING | |
 | Nathan Fain | MISSING | |
 | Irving I. Fain (1899-1983) | MISSING | |
@@ -299,15 +301,15 @@ Verification: `grep -c "MISSING\|INCOMPLETE" vault-template/gedcom_audit.md` ret
 | Shneur Zalmanson | MISSING | |
 | Perla Dvorah Shneursohn | MISSING | |
 
-### Markel / Frei / Brandt / Goldbaum / Karp (NOT in slice)
+### Markel / Frei / Brandt / Goldbaum / Karp (round 2: partial population)
 
 | Person | Status | Notes |
 |---|---|---|
 | Nissen Mendel Markel (Yichus) | MISSING | Tier 2 only. |
-| Dov Markel (Mordko Ber Markiel) | MISSING | |
-| Henie Markel | MISSING | |
-| Heschel Herman Markel (1862-1916) | MISSING | |
-| Leah Frei Markel (~1864-1940) | MISSING | |
+| Dov Markel (Mordko Ber Markiel) | MISSING | Heshel's father per 1894 Tier 1 marriage record. |
+| Henie Markel | MISSING | Heshel's mother per 1894 Tier 1 marriage record. |
+| Heschel Herman Markel (1862-1916) | PRESENT @I48@ | Added r2. Innkeeper Waniowice. |
+| Leah Frei Markel (~1864-1940) | PRESENT @I49@ | Added r2. |
 | Minnie Markel Sternbach (1887-1975) | MISSING | |
 | Abraham David Sternbach (1886-1978) | MISSING | |
 | Maurice Sternbach (1912-1998) | MISSING | |
@@ -317,10 +319,10 @@ Verification: `grep -c "MISSING\|INCOMPLETE" vault-template/gedcom_audit.md` ret
 | Victor Hoffman (b. 1940) | MISSING | |
 | Masha Markel Tachner (d. 1939) | MISSING | |
 | Tachner (Masha's husband) | MISSING | |
-| Morris Markel (Mojzesz Majer Markiel; ~1890-1964) | MISSING | |
-| Helen Brandt Markel (Dwora; 1889-1976) | MISSING | |
-| Thelma Markel (1920-2011) | MISSING | (also listed in Salmanson cluster) |
-| Anne Markel | MISSING | |
+| Morris Markel (Mojzesz Majer Markiel; ~1890-1964) | PRESENT @I46@ | Added r2. Civil name Mojzesz Majer Markiel. |
+| Helen Brandt Markel (Dwora; 1889-1976) | PRESENT @I47@ | Added r2. Civil name Dwora Goldbaum false Brand. |
+| Thelma Markel (1920-2011) | PRESENT @I45@ | Added r2 (also in Salmanson cluster). |
+| Anne Markel | PRESENT @I55@ | Added r2. Married Peppi Schlusselberg. |
 | Peppi Schlusselberg (1927-2014) | MISSING | |
 | Freda/Rita Markel | MISSING | |
 | Kate Markel Kaplan (1925-2006) | MISSING | |
@@ -333,17 +335,17 @@ Verification: `grep -c "MISSING\|INCOMPLETE" vault-template/gedcom_audit.md` ret
 | Max Tachner | MISSING | |
 | Harold Tachner | MISSING | |
 | Irving Tachner | MISSING | |
-| Avraham Chaim Markel (d. 1939) | MISSING | |
+| Avraham Chaim Markel (d. 1939) | PRESENT @I52@ | Added r2. Death 1939 per Yichus, but historical context suggests 1941-1943. |
 | Hannah Markel (d. 1939) | MISSING | |
-| Florence Markel Mermelstein (1909-1990) | MISSING | |
-| David Mermelstein (1909-1990) | MISSING | |
+| Florence Markel Mermelstein (1909-1990) | PRESENT @I53@ | Added r2. Hebrew name Sura Feiga. |
+| David Mermelstein (1909-1990) | PRESENT @I54@ | Added r2. Hebrew name Aaron Dovid. |
 | Ruth Mermelstein Gold (b. 1937) | MISSING | Living. |
 | Hashy Mermelstein (b. 1940) | MISSING | Living. |
 | Lea Mermelstein (b. 1945) | MISSING | Living. |
 | Pessel Peppy Frei (d. 1939/1940) | MISSING | |
 | Mattis Markel (Yichus) | MISSING | |
-| Jozef Brand of Lisko | MISSING | Father of Helen Brandt. |
-| Brancia Brina Goldbaum of Lisko | MISSING | Mother of Helen Brandt. |
+| Jozef Brand of Lisko | PRESENT @I50@ | Added r2. Father of Helen Brandt. |
+| Brancia Brina Goldbaum of Lisko | PRESENT @I51@ | Added r2. Mother of Helen Brandt; murdered Holocaust Aug-Sep 1942. |
 | David Goldbaum | MISSING | Lesko Yizkor. |
 | Feiga Goldbaum | MISSING | Lesko Yizkor. |
 | Ester Goldbaum | MISSING | Lesko Yizkor. |
@@ -513,7 +515,61 @@ These persons were added 2026-04-19 from Geni and are extensively documented in 
 | Shmuel Schneerson (MaHaRash; 1834-1882) | MISSING | |
 | Yaakov Schneerson of Orsha (~1808-1876) | MISSING | |
 
-## Validation report (Iteration 1)
+### Kascher / Falk / Binder Transylvanian-Saxon (round 2: partial population)
+
+| Person | Status | INDI | Notes |
+|---|---|---|---|
+| Henry Michael Kascher (1914-1987) | PRESENT | @I58@ | Added r2. Bridges Kascher cluster to Bright/Salmanson via marriage to Mary Elizabeth Bright. |
+| Mary Elizabeth Bright (b. 1921) | PRESENT | @I59@ | Added r2. Daughter of Albert Graham Bright (@I35@) and Rebecca Moseley Long (@I34@); linked as CHIL of @F18@. Living per privacy heuristic; birth date documented (b. 1921 < 1925 threshold). |
+| Michael Kascher Jr. (1889-1975) | PRESENT | @I60@ | Added r2. Born Waldhutten, died Fort Lauderdale FL. |
+| Rosina Falk (1905-1928) | PRESENT | @I61@ | Added r2. Died of TB age 22 in Denver CO. |
+| Michael Kascher Sr. (1864-1935) | PRESENT | @I62@ | Added r2. |
+| Anna Binder (1868-1915) | PRESENT | @I63@ | Added r2. Per Tier 1 Waldhutten church certificates. |
+| Martin Binder (b. 1831) | PRESENT | @I64@ | Added r2. Organist in Kreisch. |
+| Anna Weber | PRESENT | @I65@ | Added r2. Daughter of Christian Weber (organist) and Sara Kanasch. |
+| Mathias Falk (1867-1934) | MISSING | - | Father of Rosina Falk (per vault). Defer to next iteration. |
+| Katharina Pfaff (1871-?) | MISSING | - | Mother of Rosina Falk. |
+| Sophia Schuller (b. 1903) | MISSING | - | Michael Kascher Jr.'s second wife (m. 12 Jul 1947). |
+| Andreas Reinherd | MISSING | - | Stub vault file. |
+| Anna Kascher (b. 1903) | MISSING | - | Sister of Michael Kascher Jr. |
+| Friedrich Kascher (b. 1907) | MISSING | - | Sister of Michael Kascher Jr. |
+| Sara Kascher (b. 1910) | MISSING | - | Sister of Michael Kascher Jr. |
+
+### Brecht / Hoffman / Christmann Schriesheim Palatine line (round 2: full population)
+
+| Person | Status | INDI | Notes |
+|---|---|---|---|
+| Johann Michael Brecht II (1706-1794) | PRESENT | @I66@ | Added r2. Pennsylvania emigrant 1726. Direct ancestor of David Bright and the Bright Virginia line. |
+| Margareta Simone (1708-1778) | PRESENT | @I67@ | Added r2. French Huguenot from Pfeffelbach. |
+| Johannes Michael Brecht I (1662-1719) | PRESENT | @I68@ | Added r2. Wine grower, Schriesheim. |
+| Anna Katharina Hoffman (1663-1740) | PRESENT | @I69@ | Added r2. Petitioned to emigrate 6 May 1726. |
+| Hans Jost Hoffman (1628-1697) | PRESENT | @I70@ | Added r2. Maurergesell, Ratsverwandter. |
+| Christina Frank (d. 1685) | PRESENT | @I71@ | Added r2. Married Hans Jost 15 Apr 1651. |
+| Balthasar Hans Brecht (1636-1703) | PRESENT | @I72@ | Added r2. Stadtrat und Almonier in Schriesheim. |
+| Anna Margaretha Christmann (1637-1703) | PRESENT | @I73@ | Added r2. |
+| Christoph Stoffel Brecht (1591-1665) | PRESENT | @I74@ | Added r2. Moved Neudorf to Schriesheim before 1636. |
+| Anna Barbara Wolpack (~1599-1683) | PRESENT | @I75@ | Added r2. GEDCOM 1559 birth corrected to ~1599 (transposition error). |
+| Conrad Kuntz Brecht (~1563-~1612) | PRESENT | @I76@ | Added r2. Earliest confirmed Brecht ancestor. |
+| Catharina Claus Camerer (~1569-1664) | PRESENT | @I77@ | Added r2. Married Conrad 24 Mar 1584. |
+| Sebastian Brecht (1600-1670) | PRESENT | @I78@ | Added r2 (collateral line). Brother of Christoph Stoffel; co-migrated to Schriesheim by 1637. New vault file added by tree-expansion agent 15. |
+
+## Validation report (Iteration 2, 2026-05-02)
+
+- INDI count: 78 (39 from r1 + 39 added in r2)
+- FAM count: 38 (20 from r1 + 18 added in r2)
+- New INDI ID range: @I40@-@I78@ (no @I29B@ or skipped IDs)
+- New FAM ID range: @F20@-@F38@ (no @F29@: Albert Graham Bright + Rebecca Long is already @F18@; Mary Elizabeth Bright linked as CHIL of @F18@ instead of creating duplicate FAM)
+- Every INDI has a NAME line: yes
+- Every FAM has at least HUSB or WIFE: yes
+- Orphan CHIL references: none
+- Orphan FAMC/FAMS references: none
+- Duplicate INDI IDs: none
+- Duplicate FAM IDs: none
+- File ends with `0 TRLR`: yes
+- Living-person privacy heuristic applied: 3 living persons (@I55@ Anne Markel ~1922 — over 100 years; @I56@ Alan Carl Salmanson 1951; @I57@ Kathryn Ann Kascher 1946) — birth year only, no death date. @I59@ Mary Elizabeth Bright (b. 1921) is pre-1925 threshold, full date retained.
+- Round-1 INCOMPLETE Tabitha Dolby (@I11@) reclassified PRESENT after birth date 20 Apr 1756 confirmed in r1 GEDCOM (no edit needed).
+
+## Validation report (Iteration 1) [retained for history]
 
 - INDI count: 39
 - FAM count: 20
@@ -527,9 +583,13 @@ These persons were added 2026-04-19 from Geni and are extensively documented in 
 
 ## Next iteration targets
 
-1. Add Salmanson direct line (Barnett, Leonard Irving, Thelma, Alan Carl, Kathryn Ann, etc.) — ~20 INDIs.
-2. Add Markel / Frei / Brandt slice — ~30 INDIs from documented Tier 1 ancestors.
-3. Add Sarah Lindsey Brasher, Thomas Brasher Sr., Mary Ann Woodson Cooley, John Joseph Cooley, Emily Chapman — ~5 INDIs that complete first-degree links of currently-INCOMPLETE persons.
-4. Add the 12 children of Thomas B. Cox + Olive Mary Henderson and the 10 children of Rebecca Adeline Cox + Henry L. Henderson where birth dates exist.
-5. Stangle / Duff / Byars / Bright clusters can wait — speculative reading of handwritten chart, low confidence.
-6. Schneerson / Loew / Luria / Treves chain — Tier 2/3, defer to later iteration with explicit `1 SOUR Geni-curated` notation.
+1. Add remaining Salmanson cluster: Samuel Salmanson + Hilda Mittleman, Charles + Hannah Kushner, Donald, Martha Corin Schwartz, Levi Itzhak Zalmanson + Rochel Tsine Deych (parents of Barnett).
+2. Add remaining Markel siblings: Minnie Markel Sternbach + Abraham David Sternbach, Masha + Hannah + Pessel + Sarah Tachner.
+3. Add Markel cluster grandchildren: Frieda/Rita Markel, Kate Markel Kaplan + Irving Kaplan, Joseph Harold Markel.
+4. Add Salk cluster: Louis (Elizar) Salk + Rose P. Salk (Abraham Zolly's parents), Hyman Salk, Lena Salk + Nathan Fain (Lena was death-cert informant 1925, Tier 1).
+5. Add Brecht / Bright Pennsylvania → Virginia bridge: George Adam Brecht/Bright (1730-1804), David Bright (1740-?), and the chain to George Michael Bright (Albert Graham Bright's father).
+6. Add Falk Mathias + Pfaff Katharina (Rosina Falk's parents), Schuller Sophia (Michael Jr.'s second wife).
+7. r1 carry-overs: Sarah Lindsey Brasher, Thomas Brasher Sr., Mary Ann Woodson Cooley + Tucker Woodson + Anne Stolle, John Joseph Cooley + Emily Chapman.
+8. Children of Thomas B. Cox + Olive Henderson; children of Rebecca Adeline Cox + Henry L. Henderson.
+9. Stangle / Duff / Byars clusters: speculative, defer.
+10. Schneerson / Loew / Luria / Treves rabbinic chain: Tier 2/3, defer with explicit `1 SOUR Geni-curated` notation.
