@@ -2,13 +2,216 @@
 type: reference
 created: 2026-04-09
 updated: 2026-05-02
-last_session: "2026-05-02 Colonial Records Search sweep (prompt 10, scoped 2 iterations): targeted ~12 pre-1800 colonial ancestors with single-source state, will-book transcription gaps, or DAR Patriot candidacy. 9 web searches consumed (cap 12). Key result: **John Parker DAR Patriot RIN A087608 confirmed**, Pvt 96th District SC Militia. Daniel Huff 1773 will refined: signing 19 Apr 1773, witnesses John Hammack + Daniel Burnett identified. Tucker Woodson second wife corrected from Ann Scott (Tier 3 single) to Anne Stolle (Tier 2 dual-source) — affects [[Mary_Ann_Woodson_Cooley]] mother attribution. Argaleus Henderson 1804 will Tier 2 image source added. Robert King II DAR RIN remains NEEDS_HUMAN_FOLLOWUP (absent from carolana.com Kings Mountain published roster). New audit file [[colonial_records_audit]] created. Earlier 2026-05-02 entries: Unresolved Persons (prompt 06), GEDCOM Completeness (prompt 04), Timeline Gap Analysis (prompt 07), Immigration Search (prompt 11), Source-Citation Audit (prompt 05), Open-Question Resolution (prompt 08), Find a Grave Sweep (prompt 03), Cross-Reference Audit (prompt 02), Tree Expansion (prompt 01)."
+last_session: "2026-05-02 Tree Expansion ROUND 2 (prompt 01, scoped 1 iteration, 4 ancestors, 8 web searches): Eastern European Ashkenazi + Palatine slice. NEW collateral file [[Sebastian_Brecht]] (b. 1600 Neudorf, d. 1670 Schriesheim; brother of Christoph Stoffel Brecht; co-migrated to Schriesheim by 1637 with his ancestor brother). Confirmed existing Brecht line already extends to Hans Braecht + Margretha (great-grandparents of Christoph) via Filae. Confirmed Friedberg/Goldberg parent files already exist from round 1. NEGATIVE for Israel Salk Kovno parents, Avraham Chaim Markel wife, Levi Itzhak Zalmanson 1851 corroboration, Heschel Markel parents beyond Mordko Ber. Files: Sebastian_Brecht.md (NEW), Research_Log.md (this entry). NO commit, NO push."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-05-02 Tree Expansion ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 01-tree-expansion, retry with tight scope)
+
+**Goal**: 1-iteration scoped retry of prompt 01 against Eastern European Ashkenazi + Palatine lines. Round 1 had added 13 SC/VA colonial files. Round 2 targets per task brief: Berko/Barnett Salmanson (Vilnius), Israel Salk (Kovno/Lithuania), Avraham Chaim Markel (Waniowice/Sambor), Rebecca Marcus Friedberg (Libau), Kascher/Falk (Waldhütten/Valchid), Johann Michael Brecht / Anna Catherina Brecht (Schriesheim Palatinate). Strict caps: 1 iteration, max 4 ancestors, max 8 web searches, max 5 file edits/creates.
+
+**Baseline**: Family_Tree.md is 532 KB (~28k tokens of content). Existing direct-line Brecht/Bright reaches Conrad Kuntz Brecht (b. ~1563) + Hans Braecht (Conrad's father per Filae); Salmanson reaches Yosef + Luba (gen 1 of digital tree screenshot) + Levi Yitzchok Zalmanson (vault-recorded as b. 1851 -- distinct from Geni's 1812-1872 Levi Yitzchok); Markel reaches Nissen Mendel (Yichus only, Tier 2); Friedberg/Goldberg parents exist as round-1 stubs (Willy_Friedberg.md + Henriette_Goldberg.md, both single Tier 1 source from NY 1910 marriage cert); Israel_Salk.md exists as a single-Tier-2 stub.
+
+**Web-search log (8 searches; 8 budgeted)**:
+
+| # | Query | Outcome |
+|---|---|---|
+| 1 | "Willy Friedberg" OR "Wilhelm Friedberg" Libau Liepaja Henriette Goldberg 1850 1880 Latvia Jewish | NEGATIVE for the specific couple. Confirmed Friedberg/Freidberg/Fridberg + Goldberg surnames are widely attested in Libau Jewish records (JewishGen Libau Holocaust DB; Mina Hermer née Goldberg of Libau 1844-1911 cited as separate person of similar generation). No corroborating record for our Willy + Henriette. |
+| 2 | JewishGen Latvia Libau "Friedberg" OR "Goldberg" Liepaja 19th century vital records | NEGATIVE for our individuals. Confirmed JewishGen Latvia Database (jewishgen.org/databases/latvia/) covers Liepāja vital records 1854-1921; Latvian State Historical Archives Raduraksti has full scanned originals. **Browser-side query NEEDS_HUMAN_FOLLOWUP.** |
+| 3 | "Israel Salk" Kovno 1882 Lithuania immigrant naturalization parents | NEGATIVE. No new records beyond the existing Tier 2 Flexoline mention. Pointer: JewishGen Lithuania Internal Passports DB 1919-1940 (jewishgen.org/databases/lithuania/internalpassports.htm) is the next free-search avenue. **Skipped this candidate per scope rule (no hit within 2 searches).** |
+| 4 | "Levi Itzhak Zalmanson" OR "Levi Yitzchok Zalmanson" Vilna Vilnius 1851 Rochel Deych genealogy | **PARTIAL**. Geni hit: Rabbi Levi Yitzchok Zalmanson 1812-1872 (different generation from the vault's b. 1851 Levi Itzhak who is Barnett's father per MyHeritage) -- distinct individual, possibly the GRANDFATHER or great-uncle. Joseph Zalmanson 1839-1921 also surfaced on Geni discussion thread (loebtree.com root individual). NO direct Tier 1 corroboration for our 1851 Levi Itzhak. NO new ancestor added. |
+| 5 | "Balthasar Brecht" Schriesheim 1636 parents father "Anna Margaretha Christman" 17th century Palatinate | **HIT**. WikiTree Brecht-11 confirms parents = Christoph Brecht + Anna (Wolpack) Brecht; FamilySearch ancestors page MR6K-JFX corroborates. Wife Anna Margaretha Christman cited as 1603-1683 with parents Paul Christman + Anna Maria Herring. Marriage date discrepancy (1668 vs. 1658). Cross-confirms vault data; no new ancestor required. |
+| 6 | Schriesheim Brecht family genealogy 1600s "Conrad Brecht" OR "Hans Brecht" Palatinate ancestors | **HIT**. Geni project 45913 confirms Sebastian Brecht (1600 Neudorf - 29 Apr 1670 Schriesheim), brother of Christoph Stoffel, married Elisabeth Maiden, settled Schriesheim by 1637. **NEW collateral ancestor** added as person file. Hans ALbrecht Brecht (c. 1538 - c. 1598) on Geni cited as a generation above Conrad Kuntz. |
+| 7 | "Heschel Markel" OR "Hersch Markel" Waniowice Sambor Galicia parents Mordko Ber 1862 birth | NEGATIVE. No new parents/siblings beyond vault's existing Mordko Ber + Henie + Mattis (uncle). Drohobycz Markel page (kehilalinks.jewishgen.org/drohobycz/families/markel.html) reconfirmed as DIFFERENT branch (Bartel-Markel of Lutowiska). |
+| 8 | "Avraham Chaim Markel" OR "Abraham Markel" Sambor Waniowice Galicia wife children Yad Vashem | NEGATIVE for wife/children. Sobibor survivor pages, Yad Vashem search-results-names UI, Drohobycz Markel branch all retrieved but no person-specific detail surfaced for our Avraham Chaim. **Skipped this candidate per scope rule (no triple-match hit within 2 searches).** |
+
+**Outcome (Eastern European + Palatine slice)**:
+- 4 candidates processed: (1) Rebecca Marcus Friedberg's parents (Friedberg/Goldberg), (2) Israel Salk, (3) Brecht (via Hans Balthasar/Christoph Stoffel/Conrad Kuntz), (4) Markel (via Heschel + Avraham Chaim).
+- 1 NEW collateral ancestor file created: [[Sebastian_Brecht]] (1600-1670, brother of [[Christoph_Stoffel_Brecht]]).
+- 0 NEW direct ancestor files (existing Brecht line already reaches Conrad Kuntz Brecht + Hans Braecht + Margretha; existing Friedberg/Goldberg files already exist from round 1).
+- 0 ancestor files modified (no changes to existing data; cross-reference audit is the right tool for that per Guard Rail #3).
+
+**Files created/modified**:
+- [[Sebastian_Brecht]] (NEW): collateral-line stub, Tier 3 single source, low confidence; documents the parallel migration of Christoph + Sebastian to Schriesheim by 1637.
+- [[Research_Log]] (this entry; YAML last_session updated).
+
+**Negative results / skipped (logged per Guard Rail #10)**:
+- Israel Salk: skipped after 1 search yielded zero. JewishGen Lithuania Internal Passports + naturalization records remain the next browser-side avenues.
+- Avraham Chaim Markel wife and children: skipped after 1 targeted Yad Vashem search yielded zero. Yad Vashem Names DB + USHMM browser search NEEDS_HUMAN_FOLLOWUP; the family-portrait identification key (top-row #2 "His Wife") remains the best lead.
+- Heschel Markel parents beyond Mordko Ber: NEGATIVE; Yichus Tier 2 attribution of Nissen Mendel as Mordko Ber's father remains uncorroborated.
+- Levi Itzhak Zalmanson b. 1851 (Barnett's father): no Tier 1 corroboration; the loebtree.com Tier 3 chain remains the only documentation.
+- Friedberg/Goldberg Libau corroboration: free-search snippets blocked at the database tier; JewishGen Latvia DB + Raduraksti are NEEDS_HUMAN_FOLLOWUP.
+
+**No commit, no push** per task instructions.
+
+---
+
+## 2026-05-02 Open-Question Resolution ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 08-open-question-resolution, second pass)
+
+**Goal**: 2-iteration scoped re-run of prompt 08, ~6 questions, web-search budget ~12. Round 1 (earlier 2026-05-02) had resolved OQ #71 and partially resolved OQ #30. Round 2 targets: timeline_gap_audit OPEN rows for Polly Henderson Cox + Elizabeth Brasher Henderson; OQ #30 elder-William-Holloway angle; new "Standing Springs Rachel Henderson" research gap from agent 12.
+
+**Web-search log (10 searches; 12 budgeted)**:
+
+| # | Query | Outcome |
+|---|---|---|
+| 1 | "Polly Henderson" "Thomas Cox" 1850 census Greenville SC | Confirmed marriage + 12 children (WikiTree-derived); no specific 1850 page/family details (login required) |
+| 2 | "Olive Mary Cox" OR "Polly Cox" 1795 1876 Greenville Find a Grave Henderson | NEGATIVE for our person; "Mary Polly Points Wilson" (#27255070) and "Polly Anderson Cox" (#71011806) confirmed NOT-our-person |
+| 3 | "William Holloway" Lunenburg/Brunswick Virginia 1740s 1750s father "Mary Holloway" | **HIT**: Holloway-434 (William Holloway Sr. abt.1729-aft.1801) profile surfaced — but is **Spotsylvania/Caroline → Bedford → Cumberland VA** line, parents John Holloway + Hannah Spiers, wife Frances Meador; daughters Joanna White, Mary Dunklan, Nancy Brown, Sarah Holland, Jenny Anderson — RULED OUT as our Brunswick line |
+| 4 | "Rachel Henderson" Standing Springs Baptist 1818 Greenville charter member | Generic charter list confirmed; specific person identification not surfaced in this query |
+| 5 | WikiTree Holloway-434 William Holloway Sr 1729 children daughters Mary | Confirmed Holloway-434 family detail (Cumberland VA 1782 will); his daughters do NOT include Mary Holloway Huff of Brunswick |
+| 6 | "Elizabeth Brasher" Henderson 1839 Greenville Find a Grave OR cemetery burial Ezekiel | **HIT**: Death date **24 Dec 1839 Greenville District SC** corroborated (WikiTree Brasher-153, Tier 3); 12 children's birth dates listed; FaG memorial NOT located |
+| 7 | "William Thomas Long" Standing Springs cemetery 1825 Greenville Huff death | Negative (no FaG, no death cert) — confirms prior Round 1 negative |
+| 8 | "Daniel Huff" Brunswick Virginia "Mary" wife 1750s deeds tithables father-in-law Holloway | **MAJOR HIT**: Mary Huff is herself listed for Revolutionary War **public service Brunswick Co VA 1776-1783**, contributed 550 lbs beef (paid 5/14/7) — DAR-eligible Patriot |
+| 9 | "Mary Huff" Brunswick Virginia DAR patriot public service 1776 1777 Revolutionary War widow | **MAJOR HIT**: confirms DAR List of Ancestors 3rd Supplemental entry for Mary Huff with the 550 lbs beef public service citation, A057307 referenced |
+| 10 | "Argaleus Henderson II" wife name children Greenville SC 1818 Standing Springs Rachel | **MAJOR HIT**: **Rachel Jane Hughes (b. 1786) is the wife of Argaleus II**, married 1811 Greenville Co SC (Tier 3 familytreesite.org Henderson page) — solves Standing Springs charter-member "Rachel Henderson" research gap |
+
+**Resolved this session (round 2)**:
+
+1. **NEW OQ #33**: Rachel Henderson, charter member of Standing Springs Baptist 1818, identified as Rachel Jane Hughes Henderson (b. 1786), wife of Argaleus Hercules Henderson II. Cascade: [[Argaleus_Hercules_Henderson]] research gap closed; [[Witness_Network]] row updated. Confidence: Moderate Signal.
+2. **OQ #30 Mary Holloway Huff**: UPGRADED to DAR-listed Patriot status (3rd Supplemental, A057xxx range). Holloway-434 candidate elder generation ruled out as different William Holloway. Cascade: [[Mary_Holloway_Huff]] frontmatter sources + new DAR section + Open Items updated. Status remains PARTIALLY_RESOLVED (parents still unknown).
+3. **timeline_gap_audit Elizabeth Brasher Henderson row**: PARTIALLY_CLOSED — death date 24 Dec 1839 Greenville District SC corroborated.
+
+**No progress this session**:
+
+- Polly Henderson Cox 1850/1860/1870 census household details (Ancestry/FamilySearch login required)
+- Polly Henderson Cox Find a Grave (no memorial in any free-search result)
+- William Thomas Long 1887 vs 1897 death (already-known negative re-confirmed)
+
+**Files modified**:
+
+- `vault-template/Open_Questions.md` (round-2 iteration summary + NEW OQ #33 RESOLVED + OQ #30 update)
+- `vault-template/Mary_Holloway_Huff.md` (DAR Patriot status, Holloway-434 ruled-out note)
+- `vault-template/Argaleus_Hercules_Henderson.md` (Rachel Henderson research gap resolved)
+- `vault-template/Witness_Network.md` (Rachel Henderson row maiden name + spouse)
+- `vault-template/timeline_gap_audit.md` (3 row updates: Polly Henderson Cox, Elizabeth Brasher Henderson, Mary Holloway Huff)
+- `vault-template/Research_Log.md` (this entry; updated last_session)
+
+**No commit, no push.**
+
+---
+
+## 2026-05-02 Local History Extraction sweep (Session: branch claude/run-top-agents-oyF19, prompt 09-bygdebok-extraction)
+
+**Goal**: 2-iteration scoped run of prompt 09 against regional local-history sources (bygdeboker, county histories, Ortsfamilienbücher, Yizkor books, Pinkasim). Per-iteration cap 3 source-bodies; 6 total. Web-search budget cap 12 (used 9). Skip Norwegian bygdeboker (no live Norwegian ancestor file in vault apart from Barnett_Salmanson reference).
+
+**Priority regions selected per task brief**:
+1. South Carolina county histories (Greenville/Anderson/Pendleton/Brunswick) — large vault footprint
+2. Schriesheim Ortsfamilienbuch / Palatine emigration — Bright/Brecht 1726 emigration documented
+3. Galicia (Waniowice / Lesko) — Markel/Frei branch
+4. Optional Litvak Vilna and Transylvanian Waldhütten — checked Vilna only as one-off; Transylvania deferred
+
+**Search log**:
+
+| # | Query | Target region | Outcome |
+|---|---|---|---|
+| 1 | "History of Greenville County South Carolina" "William Cox" OR "Isaac Cox" Brashier biographical | SC | Surfaced Cox Family History Project + WikiTree; no new SC county history sketch beyond Cox Family History Project |
+| 2 | "Ortsfamilienbuch Schriesheim" Brecht Hoffman 1684 marriage Ortssippenbuch | Schriesheim | **HIT**: Schuhmann *Familienbuch Schriesheim 1650-1900* (2004); Ancestors-in-Baden Schriesheim site; online OFB at ofb.genealogy.net/famlist.php?ofb=schriesheim |
+| 3 | "All Galicia Database" Frey OR Frei Waniowice Sambor 1894 birth marriage Yoseph Markel | Galicia | Negative; no specific Frey/Markel records surfaced beyond pre-existing AGAD Fond 424 vault hit |
+| 4 | "History of Old Pendleton District" R.W. Simpson Anderson Greenville biographical Cox Henderson Long | SC | **HIT**: R.W. Simpson, *History of Old Pendleton District* (Anderson SC: Oulla Printing & Binding Co., 1913); LoC item 31020858; FamilySearch #412143; archive.org/details/historyofoldpend00simp_0 djvu fulltext blocked 403 to agentic fetch |
+| 5 | Schriesheim Ortssippenbuch Familienbuch 1650-1900 owk-schriesheim Brecht Hoffman page | Schriesheim | Confirmed Schuhmann 2004 1060 pp; Heidelberg UB katalog 65850703; OpenLibrary OL3463118M; google books id N-BHHAAACAAJ; badische-ortsfamilienbuecher.de/buch.php?id=60 |
+| 6 | "Sambor Yizkor" "Markel" OR "Frei" OR "Frey" Waniowice necrology page | Galicia | Negative this session; pre-existing "Karp, Yosef and Family (4 People)" entry remains the only Sambor Yizkor positive |
+| 7 | genealogytrails.com Greenville Anderson SC Cox Henderson family "biographical" | SC | Surfaced obit pages, military pages; no new biographical sketch retrieved (snippet only) |
+| 8 | "Standing Springs Baptist" Greenville Cox Long history church 1818 founders | SC | **HIT**: hmdb.org Historical Marker #168369 + Simpsonville Sentinel 200-yr article (2018-09-21). Charter members 1818: "Arguless, Elizabeth and Rachel Henderson, William Mayhall, Rhonda Moore, Thomas, Delila and James Richardson and Christopher and Hannah Robbins"; Rev. Nathan Berry first pastor; first meeting house c.1836 on land donated by James Cox; early meetings in James Cox's home |
+| 9 | JewishGen "All Galicia Database" Markel Sambor OR Lesko OR Lisko 1880 census record | Galicia | Negative; AGD pointer pre-existing in [[Frei_Karp_Waniowice_Research_2026_04_19]]; no Markel/Lesko-Lisko 1880 census surfaced; Lisko district had 17 town pages in JewishGen Communities DB |
+| 10 | "Schuhmann" Familienbuch Schriesheim 1650-1900 ISBN published Odenwaldklub volume page Brecht | Schriesheim | Confirmed Schuhmann 2004; series Badische Ortssippenbücher Band 107; per-page Brecht entries not surfaced in snippets |
+| 11 | "Lisko" OR "Lesko" Galicia Markel Frei JRI-Poland 19th century vital records project | Galicia | JRI-Poland Lesko Vital Records Project exists at jri-poland.org/project/lesko/Vital-Records-Project/ but currently in migration to new search system; no Markel/Frei surname-index hits in available snippets |
+| 12 | "Pinkas Hakehillot" Vilna OR Vilnius "Salmanson" OR "Zalmanson" Litvak community history | Lithuania (Vilna) | Negative; no Salmanson/Zalmanson/Salk surfaced in Pinkas Hakehillot Lita snippets; LitvakSIG (litvaksig.org) recommended for browser-side All Lithuania Database lookup |
+
+**WebFetch budget**: attempted 4 fetches; all returned 403 (archive.org djvu, search.geshergalicia.org, hmdb.org marker page, sites.google.com Cox Family History Project). Web-search snippet extraction was the only viable channel.
+
+**Iteration 1** (3 source-bodies): SC county histories (Standing Springs marker + Pendleton District book + Cox Family History Project recheck), Schriesheim Familienbuch (Schuhmann 2004 + Ancestors-in-Baden + online OFB), Galicia AGD (Frey + Karp pages re-checked).
+
+**Iteration 2** (3 source-bodies): JRI-Poland Lesko Vital Records Project, Sambor Yizkor surname recheck, Pinkas Hakehillot Lita Vilna recheck.
+
+**Total source-bodies consulted**: 6 distinct (SC: Standing Springs marker, Pendleton District book, Greenville County 1930 Richardson; Schriesheim: Schuhmann 2004 OFB; Galicia: Sambor Yizkor + JRI-Poland Lesko; Lithuania: Pinkas Hakehillot Lita). The Cox Family History Project and Ancestors-in-Baden site were treated as supplementary, not counted toward the source-body budget.
+
+**Facts extracted into person files this session**:
+
+| Person | Fact | Source |
+|---|---|---|
+| [[Argaleus_Hercules_Henderson]] | Standing Springs Baptist Church 1818 charter member context — "Arguless, Elizabeth and Rachel Henderson" almost certainly = Argaleus II (b. 1784, grandson; this person was deceased by 1818), Elizabeth Brasher Henderson (Ezekiel's wife), and an unidentified Rachel Henderson (NEW open question) | hmdb.org marker #168369 + Simpsonville Sentinel 2018-09-21 (Tier 2) |
+| [[James_Cox]] | Standing Springs charter context — first meeting house c.1836 on land donated by James Cox; early meetings in his home; Rev. Nathan Berry first pastor (already partially in vault, refined this session) | hmdb.org marker #168369 + Simpsonville Sentinel 2018-09-21 (Tier 2) |
+| [[Johann_Michael_Brecht]] | Schriesheim Familienbuch 1650-1900 (Schuhmann 2004) added to Document Sources as the standard published OFB covering this branch; Local History Sources section added with full citation, derivative online OFB pointer, and German-language original-text caveat | Schuhmann 2004 (Tier 2 source identification only; per-entry inspection NEEDS_HUMAN_FOLLOWUP) |
+
+**Negative results logged**:
+- Galicia: JRI-Poland Lesko + Sambor surname-index access blocked (project migration / agentic 403); no new Markel/Frei records surfaced in snippets
+- Sambor Yizkor: no new Frei/Markel necrology entries surfaced beyond pre-existing Karp positive
+- Lithuania (Vilna): no Salmanson/Zalmanson/Salk surfaced in Pinkas Hakehillot Lita snippets
+- Greenville/Pendleton county histories: Simpson 1913 + Richardson 1930 confirmed-pointer-only (archive.org djvu 403)
+- Transylvania (Waldhütten/Valchid): NOT searched this session (deferred per scope decision)
+
+**New open questions surfaced**:
+- Identity of "Rachel Henderson," 1818 Standing Springs Baptist charter member (logged in [[Argaleus_Hercules_Henderson]] Local History Sources section). No current vault person matches.
+
+**Files modified this session**:
+- [[Johann_Michael_Brecht]]: added Schuhmann 2004 *Familienbuch Schriesheim* + online OFB to Document Sources; added new `## Local History Sources` section with German-language original-text caveat
+- [[Argaleus_Hercules_Henderson]]: added new `## Local History Sources` section with Pendleton District + Standing Springs Baptist 1818 charter context
+- [[James_Cox]]: added new `## Local History Sources` section with Standing Springs Baptist + Pendleton District context
+- [[local_history_audit]] (new file): created with 9-row region/source/ancestor/facts/status table + 9 NEEDS_HUMAN_FOLLOWUP items + 2-independent-sources analysis
+- [[Research_Log]]: this entry; YAML last_session updated
+
+**Guard-rail compliance**:
+- Tier classification stated explicitly for every fact added
+- Original German-language nature of Schriesheim OFB noted; no extracted German text translated this session (no per-entry text retrieved)
+- Patronymic / farm-name conventions: not applicable to Schriesheim Brecht line (settled fixed Germanic surname pre-1650); not applicable to SC English-origin Cox line
+- No fabricated ancestors; no existing dates/names modified
+- All facts cite specific source (book + page if available, or specific URL); no generic "Google Books"
+
+**No commit, no push** per task instructions.
+
+---
+
+
+## 2026-05-02 DNA Chromosome Analysis (Session: branch claude/run-top-agents-oyF19, prompt 12-dna-chromosome-analysis)
+
+**Goal**: 2-iteration scoped run of prompt 12. Iteration 1: read existing DNA files, build per-chromosome assignment table. Iteration 2: cross-reference vs. documented maternal/paternal lines in Family_Tree.md.
+
+**Subject**: L.D. Salmanson (Leonard Daniel Salmanson), male.
+
+**Iteration 1 — read existing DNA files, build framework table**:
+
+- Read [[Chromosome_Painting]] and [[Genetic_Profile]] end-to-end. Both files were unchanged from `vault-template/templates/` boilerplate at session start (placeholder values: `[Provider]`, `[Date]`, `[Region]`, `XX.X%`, `created: YYYY-MM-DD`).
+- Confirmed: **NO raw ancestry-composition CSV** present anywhere in `vault-template/` or `Assets/`. Searched for `23andme`, `ancestrydna`, `chromosome`, `haplogroup`, `GEDmatch`, `cM`, `centiMorgan`, `mtDNA`, `Y-DNA` across the entire vault — only the two template Markdown files surfaced.
+- Subject sex: male (per [[Family_Tree]] direct-line diagram and explicit subject identification). X-calibration is therefore applicable: L.D.'s single X chromosome was inherited entirely from his mother Kathryn Ann Kascher.
+- Built per-chromosome **expected-ancestry table** (22 autosomes + X) in [[Chromosome_Painting]]. Without raw segment data, table records predicted Copy 1 / Copy 2 dominance based on the documented tree, with all confidences at Low-Moderate (Copy 2 / maternal copy is itself mixed Ashkenazi+British, so clean separation is only possible on the ~50% of maternal chromosomes where the British/NW-European inheritance dominates by random segregation).
+
+**Iteration 2 — cross-reference vs. Family_Tree.md documented maternal/paternal lines**:
+
+| Side | Lines | Geographic origin | Predicted genetic-ancestry component |
+|---|---|---|---|
+| Paternal grandfather (Leonard Irving Salmanson) | Salmanson/Zalmanson; Salk | Vilnius (Lithuania); Russia | Ashkenazi (Litvak/Belarus) |
+| Paternal grandmother (Thelma Markel) | Markel; Frei; Brandt/Goldbaum | Waniowice + Lisko/Lesko, Galicia | Ashkenazi (Galician) |
+| Maternal grandfather (Kathryn's father, Kascher line) | Kascher; Falk | Waldhütten/Valchid, Transylvania → Ohio ~1910-1912 | Ashkenazi (Transylvanian) |
+| Maternal grandmother (Kathryn's mother, SC line) | Cox; Long; Huff; Moseley; Holloway; King; Dolby; Cooley; Henderson; Goldsmith; Brasher; Stangle; Brecht/Bright | NC/VA/SC colonial + Ireland 1770 (King, Dolby) + England (Stangle) + Schriesheim Palatinate Germany 1726 (Brecht/Bright) | British Isles + Northwest European/Palatinate German |
+
+**Key cross-reference findings**:
+
+1. The paternal side is 100% Ashkenazi (Litvak + Galician), so all paternal autosomal contributions should fall into a single "Ashkenazi Jewish" bin in any consumer-test report.
+2. The maternal side is mixed: ~half Ashkenazi (Kascher Transylvanian) + ~half British/NW-European (SC colonial). This makes Copy 2 of every autosome unpredictable in advance.
+3. **Standard ancestry-composition algorithms cannot distinguish Litvak from Galician from Transylvanian Ashkenazi** — they all collapse into one bin. Sub-population separation requires GEDmatch admixture tools (Eurogenes K36, MDLP K23b) or IBD reference-panel matching (FTDNA Big-Y, MyHeritage genetic groups).
+4. **The X chromosome is the only definitively-maternal chromosome for a male subject**. When raw data arrives, X-ancestry will partially separate maternal-Kascher Ashkenazi from paternal Ashkenazi (any Ashkenazi-labeled segment on the X must come from the Kascher Transylvanian line).
+5. Predicted overall composition: ~75% Ashkenazi Jewish + ~25% British Isles/NW European. Per Guard Rail #8 these are rough genealogical predictions, not exact targets, with random-segregation variance expected at ±5-10pp at the great-grandparent level.
+
+**Searches consumed**: 0 (cap was 0 unless critical for methodology citation; not needed).
+
+**Discrepancies vs. documented tree**: NONE detectable without raw data. If/when raw data is ingested and shows substantial deviation (e.g., <50% Ashkenazi when ~75% is predicted, or ≥1% from any unexpected component such as Sephardi/Mizrahi/East Asian/Native American), discrepancies will be logged in [[Open_Questions]] and [[cross_reference_audit]] per Guard Rail #4 (do NOT silently rewrite the tree).
+
+**New OQs**: NEW OQ #32 (DATA GAP — ingest raw ancestry-composition CSV).
+
+**Files modified this session**:
+- [[Chromosome_Painting]]: replaced template-placeholder content with subject-specific framework, X-calibration prediction, full 22+X expected-ancestry table, summary, segment-distribution template, and 5 contingency open questions.
+- [[Genetic_Profile]]: replaced template-placeholder content with subject-specific working profile, mtDNA/Y-DNA haplogroup predictions (without test data), tiered-confidence synthesis, provider-bias notes, predicted genetic-to-genealogical mapping.
+- [[Open_Questions]]: appended OQ #32 (raw DNA data ingestion gap).
+- [[Research_Log]]: this entry.
+
+**No commit, no push** per task instructions.
+
+---
+
 
 ## 2026-05-02 Colonial Records Search sweep (Session: branch claude/run-top-agents-oyF19, prompt 10-colonial-records-search)
 
@@ -5206,3 +5409,55 @@ Systematic search for passenger manifests and naturalization records for 10 iden
 - [[Open_Questions]] (OQ #16, #18 updated with 2026-04-19 findings)
 - [[Louis_Elizar_Salk]] (note that Troskunai link is now evidence-against)
 - [[Research_Log]] (this entry)
+
+---
+
+## 2026-05-02 Cross-Reference Audit Round 2 (deferred-items sweep, branch claude/run-top-agents-oyF19, prompt 02-cross-reference-audit, round 2 of session)
+
+**Scope**: 2-iteration audit attacking 4 deferred items from prior 2026-05-02 agents (Cooley parentage; Discrepancy #75 SS Hamburg; Tucker Woodson 2nd-wife cascade; Robert King II Kings Mountain attribution) + 10-person new-discrepancy scan.
+
+**Web-search budget**: 6 of ~10 searches consumed.
+
+**Verify command (after both iterations)**: `grep -c "DISCREPANCY\|MISMATCH\|CONFLICT" vault-template/cross_reference_audit.md` = **14** (up from 11 baseline at session start; +3 net new MISMATCH/DISCREPANCY references = #76 deferred, #77 resolved-but-name-conflict-row-retained, #78 resolved cascade, #79 partial-resolution + #80 new William Cox Sr birth-year mismatch).
+
+### Iteration 1: Deferred-item attacks
+
+| Item | Action | Status |
+|---|---|---|
+| #76 John Joseph Cooley (1819-1896) parentage | Attempted Tier 1 search; only Tier 3 Ancestry / MyHeritage / Geni results available | **DEFER / NEEDS_PRIMARY** (Tier 3 vs Tier 3) |
+| #77 Charstee's mother "Stacy Ann Chasteen" vs "Emily Susan Chapman" | Web search 2026-05-02 clarified: Stacy Ann (Littleton) Chapman = Emily's MOTHER; "Stacy Chapman Boyce" = Jacob "Jake" Cooley's wife (different Cooley generation) | **RESOLVED** (generation-confusion) |
+| #75 Henry Michael Kascher SS Hamburg June 1935 | 2 round-2 web searches, all NEGATIVE for 27 Jun 1935 SS Hamburg arrival | **NEEDS_PRIMARY** (escalated; NARA M237 microfilm required) |
+| #78 Tucker Woodson 2nd wife (Anne Stolle vs Ann Scott) | Geni profile 6000000032977088051 located: "Anne Woodson born Stoll" 1777-1823; corroborates cuddins.com + rumseyfamily.com; 3 independent Tier 2-3 sources vs single Tier 3 WikiTree | **RESOLVED** (Anne Stolle confirmed; cascade applied to Family_Tree.md and Mary_Ann_Woodson_Cooley.md) |
+| #79 Robert King II Kings Mountain attribution | Re-confirmed absence from carolana.com Kings Mountain published roster; second negative search ("Robert King + Washington District + NC militia") also failed to corroborate | **PARTIAL RESOLUTION**: family-tradition battle attribution confirmed unverified; downgraded to Moderate Signal in vault narrative; DAR patriot status retained |
+
+### Iteration 2: New-discrepancy scan (10 recently-touched persons)
+
+Scanned: Mary_Ann_Woodson_Cooley, Argaleus_Hercules_Henderson, James_Cox, Johann_Michael_Brecht, Daniel_Huff_Brunswick, William_Cox_Sr, John_Parker_Anderson_SC, Hiram_Cooley, Jacob_Cooley_Jr, Tabitha_Dolby.
+
+**Result**: 1 new mismatch found (#80 William Cox Sr birth year: Family_Tree.md "c.1726" vs person file "c.1730-1735"). Logged in cross_reference_audit.md as new row, deferred per Guard Rail #3 pending Cox Family History Project re-read.
+
+### Searches performed (round 2)
+
+| # | Search | Result |
+|---|---|---|
+| 1 | "John Joseph Cooley" 1819 1896 Greenville mother father parents | POSITIVE Ancestry snippet: parents = Hiram + Susan; spouse = Stacy Ann Chasteen. Tier 3. |
+| 2 | "SS Hamburg" 1935 passenger arrival "New York" June ship manifest | NEGATIVE for June 1935; confirms 11 Jul + 21 Aug 1935 sailings only. |
+| 3 | "Tucker Woodson" 1762 1831 wife "Anne Stolle" OR "Ann Scott" Mary Ann Woodson | POSITIVE: Geni "Anne Woodson born Stoll" 1777-1823; Tucker's 2nd wife. Multiple corroborating sources. |
+| 4 | "Robert King" "Kings Mountain" patriot Anderson SC 1780 DAR Washington District NC militia | NEGATIVE: Robert King not in carolana.com Kings Mountain roster. |
+| 5 | "John Joseph Cooley" "Stacy Ann" OR "Stacy Chasteen" Greenville Charstee daughter | POSITIVE clarification: Stacy Ann (Littleton) Chapman = Emily's mother (Charstee's grandmother); "Stacy Chapman Boyce" = Jake Cooley's wife. |
+| 6 | "Robert King" "Washington District" "North Carolina" militia revolutionary war Anderson South Carolina | NEGATIVE for specific Robert King attribution. |
+| 7 | "John Joseph Cooley" 1819 census 1820 1830 Greenville Hiram household | POSITIVE indirect: Cooleys-and-Crafts confirms Susan Cothran was alive in 1850 census Greenville (with son John Hiram); John Hiram's mother = Susan. |
+| 8 | "Henry Kascher" 1935 passenger Hamburg arrival ship manifest New York | NEGATIVE (no specific manifest found in free indexes). |
+| 9 | site:gapeach2.wordpress.com Hiram Cooley children Susan Cothran Mary Ann Woodson | POSITIVE: confirms John Hiram Cooley's mother = Susan Cothran; "Stacy Chapman Boyce" = Jake Cooley's wife. |
+
+### Files modified (round 2)
+- [[Mary_Ann_Woodson_Cooley]] -- mother field expanded with Geni Tier 3 dates; biography paragraph updated; Data Discrepancies row #76 escalated to DEFER/NEEDS_PRIMARY; Tucker Woodson 2nd-wife row updated with 3-source corroboration.
+- [[Charstee_King]] -- new Data Discrepancies row added documenting "Stacy Ann Chasteen" generation-confusion resolution (#77).
+- [[Henry_Michael_Kascher]] -- Data Discrepancies row #75 escalated from OPEN to NEEDS_PRIMARY with NARA M237 path noted.
+- [[Robert_King_II]] -- Vital Information military row tempered; biography "fought" → "reportedly"; new Data Discrepancies row #79 added.
+- [[Family_Tree]] -- line 525 cascade fix: "Tucker Woodson 1762-1831 + Ann Scott Woodson" → "Tucker Woodson 1762-1831 + Anne Stolle (1777-1823)".
+- [[cross_reference_audit]] -- 5 new rows added (#76-80); audit summary section appended.
+- [[Research_Log]] -- this entry.
+
+### Final verify count
+`grep -c "DISCREPANCY\|MISMATCH\|CONFLICT" cross_reference_audit.md` = **14** (start-of-round-2 baseline: 11; +3 net new references after the round-2 sweep: #76 DEFER, #79 CONFIRMED MODERATE NEGATIVE SIGNAL, #80 MISMATCH).

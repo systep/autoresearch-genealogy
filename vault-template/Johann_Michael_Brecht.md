@@ -69,6 +69,18 @@ Johann Michael died on September 13, 1794 in Reading, Berks County, Pennsylvania
 | Albert G. Green, "Historical Sketch of the Bright Family of Berks County, PA" (1900) | published genealogy, Berks County Historical Society (Tier 2) | FamilySearch catalog #1036369; not yet obtained |
 | "The Bright-Brecht Family of Pennsylvania" | compiled genealogy, Historical Society of Pennsylvania (Tier 2) | 227 pages; discover.hsp.org/Record/marc-67954 |
 | Strassburger and Hinke, "Pennsylvania German Pioneers" (1934) | ship passenger lists, 1727-1808 (Tier 1) | Does NOT cover 1726 arrivals; lists begin 1727 |
+| Karl Schuhmann, *Familienbuch Schriesheim 1650-1900* (Schriesheim: Odenwaldklub Schriesheim e.V. / Interessengemeinschaft Badischer Ortssippenbücher, 2004), 1060 pp., series Badische Ortssippenbücher Band 107 | Ortsfamilienbuch (Tier 2) | Heidelberg UB katalog 65850703; OpenLibrary OL3463118M; Google Books id N-BHHAAACAAJ; badische-ortsfamilienbuecher.de/buch.php?id=60. Contains compiled family-record entries for all identifiable Schriesheim inhabitants 1650-1900, including the Brecht/Hoffman families. **Direct page-level inspection pending** (book not yet obtained); existence of comprehensive entries confirmed via Tier-3 sources Familypedia, WikiTree Brecht-58, and "Ancestors in Baden" Schriesheim site, all of which trace ultimately to this OFB plus Schriesheim Evangelical parish registers. |
+| Online OFB Schriesheim (genealogy.net) | searchable surname index (Tier 2 derivative of Schuhmann 2004) | https://ofb.genealogy.net/famlist.php?ofb=schriesheim ; agentic fetch returned 403, browser access required for direct family-record numbers (NEEDS_HUMAN_FOLLOWUP) |
+
+## Local History Sources
+
+### Schriesheim Ortsfamilienbuch (Familienbuch)
+
+The town of Schriesheim has a comprehensive published Ortsfamilienbuch covering 1650-1900: **Karl Schuhmann, *Familienbuch Schriesheim 1650-1900* (Odenwaldklub Schriesheim e.V., 2004; Badische Ortssippenbücher Band 107; 1060 pp.)**. As an OFB, it compiles all parish-register baptisms, marriages, and burials into reconstituted family-record entries, and is the standard published secondary source for Brecht-of-Schriesheim genealogy. A derivative searchable online index is hosted at `ofb.genealogy.net/famlist.php?ofb=schriesheim` (the German genealogy.net online OFB project). The Schriesheim Brecht line documented in this person file (Hans Balthasar 1636-1703, his son Johannes Michael 1662-1719, and emigrant Johann Michael 1706-1794) is exactly the kind of multi-generational reconstruction the Familienbuch is designed to capture; direct verification of page numbers and family-record numbers requires obtaining the printed volume (held at Heidelberg UB, katalog 65850703) or interactive browser access to the online OFB. Confidence: Moderate (book existence and scope confirmed; per-entry inspection deferred).
+
+Original-language note: the Familienbuch is published in **German**; family-record headers are in German (e.g., *Geboren* = born, *Gestorben* = died, *Verheiratet* = married). No English translation has been published. Translations should preserve the German original alongside the English.
+
+Cross-reference: the parent identification supported by this OFB (Johannes Michael Brecht 1662-1719 + Anna Katarina Hoffman 1664-post-1726) is documented in [[Brecht_Schriesheim_Parents_Research_2026_04_19]] at Moderate-Strong Signal; archion.de Schriesheim Evangelical parish-register inspection (the Tier 1 underlying source) remains the next step to upgrade to Strong.
 
 ## Data Discrepancies
 

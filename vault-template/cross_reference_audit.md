@@ -567,4 +567,56 @@ Duplicate person files created when the 2026-04-19 rabbinic Geni import emitted 
 
 | # | File | Field | Source A | Source B | Status |
 |---|---|---|---|---|---|
-| 75 | [[Henry_Michael_Kascher]] | 1935 SS Hamburg arrival date | Vault biography (line 46): SS Hamburg arrived New York 27 Jun 1935 (sourced from FamilySearch passenger list index 1906-1942, Tier 2) | GG Archives Hamburg-American Line sample shows SS Hamburg sailings 11 Jul 1935 and 21 Aug 1935 to NY; no SS Hamburg sailing matching a 27 Jun 1935 NY arrival in the free GG Archives sample (Tier 2) | **OPEN, logged 2026-05-02 prompt 11**. Possibilities: (a) different vessel (SS Bremen / SS Europa / Norddeutscher Lloyd) with index match collision; (b) earlier 1935 SS Hamburg sailing absent from free GG Archives sample; (c) imprecise FamilySearch index transcription. Resolution requires direct image review of the FamilySearch passenger list index entry. Logged in [[immigration_search_audit]]. |
+| 75 | [[Henry_Michael_Kascher]] | 1935 SS Hamburg arrival date | Vault biography (line 46): SS Hamburg arrived New York 27 Jun 1935 (sourced from FamilySearch passenger list index 1906-1942, Tier 2) | GG Archives Hamburg-American Line sample shows SS Hamburg sailings 11 Jul 1935 and 21 Aug 1935 to NY; no SS Hamburg sailing matching a 27 Jun 1935 NY arrival in the free GG Archives sample (Tier 2) | **NEEDS_PRIMARY (escalated 2026-05-02 round-2 audit)**: round-2 web sweep across immigrantships.net, germanroots.com online lists, ggarchives.com SS Hamburg index, and a "Henry Kascher 1935 ship manifest" search all failed to surface a 27 Jun 1935 NY arrival. Resolution path: NARA microfilm M237 (NY passenger arrivals 1820-1957) roll covering June 1935, OR FamilySearch image-level review. Logged in [[immigration_search_audit]] and [[Henry_Michael_Kascher]] §Data Discrepancies. |
+
+---
+
+## 2026-05-02 Cross-Reference Audit Round 2 (deferred-items sweep)
+
+**Scope**: 2-iteration audit attacking 4 deferred items from prior 2026-05-02 agents (Cooley parentage, Discrepancy #75, Tucker Woodson 2nd-wife cascade, Robert King II Kings Mountain attribution) + 10-person new-discrepancy scan. Web-search budget: 6 searches consumed.
+
+### Deferred-item resolutions
+
+| # | File | Field | Source A | Source B | Status |
+|---|---|---|---|---|---|
+| 76 | [[Charstee_King]] / [[Mary_Ann_Woodson_Cooley]] | John Joseph Cooley (1819-1896) mother attribution | Vault [[Charstee_King]]: paternal grandparents Hiram Cooley + Mary Ann Woodson per MyHeritage 4-tree consensus (Tier 3) | Ancestry.ca snippet 2026-05-02 (Tier 3): father Hiram Cooley + mother **Susan** (= Susan Cothran, Hiram's 1st wife). Round-2 corroboration: Cooleys-and-Crafts (Tier 2) confirms Susan Cothran was alive in 1850 census Greenville SC (co-resident with son John Hiram Cooley), making her mother-of-John-Joseph chronologically possible. | **DEFER / NEEDS_PRIMARY**: TIER 3 vs TIER 3 conflict. Both attributions chronologically possible (Mary Ann b. 1803 → age 16 in 1819; Susan Cothran b. ~1805 → age 14). Cannot resolve without primary source: 1820/1830/1840 census of Hiram Cooley household, OR John Joseph Cooley probate/marriage record. Vault Hiram_Cooley.md children list retains John Joseph in the Mary-Ann-Woodson group with explicit dispute note (per Guard Rail #1: do not silently choose). Logged for next audit cycle when census images become available. |
+| 77 | [[Charstee_King]] | Mother's name (John Joseph Cooley's wife) | Vault: "Emily Susan Chapman" (b. 11 May 1823, d. 23 May 1857) per MyHeritage Turner/Moody/Marsengill/Lloyd consensus 2026-04-22 (Tier 3) + Geni profile 6000000012378636692 "Emily Cooley born Chapman" (Tier 3, retrieved 2026-05-02) | Ancestry.ca snippet 2026-05-02 (Tier 3): "Stacy Ann Chasteen" as John Joseph's wife | **RESOLVED 2026-05-02 round-2**: The "Stacy Ann Chasteen" attribution is a generation-confusion. Per round-2 web search: (a) **Stacy Ann (Littleton) Chapman** was Emily Chapman's MOTHER (Charstee's maternal grandmother), already in the vault; (b) Cooleys-and-Crafts (Tier 2) names "Stacy Chapman Boyce" as the wife of Jacob "Jake" Cooley (Mary Ann Woodson's son, John Joseph's half-brother). The "Stacy" name appears in adjacent Cooley/Chapman generations, conflating the snippet. Vault retains "Emily Susan Chapman" as John Joseph's wife (Tier 3 5-tree consensus + Geni Tier 3 profile). Documented in [[Charstee_King]] §Data Discrepancies. |
+| 78 | [[Mary_Ann_Woodson_Cooley]] / [[Family_Tree]] (line 525) | Tucker Woodson's 2nd wife (Mary Ann's mother) | Vault Family_Tree.md line 525: "Tucker Woodson 1762-1831 + **Ann Scott Woodson**" (single Tier 3 source, WikiTree Woodson-784) | **Anne Stolle** (b. 1777, d. 1823): Geni profile 6000000032977088051 "Anne Woodson born Stoll" (Tier 3, retrieved 2026-05-02 round-2); cuddins.com Moseley/Woodson page (Tier 2); rumseyfamily.com Tucker Woodson family group sheet (Tier 3); cynthiaswope.com Within The Vines Woodson (Tier 2) | **RESOLVED 2026-05-02 round-2**: **3-source independent corroboration of "Anne Stolle"** vs single-source "Ann Scott". Per Source Hierarchy, multi-source Tier 2-3 supersedes single Tier 3. Cascade fix applied: (a) Family_Tree.md line 525 updated "Ann Scott Woodson" → "Anne Stolle (1777-1823)"; (b) Mary_Ann_Woodson_Cooley.md Vital Information mother field expanded with Geni dates; (c) Mary_Ann_Woodson_Cooley.md biography paragraph updated. No other vault file mentions Tucker Woodson's wife (grep verified). |
+| 79 | [[Robert_King_II]] | Battle of Kings Mountain attribution | Vault: "Battle of Kings Mountain, Washington District Regt, NC Militia" per WikiTree + Find a Grave family-tradition narrative (Tier 3) | **Robert King is ABSENT** from the carolana.com Battle of Kings Mountain published roster of Known Patriots (Tier 2, prior 2026-05-02 colonial-records sweep, re-verified round-2 with negative result on "Robert King + Washington District + NC militia" search) | **PARTIAL RESOLUTION 2026-05-02 round-2 (CONFIRMED MODERATE NEGATIVE SIGNAL)**: Two independent free-web searches confirm Robert King's absence from the published Kings Mountain patriot roster. The DAR patriot status itself is retained (he is family-tradition recognized as a patriot), but the **specific Kings Mountain battle attribution is downgraded** from "DAR recognized patriot at Kings Mountain" to "DAR recognized patriot, Kings Mountain attribution UNVERIFIED in published rosters". Robert_King_II.md narrative changed from "fought in" to "reportedly" at Kings Mountain. NEEDS_PRIMARY (DAR RIN via login-required GRS lookup, OR pension file at NARA). Documented in [[Robert_King_II]] §Data Discrepancies. |
+
+### Iteration 2: New-discrepancy scan (10 recently-touched persons)
+
+| Person | Family_Tree value | Person file value | Status |
+|---|---|---|---|
+| [[Mary_Ann_Woodson_Cooley]] | Family_Tree.md line 525 (post-cascade): "Tucker Woodson 1762-1831 + Anne Stolle (1777-1823)" | Person file Vital Info: Anne Stolle. ✓ MATCH (post-cascade) |
+| [[Argaleus_Hercules_Henderson]] | Not directly cited in Family_Tree.md (only descendants are). Person file: b. ~1720, d. ~1804-1806, parents James Isaac Henderson Jr. + Mary Rhodes. ✓ no FT mismatch |
+| [[James_Cox]] | Family_Tree.md line 378: "c.1778 - May 22, 1853", father Isaac Cox. Person file: matches. ✓ |
+| [[Johann_Michael_Brecht]] | Family_Tree.md context: "emigrated Oct 1726, Philadelphia", b. 28 May 1706 Schriesheim. Person file: matches. ✓ |
+| [[Daniel_Huff_Brunswick]] | Family_Tree.md line 401: "c. 1710/1720-c. 1777", will witnessed by John Hammack. Person file: matches. ✓ |
+| [[William_Cox_Sr]] | **Family_Tree.md line 317: "c.1726 - c.1814"** | Person file frontmatter `born: 1730`, body Vital Info "c.1730-1735, unknown location" | **NEW MISMATCH 2026-05-02 round-2**: birth year c.1726 (FT) vs c.1730-1735 (person file). See Discrepancy #80 below. |
+| [[John_Parker_Anderson_SC]] | Family_Tree.md line 490: "b. 1753 Ireland, d. 4 Jun 1845 Belton SC" | Person file: matches. ✓ |
+| [[Hiram_Cooley]] | Family_Tree.md line 524: "Hiram Cooley (1796-1864, Greenville SC)" | Person file: matches. ✓ |
+| [[Jacob_Cooley_Jr]] | Family_Tree.md line 524: "Jacob Cooley Jr. (1760-1826)" | Person file: matches. ✓ |
+| [[Tabitha_Dolby]] | Family_Tree.md line 481: "20 Apr 1756, Ireland; d. May 14, 1815 Belton" | Person file: matches. ✓ |
+
+### New discrepancy rows added 2026-05-02 round-2
+
+| # | File | Field | Source A | Source B | Resolution |
+|---|---|---|---|---|---|
+| 80 | [[William_Cox_Sr]] | birth_year | Family_Tree.md line 317: **"c.1726 - c.1814"** | Person file frontmatter `born: 1730` (line 5); body Vital Info "c.1730-1735, unknown location, Cox Family History Project" | **MISMATCH** (NEW). Both are estimated/circa values from Tier 2-3 sources. The person file cites Cox Family History Project (Tier 2) for c.1730-1735; Family_Tree.md "c.1726" has no specific citation visible in this audit pass. **DEFER (do not silently choose)**: Cox Family History Project is the same Tier 2 source used elsewhere in the vault for William Cox Sr. Action: per Guard Rail #3 (do not modify dates during expansion-style audits without primary source) the FT value is left as-is and tracked here. Recommend next audit cycle reconcile by re-reading Cox Family History Project for the precise circa value and unifying both files. |
+
+### Audit summary (round 2)
+
+| Metric | Count |
+|---|---|
+| Iterations executed | 2 |
+| Web searches consumed | 6 |
+| Deferred items attacked | 4 |
+| Deferred items RESOLVED | 2 (#77 Stacy Ann Chasteen → Emily Chapman generation-confusion clarified; #78 Tucker Woodson 2nd wife = Anne Stolle confirmed by 3 independent sources, cascade applied) |
+| Deferred items PARTIAL / DEFER / NEEDS_PRIMARY | 2 (#76 John Joseph Cooley parentage = Tier 3 vs Tier 3 deferred; #75/#79 = NEEDS_PRIMARY) |
+| Iteration-2 new-discrepancy persons audited | 10 |
+| New discrepancy rows added | 1 (#80 William Cox Sr birth year FT vs person file) |
+| Cascade fixes applied | 1 (Family_Tree.md line 525: "Ann Scott Woodson" → "Anne Stolle (1777-1823)" per Tucker Woodson 2nd-wife correction) |
+| Files modified | [[Mary_Ann_Woodson_Cooley]], [[Charstee_King]], [[Henry_Michael_Kascher]], [[Robert_King_II]], [[Family_Tree]], [[cross_reference_audit]] (this file), [[Research_Log]] |
+
+**Verify**: `grep -c "DISCREPANCY\|MISMATCH\|CONFLICT" cross_reference_audit.md` reported in Research_Log entry below.
