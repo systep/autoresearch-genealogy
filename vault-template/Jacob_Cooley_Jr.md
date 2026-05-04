@@ -38,6 +38,8 @@ The Pittsylvania County VA → Greenville SC migration is consistent with the br
 
 Jacob Sr. (the next generation back) is a future expansion target, partially documented at gapeach2.wordpress.com "Jacob COOLEY 1735-1820".
 
+**2026-05-02 OQR round 3 update (OQ #38)**: Jacob Cooley Sr. (1735-1820)'s parents are now identified at **Moderate Signal** as **Abraham Cowley** + **Anne Ware** (both of Henrico Co VA), per two independent free-web sources: Geni 6000000176122509867 (Jacob Cooley Sr 1735-1820, names parents Abraham Cowley + Anne Ware) and WikiTree Ware-186 (Anne Ware Cowley, bef.1695-aft.1781, names her children including Jacob Cowley Sr. by her second husband Abraham Cowley, m. ~1735 Henrico Co VA). Anne Ware was previously married to Baldwin Rockett ~1712 Henrico Co with at least three Rockett children (Francis Rockett, Ware Rockett, Richard Rockett I), making the Cooley/Cowley line collateral relatives of the Henrico Rockett family. Cooley/Cowley confirmed as variant spellings in colonial Henrico Co VA records. Tier 1 Henrico Co will books would upgrade this to Strong Signal. The Geni profile (separate from the previously-cited 6000000033451865859) gives a death date of 25 Aug 1820 SC; the Cooleys-and-Crafts blog (Tier 2) gives a Greenville District SC will probated 28 Feb 1816, implying death 1815/1816 — death-year discrepancy remains OPEN, routed to cross_reference_audit.
+
 ## Document Sources
 
 | Document | Type | Vault Note |
