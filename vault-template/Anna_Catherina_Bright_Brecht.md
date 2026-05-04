@@ -59,3 +59,8 @@ The current file's 1734-born individual is plausibly a granddaughter or great-gr
 | Field | Source A | Source B | Resolution |
 |---|---|---|---|
 | Identity | MyHeritage GEDCOM: b. 6 Apr 1734 Heidleberg, Lebanon, PA | WikiTree Brecht-58 / Familypedia / Geni: 1726 emigrant widow = Anna Katarina Hoffman b. 14 Oct 1664 Schriesheim | UNRESOLVED. These are almost certainly two different persons collapsed by a GEDCOM error. Needs file split. |
+
+
+## Source Citation Audit Note (2026-05-02)
+
+Single source only; corroboration not yet found. Confidence held at `low` per prompt 05 mapping. Audited round 2 (2026-05-02), no free-web corroborating record located within search budget.

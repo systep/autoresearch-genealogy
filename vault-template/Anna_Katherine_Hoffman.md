@@ -4,12 +4,16 @@ name: "Anna Katherine Hoffman"
 born: 1663-09-27
 died: 1740-10-10
 family: "Hoffman"
-confidence: low
+confidence: moderate
 sources:
   - "GEDCOM f266i6 (MyHeritage/FamilySearch/Geni)"
+  - "Geni World Family Tree record 40000:12459667 (Tier 3)"
+  - "FamilySearch record 40001:1106786674 (Tier 3)"
+  - "jliptrap.us/gen/brecht.htm (Tier 2 compiled genealogy, gives 14 Oct 1664 birth)"
+  - "WikiTree (Hoffman/Brecht line) corroborating parents Hans Jost Hoffman + Christina Frank and marriage 29 Jul 1684 to Johannes Michael Brecht 1662-1719 (Tier 3, located via WebSearch 2026-05-02)"
+  - "Familypedia (Fandom) 'Johannes Michael Brecht (1662-1719)' page corroborating spouse Anna Katarina Hoffman and 1684 marriage (Tier 3, located via WebSearch 2026-05-02)"
 created: 2026-04-10
 tags: [genealogy, Hoffman, person, Brecht]
-confidence: low
 ---
 
 # Anna Katherine Hoffman
@@ -42,9 +46,11 @@ She had at least 10 children, many of whom established prominent families in col
 | Document | Type | Vault Note |
 |---|---|---|
 | GEDCOM f266i6 individual (Anna Katharina Brecht born Hoffman) | family tree extract | |
-| Geni World Family Tree record 40000:12459667 | online family tree | |
-| FamilySearch record 40001:1106786674 | online family tree | |
-| jliptrap.us/gen/brecht.htm (referenced in GEDCOM) | secondary source | |
+| Geni World Family Tree record 40000:12459667 | online family tree (Tier 3) | |
+| FamilySearch record 40001:1106786674 | online family tree (Tier 3) | |
+| jliptrap.us/gen/brecht.htm (referenced in GEDCOM) | secondary compiled genealogy (Tier 2) | gives 14 Oct 1664 birth, conflicting with GEDCOM 27 Sep 1663 |
+| WikiTree Hoffman/Brecht line (located 2026-05-02) | compiled WikiTree (Tier 3) | search snippet: "Anna Katarina Hoffman ... daughter of Hans Jost Hoffman and Christina Frank. She married Johannes Michael Brecht on 29 July 1684." |
+| Familypedia "Johannes Michael Brecht (1662-1719)" | compiled fan-genealogy wiki (Tier 3) | https://familypedia.fandom.com/wiki/Johannes_Michael_Brecht_(1662-1719); confirms wife Anna Katarina Hoffman, marriage 1684, husband b. Neudorf, d. Schriesheim 1719. |
 
 ## Data Discrepancies
 

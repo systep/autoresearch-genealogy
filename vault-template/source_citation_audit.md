@@ -1099,3 +1099,111 @@ Used 6 of ~10 budgeted WebSearches:
 1. Re-run audit-script with `tier_1_sources`/`tier_2_3_sources` alias support to recover Srul_Mendel_Zalmanson and any similar files from false-UNSOURCED status.
 2. Find a Grave memorial number for John Parker (Ebenezer UMC Anderson SC) -- WikiTree narrative references it but does not give the number; needs direct findagrave.com browse.
 3. Birth-year discrepancy John Parker: vault has 1753, WikiTree Parker-1606 has 1759 -- already in Open Items, needs a Tier 1 record (DAR application file, RW pension file).
+
+
+---
+
+## 2026-05-02 Scoped Audit Round 2 (touched-but-unaudited + 10 single-source slice)
+
+**Scope**: 14 person files modified by today's prior agents but not yet audited, plus 10 single-source person files chosen via low-source grep. Prompt 05, 2 iterations, scope-bounded, max ~10 web searches (8 used).
+
+### Audited files (24)
+
+#### Touched-but-unaudited person files (14)
+
+| File | sources count | Doc Sources rows | Tier 1 present? | Status BEFORE | Status AFTER | Confidence BEFORE | Confidence AFTER |
+|---|---|---|---|---|---|---|---|
+| Mary_Ann_Woodson_Cooley | 4 | (in vital info) | No | PASS | PASS | high | high |
+| Argaleus_Hercules_Henderson | 4 | n/a | Yes (Chatham Co NC Deed Book B p.128, NC Colonial Records) | PASS | PASS | high | high |
+| James_Cox | 3 | n/a | No | PASS | PASS | high | high |
+| Johann_Michael_Brecht | 4 | n/a | No (all compiled) | PASS | PASS | high | high |
+| William_Cox_Sr | 4 | n/a | Yes (Orange Co NC Deed Records) | PASS | PASS | high | high |
+| Robert_King_II | 4 | n/a | No (FaG + WikiTree + Geni + DAR) | PASS | PASS | high | high |
+| Charstee_King | 7 | n/a | Yes (multiple US Censuses + SC Deaths) | PASS | PASS | high | high |
+| Henry_Michael_Kascher | 3 | n/a | Yes (Ohio Birth Index + 1950 US Census) | PASS | PASS | high | high |
+| Sebastian_Brecht | 2 -> 5 | 2 -> 5 | No | NEEDS_CORROBORATION (2 entries but both Tier 3 derivative; effectively single-source) | PASS | low | moderate |
+| Daniel_Huff_Brunswick | 5 | n/a | Yes (Brunswick Co VA 1773 will + 1753 land grant) | PASS | PASS | high | high |
+| Peter_Jungblut_1739_MD | 3 | n/a | Yes (MD Commission Book #82, 1738/9) | PASS (marginal: 2/3 derivative) | PASS | moderate | moderate |
+| Barnett_Salmanson | 10 | n/a | Yes (NY Naturalization, WWI Draft, FL Death Cert, BillionGraves) | PASS | PASS | high | high |
+| Ezekiel_Henderson | 3 | n/a | Yes (RevWar Pension S6994) | PASS | PASS | high | high |
+| Hiram_Cooley | 5 | 9 | No (FaG + hmdb marker Tier 2) | PASS (already audited r1) | PASS | high | high |
+
+#### Single-source slice (10)
+
+| File | sources count | Tier of source(s) | Status BEFORE | Status AFTER | Confidence BEFORE | Confidence AFTER |
+|---|---|---|---|---|---|---|
+| Albert_Leander_Drake | 1 | Tier 3 (MyHeritage GEDCOM) | NEEDS_CORROBORATION | NEEDS_CORROBORATION | low | low |
+| Agnes_Cox_Long | 1 | Tier 3 (MyHeritage GEDCOM) | NEEDS_CORROBORATION | NEEDS_CORROBORATION | low | low |
+| Abigail_Moseley | 1 | Tier 3 (MyHeritage GEDCOM) | NEEDS_CORROBORATION | NEEDS_CORROBORATION | low | low |
+| Anna_Catherina_Bright_Brecht | 1 | Tier 3 (MyHeritage GEDCOM) | NEEDS_CORROBORATION | NEEDS_CORROBORATION | low | low |
+| Anna_Kascher_1903 | 1 -> 3 | Tier 1 church + Tier 2 Siebenbürger.de + Tier 3 Genealogy.com | NEEDS_CORROBORATION (mechanical; was already Tier 1 primary) | PASS | low | moderate |
+| Amy_Elizabeth_Moseley | 1 | Tier 3 (MyHeritage GEDCOM) | NEEDS_CORROBORATION | NEEDS_CORROBORATION | low | low |
+| Ann_A._Wert | 1 | Tier 3 (MyHeritage GEDCOM) | NEEDS_CORROBORATION | NEEDS_CORROBORATION | low | low |
+| Anna_Katherine_Hoffman | 1 -> 6 | Tier 2/3 (GEDCOM + Geni + FamilySearch + jliptrap + WikiTree + Familypedia) | NEEDS_CORROBORATION (frontmatter listed only 1 of 4 Doc Sources) | PASS | low | moderate |
+| Andreas_Reinherd | 1 | Tier 3 (GEDCOM) | NEEDS_CORROBORATION | NEEDS_CORROBORATION | low | low |
+| Alvina | 1 | Tier 2-3 (Geni Shneur Zalman of Liadi project) | NEEDS_CORROBORATION | NEEDS_CORROBORATION | low | low |
+
+### Pre-run counts (within this batch of 24)
+- PASS: 12 (13 named touched, minus Sebastian which was effectively NEEDS_CORROBORATION)
+- NEEDS_CORROBORATION: 12 (Sebastian + 10 single-source + 1 marginal)
+- Wait, recount: 13 named PASS - Sebastian (NC) + Anna_Kascher (NC) + Anna_Hoffman (NC) + 8 unrecoverable single-source NC = 12 PASS, 11 NEEDS_CORROBORATION, 0 UNSOURCED... let me state it cleanly:
+- PASS: 13 (Mary_Ann_Woodson_Cooley, Argaleus_Hercules_Henderson, James_Cox, Johann_Michael_Brecht, William_Cox_Sr, Robert_King_II, Charstee_King, Henry_Michael_Kascher, Daniel_Huff_Brunswick, Peter_Jungblut_1739_MD, Barnett_Salmanson, Ezekiel_Henderson, Hiram_Cooley)
+- NEEDS_CORROBORATION: 11 (Sebastian_Brecht + Albert_Leander_Drake + Agnes_Cox_Long + Abigail_Moseley + Anna_Catherina_Bright_Brecht + Anna_Kascher_1903 + Amy_Elizabeth_Moseley + Ann_A._Wert + Anna_Katherine_Hoffman + Andreas_Reinherd + Alvina)
+- UNSOURCED: 0
+
+### Post-run counts (within this batch of 24)
+- PASS: 16 (added Sebastian_Brecht, Anna_Kascher_1903, Anna_Katherine_Hoffman)
+- NEEDS_CORROBORATION: 8 (Albert_Leander_Drake, Agnes_Cox_Long, Abigail_Moseley, Anna_Catherina_Bright_Brecht, Amy_Elizabeth_Moseley, Ann_A._Wert, Andreas_Reinherd, Alvina; each marked with standard "Single source only; corroboration not yet found" note)
+- UNSOURCED: 0
+
+### New sources added (2026-05-02 round 2)
+
+| File | New source | Tier | Provenance |
+|---|---|---|---|
+| Sebastian_Brecht | WikiTree Brecht-14 'Sebastian Friedrich Christoph Brecht (1600-1670)' | Tier 3 | WebSearch 2026-05-02; resolves the file's open question on the missing WikiTree id |
+| Sebastian_Brecht | Familypedia (Fandom) 'Sebastian Brecht (1600-1670)' | Tier 3 | WebSearch 2026-05-02 |
+| Sebastian_Brecht | Geni profile 6000000009677445618 (distinct from project record 45913) | Tier 3 | WebSearch 2026-05-02 |
+| Sebastian_Brecht | C.M. Bower, Brecht One-Name Study (cmbower.co.uk) | Tier 2 | WebSearch 2026-05-02 |
+| Anna_Katherine_Hoffman | WikiTree Hoffman/Brecht line (parents Hans Jost + Christina Frank, 1684 marriage) | Tier 3 | WebSearch 2026-05-02 |
+| Anna_Katherine_Hoffman | Familypedia 'Johannes Michael Brecht (1662-1719)' | Tier 3 | WebSearch 2026-05-02 |
+| Anna_Katherine_Hoffman | (frontmatter sync) Geni 40000:12459667, FamilySearch 40001:1106786674, jliptrap.us | Tier 2/3 | already in Document Sources, surfaced into frontmatter for audit-script visibility |
+| Anna_Kascher_1903 | Siebenbürger.de Ortsfamilienbuch entry for mother Anna Binder | Tier 2 | WebSearch 2026-05-02 |
+| Anna_Kascher_1903 | Genealogy.com Austria forum #11540 'need to find Georg Kascher, Wurmloch' | Tier 3 | WebSearch 2026-05-02 |
+
+### Confidence-level changes (this run)
+
+| File | Old | New |
+|---|---|---|
+| Sebastian_Brecht | low | moderate |
+| Anna_Katherine_Hoffman | low | moderate |
+| Anna_Kascher_1903 | low | moderate |
+
+### Independence-of-source notes (Guard rail check)
+
+- Sebastian_Brecht: WikiTree Brecht-14 and Geni project 45913 are maintained by separate genealogy communities and contributors. Familypedia is a Fandom wiki with its own editorial chain. cmbower.co.uk is a one-name study by an independent UK researcher. Treated as 4 independent compiled-genealogy sources plus the original Geni project = 5 entries, conservatively counted as 3-4 effective independent sources (not all 5 fully independent because compiled genealogies do crib from Geni).
+- Anna_Katherine_Hoffman: WikiTree's narrative (parents Hans Jost Hoffman + Christina Frank, marriage 29 Jul 1684) and Familypedia narrative likely descend from a common older published Brecht genealogy; counted as 1.5-2 effective independent units beyond the GEDCOM+Geni cluster.
+- Anna_Kascher_1903: Tier 1 Waldhütten church certificate stands alone; Siebenbürger.de and Genealogy.com forum thread are family-context corroboration (mother and family cluster) not direct corroboration of Anna 1903 herself. Treated as PASS-marginal at moderate confidence per "primary source with no contradicting evidence" exception in CLAUDE.md.
+
+### Web search budget for this run
+
+Used 8 of ~10 budgeted WebSearches:
+1. "Albert Leander Drake" 1897 Mississippi Find a Grave: no result
+2. "Agnes Cox" Long 1891 Simpsonville SC obituary: no result (Tributes/Legacy listings only)
+3. "Sebastian Brecht" Schriesheim Neudorf 1670: 4 strong corroborating hits (WikiTree Brecht-14, Familypedia, Geni profile, cmbower one-name study)
+4. "Anna Catherina Bright" OR "Anna Catharina Brecht" 1734 PA WikiTree: no direct match for the 1734 daughter; only ancestral Brecht context
+5. "Anna Katherine Hoffman" 1663 1740 Brecht WikiTree: WikiTree narrative + Familypedia confirming parents and 1684 marriage
+6. "Albert Drake" Lowndes Mississippi 1972 Columbus: no specific record
+7. "Andreas Reinerth" OR "Andreas Reinherd" Transylvania Saxon: no match
+8. "Anna Kascher" 1903 Waldhütten Transylvania OR Ohio: Genealogy.com forum + Siebenbürger.de Ortsfamilienbuch corroborate family cluster (not Anna 1903 herself)
+
+### Files marked with "Single source only; corroboration not yet found" note (8)
+
+Albert_Leander_Drake, Agnes_Cox_Long, Abigail_Moseley, Anna_Catherina_Bright_Brecht, Amy_Elizabeth_Moseley, Ann_A._Wert, Andreas_Reinherd, Alvina. All remain at `confidence: low` per prompt 05 mapping (1 source -> low). All are MyHeritage GEDCOM stubs or Geni-stub from the rabbinic dynasty cluster (Alvina). Free-web targeted searches did not yield corroborating records within budget.
+
+### Carryover (2026-05-02 round 2)
+
+1. Albert_Leander_Drake & Agnes_Cox_Long: need Mississippi/Tennessee newspaper archives or Ancestry.com death indexes (paid Phase 3).
+2. Anna_Catherina_Bright_Brecht (1734 daughter of Johann Michael Brecht): cmbower.co.uk Brecht One-Name Study likely covers this generation; needs direct read of the page for daughters of Johann Michael Brecht 1706-1794.
+3. Andreas_Reinherd: no Transylvanian-Saxon Ortsfamilienbuch hit; needs Wurmloch/Waldhütten OFB direct lookup (paper or paid online).
+4. Alvina (Geni Shneur Zalman of Liadi cluster): part of the deferred 431 rabbinic-dynasty Geni stub bulk-flag track.
+5. Sebastian_Brecht: birth date discrepancy resolution via Schriesheim Familienbuch 1650-1900 (Schuhmann 2004) still pending. WikiTree Brecht-14 also adds a second wife Margaretha Kammerer (24 Apr 1654) not in Geni project 45913 narrative; needs direct OFB verification.

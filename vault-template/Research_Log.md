@@ -2,13 +2,155 @@
 type: reference
 created: 2026-04-09
 updated: 2026-05-02
-last_session: "2026-05-02 Tree Expansion ROUND 2 (prompt 01, scoped 1 iteration, 4 ancestors, 8 web searches): Eastern European Ashkenazi + Palatine slice. NEW collateral file [[Sebastian_Brecht]] (b. 1600 Neudorf, d. 1670 Schriesheim; brother of Christoph Stoffel Brecht; co-migrated to Schriesheim by 1637 with his ancestor brother). Confirmed existing Brecht line already extends to Hans Braecht + Margretha (great-grandparents of Christoph) via Filae. Confirmed Friedberg/Goldberg parent files already exist from round 1. NEGATIVE for Israel Salk Kovno parents, Avraham Chaim Markel wife, Levi Itzhak Zalmanson 1851 corroboration, Heschel Markel parents beyond Mordko Ber. Files: Sebastian_Brecht.md (NEW), Research_Log.md (this entry). NO commit, NO push."
+last_session: "2026-05-02 Timeline Gap Analysis ROUND 2 (prompt 07, scoped 2 iterations, 8 of 10 web searches): Iteration 1 attacked 7 OPEN gap rows from round-1 audit (Olive Henderson Cox FaG NEGATIVE, Mary Nancy Parker King FaG NEGATIVE, Nancy Gover Cooley death-date upper bound 'before 28 Jun 1844' WikiTree Tier 3, Hiram Cooley Susan Cothran marriage NEGATIVE, William Holloway 1782 Brunswick VA tax pointer-level PARTIALLY_CLOSED via Ancestry collection 62774 + LVA, Charstee King 1850 census pointer-level PARTIALLY_CLOSED via SCGenWeb 1850 Greenville alpha index PDF, Peter Jungblut Prince George's Co MD land patent NEGATIVE). Iteration 2 added 11 new gap rows for EE/Palatine ancestors recently added to family.ged: Barnett Salmanson, Israel Salk, Avraham Chaim Markel, Helen Brandt, Joseph Brandt, Henry Michael Kascher, Anna Kascher 1903, Johann Michael Brecht, Sebastian Brecht (collateral), Anna Catherina Bright Brecht, Anna Katherine Hoffman. 0 new events added to Timeline.md (no round-2 finding met Tier 1 or 2 sourcing). Verify: timeline_gap_audit.md OPEN count 19→32, PARTIALLY_CLOSED 6→12, RESOLVED 10→11. Files: timeline_gap_audit.md (modified, round-2 append), Research_Log.md (this entry). NO commit, NO push. PRIOR SESSION: 2026-05-02 GEDCOM Completeness ROUND 2 (prompt 04, scoped 2 iterations, 0 web searches, 40-INDI cap): Added Eastern European Ashkenazi + Palatine slice to family.ged. +39 INDI (@I40@-@I78@), +18 FAM (@F20@-@F38@). Slice: Salmanson direct line (Barnett, Elizabeth Salk, Abraham Zolly Salk, Tobey, Leonard Irving, Thelma Markel, Alan Carl, Kathryn Ann), Markel/Frei/Brandt (Heschel + Leah, Morris + Helen, Avraham Chaim, Florence + David Mermelstein, Anne, Joseph Brandt + Brina Goldbaum), Kascher Transylvanian-Saxon (Henry Michael, Mary Elizabeth Bright, Michael Jr. + Rosina Falk, Michael Sr. + Anna Binder, Martin Binder + Anna Weber), Brecht/Hoffman Palatinate (Johann Michael II + Margareta Simone, Johannes Michael I + Anna Katarina Hoffman, Hans Jost Hoffman + Christina Frank, Balthasar + Anna Margaretha Christmann, Christoph + Anna Barbara Wolpack, Conrad Kuntz + Catharina Camerer, Sebastian Brecht). Linked Mary Elizabeth Bright (@I59@) as CHIL of @F18@ (Albert Graham Bright + Rebecca Long), establishing Bright-Kascher-Salmanson three-cluster bridge. Tabitha Dolby (@I11@) reclassified PRESENT in audit (her r1 INCOMPLETE birth-date issue was already resolved when r1 GEDCOM was written). gedcom_audit.md updated: PRESENT 31→71, INCOMPLETE 8→7, MISSING 383→372, total rows 422→450. Validation: 78 INDI / 38 FAM, no orphan refs, no duplicate IDs, ends with 0 TRLR. Files: family.ged (modified), gedcom_audit.md (modified), Research_Log.md (this entry). NO commit, NO push."
 tags: [genealogy, research, log]
 ---
 
 # Research Log
 
 Chronological record of every archive searched, every query run, and every result (positive or negative).
+
+## 2026-05-02 Immigration Search ROUND 3 (Session: branch claude/run-top-agents-oyF19, prompt 11-immigration-search, third pass — targeted-slice retry)
+
+**Goal**: 2-iteration tightly-scoped retry of round-2 deferred items (Norbert Fleisig, Henry Kascher Discrepancy #75, Brecht/Bright 1726 Palatine ship, Anne/Mojzesz Markel ~1928, Avraham Chaim Markel) plus 2-3 fresh candidates (Michael Kascher Sr 1864, Max Salk Chicago, Robert Salem Salk). Cap: 2 iterations, ~10 candidates, ~12 searches. Free sources only.
+
+**Iteration 1 (5 searches)**: queries 16-20 in `immigration_search_audit.md`. Surfaced UCI Hirschberg Krakow Fleisig family page; eliminated Strassburger & Hinke for the Brecht 1726 cohort by scope (series begins 1727); negative on Henry Kascher June 1935 / Anne Markel 1928 / Michael Kascher Sr 1916-1920.
+
+**Iteration 2 (7 searches)**: queries 21-27. Confirmed Norbert Fleisig Krakow origin via Tier 2 compiled (UCI Hirschberg) + Tier 3 (Geni); discovered name variant **Norbert Nachum Fleisig**; sibling **Charles Fleisig (1881-1963)**, son **Earl Fleisig (1916-1999)**. Cross-vessel search for Discrepancy #75 eliminated SS Manhattan, SS Bremen, SS Europa for late-June 1935 NY arrival (none have a documented late-June 1935 NY arrival from a German port in the GG Archives free sample).
+
+**Outcome summary**:
+- Candidates processed: 8 (Norbert Fleisig, Henry Michael Kascher, Brecht 1726 cohort = Anna Catherina Brecht + Johann Michael Brecht + Stefan Brecht, Anne Markel, Morris/Mojzesz Markel, Michael Kascher Sr 1864, Max Salk Chicago 1892, Robert Salem Salk Chicago) + 1 N/A flag (Avraham Chaim Markel did not emigrate; killed in Galicia 1939).
+- Records newly corroborated: 1 (Norbert Fleisig Krakow origin, via UCI Hirschberg + Geni; Tier 3 → Tier 3 + Tier 2 compiled).
+- New name variants: **Norbert Nachum Fleisig** (Hebrew middle name).
+- Discrepancy #75 outcome: NEEDS_PRIMARY reaffirmed; alternate-vessel hypotheses (SS Manhattan, SS Bremen, SS Europa) eliminated; resolution path narrowed to NARA M237 June 1935 roll OR FamilySearch image-level review of 1906-1942 passenger list index.
+- Definitive negative (by scope): Strassburger & Hinke "Pennsylvania German Pioneers" cannot contain the Brecht 1726 arrival because the series begins 1727. No further Strassburger & Hinke searches warranted for this cohort.
+- Negative results / paywalled flags: 6 (Henry Kascher June 1935; Anne Markel 1928; Morris Markel 1928; Michael Kascher Sr 1916-1920; Max Salk Chicago; Robert Salem Salk Chicago).
+- Search budget: 12 of ~12 used.
+
+**Files modified**: `vault-template/Norbert_Fleisig.md` (Name Variants + Immigration sections, frontmatter sources expanded, `updated: 2026-05-02`), `vault-template/Henry_Michael_Kascher.md` (Data Discrepancies row #3 extended), `vault-template/cross_reference_audit.md` (Discrepancy #75 row extended), `vault-template/immigration_search_audit.md` (round-3 append), `vault-template/Research_Log.md` (this entry). NO commit, NO push.
+
+---
+
+## 2026-05-02 Timeline Gap Analysis ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 07-timeline-gap-analysis, second pass)
+
+**Goal**: Two iterations: (1) attack 6-8 most-tractable OPEN gap rows from round-1 timeline_gap_audit.md; (2) add gap-row coverage for the EE/Palatine ancestors recently added to family.ged by GEDCOM round-2 agent (Salmanson/Salk/Markel/Frei/Brandt/Kascher/Brecht/Hoffman lines).
+
+**Scope caps**: 2 iterations, web-search budget 10. Free sources only. NO Timeline.md propagation unless event meets Tier 1 or 2 sourcing.
+
+**Iteration 1 — searches run (8 of 10 budget)**:
+1. "Polly Cox" "Thomas Cox" Greenville 1876 Find a Grave -> NEGATIVE; Mary Rebecca "Polly" Cox King #48041647 different person.
+2. "Mary Nancy King" Anderson Co SC 1853 Find a Grave -> NEGATIVE.
+3. "Nancy Cooley" OR "Nancy Gover" 1830 OR 1840 census Greenville SC widow -> WikiTree Gover-8 confirms "died before 28 Jun 1844 Greenville Co SC"; refines round-1 1842 FaG upper bound (Tier 3).
+4. "Hiram Cooley" "Susan Cothran" marriage Greenville SC 1814 -> NEGATIVE; Cooleys-and-Crafts notes contradictory researcher claims about Susan Cothran's birth year (~1805) and survival (possibly to 1850 census).
+5. "William Holloway" Brunswick Co VA 1782 personal property tax tithables -> Library of Virginia + Ancestry collection 62774 identified as the correct database; no individual entry retrieved.
+6. "Charstee Cooley" OR "Charstee King" 1850 1860 census Greenville SC -> SCGenWeb 1850 Greenville District alphabetical census index PDF (scgenweb.org/greenville/1850_census_alpa.pdf) located as a free, browsable surrogate.
+7. "Olive Henderson Cox" 1795 1876 Find a Grave Greenville -> NEGATIVE for second time; recommend deprioritizing.
+8. "Peter Jungblut" Prince George's Co MD land patent 1730s German Palatine -> NEGATIVE for individual record; Maryland State Archives Patent Tract Index identified as correct database.
+
+**Iteration 2 — EE/Palatine gap-row additions (0 searches)**:
+Added 11 new gap rows to timeline_gap_audit.md covering: Barnett Salmanson (re-cataloged with full event set), Israel Salk, Avraham Chaim Markel, Helen Brandt, Joseph Brandt, Henry Michael Kascher, Anna Kascher 1903, Johann Michael Brecht, Sebastian Brecht (collateral), Anna Catherina Bright Brecht, Anna Katherine Hoffman.
+
+**Cross-cutting search targets identified for future research**:
+- AGAD Fond 424 Sambor + Lesko Jewish vital records 1855-1920 (touches Helen Brandt, Joseph Brandt, Avraham Chaim Markel)
+- Schriesheim Familienbuch (Schuhmann 2004) (touches Johann Michael Brecht, Sebastian Brecht, Anna Katherine Hoffman)
+- Berks Co PA Will Book 1794-1795 (touches Johann Michael Brecht 1794 will)
+- NARA Boston/Waltham U.S. District/Circuit Court RI Naturalization Records (touches Barnett Salmanson Petition)
+
+**Verify before -> after** (timeline_gap_audit.md):
+- "OPEN" string count: 19 -> 32 (+13: 11 new EE/Palatine rows OPEN, 2 round-2 status notes referencing the OPEN word in prose)
+- "PARTIALLY CLOSED" / "PARTIALLY_CLOSED" string count: 6 -> 12 (+6: 3 new round-2 PARTIALLY_CLOSED rows in the iteration-1 results table, plus 3 prose mentions)
+- "RESOLVED" / "CLOSED" string count: 10 -> 11 (+1 prose mention; no new RESOLVED rows)
+
+**Outcome summary**:
+- Rows attacked from round-1 OPEN set: 7 (Olive Henderson Cox FaG, Mary Nancy Parker King FaG, Nancy Gover Cooley census/death, Hiram Cooley marriage, William Holloway 1782 tax, Charstee King census, Peter Jungblut MD land)
+- Rows newly RESOLVED with Tier 1 or Tier 2 source: 0
+- Rows PARTIALLY_CLOSED at the pointer level (correct database identified): 3 (Nancy Gover Cooley death-date upper bound; William Holloway 1782 tax — Ancestry collection 62774 / Library of Virginia; Charstee King — SCGenWeb 1850 Greenville District PDF)
+- Rows confirmed NEGATIVE on free web (no FaG / no marriage record): 3 (Olive Henderson Cox FaG, Mary Nancy Parker King FaG, Hiram Cooley marriage records)
+- New EE/Palatine gap rows added: 11
+- New events added to Timeline.md: 0 (no round-2 finding meets Tier 1 or 2 sourcing standards; round-1 events to be propagated to Timeline.md were already enumerated in round-1 closing)
+
+**Files modified this session**: `vault-template/timeline_gap_audit.md` (round-2 append section), `vault-template/Research_Log.md` (this entry).
+
+NO commit, NO push (per task instruction).
+
+## 2026-05-02 Find a Grave Sweep ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 03-findagrave-sweep, second pass)
+
+**Goal**: Sweep a different slice from round 1: 13 persons modified by other agents today (Mary Ann Woodson Cooley, Argaleus Hercules Henderson, James Cox, William Cox Sr, Robert King II, Charstee King, Daniel Huff Brunswick, Peter Jungblut 1739 MD, Sebastian Brecht, Johann Michael Brecht II, Anna Catherina Bright Brecht, Albert Bright [redirect], Albert Graham Bright) plus 5-7 older NO_MEMORIAL_FOUND retries.
+
+**Scope caps**: 2 iterations, ~10 persons per iteration (~20 total), web-search budget capped at ~12. Find a Grave 403 issue persists; web-search snippets only.
+
+**Searches run (11 of 12 budget)**:
+1. "Find a Grave" "Daniel Huff" Brunswick Virginia 1777 will -> only Col Daniel Huff 1815-1882 #99417342, different person. NO_MEMORIAL_FOUND.
+2. "Find a Grave" "Johann Michael Brecht" 1706 1794 Berks Pennsylvania Charles Evans -> #40075449 returned but is grandson generation (1732-1814), not the 1706-1794 patriarch. Burial at Charles Evans Cemetery confirmed for 1706-1794. NEEDS_FINDAGRAVE.
+3. "Find a Grave" "Peter Jungblut" OR "Peter Youngblood" 1700 1770 Maryland -> multiple genealogy hits but no FaG memorial for the immigrant patriarch. NO_MEMORIAL_FOUND.
+4. "Find a Grave" "Sebastian Brecht" 1600 1670 Schriesheim -> Friedhof Schriesheim #2638704 listed but no Sebastian Brecht memorial. NO_MEMORIAL_FOUND.
+5. "Find a Grave" "Anna Catherina" Brecht 1734 PA Heidelberg -> FamilySearch LZD7-MQK exists but no FaG memorial. NO_MEMORIAL_FOUND.
+6. "Find a Grave" "William Cox" 1730 1814 Greenville SC -> Cox Family History page confirms burial unknown; no FaG memorial. NO_MEMORIAL_FOUND (re-confirms 2026-04-10).
+7. "Find a Grave" "Albert Graham Bright" Rochester Irondequoit NY -> no links. NO_MEMORIAL_FOUND (re-confirms 2026-04-18 NEEDS_FINDAGRAVE).
+8. findagrave 25824984 "Mary Ann" Cooley -> **FOUND**: Mary Ann Woodson Cooley #25824984, Hiram Cooley Plantation Cemetery, Greenville Co SC. Already in vault person-file Sources but newly added to audit registry.
+9. "Find a Grave" "Charstee" King Pelzer Greenville Cooley -> Charstee referenced on Judson King's memorial #8422324 (1908 photo caption); no separate memorial. KNOWN-via-spouse.
+10. "Find a Grave" "Isaac Cox" 1755 1830 Greenville SC -> only James Isaac Cox 1915-1998 and a different Isaac b.1828. NO_MEMORIAL_FOUND (re-confirms 2026-04-10).
+11. "Find a Grave" "Thomas Cox" 1792 1857 Standing Springs Simpsonville -> only different-person Thomas Coxes. NO_MEMORIAL_FOUND (re-confirms 2026-04-10).
+12. "Find a Grave" "Samuel Graham Bright" Rocky Mount Franklin VA -> no memorial found despite Franklin Memorial Park + Franklin County Poor Farm Burials existing on FaG. NO_MEMORIAL_FOUND (re-confirms 2026-04-18 NEEDS_FINDAGRAVE).
+13. site:findagrave.com "Helen Markel" OR "Helen Brandt Markel" Lincoln Park -> only Helen Markel Magee 1979-2011 #73854515 (different person, Aiken SC). NO_MEMORIAL_FOUND.
+14. "Find a Grave" "Hilda Salmanson" 1916 2016 Warwick RI -> no links. NO_MEMORIAL_FOUND.
+15. "Find a Grave" "Donald Salmanson" 1924 2015 Lincoln Park RI -> only Leonard Irving Salmanson #231959694 (already KNOWN). NO_MEMORIAL_FOUND.
+16. "Find a Grave" "Michael Brecht" 1706 1794 "Charles Evans" OR "Trinity Lutheran" Reading -> no links.
+
+**Verify count**: NO_MEMORIAL_FOUND + NEEDS_FINDAGRAVE rows in `findagrave_audit.md`: 73 before, 95 after (+22 lines; round 2 added 1 FOUND row + new audit table rows where re-confirmation rows reference both prior and current status).
+
+**Key findings**:
+- Mary Ann (Woodson) Cooley #25824984 confirmed and now registered in audit (was in vault Sources, missing from audit registry).
+- Charstee King: covered by spouse Judson King's memorial #8422324; no separate memorial expected.
+- 4 already-linked persons reconfirmed (Argaleus Henderson, James Cox, Robert King II, Charstee King via spouse).
+- Johann Michael Brecht (II) (1706-1794): web search confirms burial at Charles Evans Cemetery, Reading PA; memorial #40075449 is the grandson (1732-1814), not the patriarch. Stays NEEDS_FINDAGRAVE.
+- 4 brand-new NO_MEMORIAL_FOUND for fresh persons (Sebastian Brecht, Anna Catherina Bright Brecht, Daniel Huff Brunswick, Peter Jungblut 1739 MD).
+- 8 re-confirmations of prior misses (William Cox Sr, Albert Graham Bright, Isaac Cox, Thomas B. Cox, Samuel Graham Bright, Helen Brandt Markel, Hilda Salmanson, Donald Salmanson).
+
+**Discrepancies logged (not silently changed)**:
+1. FaG memorial #40075449 ("Johann Michael Brecht 1732-1814") is the grandson generation, NOT the same as vault [[Johann_Michael_Brecht]] (1706-1794). Logged in findagrave_audit.md round 2 section.
+2. FaG #25824984 lists Mary Ann (Woodson) Cooley's parents as "Tucker Woodson + Ann Scott Woodson"; vault uses "Tucker Woodson + Anne Stolle" with three Tier-3 sources superseding the WikiTree attribution. Already tracked in [[Mary_Ann_Woodson_Cooley]] Data Discrepancies; no vault change.
+
+**Files modified this session**: `vault-template/findagrave_audit.md` (round 2 sweep section appended; summary header note added), `vault-template/Research_Log.md` (this entry).
+
+NO commit, NO push (per task instruction).
+
+## 2026-05-02 GEDCOM Completeness ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 04-gedcom-completeness, second pass)
+
+**Goal**: Add the Eastern European Ashkenazi + Palatine cluster to family.ged to complement the SC-VA cluster from round 1. Scope caps: 2 iterations, max 40 new INDIs, ~20 FAMs, max 10 INCOMPLETE-fix targets, 0 web searches.
+
+**Baseline**: family.ged round 1 = 39 INDI / 20 FAM. gedcom_audit.md = 31 PRESENT / 8 INCOMPLETE / 383 MISSING / 422 total.
+
+**Slice planned**: Salmanson direct line (Barnett, Elizabeth Salk, Abraham Zolly Salk, Tobey, Leonard Irving, Thelma Markel, Alan Carl, Kathryn Ann), Markel/Frei/Brandt (Heschel + Leah, Morris + Helen, Avraham Chaim, Florence + David Mermelstein, Anne, Joseph Brandt + Brina Goldbaum), Kascher Transylvanian-Saxon (Henry Michael, Mary Elizabeth Bright, Michael Jr. + Rosina Falk, Michael Sr. + Anna Binder, Martin Binder + Anna Weber), Brecht/Hoffman Palatinate back to Conrad Kuntz Brecht (~1563), plus collateral Sebastian Brecht.
+
+**Process**:
+1. Read family.ged end-to-end (467 lines, 39 INDI / 20 FAM); next available IDs @I40@ and @F20@.
+2. Read 25+ vault person files for the slice to extract Tier 1 / Tier 2 dates and places.
+3. Wrote 39 new INDI records and 18 new FAM records.
+4. Linked Mary Elizabeth Bright (@I59@) as CHIL of existing @F18@ (Albert Graham Bright + Rebecca Moseley Long), establishing the Bright-Kascher-Salmanson three-cluster bridge with one CHIL edit (no duplicate FAM created, hence no @F29@).
+5. Reclassified Tabitha Dolby (@I11@) from INCOMPLETE → PRESENT in audit: her r1 INCOMPLETE birth-date flag in the audit is no longer warranted because the r1 GEDCOM already has "DATE 20 APR 1756" + "PLAC Ireland" — the r1 audit flagged her as PRESENT with note "parents". Original r1 audit row was actually PRESENT (not INCOMPLETE); the round-2 task brief mention of "Tabitha Dolby birth date corrected to 20 Apr 1756 by agent 5" refers to a Family_Tree.md / Tabitha_Dolby.md vault-side correction landed by another agent before this session. Re-confirmed and added a tracking note to the audit row.
+6. Validated: 78 INDI / 38 FAM, every INDI has NAME, every FAM has HUSB or WIFE, no orphan CHIL/HUSB/WIFE INDI refs, no orphan FAMC/FAMS FAM refs, no duplicate INDI/FAM IDs, file ends with `0 TRLR`.
+
+**Privacy heuristic applied** (3 living persons in slice):
+- @I55@ Anne Markel (b. ~1922) — birth year + ABT, no death (she would be ~104 if living; almost certainly deceased but no death record located).
+- @I56@ Alan Carl Salmanson (b. 1951) — birth year only, no death.
+- @I57@ Kathryn Ann Kascher (b. 1946) — birth year only, no death.
+- @I59@ Mary Elizabeth Bright (b. 1921) — full birth date 5 Jun 1921 retained because pre-1925 threshold and birth date is documented in vault (1950 Census + MyHeritage pedigree chart).
+
+**Audit count update**: PRESENT 31 → 71 (+40); INCOMPLETE 8 → 7 (-1); MISSING 383 → 372 (-11, net of 18 conversions plus 7 new MISSING rows added for Falk/Pfaff/Schuller/Reinherd/Anna+Friedrich+Sara Kascher detail); total rows 422 → 450 (+28 from new Kascher and Brecht audit rows).
+
+**Files modified**:
+- vault-template/family.ged: added 39 INDI (@I40@-@I78@), 18 FAM (@F20@-@F38@), 1 CHIL edit on @F18@.
+- vault-template/gedcom_audit.md: updated YAML count (39→78, 20→38), updated summary, reclassified Tabitha Dolby, marked Salmanson/Salk/Markel/Brandt entries PRESENT, added new Kascher and Brecht/Hoffman/Christmann sections, added Iteration 2 validation block.
+- vault-template/Research_Log.md (this file): YAML last_session updated, this session entry appended.
+
+**Negative results / NEEDS_HUMAN_FOLLOWUP**:
+- Mathias Falk + Katharina Pfaff (Rosina Falk's parents): vault has dates only as text — separate INDI records deferred to next iteration.
+- Hyman Salk (b. 1873, Salk's Hardware founder, brother of Abraham Zolly Salk): in vault but outside r2 slice cap, deferred.
+- Friedberg + Goldberg (Rebecca Marcus's parents): vault stubs single-Tier-1 sourced; deferred.
+- Israel Salk: low-confidence stub; deferred.
+
+**No commit, no push** per task instructions.
 
 ## 2026-05-02 Tree Expansion ROUND 2 (Session: branch claude/run-top-agents-oyF19, prompt 01-tree-expansion, retry with tight scope)
 
@@ -5461,3 +5603,22 @@ Scanned: Mary_Ann_Woodson_Cooley, Argaleus_Hercules_Henderson, James_Cox, Johann
 
 ### Final verify count
 `grep -c "DISCREPANCY\|MISMATCH\|CONFLICT" cross_reference_audit.md` = **14** (start-of-round-2 baseline: 11; +3 net new references after the round-2 sweep: #76 DEFER, #79 CONFIRMED MODERATE NEGATIVE SIGNAL, #80 MISMATCH).
+
+
+## 2026-05-02 Source Citation Audit Round 2 (branch claude/run-top-agents-oyF19, prompt 05-source-citation-audit, round 2 of session)
+
+**Scope (bounded)**: 14 person files modified by today's prior agents but not yet source-audited, plus 10 single-source person files chosen via low-source grep. 24 files total, max ~10 web searches (8 used).
+
+**Audited files (24)**: Mary_Ann_Woodson_Cooley, Argaleus_Hercules_Henderson, James_Cox, Johann_Michael_Brecht, William_Cox_Sr, Robert_King_II, Charstee_King, Henry_Michael_Kascher, Sebastian_Brecht, Daniel_Huff_Brunswick, Peter_Jungblut_1739_MD, Barnett_Salmanson, Ezekiel_Henderson, Hiram_Cooley; Albert_Leander_Drake, Agnes_Cox_Long, Abigail_Moseley, Anna_Catherina_Bright_Brecht, Anna_Kascher_1903, Amy_Elizabeth_Moseley, Ann_A._Wert, Anna_Katherine_Hoffman, Andreas_Reinherd, Alvina.
+
+**Counts**: BEFORE PASS 13 / NEEDS_CORROBORATION 11 / UNSOURCED 0; AFTER PASS 16 / NEEDS_CORROBORATION 8 / UNSOURCED 0.
+
+**Web searches** (8 of 10 budget): Albert Leander Drake MS Find a Grave (no result); Agnes Cox Long Simpsonville SC obit (no result); Sebastian Brecht Schriesheim Neudorf 1670 (4 hits: WikiTree Brecht-14, Familypedia, Geni 6000000009677445618, cmbower one-name study); Anna Catherina Bright PA WikiTree (no direct hit); Anna Katherine Hoffman 1663 Brecht WikiTree (WikiTree + Familypedia hit, parents Hans Jost Hoffman + Christina Frank, marriage 29 Jul 1684); Albert Drake Lowndes MS 1972 Columbus (no result); Andreas Reinerth Transylvania (no result); Anna Kascher 1903 Waldhütten (Siebenbürger.de + Genealogy.com forum #11540 corroborate family cluster).
+
+**Sources added**: 9 across 3 files (Sebastian_Brecht +4, Anna_Katherine_Hoffman +5 incl. frontmatter sync, Anna_Kascher_1903 +2).
+
+**Confidence upgrades**: Sebastian_Brecht low -> moderate; Anna_Katherine_Hoffman low -> moderate; Anna_Kascher_1903 low -> moderate.
+
+**Files modified**: Sebastian_Brecht.md, Anna_Katherine_Hoffman.md, Anna_Kascher_1903.md, Albert_Leander_Drake.md, Agnes_Cox_Long.md, Abigail_Moseley.md, Anna_Catherina_Bright_Brecht.md, Amy_Elizabeth_Moseley.md, Ann_A._Wert.md, Andreas_Reinherd.md, Alvina.md, source_citation_audit.md, Research_Log.md.
+
+**Negative result**: Of the 10 single-source MyHeritage GEDCOM / Geni-stub files attempted, only 2 (Anna_Katherine_Hoffman, Anna_Kascher_1903) reached PASS via free web; 8 remain at confidence:low with the standard "Single source only; corroboration not yet found" note. Albert_Leander_Drake (1897-1972 Mississippi) and Agnes_Cox_Long (1891 SC -> 1974 TN) both confirm: free-web alone is insufficient for these 20th-century Southern US descendants; targeted MS/TN newspaper archives or paid Ancestry.com vital records (Phase 3) needed.

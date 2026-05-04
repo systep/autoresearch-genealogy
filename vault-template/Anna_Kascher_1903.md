@@ -4,12 +4,13 @@ name: "Anna Kascher (1903)"
 born: 1903-05-17
 died: unknown
 family: "Kascher"
-confidence: low
+confidence: moderate
 sources:
   - "Waldhutten church certificate 'KINDER' (Tier 1, 10 Feb 1938)"
+  - "Siebenbürger.de Ortsfamilienbuch references for Anna Binder (mother, b. 1868 Kreisch, d. 1915 Waldhütten/Valchid) corroborating the Kascher-Binder Waldhütten household into which Anna 1903 was born (Tier 2, located via WebSearch 2026-05-02)"
+  - "Genealogy.com Austria forum thread #11540 'need to find Georg Kascher, Wurmloch' corroborating Kascher Transylvanian-Saxon family Wurmloch/Waldhütten cluster (Tier 3, located via WebSearch 2026-05-02)"
 created: 2026-04-13
 tags: [genealogy, kascher, person, transylvania, ohio, transylvanian-saxon]
-confidence: low
 ---
 
 # Anna Kascher (1903)
@@ -37,6 +38,8 @@ The 1935 obituary of her father lists two daughters among survivors: "Mrs. Marti
 | Document | Type | Vault Note |
 |---|---|---|
 | Waldhutten church certificate "KINDER" (10 Feb 1938) | Church record (Tier 1) | Birth date 17 Mai 1903 |
+| Siebenbürger.de Ortsfamilienbuch entry for Anna Binder (mother) | Compiled village/regional source (Tier 2) | https://www.siebenbuerger.de/ortschaften/suche/anna/seite5.html; corroborates Anna Binder b. 1 Apr 1868 Kreisch, d. 18 Oct 1915 Valchid (Waldhütten); locates Anna 1903's household. |
+| Genealogy.com Austria forum thread #11540 "need to find Georg Kascher, Wurmloch" | Compiled forum genealogy (Tier 3) | https://www.genealogy.com/forum/regional/countries/topics/austria/11540/; situates Kascher Wurmloch/Waldhütten Transylvanian Saxon cluster. |
 
 ## Data Discrepancies
 
