@@ -888,3 +888,22 @@ Research gaps and unresolved questions, organized by priority and family line. U
 - **Next step**: (1) Search Find a Grave for Nathan Fain and Lena Fain at Lincoln Park Cemetery (browser). (2) Search 1920 Census for Nathan Fain household, Providence. (3) Obtain RI death records for Lena and Nathan. (4) Check if Irving I. Fain and Alfred Fain appear in the same 1930/1940 census.
 - **Solvability**: HIGH (census records, vital records, and cemetery records should all exist)
 - **Payoff**: HIGH (completes a previously unknown branch of the Salk family; TWO notable Providence Jewish businesses connected)
+
+### 37. Anne Stolle (1777-1823) — parents/origin (NEW 2026-05-02 tree-expansion round 3)
+- **Status**: OPEN. Anne Stolle is Tucker Moore Woodson's second wife (m. before 1803) and the mother of [[Mary_Ann_Woodson_Cooley|Mary Ann Woodson Cooley]] (1803-1850). Free-web search 2026-05-02 (queries "Anne Stolle 1777 1823 Woodson Virginia parents", "Anne Stoll OR Anne Stolle Pittsylvania Virginia 1777 parents father") surfaces only Geni profile 6000000032977088051 / 6000000087403338860 (Anne Woodson born Stoll 1777-1823, b. Pittsylvania VA, m. Tucker Woodson, daughter Charlotte "Lotty" Johnson born Woodson, son Murry Woodson). NEITHER Geni profile names her father or mother.
+- **Searched (2026-05-02)**: 2 web searches. No Tier 2 web genealogy names her parents. The Stolle/Stoll surname is uncommon in 1770s Pittsylvania Co VA; possible German Palatine origin (Stoll/Stolle is a Swiss-German surname).
+- **Solvability**: MODERATE. Pittsylvania Co VA tax/tithe lists 1770s-1780s, marriage bonds, will books should be searched for Stoll/Stolle/Stoll- surname males of marriageable age in 1790s-1800s. FamilySearch Pittsylvania Co VA wiki and the "Patriots Who Took the Oath of Allegiance, 1777, Pittsylvania County, Virginia" (FamilySearch catalog #2538132) are pointer-level resources.
+- **Payoff**: MODERATE (one generation back on a maternal line that connects to Charstee King -> Judson King -> SC line).
+
+### 38. Jacob Cooley Sr. (1735-1820) — parents (NEW 2026-05-02 tree-expansion round 3)
+- **Status**: OPEN, single Tier 3 source. WebSearch 2026-05-02 surfaced Geni 6000000033451865859 attributing his parents as **Abraham COWLEY and Anne WARE**. The Cooleys-and-Crafts Family History Project (gapeach2.wordpress.com 2014/02/24) page for Jacob 1735-1820 was already cited in [[Jacob_Cooley_Jr]]; whether that page names Jacob Sr.'s parents has not been re-read this session.
+- **Conflicts**: Geni dates have him b. 1735 Henrico VA, d. 25 Aug 1820 SC; another source (Greenville District SC will probated 28 Feb 1816) implies death 1815/1816. Wife: Sarah Jordan (m. ~1754 Cumberland Co VA), per Geni.
+- **Solvability**: MODERATE. Virginia Henrico/Cumberland/Pittsylvania Co will books and Greenville District SC probate (1816 will probate) should give parent attribution and resolve the death-year conflict.
+- **Payoff**: MODERATE-HIGH (one generation back on the Cooley line, plus resolves a death-date discrepancy).
+
+### 39. Tucker Moore Woodson birth year: vault 1762 vs Geni/FamilySearch/WikiTree 1777 (NEW 2026-05-02 tree-expansion round 3)
+- **Status**: OPEN, NOT modified per Guard Rail #3 (do not modify dates during tree expansion). Vault [[Mary_Ann_Woodson_Cooley]] and Family_Tree.md record Tucker Woodson (Mary Ann's father) as 1762-1831. Three Tier 3 web sources (Geni 6000000084514614854, FamilySearch ancestors, WikiTree-derived) record him as Tucker MOORE Woodson b. 1777 Albemarle Co VA, d. 1831 Greenville SC. The 1777 date is more consistent with his parents' 1765 Albemarle marriage and his mother Elizabeth Moore being born 1742.
+- **Implication**: If Tucker Moore Woodson was b. 1777 (not 1762), then he was age 26 at Mary Ann Woodson's 1803 birth, age 46 at his second wife Anne Stolle's 1823 death, and age 54 at his own 1831 death — all consistent. The 1762 vault date would imply Tucker Sr.'s grandfather generation, not the recorded Tucker Jr. + Elizabeth Moore son.
+- **Solvability**: HIGH (Albemarle Co VA tax lists 1790s-1810s, Greenville SC 1820/1830 census, will/probate of Tucker M. Woodson 1831 should resolve).
+- **Payoff**: HIGH (resolves a 15-year discrepancy in a recently-corrected lineage; primary-source generation count).
+- **Routed to**: cross_reference_audit.md (next pass).
